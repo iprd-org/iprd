@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="" group-title="", 97fm Rádio Clube de Pombal
 http://radioclubepombal.no-ip.biz:8081/stream
-#EXTINF:-1 tvg-logo="" group-title="", 97fm Rádio Clube de Pombal
-http://radioclubepombal.no-ip.biz:8081/stream
 #EXTINF:-1 tvg-logo="https://www.wix.com/favicon.ico" group-title="jazz fusion,nu-jazz,smooth jazz",4Drive Jazz
 http://radio.streemlion.com:1150/stream
 #EXTINF:-1 tvg-logo="" group-title="",91FM
@@ -151,8 +149,6 @@ https://centova.radio.com.pt/proxy/425?mp=/stream
 http://109.71.41.6:8129/stream
 #EXTINF:-1 tvg-logo="https://capsao.pt/upload/design/5ddd3fc0e3c754.24962476.png" group-title="international",Radio Capsao
 http://str0.creacast.com/capsao_a
-#EXTINF:-1 tvg-logo="https://www.radiocardal.com/cardalfm/uploads/2018/04/cropped-cardaf-fm-icone-180x180.png" group-title="",Rádio Cardal - 87.6 FM
-https://nl.digitalrm.pt:8204/stream
 #EXTINF:-1 tvg-logo="https://www.radiocardal.com/cardalfm/uploads/2018/04/cropped-cardaf-fm-icone-180x180.png" group-title="",Rádio Cardal - 87.6 FM
 https://nl.digitalrm.pt:8204/stream
 #EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s82194q.png" group-title="pop,top 40,variety",Rádio Caria
@@ -339,8 +335,6 @@ http://radiocast.rtp.pt/zigzag80a.mp3
 http://185.32.188.17:8097/stream
 #EXTINF:-1 tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/10/41/18993/1/c175.png" group-title="hits,local news,news",RCI Net 105.5 FM
 http://213.239.218.99:7032/stream/1/
-#EXTINF:-1 tvg-logo="" group-title="",RComercial
-http://media3.mcr.iol.pt/livefm/comercial.mp3/icecast.audio
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s25214d.png" group-title="african music,local music,news,podcast",RDP África
 http://radiocast.rtp.pt/rdpafrica80a.mp3
 #EXTINF:-1 tvg-logo="https://img0.rtp.pt/rdpinternacional/images/apple-touch-icon.png-120x120.png" group-title="",RDP Internacional

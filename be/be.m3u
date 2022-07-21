@@ -187,8 +187,6 @@ https://streamingp.shoutcast.com/NRJ
 https://goeiedag.radiostudio.be/oilsjt
 #EXTINF:-1 tvg-logo="" group-title="90s,dance,eurodance",Only90sRadio
 http://stream.radio.co/s5709ea2c0/listen
-#EXTINF:-1 tvg-logo="https://www.organroxx.com//web/image/website/1/favicon/" group-title="orgel",Orgelradio
-http://radio.organroxx.com:8000/freestream.mp3
 #EXTINF:-1 tvg-logo="" group-title="",Pep's Radio
 https://behofm.ice.infomaniak.ch/behofm.mp3
 #EXTINF:-1 tvg-logo="https://www.proxiradio.net/images/favicon.ico" group-title="80's,90's",Proxi Radio
@@ -202,10 +200,6 @@ http://23543.live.streamtheworld.com:80/QMUSIC.mp3
 #EXTINF:-1 tvg-logo="" group-title="",Q music Foute Radio
 http://20723.live.streamtheworld.com/QFOUTERADIO.mp3
 #EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s308756/images/logog.png" group-title="",Q Music Maximum Hits
-http://20723.live.streamtheworld.com/QMAXIMUMHITS.mp3
-#EXTINF:-1 tvg-logo="" group-title="hits,pop,pop music,top 40",Q-Foute Radio
-http://20723.live.streamtheworld.com/QFOUTERADIO.mp3
-#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s308756/images/logog.png" group-title="2000s,2010s,classic hits,dance,hits,top 40",Q-Maximum Hits
 http://20723.live.streamtheworld.com/QMAXIMUMHITS.mp3
 #EXTINF:-1 tvg-logo="http://qmusic.be/favicon.ico" group-title="pop",Q-Music
 http://25703.live.streamtheworld.com:80/QMUSIC.mp3
@@ -425,8 +419,6 @@ http://23553.live.streamtheworld.com:80/RADIO_2_VLAAMSBR_AAC.aac
 http://23553.live.streamtheworld.com:80/RADIO_2_WESTVL_128.mp3
 #EXTINF:-1 tvg-logo="" group-title="rock",VRT Studio Brussel - Bruut
 http://icecast-servers.vrtcdn.be/stubru_bruut-high.mp3
-#EXTINF:-1 tvg-logo="https://stubru.be/images/ios/touch-icon-iphone-retina.png?v=2019" group-title="electronic",VRT Studio Brussel Untz
-http://icecast-servers.vrtcdn.be/stubru_untz-high.mp3
 #EXTINF:-1 tvg-logo="https://i3.radionomy.com/radios/400/0990ed5f-6121-4af2-be84-9827b8c1c4a4.png" group-title="electronic",Warm FM 104.2
 http://stream05.warm.fm:9002/warm
 #EXTINF:-1 tvg-logo="https://i.ibb.co/khs8V7M/willyfavicon.png" group-title="",Willy

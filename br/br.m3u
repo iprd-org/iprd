@@ -49,8 +49,6 @@ http://srv4.zoeweb.tv:1935/z18-live/stream/chunklist_w1735907665.m3u8
 http://stm8.srvstm.com:8212/;
 #EXTINF:-1 tvg-logo="" group-title="classical",Amigos de Cristo Web Rádio 
 http://sv14.hdradios.net:6860/;?type=http&nocache=38
-#EXTINF:-1 tvg-logo="" group-title="classical",Amigos de Cristo Web Rádio 
-http://sv14.hdradios.net:6860/;?type=http&nocache=38
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio90860_1551978811.png" group-title="",Amor FM
 https://r10.ciclano.io:15067/stream
 #EXTINF:-1 tvg-logo="https://www.antena1.com.br/apple-touch-icon.png" group-title="",Antena 1  - Porto Alegre
@@ -223,8 +221,6 @@ http://node-23.zeno.fm/duppd1ufqm0uv?rj-ttl=5&rj-tok=AAABfdqGkFgAdX2xPCGUf8sm7g
 http://cast.midiaip.com.br:6130/stream
 #EXTINF:-1 tvg-logo="" group-title="forró",Fay Só Forró das Antigas
 https://ssl.xcast.com.br:7132/stremig
-#EXTINF:-1 tvg-logo="" group-title="forró",Fay Só Forró das Antigas
-https://ssl.xcast.com.br:7132/stremig
 #EXTINF:-1 tvg-logo="https://felizfm.fm/wp-content/uploads/2019/12/favicon-feliz-150x150.png" group-title="",FELIZ FM SP
 http://felizfm.sateg.com.br:11520/
 #EXTINF:-1 tvg-logo="" group-title="decades",filhologico
@@ -302,8 +298,6 @@ http://centova17.ciclanohost.com.br:8405/
 #EXTINF:-1 tvg-logo="" group-title="#pop",Imparsom FM Governador Valadares
 http://wz3.dnip.com.br/imparsomhd/imparsomhd.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Bnq232CJ/INTHEMIXBRASIL.png" group-title="pop,top hits",In The Mix Brasil
-https://inthemixbrasil.radioca.st/stream
-#EXTINF:-1 tvg-logo="" group-title="",In The Mix Brasil®
 https://inthemixbrasil.radioca.st/stream
 #EXTINF:-1 tvg-logo="" group-title="",Ipanema
 http://104.238.205.43:8290/stream
@@ -812,8 +806,6 @@ http://stream.novotempo.com:1935/radio/radionovotempo.stream/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YhdtDCW/radionovotempo.jpg" group-title="adventist,christian,gospel",Rádio Novo Tempo
 https://stream.live.novotempo.com/radio/smil:radionovotempo.smil/live.m3u8
 #EXTINF:-1 tvg-logo="https://www.nuevotiempo.org/wp-content/uploads/sites/6/2020/03/logo-teste-novo-tempo-02-ES.png" group-title="ccm,gospel",Radio Nuevo Tiempo
-http://stream.novotempo.com:1935/radio/radionuevotiempo.stream/live.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/a/kP3twXv.jpg" group-title="ccm,gospel,inspirational,motivational",Radio Nuevo Tiempo
 http://stream.novotempo.com:1935/radio/radionuevotiempo.stream/live.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiooestefm.com.br/favicon.ico" group-title="variety",Radio Oeste FM 94,5
 http://radio.viaflux.com:5599/live

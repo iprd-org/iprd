@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="" group-title="rock",  ICE RADIO
 https://stream.iceradio.nl/iceradiohq?ver=30283
-#EXTINF:-1 tvg-logo="" group-title="rock",  ICE RADIO
-https://stream.iceradio.nl/iceradiohq?ver=30283
 #EXTINF:-1 tvg-logo="" group-title="pop",1.fm movie Sound
 http://185.33.21.112/moviesoundtracks_128
 #EXTINF:-1 tvg-logo="http://watiseropderadio.nl/img/radio-thumbnails/100-procent-nl.jpg" group-title="",100% NL
@@ -41,16 +39,12 @@ http://radioheiloo.no-ip.info:8010/
 http://stream.deejays.nl/beatclassics.aac
 #EXTINF:-1 tvg-logo="" group-title="classical",Beethoven Channel
 https://beethovenchannel.radioca.st/;
-#EXTINF:-1 tvg-logo="https://beethovenchannel.com/favicon.png" group-title="",Beethoven Channel
-https://beethovenchannel.radioca.st/;
 #EXTINF:-1 tvg-logo="" group-title="geleen,lokale omroep,sittard,streekomroep,urmond,westelijke mijnstreek",Bie Os
 https://olon.az.icecast.ebsd.ericsson.net/bieos_mijn_streekomroep
 #EXTINF:-1 tvg-logo="https://www.bigb21.nl/img/favicon.png" group-title="00's,10's,90's,hits",BigB21
 http://stream.b21fm.nl:9010/
 #EXTINF:-1 tvg-logo="https://i1.wp.com/blackwoodfm.com/wp-content/uploads/2020/04/cropped-favicon.png?fit=180%2c180&#038;ssl=1" group-title="00's,80's,90's,hits",Blackwwod FM
 http://server-24.stream-server.nl:8326/stream
-#EXTINF:-1 tvg-logo="" group-title="misc",Blues
-http://stream.arrowbluesbox.nl/bluesboxonline
 #EXTINF:-1 tvg-logo="https://www.bnr.nl/img/bnr/static/logo.png" group-title="business,business news,netherlands,news",BNR Nieuwsradio
 https://23603.live.streamtheworld.com:443/BNR_NIEUWSRADIOAAC.aac?dist=other
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2aBSCDc01nV4FZi8tSyhFf5wzq8oohaSDioweX4t9n_Nm4DCrqw" group-title="alternative,dutch",Bonanza XL
@@ -397,8 +391,6 @@ http://caster02.streampakket.com:8636/stream
 http://server-27.stream-server.nl:8734/stream
 #EXTINF:-1 tvg-logo="" group-title="",Nova Classic Rock
 http://server-51.stream-server.nl:8427/
-#EXTINF:-1 tvg-logo="" group-title="classic rock,rock",Nova Classic Rock nl 
-http://212.48.126.146:8040/
 #EXTINF:-1 tvg-logo="https://novira.nl/wp-content/uploads/2018/10/Website-Favicon.png" group-title="",Novira
 http://stream.novira.nl:8000/mp3
 #EXTINF:-1 tvg-logo="" group-title="",NPO 2
@@ -691,8 +683,6 @@ https://stream01.sthhost.nl:8020/live
 http://ro3.reformatorischeomroep.nl:8072/live
 #EXTINF:-1 tvg-logo="https://reformatorischeomroep.nl/favicon.ico" group-title="christelijk",Reformatorische Omroep Radio 3
 https://stream01.sthhost.nl:8072/live
-#EXTINF:-1 tvg-logo="https://reformatorischeomroep.nl/favicon.ico" group-title="christelijk",Reformatorische Omroep Radio 3
-https://stream01.sthhost.nl:8072/live
 #EXTINF:-1 tvg-logo="https://www.ridderradio.com/favicon.ico" group-title="",Ridder radio
 http://138.201.141.161:8205/rr
 #EXTINF:-1 tvg-logo="http://www.rtvmaastricht.nl/rtvmaastricht_nl/images/favicon/apple-touch-icon.png" group-title="maastricht,top 40",RTV Maastricht 107.5
@@ -770,8 +760,6 @@ http://node-35.zeno.fm/ug9uxyc61s8uv?rj-ttl=5&rj-tok=AAABfd4ilakABScKMxcGxUg_Eg
 #EXTINF:-1 tvg-logo="http://vpstv.alwaysdata.net/RADIOLOGO/tasmall.png" group-title="folk,world music",Studio TwentsAccent
 http://ruby.torontocast.com:2610/stream
 #EXTINF:-1 tvg-logo="https://studio040.nl/studio040_nl/images/favicon/apple-touch-icon.png" group-title="",Studio040
-https://stream.studio040.nl/studio040.mp3
-#EXTINF:-1 tvg-logo="https://www.studio040.nl/studio040_nl/images/favicon/apple-touch-icon.png" group-title="",Studio040 Eindhoven
 https://stream.studio040.nl/studio040.mp3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Z5w6Md75/Logo-Sublime-De-Leckere-Donkere-achtergrond.png" group-title="jazz",Sublime - Arrow Jazz
 http://25293.live.streamtheworld.com:80/SUBLIMEARROWJAZZ.mp3

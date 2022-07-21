@@ -113,8 +113,6 @@ https://extra.mediacp.eu/stream/RadioParada,o.z.
 http://live.radiopiestany.sk:8000/live.mp3
 #EXTINF:-1 tvg-logo="http://rebeca.sk/wp-content/uploads/2015/04/logo_radio_rebeca.png" group-title="pop,top 40",Rádio Rebeca
 http://allnet.radionet.sk:8000/radiorebeca.mp3
-#EXTINF:-1 tvg-logo="https://www.radia.sk/_radia/loga/nadpis/rebeca.webp?v=1" group-title="classic rock,new rock,pop rock",Rádio Rebeca
-http://allnet.radionet.sk:8000/radiorebeca.mp3
 #EXTINF:-1 tvg-logo="https://www.radiorocksv.eu/favicon.ico" group-title="",Rádio Rock SV
 https://s2.myradiostream.com/:4870/listen.mp3
 #EXTINF:-1 tvg-logo="https://radiosirava.sk/wp-content/uploads/2019/10/favicon.120png.png" group-title="",Rádio Šírava
@@ -131,8 +129,6 @@ http://stream.theend.sk/theend_320
 https://stream.tlis.sk/tlis.mp3
 #EXTINF:-1 tvg-logo="https://www.radia.sk/_radia/loga/nadpis/viva.webp?v=1" group-title="various",Rádio Viva
 http://stream.sepia.sk:8000/viva128.mp3
-#EXTINF:-1 tvg-logo="" group-title="local news,local radio,pop",Radio Viva Metropol
-http://stream.sepia.sk:8000/viva128.mp3
 #EXTINF:-1 tvg-logo="https://cloudia.cms.radioservices.sk/r120x120/763b847a-051e-4252-9c04-7e4da78b88c6.png" group-title="oldies",Rádio Vlna
 http://stream.radiovlna.sk/vlna-hi.mp3
 #EXTINF:-1 tvg-logo="https://cloudia.cms.radioservices.sk/r120x120/763b847a-051e-4252-9c04-7e4da78b88c6.png" group-title="christmas,pop",Rádio Vlna - Vianočný stream
@@ -144,8 +140,6 @@ http://stream.rusyn.fm/rusyny-low.mp3
 #EXTINF:-1 tvg-logo="https://www.radia.sk/_radia/loga/coverflow/rusyn-fm.png" group-title="ethnic,folklore",RusynFM
 http://stream.rusyn.fm/rusyny.mp3
 #EXTINF:-1 tvg-logo="https://www.radia.sk/_radia/loga/nadpis/sky.webp?v=1" group-title="various music",SKY Rádio
-http://stream.skyradio.sk:8000/sky128
-#EXTINF:-1 tvg-logo="http://skyradio.sk/img/fav.png" group-title="local news,news,pop",SKY Rádio
 http://stream.skyradio.sk:8000/sky128
 #EXTINF:-1 tvg-logo="" group-title="",Sllobodný vysielač
 http://159.69.219.5:8010//aac
@@ -181,8 +175,6 @@ http://icecast.stv.livebox.sk/litera_128.mp3
 http://live.slovakradio.sk:8000/Junior_128.mp3
 #EXTINF:-1 tvg-logo="" group-title="",SRo9 Rádio Junior (256k)
 http://live.slovakradio.sk:8000/Junior_256.mp3
-#EXTINF:-1 tvg-logo="http://www.tlis.sk/assets/apple-touch-icon-120x120.png" group-title="",TLIS Rádio
-https://stream.tlis.sk/tlis.mp3
 #EXTINF:-1 tvg-logo="https://www.trnavskeradio.sk/assets/default/img/favicon/apple-touch-icon.png" group-title="",Trnavské rádio
 http://stream.trnavskeradio.sk/trnavske
 #EXTINF:-1 tvg-logo="" group-title="dance,retro",tvojeradio.com/Gold 80"-90"

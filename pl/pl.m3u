@@ -73,8 +73,6 @@ http://waw01-02.ic.smcdn.pl:8000/2140-1.mp3
 https://ext03.ic.smcdn.pl/5380-1.aac
 #EXTINF:-1 tvg-logo="" group-title="classical",Eska Tarnów
 http://waw01-02.ic.smcdn.pl:8000/2160-1.mp3
-#EXTINF:-1 tvg-logo="" group-title="pop",Eska Trójmiasto
-https://radio.stream.smcdn.pl/icradio-p/2170-1.aac/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="electronic",Eska Warszawa
 http://waw01-01.ic.smcdn.pl:8000/2380-1.aac
 #EXTINF:-1 tvg-logo="https://www.eska.pl/favicon.ico" group-title="dance,pop",Eska Wrocław
@@ -1029,8 +1027,6 @@ http://air.racyja.com:8000/aacp128
 http://stream4.nadaje.com:9220/ram
 #EXTINF:-1 tvg-logo="https://www.radioram.pl/img/layout/logo.png" group-title="indie,lounge,lounge music,pop,pop music,smooth jazz,smothjazz",Radio RAM (AAC)
 http://stream2.nadaje.com:9228/ram.aac
-#EXTINF:-1 tvg-logo="https://www.radioram.pl/img/layout/logo.png" group-title="lounge music,pop,smooth jazz",Radio RAM (MP3)
-http://stream4.nadaje.com:9220/ram
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/6/1436.v4.png" group-title="pop",Radio Rekord
 https://stream3.nadaje.com:8007/radom2
 #EXTINF:-1 tvg-logo="http://www.radiorekord.pl//favicon.ico" group-title="pop",Radio Rekord FM
@@ -1129,8 +1125,6 @@ http://zt03.cdn.eurozet.pl/zet-old.mp3?redirected=03
 https://zt04.cdn.eurozet.pl/ZET200.mp3
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/7/1597.v6.png" group-title="pop",Radio ZET - Gold Italo
 https://zg03.cdn.eurozet.pl/ZGLITA.mp3?redirected=03
-#EXTINF:-1 tvg-logo="" group-title="r&b/urban",Radio ZET Alternatywa
-https://zt04.cdn.eurozet.pl/ZETALT.mp3
 #EXTINF:-1 tvg-logo="" group-title="r&b/urban",Radio ZET Alternatywa
 https://zt04.cdn.eurozet.pl/ZETALT.mp3
 #EXTINF:-1 tvg-logo="http://rzg.pl/favicon.ico" group-title="",Radio Zielona Góra 97.1
