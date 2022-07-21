@@ -1,0 +1,105 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://alfaradio.by/icons/120x120.png" group-title="",Alfaradio
+http://live.alpha.by:8000/alpha
+#EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/logo/5/385.v9.png" group-title="relax",Aplus - Relax
+https://s.aplus.fm/aplus_relax_64
+#EXTINF:-1 tvg-logo="" group-title="",Aplus Deep (aac, 48 kb/s)
+http://s.aplus.fm:9000/aplus_deep_48.aac
+#EXTINF:-1 tvg-logo="" group-title="",Aplus One (aac, 16 kb/s)
+http://s.aplus.fm:9000/aplus_16.aac
+#EXTINF:-1 tvg-logo="" group-title="",Aplus Relax (aac,24 kb/s)
+http://s.aplus.fm:9000/aplus_relax_24.aac
+#EXTINF:-1 tvg-logo="" group-title="ambient,chillout,psybient,psychill",Aplus Relax 128
+https://s.aplus.fm/aplus_relax_128
+#EXTINF:-1 tvg-logo="http://humorfm.by/favicon.ico" group-title="humor,humor fm,humor fm minsk",humor fm Minsk
+http://live.humorfm.by:8000/veseloe
+#EXTINF:-1 tvg-logo="http://lebulbeaux.com/images/favicon.png" group-title="best,music",Lebulbeaux
+http://91.149.189.150:8000/bulbeaux
+#EXTINF:-1 tvg-logo="https://liderfm.by/wp-content/uploads/2018/12/cropped-logo_f-180x180.png" group-title="chr",Lider FM
+https://icecast.lider-fm.by/liderfm
+#EXTINF:-1 tvg-logo="http://loveisradio.by/gallery_gen/5d379494eea729c6053eb80f69389951.png" group-title="",Love Is Radio Belarus
+https://listen1.myradio24.com/3355
+#EXTINF:-1 tvg-logo="" group-title="",PilotFM
+https://stream.hoster.by/pilotfm/pilot/icecast.audio
+#EXTINF:-1 tvg-logo="http://radio123.by/favicon.ico" group-title="christian",Radio "123" Christian radio. Belarus.
+http://93.84.112.253:8036/stream
+#EXTINF:-1 tvg-logo="http://4you-fm.ru/assets/images/favicon/apple-touch-icon-new.png" group-title="",Radio 4 YoU
+http://213.239.218.99:7154/stream?type=http&nocache=587441
+#EXTINF:-1 tvg-logo="https://4you-fm.ru/assets/images/favicon/apple-touch-icon-new.png" group-title="dance,edm,electronic,house,top 40,trance",Radio 4you
+http://a1.radioheart.ru:8003/RH17982
+#EXTINF:-1 tvg-logo="https://radioplato.by//favicon.ico?v=BG77QLOy5Q" group-title="",Radio Plato
+https://azura.radioplato.by/radio/8000/radio.mp3
+#EXTINF:-1 tvg-logo="http://rawsound.by//rawsound/style/shortcut.ico" group-title="metal",Rawsound
+http://stream.rawsound.by:8080/
+#EXTINF:-1 tvg-logo="" group-title="metal",Rawsound mobile
+http://stream.rawsound.by:8090/
+#EXTINF:-1 tvg-logo="https://unistar.by/favicon-32x32.png" group-title="minsk,pop,unistar,беларусь,минск,эфир",Unistar
+https://stream.hoster.by/unistar/unistar-128kb/icecast.audio
+#EXTINF:-1 tvg-logo="http://wargaming.fm/wp-content/themes/wargaming_radio/static/img/favicon.ico" group-title="information,music,wargaming",Wargaming.FM Main channel
+http://sv.wargaming.fm:8051/128?source=player
+#EXTINF:-1 tvg-logo="http://wargaming.fm/wp-content/themes/wargaming_radio/static/img/favicon.ico" group-title="information,music,rock,wargaming",Wargaming.FM Rock
+http://sv.wargaming.fm:8054/128?source=player
+#EXTINF:-1 tvg-logo="http://wargaming.fm/wp-content/themes/wargaming_radio/static/img/favicon.ico" group-title="information,music,wargaming",Wargaming.FM Second Channel
+http://sv.wargaming.fm:8052/128?source=player
+#EXTINF:-1 tvg-logo="http://wargaming.fm/wp-content/themes/wargaming_radio/static/img/favicon.ico" group-title="information,music,trance,wargaming",Wargaming.FM Trance
+http://sv.wargaming.fm:8053/128?source=player
+#EXTINF:-1 tvg-logo="" group-title="local news,mainstream,top 40",Zефир FM
+http://178.124.152.212:8008/Zefir
+#EXTINF:-1 tvg-logo="http://avtoradio.by/media/cache/player_current/empty.png" group-title="rock",Авторадио
+http://live.humorfm.by:8000/avtoradio-high
+#EXTINF:-1 tvg-logo="http://avtoradio.by/media/cache/player_current/empty.png" group-title="classic rock,rock,rock hits",Авторадио
+http://live.humorfm.by:8000/rock
+#EXTINF:-1 tvg-logo="https://radioslovo.net/img/microphone.png" group-title="bible,christian",Адкрытае Слова
+https://rs.radioslovo.net:4005/radio?1619348678875
+#EXTINF:-1 tvg-logo="" group-title="classical",Ватыканскае радыё
+https://radio.vaticannews.va/stream-be
+#EXTINF:-1 tvg-logo="http://radiogomelfm.by/local/templates/.default/img/logo-2018.png" group-title="hot adult contemporary,local news,mainstream,news,news talk",Гомель FM
+http://s1.radioheart.ru:8001/radiogomelfm
+#EXTINF:-1 tvg-logo="https://www.megapolis-reklama.by/assets/images/ikonki_uslug/Radio/gomel_plus.jpg" group-title="pop",Гомель Плюс
+http://s1.radioheart.ru:8001/radiogomel
+#EXTINF:-1 tvg-logo="" group-title="",Душевное
+http://stream.hoster.by:8081/pilotfm/audio/icecast.audio
+#EXTINF:-1 tvg-logo="https://euroradio.fm/sites/default/themes/neweuroradio/favicon.ico" group-title="alternative,news,news talk,political talk,politics",Еўрарадыё Alternative
+http://stream1.euroradio.fm:8000/euroradio1?seed=1493710910
+#EXTINF:-1 tvg-logo="https://euroradio.fm/sites/default/themes/neweuroradio/favicon.ico" group-title="news,news talk,political talk,politics",Еўрарадыё BY
+http://stream1.euroradio.fm:8000/euroradio1
+#EXTINF:-1 tvg-logo="https://euroradio.fm/sites/default/themes/neweuroradio/favicon.ico" group-title="news,news talk,political talk,politics,soft rock",Еўрарадыё Soft Rock
+http://stream1.euroradio.fm:8000/euroradio3?seed=1493711245
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/1/361.v11.png" group-title="pop",Мелодии Века
+https://air.melodiiveka.by:8443/mv
+#EXTINF:-1 tvg-logo="http://melodiiveka.by/images/img0080.png" group-title="80s,90s,classic pop",Мелодии Века
+http://93.84.112.253:8010/MV128
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CMDgTrcY/top-5.png" group-title="adult contemporary,pop",Минская Волна
+https://mvr.mlyn.by/mlyn
+#EXTINF:-1 tvg-logo="" group-title="contemporary hits,dance,top 40",Пилот-FM
+http://hfm.amgradio.ru/HypeFM
+#EXTINF:-1 tvg-logo="http://pravdaradio.by/images/logo.png" group-title="local news,music,news",Правда Радио
+http://79.98.49.5:8132/pravda?type=.mp3
+#EXTINF:-1 tvg-logo="" group-title="80s,contemporary hits,news,pop,rock",Радио "Мир" Беларусь
+http://217.23.126.106:8002/radio2.mir
+#EXTINF:-1 tvg-logo="http://radio.uvaga.by/images/logo.gif" group-title="chr,creative commons,music,top40",Радио Uvaga.by
+http://up.uvaga.by:8100/aacp64
+#EXTINF:-1 tvg-logo="" group-title="",Радио Минск
+http://93.84.113.142:8000/radio
+#EXTINF:-1 tvg-logo="http://www.radiominsk.by/image/logo.png" group-title="blues,blues rock,classic rock,rock",Радио Минск
+http://93.84.113.142:8000/ogg
+#EXTINF:-1 tvg-logo="" group-title="rock",Радио Перемен
+https://listen.radioking.com/radio/365563/stream/415378
+#EXTINF:-1 tvg-logo="http://bestradio.fm/uploads/posts/2015-11/1446638133_roks-radio-minsk1.jpg" group-title="minsk,russian chanson",Радио РОКС
+http://de.streams.radioplayer.by:8000/live
+#EXTINF:-1 tvg-logo="http://top-radio.ru/assets/image/radio/180/vitebsk.jpg" group-title="",Радио-Витебск
+https://live.radiovitebsk.by/live
+#EXTINF:-1 tvg-logo="http://radiorelax.by//apple-touch-icon.png" group-title="music,music non stop,relax",Радыё Relax
+http://live.humorfm.by:8000/radiorelax
+#EXTINF:-1 tvg-logo="https://www.radiomaria.by/images/icons/icon-128.png" group-title="pop",Радые Марыя 
+https://server.radiorm.by:8443/live
+#EXTINF:-1 tvg-logo="http://www.racyja.com/favicon.ico" group-title="",Радыё Рацыя
+http://air.racyja.com:8000/racja128
+#EXTINF:-1 tvg-logo="https://www.bbg.gov/wp-content/media/2011/11/logo_rferl.png" group-title="",Радыё Свабода. Навіны Беларусі
+https://n07.radiojar.com/zv9u3eapn3quv?rj-ttl=5&rj-tok=AAABfdrPVTsAS9kUS8KUWiKkQA
+#EXTINF:-1 tvg-logo="https://rusradio.by/apple-touch-icon.png" group-title="pop,беларусь,минск,русское радио",Русское Радио
+https://stream.hoster.by/rusradio/russkoe/icecast.audio
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ru/0/03/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B5_%D1%80%D0%B0%D0%B4%D0%B8%D0%BE.png" group-title="",Русское радио Витебск
+http://86.57.240.92:2530/
+#EXTINF:-1 tvg-logo="http://humorfm.by/favicon.ico" group-title="comedy,top 40",Юмор FM
+http://live.humorfm.by:8000/veseloeradio

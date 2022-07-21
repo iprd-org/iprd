@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://www.lmradio.co.za/favicon.ico" group-title="70,80,90,smooth lounge,soft pop 60",LM Radio
+http://cast.fabrik.fm:8008/
+#EXTINF:-1 tvg-logo="http://lmradio.co.mz/favicon.ico" group-title="world music",LM Radio Mozambique
+http://sc13.shoutcaststreaming.us:8003/stream
+#EXTINF:-1 tvg-logo="http://nettv.live/uploads/allimg/18/1-1Q2012141010-L.jpg" group-title="",Mozambique TV
+http://online.tvm.co.mz:1935/live/smil:Channel1.smil/chunklist_w2005789883_b714000_slpor.m3u8
+#EXTINF:-1 tvg-logo="" group-title="news",Rádio Moçambique Antena Nacional
+https://node.stream-africa.com:8443/AntenaNacional
+#EXTINF:-1 tvg-logo="" group-title="afropop,brazilian pop,mozambican music,music,top 40",Super FM (101.9 MHz FM, Maputo)
+http://41.223.153.14:8000/;stream/1

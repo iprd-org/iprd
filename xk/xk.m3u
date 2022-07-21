@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.capital921.com/images/logo.png" group-title="92.1 capital fm,92.1 fm,capital fm,capital fm kosovo,kosova,kosove,kosovo,shqip",92.1 Capital FM
+http://cfm.albaservers.com:8010/
+#EXTINF:-1 tvg-logo="" group-title="shqip",KLAN Kosova FM
+http://s4.radio.co/sd1d1904dc/listen
+#EXTINF:-1 tvg-logo="http://db.radioline.fr/pictures/radio_a8a0bad4d97ae81ef9971e714a00f3d9/logo200.jpg?size=200" group-title="",Radio Dukagjini
+http://s6.voscast.com:8824/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="kosova,kosovo,prishtine,pristina",Radio Kosova 1
+http://82.114.72.2:8088/
+#EXTINF:-1 tvg-logo="" group-title="kosova,kosovo,prishtine,pristina",Radio Kosova 2
+http://82.114.72.2:8098/
+#EXTINF:-1 tvg-logo="https://www.phonostar.de/images/auto_created/radiokosovaelire184x184.png" group-title="folk",Radio Kosova e Lirë
+http://188.165.192.5:8018/;
+#EXTINF:-1 tvg-logo="https://www.radiomariakosove.org/wp-content/uploads/2017/10/cropped-per-favicon-270x270.jpg" group-title="catholic,religion",RADIO MARIA KOSOVO
+http://dreamsiteradiocp2.com:8124/stream
+#EXTINF:-1 tvg-logo="" group-title="pristina",RTK Radio Kosova 1
+http://82.114.72.2:8088/;.mp3
+#EXTINF:-1 tvg-logo="http://static.radio.net/images/broadcasts/36/d8/13591/c175.png" group-title="pristina",RTK Radio Kosova 2
+http://82.114.72.2:8098/;stream.mp3
+#EXTINF:-1 tvg-logo="http://www.rtklive.com/sq/images/Rtklive_2016_Portali_01.jpg" group-title="",RTK TV-1
+http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.rtklive.com/sq/images/Rtklive_2016_Portali_02.jpg" group-title="",RTK TV-2
+http://stream1.rtkit.com:1935/rtk2stream/rtk2.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.rtklive.com/sq/images/Rtklive_2016_Portali_05.jpg" group-title="",RTK TV-3
+http://stream1.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.rtklive.com/sq/images/Rtklive_2016_Portali_06.jpg" group-title="",RTK TV-4
+http://stream1.rtkit.com:1935/rtk4stream/rtk4.stream/playlist.m3u8

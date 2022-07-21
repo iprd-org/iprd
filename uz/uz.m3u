@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://tabassum.uz/favicon.ico" group-title="",A'LO FM
+http://tabassum.uz:9000/alo_low
+#EXTINF:-1 tvg-logo="" group-title="music",Maxima FM
+http://80.80.222.26:8000/maximafm.ogg
+#EXTINF:-1 tvg-logo="" group-title="classical,music",Классик ФМ
+http://80.80.222.26:8000/classicfm.ogg?_=1

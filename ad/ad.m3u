@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="santa coloma,top 40",Andorra1 - 96.0 - Santa Coloma
+http://91.121.45.224:8000/;
+#EXTINF:-1 tvg-logo="http://edmdnb.com/favicon.ico" group-title="dnb,drum & bass,drum 'n' bass,drum and bass,dubstep,edm,electronic,house",DnB&EDM
+http://edmdnb.com:8000/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="hu",faysal fm
+http://sostecstream.com:9994/stream
+#EXTINF:-1 tvg-logo="" group-title="andorra la vella,pop,top 40",Flaix FM 93.8 Andorra La Vella
+http://91.121.45.224:8010/;
+#EXTINF:-1 tvg-logo="" group-title="andorra la vella,pop",Proxima FM 94.6 Andorra la Vella
+http://91.187.93.115:8000/;
+#EXTINF:-1 tvg-logo="" group-title="information,local news,local radio,local talk,music,news",Ràdio Puigcerdà
+https://topradio.uno:8048/live
+#EXTINF:-1 tvg-logo="" group-title="encamp",Ràdio Valira
+http://91.187.93.115:8020/;stream/1

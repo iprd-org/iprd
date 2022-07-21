@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://vozdibonaire.org/test/img/alpha-fm.png" group-title="kralendijk,latin music",Alpha FM 93.1 Kralendijk
+http://s7.streammonster.com:8394/;
+#EXTINF:-1 tvg-logo="" group-title="riscado,top 40",Bon FM 102.7  Riscado
+http://bonfm5.primcast.com:6482/;
+#EXTINF:-1 tvg-logo="http://breakingnews.live99fm.com/wp-content/uploads/2019/01/cropped-liveradiologo-180x180.png" group-title="kralendijk,latin music,news,sport,talk",Live99 FM - Kralendijk
+http://162.244.80.220:8000/;stream.mp3
+#EXTINF:-1 tvg-logo="http://www.megahitfm.com/apple-icon-120x120.png" group-title="pop,top 40",Mega Hit FM 101.1
+http://megaspice.primcast.com:5216/
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/9/17299.v3.png" group-title="christian,cristiana,musica cristiana",Radio Transmundial Bonaire 800 Khz
+https://cdn.instream.audio/:9050/stream
+#EXTINF:-1 tvg-logo="" group-title="local music,riscado,talk",Voz di Bonaire 94.7 - Riscado
+http://159.203.190.86:8304/;stream.mp3

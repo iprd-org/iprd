@@ -1,0 +1,71 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://www.frocus.net/images/logotv/aquarelle-fm.jpg" group-title="",Aquarelle FM
+http://93.115.137.75:8000/aquarellefm.mp3
+#EXTINF:-1 tvg-logo="http://www.beat-fm.com/wp-content/uploads/2015/12/cropped-%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0-2015-12-14-%D0%B2-12.56.31-192x192.png" group-title="",Beat FM
+https://radio-node-4.dline-media.com/beatfm
+#EXTINF:-1 tvg-logo="https://diaspora.media/app/assets/img/i/niceicon.png" group-title="",Diaspora Media
+https://n0f.radiojar.com/58ts0hd5hrquv?rj-ttl=5&rj-tok=AAABfd5RqjwAbn0-8hlu4tyATA
+#EXTINF:-1 tvg-logo="http://www.frocus.net/images/logotv/original/ecofm.jpg" group-title="",Eco FM
+http://188.138.204.98:8080/ecoFM
+#EXTINF:-1 tvg-logo="http://imago.fm/img/favicons/favicon.ico" group-title="",imago.fm
+http://109.233.192.78:8000/_a
+#EXTINF:-1 tvg-logo="http://www.frocus.net/images/logotv/original/russkoe-radio-moldova-2016.jpg" group-title="russian pop",Like FM - Русское радио
+http://live.ruradio.md:8000/ruradio
+#EXTINF:-1 tvg-logo="http://www.prodjradio.net/wp-content/themes/theme1342/images/logo.png" group-title="pop,top 40",LOVE PRO Dj Radio Chisinau
+http://live.prodjradio.net:8000/;
+#EXTINF:-1 tvg-logo="" group-title="",love radio
+http://37.233.41.76:8000/lovefm
+#EXTINF:-1 tvg-logo="http://www.frocus.net/images/logotv/maestro.jpg" group-title="",Maestro FM
+http://live.maestrofm.md:8000/maestro
+#EXTINF:-1 tvg-logo="http://om.md/favicon.ico" group-title="new age",OM Radio 2
+http://188.138.198.247:8002/
+#EXTINF:-1 tvg-logo="http://www.frocus.net/images/logotv/original/new-radio-md.jpg" group-title="russian pop",POLI DISC - Новое радио
+http://77.89.206.126:7030/live
+#EXTINF:-1 tvg-logo="" group-title="",PRODj Radio
+http://live.prodjradio.net:8000/;?type=http&nocache=4585
+#EXTINF:-1 tvg-logo="https://livebeta.publika.md/media/assets/new/images/logo-130x110.jpg" group-title="news",Publica FM
+http://live.maestrofm.md:8000/publikafm
+#EXTINF:-1 tvg-logo="http://www.frocus.net/images/logotv/original/radio911-md.jpg" group-title="music",Radio 911
+http://185.181.229.197:8000/live
+#EXTINF:-1 tvg-logo="http://www.frocus.net/images/logotv/radio-albena-2017.jpg" group-title="music",Radio Albena Taraclia
+http://109.185.191.129:49400/
+#EXTINF:-1 tvg-logo="https://www.radionoroc.md/favicon.ico" group-title="",RADIO NOROC
+http://live.noroc.tv:8000/radionoroc.mp3
+#EXTINF:-1 tvg-logo="http://www.frocus.net/images/logotv/original/r_one_md17.jpg" group-title="music,news",Radio ONE Moldova
+http://radio1.md:8000/r1
+#EXTINF:-1 tvg-logo="https://c.radikal.ru/c23/1811/fe/bf75116b5698.png" group-title="",Radio Orhei FM
+http://live.prodjradio.net:8030/;
+#EXTINF:-1 tvg-logo="http://www.radioplai.md/favicon.ico" group-title="",RADIO PLAI
+http://stream.radioplai.md:8000/live
+#EXTINF:-1 tvg-logo="https://cdnn1.img.sputnik.md/i/favicon/favicon-120x120.png" group-title="news",Radio Sputnik Moldova
+https://riavoice.gcdn.co/voicemda
+#EXTINF:-1 tvg-logo="http://www.frocus.net/images/logotv/original/radio-vocea-sperantei-md.jpg" group-title="",Radio Vocea Sperantei
+http://195.93.219.15:8000/pulse
+#EXTINF:-1 tvg-logo="http://www.frocus.net/images/logotv/original/Radio-Zum.jpg" group-title="music",Radio ZUM
+http://185.181.229.196:8000/live
+#EXTINF:-1 tvg-logo="" group-title="retro",RadioRetroFM Moldova
+https://europaplus.hostingradio.ru:8014/retro320.mp3
+#EXTINF:-1 tvg-logo="http://vocaltrance.fm/src/icon.png" group-title="deep,deep house,house,vocal",Vocal Trance Radio - Deep Vocal House [128 kbps]
+http://176.9.36.203:8000/deep_128
+#EXTINF:-1 tvg-logo="http://vocaltrance.fm/src/icon.png" group-title="deep,deep house,house,vocal",Vocal Trance Radio - Deep Vocal House [320 kbps]
+http://176.9.36.203:8000/deep_320
+#EXTINF:-1 tvg-logo="http://vocaltrance.fm/src/icon.png" group-title="house",Vocal Trance Radio - Positive House [128 kbps]
+http://176.9.36.203:8000/positive_128
+#EXTINF:-1 tvg-logo="http://vocaltrance.fm/src/icon.png" group-title="house",Vocal Trance Radio - Positive House [320 kbps]
+http://176.9.36.203:8000/positive_320
+#EXTINF:-1 tvg-logo="http://vocaltrance.fm/src/icon.png" group-title="trance,uplifting",Vocal Trance Radio - Uplifting Trance [128 kbps]
+http://176.9.36.203:8000/uplifting_128
+#EXTINF:-1 tvg-logo="http://vocaltrance.fm/src/icon.png" group-title="trance,uplifting",Vocal Trance Radio - Uplifting Trance [320 kbps]
+http://vocaltrance.fm:8000/vocaltrance_320
+#EXTINF:-1 tvg-logo="http://vocaltrance.fm/src/icon.png" group-title="chillout,vocal",Vocal Trance Radio - Vocal Chillout [128 kbps]
+http://176.9.36.203:8000/vocalchillout_128
+#EXTINF:-1 tvg-logo="http://vocaltrance.fm/src/icon.png" group-title="chillout,vocal",Vocal Trance Radio - Vocal Chillout [320 kbps]
+http://176.9.36.203:8000/vocalchillout_320
+#EXTINF:-1 tvg-logo="http://vocaltrance.fm/src/icon.png" group-title="vocal trance",Vocal Trance Radio - Vocal Trance [128 kbps]
+http://176.9.36.203:8000/vocaltrance_128
+#EXTINF:-1 tvg-logo="http://vocaltrance.fm/src/icon.png" group-title="vocal trance",Vocal Trance Radio - Vocal Trance [320 kbps]
+http://176.9.36.203:8000/vocaltrance_320
+#EXTINF:-1 tvg-logo="http://radio.pgtrk.ru/fbrlogo.jpg" group-title="",Радио 1
+http://217.19.216.176:8000/stream?d=1538509413566
+#EXTINF:-1 tvg-logo="http://images.vfl.ru/ii/1606034560/e5127dbe/32394605.png" group-title="",Радио Дача Тирасполь 93.7FM
+http://objectiv-inter.dyndns.idknet.com:8022/Dacha-PMR

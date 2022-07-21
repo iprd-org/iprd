@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="",BESTTIME
+http://103.48.116.109:9000/;?listening-from-radio-garden=1608463364113
+#EXTINF:-1 tvg-logo="https://ambadnya.in/radio_list/mongolia/businessfm.png" group-title="",Business Radio MN 98.9
+http://202.131.233.34:8014/stream
+#EXTINF:-1 tvg-logo="http://mglradio.com/resource/mglradio/favicon/favicon-128.png" group-title="",MGL Radio
+http://stream17.shoutcastsolutions.com:8096/
+#EXTINF:-1 tvg-logo="http://www.bestfm.mn/themes/simple/images/favicon.png" group-title="",Mongolia Best Radio
+http://103.48.116.109:9000/;
+#EXTINF:-1 tvg-logo="http://business-radio.mn/favicon.png" group-title="business,business news,mongolia,ulaanbaatar,бизнес,монгол,радио,улаанбаатар",Бизнес Радио ФМ 98.9 ( Улаанбаатар  Монгол улс)
+http://202.131.233.34:8014/stream

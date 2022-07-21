@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="",Antena M
+http://radioservis.me:8010/antenamlive
+#EXTINF:-1 tvg-logo="http://www.rtcg.me/upload/thumbnail/2018/02/09/857486_rtcgjpg" group-title="",Radio 98
+http://radio.beotel.net:8010/
+#EXTINF:-1 tvg-logo="http://www.liveradio.ie/files/images/106925/resized/180x172c/rcgg.png" group-title="culture,general,national news,news",Radio Crne Gore
+http://radio.beotel.net:8008/
+#EXTINF:-1 tvg-logo="" group-title="talk & speech",Radio Građanin
+http://45.79.145.88:8000/stream.ogg
+#EXTINF:-1 tvg-logo="" group-title="pop",Radio Herceg Novi 90.0 & 102.7
+http://s2.voscast.com:10354/;stream1490674747632/1
+#EXTINF:-1 tvg-logo="https://svetigora.com/wp-content/uploads/2017/08/cropped-svetigora_logo-3-150x150.png" group-title="christian,orthodox,religion",Radio Svetigora
+http://svetigoralive.com:8879/;
+#EXTINF:-1 tvg-logo="https://radioskadar.com/favicon.ico" group-title="international",Skadar
+http://radioservis.me:8050/radioskadar

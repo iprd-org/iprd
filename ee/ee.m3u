@@ -1,0 +1,69 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.aripaev.ee//icons/apple-touch-icon.png" group-title="business news,estonia",Äripäeva Raadio
+https://liveplay.aripaev.ee/stream.mp3
+#EXTINF:-1 tvg-logo="https://s.err.ee/www/images/favicon/KlaRa_favicon@2x.png?1175" group-title="classical,estonia",ERR Klassikaraadio
+http://icecast.err.ee/klassikaraadio.mp3
+#EXTINF:-1 tvg-logo="https://r2.err.ee//Content/favicon/favikon-raadio2.png" group-title="err,public radio,tallinn",ERR Raadio 2
+http://icecast.err.ee/raadio2.mp3
+#EXTINF:-1 tvg-logo="http://r4.err.ee//Content/favicon/uudised.jpg" group-title="err,public radio,russian programming",ERR Raadio 4
+http://icecast.err.ee/raadio4.mp3?type=.mp3/;stream.mp3
+#EXTINF:-1 tvg-logo="https://finestfm.fi/upload/5e10861c127007.32944399.ico" group-title="",FinEst Radio
+https://shoutcast.finestfm.fi/stream/1/:80/;stream
+#EXTINF:-1 tvg-logo="http://www.happyu.ee/favicon.ico" group-title="",Happy U
+https://radio.streemlion.com:2525/stream
+#EXTINF:-1 tvg-logo="https://www.idaidaida.net/favicons/favicon.ico" group-title="alternative,ambient,country,electronic,house,indie,punk,rock,soul,techno",IDA Radio
+https://streams.radio.co/s053b51423/listen
+#EXTINF:-1 tvg-logo="" group-title="",Kuma FM 101.0
+http://5.39.16.62:8004/tre
+#EXTINF:-1 tvg-logo="http://www.netiraadio.ee/g/netiraadio_apple_touch.png" group-title="nature,sounds of nature",Netiraadio - Eesti loodus
+http://www.netiraadio.ee:8000/eestiloodus
+#EXTINF:-1 tvg-logo="http://www.netiraadio.ee/g/netiraadio_apple_touch.png" group-title="folk music",Netiraadio - Folk
+http://www.netiraadio.ee:8000/folgisobrad
+#EXTINF:-1 tvg-logo="http://www.netiraadio.ee/g/netiraadio_apple_touch.png" group-title="",Netiraadio - Jaak Joala
+http://www.netiraadio.ee:8000/jaakjoala
+#EXTINF:-1 tvg-logo="http://www.netiraadio.ee/g/netiraadio_apple_touch.png" group-title="jazz",Netiraadio - Jazz
+http://www.netiraadio.ee:8000/jazzivarvid
+#EXTINF:-1 tvg-logo="http://www.netiraadio.ee/g/netiraadio_apple_touch.png" group-title="",Netiraadio - Jõulud
+http://www.netiraadio.ee:8000/joulud
+#EXTINF:-1 tvg-logo="http://www.netiraadio.ee/g/netiraadio_apple_touch.png" group-title="classical",Netiraadio - Klassika
+http://www.netiraadio.ee:8000/klassika
+#EXTINF:-1 tvg-logo="http://www.netiraadio.ee/g/netiraadio_apple_touch.png" group-title="",Netiraadio - Klubi Biit
+http://www.netiraadio.ee:8000/klubibiit
+#EXTINF:-1 tvg-logo="http://www.netiraadio.ee/g/netiraadio_apple_touch.png" group-title="",Netiraadio - Kullafond
+http://www.netiraadio.ee:8000/kuldsedajad
+#EXTINF:-1 tvg-logo="http://www.netiraadio.ee/g/netiraadio_apple_touch.png" group-title="",Netiraadio - Lastekanal
+http://www.netiraadio.ee:8000/lastekanal
+#EXTINF:-1 tvg-logo="http://www.netiraadio.ee/g/netiraadio_apple_touch.png" group-title="pop",Netiraadio - Pop
+http://www.netiraadio.ee:8000/lahepop
+#EXTINF:-1 tvg-logo="http://www.netiraadio.ee/g/netiraadio_apple_touch.png" group-title="",Netiraadio - Puhas traat
+http://www.netiraadio.ee:8000/puhastraat
+#EXTINF:-1 tvg-logo="http://netiraadio.ee/g/netiraadio_apple_touch.png" group-title="",Netiraadio - Retro
+http://www.netiraadio.ee:8000/retro
+#EXTINF:-1 tvg-logo="http://www.netiraadio.ee/g/netiraadio_apple_touch.png" group-title="",Netiraadio - Sinu Hetked
+http://www.netiraadio.ee:8000/sinuhetked
+#EXTINF:-1 tvg-logo="http://www.netiraadio.ee/g/netiraadio_apple_touch.png" group-title="",Netiraadio - Teistsugune
+http://www.netiraadio.ee:8000/teistsugune
+#EXTINF:-1 tvg-logo="http://www.netiraadio.ee/g/netiraadio_apple_touch.png" group-title="",Netiraadio - Tumedad lood
+http://www.netiraadio.ee:8000/tumedadlood
+#EXTINF:-1 tvg-logo="http://www.nommeraadio.ee/images/favicon.ico" group-title="",Nõmmeraadio
+http://149.210.138.12:8000/nommeraadio
+#EXTINF:-1 tvg-logo="" group-title="",Raadio Relax FM
+https://stream.relaxfm.ee/relax
+#EXTINF:-1 tvg-logo="" group-title="",Raadio Relax International
+https://stream.relaxfm.ee/international
+#EXTINF:-1 tvg-logo="http://raadiotallinn.err.ee/gfx/rtlogo.jpg" group-title="",Raadio Tallinn
+http://icecast.err.ee/raadiotallinn.mp3?type=.mp3/;stream.mp3
+#EXTINF:-1 tvg-logo="http://raadio.tre.ee/favicon.ico" group-title="indie,local music,pop",Raadio Tre.ee
+http://sc1.treraadio.ee:8002/tre
+#EXTINF:-1 tvg-logo="http://sooviraadio.net/favicon.ico" group-title="80s,sparse info",Sooviraadio
+http://media.uunox.net:8888/;
+#EXTINF:-1 tvg-logo="http://www.sss-radio.ee//favicon.ico" group-title="",SSS-Radio
+http://217.146.76.112:8000/sss-radio
+#EXTINF:-1 tvg-logo="" group-title="religion",Tartu Family Radio
+http://worker.pereraadio.ee:8000/
+#EXTINF:-1 tvg-logo="http://www.pereraadio.ee/uus/images/banners/top3/sagedus2.jpg" group-title="",Tartu Pereraadio
+http://bee.pereraadio.ee:8000/
+#EXTINF:-1 tvg-logo="http://vikerraadio.err.ee//Content/favicon/uudised.jpg" group-title="",Vikerraadio
+http://icecast.err.ee/vikerraadio.mp3
+#EXTINF:-1 tvg-logo="http://www.xltrax.ee/wp-content/uploads/2014/04/favicon-144.png" group-title="",XLTRAX Estonia
+http://174.142.215.249:8300/;stream.mp3

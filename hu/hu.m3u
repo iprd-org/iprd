@@ -1,0 +1,443 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://www.popularis.hu/radio/aktiv.png" group-title="pop",Aktív Rádió
+http://aktivradio.hu:8000/aktiv.mp3
+#EXTINF:-1 tvg-logo="http://www.balatonfm.hu///templates/br14/favicon.ico" group-title="pop",Balaton Rádió
+http://91.82.85.41:8200/;
+#EXTINF:-1 tvg-logo="http://www.balatonica.hu//themes/2017/assets/ico/favicon.ico" group-title="chillout,lounge",BALATONICA RADIO
+http://balatonica.hu:8000/stream_high
+#EXTINF:-1 tvg-logo="http://operavilag.net/wp-content/uploads/hirmondo-kaleidoszkop/2013/09/24/11921/bartok_radio_thumb.png" group-title="classical,cultural,duna média,jazz,public radio",Bartók Rádió
+http://mr-stream.mediaconnect.hu/4742/mr3hq.mp3
+#EXTINF:-1 tvg-logo="https://bdpstrock.hu/assets/img/front/favicon.ico" group-title="rock",BDPST ROCK -  192 kbit/s
+http://stream.bdpstrock.hu/bdpstrock_192k
+#EXTINF:-1 tvg-logo="https://bdpstrock.hu/assets/img/front/favicon.ico" group-title="rock",BDPST ROCK -  320 kbit/s
+http://stream.bdpstrock.hu/bdpstrock_320k
+#EXTINF:-1 tvg-logo="https://bdpstrock.hu/assets/img/front/favicon.ico" group-title="rock",BDPST ROCK -  96 kbit/s;
+http://stream.bdpstrock.hu/bdpstrock_128k
+#EXTINF:-1 tvg-logo="http://www.beatradiohungary.hu/assets/logo/logo.svg" group-title="",Beat
+http://79.172.194.189:9010/live.mp3
+#EXTINF:-1 tvg-logo="http://www.popularis.hu/radio/radio-fm-95.png" group-title="pop,rock",Best FM
+http://stream.webthings.hu:8000/fm95-x-128.mp3
+#EXTINF:-1 tvg-logo="https://bestfmnyiregyhaza.hu/images/logo_footer.png" group-title="hits,local,pop,rock,top",Best FM Nyíregyháza
+http://178.248.200.21:8000/listen
+#EXTINF:-1 tvg-logo="" group-title="",Bithang Yoo Rádió
+http://stream.diazol.hu:35160/live.mp3
+#EXTINF:-1 tvg-logo="https://www.buddhafm.hu/wp-content/uploads/2021/07/cropped-android-chrome-512x512-1-180x180.png" group-title="buddhism,religion,spirituality",Buddha FM
+http://libretime.buddhafm.hu:4000/buddhafm
+#EXTINF:-1 tvg-logo="" group-title="",Callisto
+http://188.165.11.30:4500/live.mp3
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s169439q.png" group-title="classical,history,medieval",CEU Medieval Radio
+http://137.74.85.85:7020/;stream
+#EXTINF:-1 tvg-logo="" group-title="classical",christmas fm
+https://stream1.christmasfm.hu/live.mp3
+#EXTINF:-1 tvg-logo="http://sos.civilradio.hu/wp-content/uploads/dynamik-gen/theme/images/civil-foot.png" group-title="community radio",Civil Rádió
+http://civilradio.hu:8000/;stream
+#EXTINF:-1 tvg-logo="" group-title="pop,university radio",Cool FM
+http://mediagw.e-tiger.net/stream/cfmhq
+#EXTINF:-1 tvg-logo="" group-title="classic hits,university radio",Cool FM - Goldie'S
+http://mediagw.e-tiger.net:8000/stream/goldhq
+#EXTINF:-1 tvg-logo="" group-title="alternative,pop,university radio",Cool FM - kultX
+http://mediagw.e-tiger.net/stream/krehq
+#EXTINF:-1 tvg-logo="" group-title="dance,university radio",Cool FM - Xbeat
+http://mediagw.e-tiger.net/stream/xbeathq
+#EXTINF:-1 tvg-logo="https://coolfm.hu/radio/wp-content/uploads/2021/01/rock.jpg" group-title="classic rock,rock",COOLFM (Classic) Rock
+https://mediagw.e-tiger.net/stream/zc10
+#EXTINF:-1 tvg-logo="https://coolfm.hu/radio/wp-content/uploads/2021/01/2000s.jpg" group-title="00s,2000s,top hits",COOLFM 2000-es évek
+https://mediagw.e-tiger.net/stream/zc03
+#EXTINF:-1 tvg-logo="https://coolfm.hu/radio/wp-content/uploads/2021/01/2010s.jpg" group-title="10s,2010s,top hits",COOLFM 2010-es évek
+https://mediagw.e-tiger.net/stream/zc02
+#EXTINF:-1 tvg-logo="https://coolfm.hu/radio/wp-content/uploads/2021/01/90s.jpg" group-title="1990s,90s,top hits",COOLFM 90-es évek
+https://mediagw.e-tiger.net/stream/zc05
+#EXTINF:-1 tvg-logo="https://coolfm.hu/radio/wp-content/uploads/2021/01/acoustic.jpg" group-title="acoustic,guitar,guitar rock",COOLFM Acoustic
+https://mediagw.e-tiger.net/stream/zc12
+#EXTINF:-1 tvg-logo="https://coolfm.hu/radio/wp-content/uploads/2021/01/best-hits-ever.jpg" group-title="top charts,top hits,top40",COOLFM Best Hits EVER
+https://mediagw.e-tiger.net/stream/zc11
+#EXTINF:-1 tvg-logo="https://coolfm.hu/radio/wp-content/uploads/2021/01/bside.jpg" group-title="alternative,alternative rock,indie",COOLFM Bside/Alternative
+https://mediagw.e-tiger.net/stream/zc16
+#EXTINF:-1 tvg-logo="https://coolfm.hu/radio/wp-content/uploads/2021/01/chill.jpg" group-title="chillout,lounge music,relax",COOLFM Chill
+https://mediagw.e-tiger.net/stream/zc24
+#EXTINF:-1 tvg-logo="https://coolfm.hu/radio/wp-content/uploads/2021/01/funky.jpg" group-title="funky,soul",COOLFM Funky&Soul
+https://mediagw.e-tiger.net/stream/zc25
+#EXTINF:-1 tvg-logo="https://coolfm.hu/radio/wp-content/uploads/2021/01/hazai-kedvencek.jpg" group-title="all-time favourites,hungarian pop music,top",COOLFM Hazai Kedvencek
+https://mediagw.e-tiger.net/stream/zc19
+#EXTINF:-1 tvg-logo="https://coolfm.hu/radio/wp-content/uploads/2021/01/jazz.jpg" group-title="jazz,smooth jazz",COOLFM Jazz
+https://mediagw.e-tiger.net/stream/zc13
+#EXTINF:-1 tvg-logo="https://coolfm.hu/radio/wp-content/uploads/2021/01/christmas.jpg" group-title="christmas music,holiday",COOLFM Karácsonyi Dalok
+https://mediagw.e-tiger.net/stream/zc27
+#EXTINF:-1 tvg-logo="https://coolfm.hu/radio/wp-content/uploads/2021/01/love-songs.jpg" group-title="love songs,romantic music,smooth",COOLFM Love Songs
+https://mediagw.e-tiger.net/stream/zc21
+#EXTINF:-1 tvg-logo="https://coolfm.hu/radio/wp-content/uploads/2021/01/summer-hits.jpg" group-title="hits,party,summer",COOLFM Nyári Slágerek
+https://mediagw.e-tiger.net/stream/zc09
+#EXTINF:-1 tvg-logo="https://coolfm.hu/radio/wp-content/uploads/2021/01/party.jpeg" group-title="party hits,partymix,top hits",COOLFM Party
+https://mediagw.e-tiger.net/stream/zc18
+#EXTINF:-1 tvg-logo="https://coolfm.hu/radio/wp-content/uploads/2021/01/sport.jpg" group-title="fitness music,running,workout",COOLFM Sportoláshoz
+https://mediagw.e-tiger.net/stream/zc20
+#EXTINF:-1 tvg-logo="https://coolfm.hu/radio/wp-content/uploads/2021/01/world-music.jpg" group-title="world music",COOLFM World Music
+https://mediagw.e-tiger.net/stream/zc26
+#EXTINF:-1 tvg-logo="https://coolfm.hu/radio/wp-content/uploads/2021/01/youtube.jpg" group-title="hot adult contemporary,top hits,young adults",COOLFM YouTube HOT HITS!
+https://mediagw.e-tiger.net/stream/zc22
+#EXTINF:-1 tvg-logo="" group-title="classical",coronita fm
+http://node-13.zeno.fm/ktzdc7rf7f0uv?rj-ttl=5&rj-tok=AAABfd3cUKkA68ybm8hvcdRJVg
+#EXTINF:-1 tvg-logo="https://www.csillagpontradio.hu/sites/www.csillagpontradio.hu/themes/cspr_bootstrap/logo.png" group-title="local radio",Csillagpont Rádió
+http://streamer1.borsodweb.hu:48000/csillagpont
+#EXTINF:-1 tvg-logo="" group-title="classical",Dalla 2
+http://stream.diazol.hu:7160/autodj
+#EXTINF:-1 tvg-logo="" group-title="classical",Dallam radio
+http://stream.diazol.hu:7160/live
+#EXTINF:-1 tvg-logo="http://retro.dancewave.online/dw-logo_s.png" group-title="90s,eurodance",Dance Wave Retro!
+http://stream.dancewave.online:8080/retrodance.mp3
+#EXTINF:-1 tvg-logo="http://dancewave.online/dw-logo_s.png" group-title="dance,house,trance",Dance Wave!
+http://stream2.dancewave.online:8080/dance.ogg
+#EXTINF:-1 tvg-logo="http://dancewave.online/dw-logo_s.png" group-title="dance,house,trance",Dance Wave!
+http://stream.dancewave.online:8080/dance.mp3
+#EXTINF:-1 tvg-logo="https://myradiostream.com/station/uploads/logo/f576ba66ca87d279b1d5093843b3d7a48ac53c90.png" group-title="adult album alternative,dance,edm,edm podcast,hits,new releases,pop",DANCEable Radio
+http://176.31.244.83:35944/;
+#EXTINF:-1 tvg-logo="http://radjo.hu/wp-content/uploads/2015/04/Danko-Radio-Online.jpg" group-title="duna média,folk,operetta,public radio",Dankó Rádió
+http://mr-stream.mediaconnect.hu/4747/mr7.aac
+#EXTINF:-1 tvg-logo="" group-title="",Danubius
+https://stream.danubiusradio.hu/danubius_320k
+#EXTINF:-1 tvg-logo="" group-title="classical",Danubius radio
+https://s01.diazol.hu:35002/live.mp3
+#EXTINF:-1 tvg-logo="" group-title="pop",Danubius Rádió
+http://stream.danubiusradio.hu/danubius_128k
+#EXTINF:-1 tvg-logo="" group-title="classical",DEEPHOUSE
+https://stream1.rdstrm.com/deep-house-radio-dance-music.mp3
+#EXTINF:-1 tvg-logo="" group-title="classical",disco diamond 2
+http://discodiamond.radioca.st/stream
+#EXTINF:-1 tvg-logo="" group-title="hot ac,pop music",Dráva Hullám 102,7
+http://hosting2.42netmedia.com:13070/stream
+#EXTINF:-1 tvg-logo="" group-title="hot ac,pop music",Dráva Hullám 102,7
+http://hosting2.42netmedia.com:13070/;stream.mp3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hu/thumb/5/56/DW_radio.png/250px-DW_radio.png" group-title="duna média,news,public radio,talk",Duna World Rádió
+http://mr-stream.mediaconnect.hu/4760/dwr.aac
+#EXTINF:-1 tvg-logo="https://myonlineradio.hu/public/uploads/radio_img/duna-tisza-radio/play_250_250.png" group-title="2000s,2010s,90s",Duna-Tisza Rádió
+http://79.139.57.127:8030/dtr.mp3
+#EXTINF:-1 tvg-logo="https://myonlineradio.hu/public/uploads/radio_img/dt-radio-gold/play_250_250.jpg" group-title="60s,70s,80s",Duna-Tisza Rádió Gold
+http://79.139.57.127:8040/dtrg.mp3
+#EXTINF:-1 tvg-logo="http://efm.hu/wp-content/uploads/2021/09/cropped-ico-180x180.png" group-title="variety",Enying FM Hungary
+http://radioe.net:8080/efm_hd
+#EXTINF:-1 tvg-logo="https://secure.gravatar.com/blavatar/9d6c7bdbf60228062b8699492d26a453?s=200&ts=1495733400" group-title="educational,university radio",EPER97 - Első Pesti Egyetemi Rádió
+http://radio.elte.hu:8000/eper2
+#EXTINF:-1 tvg-logo="http://erdijazzfesztival.hu/img/images/ErdFM.jpg" group-title="pop",Érd FM
+http://stream.erdfm.hu:8000/stream
+#EXTINF:-1 tvg-logo="" group-title="",Fáklya Rádió
+https://faklyaradio.hu/stream2/
+#EXTINF:-1 tvg-logo="" group-title="",Fáklya Rádió
+https://faklyaradio.hu:1443/faklya
+#EXTINF:-1 tvg-logo="" group-title="classical",Fényárnyék
+http://87.98.180.73:9996/;stream
+#EXTINF:-1 tvg-logo="" group-title="alternative,rock,university radio",FM90 Campus Rádió
+http://stream.fm90.hu:8000/;
+#EXTINF:-1 tvg-logo="https://www.folkradio.hu//favicon.ico" group-title="folk,folk music,folklore",Folkrádio
+https://stream.folkradio.hu/folkradio.mp3
+#EXTINF:-1 tvg-logo="http://www.forrasradio.hu/favicon.ico" group-title="",Forrás Rádió
+http://91.82.85.44:9000/;stream
+#EXTINF:-1 tvg-logo="" group-title="classical",Forrás radio
+http://91.82.85.44:1630/forrasradio.mp3
+#EXTINF:-1 tvg-logo="http://frissfm.hu/favicon/apple-touch-icon.png" group-title="pop music",Friss FM 93.4
+http://stream.frissfm.hu:10050/;
+#EXTINF:-1 tvg-logo="http://www.gong.hu/images2/android-icon-192x192.png" group-title="pop",Gong Rádió
+http://stream.gongradio.hu:8000/gong-fm.mp3
+#EXTINF:-1 tvg-logo="" group-title="classical",hbcnews
+http://node-06.zeno.fm/m94d336hh5zuv?rj-ttl=5&rj-tok=AAABfdpy0F4AhxJwgkGk8rswSQ
+#EXTINF:-1 tvg-logo="" group-title="religion",Hit Rádió
+http://stream.hit.hu:8080/high
+#EXTINF:-1 tvg-logo="" group-title="christian,christian praise&worship,christmas music,faith,worship",Hit Radio Budapest
+https://stream2.hit.hu:8080/high
+#EXTINF:-1 tvg-logo="https://hobbyradio.hu/wp-content/themes/hobby2/img/icon.png" group-title="70s,80s,90s,talk",Hobby Rádió
+http://www.hobbyradio.hu:8000/hobbyradio.mp3
+#EXTINF:-1 tvg-logo="" group-title="alternative",I Love Pécs Rádió
+http://radio.ilovepecs.hu:8200/ilp.mp3
+#EXTINF:-1 tvg-logo="https://myonlineradio.hu/public/uploads/radio_img/inforadio/fb_cover.jpg" group-title="news,talk",Inforádió
+http://stream.infostart.hu/lejatszo/index.html?sid=1
+#EXTINF:-1 tvg-logo="" group-title="",insane
+http://radio.newinsane.info/
+#EXTINF:-1 tvg-logo="" group-title="jazz",Jazzradio.hu
+https://www.jazzradio.hu:8000/jazzradio_192.ogg
+#EXTINF:-1 tvg-logo="" group-title="jazz",Jazzy Cool
+https://s04.diazol.hu:9532/live.mp3
+#EXTINF:-1 tvg-logo="https://jazzy.hu/wp-content/uploads/2020/06/logo-jazzy-groove.jpg" group-title="groove",Jazzy Groove
+https://s04.diazol.hu:9512/live.mp3
+#EXTINF:-1 tvg-logo="https://jazzy.hu/wp-content/uploads/2020/06/logo-jazzy.jpg" group-title="jazz",Jazzy Rádió 90.9FM
+https://s04.diazol.hu:9502/live.mp3
+#EXTINF:-1 tvg-logo="" group-title="soul",Jazzy Soul
+https://s04.diazol.hu:9522/live.mp3
+#EXTINF:-1 tvg-logo="" group-title="classical",Karcfm
+http://92.61.114.191:13100/stream
+#EXTINF:-1 tvg-logo="" group-title="classical",Klasszik Rádió 92.1
+http://s04.diazol.hu:9600/live.mp3
+#EXTINF:-1 tvg-logo="http://www.popularis.hu/radio/klub.png" group-title="news,talk",Klubrádió
+http://hu-stream03.klubradio.hu:8080/bpstream
+#EXTINF:-1 tvg-logo="https://www.klubradio.hu/favicon.png" group-title="various",Klubrádió
+http://hu-stream03.klubradio.hu:8080/32aac
+#EXTINF:-1 tvg-logo="https://www.koronafm100.hu/wp-content/uploads/2020/03/cropped-faviconkorona-192x192.png" group-title="",KORONAfm100
+http://82.141.165.6:8000/;stream
+#EXTINF:-1 tvg-logo="" group-title="news",Kossuth
+https://icast.connectmedia.hu/4736/mr1.mp3
+#EXTINF:-1 tvg-logo="http://radjo.hu/wp-content/uploads/2015/01/kossuth_radio_logo.jpg" group-title="duna média,news,public radio,talk",Kossuth Rádió
+http://mr-stream.mediaconnect.hu/4734/mr1.aac
+#EXTINF:-1 tvg-logo="https://www.lahmacun.hu/wp-content/uploads/lahmalogo-1024x1024.jpg" group-title="electronic",Lahmacun Radio
+https://streaming.lahmacun.hu/radio/8000/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="",Lakihegy Rádió
+http://lakihegyradio.hu/player/stream.php
+#EXTINF:-1 tvg-logo="" group-title="r&b/urban",Látszótér 
+http://stream.latszoter.hu:8000/radio
+#EXTINF:-1 tvg-logo="https://lazaradio.com/favicon.ico" group-title="live,mix,retro",Laza Rádió (OGG 320 Kbps)
+http://stream.lazaradio.com:8100/live.ogg
+#EXTINF:-1 tvg-logo="https://lepesradio.hu/images/logo_jsn_neon_2.png" group-title="",Lépés Rádió
+http://stream.lepesradio.hu:4000/live.mp3
+#EXTINF:-1 tvg-logo="" group-title="classical",Live radio
+http://radio.nnkcrazyclub.hu:7163/crazyklub
+#EXTINF:-1 tvg-logo="https://www.luxfunkradio.com/wp-content/uploads/2017/01/cropped-luxfunk_logo_icon-270x270.png" group-title="",Luxfunk Blackmix
+http://188.165.11.30:5000/luxfunkblackmix.mp3
+#EXTINF:-1 tvg-logo="https://www.luxfunkradio.com/wp-content/uploads/2017/01/cropped-luxfunk_logo_icon-270x270.png" group-title="",Luxfunk Dance
+http://188.165.11.30:5000/luxfunkdance.mp3
+#EXTINF:-1 tvg-logo="https://www.luxfunkradio.com/wp-content/uploads/2017/01/cropped-luxfunk_logo_icon-270x270.png" group-title="",Luxfunk Radio
+http://188.165.11.30:5000/luxfunkradio.mp3
+#EXTINF:-1 tvg-logo="" group-title="classical",magic disco
+http://stream1.virtualisan.net:4420/live.mp3
+#EXTINF:-1 tvg-logo="" group-title="euro disco,hi-nrg,italo disco",Magic Disco Rádió
+http://live2.magicdiscoradio.com:4420/live.mp3
+#EXTINF:-1 tvg-logo="" group-title="euro disco,hi-nrg,italo disco",Magic Disco Radio
+http://188.165.11.30:4420/live.mp3
+#EXTINF:-1 tvg-logo="http://www.katolikusradio.hu/uploads/content/164/kepek/c_matrica.png" group-title="catholic,religion",Magyar Katolikus Rádió
+http://katolikusradio.hu:9000/live_hi.mp3
+#EXTINF:-1 tvg-logo="https://mannafm.hu/wp-content/uploads/2019/01/mannafm-ikon-300x300.jpg" group-title="christian,christian contemporary,community radio,positive",Manna FM 98.6
+http://icast.connectmedia.hu/4780/live.mp3
+#EXTINF:-1 tvg-logo="http://www.mariaradio.hu/favicon.ico" group-title="catholic,religion",Mária Rádió
+http://honlap.mariaradio.hu:8000/mr
+#EXTINF:-1 tvg-logo="https://myonlineradio.hu/public/uploads/radio_img/maxiradio/play_250_250.png" group-title="pop",Maxi rádió
+http://46.107.212.101:9240/live
+#EXTINF:-1 tvg-logo="http://www.megaradio.hu/wp-content/uploads/2018/01/MEGA-OROSHAZA-LOGO-267x300.png" group-title="1980s,1990s,2000s,80s,90s,békéscsaba,disco,eurodance,local news,local radio,pop,retro,rock",Mega Rádió
+https://megaradio.hu/megastream
+#EXTINF:-1 tvg-logo="" group-title="classical",megadance
+https://gamershouse.hu:8080/livemega.mp3
+#EXTINF:-1 tvg-logo="http://www.megadanceradio.hu/favicon.ico" group-title="",MegaDance Rádió
+http://megadanceradio.hopto.org:8000/livemega.mp3
+#EXTINF:-1 tvg-logo="" group-title="",Megafon 95.7 Balassagyarmat
+http://79.172.201.173:8000/stream
+#EXTINF:-1 tvg-logo="" group-title="classical",MegaLive
+https://mega-live.net:2053/live.mp3
+#EXTINF:-1 tvg-logo="" group-title="talk & speech",Mera
+https://stream.radio.co/s3fd8d173f/listen
+#EXTINF:-1 tvg-logo="http://mercyradio.eu/wp-content/uploads/2014/02/fredy-mediapartner.png" group-title="hits,pop",Mercy Rádió
+http://stream.mercyradio.eu/mercyradio.mp3
+#EXTINF:-1 tvg-logo="http://mercyradio.eu/wp-content/uploads/2014/02/fredy-mediapartner.png" group-title="comedy,talk",Mercy Rádió - Kabaré
+http://stream.mercyradio.eu/kabare.mp3
+#EXTINF:-1 tvg-logo="http://mercyradio.eu/wp-content/uploads/2014/02/fredy-mediapartner.png" group-title="",Mercy Rádió - Mulatós
+http://stream.mercyradio.eu/mulatos.mp3
+#EXTINF:-1 tvg-logo="" group-title="dance",Mex Deejay
+http://s01.diazol.hu:35000/live.mp3
+#EXTINF:-1 tvg-logo="https://myonlineradio.hu/public/uploads/radio_img/mex-radio/play_250_250.jpg" group-title="hits,party",Mex Rádió
+http://stream.mexradio.hu:8000/stream
+#EXTINF:-1 tvg-logo="http://www.mezradio.hu/assets/images/mr.ico" group-title="",Méz Rádió - Veszprém FM 103,1 MHz
+http://stream.mezradio.hu:7812/mezfm128.mp3
+#EXTINF:-1 tvg-logo="http://magyarzene.eu/wp-content/uploads/2014/06/MIRADIONK.jpg" group-title="pop,rock",miradionk.hu
+http://92.61.114.191:6030/;
+#EXTINF:-1 tvg-logo="" group-title="fresh",Mixradio fresh
+http://adas.adasszerver.hu/live
+#EXTINF:-1 tvg-logo="http://www.popularis.hu/radio/mix.png" group-title="00s,dance",MixRadio Retro
+http://91.227.139.87:8002/;
+#EXTINF:-1 tvg-logo="https://myonlineradio.hu/public/uploads/radio_img/momo-radio/fb_cover.png" group-title="children,kids,music",Momó Rádió
+https://stream.diazol.hu:7092/zene.mp3
+#EXTINF:-1 tvg-logo="https://myonlineradio.hu/public/uploads/radio_img/momo-radio/play_250_250.png" group-title="children,fairytales,kids",Momó Rádió Mese
+https://stream.diazol.hu:7092/mese.mp3
+#EXTINF:-1 tvg-logo="http://mustarhaz.hu/wp-content/uploads/8766.jpg" group-title="local radio,non-profit",Mustár Rádió
+http://193.138.125.14:8500/;
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hu/archive/8/8e/20120820103558!Mr4-Nemzetis%C3%A9gi.png" group-title="duna média,minority,public radio,talk",Nemzetiségi adások
+http://mr-stream.mediaconnect.hu/4743/mr4.aac
+#EXTINF:-1 tvg-logo="https://nextfm.hu/wp-content/uploads/2021/11/cropped-nextfm70-1-1-180x180.png" group-title="",Next FM
+https://stream.nextfm.hu/radio/8000/nextfmhu.mp3?1590416039
+#EXTINF:-1 tvg-logo="http://m.cdn.blog.hu/mu/musicpress/image/openair-logo2a.jpg" group-title="alternative",Open Air Radio
+http://79.172.209.223:9200/stream;
+#EXTINF:-1 tvg-logo="" group-title="",Opera Radio Budapest
+http://onair7.xdevel.com:7126/1/
+#EXTINF:-1 tvg-logo="" group-title="classical",oxigen
+https://oxygenmusic.hu:8443/oxygenmusic
+#EXTINF:-1 tvg-logo="https://oxygenmusic.hu/favicon.ico" group-title="hip-hop,rap,rnb",Oxygen Black Music
+https://oxygenmusic.hu:8443/blackmusic_128
+#EXTINF:-1 tvg-logo="https://oxygenmusic.hu/wp-content/uploads/2021/02/rock_web_cover.jpg" group-title="classic rock,rock",Oxygen Classic Rock
+https://oxygenmusic.hu:8443/oxygenclassicrock
+#EXTINF:-1 tvg-logo="https://oxygenmusic.hu/wp-content/uploads/2021/02/klasszikus_zene_web_cover.jpg" group-title="classical,classics",Oxygen Classics
+https://oxygenmusic.hu:8443/Classic_128
+#EXTINF:-1 tvg-logo="https://oxygenmusic.hu/wp-content/uploads/2021/02/fitness_web_cover.jpg" group-title="energetic,fitness,gym,high energy,workout",Oxygen Fitness
+https://oxygenmusic.hu:8443/oxygenfitness
+#EXTINF:-1 tvg-logo="https://oxygenmusic.hu/wp-content/uploads/2021/02/happy_music_web_cover.jpg" group-title="happy,party,pop dance,positive",Oxygen Happy
+https://oxygenmusic.hu:8443/oxygenhappy
+#EXTINF:-1 tvg-logo="https://oxygenmusic.hu/wp-content/uploads/2021/02/indie_hits_web_cover.jpg" group-title="alternative,indie,indie music,indie rock",Oxygen Indie
+https://oxygenmusic.hu:8443/oxygenindie
+#EXTINF:-1 tvg-logo="https://oxygenmusic.hu/wp-content/uploads/2021/02/italo_hits_web_cover.jpg" group-title="classic hits,eurodance,italo,pop dance",Oxygen Italo Hits
+https://oxygenmusic.hu:8443/oxygenitalohits
+#EXTINF:-1 tvg-logo="https://oxygenmusic.hu/wp-content/uploads/2021/02/kids_web_cover.jpg" group-title="kids,soundtrack",Oxygen Kids
+https://oxygenmusic.hu:8443/oxygenkids
+#EXTINF:-1 tvg-logo="https://oxygenmusic.hu/wp-content/uploads/2021/02/lounge_web_cover.jpg" group-title="chill,easy listening,lounge music",Oxygen Lounge
+https://oxygenmusic.hu:8443/oxygenlounge
+#EXTINF:-1 tvg-logo="https://oxygenmusic.hu/wp-content/uploads/2021/02/love_songs_web_cover.jpg" group-title="love songs,romantic",Oxygen Love Songs
+https://oxygenmusic.hu:8443/oxygenlovesongs
+#EXTINF:-1 tvg-logo="https://oxygenmusic.hu/wp-content/uploads/2021/02/magyar_zene_web_cover.jpg" group-title="european,hungarian pop music,pop rock",Oxygen Magyar Zene
+https://oxygenmusic.hu:8443/oxygenmagyarzene
+#EXTINF:-1 tvg-logo="https://oxygenmusic.hu/wp-content/uploads/2021/02/oxygen_music_web_cover.jpg" group-title="hits,top,various",Oxygen Music
+https://oxygenmusic.hu:8443/oxygenmusic_192
+#EXTINF:-1 tvg-logo="https://oxygenmusic.hu/wp-content/uploads/2021/02/oldies_web_cover.jpg" group-title="classic hits,oldies",Oxygen Oldies
+https://oxygenmusic.hu:8443/oxygenoldies
+#EXTINF:-1 tvg-logo="https://oxygenmusic.hu/wp-content/uploads/2021/02/spenser_hill_web_cover.jpg" group-title="easy listening,italo,pop dance,soundtrack",Oxygen Spencer-Hill
+https://oxygenmusic.hu:8443/oxygenspencerhillzenek
+#EXTINF:-1 tvg-logo="https://cdn1.umg3.net/587/files/2018/09/5-2.jpg" group-title="10s,2010s,top hits",Oxygen The 10s Hits
+https://oxygenmusic.hu:8443/oxygenthe10shits
+#EXTINF:-1 tvg-logo="https://oxygenmusic.hu/wp-content/uploads/2021/02/the_80_hits_web_cover.jpg" group-title="80's,80s,classic hits",Oxygen The 80s Hits
+https://oxygenmusic.hu:8443/oxygenthe80shits
+#EXTINF:-1 tvg-logo="https://oxygenmusic.hu/logo192.png" group-title="90's,90s,classic hits",Oxygen The 90s Hits
+https://oxygenmusic.hu:8443/oxygenthe90shits
+#EXTINF:-1 tvg-logo="https://oxygenmusic.hu/wp-content/uploads/2021/02/ozone_fm_web_cover.jpg" group-title="hits,top,various",Ozone FM
+https://oxygenmusic.hu:8443/ozonefm_128.mp3
+#EXTINF:-1 tvg-logo="" group-title="classical",Ozonefm
+https://oxygenmusic.hu:8443/ozonefm_320
+#EXTINF:-1 tvg-logo="http://pannoniaradio.hu/wp-content/uploads/2018/11/cropped-44313007_284544652155835_7109065280344555520_n-270x270.jpg" group-title="",Pannónia Rádió
+http://kft.kesintisizyayin.com:8130/stream
+#EXTINF:-1 tvg-logo="http://db.radioline.fr/pictures/radio_04af649906b08d48b1e16c19cbeefec4/logo200.jpg?size=200" group-title="duna média,news,parliament,public radio",Parlamenti adások
+http://mr-stream.mediaconnect.hu/4745/mr5.aac
+#EXTINF:-1 tvg-logo="https://pecsaktual.hu/wp-content/uploads/2020/03/cropped-favicon-300x300.gif" group-title="",Pécs Aktuál Rádió
+https://stream.pecsaktual.hu/paradio.mp3
+#EXTINF:-1 tvg-logo="http://periszkopradio.hu/periweb/hatterkepek/logo-1.png" group-title="alternative,rock",Periszkóp Rádió
+http://sztrim.periszkopradio.hu:8088/;stream
+#EXTINF:-1 tvg-logo="http://pestikabare.hu/pestikabare.hu/logo.jpg" group-title="comedy,humor,standup",Pesti Kabaré
+https://eapps-cs.herokuapp.com/radio.pestikabare.hu
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-GTJ2bxBQj30/AAAAAAAAAAI/AAAAAAAAAAA/iVfktSbpM9c/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="alternative,duna média,pop,public radio",Petőfi Rádió
+http://mr-stream.mediaconnect.hu/4737/mr2.aac
+#EXTINF:-1 tvg-logo="http://www.ahu.hu/images/stories/poptarisznya-facebook.jpg" group-title="classic hits",Poptarisznya
+http://adas.poptarisznya.hu:8200/live.mp3
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/logo/6/77516.v2.png" group-title="blues,classic rock,oldies",Poptarisznya Blues24
+http://adas.poptarisznya.hu:8200/blues.mp3
+#EXTINF:-1 tvg-logo="" group-title="classic hits,oldies",Poptarisznya Oldies
+http://adas.poptarisznya.hu:8200/oldies.mp3
+#EXTINF:-1 tvg-logo="http://www.powerfm.hu/assets/images/logo.png" group-title="hard rock,heavy metal",Power FM - Rock FM
+http://s39.myradiostream.com:11590/listen/;.mp3
+#EXTINF:-1 tvg-logo="" group-title="classical",Rádió 1
+https://icast.connectmedia.hu/5201/live.mp3
+#EXTINF:-1 tvg-logo="https://radio1.hu/wp-content/themes/radio1/assets/dist/img/favicon/ms-icon-144x144.png" group-title="",Rádió 1 - Budapest
+http://icast.connectmedia.hu/5201/live.mp3
+#EXTINF:-1 tvg-logo="http://graph.facebook.com/radio1debrecen/picture?type=large" group-title="pop",Rádió 1 Debrecen
+http://91.82.85.44:8080/debrecenradiofm95
+#EXTINF:-1 tvg-logo="" group-title="",Rádió 1 Kiskunfélegyháza
+http://siriusradio.hu:8500/relay_mobile_911
+#EXTINF:-1 tvg-logo="http://graph.facebook.com/radio1pecs/picture?type=large" group-title="pop",Rádió 1 Pécs
+http://stream.radio1pecs.hu:8200/pecs.mp3
+#EXTINF:-1 tvg-logo="http://graph.facebook.com/radio1sopron/picture?type=large" group-title="pop",Rádió 1 Sopron
+http://sopronradio.hu:8000/napradio
+#EXTINF:-1 tvg-logo="http://graph.facebook.com/radio1szombathely/picture?type=large" group-title="",Rádió 1 Szombathely
+http://77.221.39.23:8000/;
+#EXTINF:-1 tvg-logo="http://r24.hu/wp-content/uploads/2017/04/logo5_0.jpg" group-title="",Rádió 24
+http://137.74.85.85:7320/hq
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-IX-c5PaKy8A/VYnOJXxzUlI/AAAAAAAAAGQ/mzmfSQG3tAc/s420/r2.png" group-title="",Rádió 7
+http://netradio.radio7.hu:8300/stream.mp3
+#EXTINF:-1 tvg-logo="http://www.radio88.hu/favicon.ico" group-title="",Rádió 88
+http://stream.radio88.hu:8000/;
+#EXTINF:-1 tvg-logo="http://www.radio88.hu/favicon.ico" group-title="dance",Rádió 88 Club
+http://stream2.radio88.hu:8400/;stream
+#EXTINF:-1 tvg-logo="http://www.radio88.hu/favicon.ico" group-title="hits,retro",Rádió 88 Retro
+http://stream1.radio88.hu:8300/;stream
+#EXTINF:-1 tvg-logo="http://www.radio88.hu/favicon.ico" group-title="contemporary hits,top 40",Rádió 88 Top
+http://stream3.radio88.hu:8500/;stream
+#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/befkzjuwpcsw.png" group-title="00s,80s,90s,adult contemporary,top 40",Rádió Antritt
+http://stream.radioantritt.hu:8000/Antritt
+#EXTINF:-1 tvg-logo="" group-title="",Rádió Bézs
+http://195.210.29.82:8001/bezs
+#EXTINF:-1 tvg-logo="" group-title="",Rádió Bézs 2
+http://195.210.29.82:8002/bezs2
+#EXTINF:-1 tvg-logo="" group-title="",Rádió Dabas
+http://stream3.virtualisan.net:7040/;
+#EXTINF:-1 tvg-logo="http://efm.hu/wp-content/uploads/2021/09/cropped-ico-180x180.png" group-title="house",Radio E
+http://radioe.net:8080/efm_high
+#EXTINF:-1 tvg-logo="" group-title="classical",Radio face black
+http://ca3.rcast.net:8016/;
+#EXTINF:-1 tvg-logo="http://www.radiogroove.hu//img/2547_1427_groove.png" group-title="80s,90s,classic hits,pop",Rádió Groove
+http://79.172.194.189:35110/;
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/exYQ4PRlQ0IaGoh2TCN-DAOZTOcDSdh3kRFLocs9sFDbiIf_GgsgH7hvIVXb-c6p1JU=s180" group-title="",Rádió Like
+https://cdn-node-44.hififm.hu:8080/stream001.mp3
+#EXTINF:-1 tvg-logo="" group-title="hungarian pop music",Rádió M
+http://hosting2.42netmedia.com:10060/;stream.mp3
+#EXTINF:-1 tvg-logo="https://www.mariaradio.hu/favicon.ico" group-title="catholic,religion",RADIO MARIA HUNGARY
+http://dreamsiteradiocp.com:8032/stream
+#EXTINF:-1 tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2014/12/Radio-Most.jpg" group-title="",Rádió Most
+http://stream.radiomost.hu:8200/live.mp3
+#EXTINF:-1 tvg-logo="http://radioq.hu/wp-content/uploads/2020/04/cropped-favicon512-180x180.png" group-title="alternative,talk",Radio Q
+http://93.189.113.165:8000/stream
+#EXTINF:-1 tvg-logo="" group-title="",Rádió Smile
+http://radiosmile.hu:8010/stream
+#EXTINF:-1 tvg-logo="" group-title="classical",Radiobrand
+http://radiobrand.es:8084/
+#EXTINF:-1 tvg-logo="" group-title="classical",radiosense
+https://stream1.virtualisan.net/prx/4800/stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="darkpsy,full-on,ozora,progressive psytrance,psychedelic,psytrance,trance",RadiOzora
+http://trance.out.airtime.pro:8000/trance_a
+#EXTINF:-1 tvg-logo="" group-title="downtempo,electronic,psychedelic,psychill",RadiOzora Chill
+http://chill.out.airtime.pro:8000/chill_a
+#EXTINF:-1 tvg-logo="" group-title="nostalgie,oldies,régi,slágerek",Regina radio
+http://proxima.shoutca.st:8023/live
+#EXTINF:-1 tvg-logo="https://retroradio.hu/wp-content/themes/retroradio/assets/dist/img/favicon/apple-icon-120x120.png" group-title="70s,80s,retro",Retro Rádió
+https://icast.connectmedia.hu/5001/live.mp3/retroradio_aac_128.m4a
+#EXTINF:-1 tvg-logo="" group-title="classical",retro radio
+https://icast.connectmedia.hu/5002/live.mp3
+#EXTINF:-1 tvg-logo="" group-title="dance,house,trance",Rise FM
+http://risefm1.stereoplayer.hu:8080/risefm_hq
+#EXTINF:-1 tvg-logo="" group-title="classical",risefm
+http://188.165.11.30:8080/risefm_rnb_hq
+#EXTINF:-1 tvg-logo="" group-title="classical",risefm classik
+http://188.165.11.30:8080/risefm_classic_hq
+#EXTINF:-1 tvg-logo="" group-title="classical",risefm deep
+https://stream1.virtualisan.net/prx/8080/risefm_deephouse_hq
+#EXTINF:-1 tvg-logo="" group-title="classical",risefm hithouse
+http://188.165.11.30:8080/risefm_hithouse_lq
+#EXTINF:-1 tvg-logo="https://rockerradio.online/wp-content/uploads/2020/04/cropped-favicon512-180x180.png" group-title="",Rocker Rádió
+https://stream.diazol.hu:35202/stream
+#EXTINF:-1 tvg-logo="https://myonlineradio.hu/public/uploads/radio_img/rocker-radio/play_250_250.png" group-title="classic rock,hard rock,metal,rok",Rocker Rádió
+http://stream.diazol.hu:35200/stream
+#EXTINF:-1 tvg-logo="http://www.sarvarradio.hu/wp-content/uploads/2017/04/cropped-logo_fb-270x270.jpg" group-title="",Sárvár Rádió
+http://92.61.114.191:9651/;
+#EXTINF:-1 tvg-logo="" group-title="classical",Siesta radio
+http://164.68.119.133:8000/siesta.mp3
+#EXTINF:-1 tvg-logo="http://siriusradio.hu/../favicon.ico" group-title="",Sirius Rádió
+http://siriusradio.hu:8500/relay_911
+#EXTINF:-1 tvg-logo="" group-title="80s,90s,classic hits",Sláger FM
+http://92.61.114.159:7812/slagerfm256.mp3
+#EXTINF:-1 tvg-logo="" group-title="christian,evangelical,religion",Sola Rádió
+http://188.165.11.30:7000/live.mp3
+#EXTINF:-1 tvg-logo="https://spiritfm.hu/images/logo_uj.png" group-title="pop music",Spirit FM
+https://s02.diazol.hu:10052/spweb1.mp3
+#EXTINF:-1 tvg-logo="https://www.sunshinefm.hu/img/dance_big.png" group-title="dance,party",Sunshine Dance
+http://195.56.193.129:8120/;stream/1?icy=http
+#EXTINF:-1 tvg-logo="" group-title="",Sunshine FM
+http://195.56.193.129:8100/;stream/1
+#EXTINF:-1 tvg-logo="https://www.sunshinefm.hu/img/sunshine_default_.png" group-title="local news,top 40,top hits",Sunshine FM
+http://195.56.193.129:8100/;stream/1?icy=http
+#EXTINF:-1 tvg-logo="https://www.sunshinefm.hu/img/pop_big.png" group-title="hits,pop music",Sunshine Pop
+http://195.56.193.129:8110/;stream/1?icy=http
+#EXTINF:-1 tvg-logo="" group-title="classical",superdj radio
+http://stream.diazol.hu:35150/stream
+#EXTINF:-1 tvg-logo="https://superdjradio.hu/wp-content/uploads/2020/06/cropped-superdj-uj-logo-180x180.png" group-title="disco,dj",SuperDj Radio
+http://stream.diazol.hu:35150/autodj
+#EXTINF:-1 tvg-logo="" group-title="christian,katholic,katoliški",Szent István Rádió
+http://online.szentistvanradio.hu:7000/adas
+#EXTINF:-1 tvg-logo="http://files.szunetradio.webnode.hu/200000011-7b3fe7c394/200/Sz%C3%BCnet%20R%C3%A1di%C3%B3%20logo.PNG" group-title="",SzüNet Rádió
+http://92.61.114.191:1101/listen.mp3
+#EXTINF:-1 tvg-logo="https://i1.wp.com/www.taskaradio.com/wp-content/uploads/2017/01/cropped-taska_radio_favicon_2_V2.png?fit=270%2C270" group-title="pop,student radio",Táska Rádió
+http://live.taskaradio.com:7070/;stream.nsv#.mp3
+#EXTINF:-1 tvg-logo="https://tilos.hu/images/kockalogo.png" group-title="alternative,community radio,free radio,freeform,independent",Tilos Rádió
+http://stream.tilos.hu/tilos
+#EXTINF:-1 tvg-logo="https://tilos.hu/images/kockalogo.png" group-title="",Tilos Rádió - Mesék
+http://stream.tilos.hu/mese
+#EXTINF:-1 tvg-logo="https://tilos.hu/images/kockalogo.png" group-title="",Tilos Rádió - Okosodj!
+http://stream.tilos.hu/szoveg
+#EXTINF:-1 tvg-logo="" group-title="jazz rock",Tilos Rádió 32 kbit/sec
+http://stream.tilos.hu/tilos_32.mp3
+#EXTINF:-1 tvg-logo="" group-title="independent",Tilos Rádió FM 90.3
+http://stream.tilos.hu/tilos_128.mp3
+#EXTINF:-1 tvg-logo="" group-title="independent",Tilos Rádió FM 90.3
+http://stream.tilos.hu:8000/tilos
+#EXTINF:-1 tvg-logo="" group-title="cultural,economic news,talk",Trend FM
+http://radio.nordtelekom.hu:8000/gazdasagiradio
+#EXTINF:-1 tvg-logo="" group-title="classical",Veszprémfm
+https://stream.diazol.hu:7042/live.mp3
+#EXTINF:-1 tvg-logo="" group-title="pop music",Zemplén FM
+https://stream.42netmedia.com:8443/zemplenfm
+#EXTINF:-1 tvg-logo="https://zugradio.hu/wp-content/uploads/2018/04/logo224OK-2.png" group-title="",Zugrádió
+http://zuglofm.netregator.hu:7812/zuglofm128.mp3

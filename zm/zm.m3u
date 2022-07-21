@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s281129/images/logoq.jpg?t=154478" group-title="",5fm Radio Zambia
+http://ca9.rcast.net:8014/;stream.mp3
+#EXTINF:-1 tvg-logo="http://www.flavafm.co.zm/favicon.ico" group-title="",Flava (Kitwe)
+http://s2.voscast.com:9304/;
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/logo/3/47723.png" group-title="african music,zambian music",Hot FM 87.7
+http://s2.yesstreaming.net:7091/stream?type=.mp3%2F%3Bstream.mp3&_=1
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s228654/images/logoq.jpg?t=153323" group-title="",Power FM Zambia
+http://41.60.195.11:8000/stream.ogg
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s110024q.png" group-title="",Q FM Lusaka
+http://s3.myradiostream.com:7620/listen.m4a
+#EXTINF:-1 tvg-logo="https://rcvoice.co.zm/wp-content/uploads/2019/05/favicon-png.png" group-title="",Radio Christian Voice
+https://zas5.ndx.co.za:8184/stream?1621623539438
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s298331/images/logoq.jpg?t=156880" group-title="",Sun Fm Zambia
+http://11233.cloudrad.io:9102/live
+#EXTINF:-1 tvg-logo="" group-title="r&b/urban",ThaBiggRadio
+http://node-10.zeno.fm/c17yxm6rrg0uv?rj-ttl=5&rj-tok=AAABfdqmpU4ArqgVsOKjR298rQ
+#EXTINF:-1 tvg-logo="http://www.znbc.co.zm/favicon.ico" group-title="",TV 4
+http://dcunilive258-lh.akamaihd.net/i/dclive_1@348579/master.m3u8
+#EXTINF:-1 tvg-logo="https://onlineradiobox.com/zm/utuntu/" group-title="",Utuntu FM
+http://node-09.zeno.fm/43pyucsmhzzuv?rj-ttl=5&rj-tok=AAABfd4TXRUAJTSf_ooK_8nUeA
+#EXTINF:-1 tvg-logo="https://dpi4fupzvxbqq.cloudfront.net/rfm/uploads/blogo/300/300_1576829958.jpg" group-title="",Wave FM 98.7
+http://s23.myradiostream.com:17458/listen.mp3
+#EXTINF:-1 tvg-logo="https://www.znbc.co.zm/favicon.ico" group-title="",ZNBC Radio 1
+https://eu6.fastcast4u.com/proxy/radio1?mp=/1&1632938861811
+#EXTINF:-1 tvg-logo="https://www.znbc.co.zm/favicon.ico" group-title="",ZNBC Radio 2
+https://eu6.fastcast4u.com/proxy/radio2?mp=/1&1632939799942
+#EXTINF:-1 tvg-logo="https://www.znbc.co.zm/favicon.ico" group-title="",ZNBC Radio 4
+https://eu6.fastcast4u.com/proxy/radio4?mp=/1&1632940311668
