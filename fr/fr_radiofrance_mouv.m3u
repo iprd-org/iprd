@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.mouv.fr//favicons/mouv-180-180.png" group-title="hiphop,public radio,radio france,rap",Mouv' - 100% Mix
+https://icecast.radiofrance.fr/mouv100p100mix-hifi.aac
+#EXTINF:-1 tvg-logo="https://www.mouv.fr//favicons/mouv-180-180.png" group-title="hiphop,rap,usa",Mouv' - Rap US
+https://icecast.radiofrance.fr/mouvrapus-hifi.aac
+#EXTINF:-1 tvg-logo="http://www.mouv.fr/favicons/mouv-120-120.png" group-title="public radio,radio france,youth",Mouv' (LQ)
+http://icecast.radiofrance.fr/mouv-lofi.mp3
+#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2019/01/bb8da8da-f679-405f-8810-b4a172f6a32d/300x300_mouv-classic_02.jpg" group-title="aac,hip-hop and rap oldies,public radio,radio france,webradio",Mouv' Classics
+https://icecast.radiofrance.fr/mouvclassics-hifi.aac
+#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2019/01/9d04e918-c907-4627-a332-1071bdc2366e/300x300_dancehall.jpg" group-title="aac,dancehall,public radio,radio france,webradio",Mouv' DanceHall
+https://icecast.radiofrance.fr/mouvdancehall-hifi.aac
+#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2019/08/20b36ec0-fd19-4d92-b393-7977277e1452/300x300_mouv_webradio_kids_n_family.jpg" group-title="aac,hip-hop,public radio,radio france,rap,webradio",Mouv' Kids 'n Family
+https://icecast.radiofrance.fr/mouvkidsnfamily-hifi.aac
+#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2019/01/f3bf764e-637c-48c0-b152-1a258726710f/300x300_rnb.jpg" group-title="aac,public radio,r'n'b,radio france,soul,webradio",Mouv' R'n'B & Soul
+https://icecast.radiofrance.fr/mouvrnb-hifi.aac
+#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2019/01/3c4dc967-ed2c-4ce5-a998-9437a64e05d5/300x300_rapfr.jpg" group-title="aac,french rap,public radio,radio france,webradio",Mouv' Rap Français
+https://icecast.radiofrance.fr/mouvrapfr-hifi.aac
+#EXTINF:-1 tvg-logo="http://www.lemouv.fr//favicons/mouv-180-180.png" group-title="",Mouv' Rap Français
+http://icecast.radiofrance.fr/mouvrapfr-midfi.mp3
+#EXTINF:-1 tvg-logo="http://www.mouv.fr/favicons/mouv-120-120.png" group-title="public radio,radio france,youth",Mouv' Xtra
+http://icecast.radiofrance.fr/mouv100p100mix-midfi.mp3
