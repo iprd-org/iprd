@@ -1,7 +1,89 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://generations.fr/media/radio/generations.png" group-title="Music",Generations FM
-https://generationfm.ice.infomaniak.ch/generationfm-high.mp3
-#EXTINF:-1 tvg-logo="https://generations.fr/media/radio/funk.png" group-title="Music",Generations Funk
-https://gene-wr05.ice.infomaniak.ch/gene-wr05.mp3
-#EXTINF:-1 tvg-logo="https://generations.fr/media/radio/rnb.png" group-title="Music",Generations R&B
-https://generationfm-slowjam.ice.infomaniak.ch/generationfm-slowjam-high.mp3
+#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_generations.png" group-title="hiphop,soul",Generations
+http://generationfm.ice.infomaniak.ch/generationfm-high.aac
+#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_generations.png" group-title="hiphop,soul",Generations
+http://generationfm.ice.infomaniak.ch/generationfm-high.mp3
+#EXTINF:-1 tvg-logo="https://generations.fr/apple-touch-icon-120x120.png" group-title="",Generations 2015
+http://generations-thema.ice.infomaniak.ch/generations-thema.mp3
+#EXTINF:-1 tvg-logo="https://generations.fr/apple-touch-icon-120x120.png" group-title="",Generations 2015
+http://generations-thema.ice.infomaniak.ch/generations-thema.aac
+#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_booba1.png" group-title="",Generations Booba
+http://generations-booba.ice.infomaniak.ch/generations-booba.mp3
+#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_booba1.png" group-title="",Generations Booba
+http://generations-booba.ice.infomaniak.ch/generations-booba.aac
+#EXTINF:-1 tvg-logo="https://generations.fr/apple-touch-icon-120x120.png" group-title="dance hall,french",Generations Dance Hall
+http://generations-dancehall.ice.infomaniak.ch/generations-dancehall.mp3
+#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_brandnew.png" group-title="",Generations En Mode Brand New
+http://gene-wr10.ice.infomaniak.ch/gene-wr10.mp3
+#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_brandnew.png" group-title="",Generations En Mode Brand New
+http://gene-wr10.ice.infomaniak.ch/gene-wr10.aac
+#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_generations-freestyle-logo-smartphone.jpg" group-title="",Generations Freestyle
+http://gene-wr09.ice.infomaniak.ch/gene-wr09.mp3
+#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_generations-freestyle-logo-smartphone.jpg" group-title="",Generations Freestyle
+http://gene-wr09.ice.infomaniak.ch/gene-wr09.aac
+#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_funk.png" group-title="funk",Generations Funk
+http://gene-wr05.ice.infomaniak.ch/gene-wr05.mp3
+#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_funk.png" group-title="funk",Generations Funk
+http://gene-wr05.ice.infomaniak.ch/gene-wr05.aac
+#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_generations-girl-logo-smartphone1.png" group-title="",Generations Girl
+http://generations-girls.ice.infomaniak.ch/generations-girls.mp3
+#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_generations-girl-logo-smartphone1.png" group-title="",Generations Girl
+http://generations-girls.ice.infomaniak.ch/generations-girls.aac
+#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_generations-la-fouine-logo-smartphone.png" group-title="",Generations La Fouine
+http://generations-la-fouine.ice.infomaniak.ch/generations-la-fouine.mp3
+#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_generations-la-fouine-logo-smartphone.png" group-title="",Generations La Fouine
+http://generations-la-fouine.ice.infomaniak.ch/generations-la-fouine.aac
+#EXTINF:-1 tvg-logo="http://www.radioscope.fr/lien/local/generationslyon.png" group-title="french,french music,hiphop,rap,rap fr,rap us,rnb,soul",Générations Lyon
+http://radiosun.ice.infomaniak.ch/radiosun-high.mp3
+#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_generations-newjack-logo-smartphone.png" group-title="",Generations NewJack
+http://generations-njs.ice.infomaniak.ch/generations-njs.mp3
+#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_generations-newjack-logo-smartphone.png" group-title="",Generations NewJack
+http://generations-njs.ice.infomaniak.ch/generations-njs.aac
+#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_rnb.png" group-title="",Generations R&B
+http://generationfm-slowjam.ice.infomaniak.ch/generationfm-slowjam-high.aac
+#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_rnb.png" group-title="",Generations R&B
+http://generationfm-slowjam.ice.infomaniak.ch/generationfm-slowjam-high.mp3
+#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_rnb-gold.png" group-title="",Generations R&B Gold
+http://generations-rnb-gold.ice.infomaniak.ch/generations-rnb-gold.mp3
+#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_rnb-gold.png" group-title="",Generations R&B Gold
+http://generations-rnb-gold.ice.infomaniak.ch/generations-rnb-gold.aac
+#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_rapfr.png" group-title="",Generations Rap FR
+http://generationfm-rap.ice.infomaniak.ch/generationfm-rap-high.aac
+#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_rapfr.png" group-title="",Generations Rap FR
+http://generationfm-rap.ice.infomaniak.ch/generationfm-rap-high.mp3
+#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_rap_fr1.png" group-title="",Generations Rap FR Gold
+http://gene-wr06.ice.infomaniak.ch/gene-wr06.aac
+#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_rap_fr1.png" group-title="",Generations Rap FR Gold
+http://gene-wr06.ice.infomaniak.ch/gene-wr06.mp3
+#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_rap_us.png" group-title="",Generations Rap U.S
+http://generationfm-underground.ice.infomaniak.ch/generationfm-underground-high.aac
+#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_rap_us.png" group-title="",Generations Rap U.S
+http://generationfm-underground.ice.infomaniak.ch/generationfm-underground-high.mp3
+#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_rap_us_gold.png" group-title="",Generations Rap U.S Gold
+http://gene-wr08.ice.infomaniak.ch/gene-wr08.aac
+#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_rap_us_gold.png" group-title="",Generations Rap U.S Gold
+http://gene-wr08.ice.infomaniak.ch/gene-wr08.mp3
+#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_-reggae.png" group-title="reggae",Generations Reggae
+http://generations-caraibes.ice.infomaniak.ch/generations-caraibes-high.mp3
+#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_-reggae.png" group-title="reggae",Generations Reggae
+http://generations-caraibes.ice.infomaniak.ch/generations-caraibes-high.aac
+#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_reggaeton1.png" group-title="",Generations Reggaeton
+http://gene-rgton.ice.infomaniak.ch/generations-rgton.mp3
+#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_reggaeton1.png" group-title="",Generations Reggaeton
+http://gene-rgton.ice.infomaniak.ch/generations-rgton.aac
+#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_generations-rohff-logo-smartphone1.png" group-title="",Generations Rohff
+http://generation-rohff.ice.infomaniak.ch/generation-rohff.mp3
+#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_generations-rohff-logo-smartphone1.png" group-title="",Generations Rohff
+http://generation-rohff.ice.infomaniak.ch/generation-rohff.aac
+#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_slowjam.png" group-title="",Generations SlowJam
+http://gene-wr11.ice.infomaniak.ch/gene-wr11.mp3
+#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_slowjam.png" group-title="",Generations SlowJam
+http://gene-wr11.ice.infomaniak.ch/gene-wr11.aac
+#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_soul.png" group-title="",Generations Soul
+http://gene-wr07.ice.infomaniak.ch/gene-wr07.mp3
+#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_soul.png" group-title="",Generations Soul
+http://gene-wr07.ice.infomaniak.ch/gene-wr07.aac
+#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_generations-wati-b-logo-smartphone.png" group-title="",Generations Wati B
+http://generations-wati-b.ice.infomaniak.ch/generations-wati-b.mp3
+#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_generations-wati-b-logo-smartphone.png" group-title="",Generations Wati B
+http://generations-wati-b.ice.infomaniak.ch/generations-wati-b.aac
