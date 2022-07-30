@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/d/d5/FIP_logo_2005.svg/1024px-FIP_logo_2005.svg.png" group-title="aac,music,public radio,radio france",FIP
+http://icecast.radiofrance.fr/fip-hifi.aac
+#EXTINF:-1 tvg-logo="http://www.fipradio.fr/favicons/120-120.png" group-title="easy listening,electro",FIP autour de l’électro
+http://icecast.radiofrance.fr/fipelectro-midfi.mp3
+#EXTINF:-1 tvg-logo="http://www.fipradio.fr/favicons/120-120.png" group-title="groove,jazz,lounge",FIP autour du groove
+http://icecast.radiofrance.fr/fipgroove-midfi.mp3
+#EXTINF:-1 tvg-logo="http://www.fipradio.fr/favicons/120-120.png" group-title="reggae",FIP autour du reggae
+http://icecast.radiofrance.fr/fipreggae-midfi.mp3
+#EXTINF:-1 tvg-logo="http://fip.fr/favicons/120-120.png" group-title="#bordeaux,#music,#public radio,#radio france",Fip Bordeaux
+http://icecast.radiofrance.fr/fip-midfi.mp3?ID=76zqey582k
+#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2019/06/29044099-6469-4f2f-845c-54e607179806/200x200_fip-electro-ok.jpg" group-title="aac,electro,public radio,radio france",FIP Electro
+http://icecast.radiofrance.fr/fipelectro-hifi.aac
+#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2019/06/3673673e-30f7-4caf-92c6-4161485d284d/200x200_fip-groove_ok.jpg" group-title="aac,groove,public radio,radio france",FIP Groove
+http://icecast.radiofrance.fr/fipgroove-hifi.aac
+#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2019/06/840a4431-0db0-4a94-aa28-53f8de011ab6/200x200_fip-jazz-01.jpg" group-title="aac,jazz,public radio,radio france",FIP Jazz
+http://icecast.radiofrance.fr/fipjazz-hifi.aac
+#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2019/06/9a1d42c5-8a36-4253-bfae-bdbfb85cbe14/200x200_fip-monde_ok.jpg" group-title="aac,public radio,radio france,world music",FIP Musiques du monde
+http://icecast.radiofrance.fr/fipworld-hifi.aac
+#EXTINF:-1 tvg-logo="https://www.fip.fr/favicons/120-120.png" group-title="eclectic,pop",Fip Pop
+https://icecast.radiofrance.fr/fippop-hifi.aac?id=radiofrance
+#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2020/06/14f16d25-960c-4cf4-8e39-682268b1a0c1/200x200_fip-pop_ok.jpg" group-title="aac,pop,public radio,radio france",FIP Pop
+https://icecast.radiofrance.fr/fippop-hifi.aac
+#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2019/06/15a58f25-86a5-4b1a-955e-5035d9397da3/200x200_fip-reggae_ok.jpg" group-title="aac,public radio,radio france,reggae",FIP Reggae
+http://icecast.radiofrance.fr/fipreggae-hifi.aac
+#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2019/06/f5b944ca-9a21-4970-8eed-e711dac8ac15/200x200_fip-rock_ok.jpg" group-title="aac,public radio,radio france,rock",FIP Rock
+http://icecast.radiofrance.fr/fiprock-hifi.aac
+#EXTINF:-1 tvg-logo="http://www.fipradio.fr/favicons/120-120.png" group-title="music,only music",FIP tout nouveau, tout FIP
+http://icecast.radiofrance.fr/fipnouveautes-midfi.mp3
