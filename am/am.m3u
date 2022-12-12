@@ -1,32 +1,22 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://fa.armradio.am/?doing_wp_cron=1636627594.9772830009460449218750" group-title="",Arm radio
 http://37.252.79.131:8000/stream
-#EXTINF:-1 tvg-logo="http://www.1tv.am/favicon.ico" group-title="",Armenia One TV
-http://amtv1.livestreamingcdn.com/am2abr/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://bashde.org/favicon.ico" group-title="",Armenian Christian Radio - Bashde Radio
 https://streams.radio.co/sa0bf8ec29/listen?sid=1
 #EXTINF:-1 tvg-logo="" group-title="",Fama
 http://eu.stream4cast.com:8036/stream/
-#EXTINF:-1 tvg-logo="https://horizonarmeniantv.com/wp-content/uploads/2019/02/favicon.png" group-title="",Horizon Armenian TV
-http://5.254.76.34:17070/C441/index.m3u8?token=kdsdkwy453wrRq29IIIo
 #EXTINF:-1 tvg-logo="http://www.lavradio.am/wp-content/uploads/2017/02/lav.png" group-title="hits,top",Lav Radio
 http://163.172.7.220:8000/stream/1/
 #EXTINF:-1 tvg-logo="http://www.lavradio.am/wp-content/uploads/2017/02/mfm_.png" group-title="electro,hits,pop dance,top charts",Lav Radio - MFM
 http://163.172.7.220:8012/stream/1/
 #EXTINF:-1 tvg-logo="https://www.lavradio.am/wp-content/uploads/2020/08/cropped-favicon-180x180.png" group-title="charts,club,dance,electronic,mix,remix",Lav Radio - Mix
 http://163.172.7.220:8006/stream/1/
-#EXTINF:-1 tvg-logo="http://www.lavradio.am/wp-content/uploads/2017/02/cropped-icon-270x270.png" group-title="",Lav Radio Playlist
-http://163.172.7.220:8006/stream
 #EXTINF:-1 tvg-logo="https://lratvakan.am/static/img/favicon.png" group-title="",Lratvakan Radio 106.5 FM
 http://212.34.233.78:8000/live
-#EXTINF:-1 tvg-logo="http://www.luys.tv/images/logo.png" group-title="westernarmenia",Luys TV Western Armenian TV
-http://luyse.mediatriple.net/luystv/luystv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",MFM Music Radio
 http://163.172.7.220:8012/stream
 #EXTINF:-1 tvg-logo="" group-title="",Radio Aurora
 http://am.radioaurora.am:8010/al.mp3
-#EXTINF:-1 tvg-logo="" group-title="",Radio Aurora VLV
-http://am.radioaurora.am:8010/vlv
 #EXTINF:-1 tvg-logo="https://www.radioaurora.am/favicon.ico" group-title="",Radio Aurora yc2
 http://am.radioaurora.am:8010/yc
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b1dfa3_20cf67328cad4a5e9f70d2065d15a9cc.jpg" group-title="",Radio AYK
