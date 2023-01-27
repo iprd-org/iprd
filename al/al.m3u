@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="" group-title="albania,tirane",Energy Radio NRG
 http://ice31.securenetsystems.net/AL09?type=.mp3
-#EXTINF:-1 tvg-logo="" group-title="shqip",EngjellusheRadio
-http://node-24.zeno.fm/e0z3nnaym18uv
 #EXTINF:-1 tvg-logo="" group-title="variety",Play Radio Albania
 http://n12.radiojar.com/sx7zrht0pg0uv
 #EXTINF:-1 tvg-logo="" group-title="albanian music",Radio Emigranti
@@ -13,16 +11,12 @@ http://84.20.83.24:88/broadwavehigh.mp3
 http://s2.stationplaylist.com:8240/;
 #EXTINF:-1 tvg-logo="https://www.radiomaria.al/wp-content/uploads/2018/01/cropped-per-itunes-270x270.jpg" group-title="catholic,religion",RADIO MARIA ALBANIA
 http://dreamsiteradiocp2.com:8028/stream
-#EXTINF:-1 tvg-logo="" group-title="classical",Radio-ILIRIDA
-http://node-03.zeno.fm/ny0p7tvzm7zuv
+#EXTINF:-1 tvg-logo="" group-title="classical",Radio-ILIRII
+https://stream.zeno.fm/1peycypauwzuv
 #EXTINF:-1 tvg-logo="" group-title="classical",Radio-MESHIRA
-http://node-35.zeno.fm/ru8fmr02v7zuv
+http://85.25.185.214:8000/;
 #EXTINF:-1 tvg-logo="" group-title="folk",Radio-SHKUPI 1
-http://node-31.zeno.fm/su006pnzm7zuv
-#EXTINF:-1 tvg-logo="" group-title="classical",Radio-VIZBEGU
-http://node-02.zeno.fm/8k3sh2wzm7zuv
-#EXTINF:-1 tvg-logo="" group-title="",RadioBum
-http://node-30.zeno.fm/dse5af2gs18uv
+https://stream.zeno.fm/2rt32pnzm7zuv
 #EXTINF:-1 tvg-logo="https://radioone.al/assets/logo.jpg" group-title="public radio",RadioOne
 https://cp1.sednastream.com/proxy/radioone94?mp=/stream
 #EXTINF:-1 tvg-logo="" group-title="albania",Tirana Jazz Radio
