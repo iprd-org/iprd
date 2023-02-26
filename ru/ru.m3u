@@ -350,11 +350,11 @@ https://lightradio.radiostream.pro/mp3
 #EXTINF:-1 tvg-logo="https://www.likefm.ru/design/images/logo/logo-small.png" group-title="",Like FM Moscow, Russia
 http://pub0302.101.ru:8000/stream/air/aac/64/219
 #EXTINF:-1 tvg-logo="http://images.vfl.ru/ii/1607979920/fbcd4c33/32662814.png" group-title="chillhop,easy listening,electronic,lofi",LoFi World
-http://node-20.zeno.fm/7w72va6s7k0uv?rj-ttl=5&rj-tok=AAABfdpdRJMAmzjckknl0fCPPQ
+http://stream.zeno.fm/7w72va6s7k0uv?rj-ttl=5&rj-tok=AAABfdpdRJMAmzjckknl0fCPPQ
 #EXTINF:-1 tvg-logo="http://images.vfl.ru/ii/1546691004/466d62f9/24827650.png" group-title="chillout,lounge",Lounge Beats
 https://listen6.myradio24.com/loungebe
 #EXTINF:-1 tvg-logo="http://images.vfl.ru/ii/1590449399/e25fd87d/30620931.png" group-title="bossa nova,chillout,easy listening,lounge",Lounge Vibes
-http://node-34.zeno.fm/n35hs4hcmzzuv?rj-ttl=5&rj-tok=AAABfdtNpZEAkj9FDdWFCnvRXA
+http://stream.zeno.fm/n35hs4hcmzzuv?rj-ttl=5&rj-tok=AAABfdtNpZEAkj9FDdWFCnvRXA
 #EXTINF:-1 tvg-logo="" group-title="dance,music,pop",Lradio
 https://air.unmixed.ru/lradio256
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AAuE7mA0wNG5B5G3eou2NCb0rRIOebNk9HNbJRuArw=s900-mo-c-c0xffffffff-rj-k-no" group-title="",MAXIMUM
@@ -436,11 +436,11 @@ http://orthodox-chants.ru:8000/128kb
 #EXTINF:-1 tvg-logo="https://66.media.tumblr.com/avatar_a75241a37503_128.pnj" group-title="oto",OTO Radio
 https://listen1.myradio24.com/7859
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/1/85611.v2.png" group-title="decades",Parice _fm Disko 90
-http://node-21.zeno.fm/ndm5u33z8qzuv?rj-ttl=5&rj-tok=AAABfdxRs0oAwxqL80CYFYV6SA
+http://stream.zeno.fm/ndm5u33z8qzuv?rj-ttl=5&rj-tok=AAABfdxRs0oAwxqL80CYFYV6SA
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/1/85661.v2.png" group-title="pop",Parice_fm novinki 2020
-http://node-19.zeno.fm/uad2cu946qzuv?rj-ttl=5&rj-tok=AAABfdxRlCsA3fGkBe2SImMiMA
+http://stream.zeno.fm/uad2cu946qzuv?rj-ttl=5&rj-tok=AAABfdxRlCsA3fGkBe2SImMiMA
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/1/85761.v4.png" group-title="decades",Parice_fm Retro
-http://node-34.zeno.fm/seedhh4zetzuv?rj-ttl=5&rj-tok=AAABfdy8bYsAY5zMWVsnRZnqZw
+http://stream.zeno.fm/seedhh4zetzuv?rj-ttl=5&rj-tok=AAABfdy8bYsAY5zMWVsnRZnqZw
 #EXTINF:-1 tvg-logo="http://anothermusicproject.com/.selector.gif" group-title="classical,instrumental,piano",Piano Di Notte
 http://radio.anothermusicproject.com:8000/pianodinotte
 #EXTINF:-1 tvg-logo="" group-title="hits",Power FM Murmansk
@@ -2027,7 +2027,8 @@ https://tvrts.ru:8443/kh.mp3
 http://radio.4duk.ru/4duk128.mp3
 #EXTINF:-1 tvg-logo="https://www.eff.org/files/Button_Russian_white.png" group-title="russia,russian,shanson,без,русский,цензуры,шансон",Шансон без цензуры
 http://chanson.hostingradio.ru:8041/chanson-uncensored256.mp3
-#EXTINF:-1 tvg-logo="" group-title="classical",ШАНСОН БЕЗ ЦЕНЗУРЫ [CHANSONUNCENSORED]
+#EXTINF:-1 tvg-logo="" group-title="classical",ШАНСОН БЕЗ ЦЕНЗУРЫ [CHANSONUNCENSORED]
+
 http://chanson.hostingradio.ru:8041/chanson-uncensored128.mp3
 #EXTINF:-1 tvg-logo="" group-title="",Шансон Плюс
 http://radio.radioshansonplus.com:8000/radio
