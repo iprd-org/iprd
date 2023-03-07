@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://www.abc.net.au/cm/rimage/9593036-1x1-large.png?v=12" group-title="local news,local radio",1062 ABC Riverland
-https://abcradiolivehls-lh.akamaihd.net/i/localriverland_1@92410/index_24_a-b.m3u8
-#EXTINF:-1 tvg-logo="https://www.sen.com.au/images/favicon-180x180.png" group-title="sport",1170 SEN Sydney
+https://mediaserviceslive.akamaized.net/hls/live/2038160/localriverland/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.sen.com.au/images/favicon-180x180.png" group-title="sport",1170 SEN Sydney [GEO]
 https://d11fwwlrb0wuhh.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.2ay.com.au/site/assets/img/logos/2ay.png" group-title="",1494 2AY Albury-Wodonga
-http://14993.live.streamtheworld.com/ACE_2AYAAC_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/ACE_2AYAAC.aac
 #EXTINF:-1 tvg-logo="http://www.1wayfm.com.au/favicon.ico" group-title="christian",1WAY FM
 http://s2.viastreaming.net:6165/;stream/1
 #EXTINF:-1 tvg-logo="" group-title="canberra,community radio,news,talk,variety",1XXR "2XX" 98.3 FM Canberra, ACT
@@ -15,11 +15,11 @@ http://eno.emit.com:8000/2bob_live_64.mp3
 http://s6.voscast.com:8016/stream1479405503139/1
 #EXTINF:-1 tvg-logo="" group-title="",2Day FM
 http://legacy.scahw.com.au/2day_32
+#EXTINF:-1 tvg-logo="" group-title="",2Day FM
+https://wz2liw.scahw.com.au/live/2day_128.stream/playlist.m3u8?dist=listnr-web
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQskEC5_9TBIzhS6t3V64b5dj3c24rHcWhMNIISLW3HJfpp2jzs" group-title="102.9,107.5,community radio,eurobodalla,moruya",2EAR FM
 http://198.74.51.37:9986/
 #EXTINF:-1 tvg-logo="http://fbiradio.com/wp-content/themes/fbi_sf/images/favicon.ico" group-title="eclectic,sydney",2FBI "FBi Radio" 94.5 FM Sydney, NSW
-https://stream.fbiradio.com/stream.mp3
-#EXTINF:-1 tvg-logo="http://fbiradio.com/wp-content/themes/fbi_sf/images/favicon.ico" group-title="community,eclectic,sydney",2FBI "FBi Radio" 94.5 FM Sydney, NSW
 https://streamer.fbiradio.com/stream
 #EXTINF:-1 tvg-logo="https://www.2gb.com/wp-content/uploads/sites/2/2017/01/top_logo.png" group-title="conservative,news,sport,talk,talkback",2GB Sydney
 http://23153.live.streamtheworld.com:80/2GBAAC.aac
