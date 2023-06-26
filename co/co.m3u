@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/countries/colombia-logo_1200x630.png" group-title="",123 Vallenato
 http://radiolatina.info:7087/;
 #EXTINF:-1 tvg-logo="https://zeno.fm/static/icons/apple-icon-120x120.png" group-title="pop",80s Bravo Bogota Colombia
-https://stream.zeno.fm/hyvv0ya2es8uv
+http://stream.zeno.fm/hyvv0ya2es8uv
 #EXTINF:-1 tvg-logo="https://i.radionomy.com/document/radios/6/6198/6198c640-54d7-4158-8ed2-2910af286308.s300.png" group-title="Music",Abaco Libros y Cafe Jazz Radio
 http://195.154.133.107:8638/stream
 #EXTINF:-1 tvg-logo="https://acuarioestereo.com/wp-content/plugins/player-widget/acuario.png" group-title="Music",Acuario Estéreo (HJCC 1010 kHz AM, Bogotá)
@@ -20,7 +20,7 @@ http://72.29.87.97:8020/;
 #EXTINF:-1 tvg-logo="https://barranquillaestereo.com/wp-content/uploads/cropped-favicon-180x180.png" group-title="80s,cumbia,latin,latino,merengue,salsa",Barranquilla Estereo
 http://radio.yaservers.com:8197/;stream.mp3
 #EXTINF:-1 tvg-logo="https://zenoimages.s3.us-west-001.backblazeb2.com/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICw2NS8gwoMCxIOU3RhdGlvblByb2ZpbGUYgICw2JfF2QkMogEEemVubw/images/logo" group-title="Music",BBC 80s
-https://stream.zeno.fm/hyvv0ya2es8uv
+http://stream.zeno.fm/hyvv0ya2es8uv
 #EXTINF:-1 tvg-logo="http://envivo.besame.fm/build/assets/besamecolombia/img/favicons/apple-icon-120x120.png" group-title="baladas,cali,love songs,musica romantica,pop",Bésame Cali (HJQ46 106.5 MHz FM) Caracol Radio
 https://playerservices.streamtheworld.com/api/livestream-redirect/BESAME_CALIAAC_SC
 #EXTINF:-1 tvg-logo="https://www.bluradio.com////images/logo.png" group-title="live sports,news,news talk,sports news,sports talk,talk radio",Blu Radio Barranquilla (HJH27, 100.1 MHz FM)
@@ -29,10 +29,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/BLU_BARRANQUIL
 https://playerservices.streamtheworld.com/api/livestream-redirect/BLURADIO_SC
 #EXTINF:-1 tvg-logo="http://www.bunkaradio.com/uploads/2/0/9/0/20905324/published/logo-blanco-radio.png?1484104972" group-title="culture,jpop,latin,music,pop,rock,talk radio",Bunka Radio
 http://62.210.141.243:8275/;stream.mp3
-#EXTINF:-1 tvg-logo="https://olimpicastereo.com.co/favicon.ico" group-title="",Cali Olympica 104.5
-http://i60.letio.com/9120.aac
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/e1/54/e154e5df2ca12e70e42b51b1f2f2249a.jpg" group-title="alternative,chillout,classic rock,electronica,jazz,medellín",Cámara FM (HJUC 95.9 MHz FM, Medellín) Cámara de Comercio de Medellín
-http://959camarafm.serverroom.net/
+http://959camarafm.serverroom.net:4122/
 #EXTINF:-1 tvg-logo="https://uploads.candelaestereo.com/1/2019/06/cropped-logo-candela-llama-100x100.png" group-title="bogota,latin,latino",Candela Estéreo Bogotá (HJPU 101.9)
 https://playerservices.streamtheworld.com/api/livestream-redirect/CANDELAESTEREO_SC
 #EXTINF:-1 tvg-logo="http://cr00.epimg.net/iconos/v1.x/v1.0/promos/promo_og_radio.png" group-title="armenia,full service,live sports,local news,local talk,news,sports news",Caracol Radio Armenia (HJFI, 1150 kHz AM)
@@ -92,7 +90,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/QHUBO_BOGOTAAA
 #EXTINF:-1 tvg-logo="https://lacrossoveronline.com/favicon.ico" group-title="",La CrossOver
 https://listen.usuarios.space/lacrossover/
 #EXTINF:-1 tvg-logo="https://www.lafm.com.co/themes/custom/la_fm_theme/build/assets/images/apple-touch-icon.png" group-title="",La FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/LA_FM_BOGAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/LA_FM_BOGAAC
 #EXTINF:-1 tvg-logo="http://lakalle.bluradio.com/images/favicon.png" group-title="folk music,local music,popular,ranchera,urban",La Kalle
 https://playerservices.streamtheworld.com/api/livestream-redirect/LA_KALLE_SC
 #EXTINF:-1 tvg-logo="http://www.lamega.com.co///favicon.ico" group-title="latin,latin music,pop,reggaeton",La Mega Bogotá (HJYY 90.9 MHz FM) RCN
@@ -103,9 +101,9 @@ http://radiolatina.info:8772/
 https://streamssl.eu:1356/laveteranacentromp3
 #EXTINF:-1 tvg-logo="https://zeno.fm/static/icons/apple-icon-120x120.png" group-title="country",La voz de Jesús
 http://stream.zeno.fm/phybdd3ph98uv
-#EXTINF:-1 tvg-logo="https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2F3H-Xi_Dzh9dI2vaimwVZ5uUepT6jyZBdCqKUUPkmfRQ%2Frs%3Afit%3A250%3A250%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJRHc5SVdMM3dnTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJRHc1T0RHdUFnTW9nRUVlbVZ1YncvaW1hZ2UvP3Jlc2l6ZT0yNTB4MjUwJnVwZGF0ZWQ9MTYzODg4MzM0NTAwMA.webp&w=256&q=75" group-title="",La Voz de Jesús
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/CLNJwsMB48.jpg" group-title="",La Voz de Jesús
 http://stream.zeno.fm/phybdd3ph98uv
-#EXTINF:-1 tvg-logo="https://imgproxy.zenomedia.com/insecure/fit/380/380/ce/0/plain/https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQ_P7WqAoMCxIOU3RhdGlvblByb2ZpbGUYgICQ-siMlggMogEEemVubw/image/%3Fresize=380x380&v=1" group-title="comunitaria,radio comunitaria",La voz de mi tierrita
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQ_P7WqAoMCxIOU3RhdGlvblByb2ZpbGUYgICQ-siMlggMogEEemVubw/image/" group-title="comunitaria,radio comunitaria",La voz de mi tierrita
 http://stream.zeno.fm/u8zxutp7mzzuv
 #EXTINF:-1 tvg-logo="https://www.lavozsalsa.com/wp-content/uploads/thegem-logos/logo_69ec910b63abad5528dc6c6a66a2558e_3x.png" group-title="",La Voz Salsa
 https://estructuraweb.com.co:9108/live
@@ -126,7 +124,7 @@ https://s4.radio.co/s512b6f4ed/listen
 #EXTINF:-1 tvg-logo="https://madradio.co/wp-content/uploads/2021/07/cropped-favicon-180x180.png" group-title="",Mad Radio Medellín
 https://s2.radio.co/s953724e99/listen
 #EXTINF:-1 tvg-logo="http://www.cadenamelodia.com/images/logo_azul.jpg" group-title="ambient,easy listening,lounge,lounge music,world music",Melodía Stereo (HJCU 730 kHz AM, Bogotá)
-https://i20.letio.com/7000.aac
+https://master.letio.com/io/?gs=7000&type=master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Mi Ruta Mi Musica
 http://stream.zeno.fm/7bmzawfhms8uv
 #EXTINF:-1 tvg-logo="" group-title="dance,dj sets,edm",Mi Ruta Mi Musica Retro
@@ -140,37 +138,37 @@ http://192.99.203.81:8704/
 #EXTINF:-1 tvg-logo="https://oiradio.co/assets/icon-play.png" group-title="accordéon,colombian music,folk,sabanera,spanish,vallenata",NFS Radio
 http://178.33.166.7:7106/;
 #EXTINF:-1 tvg-logo="http://olimpicastereo.com.co/wp-pics/themes/olimpica/img/icn/logo.png" group-title="merengue,salsa,tropical,vallenato",Olímpica Stéreo Armenia (HJO83, 96.1 MHz FM, Quimbaya, Quindío)
-https://i20.letio.com/9162.aac
+https://master.letio.com/io/?gs=9162&type=master.m3u8
 #EXTINF:-1 tvg-logo="http://olimpicastereo.com.co/wp-pics/themes/olimpica/img/icn/logo.png" group-title="merengue,salsa,tropical,vallenato",Olímpica Stéreo Barranquilla (HJOJ 92.1 MHz FM)
-https://i71.letio.com/9102.aac
+https://master.letio.com/io/?gs=9102&type=master.m3u8
 #EXTINF:-1 tvg-logo="http://olimpicastereo.com.co/wp-pics/themes/olimpica/img/icn/logo.png" group-title="merengue,salsa,tropical,vallenato",Olímpica Stéreo Bogotá (HJIT, 105.9 MHz FM)
-https://i71.letio.com/9114.aac
+https://master.letio.com/io/?gs=9114&type=master.m3u8
 #EXTINF:-1 tvg-logo="http://olimpicastereo.com.co/wp-pics/themes/olimpica/img/icn/logo.png" group-title="merengue,salsa,tropical,vallenato",Olímpica Stéreo Bucaramanga (HJP23, 97.7 MHz FM, Floridablanca, Santander)
-https://i71.letio.com/9122.aac
+https://master.letio.com/io/?gs=9122&type=master.m3u8
 #EXTINF:-1 tvg-logo="http://olimpicastereo.com.co/wp-pics/themes/olimpica/img/icn/logo.png" group-title="merengue,salsa,tropical,vallenato",Olímpica Stéreo Cali (HJUL, 104.5 MHz FM)
-https://i71.letio.com/9120.aac
+https://master.letio.com/io/?gs=9120&type=master.m3u8
 #EXTINF:-1 tvg-logo="http://olimpicastereo.com.co/wp-pics/themes/olimpica/img/icn/logo.png" group-title="merengue,salsa,tropical,vallenato",Olímpica Stéreo Cartagena (HJQW, 90.5 MHz FM)
-https://i71.letio.com/9108.aac
+https://master.letio.com/io/?gs=9108&type=master.m3u8
 #EXTINF:-1 tvg-logo="http://olimpicastereo.com.co/wp-pics/themes/olimpica/img/icn/logo.png" group-title="merengue,salsa,tropical,vallenato",Olímpica Stéreo Cúcuta (HJAE, 94.7 MHz FM)
-https://i71.letio.com/9134.aac
+https://master.letio.com/io/?gs=9134&type=master.m3u8
 #EXTINF:-1 tvg-logo="http://olimpicastereo.com.co/wp-pics/themes/olimpica/img/icn/logo.png" group-title="merengue,salsa,tropical,vallenato",Olímpica Stéreo Ibagué (HJP93, 94.3 MHz FM)
-https://i20.letio.com/9130.aac
+https://master.letio.com/io/?gs=9130&type=master.m3u8
 #EXTINF:-1 tvg-logo="http://olimpicastereo.com.co/wp-pics/themes/olimpica/img/icn/logo.png" group-title="merengue,salsa,tropical,vallenato",Olímpica Stéreo Manizales (HJI41, 89.7 MHz FM)
-https://i71.letio.com/9126.aac
+https://master.letio.com/io/?gs=9126&type=master.m3u8
 #EXTINF:-1 tvg-logo="http://olimpicastereo.com.co/wp-pics/themes/olimpica/img/icn/logo.png" group-title="merengue,salsa,tropical,vallenato",Olímpica Stéreo Medellín (HJFK, 104.9 MHz FM)
-https://i71.letio.com/9128.aac
+https://master.letio.com/io/?gs=9128&type=master.m3u8
 #EXTINF:-1 tvg-logo="http://olimpicastereo.com.co/wp-pics/themes/olimpica/img/icn/logo.png" group-title="merengue,salsa,tropical,vallenato",Olímpica Stéreo Montería (HJIY, 90.5 MHz FM)
-https://i20.letio.com/9112.aac
+https://master.letio.com/io/?gs=9112&type=master.m3u8
 #EXTINF:-1 tvg-logo="http://olimpicastereo.com.co/wp-pics/themes/olimpica/img/icn/logo.png" group-title="merengue,salsa,tropical,vallenato",Olímpica Stéreo Neiva (HJIV, 100.3 MHz FM)
-https://i71.letio.com/9136.aac
+https://master.letio.com/io/?gs=9136&type=master.m3u8
 #EXTINF:-1 tvg-logo="http://olimpicastereo.com.co/wp-pics/themes/olimpica/img/icn/logo.png" group-title="merengue,salsa,tropical,vallenato",Olímpica Stéreo Pereira (HJO89, 102.7 MHz FM)
-https://i20.letio.com/9124.aac
+https://master.letio.com/io/?gs=9124&type=master.m3u8
 #EXTINF:-1 tvg-logo="http://olimpicastereo.com.co/wp-pics/themes/olimpica/img/icn/logo.png" group-title="merengue,salsa,tropical,vallenato",Olímpica Stéreo Santa Marta (HJDP, 97.1 MHz FM)
-https://i71.letio.com/9110.aac
+https://master.letio.com/io/?gs=9110&type=master.m3u8
 #EXTINF:-1 tvg-logo="http://olimpicastereo.com.co/wp-pics/themes/olimpica/img/icn/logo.png" group-title="merengue,salsa,tropical,vallenato",Olímpica Stéreo Sincelejo (HJVM, 101.5 MHz FM)
-https://i71.letio.com/9116.aac
+https://master.letio.com/io/?gs=9116&type=master.m3u8
 #EXTINF:-1 tvg-logo="http://olimpicastereo.com.co/wp-pics/themes/olimpica/img/icn/logo.png" group-title="merengue,salsa,tropical,vallenato",Olímpica Stéreo Villavicencio (HJN46, 105.3 MHz)
-https://i20.letio.com/9132.aac
+https://master.letio.com/io/?gs=9132&type=master.m3u8
 #EXTINF:-1 tvg-logo="http://www.oroestereo.com/favicon.ico" group-title="80s,anglo,música del recuerdo",Oro Estéreo
 http://51.15.160.78:9005/;
 #EXTINF:-1 tvg-logo="" group-title="party,reggeton,urbano",Oxigeno Bogotá (HJL81 100.4)
@@ -271,9 +269,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/VIBRAAAC_SC
 https://sonic.paulatina.co/7446/stream
 #EXTINF:-1 tvg-logo="http://ipcdesperanza.com/wp-content/uploads/2018/07/esperanza.jpg" group-title="musica cristiana,radio cristiana,social",Voz de la Esperanza
 http://server2.ejeserver.com:8895/autodj
-#EXTINF:-1 tvg-logo="" group-title="",W Radio Colombia
-https://playerservices.streamtheworld.com/api/livestream-redirect/WRADIOAAC
 #EXTINF:-1 tvg-logo="" group-title="news,news and talk,talk radio",W Radio Colombia, Bogotá (HJCZ 690 AM; HJLN 99.9 MHz FM) Caracol Estéreo / Caracol Radio
-https://playerservices.streamtheworld.com/api/livestream-redirect/WRADIO_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/WRADIOAAC
 #EXTINF:-1 tvg-logo="" group-title="",ZonaSalsa
 http://s40.myradiostream.com:8520/listen.mp3
