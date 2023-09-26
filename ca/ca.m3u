@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="",1 Pure Alternative Radio
+#EXTINF:-1 tvg-logo="https://ca.radio.net/images/broadcasts/66/67/40992/1/c300.png" group-title="",1 Pure Alternative Radio
 https://jenny.torontocast.com:2000/stream/1purealternativeradio/stream
-#EXTINF:-1 tvg-logo="" group-title="dance,edm,pop",1 Pure EDM Radio
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/faa3fcf9adhd.jpg" group-title="dance,edm,pop",1 Pure EDM Radio
 https://maggie.torontocast.com:2020/stream/1pureedmradio
 #EXTINF:-1 tvg-logo="https://100-greatest-network.torontocast.stream/wp-content/uploads/2021/09/100-BEST-BALEARIC-TRANCE_OK_512.jpg" group-title="balearic,balearic beat,balearic house,house,progressive house,progressive trance,psytrance,trance,vocal trance",100 BEST BALEARIC TRANCE
 https://maggie.torontocast.com:2020/stream/100bestbalearictrance
@@ -13,7 +13,7 @@ https://maggie.torontocast.com:2020/stream/100greatestliverock
 https://maggie.torontocast.com:2020/stream/100greatestofthe80s
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/1061CHEZ_newlogo.jpg/250px-1061CHEZ_newlogo.jpg" group-title="mainstream rock,rock",106.1 CHEZ
 https://rogers-hls.leanstream.co/rogers/ott1061.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="80s,90s,pop,sudbury",24.7 The Mix - Sudbury, ON
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/1b/f5/38946/1/c300.png" group-title="80s,90s,pop,sudbury",24.7 The Mix - Sudbury, ON
 http://46.105.126.68:7304/;stream.mp3
 #EXTINF:-1 tvg-logo="https://www.2ks-dance-radio.eu///images/images/logo600_square.jpg" group-title="00s,dance,eurodance,italo dance,toronto",2KS Dance Radio
 http://hazel.torontocast.com:1295/
@@ -37,7 +37,7 @@ https://nyc-edge1-entry1.leanstream-hd.com:2113/CFSXAM
 https://radio.tombnetwork.ca:8738/stream
 #EXTINF:-1 tvg-logo="https://imgproxy.zenomedia.com/insecure/fit/500/500/ce/0/plain/https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQud7LqwgMCxIOU3RhdGlvblByb2ZpbGUYgIDQ6YCv_AgMogEEemVubw/image/%3Fresize=500x500&v=1" group-title="",94.3 
 http://stream.zeno.fm/na2b1z0g9s8uv?rj-ttl=5&rj-tok=AAABfd3qSMYA2aBqJ0uSmrDUUg
-#EXTINF:-1 tvg-logo="" group-title="hip-hop,old school hip-hop,rap",97.7 Outlaw Radio FM
+#EXTINF:-1 tvg-logo="https://ca.radio.net/images/broadcasts/05/eb/126946/1/c300.png" group-title="hip-hop,old school hip-hop,rap",97.7 Outlaw Radio FM
 http://n04.radiojar.com/t4vut7ce8yzuv?rj-ttl=5&rj-tok=AAABfd41aNcAIfXckRq-hlOJSA
 #EXTINF:-1 tvg-logo="https://media.socastsrm.com/uploads/station/1859/home_screen_logo-5faed59b67d60.png" group-title="multicultural",98.5 CKWR Real Community Radio
 https://s7.myradiostream.com:59221/listen.mp3
@@ -59,13 +59,11 @@ https://hazel.torontocast.com:3055/stream
 http://jenny.torontocast.com:8134/stream
 #EXTINF:-1 tvg-logo="" group-title="alternative,goldies,hits,oldies,pop",All Time Hits Radio
 http://149.56.234.138:8027/
-#EXTINF:-1 tvg-logo="" group-title="rock",Alt Rock Radio
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/SYVjx887Wn.png" group-title="rock",Alt Rock Radio
 https://cjkpdb.com/radio/8000/desktop?1596291486
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5c/800amcklw.jpg/revision/latest?cb=20130525145041" group-title="information,local music,local news,news,talk radio,windsor",AM 800 (CKLW, 800 kHz AM, Windsor, ON)
 http://20263.live.streamtheworld.com/CKLWAMAAC.aac
-#EXTINF:-1 tvg-logo="http://amazingdiscoveries.org/favicon.ico" group-title="",Amazing Discoveries TV
-http://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/chunklist_w817917838.m3u8
-#EXTINF:-1 tvg-logo="" group-title="electronic",Ambient
+#EXTINF:-1 tvg-logo="https://cdn.audioaddict.com/radiotunes.com/assets/logo-opengraph-919eb9235fe962984e6ae26245aab6d693a5cf67cd2f6c6185bfcedaa7c5908b.png" group-title="electronic",Ambient
 http://prem4.radiotunes.com/rtambient_hi?b1e8ab696a279ebb68c48cab
 #EXTINF:-1 tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/94/c6/36419/c175.png" group-title="americana,bluegrass,folk",American Roots
 https://igor.torontocast.com:1945/stream
