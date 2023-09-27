@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://ca.radio.net/images/broadcasts/66/67/40992/1/c300.png" group-title="",1 Pure Alternative Radio
+#EXTINF:-1 tvg-logo="https://ca.radio.net/images/broadcasts/66/67/40992/1/c300.png" group-title="alternative,rock",1 Pure Alternative Radio
 https://jenny.torontocast.com:2000/stream/1purealternativeradio/stream
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/faa3fcf9adhd.jpg" group-title="dance,edm,pop",1 Pure EDM Radio
 https://maggie.torontocast.com:2020/stream/1pureedmradio
-#EXTINF:-1 tvg-logo="https://100-greatest-network.torontocast.stream/wp-content/uploads/2021/09/100-BEST-BALEARIC-TRANCE_OK_512.jpg" group-title="balearic,balearic beat,balearic house,house,progressive house,progressive trance,psytrance,trance,vocal trance",100 BEST BALEARIC TRANCE
+#EXTINF:-1 tvg-logo="https://100-greatest-network.torontocast.stream/wp-content/uploads/2021/09/100-BEST-BALEARIC-TRANCE_OK_512.jpg" group-title="balearic,balearic beat,balearic house,house,progressive house,progressive trance,psytrance,trance,vocal trance",100 Best Balearic Trance
 https://maggie.torontocast.com:2020/stream/100bestbalearictrance
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/f361b3_f977feb1ff14484cb53e8bf0fbff1801~mv2.jpg" group-title="bach,baroque,beethoven,chamber,chopin,choral,classical,mozart,opera,symphonic,vivaldi",100 GREATEST CLASSICAL MUSIC
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/f361b3_f977feb1ff14484cb53e8bf0fbff1801~mv2.jpg" group-title="bach,baroque,beethoven,chamber,chopin,choral,classical,mozart,opera,symphonic,vivaldi",100 Greatest Classical Music
 http://62.171.171.202:8140/radio.mp3
-#EXTINF:-1 tvg-logo="https://100-greatest-network.torontocast.stream/wp-content/uploads/2021/08/100-GREATEST-LIVE-ROCK_512.png" group-title="classic rock,hard rock,live concert,live music,live rock,rock,rock classics,rock stars",100 GREATEST LIVE ROCK
+#EXTINF:-1 tvg-logo="https://100-greatest-network.torontocast.stream/wp-content/uploads/2021/08/100-GREATEST-LIVE-ROCK_512.png" group-title="classic rock,hard rock,live concert,live music,live rock,rock,rock classics,rock stars",100 Greatest Live Rock
 https://maggie.torontocast.com:2020/stream/100greatestliverock
-#EXTINF:-1 tvg-logo="https://100-greatest-network.torontocast.stream/wp-content/uploads/2021/07/100-GREATEST-80S_LOGO_512-300x300.jpg" group-title="1980's,80s,80s radio,80s rock,the best decade 80s radio around.,the best of 80's",100 GREATEST OF THE 80'S
+#EXTINF:-1 tvg-logo="https://100-greatest-network.torontocast.stream/wp-content/uploads/2021/07/100-GREATEST-80S_LOGO_512-300x300.jpg" group-title="1980s,80s,80s radio,80s rock,the best decade 80s radio around.,the best of 80s",100 Greatest of The 80s
 https://maggie.torontocast.com:2020/stream/100greatestofthe80s
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/1061CHEZ_newlogo.jpg/250px-1061CHEZ_newlogo.jpg" group-title="mainstream rock,rock",106.1 CHEZ
 https://rogers-hls.leanstream.co/rogers/ott1061.stream/playlist.m3u8
@@ -17,7 +17,7 @@ https://rogers-hls.leanstream.co/rogers/ott1061.stream/playlist.m3u8
 http://46.105.126.68:7304/;stream.mp3
 #EXTINF:-1 tvg-logo="https://www.2ks-dance-radio.eu///images/images/logo600_square.jpg" group-title="00s,dance,eurodance,italo dance,toronto",2KS Dance Radio
 http://hazel.torontocast.com:1295/
-#EXTINF:-1 tvg-logo="https://www.2ks-dance-radio.eu/images/logo600_square.jpg" group-title="dance,edm,euro hits,eurodance,italodance",2ks dance radio | Eurodance & Italodance
+#EXTINF:-1 tvg-logo="https://www.2ks-dance-radio.eu/images/logo600_square.jpg" group-title="dance,edm,euro hits,eurodance,italodance",2Ks Dance Radio | Eurodance & Italodance
 http://hazel.torontocast.com:1295/stream
 #EXTINF:-1 tvg-logo="https://vocm.com/favicon.ico" group-title="grand falls,vocm network",620 CKCM
 https://nyc-edge1-entry1.leanstream-hd.com:2113/CKCMAM
@@ -25,9 +25,9 @@ https://nyc-edge1-entry1.leanstream-hd.com:2113/CKCMAM
 https://ais-sa1.streamon.fm/7267_64k.aac
 #EXTINF:-1 tvg-logo="https://vocm.com/favicon.ico" group-title="gander,vocm network",650 CKGA
 https://nyc-edge1-entry1.leanstream-hd.com:2113/CKGAAM
-#EXTINF:-1 tvg-logo="https://www.680news.com/wp-content/blogs.dir/sites/2/2020/01/16/cropped-680news_nav-1-270x270.png" group-title="",680 News Toronto
+#EXTINF:-1 tvg-logo="https://www.680news.com/wp-content/blogs.dir/sites/2/2020/01/16/cropped-680news_nav-1-270x270.png" group-title="news,talk",680 News Toronto
 https://rogers-hls.leanstream.co/rogers/tor680.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://d1ujqdpfgkvqfi.cloudfront.net/favicon-generator/htdocs/favicons/2021-09-06/6c0563a4bb439ddd885e690af1987ba3.ico.png" group-title="70,80,90,classic italian pop,italian pop,musica italiana",70 80 90 ITALIA D'AUTORE
+#EXTINF:-1 tvg-logo="https://d1ujqdpfgkvqfi.cloudfront.net/favicon-generator/htdocs/favicons/2021-09-06/6c0563a4bb439ddd885e690af1987ba3.ico.png" group-title="70,80,90,classic italian pop,italian pop,musica italiana",70 80 90 Italia D'Autore
 https://maggie.torontocast.com:2020/stream/708090italiadautore
 #EXTINF:-1 tvg-logo="https://d1ujqdpfgkvqfi.cloudfront.net/favicon-generator/htdocs/favicons/2021-09-06/ab1cf897abc8e06ed9c1557b028dce66.ico.png" group-title="70s,80s,90s,blues,blues rock,classic rock,pop rock,rock",70 80 90 Vibrazioni Rock Radio
 https://maggie.torontocast.com:2020/stream/vibrazionirockradio
@@ -43,9 +43,9 @@ http://n04.radiojar.com/t4vut7ce8yzuv?rj-ttl=5&rj-tok=AAABfd41aNcAIfXckRq-hlOJSA
 https://s7.myradiostream.com:59221/listen.mp3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/85/98.5_Montr%C3%A9al_%28logo%2C_2016%29.svg" group-title="sports",98.5 Montreal
 https://cogecomedia.leanstream.co/CHMPFM-MP3?
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/f361b3_cc3ad5c4cd8a4e88b80cd9593d80659d~mv2.jpg" group-title="bach,baroque,beethoven,chamber,classical,classical music,mozart,opera,symphonic,symphony,vivaldi",A CLASSICAL MASTERPIECES
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/f361b3_cc3ad5c4cd8a4e88b80cd9593d80659d~mv2.jpg" group-title="bach,baroque,beethoven,chamber,classical,classical music,mozart,opera,symphonic,symphony,vivaldi",A Classical Masterpieces
 https://mpc.mediacp.eu/stream/aclassicalmasterpiecesradio
-#EXTINF:-1 tvg-logo="https://d1ujqdpfgkvqfi.cloudfront.net/favicon-generator/htdocs/favicons/2021-12-07/ef026f33a0097ace021d216c5f064026.ico.png" group-title="",A MISSISSIPPI BLUES
+#EXTINF:-1 tvg-logo="https://d1ujqdpfgkvqfi.cloudfront.net/favicon-generator/htdocs/favicons/2021-12-07/ef026f33a0097ace021d216c5f064026.ico.png" group-title="blues,classic blues",A Mississippi Blues
 https://jenny.torontocast.com:2000/stream/amississippiblues
 #EXTINF:-1 tvg-logo="https://cdn-web.tunein.com/assets/img/apple-touch-icon-180.png" group-title="oldies,radio drama",A-Bomb Radio
 https://maggie.torontocast.com:8060/stream
@@ -57,11 +57,11 @@ http://195.154.217.103:8175/stream
 https://hazel.torontocast.com:3055/stream
 #EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/jn3ryqkmfbgq.png" group-title="big room,dance,edm,house,progressive house",All Hit Remixes
 http://jenny.torontocast.com:8134/stream
-#EXTINF:-1 tvg-logo="" group-title="alternative,goldies,hits,oldies,pop",All Time Hits Radio
+#EXTINF:-1 tvg-logo="https://www.canadapolicereport.ca/wp-content/uploads/2023/06/ALL-HITS-SHOUTCAST-LOGO-263X2.jpg" group-title="alternative,goldies,hits,oldies,pop",All Time Hits Radio
 http://149.56.234.138:8027/
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/SYVjx887Wn.png" group-title="rock",Alt Rock Radio
 https://cjkpdb.com/radio/8000/desktop?1596291486
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5c/800amcklw.jpg/revision/latest?cb=20130525145041" group-title="information,local music,local news,news,talk radio,windsor",AM 800 (CKLW, 800 kHz AM, Windsor, ON)
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5c/800amcklw.jpg/revision/latest?cb=20130525145041" group-title="information,local music,news,talk radio,windsor",AM 800 (CKLW, 800 kHz AM, Windsor, ON)
 http://20263.live.streamtheworld.com/CKLWAMAAC.aac
 #EXTINF:-1 tvg-logo="https://cdn.audioaddict.com/radiotunes.com/assets/logo-opengraph-919eb9235fe962984e6ae26245aab6d693a5cf67cd2f6c6185bfcedaa7c5908b.png" group-title="electronic",Ambient
 http://prem4.radiotunes.com/rtambient_hi?b1e8ab696a279ebb68c48cab
@@ -69,9 +69,9 @@ http://prem4.radiotunes.com/rtambient_hi?b1e8ab696a279ebb68c48cab
 https://igor.torontocast.com:1945/stream
 #EXTINF:-1 tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/ab/6b/6602/c300.png" group-title="ancient music,classical,folk,medieval,mittelalter,renaissance",Ancient FM
 https://mediaserv73.live-streams.nl:18058/stream
-#EXTINF:-1 tvg-logo="" group-title="1980s,80s,flashback,oldies,pop,pop rock",Antenna VOX 80s
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/0/92170.v1.png" group-title="1980s,80s,flashback,oldies,pop,pop rock",Antenna VOX 80s
 http://servidor26.brlogic.com:7330/live?type=.mp3
-#EXTINF:-1 tvg-logo="http://www.radioarina.ca/" group-title="",Arina
+#EXTINF:-1 tvg-logo="http://www.radioarina.ca/" group-title="farsi,talk",Arina
 http://192.34.153.102:8000/AMGRadio.mp3
 #EXTINF:-1 tvg-logo="https://cdn-images.audioaddict.com/3/9/7/3/4/3/397343ffcf5543b60bba72f393e1c3c0.jpg" group-title="atmospheric,breakbeat,breaks",Atmospheric Breaks
 http://prem2.di.fm/atmosphericbreaks_hi?b1e8ab696a279ebb68c48cab
@@ -79,16 +79,14 @@ http://prem2.di.fm/atmosphericbreaks_hi?b1e8ab696a279ebb68c48cab
 http://us3.streamingpulse.com:8082/stream
 #EXTINF:-1 tvg-logo="https://cdn-images.audioaddict.com/6/f/4/3/2/4/6f4324c4a776101fd91008d739ac3020.jpg" group-title="big beat,breakbeat,breaks,broken beat",Big Beat
 http://prem2.di.fm/bigbeat_hi?b1e8ab696a279ebb68c48cab
-#EXTINF:-1 tvg-logo="" group-title="",Birch street radio 
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/6cfn4z84npqp.png" group-title="classic rock,community radio",Birch Street Radio 
 https://jenny.torontocast.com:8172/stream
 #EXTINF:-1 tvg-logo="http://crucialvelocity.ca/BlownLogo.jpg" group-title="60's,70's,classic rock,hard rock,heavy metal",Blown
 http://ais-sa2.cdnstream1.com/1370_128
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/d759fc_d5cb6b12f0b24fbba4db4324e1b3ac61%7emv2.jpg/v1/fill/w_32%2ch_32%2clg_1%2cusm_0.66_1.00_0.01/d759fc_d5cb6b12f0b24fbba4db4324e1b3ac61%7emv2.jpg" group-title="blues,roots",Blues and Roots Radio
 https://streaming.radio.co/sf8db342c1/listen
-#EXTINF:-1 tvg-logo="https://d2f0ora2gkri0g.cloudfront.net/98/77/98774893-e154-474b-9170-3f93e8e9141e.png" group-title="blues,classic blues",Blues Music 4 Ever radio
+#EXTINF:-1 tvg-logo="https://d2f0ora2gkri0g.cloudfront.net/98/77/98774893-e154-474b-9170-3f93e8e9141e.png" group-title="blues,classic blues",Blues Music 4 Ever Radio
 http://radio.streemlion.com:1240/stream
-#EXTINF:-1 tvg-logo="https://www.wix.com/favicon.ico" group-title="",BOB FM
-http://stream.zeno.fm/na2b1z0g9s8uv?rj-ttl=5&rj-tok=AAABfd4yrUQAIG2M1Iuh66uvgg
 #EXTINF:-1 tvg-logo="http://boir.ca/wp-content/uploads/2015/04/boirprofile1-50x50.png" group-title="community radio,corner brook",BOIR - Bay of Islands Radio - Corner Brook, NL
 http://142.4.217.133:8458/stream
 #EXTINF:-1 tvg-logo="https://cdn-images.audioaddict.com/2/1/b/1/2/9/21b12909a0618017285f62a5af4b2ce5.jpg" group-title="breakbeat,breaks",Breaks
@@ -99,7 +97,7 @@ http://22203.live.streamtheworld.com/TV_BNNAAC_SC
 http://streams.calmradio.com:6828/stream
 #EXTINF:-1 tvg-logo="https://i3.radionomy.com/radios/400/c6640d0b-f094-45fb-8de5-83a2af18557d.jpg" group-title="baroque,classical",Calm Radio - Baroque
 http://streams.calmradio.com:3328/stream
-#EXTINF:-1 tvg-logo="https://calmradio.com/templates/calmradio/favicons/apple-touch-icon.png" group-title="",Calm Radio - Blues
+#EXTINF:-1 tvg-logo="https://calmradio.com/templates/calmradio/favicons/apple-touch-icon.png" group-title="blues,classic blues",Calm Radio - Blues
 http://streams.calmradio.com:3728/;
 #EXTINF:-1 tvg-logo="https://calmradio.com/templates/calmradio/favicons/favicon-32x32.png" group-title="brahms,classical",Calm Radio - Brahms - Sampler
 http://streams.calmradio.com:7128/stream/;
@@ -117,7 +115,7 @@ http://streams.calmradio.com:10228/stream
 http://streams.calmradio.com:14328/stream/1/
 #EXTINF:-1 tvg-logo="https://calmradio.com/images/logo/Calm-LOGO%202015.png" group-title="baroque,classical",Calm Radio - Flute
 http://streams.calmradio.com:4828/;
-#EXTINF:-1 tvg-logo="https://calmradio.com/templates/calmradio/favicons/apple-touch-icon.png" group-title="",Calm Radio - Gregorian
+#EXTINF:-1 tvg-logo="https://calmradio.com/templates/calmradio/favicons/apple-touch-icon.png" group-title="classical,vocal",Calm Radio - Gregorian
 http://streams.calmradio.com:4428/stream
 #EXTINF:-1 tvg-logo="https://calmradio.com/templates/calmradio/favicons/apple-touch-icon.png" group-title="classical,strauss",Calm Radio - Johann Strauss II
 http://streams.calmradio.com:8328/stream
@@ -145,29 +143,29 @@ http://streams.calmradio.com:4528/stream
 http://streams.calmradio.com:8928/stream
 #EXTINF:-1 tvg-logo="https://calmradio.com/templates/calmradio/favicons/apple-touch-icon.png" group-title="classical,wagner",Calm Radio - Wagner
 http://streams.calmradio.com:11428/stream
-#EXTINF:-1 tvg-logo="" group-title="classical",Calm Radio-Opera
+#EXTINF:-1 tvg-logo="https://ca.radio.net/images/broadcasts/41/76/35230/c300.png" group-title="classical,opera",Calm Radio-Opera
 http://streams.calmradio.com:1128/stream
 #EXTINF:-1 tvg-logo="https://camoesradio.com/wp-content/uploads/2018/07/camoesradio-com-icon-300x300.png" group-title="brazilian pop,ethnic,portuguese pop,toronto",CamoesRadio.com - Toronto, ON
 http://camoesradio.out.airtime.pro:8000/camoesradio_a#.mp3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Canal_M_logo.svg/962px-Canal_M_logo.svg.png" group-title="music,news",Canal M
 http://68.168.101.146:8460/stream
-#EXTINF:-1 tvg-logo="" group-title="rock",Capital Rock Abitivi
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/2e/CapitaleRock.png" group-title="rock",Capital Rock Abitibi
 http://cogecomedia.leanstream.co/CJGOFM-MP3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VMp1c3T/newlogo.png" group-title="caribbean,christmas music,dancehall,reggae,soca",Caribbean Christmas 
 https://mediacp.myautodj.com:8020/stream
 #EXTINF:-1 tvg-logo="https://i.cbc.ca/1.4481543.1557930358%21/fileImage/httpImage/cbc-music-logo.jpg" group-title="cbc,eastern passage,public radio,toronto",CBC Music Eastern (formerly CBC Radio 2 Toronto)
 http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r2_tor
-#EXTINF:-1 tvg-logo="http://images.cbcmusic.ca/v1/cbc-music/programs/1x1/default-share.png" group-title="",CBC Music Edmonton
+#EXTINF:-1 tvg-logo="http://images.cbcmusic.ca/v1/cbc-music/programs/1x1/default-share.png" group-title="public radio,edmonton",CBC Music Edmonton
 https://cbcliveradio2-lh.akamaihd.net/i/CBCR2_EDM@48972/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",CBC Music Halifax
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s25283/images/logod.png?t=637193903780000000" group-title="public radio,halifax",CBC Music Halifax
 https://cbcliveradio2-lh.akamaihd.net/i/CBCR2_HFX@382379/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.cbc.ca/mediacentre/content/images/CBC_Music_press_release.jpg" group-title="cbc,pacific,public radio,vancouver",CBC Music Pacific (Vancouver, BC, CBU-FM, 105.7 MHz, formerly CBC Radio 2)
 http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r2_vcr
-#EXTINF:-1 tvg-logo="http://images.cbcmusic.ca/v1/cbc-music/programs/1x1/default-share.png" group-title="",CBC Music Toronto
+#EXTINF:-1 tvg-logo="http://images.cbcmusic.ca/v1/cbc-music/programs/1x1/default-share.png" group-title="public radio,toronto",CBC Music Toronto
 https://cbcliveradio2-lh.akamaihd.net/i/CBCR2_TOR@382863/master.m3u8
-#EXTINF:-1 tvg-logo="http://images.cbcmusic.ca/v1/cbc-music/programs/1x1/default-share.png" group-title="",CBC Music Vancouver
+#EXTINF:-1 tvg-logo="http://images.cbcmusic.ca/v1/cbc-music/programs/1x1/default-share.png" group-title="public radio,vancouver",CBC Music Vancouver
 https://cbcliveradio2-lh.akamaihd.net/i/CBCR2_VCR@353638/master.m3u8
-#EXTINF:-1 tvg-logo="http://images.cbcmusic.ca/v1/cbc-music/programs/1x1/default-share.png" group-title="",CBC Music Winnipeg
+#EXTINF:-1 tvg-logo="http://images.cbcmusic.ca/v1/cbc-music/programs/1x1/default-share.png" group-title="public radio,winnipeg",CBC Music Winnipeg
 https://cbcliveradio2-lh.akamaihd.net/i/CBCR2_WPG@385274/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="news",CBC Québec
 http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_qqu
@@ -175,9 +173,9 @@ http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_qqu
 https://cbcliveradio-lh.akamaihd.net/i/CBCR1_EKW@371992/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="canada,news,ontario",CBC Radio 1 (Sudbury)
 https://cbcliveradio-lh.akamaihd.net/i/CBCR1_SUD@384513/master.m3u8
-#EXTINF:-1 tvg-logo="https://subscriptions.cbc.ca/newsletter_static/images/1581433263108-cbc-radio-one.png" group-title="",CBC Radio 1 (Winnipeg
+#EXTINF:-1 tvg-logo="https://subscriptions.cbc.ca/newsletter_static/images/1581433263108-cbc-radio-one.png" group-title="",CBC Radio 1 (Winnipeg)
 https://cbcliveradio-lh.akamaihd.net/i/CBCR1_WPG@384111/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",CBC Radio 1 Edmonton AB
+#EXTINF:-1 tvg-logo="" group-title="",CBC Radio 1 (Edmonton)
 https://cbcliveradio-lh.akamaihd.net/i/CBCR1_EDM@372985/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s20305/images/logod.png?t=158342" group-title="cbc,halifax,information,news,public radio",CBC Radio 1 Halifax (90.5 FM)
 https://cbcliveradio-lh.akamaihd.net/i/CBCR1_HFX@353708/master.m3u8
