@@ -503,7 +503,7 @@ http://cogecomedia.leanstream.co/CHMPFM-MP3
 http://s1.hotdogradio.com/CHMS
 #EXTINF:-1 tvg-logo="http://cdn.vistaradio.ca/wp-content/themes/presso-child/vista/_img/mynow-icon.png" group-title="classic hits,commercial,timmins",CHMT 93.1 "Moose FM" Timmins, ON
 http://s1.hotdogradio.com/CHMT
-#EXTINF:-1 tvg-logo="http://d2x3wmakafwqf5.cloudfront.net/uploads/station/290/squareIcon.png?r=13278" group-title="adult contemporary,commercial,regina",CHMX "My 92.1" Regina. SK
+#EXTINF:-1 tvg-logo="http://d2x3wmakafwqf5.cloudfront.net/uploads/station/290/squareIcon.png?r=13278" group-title="adult contemporary,commercial,regina",CHMX "My 92.1" Regina, SK
 http://ais-sa1.streamon.fm/7257_64k.aac
 #EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/185eb3c7-aba9-4bbc-8068-bd00d0222e06/dcb34d58-260e-4d64-aaf9-5615319244ee.jpg" group-title="indie rock,tofino",CHMZ 98.9 "Tuff City Radio" Tofino, BC
 http://stream.tuffcityradio.rocks/chmz
@@ -523,13 +523,11 @@ https://stream2.statsradio.com:8110/stream
 http://stream2.statsradio.com:8032/live
 #EXTINF:-1 tvg-logo="http://www.o953.ca/wp-content/uploads/fbrfg/apple-touch-icon.png" group-title="active rock,alternative rock,commercial,matane",CHOE "O 95.3" Matane, QC
 http://stream.statsradio.com:8026/stream
-#EXTINF:-1 tvg-logo="" group-title="commercial,quebec city,talk",CHOI 98.1 "Radio X" Quebec City, QC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/98/CHOI-FM.png" group-title="commercial,quebec city,talk",CHOI 98.1 "Radio X" Quebec City, QC
 http://icecast-choi.rncm.ca/choi.aac
-#EXTINF:-1 tvg-logo="" group-title="",CHOI 98.1 "Radio X" Quebec City, QC
-http://icecast-choi.rncm.ca/choi.mp3
 #EXTINF:-1 tvg-logo="https://www.choiceclassicrock.com/images/favicon.ico" group-title="60s,70s,80s,classic rock",Choice Classic Rock
 https://streamer.radio.co/s66f2626b4/listen
-#EXTINF:-1 tvg-logo="" group-title="adult contemporary,commercial,information,news,port huron,sarnia,sport",CHOK 1070 & 103.9 Sarnia, ON
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/CHOK_103.9_Country_logo.png/225px-CHOK_103.9_Country_logo.png" group-title="adult contemporary,commercial,information,news,port huron,sarnia,sport",CHOK 1070 & 103.9 Sarnia, ON
 http://live.leanstream.co/CHOKAM
 #EXTINF:-1 tvg-logo="http://www.choq.ca/images/default_SEO.jpg" group-title="electro,electronic,electronica,student radio,universitaire,university radio",CHOQ Electro
 http://radio.servlinks.com:8350/choqelectro
@@ -543,87 +541,85 @@ http://radio.servlinks.com:8350/choqindiepop
 http://radio.servlinks.com:8350/choqrock
 #EXTINF:-1 tvg-logo="http://choqfm.ca/wp-content/uploads/2016/05/choq-300x162.png" group-title="community radio,toronto",CHOQ-FM 105,1 Toronto, ON
 http://ice9.securenetsystems.net/CHOQ
-#EXTINF:-1 tvg-logo="" group-title="amos,community radio",CHOW 105.3 "Radio Boreale" Amos, QC
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/JCXN48BV4g.png" group-title="amos,community radio",CHOW 105.3 "Radio Boreale" Amos, QC
 http://stream.statsradio.com:8022/stream
-#EXTINF:-1 tvg-logo="http://www.chox97.com//assets/favicons/favicon.ico" group-title="local radio",CHOX-FM
+#EXTINF:-1 tvg-logo="http://www.chox97.com//assets/favicons/favicon.ico" group-title="la pocatiere,local radio",CHOX-FM
 http://stream.statsradio.com:8052/stream1576615837897
 #EXTINF:-1 tvg-logo="http://sites.mbsradio.com/choix99/wp-content/uploads/sites/16/2017/03/Choix.png" group-title="acadian,commercial,country,moncton",CHOY 99.9 "Choix FM" Moncton, NB
 http://mbsradio.leanstream.co/CHOYFM-MP3
 #EXTINF:-1 tvg-logo="http://cdn.vistaradio.ca/wp-content/themes/presso-child/vista/_img/mynow-icon.png" group-title="adult contemporary,cochrane,commercial",CHPB 98.1 "Moose FM" Cochrane, ON
 http://s1.hotdogradio.com/CHPB
-#EXTINF:-1 tvg-logo="" group-title="calgary,information,local news,news,news talk,traffic",CHQR 770 (Calgary, AB)
-http://live.leanstream.co/CHQRAM
-#EXTINF:-1 tvg-logo="" group-title="calgary,news talk",CHQR 770 Global News Radio - Calgary, AB
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/Axd53eHTAY.png" group-title="calgary,news talk",CHQR 770 Global News Radio - Calgary, AB
 https://live.leanstream.co/CHQRAM-MP3
-#EXTINF:-1 tvg-logo="" group-title="edmonton,local news,news,news talk,talk",CHQT iNews 880 (Edmonton, AB)
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/2Qh7Rh37LR.webp" group-title="edmonton,local news,news,news talk,talk",CHQT iNews 880 (Edmonton, AB)
 http://live.leanstream.co/CHQTAM
 #EXTINF:-1 tvg-logo="http://media.socastsrm.com/wordpress/wp-content/blogs.dir/988/files/2017/10/159_primary_image.png" group-title="cape breton,contemporary hits,hot adult contemporary,sydney",CHRK "Giant 101.9" Sydney, NS
 http://newcap.leanstream.co/CHRKFM
-#EXTINF:-1 tvg-logo="http://www.plaisir1053.com/wp-content/uploads/fbrfg/apple-touch-icon.png" group-title="matane",CHRM "Plaisir 105.3" Matane, QC
+#EXTINF:-1 tvg-logo="http://www.plaisir1053.com/wp-content/uploads/fbrfg/apple-touch-icon.png" group-title="adult contemporary,matane",CHRM "Plaisir 105.3" Matane, QC
 http://stream.statsradio.com:8028/stream
-#EXTINF:-1 tvg-logo="https://radiohumsafar.com/wp-content/uploads/2020/03/cropped-icon-192x192.png" group-title="commercial,multicultural,multilingual,south asian",CHRN 1610 "Radio Humsafar" Montreal. QC
+#EXTINF:-1 tvg-logo="https://radiohumsafar.com/wp-content/uploads/2020/03/cropped-icon-192x192.png" group-title="commercial,multicultural,multilingual,south asian",CHRN 1610 "Radio Humsafar" Montreal, QC
 http://ice2.securenetsystems.net/HUMSAFAR
 #EXTINF:-1 tvg-logo="https://i3.radionomy.com/radios/400/68260adb-baa0-41e9-a372-6e6fbe472bd3.jpg" group-title="death metal,heavy metal,industrial,metal",ChroniX Radio Aggression
 http://192.95.18.39:5784/stream
 #EXTINF:-1 tvg-logo="https://i3.radionomy.com/radios/400/15d0c73e-221c-402e-9be4-b57af39f9d94.png" group-title="death metal,heavy metal,industrial,metalcore,thrash metal",ChroniX Radio Metalcore
 http://192.95.18.39:5508/stream
-#EXTINF:-1 tvg-logo="" group-title="community radio,london,non-commercial,university radio",CHRW 94.9  "Radio Western" London, ON
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/Chrw_logo.png" group-title="community radio,london,non-commercial,university radio",CHRW 94.9  "Radio Western" London, ON
 http://129.100.145.33:8000/stream
 #EXTINF:-1 tvg-logo="https://www.vibe105to.com/uploads/1/0/7/4/107458669/vibe105-main-png_1.png" group-title="alternative,community radio,toronto,university radio,urban",CHRY "Vibe 105.5" York University Toronto, ON
 http://ice7.securenetsystems.net/CHRY
 #EXTINF:-1 tvg-logo="http://www.country94.ca/favicon.ico" group-title="country,saint john",CHSJ "Country 94.1" Saint John, NB
 http://ais-sa1.streamon.fm/7230_48k.aac
-#EXTINF:-1 tvg-logo="http://www.realcountrystpaul.ca/favicon.ico" group-title="commercial,country,st. paul",CHSP "Real Country 97.7"  St. Paul, AB
+#EXTINF:-1 tvg-logo="http://www.realcountrystpaul.ca/favicon.ico" group-title="commercial,country,st. paul",CHSP "Real Country 97.7" St. Paul, AB
 http://newcap.leanstream.co/CHSPFM
-#EXTINF:-1 tvg-logo="" group-title="campus radio,college radio,community radio",CHSR-FM 97.9
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/CHSRfm_logo_color.png/640px-CHSRfm_logo_color.png" group-title="campus radio,college radio,community radio",CHSR-FM 97.9
 http://usa6.fastcast4u.com/proxy/chsrbroa?mp=/stream&DIST=TuneIn&TGT=TuneIn&maxServers=2&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTY0MDA0OTM4MywiaXNzIjoidGlzcnYifQ.xorriIR3JeO6CoVewJX-661M0fjh5bnwQ-8qR_SmjgI
 #EXTINF:-1 tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/2891/files/2021/04/lite-icon-200.png" group-title="soft adult contemporary",CHSV Jewel 106.7
 http://ice10.securenetsystems.net/CHSV
-#EXTINF:-1 tvg-logo="" group-title="commercial,country,st. stephen",CHTD "The Tide 98.1"  - St. Stephen, NB
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/CHTD-FM_Logo.png" group-title="commercial,country,st. stephen",CHTD "The Tide 98.1" St. Stephen, NB
 http://ais-sa1.streamon.fm/7236_48k.aac
 #EXTINF:-1 tvg-logo="http://thompsononline.ca/images/fb_icon.jpg" group-title="adult contemporary,thompson",CHTM 610 & 102.9 Thompson, MB
 http://173.193.205.96:7100/stream
 #EXTINF:-1 tvg-logo="http://media.socastsrm.com/uploads/station/760/home_screen_logo-592ef5c500309.jpg" group-title="70s,80s,charlottetown,classic hits,commercial",CHTN 100.3 "Ocean 100" Charlottetown, PE
 http://newcap.leanstream.co/CHTNFM
-#EXTINF:-1 tvg-logo="" group-title="community radio,greek,toronto",CHTO 1690 AM Toronto, ON
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/pWHuXsDLxm.jpg" group-title="community radio,greek,toronto",CHTO 1690 AM Toronto, ON
 http://sc8.spacialnet.com:25868/;
 #EXTINF:-1 tvg-logo="https://www.kiss1031.ca/wp-content/uploads/sites/43/2016/04/cropped-kiss1031-512x512-270x270.png" group-title="contemporary hits,victoria",CHTT "KISS 103.1" Victoria, BC
 https://rogers-hls.leanstream.co/rogers/vic1031.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/eac042_745e21371b03466080fd6b723fc874ad%7Emv2.png/v1/fill/w_32%2Ch_32%2Clg_1%2Cusm_0.66_1.00_0.01/eac042_745e21371b03466080fd6b723fc874ad%7Emv2.png" group-title="classic rock,cobourg,commercial",CHUC "Classic Rock 107.9" Cobourg, ON
 http://ice64.securenetsystems.net/CHUC
-#EXTINF:-1 tvg-logo="" group-title="country",CHUN-FM
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/9kv8dj89cde2.png" group-title="country,rouyn-noranda",CHUN-FM
 http://stream.zoneplus.ca:9954/
-#EXTINF:-1 tvg-logo="http://media.socastsrm.com/uploads/station/677/home_screen_logo-589213db253f9.jpg" group-title="soft rock",CHUP "Soft Rock 97.7" Calgary, AB
+#EXTINF:-1 tvg-logo="http://media.socastsrm.com/uploads/station/677/home_screen_logo-589213db253f9.jpg" group-title="soft rock,calgary",CHUP "Soft Rock 97.7" Calgary, AB
 http://rawlco.leanstream.co/CHUPFM-MP3
-#EXTINF:-1 tvg-logo="" group-title="carbonear,commercial,country",CHVO 103.9 "KIXX Country" Carbonear, NL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Chvo.jpg/250px-Chvo.jpg" group-title="carbonear,commercial,country",CHVO 103.9 "KIXX Country" Carbonear, NL
 http://newcap.leanstream.co/CHVOFM
 #EXTINF:-1 tvg-logo="http://www.1049thebeach.ca/favicon.ico" group-title="adult contemporary,commercial,goderich",CHWC "104.9 The Beach" Goderich, ON
 http://bayshore.leanstream.co/CHWCFM
 #EXTINF:-1 tvg-logo="http://energy106.ca/favicon.ico" group-title="commercial,contemporary hits,top 40,winnipeg",CHWE 106.9 "Energy 106" Winnipeg, MB
 http://ice41.securenetsystems.net/CHWE
-#EXTINF:-1 tvg-logo="" group-title="donnaconna,modern rock,quebec city",CHXX 100.9 "Rock 100.9" Donnaconna, QC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/CHXX_1009.png" group-title="donnaconna,modern rock,quebec city",CHXX 100.9 "Rock 100.9" Donnaconna, QC
 http://icecast-chxx.rncm.ca/chxx.mp3
-#EXTINF:-1 tvg-logo="" group-title="commercial,hot adult contemporary,leamington,windsor",CHYR "MIX 96.7" Leamington, ON
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/CHYR_MIX96.7_logo.png" group-title="commercial,hot adult contemporary,leamington,windsor",CHYR "MIX 96.7" Leamington, ON
 http://live.leanstream.co/CHYRFM
-#EXTINF:-1 tvg-logo="" group-title="community radio,quebec city,sainte-foy,university radio",CHYZ 94.3 Universite Laval - Quebec City, QC
+#EXTINF:-1 tvg-logo="https://www.radios-quebecoises.com/wp-content/uploads/2020/01/logo-chyz-94-3-fm-en-direct.png" group-title="community radio,quebec city,sainte-foy,university radio",CHYZ 94.3 Universite Laval - Quebec City, QC
 http://ecoutez.chyz.ca:8000/;
 #EXTINF:-1 tvg-logo="http://www.am530.ca/favicon.ico" group-title="brampton,commercial,multicultural,multilingual,toronto",CIAO 530 AM Brampton, ON
 http://ice23.securenetsystems.net/CIAO
 #EXTINF:-1 tvg-logo="http://ciaufm.ca/wp-content/uploads/2017/11/cropped-ciau_fm_icon-192x192.png" group-title="community radio,radisson",CIAU 103,1 Radisson, QC
 http://stream02.ustream.ca:8000/ciau128.mp3
-#EXTINF:-1 tvg-logo="" group-title="misc",CIBL Montreal
+#EXTINF:-1 tvg-logo="https://images.radio.orange.com/radios/large_cibl_1015_fm_montreal_qc.png" group-title="community radio,montreal",CIBL Montreal
 http://stream02.ustream.ca:8000/cibl128.mp3
 #EXTINF:-1 tvg-logo="http://www.realcountrybrooks.ca/favicon.ico" group-title="brooks,country",CIBQ 105.7 "Real Country" Brooks, AB
 http://newcap.leanstream.co/CIBQFM-MP3
-#EXTINF:-1 tvg-logo="" group-title="bluewater,classic rock,commercial,wingham",CIBU "Classic Rock 94.5" Wingham, ON
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s88818/images/logog.jpg?t=1" group-title="bluewater,classic rock,commercial,wingham",CIBU "Classic Rock 94.5" Wingham, ON
 http://live.leanstream.co/CIBUFM
 #EXTINF:-1 tvg-logo="http://www.smithersradio.com/files/favicon_0.ico" group-title="community radio,smithers",CICK 93.9 Smithers, BC
 http://usa13.fastcast4u.com:5148/;
-#EXTINF:-1 tvg-logo="" group-title="centre wellington,community radio,elora,fergus",CICW 101.1 "The Grand" Centre Wellington, ON
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/25/The_Grand_101_FM.png" group-title="centre wellington,community radio,elora,fergus",CICW 101.1 "The Grand" Centre Wellington, ON
 http://s45.myradiostream.com:8056/listen.mp3
 #EXTINF:-1 tvg-logo="http://whitebearfirstnation.ca/res/img/new-logo.png" group-title="carlyle lake,community radio,indigenous",CIDD 97.7 Carlyle Lake, SK
 https://ais-sa1.streamon.fm/7176_32k.aac/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="brome lake,community radio",CIDI 99.1 Brome Lake, QC
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/6e/c4/177033/1/c300.png" group-title="brome lake,community radio",CIDI 99.1 Brome Lake, QC
 http://s2.radioservers.biz:9998/;stream
 #EXTINF:-1 tvg-logo="http://www.ciel103.com/ciel/images/logo_ciel.png" group-title="adult contemporary,news talk,riviere-du-loup",CIEL 103.7 Riviere du Loup, QC
 http://podcast.servlinks.com:8409/;stream/1
