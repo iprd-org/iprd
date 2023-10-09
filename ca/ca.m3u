@@ -1401,9 +1401,9 @@ http://198.178.123.8:7798/;stream.mp3
 http://rogers.leanstream.co/rogers/vic1031.stream/icy
 #EXTINF:-1 tvg-logo="https://www.kissottawa.com/wp-content/uploads/sites/9/2016/05/cropped-KiSS1053_Logo-270x270.png" group-title="20s,90s",CISS KiSS 105.3 Ottawa
 http://rogers-hls.leanstream.co:8000/rogers/ott1053.stream/48k/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s31145/images/logoq.png?t=151915" group-title="",CFRV Kiss 107.7
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s31145/images/logoq.png?t=151915" group-title="adult contemporary,lethbridge",CFRV Kiss 107.7
 https://rogers.leanstream.co/rogers/let1077.stream/icy?environment=tunein
-#EXTINF:-1 tvg-logo="https://www.kiss925.com/wp-content/uploads/sites/59/2020/09/KiSS-925-logo-514x514-1.png" group-title="toronto",CKIS KISS 92.5
+#EXTINF:-1 tvg-logo="https://www.kiss925.com/wp-content/uploads/sites/59/2020/09/KiSS-925-logo-514x514-1.png" group-title="toronto,new country",CKIS KISS 92.5
 https://rogers-hls.leanstream.co/rogers/tor925.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i2.wp.com/scifi.radio/wp-content/uploads/2021/02/cropped-scifiradio-b-512x512-1.png?fit=180%2c180&#038;ssl=1" group-title="science fiction,soundtracks",Krypton Radio
 http://144.217.254.135:8000/stream
@@ -1437,7 +1437,7 @@ https://maggie.torontocast.com:2020/stream/latinazradio
 https://kathy.torontocast.com/lave
 #EXTINF:-1 tvg-logo="http://static.wixstatic.com/media/a75255_6c7617ea2b664d78ad1c125a2e6c8e69%7Emv2.png/v1/fill/w_32%2Ch_32%2Clg_1%2Cusm_0.66_1.00_0.01/a75255_6c7617ea2b664d78ad1c125a2e6c8e69%7Emv2.png" group-title="hiphop,soul,urban",Le Rapologue Radio
 http://149.56.147.197:9675/stream
-#EXTINF:-1 tvg-logo="" group-title="gospel",Lighthouse VOAR-FM
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/e6/08/e608fa06fe5a494bb38521aea4608881.jpg" group-title="gospel,mount pearl",Lighthouse 96.7 VOAR-FM
 https://usa4.fastcast4u.com/proxy/lighthousefm?mp=/1
 #EXTINF:-1 tvg-logo="https://cdn-images.audioaddict.com/6/7/5/9/9/a/67599a0b4f3575ea5f6a74fe633899d7.jpg" group-title="dnb,liquid funk",Liquid DNB
 http://prem2.di.fm/liquiddnb_hi?b1e8ab696a279ebb68c48cab
@@ -1447,11 +1447,11 @@ http://prem2.di.fm/liquidtrap_hi?b1e8ab696a279ebb68c48cab
 http://prem2.di.fm/lofihiphop_hi?b1e8ab696a279ebb68c48cab
 #EXTINF:-1 tvg-logo="https://www.alljazzradio.com/uploads/1/8/0/8/18087009/editor/twitter-follow-button-in-wordpress.png?1591735597" group-title="jazz",Mad Music WJZZ
 http://144.217.195.24:8546/
-#EXTINF:-1 tvg-logo="" group-title="electronic",Meditation
+#EXTINF:-1 tvg-logo="https://cdn-images.audioaddict.com/c/9/8/c/7/9/c98c792e458c3416874bc89ed8f29aa6.png?size=300x300" group-title="electronic,atmospheric",Meditation
 http://prem2.radiotunes.com/meditation_hi?b1e8ab696a279ebb68c48cab
-#EXTINF:-1 tvg-logo="" group-title="classical,hard rock,heavy metal,rock",metalrock.fm
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/e2/d1/38948/1/c300.png" group-title="classical,hard rock,heavy metal,rock",metalrock.fm
 http://kathy.torontocast.com:2820/;?type=http&nocache=1594751889
-#EXTINF:-1 tvg-logo="" group-title="middle eastern pop and traditional",Middle East Radio
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/69/Middle-East-Radio-Logo.jpg" group-title="middle eastern pop,traditional",CHOU Middle East Radio
 https://s2.voscast.com:7387/stream
 #EXTINF:-1 tvg-logo="https://cdn-images.audioaddict.com/a/9/1/b/1/4/a91b1414a8712794672e3ea1324ffe92.png" group-title="minimal",Minimal
 http://prem2.di.fm/minimal_hi?b1e8ab696a279ebb68c48cab
@@ -1473,27 +1473,27 @@ http://corus-hls.leanstream.co/corus/CHQRAM.stream/playlist.m3u8
 http://prem2.di.fm/nudisco_hi?b1e8ab696a279ebb68c48cab
 #EXTINF:-1 tvg-logo="https://nubreaks.com/favicon.ico" group-title="breakbeat,breaks",Nubreaks.com
 http://198.50.156.92:8098/
-#EXTINF:-1 tvg-logo="" group-title="oldies,toronto",Oldies Paradise.com Toronto, ON
+#EXTINF:-1 tvg-logo="https://cache.usercontentapp.com/logo/44656.jpg?format=png&enlarge=0&quality=90&width=960" group-title="oldies,toronto",Oldies Paradise.com Toronto, ON
 http://www.oldiesparadise.com:8000/;stream.mp3
 #EXTINF:-1 tvg-logo="http://ozfm.com/favicon.ico" group-title="choz-fm,hot adult contemporary,jigs & reels,newfoundland,ozfm",OZFM Newfoundland's Music Mix
 http://s7.voscast.com:10876/OZFM
-#EXTINF:-1 tvg-logo="" group-title="electronic",Perfect Sunsets
+#EXTINF:-1 tvg-logo="https://cdn-images.audioaddict.com/4/f/b/3/3/5/4fb335eebc4697629fe801431fbc8684.jpg?size=170x170&quality=95" group-title="electronic,relaxation",Perfect Sunsets
 http://prem4.zenradio.com/zrperfectsunsets?b1e8ab696a279ebb68c48cab
-#EXTINF:-1 tvg-logo="https://images.app.goo.gl/LKK2zp9kRX6nnZJy8" group-title="canada’s best comedy and talk",PopCanFunny.ca CKPF-DB
+#EXTINF:-1 tvg-logo="https://images.app.goo.gl/LKK2zp9kRX6nnZJy8" group-title="comedy,talk",CKPF-DB PopCanFunny.ca
 https://popcanfunny.radioca.st/streams/128kbps
-#EXTINF:-1 tvg-logo="https://images.app.goo.gl/LB8kCmZW5XgUorNr6" group-title="",PopCanRadio.ca CHPO-DB
+#EXTINF:-1 tvg-logo="https://images.app.goo.gl/LB8kCmZW5XgUorNr6" group-title="classic hits,independent",CHPO-DB PopCanRadio.ca
 https://popcanradio.radioca.st/streams/128kbps
-#EXTINF:-1 tvg-logo="https://images.app.goo.gl/jqpjcDZdnKLkZkEL7" group-title="canada’s best country and more",PopCanRebel.ca CKRP-DB
+#EXTINF:-1 tvg-logo="https://images.app.goo.gl/jqpjcDZdnKLkZkEL7" group-title="country,classic country",CKRP-DB PopCanRebel.ca
 https://popcanrebel.radioca.st/streams/128kbps
-#EXTINF:-1 tvg-logo="https://images.app.goo.gl/WZjYLn82BgYnzQta9" group-title="canada’s best music of 70s 80s & 90s",PopCanRetro.ca CHRT-DB
+#EXTINF:-1 tvg-logo="https://images.app.goo.gl/WZjYLn82BgYnzQta9" group-title="rock,70s,80s,90s",CHRT-DB PopCanRetro.ca
 https://popcanretro.radioca.st/streams/128kbps
-#EXTINF:-1 tvg-logo="" group-title="",Power 104
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/7a/ab/7aab3f9baa186406bd99afed785191bd.jpg" group-title="mainstream rock,rock",CKLZ 104.7 The Lizard
 https://stream.jpbgdigital.com/CKLZ.m3u8?device_id=@uuid@&member_id=@memberid@&player_type=web
 #EXTINF:-1 tvg-logo="" group-title="electronic,tri-cities",Power92 FM
 http://s12.myradiostream.com:5608/stream
-#EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/4/76924.v2.png" group-title="progressive rock",Prog Frog
+#EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/4/76924.v2.png" group-title="progressive rock,prog",Prog Frog
 http://eagle.streemlion.com:4040/stream
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/f4ad9898-71f5-42e5-a958-dd2b33f2112e/1599849250468.png" group-title="progressive rock",Prognosis
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/f4ad9898-71f5-42e5-a958-dd2b33f2112e/1599849250468.png" group-title="progressive rock,prog",Prognosis
 https://stream.rcast.net/66391
 #EXTINF:-1 tvg-logo="https://www.punkrockradio.ca/favicon.ico" group-title="post-punk,punk,quebec",PunkRockRadio.ca
 https://stream.radio.co/s904013bb1/listen
@@ -1501,13 +1501,13 @@ https://stream.radio.co/s904013bb1/listen
 http://23.227.178.146/;
 #EXTINF:-1 tvg-logo="https://www.qub.radio/images/IMG_FB.png" group-title="canada,montreal,news,political talk,quebec city,talk",QUB Radio
 http://17483.live.streamtheworld.com/QUB_RADIOAAC_SC
-#EXTINF:-1 tvg-logo="http://www.radio42north.com/wp-content/uploads/2017/10/cropped-Radio42North-Logo_white-small-title-270x270.png" group-title="70s,80s,90s,belle river,indie,online only,pop,rock",Radio 42° North (R42N) [AAC+ 64kbps]
+#EXTINF:-1 tvg-logo="http://www.radio42north.com/wp-content/uploads/2017/10/cropped-Radio42North-Logo_white-small-title-270x270.png" group-title="70s,80s,90s,belle river,indie,online only,pop,rock",Radio 42° North
 http://ice66.securenetsystems.net/R42N
-#EXTINF:-1 tvg-logo="" group-title="",Radio 7 Toronto
+#EXTINF:-1 tvg-logo="https://www.radio7toronto.com/wp-content/uploads/2022/11/cropped-Radio7-Orange512-170x170.png" group-title="toronto,polish",Radio 7 Toronto
 https://s4.radio.co/s1b687cf20/low
-#EXTINF:-1 tvg-logo="" group-title="oldies,pop,top 40",Radio 854
+#EXTINF:-1 tvg-logo="https://static.tuneyou.com/images/logos/500_500/73/15873/Radio854_4.jpg" group-title="oldies,pop,top 40",Radio 854
 https://jenny.torontocast.com:8034/stream
-#EXTINF:-1 tvg-logo="http://radioafsana.com/wp-content/themes/d5-socialia/images/logo.png" group-title="indian pop music,toronto",Radio Afsana.com - Toronto, ON
+#EXTINF:-1 tvg-logo="http://radioafsana.com/wp-content/themes/d5-socialia/images/logo.png" group-title="indian pop music,toronto",Radio Afsana.com Toronto, ON
 http://174.36.206.197:7019/stream
 #EXTINF:-1 tvg-logo="http://radiobellissima.it/wp-content/uploads/2019/03/Logo_Radiobellissima_Nero_Sfondobianco-01-300x300.png" group-title="bellissima,hits,top 40",Radio Bellissima Hits
 http://giorgia.radiobellissima.it:8000/stream
@@ -1515,19 +1515,19 @@ http://giorgia.radiobellissima.it:8000/stream
 http://giorgia.radiobellissima.it:8040/;
 #EXTINF:-1 tvg-logo="http://radiobellissima.it/favicon.ico" group-title="latin,toronto",Radio Bellissima Latina
 http://martina.radiobellissima.it:8060/;
-#EXTINF:-1 tvg-logo="https://radiobellissima.it/wp-content/uploads/2019/05/LOGHI_RELAX_1000px-768x768.jpg" group-title="ambient",Radio bellissima relax
+#EXTINF:-1 tvg-logo="https://radiobellissima.it/wp-content/uploads/2019/05/LOGHI_RELAX_1000px-768x768.jpg" group-title="ambient,relax",Radio bellissima relax
 http://62.171.171.202:8030/
 #EXTINF:-1 tvg-logo="http://www.radioquebec.biz/logo-rq-reduit.jpg" group-title="black metal,hard rock,metal,talk",Radio Bizzzzz
 http://91.121.162.224:9012/stream
-#EXTINF:-1 tvg-logo="https://bluesflac.com/wp-content/uploads/2019/11/cropped-skull-1-180x180.png" group-title="jazz",Radio BluesFlac
+#EXTINF:-1 tvg-logo="https://bluesflac.com/wp-content/uploads/2019/11/cropped-skull-1-180x180.png" group-title="jazz,blues",Radio BluesFlac
 http://audio-edge-kef8b.ams.s.radiomast.io/radioblues-flac
-#EXTINF:-1 tvg-logo="https://www.radioclassique.ca/upload/design/5d1cc4fcaad749.59987287.png" group-title="music",radio classique quebec
+#EXTINF:-1 tvg-logo="https://www.radioclassique.ca/upload/design/5d1cc4fcaad749.59987287.png" group-title="classical,quebec city",CJSQ 92.7 Radio Classique 
 https://listen.radioking.com/radio/256885/stream/301510
 #EXTINF:-1 tvg-logo="http://www.radiodap.com/images/basic/logo1.png" group-title="canada,english,hindi,music,punjabi,talk show,toronto",Radio Dil Apna Punjabi
 http://my.radiodap.ca:9000/
-#EXTINF:-1 tvg-logo="http://www.radiodap.com/images/basic/logo1.png" group-title="gurbani,punjabi",Radio Dil Apna Punjabi - Radio Eknoor
+#EXTINF:-1 tvg-logo="http://www.radiodap.com/images/basic/logo1.png" group-title="gurbani,punjabi",Radio Dil Apna Punjabi
 http://my.radiodap.ca:1313/
-#EXTINF:-1 tvg-logo="https://radiodimensionemix.torontocast.stream/wp-content/uploads/2018/05/RADIO-DIMENSIONE-MIX_700X700-300x300.jpg" group-title="70s,80s,90s,hits,top 100",RADIO DIMENSIONE MIX
+#EXTINF:-1 tvg-logo="https://radiodimensionemix.torontocast.stream/wp-content/uploads/2018/05/RADIO-DIMENSIONE-MIX_700X700-300x300.jpg" group-title="70s,80s,90s,hits,top 100",Radio Dimensione Mix
 http://igor.torontocast.com:1770/stream
 #EXTINF:-1 tvg-logo="https://www.radio.pl/images/broadcasts/4b/00/11113/c100.png" group-title="90s,dance,eurodance,italodance,trance",Radio Eurodance Classic
 https://hazel.torontocast.com:3185/stream
@@ -1537,43 +1537,35 @@ http://trentradio.ca:8800/rfp
 http://144.217.76.188:8248/;
 #EXTINF:-1 tvg-logo="http://www.radiostreamlive.com/images/logos_radioitaliacanada.png" group-title="italian pop,rsl,toronto",Radio Italia Canada
 https://streaming.radiostreamlive.com/radioitaliacanada_devices
-#EXTINF:-1 tvg-logo="http://www.kalasam.com/images/kalasam1.jpg" group-title="ethnic programming,tamil music,tamil programming,toronto",Radio Kalasam.com - Toronto, ON
+#EXTINF:-1 tvg-logo="http://www.kalasam.com/images/kalasam1.jpg" group-title="ethnic programming,tamil music,tamil programming,toronto",Radio Kalasam.com Toronto, ON
 http://173.192.207.51:8084/;stream.mp3
 #EXTINF:-1 tvg-logo="https://radiokonton.files.wordpress.com/2017/01/cropped-radio-konton-icon.jpg?w=270" group-title="electronica,experimental,north bay,pirate radio",Radio Konton 90.5 North Bay, ON
 http://radiokonton.zapto.org:8000/;
 #EXTINF:-1 tvg-logo="https://www.radiomaria.ca/wp-content/uploads/2016/10/rm-favicon.png" group-title="catholic,christian",Radio Maria Canada
 http://dreamsiteradiocp.com:8016/
-#EXTINF:-1 tvg-logo="https://www.radiomaria.ca/wp-content/uploads/2016/10/rm-favicon.png" group-title="catholic,christian,talk",RADIO MARIA CANADA - HMWN
-http://dreamsiteradiocp.com:8016/stream
-#EXTINF:-1 tvg-logo="https://www.radiomaria.ca/wp-content/uploads/2016/10/rm-favicon.png" group-title="catholic,christian",Radio Maria Canada - In Italiano
-http://dreamsiteradiocp4.com:8016/
-#EXTINF:-1 tvg-logo="https://www.radiomaria.ca/wp-content/uploads/2016/10/rm-favicon.png" group-title="catholic,christian,talk",Radio Maria Canada - Spanish
+#EXTINF:-1 tvg-logo="https://www.radiomaria.ca/wp-content/uploads/2016/10/rm-favicon.png" group-title="catholic,christian,talk",Radio Maria Canada Spanish
 http://rmcesp.radiomaria.ca:8050/;stream.mp3
-#EXTINF:-1 tvg-logo="https://www.radiomaria.ca/wp-content/uploads/2016/10/rm-favicon.png" group-title="catholic,christian,talk",RADIO MARIA CANADA - TORONTO
-http://dreamsiteradiocp4.com:8016/stream
-#EXTINF:-1 tvg-logo="http://www.quebec-country.com/favicon.ico" group-title="country,thetford mines",Radio Quebec Country.com - Thetford Mines, QC
+#EXTINF:-1 tvg-logo="http://www.quebec-country.com/favicon.ico" group-title="country,thetford mines",Radio Quebec Country.com Thetford Mines, QC
 http://play.quebec-country.com/
-#EXTINF:-1 tvg-logo="http://radioquebecinternational.com/images/pic02.png" group-title="ethnic,folk,pop",Radio Québec International  -- RQI1: Yesterday and Today
+#EXTINF:-1 tvg-logo="http://radioquebecinternational.com/images/pic02.png" group-title="ethnic,folk,pop",Radio Québec International RQI1: Yesterday and Today
 https://us10a.serverse.com/proxy/rqi1
-#EXTINF:-1 tvg-logo="http://radioquebecinternational.com/images/pic02.png" group-title="ethnic,folk,pop",Radio Québec International -- RQI2 : The Pioneers
+#EXTINF:-1 tvg-logo="http://radioquebecinternational.com/images/pic02.png" group-title="ethnic,folk,pop",Radio Québec International RQI2: The Pioneers
 https://us10a.serverse.com/proxy/rqi2
 #EXTINF:-1 tvg-logo="https://www.radioregent.com/images/radioregent_web.png" group-title="community radio,hip hop,reggae,toronto",Radio Regent.com Toronto, ON
 https://streamer.radio.co/se3e1e3815/low
-#EXTINF:-1 tvg-logo="https://i3.radionomy.com/radios/400/4058aea7-d4f4-4c11-a4b3-1c6dce791477.png" group-title="comedy-persian,richmond hill,toronto",Radio Shemroon - Richmond Hill, ON
+#EXTINF:-1 tvg-logo="https://i3.radionomy.com/radios/400/4058aea7-d4f4-4c11-a4b3-1c6dce791477.png" group-title="comedy-persian,richmond hill,toronto",Radio Shemroon Richmond Hill, ON
 http://192.99.17.12:5919/;
 #EXTINF:-1 tvg-logo="https://direct.radiovm.com/wp-content/uploads/2020/03/cropped-logo-192x192.png" group-title="religion,spiritual,talk",Radio VM
 https://s5.radio.co/sec326ff8a/listen
-#EXTINF:-1 tvg-logo="" group-title="alternative,alternative rock,indie,indie rock",Radio XY
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LIwmneC5inrUCejCQkXv9dJCUxrp4NbbRezr_Kg3EIWTK1q2wcIjbCa-EUIFfhtk6w" group-title="alternative,alternative rock,indie,indie rock",Radio XY
 http://ais-edge09-live365-dal02.cdnstream.com/a41839
-#EXTINF:-1 tvg-logo="" group-title="classical,film music,opera",Radio-Classique
+#EXTINF:-1 tvg-logo="https://www.radio.fr/images/broadcasts/1a/b8/36096/1/c300.png" group-title="classical,film music,opera",Radio-Classique
 https://listen.radioking.com/radio/228241/stream/271810
-#EXTINF:-1 tvg-logo="" group-title="simply different",RadioProgram
+#EXTINF:-1 tvg-logo="https://www.getmeradio.com/stations/radioprogram-1916/logos/512x512.png" group-title="simply different,rock",RadioProgram
 http://radio.streemlion.com:2190/radioprogram
-#EXTINF:-1 tvg-logo="http://radioskymusic.com/img/favicon.png" group-title="jazz",RadioSky Music Jazz
+#EXTINF:-1 tvg-logo="http://radioskymusic.com/img/favicon.png" group-title="jazz,blues",RadioSky Music Jazz
 http://jazz.radioskymusic.com:7006/live
-#EXTINF:-1 tvg-logo="https://radioskymusic.com/img/favicon.png" group-title="jazz",RadioSkyMusic Jazz
-http://listen.radioskymusic.com:7006/live
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/91f440_ef5f9f93bbc34dd1bd50833e7e755b6e.jpg/v1/fill/w_32%2Ch_32%2Clg_1%2Cusm_0.66_1.00_0.01/91f440_ef5f9f93bbc34dd1bd50833e7e755b6e.jpg" group-title="vintage",RadioSouvenirsFM
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/91f440_ef5f9f93bbc34dd1bd50833e7e755b6e.jpg/v1/fill/w_32%2Ch_32%2Clg_1%2Cusm_0.66_1.00_0.01/91f440_ef5f9f93bbc34dd1bd50833e7e755b6e.jpg" group-title="vintage,world",RadioSouvenirsFM
 http://s1.autopo.st:8227/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/rmcauley/rainwave/master/static/images4/logo_blue_on_white.png" group-title="chiptune,video game",Rainwave All
 http://allrelays.rainwave.cc/all.ogg
@@ -1583,7 +1575,7 @@ https://relay.rainwave.cc/covers.ogg
 http://allrelays.rainwave.cc/game.ogg
 #EXTINF:-1 tvg-logo="http://www.rainwave.cc/static/images4/ios/120.png" group-title="chiptune,video game",Rainwave OC Remix
 http://allrelays.rainwave.cc/ocremix.ogg
-#EXTINF:-1 tvg-logo="" group-title="calypso,caribbean music,reggae,toronto",Ranks Radio.com - Toronto, ON
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/twj65snkmvrg.png" group-title="calypso,caribbean music,reggae,toronto",Ranks Radio.com Toronto, ON
 http://142.4.217.133:8294/stream
 #EXTINF:-1 tvg-logo="https://radiodimensionemix.torontocast.stream/wp-content/uploads/2021/03/RDMIX-70S-GOLDEN-HITS_OK-300x300.png " group-title="1970s,70's,70er,70s,70s disco,discomusic 70,funk,funky,hits 70's",RDMIX 70'S GOLDEN HITS
 https://maggie.torontocast.com:2020/stream/rdmix70sgoldenhits
