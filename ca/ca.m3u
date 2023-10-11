@@ -1715,47 +1715,43 @@ http://prem1.di.fm/trance_hi?b1e8ab696a279ebb68c48cab
 https://fred.torontocast.com:2305/stream
 #EXTINF:-1 tvg-logo="https://www.trekstation.torontocast.stream/images/apple-touch-icon-7ed66e.png" group-title="country,folk",TrekStation Country
 https://daniel.torontocast.com:2735/stream
-#EXTINF:-1 tvg-logo="" group-title="jazz,pop",TrekStation Grooves
+#EXTINF:-1 tvg-logo="https://www.allradio.net/500/393gt79tPDw92xgBluhSs.webp" group-title="jazz,pop",TrekStation Grooves
 https://daniel.torontocast.com:2465/stream
-#EXTINF:-1 tvg-logo="https://www.trekstation.torontocast.stream/images/apple-touch-icon-7ed66e.png" group-title="jazz",TrekStation Jazz
+#EXTINF:-1 tvg-logo="https://www.trekstation.torontocast.stream/images/apple-touch-icon-7ed66e.png" group-title="jazz,blues",TrekStation Jazz
 http://daniel.torontocast.com:2450/stream
 #EXTINF:-1 tvg-logo="https://www.trekstation.torontocast.stream/images/apple-touch-icon-7ed66e.png" group-title="ambient,chillout,lounge",TrekStation Lounge
 https://fred.torontocast.com:2485/stream
-#EXTINF:-1 tvg-logo="" group-title="traffic",Truck Stop Quebec
+#EXTINF:-1 tvg-logo="https://www.truckstopquebec.com/wp-content/uploads/2014/01/tsqapp.png" group-title="traffic,news",Truck Stop Quebec Plessisville, QC
 http://canada1.reliastream.com:8052/live
 #EXTINF:-1 tvg-logo="https://www.tsn.ca//img/tsn/icons/apple-touch-icon.png" group-title="live sports,sport,sports talk,toronto",TSN 1050 CHUM AM Toronto, ON
 https://20263.live.streamtheworld.com:443/CHUMAM_ADP/HLS/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.tsn.ca//img/tsn/icons/apple-touch-icon.png" group-title="edmonton,sports talk,tsn",TSN 1260 CFRN Edmonton, AB
 http://24863.live.streamtheworld.com:3690/CFRNAMAAC_SC
-#EXTINF:-1 tvg-logo="http://tsnimages.tsn.ca/ImageProvider/AssetImage?seoId=montreal-690&height=620" group-title="#montrealsports",TSN 690 Montreal, QC
+#EXTINF:-1 tvg-logo="http://tsnimages.tsn.ca/ImageProvider/AssetImage?seoId=montreal-690&height=620" group-title="montreal,sports",TSN 690 Montreal, QC
 https://22203.live.streamtheworld.com/CKGMAMAAC.aac
-#EXTINF:-1 tvg-logo="" group-title="",Ucb Canada 90.7
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/33/2c/332caa27ed21041919e6f822fc04a8ac.jpg" group-title="contemporary christian,christian",CHJJ UCB Canada 90.7 Cobourg, ON
 http://s7.viastreaming.net:8600/;
-#EXTINF:-1 tvg-logo="" group-title="campus radio,college radio,community radio,university radio",UMFM 101.5 (CJUM)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/80/Umfm_Logo_2006.jpg" group-title="campus radio,college radio,community radio,university radio",CJUM UMFM 101.5 Winnipeg, MB
 http://live.umfm.com:8000/?DIST=TuneIn&TGT=TuneIn&maxServers=2&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTY0MDEwNTE4OSwiaXNzIjoidGlzcnYifQ.XVHPZYthG4GWjxu3LVpBJDg003zAA2Mn_3HnArwIdeU
-#EXTINF:-1 tvg-logo="https://www.wavesofpower.com/wp-content/uploads/2019/03/Logo_vallamai.png" group-title="christian praise&worship,tamil,tamil christian radio,tamil music",Vallamaiyin Alaikal - Waves of Power
+#EXTINF:-1 tvg-logo="https://www.wavesofpower.com/wp-content/uploads/2019/03/Logo_vallamai.png" group-title="christian,tamil,tamil christian radio,tamil music",Vallamaiyin Alaikal Waves of Power
 http://radio.pixelinmedia.com/vallamai
-#EXTINF:-1 tvg-logo="https://cdn-images.audioaddict.com/8/5/a/1/3/b/85a13bb220281bf22bf04d4f1f778b59.png" group-title="vocal house",Vocal House
+#EXTINF:-1 tvg-logo="https://cdn-images.audioaddict.com/8/5/a/1/3/b/85a13bb220281bf22bf04d4f1f778b59.png" group-title="vocal,house",Vocal House
 http://prem2.di.fm/vocalhouse_hi?b1e8ab696a279ebb68c48cab
-#EXTINF:-1 tvg-logo="https://cdn-images.audioaddict.com/8/4/3/6/f/9/8436f9d3338ba7c8de0e88dbe45ea4d5.jpg" group-title="easy listening,vocal lounge",Vocal Lounge
+#EXTINF:-1 tvg-logo="https://cdn-images.audioaddict.com/8/4/3/6/f/9/8436f9d3338ba7c8de0e88dbe45ea4d5.jpg" group-title="easy listening,vocal,lounge",Vocal Lounge
 http://prem2.di.fm/vocallounge_hi?b1e8ab696a279ebb68c48cab
-#EXTINF:-1 tvg-logo="http://vocm.com/favicon.ico" group-title="commercial,local news",VOCM-AM 590 St. John's, NL
+#EXTINF:-1 tvg-logo="http://vocm.com/favicon.ico" group-title="commercial,news",VOCM-AM 590 St. John's, NL
 http://newcap.leanstream.co/VOCMAM
-#EXTINF:-1 tvg-logo="http://media.socastsrm.com/wordpress/wp-content/blogs.dir/1464/files/2017/11/206_primary_image.png" group-title="classic rock",VOCM-FM 97.5 "K-Rock" St. John's, NL
+#EXTINF:-1 tvg-logo="http://media.socastsrm.com/wordpress/wp-content/blogs.dir/1464/files/2017/11/206_primary_image.png" group-title="classic rock,rock",VOCM-FM 97.5 "K-Rock" St. John's, NL
 http://newcap.leanstream.co/VOCMFM
-#EXTINF:-1 tvg-logo="" group-title="celtic,church services,classical,instrumental,talk radio",VOWR 800 St. John's, NL
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/qgWmNtnshz.png" group-title="celtic,church services,classical,instrumental,talk radio",VOWR 800 St. John's, NL
 http://18853.live.streamtheworld.com:3690/VOWRAMAAC_SC
-#EXTINF:-1 tvg-logo="" group-title="jazz,smooth jazz",WAVE.FM
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s304504/images/logog.png?t=1" group-title="jazz,smooth jazz",WAVE.FM 98.3 Vancouver, BC 
 http://14613.live.streamtheworld.com/CIWVFM_SC
-#EXTINF:-1 tvg-logo="http://cache.wefunkradio.com/images-small/outside/design/wefunk-logo-3d-vector2.png" group-title="funk,hip hop,soul",WEFUNK
+#EXTINF:-1 tvg-logo="http://cache.wefunkradio.com/images-small/outside/design/wefunk-logo-3d-vector2.png" group-title="funk,hip hop,soul",WEFUNK Montreal, QC
 https://s-14.wefunkradio.com:8443/wefunk64.mp3
-#EXTINF:-1 tvg-logo="http://cache.wefunkradio.com/images-small/outside/design/wefunk-logo-3d-vector2.png" group-title="funk,hiphop,raw uncut funk,underground",WEFUNK Radio
-http://s-09.wefunkradio.com:8000/wefunk64.mp3
-#EXTINF:-1 tvg-logo="" group-title="alternative,alternative rock,canada,commercial,montreal,mp3,pop rock",WKND 99.5, Montreal City
+#EXTINF:-1 tvg-logo="https://www.wknd.fm/img/logo-wknd.png" group-title="alternative,alternative rock,canada,commercial,montreal,mp3,pop rock",WKND 99.5 Montreal, QC
 http://streaming.cjpx.leclerccommunication.ca:8000/cjpx.mp3?type=.mp3&1597284756
-#EXTINF:-1 tvg-logo="http://xltrax.com/wp-content/uploads/2015/08/313794_10151271786582414_990547088_a1.png" group-title="pop,top 40",XLTRAX Music Network -"XLMAX Radio" - Sherbrooke, QC
+#EXTINF:-1 tvg-logo="http://xltrax.com/wp-content/uploads/2015/08/313794_10151271786582414_990547088_a1.png" group-title="pop,top 40",XLTRAX Music Network Sherbrooke, QC
 http://xltrax.com:8840/;audio.mp3
-#EXTINF:-1 tvg-logo="http://xltrax.com/wp-content/uploads/2015/08/313794_10151271786582414_990547088_a1.png" group-title="dance",XLTRAX Music Network Dance Radio - Sherbrooke, QC
+#EXTINF:-1 tvg-logo="http://xltrax.com/wp-content/uploads/2015/08/313794_10151271786582414_990547088_a1.png" group-title="dance",XLTRAX Music Network Dance Radio Sherbrooke, QC
 http://xltrax.com:8000/;stream/1
-#EXTINF:-1 tvg-logo="" group-title="96.1,96.1 fm,music,news,pop,talk",加拿大中文电台FM.96.1
-https://5b2959fe11444.streamlock.net/radio/fm961.stream/playlist.m3u8
