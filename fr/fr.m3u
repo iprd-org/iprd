@@ -1,29 +1,29 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://www.atlantica-radio.fr/logo_oldie.jpg" group-title="decades",.. atlantica oldies..
+#EXTINF:-1 tvg-logo="http://www.atlantica-radio.fr/logo_oldie.jpg" group-title="decades,oldies",Atlantica Oldies
 http://radios.topymedia.com:8052/stream/;.mp3
-#EXTINF:-1 tvg-logo="http://www.atlantica-radio.fr/atlantica.jpg" group-title="pop",.. Atlantica Radio.. 
+#EXTINF:-1 tvg-logo="http://www.atlantica-radio.fr/atlantica.jpg" group-title="pop,rock",Atlantica Radio 
 http://radios.topymedia.com:8000/stream/;.mp3
-#EXTINF:-1 tvg-logo="http://www.atlantica-radio.fr/log12.jpg" group-title="misc",.. Atlantica Soleil.. 
+#EXTINF:-1 tvg-logo="http://www.atlantica-radio.fr/log12.jpg" group-title="salsa,reggaeton",Atlantica Soleil 
 http://radios.topymedia.com:8054/stream/;.mp3
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/f3de1e_e2aa2dce49034bdb98b0a4ba7eebf929~mv2.jpg/v1/fill/w_200,h_196,al_c,q_80,usm_0.66_1.00_0.01/f3de1e_e2aa2dce49034bdb98b0a4ba7eebf929~mv2.webp" group-title="alternative,alternative rock,classic rock,electro,electronic,electronica,house,pop,pop rock,rock,world music",..87,5!. Nantes
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/f3de1e_e2aa2dce49034bdb98b0a4ba7eebf929~mv2.jpg/v1/fill/w_200,h_196,al_c,q_80,usm_0.66_1.00_0.01/f3de1e_e2aa2dce49034bdb98b0a4ba7eebf929~mv2.webp" group-title="alternative,classic rock,electro,electronic,electronica,house,pop,rock,world music",875 Nantes
 https://listen.radioking.com/radio/15130/stream/28217
-#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/brand/icon_192x192.png" group-title="chansons françaises",100 pour cent france
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/brand/icon_192x192.png" group-title="chansons françaises,pop",100 Pour Cent France
 https://streamingv2.shoutcast.com/100-Pour-Cent-France
-#EXTINF:-1 tvg-logo="https://i3.radionomy.com/radios/400/a5a80f3b-760a-4e6a-ad33-bf81753b7d43.jpg" group-title="grunge,hard rock,metal,punk,rock",100% HARD ROCK
+#EXTINF:-1 tvg-logo="https://i3.radionomy.com/radios/400/a5a80f3b-760a-4e6a-ad33-bf81753b7d43.jpg" group-title="grunge,hard rock,metal,punk,rock",100% Hard Rock
 http://streamingv2.shoutcast.com/100-HARD-ROCK
-#EXTINF:-1 tvg-logo="" group-title="progressive rock",100% Progressive Rock
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/bd/43/34153/c300.png" group-title="progressive rock,prog",100% Progressive Rock
 http://streamingV2.shoutcast.com/100-PROGRESSIVEROCK
 #EXTINF:-1 tvg-logo="http://static.radio.de/images/broadcasts/8e/f8/9464/c175.png" group-title="clubbing,dance,electro",103 Radio
 http://streaming.103radio.fr/128
-#EXTINF:-1 tvg-logo="http://static.radio.net/images/broadcasts/b8/99/14239/c300.png" group-title="classic rock,rock,rock-classic",123 All Classic Rock
+#EXTINF:-1 tvg-logo="http://static.radio.net/images/broadcasts/b8/99/14239/c300.png" group-title="classic rock,rock",123 All Classic Rock
 http://str4uice.streamakaci.com/4uclassicrock.mp3
-#EXTINF:-1 tvg-logo="" group-title="",432hz Radio
+#EXTINF:-1 tvg-logo="https://www.radio.fr/images/broadcasts/08/96/39342/3/c300.png" group-title="jazz,pop",432hz Radio
 http://stream.zeno.fm/er3nkny6fd0uv?rj-ttl=5&rj-tok=AAABfdovvwoAW8L1h6BNCBElFw
-#EXTINF:-1 tvg-logo="" group-title="classical",6coup.fm
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/filtermusic/w_300,c_scale,f_auto,q_auto/v1637141626/radioclassique.jpg" group-title="classical,baroque",6coup.fm
 http://stream.zeno.fm/p4cea0p314zuv?rj-ttl=5&rj-tok=AAABfd5djegAX9EUcuQuIcGjcQ
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1407250120467484673/Mr6QqInw_400x400.jpg" group-title="",8Beats
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1407250120467484673/Mr6QqInw_400x400.jpg" group-title="video game,ambient,electronic",8Beats
 https://n05.radiojar.com/2fa4wbch308uv?rj-ttl=5&rj-tok=AAABfd1YSNcAx7qBwmyAc8OmJQ
-#EXTINF:-1 tvg-logo="" group-title="",ABC Dance
+#EXTINF:-1 tvg-logo="https://api.raddios.com/api/radios/1603/image/miniaturamovil?2020-06-11%2018:44:52" group-title="dance,house",ABC Dance
 https://listen.radioking.com/radio/324967/stream/374263
 #EXTINF:-1 tvg-logo="https://www.abc-lounge.com/radio/wp-content/uploads/2019/11/logo-ABC-Lounge100.png" group-title="ambient,chillout,easy listening,lounge,smooth jazz",ABC Lounge Radio
 https://eu1.fastcast4u.com/proxy/kpmxz?mp=/1
@@ -35,33 +35,33 @@ http://abf.net-radio.fr/abfcult.mp3
 http://abf.net-radio.fr/abflove.mp3
 #EXTINF:-1 tvg-logo="https://www.allzicradio.com/media/radios/abf_world.png" group-title="funk,hip hop,latino,lounge,reggae,world music",ABF World
 http://abf.net-radio.fr/abfworld.mp3
-#EXTINF:-1 tvg-logo="http://www.accent4.com/favicon.ico" group-title="",Accent 4
+#EXTINF:-1 tvg-logo="http://www.accent4.com/favicon.ico" group-title="classical,baroque",Accent 4
 http://str0.creacast.com/accent4
-#EXTINF:-1 tvg-logo="" group-title="",Activ radio
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Activ_logo_2018.png" group-title="pop,hits",Activ Radio
 http://94.23.219.163:8000/stetienne.mp3
-#EXTINF:-1 tvg-logo="http://www.activradio.com/wp-content/themes/activ/favicon.ico" group-title="",Activ Radio Roanne
+#EXTINF:-1 tvg-logo="http://www.activradio.com/wp-content/themes/activ/favicon.ico" group-title="pop,hits",Activ Radio Roanne
 HTTP://d3-soundcast-edge-1.infomaniak.ch:80/roanne.mp3
-#EXTINF:-1 tvg-logo="http://www.activradio.com/wp-content/themes/activ/favicon.ico" group-title="",Activ Radio Saint-Étienne
+#EXTINF:-1 tvg-logo="http://www.activradio.com/wp-content/themes/activ/favicon.ico" group-title="pop,hits",Activ Radio Saint-Étienne
 HTTP://d3-soundcast-edge-3.infomaniak.ch:80/stetienne.mp3
-#EXTINF:-1 tvg-logo="http://active-radio.fr/wp-content/uploads/2019/11/cropped-icone-180x180.png" group-title="",Active Radio
+#EXTINF:-1 tvg-logo="http://active-radio.fr/wp-content/uploads/2019/11/cropped-icone-180x180.png" group-title="pop,hits",Active Radio
 http://manager.streaming-ingenierie.fr:8028/;stream.mp3
-#EXTINF:-1 tvg-logo="http://www.activeradio.fr/" group-title="",Active radio 100.6 FM
+#EXTINF:-1 tvg-logo="http://www.activeradio.fr/" group-title="pop,hits",Active Radio 100.6 FM
 http://manager.streaming-ingenierie.fr:8028/
-#EXTINF:-1 tvg-logo="" group-title="alternative",Addict Alternative
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/hb2nl5p4yctg.jpg" group-title="alternative,rock",Addict Alternative
 http://stream2.addictradio.net/addictalternative.mp3
-#EXTINF:-1 tvg-logo="http://www.addictradio.net/medias/images/header/logos/lounge.png" group-title="lounge music",Addict Lounge
+#EXTINF:-1 tvg-logo="http://www.addictradio.net/medias/images/header/logos/lounge.png" group-title="lounge,world",Addict Lounge
 http://stream1.addictradio.net/addictlounge.mp3
-#EXTINF:-1 tvg-logo="http://www.addictradio.net/medias/images/header/logos/rock.png" group-title="rock",Addict Rock
+#EXTINF:-1 tvg-logo="http://www.addictradio.net/medias/images/header/logos/rock.png" group-title="rock,classic rock",Addict Rock
 http://stream2.addictradio.net/addictrock.mp3
-#EXTINF:-1 tvg-logo="http://www.addictradio.net/medias/images/header/logos/star.png" group-title="",Addict Star
+#EXTINF:-1 tvg-logo="http://www.addictradio.net/medias/images/header/logos/star.png" group-title="electro,pop",Addict Star
 http://stream2.addictradio.net/addictstar.mp3
-#EXTINF:-1 tvg-logo="" group-title="international",afroman radio
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/r3q2dw9ye4qz.png" group-title="international,electro",Afroman Radio
 http://listen.radioking.com/radio/51436/stream/88420
-#EXTINF:-1 tvg-logo="http://www.agape1.fr/favicon.ico" group-title="christian",Agape
+#EXTINF:-1 tvg-logo="http://www.agape1.fr/favicon.ico" group-title="christian,christian rock",Agape
 http://91.121.148.49:9777/;
-#EXTINF:-1 tvg-logo="http://agorafm.fr/favicon.ico" group-title="",Agora Côte d’Azur
+#EXTINF:-1 tvg-logo="http://agorafm.fr/favicon.ico" group-title="community,public radio",Agora Côte d’Azur
 http://agoracotedazur.ice.infomaniak.ch/agoracotedazur.mp3
-#EXTINF:-1 tvg-logo="https://www.aioli-radio.org/logo.svg" group-title="",Aïoli Radio
+#EXTINF:-1 tvg-logo="https://www.aioli-radio.org/logo.svg" group-title="ambient,classical",Aïoli Radio
 https://stream.aioli-radio.org/main.mp3
 #EXTINF:-1 tvg-logo="https://www.aioli-radio.org/logo.png" group-title="ambient,autres,chanson,classique,dancehall,dub,electro,folk,funk,hip hop,infos,jazz,local,pop,reggae,trip hop",Aïoli Radio
 https://stream.aioli-radio.org/main.ogg
@@ -69,55 +69,51 @@ https://stream.aioli-radio.org/main.ogg
 https://stream.airconnectradio.com/ac192.mp3
 #EXTINF:-1 tvg-logo="https://www.airdream-radio.fr/wp-content/uploads/2021/11/Logo_url_192x192.jpg" group-title="",Air Dream Radio
 https://stream.airdream-radio.fr:8000/radio.mp3
-#EXTINF:-1 tvg-logo="https://www.airzen.fr/assets/img/favicon.png" group-title="feel good",AirZen
+#EXTINF:-1 tvg-logo="https://www.airzen.fr/assets/img/favicon.png" group-title="feel good,hits",AirZen
 https://n07a-eu.rcs.revma.com/vuumdncf368uv?rj-ttl=5&rj-tok=AAABfd3ePLYANaOh1LWcGiy2Rg
 #EXTINF:-1 tvg-logo="https://www.akroradio.com/wp-content/uploads/2020/11/cropped-icone-1-180x180.png" group-title="80's,90's,dance,hits,techno,top40",AkroRadio
 http://stream.akroradio.com:10012/AkroRadio
-#EXTINF:-1 tvg-logo="" group-title="charts,culture,debate,généraliste,ile de france,musique,paris,talk",Aligre FM 93.1
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/WCMvpeQ4Py.jpg" group-title="charts,culture,debate,généraliste,ile de france,musique,paris,talk",Aligre FM 93.1
 https://stream3.vestaradio.com/aligrefmradio
-#EXTINF:-1 tvg-logo="" group-title="",Alouette
-https://alouette.ice.infomaniak.ch/alouette-high.mp3
-#EXTINF:-1 tvg-logo="https://images.radio.orange.com/radios/large_alouette.png" group-title="",Alouette
+#EXTINF:-1 tvg-logo="https://images.radio.orange.com/radios/large_alouette.png" group-title="electro,pop",Alouette
 http://alouette.ice.infomaniak.ch/alouette-high.mp3
-#EXTINF:-1 tvg-logo="" group-title="",Alouette nouveaux talents
+#EXTINF:-1 tvg-logo="https://www.radio.de/images/broadcasts/23/ad/1416/1/c300.png" group-title="hits,pop",Alouette Nouveaux Talents
 https://alouettenouveauxtalents.ice.infomaniak.ch/alouettenouveauxtalents-128.mp3
-#EXTINF:-1 tvg-logo="https://alpesdusud.alpes1.com/apple-touch-icon-120x120.png" group-title="",Alpes 1 Alpes du Sud
+#EXTINF:-1 tvg-logo="https://alpesdusud.alpes1.com/apple-touch-icon-120x120.png" group-title="news,music",Alpes 1 Alpes du Sud
 http://alpes1gap.ice.infomaniak.ch/alpes1gap-high.mp3
-#EXTINF:-1 tvg-logo="http://grandgrenoble.alpes1.com/favicon.ico" group-title="",Alpes 1 Grenoble
+#EXTINF:-1 tvg-logo="http://grandgrenoble.alpes1.com/favicon.ico" group-title="news,music",Alpes 1 Grenoble
 http://alpes1grenoble.ice.infomaniak.ch/alpes1grenoble-high.mp3
-#EXTINF:-1 tvg-logo="https://www.alta-frequenza.corsica/extension/wx_alta/design/alta2019/images/ogimage.jpg" group-title="",Alta Serena
+#EXTINF:-1 tvg-logo="https://www.alta-frequenza.corsica/extension/wx_alta/design/alta2019/images/ogimage.jpg" group-title="bastia,rock",Alta Serena
 http://altaserena.ice.infomaniak.ch/altaserena-128.mp3
-#EXTINF:-1 tvg-logo="https://www.casimages.com/i/210208034944187854.png.html" group-title="ambiance,blues,chanson française,folk,général,hard rock,jazz,metal,pop,punk,rap,reggae,rock,soul,techno",ALTARO Radio
+#EXTINF:-1 tvg-logo="https://www.casimages.com/i/210208034944187854.png.html" group-title="ambiance,blues,chanson française,folk,général,hard rock,jazz,metal,pop,punk,rap,reggae,rock,soul,techno",Altaro Radio
 https://manager.conceptradio.fr:1135/stream
 #EXTINF:-1 tvg-logo="https://www.alternantesfm.net/wp-content/uploads/2014/01/Logo-login-WP.png" group-title="alternative,france,frankreich",AlterNantes
 http://diffusion.lafrap.fr/alternantes.mp3
-#EXTINF:-1 tvg-logo="https://www.alternantesfm.net/images/favicon-alternantes-orange.png" group-title="",AlterNantes
+#EXTINF:-1 tvg-logo="https://www.alternantesfm.net/images/favicon-alternantes-orange.png" group-title="pop,chanson",AlterNantes
 http://80.82.229.202/alternantes.mp3
-#EXTINF:-1 tvg-logo="http://www.alternativefm.fr/wp-content/uploads/logo-puzzle-n11.bmp" group-title="",Alternative FM
+#EXTINF:-1 tvg-logo="http://www.alternativefm.fr/wp-content/uploads/logo-puzzle-n11.bmp" group-title="alternative,rock",Alternative FM
 http://live140.impek.com:9978/;stream_2
 #EXTINF:-1 tvg-logo="https://www.radioking.com/api/track/cover/45a0f0fa-4008-4515-9dc2-5c35a2055cdd?width=160&height=160" group-title="electro,folk,funk,hiphop,jazz,rock,soul,world music",Alternative Radio
 https://listen.radioking.com/radio/182263/stream/224140
-#EXTINF:-1 tvg-logo="" group-title="international",Alternative Radio HD
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/qnvesbv2spjz.png" group-title="international,alternative",Alternative Radio HD
 https://listen.radioking.com/radio/182263/stream/224215
-#EXTINF:-1 tvg-logo="" group-title="",ARL
-http://arlaquitaineradiolive.ice.infomaniak.ch/arlaquitaineradiolive-128
-#EXTINF:-1 tvg-logo="" group-title="",ARL
+#EXTINF:-1 tvg-logo="https://images.lesindesradios.fr/fit-in/300x2000/filters:format(webp)/filters:quality(100)/radios/arl/images/logo_NAxbvzB18G.png" group-title="pop,hits",ARL
 http://arlaquitaineradiolive.ice.infomaniak.ch/arlaquitaineradiolive-128.mp3
-#EXTINF:-1 tvg-logo="http://www.arvorigfm.com/vars/images/arvorig%20logo%20RVB.jpg" group-title="",Arvorig FM
+#EXTINF:-1 tvg-logo="http://www.arvorigfm.com/vars/images/arvorig%20logo%20RVB.jpg" group-title="community,community radio,world",Arvorig FM
 http://arvorig-fm.online.radiobreizh.bzh/live-ori.ogg
-#EXTINF:-1 tvg-logo="http://www.atomicradio.fr/storage/2016/07/cropped-coctaillogotete-180x180.png" group-title="",Atomic radio
+#EXTINF:-1 tvg-logo="http://www.atomicradio.fr/storage/2016/07/cropped-coctaillogotete-180x180.png" group-title="electro,chillout",Atomic Radio
 http://radios.topymedia.com:8032/
-#EXTINF:-1 tvg-logo="http://s276412648.onlinehome.fr/v2/wp-content/uploads/2013/06/Logo_Attitude_98.3_fm-90-outlook.jpg" group-title="",Attitude
+#EXTINF:-1 tvg-logo="http://s276412648.onlinehome.fr/v2/wp-content/uploads/2013/06/Logo_Attitude_98.3_fm-90-outlook.jpg" group-title="electro,hit-parade",Attitude
 http://178.32.222.164:8002/;stream.mp3
-#EXTINF:-1 tvg-logo="http://www.autorouteinfo.fr/Templates/autorouteinfo_jpg.jpg?FileID=images%2520transversales%2fautorouteinfo_jpg.jpg" group-title="",Autoroute Info 107.7 Zone Nord
+#EXTINF:-1 tvg-logo="http://www.autorouteinfo.fr/Templates/autorouteinfo_jpg.jpg?FileID=images%2520transversales%2fautorouteinfo_jpg.jpg" group-title="news,talk",Autoroute Info 107.7 Zone Nord
 http://media.autorouteinfo.fr:8000/direct_nord.mp3
-#EXTINF:-1 tvg-logo="http://www.autorouteinfo.fr/Templates/autorouteinfo_jpg.jpg?FileID=images%2520transversales%2fautorouteinfo_jpg.jpg" group-title="",Autoroute Info 107.7 Zone Sud
+#EXTINF:-1 tvg-logo="http://www.autorouteinfo.fr/Templates/autorouteinfo_jpg.jpg?FileID=images%2520transversales%2fautorouteinfo_jpg.jpg" group-title="news,talk",Autoroute Info 107.7 Zone Sud
 http://media.autorouteinfo.fr:8000/direct_sud.mp3
-#EXTINF:-1 tvg-logo="" group-title="",AYP FM
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/d7/Logo_AYP_FM.png" group-title="community,armenian,aremnienne",AYP FM
 http://stric6.streamakaci.com/radioayp.mp3
-#EXTINF:-1 tvg-logo="http://www.azur-fm.com//upload/552559ec8d7ac8.44667209.ico" group-title="",Azur FM 67 - Sélestat
+#EXTINF:-1 tvg-logo="http://www.azur-fm.com//upload/552559ec8d7ac8.44667209.ico" group-title="pop,rock",Azur FM 67 Sélestat
 http://listen.radioking.com/radio/74173/stream/112156
-#EXTINF:-1 tvg-logo="http://www.azur-fm.com//upload/552559ec8d7ac8.44667209.ico" group-title="",Azur FM 68 - Colmar
+#EXTINF:-1 tvg-logo="http://www.azur-fm.com//upload/552559ec8d7ac8.44667209.ico" group-title="pop,rock",Azur FM 68 Colmar
 http://listen.radioking.com/radio/74176/stream/112165
 #EXTINF:-1 tvg-logo="https://www.b4bradio.com///images/favicon.png" group-title="dance,deep house",B4B Deep House
 http://188.165.215.158:9000/stream
