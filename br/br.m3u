@@ -310,7 +310,7 @@ http://server01.ouvir.radio.br:8006/stream
 #EXTINF:-1 tvg-logo="https://jb.fm/wp-content/uploads/2019/03/favicon.ico" group-title="",JB FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/JBFMAAC.aac
 #EXTINF:-1 tvg-logo="" group-title="",JB FM
-http://21933.live.streamtheworld.com:3690/JBFMAAC_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/JBFMAAC_SC
 #EXTINF:-1 tvg-logo="" group-title="",Jean Majolo Player
 http://jeanmajolo.com.br:8000/radio
 #EXTINF:-1 tvg-logo="http://redejovemfm.com.br/images/unnamed.jpg" group-title="pop rock,popular",Jovem Fm
@@ -330,13 +330,13 @@ http://centova14.ciclanohost.com.br:8405/stream
 #EXTINF:-1 tvg-logo="https://jovempan.uol.com.br/favicon.ico" group-title="brazil,hit music,popular",Jovem Pan FM São Paulo 100,9MHz
 https://18733.live.streamtheworld.com:443/JP_SP_FMAAC.aac
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1301794132/NOVOOAAAA2_400x400.jpg" group-title="news,noticias,sao paulo",Jovem Pan News 620 Sao Paulo, SP
-http://19293.live.streamtheworld.com:3690/JP_NEWSAAC_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/JP_NEWSAAC_SC
 #EXTINF:-1 tvg-logo="https://s.jpimg.com.br/wp-content/themes/jovempan/assets/build/images/favicons/apple-touch-icon.png" group-title="",Jovem Pan Patos de Minas
 https://shout25.crossradio.com.br:24030//1
 #EXTINF:-1 tvg-logo="" group-title="pop",Jovem Pan Pop Brasil
 http://6d9a.webradio.upx.net.br:9046/stream?1597501793407
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Jovem_Pan_logo.svg" group-title="news,notícias",JovenPan News
-http://19293.live.streamtheworld.com/JP_NEWSAAC_SC?TGT=TuneIn&ttag=k2YHnXyS&gender=m&DIST=TuneIn&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTU5MTk0MDQwMCwiaXNzIjoidGlzcnYifQ.MeEv9K6B7UQX7HGud1Rx5uuM1zovnaVJm-UMdiIHY10&ua=k2YHnXyS
+https://playerservices.streamtheworld.com/api/livestream-redirect/JP_NEWSAAC_SC?TGT=TuneIn&ttag=k2YHnXyS&gender=m&DIST=TuneIn&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTU5MTk0MDQwMCwiaXNzIjoidGlzcnYifQ.MeEv9K6B7UQX7HGud1Rx5uuM1zovnaVJm-UMdiIHY10&ua=k2YHnXyS
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s143769q.png" group-title="classic hits,pop",JP 80 (Jovem Pan)
 http://6d9a.webradio.upx.net.br:9059/stream
 #EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s196948q.png" group-title="bossa nova,brazilian music",JP Bossa Nova - Jovem Pan
@@ -402,7 +402,7 @@ https://server01.ouvir.radio.br:8033/stream
 #EXTINF:-1 tvg-logo="" group-title="flashback,fm,hits,jornalismo,light,nacional,notícias,pop,rock,romântico,sertanejo",Metrópole Fm
 http://143.208.11.100:8794/stream/1/Title1
 #EXTINF:-1 tvg-logo="" group-title="brazilian pop,rio de janeiro,top 40",Mix Rio 102.1 Rio de Janeiro, RJ
-http://17513.live.streamtheworld.com/MIXRIOAAC_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/MIXRIOAAC_SC
 #EXTINF:-1 tvg-logo="" group-title="music",mkkweb radio
 https://servidor34-1.brlogic.com:8096/live?source=site
 #EXTINF:-1 tvg-logo="http://www.moodfm.com.br/wp-content/themes/moodfm/_player/imagens/thumb-capa.jpg" group-title="chr,hot ac",Mood FM 104.5 Rio de Janeiro
@@ -430,15 +430,15 @@ https://cast.youngtech.radio.br/radio/8940/radio
 #EXTINF:-1 tvg-logo="https://radionortelondrina.com.br/images/sampledata/logos/logo.svg" group-title="eclectic",Norte FM - Londrina
 https://servidor17.brlogic.com:9394/live
 #EXTINF:-1 tvg-logo="" group-title="brazilian pop,fortaleza,mpb",Nova Brasil FM 106.5 Fortaleza
-http://24923.live.streamtheworld.com:3690/NOVABRASIL_FORAAC_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/NOVABRASIL_FORAAC_SC
 #EXTINF:-1 tvg-logo="" group-title="aracaju,brazilian pop,mpb",Nova Brasil FM 93.5 Aracaju
-http://20833.live.streamtheworld.com:3690/NOVABRASIL_ARACAJUAAC_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/NOVABRASIL_ARACAJUAAC_SC
 #EXTINF:-1 tvg-logo="" group-title="brasilia,brazilian music,brazilian pop,mpb",Nova Brasil FM Brasília, DF (ZYC476, 97,5 MHz)
-http://24383.live.streamtheworld.com:3690/NOVABRASIL_BSBAAC_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/NOVABRASIL_BSBAAC_SC
 #EXTINF:-1 tvg-logo="" group-title="brazilian music,local news,mpb,news,recife",Nova Brasil FM Recife (ZYD241, 94,3 MHz FM)
-http://24963.live.streamtheworld.com/NOVABRASIL_RECAAC_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/NOVABRASIL_RECAAC_SC
 #EXTINF:-1 tvg-logo="" group-title="brazilian music,brazilian pop,mpb,music,rio de janeiro",Nova Brasil FM Rio de Janeiro, RJ (ZYD472, 89,5 MHz FM)
-http://20823.live.streamtheworld.com:3690/NOVABRASIL_RIOAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/NOVABRASIL_RIOAAC.aac
 #EXTINF:-1 tvg-logo="https://novabrasilfm.com.br/wp-content/themes/novabrasil/assets/images/logo.png" group-title="",Nova Brasil Fm São Paulo
 https://24923.live.streamtheworld.com:443/NOVABRASIL_SPAAC.aac
 #EXTINF:-1 tvg-logo="http://fmnova.radio12345.com/favicon.ico" group-title="",Nova FM
@@ -574,13 +574,13 @@ http://179.127.4.122:8324/stream
 #EXTINF:-1 tvg-logo="" group-title="",Radio CDL FM
 https://9595.brasilstream.com.br/stream?identifica=6604881056089703000
 #EXTINF:-1 tvg-logo="" group-title="music,news,sports",Rádio Central Campinas
-http://20823.live.streamtheworld.com/RADIOCENTRAL_AM_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOCENTRAL_AM_SC
 #EXTINF:-1 tvg-logo="" group-title="bossa nova",Radio CGB
 http://paineldj6.com.br:8103/stream
 #EXTINF:-1 tvg-logo="" group-title="",Radio Cidade
 http://cast.midiaip.com.br:9770/stream
 #EXTINF:-1 tvg-logo="https://radiocidade.fm/wp-content/uploads/2019/11/cropped-favicon-500x500-180x180.png" group-title="brazilian music,contemporary,pop,rock",Rádio Cidade
-http://24923.live.streamtheworld.com:80/RADIOCIDADEAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOCIDADEAAC.aac
 #EXTINF:-1 tvg-logo="https://radiocidade.fm/wp-content/uploads/2019/01/cropped-radiocidade-favicon-270x270.png" group-title="brazilian rock,classic rock,hot adult contemporary,soft rock",Rádio Cidade - Rio de Janeiro - 102.9 FM - ZYD462
 https://22823.live.streamtheworld.com:443/RADIOCIDADEAAC.aac
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio11435_1497372914.png" group-title="pop,rock",Rádio CIdade 99
@@ -736,7 +736,7 @@ http://107.150.42.238:9304/;
 #EXTINF:-1 tvg-logo="https://jpimg.com.br/uploads/2018/11/PONTA_GROSSA_LOGO_FM_AFILIADA_3D_VM-500x500.jpg" group-title="",Rádio Jovem Pan Ponta Grossa FM 103.5
 https://shout35.crossradio.com.br:18010/stream
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio8800_1505906021.jpg" group-title="esportes,futebol,jovempan,noticias",Rádio Jovem Pan SP AM 620
-http://16603.live.streamtheworld.com:80/JP_SP_AMAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/JP_SP_AMAAC.aac
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a50a7a_81465ac4da92440e8e9dbca4534a3a02~mv2.png" group-title="alternative rock,blues,brazilian rock,classic rock,rock",Rádio LAM
 https://stream1.svrdedicado.org/8028/stream
 #EXTINF:-1 tvg-logo="https://radioleve.com/imagens/thumbs/d6af888479e65e9be9a508ee3341d9c1.png" group-title="adulta,flashback,românticas,webradio",Radio Leve - Santos
@@ -890,7 +890,7 @@ http://stream.zeno.fm/6gv76f1xruquv?rj-ttl=5&rj-tok=AAABfdpXexcAIuacvcTqLNCa9A
 #EXTINF:-1 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/37dd7ed692a8bb880b555b0f297d1f2e.jpg" group-title="rap",Rádio Studio Souto - Rap Nacional
 https://centova5.transmissaodigital.com:20031/stream
 #EXTINF:-1 tvg-logo="" group-title="adult contemporary,mpb,pop,rio de janeiro",Rádio Sulamérica Paradiso (ZYD478, 95,7 MHz FM, Rio de Janeiro, RJ)
-http://20283.live.streamtheworld.com/SULAMERICAAAC_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/SULAMERICAAAC_SC
 #EXTINF:-1 tvg-logo="" group-title="",Rádio Super Notícia
 https://9134.brasilstream.com.br/mp3
 #EXTINF:-1 tvg-logo="http://www.radiot.fm/images/logo4.fw.png" group-title="",Radio T FM 97,5 Andirá

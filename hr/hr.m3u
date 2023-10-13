@@ -104,13 +104,13 @@ http://orion.shoutca.st:8231/stream
 #EXTINF:-1 tvg-logo="http://mediaprocessor.websimages.com/width/107/crop/0,0,107x107/www.di-radio.com/PSYTRANCE%20ch.jpg" group-title="psytrance",Digital Impulse Radio - PsychedelicTribe
 http://orion.shoutca.st:8049/stream
 #EXTINF:-1 tvg-logo="https://radio.hrt.hr/static/img/favicon.png" group-title="",DRUGI PROGRAM - HRVATSKI RADIO
-http://23543.live.streamtheworld.com/PROGRAM2.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/PROGRAM2.mp3
 #EXTINF:-1 tvg-logo="http://www.prvi.hr/images/Enter/enter-zagreb.png" group-title="zagreb",ENTER Zagreb
 http://live.enterzagreb.hr:8023/
 #EXTINF:-1 tvg-logo="https://extrafm.hr/wp-content/uploads/2018/10/default-image.jpg" group-title="folk",Extra FM
 http://streams.extrafm.hr:8110/;
 #EXTINF:-1 tvg-logo="" group-title="",GLAS HRVATSKE - HRVATSKI RADIO
-http://20723.live.streamtheworld.com/VOICEOFCROATIA.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/VOICEOFCROATIA.mp3
 #EXTINF:-1 tvg-logo="http://prvi.hr/images/GOLD/Gold-fm-logo.png" group-title="oldies",Gold FM
 http://live.goldfm.hr:8068/
 #EXTINF:-1 tvg-logo="http://prvi.hr/images/GOLD/Gold-fm-logo.png" group-title="oldies",Gold FM
@@ -136,45 +136,45 @@ http://stream.hkr.hr:8000/hkr.mp3
 #EXTINF:-1 tvg-logo="http://www.radio-cakovec.hr/images/izgled/radio.jpg" group-title="hrvatski radio čakovec,hrčak,čakovec",HrCak - Hrvatski radio Cakovec
 http://144.76.39.214:7000/
 #EXTINF:-1 tvg-logo="" group-title="government,international",HRT Glas Hrvatske
-http://20423.live.streamtheworld.com/VOICEOFCROATIAAAC_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/VOICEOFCROATIAAAC_SC
 #EXTINF:-1 tvg-logo="" group-title="",HRT HR 1 - Prvi program
-http://23543.live.streamtheworld.com:3690/PROGRAM1AAC_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/PROGRAM1AAC_SC
 #EXTINF:-1 tvg-logo="" group-title="",HRT HR 1 - Prvi program
-http://23543.live.streamtheworld.com/PROGRAM1_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/PROGRAM1_SC
 #EXTINF:-1 tvg-logo="" group-title="",HRT HR 2 - Drugi program
-http://23543.live.streamtheworld.com:3690/PROGRAM2AAC_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/PROGRAM2AAC_SC
 #EXTINF:-1 tvg-logo="" group-title="",HRT HR 3 - Treći program
-http://21233.live.streamtheworld.com:3690/PROGRAM3AAC_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/PROGRAM3AAC_SC
 #EXTINF:-1 tvg-logo="https://www.exyuradio.net/design/images/apple-touch-icon.png" group-title="",HRT Hrvatski Radio Knin
 http://stream.zeno.fm/m378nvuyng8uv?rj-ttl=5&rj-tok=AAABfdzOmLMAL6q0gBqW2JVIIQ
 #EXTINF:-1 tvg-logo="" group-title="dubrovnik,hrt,public radio",HRT Radio Dubrovnik
-http://20723.live.streamtheworld.com:3690/DUBROVNIKAAC_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/DUBROVNIKAAC_SC
 #EXTINF:-1 tvg-logo="" group-title="",HRT Radio Knin
-http://20853.live.streamtheworld.com:3690/KNINAAC_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/KNINAAC_SC
 #EXTINF:-1 tvg-logo="" group-title="",HRT Radio Osijek
-http://22333.live.streamtheworld.com:3690/OSIJEKAAC_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/OSIJEKAAC_SC
 #EXTINF:-1 tvg-logo="" group-title="",HRT Radio Pula
-http://23543.live.streamtheworld.com:3690/PULAAAC_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/PULAAAC_SC
 #EXTINF:-1 tvg-logo="" group-title="hrt,public radio,rijeka",HRT Radio Rijeka
-http://21223.live.streamtheworld.com/RIJEKAAAC_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/RIJEKAAAC_SC
 #EXTINF:-1 tvg-logo="" group-title="",HRT Radio Sljeme
-http://21223.live.streamtheworld.com:3690/SLJEMEAAC_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/SLJEMEAAC_SC
 #EXTINF:-1 tvg-logo="" group-title="hrt,public radio,split",HRT Radio Split
-http://25593.live.streamtheworld.com/SPLITAAC_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/SPLITAAC_SC
 #EXTINF:-1 tvg-logo="" group-title="",HRT Radio Zadar
-http://20723.live.streamtheworld.com/ZADARAAC_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/ZADARAAC_SC
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hr/c/cd/Hkr.jpg" group-title="chatolic,christian,croatia,hkr,katolički,kršćanski",Hrvatski Katolički Radio
 https://stream.hkr.hr/hkr.mp3
 #EXTINF:-1 tvg-logo="https://radio.hrt.hr/static/img/favicon.png" group-title="",Hrvatski Radio - Drugi Program
-http://21223.live.streamtheworld.com/PROGRAM2.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/PROGRAM2.mp3
 #EXTINF:-1 tvg-logo="https://radio.hrt.hr/static/img/favicon.png" group-title="news talk",Hrvatski Radio - Govorni Program
-http://20423.live.streamtheworld.com/HR_TALK.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/HR_TALK.mp3
 #EXTINF:-1 tvg-logo="https://radio.hrt.hr/data/channel/000007_3a097e24185c217a4d8d.jpg" group-title="",Hrvatski Radio - Knin
-http://20723.live.streamtheworld.com/KNIN.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/KNIN.mp3
 #EXTINF:-1 tvg-logo="https://radio.hrt.hr/static/img/favicon.png" group-title="",Hrvatski Radio - Split
-http://21223.live.streamtheworld.com/SPLIT.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/SPLIT.mp3
 #EXTINF:-1 tvg-logo="https://radio.hrt.hr/static/img/favicon.png" group-title="",Hrvatski Radio - Treci Program
-http://21223.live.streamtheworld.com/PROGRAM3.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/PROGRAM3.mp3
 #EXTINF:-1 tvg-logo="https://karlovacki.hr/wp-content/uploads/2018/11/favicon-300x300.png" group-title="folk music,local news,pop",Hrvatski radio Karlovac
 http://s8.iqstreaming.com:8002/
 #EXTINF:-1 tvg-logo="https://www.hrv89.hr/assets/images/logo-246x115-3-246x115-21-246x115.png" group-title="folk,local news,pop",Hrvatski Radio Valpovština
@@ -250,7 +250,7 @@ http://213.136.83.199:8000/stream
 #EXTINF:-1 tvg-logo="https://www.poslovnifm.com/wp-content/uploads/2019/01/favicon.png" group-title="",Poslovni FM
 https://ec2s.crolive.com.hr:2665/stream
 #EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/brand/icon_192x192.png" group-title="",PRVI PROGRAM - HRVATSKI RADIO
-http://21223.live.streamtheworld.com/PROGRAM1.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/PROGRAM1.mp3
 #EXTINF:-1 tvg-logo="http://www.057info.hr/favicon.ico" group-title="",Radio 057
 http://streaming.zadar.net:8000/radio057
 #EXTINF:-1 tvg-logo="http://radio101.hr/wp-content/uploads/2017/07/cropped-Untitled-design-1-192x192.png" group-title="",Radio 101
@@ -288,7 +288,7 @@ http://185.62.75.24:8010/
 #EXTINF:-1 tvg-logo="" group-title="",Radio DJ Grga
 http://cmr-hosting.com:8430/stream?type=http&nocache=343
 #EXTINF:-1 tvg-logo="https://radio.hrt.hr/static/img/favicon.png" group-title="",RADIO DUBROVNIK
-http://21223.live.streamtheworld.com/DUBROVNIK.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/DUBROVNIK.mp3
 #EXTINF:-1 tvg-logo="https://radio-dunav.com/favicon.ico" group-title="",Radio Dunav 101,5 FM Vukovar
 http://cp4.shoutcheap.com:8111/
 #EXTINF:-1 tvg-logo="http://mcp1.mydataknox.com:8012/stream" group-title="",Radio Eurostar Umag
@@ -314,7 +314,7 @@ http://144.76.172.23:9018/stream
 #EXTINF:-1 tvg-logo="https://ca0-cdn.onlineradiobox.com/img/favicon.ico" group-title="",Radio Kampus - Split
 http://radio-server.fesb.hr:8000/radiokampus.aac
 #EXTINF:-1 tvg-logo="https://radio.hrt.hr/static/img/favicon.png" group-title="",RADIO KNIN
-http://23603.live.streamtheworld.com/KNIN.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/KNIN.mp3
 #EXTINF:-1 tvg-logo="http://www.radio-koprivnica.hr/favicon.ico" group-title="",Radio Koprivnica
 http://194.152.206.205:8000/
 #EXTINF:-1 tvg-logo="http://radiokorzo.hr/favicon.ico" group-title="alternative,indie rock,local news,pop,punk",Radio Korzo
@@ -382,7 +382,7 @@ http://s8.iqstreaming.com:8026/stream
 #EXTINF:-1 tvg-logo="" group-title="",Radio Slunj  95.2
 http://144.76.172.23:7057/
 #EXTINF:-1 tvg-logo="https://www.radio.net/assets/fav/apple-touch-icon.png" group-title="",RADIO SPLIT - HRVATSKI RADIO
-http://23543.live.streamtheworld.com/SPLIT.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/SPLIT.mp3
 #EXTINF:-1 tvg-logo="https://radio-stubica.hr/wp-content/uploads/2020/11/radiostubicafavicon.png" group-title="folklore,pop music",Radio stubica
 http://radiostubica.hc.hr:7006/stream
 #EXTINF:-1 tvg-logo="http://www.radiostudent.hr/wp-content/uploads/2014/03/radiostudent_logo.jpg" group-title="hrvatska,student,student radio",Radio Student

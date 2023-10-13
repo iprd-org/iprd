@@ -4,7 +4,7 @@ http://167.114.131.90:5232/
 #EXTINF:-1 tvg-logo="" group-title="oldies 50's/60's",AI FM
 https://klfmmobile.secureswiftcontent.com/rtm-ch020/rtm-ch020/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.bfm.my/themes/bfmmy/assets/images/bfm-logo.jpg" group-title="business,talk",BFM 89.9
-http://22283.live.streamtheworld.com/BFMAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/BFMAAC.aac
 #EXTINF:-1 tvg-logo="https://media2.fishtank.my/app_themes/era/ico/android-icon-192x192.png" group-title="classic hits,hits,malaysian pop",Era FM
 http://astro2.rastream.com/era
 #EXTINF:-1 tvg-logo="http://media2.fishtank.my/app_themes/hitz/ico/hitz.ico" group-title="top 40",Hits FM Sarawak
@@ -30,4 +30,4 @@ http://51.15.152.81:9114/stream
 #EXTINF:-1 tvg-logo="http://assets.radioactive.sg/org-astro/e4bfb847-9b40-4d4f-9378-f6b9a30805ad.png" group-title="classic hits",Sinar FM
 http://astro2.rastream.com/sinar
 #EXTINF:-1 tvg-logo="https://www.988.com.my/wp-content/themes/988_web/assets/988-logo.png" group-title="music",友声友色988
-http://22283.live.streamtheworld.com/988_FMAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/988_FMAAC.aac

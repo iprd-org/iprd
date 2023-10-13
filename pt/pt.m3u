@@ -96,7 +96,7 @@ http://195.22.11.11:1935/ktv/ktv1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://m80.iol.pt//favicon.ico" group-title="oldies",M80 Radio
 http://media3.mcr.iol.pt/livefm/m80.mp3/icecast.audio
 #EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s6745q.png" group-title="pop,top 40",Mega Hits
-http://22533.live.streamtheworld.com:3690/MEGA_HITS_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/MEGA_HITS_SC
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/55a451_d5807c3dfbb34cc78a7a3236d420423c~mv2.png" group-title="classic rock,hard rock,metal,pop,progressive rock",MRR Manitu Rock Radio
 https://radio.streemlion.com:4515/stream
 #EXTINF:-1 tvg-logo="https://www.nit.pt/wp-content/themes/nit-sage-v2/dist/images/favicon/apple-touch-icon-152x152.png" group-title="pop rock,rock",NiTfm
@@ -294,7 +294,7 @@ http://centova.radio.com.pt:8485/;
 #EXTINF:-1 tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/ac/6e/29627/1/c175.png" group-title="70s,80s,90s",Rádio Remember FM
 http://176.9.43.216:8449/stream/1/
 #EXTINF:-1 tvg-logo="https://rrsite-images.azureedge.net/favicon/apple-touch-icon.png" group-title="national news",Rádio Renascença
-http://23603.live.streamtheworld.com/RADIO_RENASCENCA_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RENASCENCA_SC
 #EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s84308q.png" group-title="local music,news,talk",Rádio Riba-Távora
 http://centova.radio.com.pt:9542/;
 #EXTINF:-1 tvg-logo="https://www.guimaraesdigital.com/images/site/logo_menu_canvas.png" group-title="music",Radio Santiago Guimaraes

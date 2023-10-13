@@ -31,13 +31,13 @@ http://sc1.streamingpulse.com:8004/;stream.mp3
 #EXTINF:-1 tvg-logo="" group-title="folk",Abruzzo FM
 http://173.192.207.51:8004/;listen.mp3
 #EXTINF:-1 tvg-logo="http://www.afneurope.net/portals/100/Images/Aviano_AFN360Revamped-01.png" group-title="american forces network,aviano,news,pop,talk,top 40,urban",AFN 360 Aviano
-http://22603.live.streamtheworld.com/AFNE_AVN_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_AVN_SC
 #EXTINF:-1 tvg-logo="http://www.afneurope.net/portals/100/Images/Naples_AFN360Revamped-01.png" group-title="american forces network,napoli,news,pop,talk,top 40,urban",AFN 360 Naples
-http://22673.live.streamtheworld.com:3690/AFNE_NAP_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_NAP_SC
 #EXTINF:-1 tvg-logo="http://www.afneurope.net/portals/100/Images/Sigonella_Revamped-01.png" group-title="american forces network,catania,news,pop,talk,top 40,urban",AFN 360 Sigonella
-http://20853.live.streamtheworld.com:3690/AFNE_SIG_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_SIG_SC
 #EXTINF:-1 tvg-logo="http://www.afneurope.net/portals/100/Images/Vicenza_AFN360Revamped-01.png" group-title="american forces network,news,pop,talk,top 40,urban,vicenza",AFN 360 Vicenza
-http://25533.live.streamtheworld.com/AFNE_VIC_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_VIC_SC
 #EXTINF:-1 tvg-logo="http://www.afriradio.it/favicon.ico" group-title="african music,news,reggae,verona,world music",AfriRadio
 http://s6.mediastreaming.it:9056/;stream.mp3
 #EXTINF:-1 tvg-logo="" group-title="commuovenity radio music",AFRO FM DE LOUGA

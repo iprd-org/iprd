@@ -390,7 +390,7 @@ http://uk3.internet-radio.com:8113/stream
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s110181q.png" group-title="world music",Radio Gwendalyn
 http://stream.radiogwen.ch:8000/radiogwen
 #EXTINF:-1 tvg-logo="" group-title="kids,no ads",Radio Henri dès
-http://17003.live.streamtheworld.com/SP_R2329710.mp3?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=none&sbmid=dfc03174-fde7-4b7c-ca97-faf8fd46680f
+https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R2329710.mp3?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=none&sbmid=dfc03174-fde7-4b7c-ca97-faf8fd46680f
 #EXTINF:-1 tvg-logo="http://www.kaiseregg.ch///templates/yoo_drive/favicon.ico" group-title="80s,oldies,rock-classics",Radio Kaiseregg
 http://kaiseregg.ice.infomaniak.ch/stream128k.mp3
 #EXTINF:-1 tvg-logo="https://www.radiolac.ch/wp-content/uploads/2017/08/android-icon-48x48.png" group-title="genève,lac,yes fm",Radio Lac

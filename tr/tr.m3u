@@ -8,7 +8,7 @@ https://trkvz-radyolar.ercdn.net/apararadyo/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://acikradyo.com.tr/themes/custom/acikradyo/img/favicon/apple-touch-icon.png" group-title="avant-garde,classical,rock,talk",Açık Radyo
 http://stream.34bit.net/ar64.mp3
 #EXTINF:-1 tvg-logo="http://www.afneurope.net/portals/100/Images/Incirlik_AFN360Revamped-01.png" group-title="american forces network",AFN 360 Incirlik
-http://20853.live.streamtheworld.com:3690/AFNE_ICK_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_ICK_SC
 #EXTINF:-1 tvg-logo="" group-title="news",Ahaber
 http://trkvz-radyolar.ercdn.net/ahaberradyo/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="islamic",Akra FM
@@ -56,7 +56,7 @@ https://ciner-live.ercdn.net/bloombergradyo/bloombergradyo_1.m3u8
 #EXTINF:-1 tvg-logo="http://www.bodrumfm.org/canli/images/fm.gif" group-title="turkish music",Bodrum FM
 http://nephelis.com:8000/;stream.mp3
 #EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/site_media/icons/apple-icon-120x120.png" group-title="classical",Borusan Klasik
-http://25443.live.streamtheworld.com:3690/BORUSAN_KLASIKAAC_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/BORUSAN_KLASIKAAC_SC
 #EXTINF:-1 tvg-logo="" group-title="islamic",Botan FM
 http://yayin1.canliyayin.org:8026/;*.mp3
 #EXTINF:-1 tvg-logo="" group-title="",BRTK
@@ -170,9 +170,9 @@ http://160.75.86.29:8088/ituklasikmp3
 #EXTINF:-1 tvg-logo="" group-title="classical",Jin Tv
 https://live.jintv.org:12443/medialive/jintv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="pop",JOY FM ALL TIME CLASSICS
-http://22193.live.streamtheworld.com/SC062_SO1AAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/SC062_SO1AAC.aac
 #EXTINF:-1 tvg-logo="" group-title="pop",JOYTURK ESKIMEZ
-http://20723.live.streamtheworld.com/SC058_SO1AAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/SC058_SO1AAC.aac
 #EXTINF:-1 tvg-logo="" group-title="classical",kafa1
 http://37.247.98.17/
 #EXTINF:-1 tvg-logo="" group-title="classical",Karabalı
@@ -180,15 +180,15 @@ http://95.173.162.182:9884/;
 #EXTINF:-1 tvg-logo="" group-title="",Kardelen FM Zonguldak
 http://dinle.kardelenfm.com:2000/
 #EXTINF:-1 tvg-logo="" group-title="pop",KARNAVAL - 2000'LER
-http://22193.live.streamtheworld.com/SC087_SO1AAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/SC087_SO1AAC.aac
 #EXTINF:-1 tvg-logo="" group-title="pop",KARNAVAL - 80'LER
-http://22193.live.streamtheworld.com/SC089_SO1AAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/SC089_SO1AAC.aac
 #EXTINF:-1 tvg-logo="" group-title="pop",KARNAVAL - 80S
-http://22193.live.streamtheworld.com/SC094_SO1AAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/SC094_SO1AAC.aac
 #EXTINF:-1 tvg-logo="" group-title="pop",KARNAVAL - 90'S
-http://20723.live.streamtheworld.com/SC095_SO1AAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/SC095_SO1AAC.aac
 #EXTINF:-1 tvg-logo="" group-title="pop",KARNAVAL - LOOP
-http://22193.live.streamtheworld.com/SC050_SO1AAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/SC050_SO1AAC.aac
 #EXTINF:-1 tvg-logo="" group-title="",Kavanoz Radyo 
 https://live.radyositesihazir.com/8072/stream
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/9477e9_5d00a2e59e4d4bada251627401f75c91~mv2.png/v1/fill/w_150,h_114,al_c,q_85,usm_0.66_1.00_0.01/KENT_FM_LOGO.webp" group-title="",Kent FM
@@ -236,7 +236,7 @@ https://fps4.listen2myradio.com:2199/listen.php?ip=109.169.23.123&port=8350&type
 #EXTINF:-1 tvg-logo="https://mesajfm.com/img/favicon.png?c112" group-title="",Mesaj FM
 https://59cba4d34b678.streamlock.net/radyo/mesaj-fm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/2/icons/apple-touch-icon-120x120.png" group-title="",Metro FM
-http://22603.live.streamtheworld.com/METRO_FMAAC_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/METRO_FMAAC_SC
 #EXTINF:-1 tvg-logo="" group-title="",Moral FM
 http://yayin2.canliyayin.org:8886/;stream.mp3
 #EXTINF:-1 tvg-logo="https://www.norradyo.com/favicon.ico" group-title="international",Nor Radyo
@@ -474,7 +474,7 @@ http://162.254.207.45:9302/.mp3?&token=QVi8je41ac9GDLg3DshO8Q&expires=1608058155
 #EXTINF:-1 tvg-logo="https://i.tmgrup.com.tr/vavradyo/site/v2/c/i/apple-touch-icon-new-120x120.png" group-title="",Vav Radyo
 https://trkvz-radyolar.ercdn.net/radyovav/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://mediacdn.karnaval.com/media/station_media/15/logos/meta_image.png?v=280316053238" group-title="pop rock",Virgin Radio Türkiye
-http://25443.live.streamtheworld.com:3690/VIRGIN_RADIO_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/VIRGIN_RADIO_SC
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/4/97814.v12.png" group-title="classical",Viva Italo Disco
 http://us3freenew.listen2myradio.com:4374/;stream.nsv
 #EXTINF:-1 tvg-logo="" group-title="classical",Xabur

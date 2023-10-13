@@ -22,11 +22,11 @@ http://198.74.51.37:9986/
 #EXTINF:-1 tvg-logo="http://fbiradio.com/wp-content/themes/fbi_sf/images/favicon.ico" group-title="eclectic,sydney",2FBI "FBi Radio" 94.5 FM Sydney, NSW
 https://streamer.fbiradio.com/stream
 #EXTINF:-1 tvg-logo="https://www.2gb.com/wp-content/uploads/sites/2/2017/01/top_logo.png" group-title="conservative,news,sport,talk,talkback",2GB Sydney
-http://23153.live.streamtheworld.com:80/2GBAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/2GBAAC.aac
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s7641/images/logoq.png?t=158837" group-title="news,sport,talk,talkback",2GB Sydney
 http://syd2gbaud-lh.akamaihd.net/i/sydneygbaudio_1@367120/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.2gb.com/wp-content/uploads/sites/2/2017/01/top_logo.png" group-title="",2GB Sydney
-http://21413.live.streamtheworld.com:80/2GB.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/2GB.mp3
 #EXTINF:-1 tvg-logo="" group-title="",2KRR-FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/2KRR.mp3
 #EXTINF:-1 tvg-logo="" group-title="religion,talk",2MFM "Muslim Community Radio" 92.1 FM Sydney, NSW
@@ -68,7 +68,7 @@ http://bris4bcaud-lh.akamaihd.net/i/brisbanebcaud_1@110990/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",4BU 1332 AM Classic Hits Bundaberg
 https://playerservices.streamtheworld.com/api/livestream-redirect/BUN_4BUAAC_SC
 #EXTINF:-1 tvg-logo="" group-title="cairns,talk",4CA 846 AM CAIRNS ONLINE
-http://16693.live.streamtheworld.com:80/CAI_4CAAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/CAI_4CAAAC.aac
 #EXTINF:-1 tvg-logo="" group-title="",4CA 846 AM Far North QLD Classic Hits
 https://playerservices.streamtheworld.com/api/livestream-redirect/CAI_4CAAAC_SC
 #EXTINF:-1 tvg-logo="" group-title="classic rock,comedy,education,heritage,indigenous current affairs,news",4K1G 107.1FM TATSICM Indigenous Community Radio Townsville
@@ -84,15 +84,15 @@ http://s9.viastreaming.net:9620/;stream.mp
 #EXTINF:-1 tvg-logo="" group-title="australia,classic,music",4mbs Classic FM
 http://s9.viastreaming.net:9620/;stream.mp3
 #EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/6rgvj6nzj6qf.png" group-title="mackay,oldies",4MK 1026 AM Mackay
-http://16693.live.streamtheworld.com:80/MAC_4MKAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/MAC_4MKAAC.aac
 #EXTINF:-1 tvg-logo="https://1015fm.com.au/favicon.ico" group-title="country,folk",4OUR 101.5 fm
 http://streaming.lava.net.au/au_qld_4our_caboolture1015
 #EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/TbgB3P4F5C.png" group-title="music,news,rockhampton,talk",4RO 990 AM Rockhampton
-http://15363.live.streamtheworld.com:80/ROC_4ROAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/ROC_4ROAAC.aac
 #EXTINF:-1 tvg-logo="https://www.4zzzfm.org.au/assets/4zzz-cutout-white.svg" group-title="brisbane,community radio,free radio,independent,political talk",4ZZZ Community Radio
 https://iheart.4zzz.org.au/4zzz
 #EXTINF:-1 tvg-logo="https://www.fiveaa.com.au/wp-content/themes/theme-fiveaa.com.au/assets/icons/apple-touch-icon.png" group-title="news,talk",5AA
-http://23153.live.streamtheworld.com:80/FIVEAA_AAC48.aac?src=redirect
+https://playerservices.streamtheworld.com/api/livestream-redirect/FIVEAA_AAC48.aac?src=redirect
 #EXTINF:-1 tvg-logo="" group-title="60s,70s,80s,rock",5AU 1242
 https://playerservices.streamtheworld.com/api/livestream-redirect/AUG_5AUAAC.aac
 #EXTINF:-1 tvg-logo="" group-title="blues,classical,community radio,country,jazz,metal",5GTR
@@ -104,7 +104,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/6IX.mp3
 #EXTINF:-1 tvg-logo="https://www.6pr.com.au/wp-content/uploads/sites/13/2017/04/6pr-logo.png" group-title="news,talk,talkback",6PR Perth
 http://per6praud-lh.akamaihd.net/i/perthpraud_1@110913/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",7HO FM Hobart
-http://25023.live.streamtheworld.com:80/HOB_7HO.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/HOB_7HO.mp3
 #EXTINF:-1 tvg-logo="" group-title="radio reading service",7RPH "Print Radio Tasmania"
 http://165.228.181.146:88/broadwave.mp3?src=1&rate=1
 #EXTINF:-1 tvg-logo="http://radio886.at/apple-touch-icon.png" group-title="hard rock",88.6 Hard Rock
@@ -364,15 +364,15 @@ http://fred.torontocast.com:1360/stream
 #EXTINF:-1 tvg-logo="https://www.mix1023.com.au/wp-content/themes/arn/assets/favicons/favicon_1023/apple-touch-icon.png" group-title="hot adult contemporary",Mix 102.3
 https://ais-arn.streamguys1.com/au_003_icy
 #EXTINF:-1 tvg-logo="http://prod-filesbucket-7hmmorphht20.s3-ap-southeast-2.amazonaws.com/favicon_0.ico" group-title="hits",Nova 100
-http://23203.live.streamtheworld.com:80/NOVA_100_AAC48.aac?src=redirect
+https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_100_AAC48.aac?src=redirect
 #EXTINF:-1 tvg-logo="http://prod-filesbucket-7hmmorphht20.s3-ap-southeast-2.amazonaws.com/favicon_0.ico" group-title="hits",Nova 106.9
-http://23203.live.streamtheworld.com:80/NOVA_1069_AAC48.aac?src=redirect
+https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_1069_AAC48.aac?src=redirect
 #EXTINF:-1 tvg-logo="http://prod-filesbucket-7hmmorphht20.s3-ap-southeast-2.amazonaws.com/favicon_0.ico" group-title="hits",Nova 91.9
 https://23203.live.streamtheworld.com:443/NOVA_919_AAC48.aac
 #EXTINF:-1 tvg-logo="http://prod-filesbucket-7hmmorphht20.s3-ap-southeast-2.amazonaws.com/favicon_0.ico" group-title="hits",Nova 919
-http://23203.live.streamtheworld.com:80/NOVA_919_AAC48.aac?src=redirect
+https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_919_AAC48.aac?src=redirect
 #EXTINF:-1 tvg-logo="http://prod-filesbucket-7hmmorphht20.s3-ap-southeast-2.amazonaws.com/favicon_0.ico" group-title="hits",Nova 93.7
-http://23203.live.streamtheworld.com:80/NOVA_937_AAC48.aac?src=redirect
+https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_937_AAC48.aac?src=redirect
 #EXTINF:-1 tvg-logo="http://prod-filesbucket-7hmmorphht20.s3-ap-southeast-2.amazonaws.com/favicon_0.ico" group-title="hits",Nova 96.9
 https://21413.live.streamtheworld.com:443/NOVA_969_AAC48.aac
 #EXTINF:-1 tvg-logo="" group-title="community radio",Oak FM
@@ -394,7 +394,7 @@ http://192.99.83.154:8084/stream
 #EXTINF:-1 tvg-logo="https://airableassets.wifiradiofrontier.com/png@150x150/31/91/053532529622.png" group-title="94 fm,australia,petersham,portuguese,sydney",Portuguese Radio Australia
 https://s2.radio.co/sdff54b89f/listen
 #EXTINF:-1 tvg-logo="" group-title="australia,queensland,townsville",POWER100
-http://15363.live.streamtheworld.com/TOW_POWER100AAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/TOW_POWER100AAC.aac
 #EXTINF:-1 tvg-logo="" group-title="australia,pop,rock",Pure Hits Australian Made
 http://stream10.as.amplifystreaming.com/radio/8000/amm_128.mp3
 #EXTINF:-1 tvg-logo="" group-title="",Pure Hits Australian Made
@@ -408,7 +408,7 @@ http://s4.voscast.com:7648/;listen.mp3
 #EXTINF:-1 tvg-logo="http://www.radio2rdj.com/favicon.ico" group-title="community radio",Radio 2RDJ
 http://104.128.238.80:8000/
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/69/52/6952f842768d62ea88408febe1619956.jpg" group-title="classic hits,community radio,hits,music,news",Radio 4CC - AM 927 - Gladstone, QLD
-http://15363.live.streamtheworld.com:80/GLA_4CCAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/GLA_4CCAAC.aac
 #EXTINF:-1 tvg-logo="https://radioadelaide.org.au/wp-content/themes/radioadelaide/assets/images/RadioAdelaide-logo.svg" group-title="adelaide,arts,australia,community radio,community radio network,culture,indie,indie pop,indie rock,indigenous,local music,local news,local talk,mixed programming,multicultural,south australia,student radio",Radio Adelaide
 https://cast-1.nucleusstreaming.com:4443/5uv_live_128.aacp
 #EXTINF:-1 tvg-logo="http://www.radioaustral.com.au/favicon.ico" group-title="spanish programming",Radio Austral
@@ -462,7 +462,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH_90S_AAC
 #EXTINF:-1 tvg-logo="https://www.smooth.com.au/wp-content/themes/theme-smooth.com.au/assets/icons/apple-touch-icon.png" group-title="commercial,easy listening",Smooth FM 91.5
 https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH915_AAC48.aac
 #EXTINF:-1 tvg-logo="https://d2nzqyyfd6k6c7.cloudfront.net/favicon_2.ico" group-title="commercial,easy listening",Smooth FM 95.3
-http://21363.live.streamtheworld.com:80/SMOOTH953_AAC48.aac?src=neweb
+https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH953_AAC48.aac?src=neweb
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7ggthHW.jpg" group-title="chill,chillout,easy listening,lounge,smooth",smooth Relax
 https://21423.live.streamtheworld.com:443/SMOOTHRELAX_SYD_AAC.aac
 #EXTINF:-1 tvg-logo="" group-title="talk & speech",Sound of Hope Australia (Mandarin)
@@ -470,9 +470,9 @@ http://livecast1.soundofhope.org:2086/SYDNEY?DIST=TuneIn&TGT=TuneIn&maxServers=2
 #EXTINF:-1 tvg-logo="https://www.southernfm.com.au/wp-content/uploads/logos/88.3_Logo.jpg" group-title="community radio",Southern FM
 http://stream.swifthosting.com.au:8080/stream
 #EXTINF:-1 tvg-logo="https://www.star1045.com.au/wp-content/themes/theme-star1045.com.au/assets/icons/apple-touch-icon.png" group-title="adult,contemporary,rock",Star 104.5
-http://21423.live.streamtheworld.com:80/STARFM_AAC48.aac?src=redirect
+https://playerservices.streamtheworld.com/api/livestream-redirect/STARFM_AAC48.aac?src=redirect
 #EXTINF:-1 tvg-logo="" group-title="australia,queensland,townsville",Star 106.3 Townsville
-http://15363.live.streamtheworld.com/TOW_STAR1063AAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/TOW_STAR1063AAC.aac
 #EXTINF:-1 tvg-logo="http://www.starfm.org.au/images/logo2.png" group-title="community radio",Star FM
 http://37.59.41.35:11056/;stream.mp3
 #EXTINF:-1 tvg-logo="http://stationx.com.au/favicon.ico" group-title="",Station X - 160k mp3
@@ -550,7 +550,7 @@ http://edge-audio-02-thn.sharp-stream.com/ucbau.mp3
 #EXTINF:-1 tvg-logo="https://mm.aiircdn.com/509/5b8f28f153871.png" group-title="",Wave FM 91.7
 http://east.coastdev.net/6mm-mp3
 #EXTINF:-1 tvg-logo="" group-title="",WaveFM 96.5
-http://23023.live.streamtheworld.com/WOL_WAVE_FMAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/WOL_WAVE_FMAAC.aac
 #EXTINF:-1 tvg-logo="http://www.wowfm1007.com.au/favicon.ico" group-title="community radio",WOW FM
 http://streamer5.rightclickitservices.com:9760/stream
 #EXTINF:-1 tvg-logo="https://www.wsfm.com.au/wp-content/themes/arn/assets/favicons/favicon_wsfm/apple-touch-icon.png" group-title="classic hits",WSFM 101.7

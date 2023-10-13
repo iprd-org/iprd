@@ -4,13 +4,13 @@ https://stream.iceradio.nl/iceradiohq?ver=30283
 #EXTINF:-1 tvg-logo="" group-title="pop",1.fm movie Sound
 http://185.33.21.112/moviesoundtracks_128
 #EXTINF:-1 tvg-logo="http://watiseropderadio.nl/img/radio-thumbnails/100-procent-nl.jpg" group-title="",100% NL
-http://22593.live.streamtheworld.com/100PNL_MP3_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/100PNL_MP3_SC
 #EXTINF:-1 tvg-logo="https://www.192radio.nl/192radio/wp-content/uploads/2019/07/cropped-favicon-270x270.png" group-title="60s,70s,oldies",192 Radio (HQ)
 http://server-27.stream-server.nl:8192/stream
 #EXTINF:-1 tvg-logo="https://www.facebook.com/247spice/photos/a.1109109269110292/2793788810642321/" group-title="247spice,amsterdam,hits,spicy",247Spice
 https://247spice.mysecurestream.eu/stream
 #EXTINF:-1 tvg-logo="https://www.538.nl/icons/apple-icon-120x120.png" group-title="dance,house",538 Dance Departmetn
-http://22543.live.streamtheworld.com:80/TLPSTR01.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR01.mp3
 #EXTINF:-1 tvg-logo="http://www.6fm.nl//favicon.ico" group-title="",6fm
 http://6fm.nl:8000/mp3live
 #EXTINF:-1 tvg-logo="" group-title="classical",9000stream
@@ -66,7 +66,7 @@ https://caster04.streampakket.com/proxy/8982/CeltCast
 #EXTINF:-1 tvg-logo="https://www.radiozenders.fm/media/images/stations/classicnl.png" group-title="classical",Classic FM NL
 https://www.classic.nl/player/classicfm.m3u
 #EXTINF:-1 tvg-logo="http://www.classic.nl/images/icons/apple-icon-120x120.png" group-title="opera",Classic NL Opera
-http://25273.live.streamtheworld.com:80/SRGSTR27.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR27.mp3
 #EXTINF:-1 tvg-logo="https://www.classic.nl/images/icons/apple-icon-120x120.png" group-title="classical",ClassicFM - Chillout
 http://stream01.itego.nl:8000/chillout
 #EXTINF:-1 tvg-logo="" group-title="00s,20s,80s,90s,dance,disco,internet,soulful",Coastline
@@ -136,7 +136,7 @@ http://server6.digital-webstream.de:9300/
 #EXTINF:-1 tvg-logo="" group-title="dance,funk,soul",DanceGrooveRadio
 http://server3.digital-webstream.de:12160/
 #EXTINF:-1 tvg-logo="https://deep.radio/img/favicon.ico" group-title="ambient,dance,deep house,downtempo,edm,house,nu-jazz,progressive,techno",Deep Radio
-http://20873.live.streamtheworld.com:80/DEEP_RADIO.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/DEEP_RADIO.mp3
 #EXTINF:-1 tvg-logo="" group-title="delta fm,piraat",Delta Piraat
 http://stream.deltafm.nl:8125/;
 #EXTINF:-1 tvg-logo="http://www.deltaradio90.nl/images/img0022.png" group-title="60s,70s,80s,muziek zonder flauwekul",Delta Radio Nijmegen
@@ -160,7 +160,7 @@ https://azuraserv3.live-streams.nl:8040/stream.mp3
 #EXTINF:-1 tvg-logo="" group-title="pop",Efteling Kids Radio
 http://ice.cr2.streamzilla.xlcdn.com:8000/sz=efteling=hdstream
 #EXTINF:-1 tvg-logo="https://www.efteling.com/content/img/generic/efteling-logo.svg" group-title="children,kids",Efteling Kids Radio
-http://25333.live.streamtheworld.com/TLPSTR07_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR07_SC
 #EXTINF:-1 tvg-logo="" group-title="children,dutch,fairytales,kids",Efteling Kids Radio
 http://ice.cr1.streamzilla.xlcdn.com:8000/sz=efteling=hdstream?token=89258259cec4bf49c340a8c4a86ab6e8&time=61c13b3b
 #EXTINF:-1 tvg-logo="https://www.elpaso.world/dico/UserFiles/Themes/elpaso/images/logo.png" group-title="pop",EL PASO 90's
@@ -318,13 +318,13 @@ https://25323.live.streamtheworld.com:443/KINK.mp3
 #EXTINF:-1 tvg-logo="https://kink.nl/static/favicon-32x32.png" group-title="alternative,alternative rock,indie,indie pop,indie rock",KINK 128k aac
 https://playerservices.streamtheworld.com/api/livestream-redirect/KINKAAC_SC
 #EXTINF:-1 tvg-logo="https://goo.gl/images/7dEtca" group-title="kink,no alternative",Kink 192k mp3
-http://25323.live.streamtheworld.com/KINK_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/KINK_SC
 #EXTINF:-1 tvg-logo="https://kink.nl/static/icon.png" group-title="alternative classics,non-stop",KINK CLASSICS
-http://25253.live.streamtheworld.com:3690/KINK_DNA_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/KINK_DNA_SC
 #EXTINF:-1 tvg-logo="https://kink.nl/static/icon.png" group-title="",KINK DISTORTION
 https://playerservices.streamtheworld.com/api/livestream-redirect/KINK_DISTORTIONAAC_SC
 #EXTINF:-1 tvg-logo="https://kink.nl/static/favicon-32x32.png" group-title="alternative classics,non-stop",KINK DNA
-http://25333.live.streamtheworld.com/KINK_DNAAAC_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/KINK_DNAAAC_SC
 #EXTINF:-1 tvg-logo="https://kink.nl/static/favicon-32x32.png" group-title="alternative,indie,indie music,non-stop",KINK Indie 128k aac
 https://playerservices.streamtheworld.com/api/livestream-redirect/KINKINDIEAAC_SC
 #EXTINF:-1 tvg-logo="http://www.kiss-fm.nl/favicon.ico" group-title="dance,house,trance",Kiss FM Netherlands
@@ -492,7 +492,7 @@ http://185.87.186.220:8000/orinoco
 #EXTINF:-1 tvg-logo="" group-title="piratenhits",Oude Piraten Hits
 http://server-67.stream-server.nl:8910/stream
 #EXTINF:-1 tvg-logo="http://www.peacefulradio.info/wp-content/uploads/2016/05/Logo-PR2v2.png" group-title="new age,relax",Peaceful Radio
-http://16963.live.streamtheworld.com:3690/SAM02AAC138_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/SAM02AAC138_SC
 #EXTINF:-1 tvg-logo="http://pearlfmradio.sx/wordpress/wp-content/uploads/2014/05/favicon.ico" group-title="philipsburg,pop,top 40,world music",Pearl FM 98.1 Philipsburg
 http://stream.sxmradio.com:8060/channel6.mp3
 #EXTINF:-1 tvg-logo="http://perfectmoods.nl/upload/59019257d1a624.59124371.ico" group-title="chillout,lounge,smooth jazz",PerfectMoods – 24/7 Quality Lounge
@@ -502,7 +502,7 @@ http://178.18.137.248/
 #EXTINF:-1 tvg-logo="https://pinguinradio.com/assets/img/logo/pinguinaardschok.svg" group-title="alternative metal",Pinguin Aardschok
 https://streams.pinguinradio.com/Aardschok192.mp3
 #EXTINF:-1 tvg-logo="https://pinguinradio.com///favicon.ico" group-title="blues,blues rock,pinguin radio",Pinguin Blues
-http://19293.live.streamtheworld.com/SP_R2406394_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R2406394_SC
 #EXTINF:-1 tvg-logo="https://pinguinradio.com/dist/images/content/p-classic.jpg" group-title="classic hits,classic rock,pinguinradio",Pinguin Classics
 http://pc192.pinguinradio.com/
 #EXTINF:-1 tvg-logo="https://pinguinradio.com/assets/img/logo/pinguinclassic.svg" group-title="alternative",Pinguin Classics
@@ -510,7 +510,7 @@ http://streams.pinguinradio.com/PinguinClassics192.mp3
 #EXTINF:-1 tvg-logo="" group-title="",Pinguin Fiesta
 https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R2292843_SC
 #EXTINF:-1 tvg-logo="https://pinguinradio.com/assets/img/logo/pinguingroove.svg" group-title="",Pinguin Groove
-http://17003.live.streamtheworld.com/SP_R2591867_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R2591867_SC
 #EXTINF:-1 tvg-logo="https://pinguinradio.com/assets/img/logo/pinguinindie.svg" group-title="alternative,indie",Pinguin Indie
 http://streams.pinguinradio.com/PinguinRadio192.mp3
 #EXTINF:-1 tvg-logo="https://pinguinradio.com/assets/img/logo/pinguinrock.svg" group-title="",Pinguin On the Rocks
@@ -518,19 +518,19 @@ http://streams.pinguinradio.com/PinguinOnTheRocks192.mp3
 #EXTINF:-1 tvg-logo="https://pinguinradio.com/dist/images/content/p-rocks.jpg" group-title="grunge,hard rock,pinguinradio,rock",Pinguin on the Rocks
 http://po192.pinguinradio.com/
 #EXTINF:-1 tvg-logo="" group-title="",Pinguin Pluche
-http://19293.live.streamtheworld.com/SP_R2591410_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R2591410_SC
 #EXTINF:-1 tvg-logo="" group-title="pinguinradio,pop",Pinguin Pop
-http://17003.live.streamtheworld.com/SP_R2591862_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R2591862_SC
 #EXTINF:-1 tvg-logo="https://pinguinradio.com/dist/images/content/p-radio.jpg" group-title="alternative rock,community radio,indie pop,pinguinradio",Pinguin Radio
 http://pr320.pinguinradio.com/
 #EXTINF:-1 tvg-logo="https://pinguinradio.com/dist/images/content/p-radio.jpg" group-title="alternative,indie",Pinguin Radio
 http://streams.pinguinradio.com/PinguinRadio320.mp3
 #EXTINF:-1 tvg-logo="https://pinguinradio.com/assets/img/logo/pinguinshowcase.svg" group-title="",Pinguin Showcase
-http://19013.live.streamtheworld.com/SP_R3045093_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R3045093_SC
 #EXTINF:-1 tvg-logo="https://pinguinradio.com/dist/images/content/p-ska.jpg" group-title="ska",Pinguin Ska World
-http://19293.live.streamtheworld.com/SP_R2292843_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R2292843_SC
 #EXTINF:-1 tvg-logo="" group-title="",Pinguin World Music
-http://19293.live.streamtheworld.com/SP_R2591417_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R2591417_SC
 #EXTINF:-1 tvg-logo="" group-title="church",Pnielkerk Veenendaal 
 http://vps.pniel.nl:7777/;
 #EXTINF:-1 tvg-logo="https://qmusic.nl/favicon.ico" group-title="christmas music,non-stop",Q Christmas
@@ -538,7 +538,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/QMUSICNL_THEMA
 #EXTINF:-1 tvg-logo="" group-title="pop",Q MUSIC TOP 1000
 http://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_classics_32.aac
 #EXTINF:-1 tvg-logo="" group-title="hardstyle",Q-dance Radio
-http://25233.live.streamtheworld.com:80/Q_DANCEAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/Q_DANCEAAC.aac
 #EXTINF:-1 tvg-logo="https://www.q-dance.com/static/images/favicon/favicon.ico" group-title="hardcore,hardstyle",Q-Dance Radio
 https://25253.live.streamtheworld.com:443/Q_DANCE.mp3
 #EXTINF:-1 tvg-logo="http://qmusic.nl/favicon.ico" group-title="",Qmusic
@@ -560,23 +560,23 @@ https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_nonstop40_96.mp3
 #EXTINF:-1 tvg-logo="https://www.twr.org/images/r/rtm-bonaire-header/c644x161/rtm-bonaire-header.jpg" group-title="religious",Que Brille 800!
 https://cdn.instream.audio/:9050/stream
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScXQ3C4MdB2iKNRXVmQSy-fl3MBqAi-SX2JU3p-ZeLSiLCVbDw&s" group-title="00's,80's,90's,classic hits,hits",Radio 10
-http://22543.live.streamtheworld.com:80/RADIO10.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO10.mp3
 #EXTINF:-1 tvg-logo="https://www.radio10.nl/icons/apple-icon-120x120.png" group-title="",Radio 10 60's & 70's Hits
-http://20873.live.streamtheworld.com/TLPSTR18_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR18_SC
 #EXTINF:-1 tvg-logo="" group-title="pop",RADIO 10 TOP 4000
-http://25253.live.streamtheworld.com:80/TLPSTR24.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR24.mp3
 #EXTINF:-1 tvg-logo="https://www.192radio.nl/192radio/wp-content/uploads/2019/07/cropped-favicon-180x180.png" group-title="",Radio 192
 http://server-10.stream-server.nl:8030/stream
 #EXTINF:-1 tvg-logo="http://www.radio509.nl/images/layout/logoRadio509.gif" group-title="community radio,hilversum",Radio 509 Hilversum
-http://25273.live.streamtheworld.com/RADIO509AAC_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO509AAC_SC
 #EXTINF:-1 tvg-logo="https://www.538.nl/icons/apple-icon-120x120.png" group-title="dance",Radio 538 Ibiza
-http://22323.live.streamtheworld.com/TLPSTR19_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR19_SC
 #EXTINF:-1 tvg-logo="https://www.538.nl/icons/apple-icon-120x120.png" group-title="",Radio 538 Nonstop
-http://22343.live.streamtheworld.com:3690/TLPSTR09_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR09_SC
 #EXTINF:-1 tvg-logo="https://www.538.nl/icons/apple-icon-120x120.png" group-title="party",Radio 538 Party
-http://20873.live.streamtheworld.com/TLPSTR16_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR16_SC
 #EXTINF:-1 tvg-logo="https://www.538.nl/icons/apple-icon-120x120.png" group-title="",Radio 538 Verrückte Stunde
-http://25253.live.streamtheworld.com:3690/TLPSTR21_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR21_SC
 #EXTINF:-1 tvg-logo="http://www.radio9oostzaan.nl/favicon.png" group-title="lounge",Radio 9 Oostzaan
 http://caster01.streampakket.com:9350/;
 #EXTINF:-1 tvg-logo="https://bangsajawa.nl/wp-content/uploads/2018/01/Logo-Vector-Greyscal.png" group-title="pop",Radio Bangsa Jawa
@@ -658,7 +658,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/VERONICA.mp3
 #EXTINF:-1 tvg-logo="" group-title="misc",Radio Zuyd
 http://radiozuyd.shoutcaststream.com:8199/stream
 #EXTINF:-1 tvg-logo="http://www.radio10.nl/icons/apple-icon-120x120.png" group-title="",Radio10
-http://20073.live.streamtheworld.com/RADIO10.mp3?dist=streamradio10nl
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO10.mp3?dist=streamradio10nl
 #EXTINF:-1 tvg-logo="https://radioachterhoek.nl/cropped-fb-cover-01-png" group-title="english,folk music,schlager,volksmusik",Radioachterhoek.nl
 https://stream.radioachterhoek.nl/index.html?sid=1
 #EXTINF:-1 tvg-logo="" group-title="",RADIONL
@@ -700,45 +700,45 @@ http://streams.sevenfm.nl:8090/live
 #EXTINF:-1 tvg-logo="" group-title="pop,rock",Simone FM
 https://stream.simone.nl/simone
 #EXTINF:-1 tvg-logo="http://www.skyradio.nl/icons/apple-icon-120x120.png" group-title="soft pop",Sky Radio 101 FM
-http://22543.live.streamtheworld.com:80/SKYRADIOAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/SKYRADIOAAC.aac
 #EXTINF:-1 tvg-logo="http://www.skyradio.nl/icons/apple-icon-120x120.png" group-title="soft pop",Sky Radio 101 FM
-http://22723.live.streamtheworld.com:80/SKYRADIO.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/SKYRADIO.mp3
 #EXTINF:-1 tvg-logo="http://www.skyradio.nl/icons/apple-icon-120x120.png" group-title="80s",Sky Radio 80's Hits
-http://25243.live.streamtheworld.com:80/SRGSTR04.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR04.mp3
 #EXTINF:-1 tvg-logo="http://www.skyradio.nl/icons/apple-icon-120x120.png" group-title="90s",Sky Radio 90's Hits
-http://25273.live.streamtheworld.com:80/SRGSTR05.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR05.mp3
 #EXTINF:-1 tvg-logo="http://www.skyradio.nl/icons/apple-icon-120x120.png" group-title="christmas music",Sky Radio Christmas
-http://22613.live.streamtheworld.com:80/SRGSTR08.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR08.mp3
 #EXTINF:-1 tvg-logo="https://www.skyradio.nl/favicon.ico" group-title="hits",Sky Radio Hits
 https://25253.live.streamtheworld.com:443/SRGSTR01.mp3?dist=skyradio_web&ttag=talpa_consent:0&gdpr=1&gdpr_consent=BO2svb6O2svb6ADABANLDTAAAAAxKAAA
 #EXTINF:-1 tvg-logo="http://www.skyradio.nl/icons/apple-icon-120x120.png" group-title="lounge music",Sky Radio Lounge
-http://25283.live.streamtheworld.com:3690/SRGSTR07AAC_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR07AAC_SC
 #EXTINF:-1 tvg-logo="http://www.skyradio.nl/icons/apple-icon-120x120.png" group-title="love songs",Sky Radio Lovesongs
-http://22593.live.streamtheworld.com:3690/SRGSTR03AAC_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR03AAC_SC
 #EXTINF:-1 tvg-logo="http://www.skyradio.nl/icons/apple-icon-120x120.png" group-title="smooth",Sky Radio Smooth Hits
-http://22713.live.streamtheworld.com:3690/SRGSTR15AAC_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR15AAC_SC
 #EXTINF:-1 tvg-logo="https://www.slam.nl/themes/slam-gsys/images/favicon.png" group-title="dance,electro,house,pop",SLAM!
-http://22323.live.streamtheworld.com/SLAM_MP3_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/SLAM_MP3_SC
 #EXTINF:-1 tvg-logo="https://scale.slam.nl/imageScaled/?site=slam&file=1580746671_Substations.jpg" group-title="classics,dance",SLAM! DANCE CLASSICS
-http://25343.live.streamtheworld.com/WEB15_MP3_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/WEB15_MP3_SC
 #EXTINF:-1 tvg-logo="https://www.slam.nl//images/favicons/slam.png" group-title="",SLAM! Housuh In De Pauzuh
-http://25343.live.streamtheworld.com/WEB16_MP3_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/WEB16_MP3_SC
 #EXTINF:-1 tvg-logo="https://scale.slam.nl/imageScaled/?site=slam&file=1558361463_Juize.jpg" group-title="",SLAM! Juize
-http://22323.live.streamtheworld.com/WEB09_MP3_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/WEB09_MP3_SC
 #EXTINF:-1 tvg-logo="https://www.slam.nl/themes/slam-gsys/images/apple-touch-icon.png" group-title="",Slam! Mixmarathon
-http://25343.live.streamtheworld.com/WEB13_MP3_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/WEB13_MP3_SC
 #EXTINF:-1 tvg-logo="https://www.slam.nl//images/favicons/slam.png" group-title="dance,electro,house,pop",SLAM! Non Stop
-http://22543.live.streamtheworld.com/WEB10_MP3_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/WEB10_MP3_SC
 #EXTINF:-1 tvg-logo="https://www.slam.nl//images/favicons/slam.png" group-title="dance,dj sets,techno",Slam! The Boom Room
-http://22593.live.streamtheworld.com/WEB12_AAC_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/WEB12_AAC_SC
 #EXTINF:-1 tvg-logo="https://en.slowradio.com/img/favicons/apple-touch-icon.png" group-title="slow",Slow Radio Gold
 https://bluford.torontocast.com/proxy/ezefpkbu/slowradiogold
 #EXTINF:-1 tvg-logo="http://soulradio.nl/images/soulradio/logo-Soul-Radio-2017.jpg" group-title="",Soul Radio
 http://soulradio02.live-streams.nl/live
 #EXTINF:-1 tvg-logo="" group-title="",Soul Radio
-http://22663.live.streamtheworld.com:80/SOULRADIOAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/SOULRADIOAAC.aac
 #EXTINF:-1 tvg-logo="http://www.allradio.nl/uploaded/logo/soul-radio-groot.jpg" group-title="soul",SoulRadio
-http://22663.live.streamtheworld.com/SOULRADIOAAC_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/SOULRADIOAAC_SC
 #EXTINF:-1 tvg-logo="" group-title="",Soulshow Radio
 http://icecast-soulshow.cdp.triple-it.nl/soulshow_128.mp3
 #EXTINF:-1 tvg-logo="http://www.src.fm/images/logo_social.png" group-title="dutch,goodfeeling,local music",SRC FM Working
@@ -762,15 +762,15 @@ http://ruby.torontocast.com:2610/stream
 #EXTINF:-1 tvg-logo="https://studio040.nl/studio040_nl/images/favicon/apple-touch-icon.png" group-title="",Studio040
 https://stream.studio040.nl/studio040.mp3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Z5w6Md75/Logo-Sublime-De-Leckere-Donkere-achtergrond.png" group-title="jazz",Sublime - Arrow Jazz
-http://25293.live.streamtheworld.com:80/SUBLIMEARROWJAZZ.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/SUBLIMEARROWJAZZ.mp3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Z5w6Md75/Logo-Sublime-De-Leckere-Donkere-achtergrond.png" group-title="classic jazz,jazz",Sublime - Pure Jazz
-http://25293.live.streamtheworld.com:80/SUBLIMEPUREJAZZ.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/SUBLIMEPUREJAZZ.mp3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Z5w6Md75/Logo-Sublime-De-Leckere-Donkere-achtergrond.png" group-title="relax,smooth",Sublime - Smooth
-http://25343.live.streamtheworld.com:80/SUBLIMESMOOTH.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/SUBLIMESMOOTH.mp3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Z5w6Md75/Logo-Sublime-De-Leckere-Donkere-achtergrond.png" group-title="soul",Sublime - Soul
-http://22613.live.streamtheworld.com:80/SUBLIMESOUL.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/SUBLIMESOUL.mp3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Z5w6Md75/Logo-Sublime-De-Leckere-Donkere-achtergrond.png" group-title="chillout,downtempo,jazz,lounge,relax,smooth",Sublime - TOP 500
-http://22613.live.streamtheworld.com:80/SUBLIME500.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/SUBLIME500.mp3
 #EXTINF:-1 tvg-logo="" group-title="",Sublime Christmas
 https://25343.live.streamtheworld.com:443/SUBLIMEPLAYGROUND.mp3?ver=78785
 #EXTINF:-1 tvg-logo="" group-title="",Sublime Christmas
@@ -830,7 +830,7 @@ https://25333.live.streamtheworld.com:443/SRGSTR12.mp3?dist=veronica_web&ttag=ta
 #EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s108043/images/logoq.png" group-title="classic rock,rock",Veronica Rockradio
 https://25333.live.streamtheworld.com:443/SRGSTR11.mp3
 #EXTINF:-1 tvg-logo="http://www.radioveronica.nl/icons/apple-icon-120x120.png" group-title="classic rock,pop,top 1000",Veronica TOP1000 AllerTijden
-http://25323.live.streamtheworld.com:80/SRGSTR10AAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR10AAC.aac
 #EXTINF:-1 tvg-logo="http://www.waterstadfm.nl/wp-content/themes/waterstad/images/wfm_radio2.png" group-title="",Waterstad FM
 http://stream.waterstadfm.nl/waterstadfm
 #EXTINF:-1 tvg-logo="http://weertfm.nl/apple-touch-icon.png" group-title="local news,nederweert,weert",WeertFM

@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://www.adnradio.cl/_templates/desktop/includes/img/logo.png" group-title="deportes,noticias y comentarios",ADN Radio
-http://22823.live.streamtheworld.com/ADNAAC_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/ADNAAC_SC
 #EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/5903889c197aea3eb83a5b71/1575296997141-ZJTNSIRGPQ72LWPPRIAR/logo+_alborada_transparente.png" group-title="music,talk",Alborada
 http://stream5.eltelon.com/alborada.aac
 #EXTINF:-1 tvg-logo="" group-title="",Beethoven FM (Relanzada)
@@ -50,13 +50,13 @@ http://stream.zeno.fm/es9h0crh74zuv?rj-ttl=5&rj-tok=AAABfd5PsrgAQApFzpfp_YQUCA
 #EXTINF:-1 tvg-logo="https://asphaltpop.blogspot.com/favicon.ico" group-title="",COBrOx RADiO :--|
 http://135.181.78.169:8672/cobroxradio
 #EXTINF:-1 tvg-logo="https://www.concierto.cl/wp-content/uploads/2021/09/cropped-android-chrome-512x512-1-180x180.png" group-title="contemporary,music,talk",Concierto
-http://24883.live.streamtheworld.com:3690/CONCIERTO_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/CONCIERTO_SC
 #EXTINF:-1 tvg-logo="" group-title="",Contemporánea
 http://sonando.us.digitalproserver.com/contemporanea_aconcagua.aac
 #EXTINF:-1 tvg-logo="http://www.cooperativa.cl/favicon.ico" group-title="music,news,talk",Cooperativa
 http://unlimited1-eu.dps.live/cooperativafm/mp3/icecast.audio
 #EXTINF:-1 tvg-logo="http://provisioning.streamtheworld.com/pls/CORAZON.pls" group-title="",Corazon
-http://24923.live.streamtheworld.com/CORAZON_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/CORAZON_SC
 #EXTINF:-1 tvg-logo="" group-title="",CyS Radio 96.3 FM Dalcahue
 http://streaming.chiloestreaming.com:9542/;
 #EXTINF:-1 tvg-logo="http://www.fmdelosrecuerdos.cl/img/logo_fbshare3.jpg" group-title="",De los Recuerdos
@@ -96,13 +96,13 @@ http://archi-us.digitalproserver.com/femenina.aac
 #EXTINF:-1 tvg-logo="https://radiofestival.b-cdn.net/wp-content/uploads/2018/08/LOGOTIPO-RADIO-FESTIVAL-2016-01-e1529800025481_compressed-300x139.jpg.webp" group-title="bailable,news",Festival
 https://stream.festival.cl/1
 #EXTINF:-1 tvg-logo="https://www.fmdos.cl/wp-content/themes/leia/img/fmdos-2018.svg" group-title="pop,romantica",FM Dos
-http://20823.live.streamtheworld.com:3690/FMDOSAAC_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/FMDOSAAC_SC
 #EXTINF:-1 tvg-logo="https://www.fmokey.cl/favicon.ico" group-title="90s,pop,regaeton,techno",FM Okey Valparaiso
 https://streaming.fmokey.cl/moviles.mp3
 #EXTINF:-1 tvg-logo="" group-title="classical",fmplus
 https://streaming.conectaapp.cl/fmplus
 #EXTINF:-1 tvg-logo="https://www.futuro.cl/wp-content/uploads/2021/07/cropped-android-chrome-512x512-1-180x180.png" group-title="",Futuro
-http://18733.live.streamtheworld.com:3690/FUTUROAAC_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/FUTUROAAC_SC
 #EXTINF:-1 tvg-logo="https://goodstockradio.com/wp-content/uploads/2021/06/apple-touch-icon.png" group-title="rock",Good Stock Radio
 https://sp.tvcontrolcp.com/8100/stream
 #EXTINF:-1 tvg-logo="https://zeno.fm/static/icons/apple-icon-120x120.png" group-title="guitarra clasica,guitarra clásica,música",Guitarra Clásica
@@ -112,7 +112,7 @@ http://stream.zeno.fm/y3428vcm6yzuv?rj-ttl=5&rj-tok=AAABfd4u3BEASG0-oQn9w5ICbQ
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s2787/images/logod.png?t=162025" group-title="2000s,2010s,2020s,80s,90s,alternative,synthpop",Horizonte.cl (correcto)
 https://us-b4-p-e-by2-audio.cdn.mdstrm.com/live-audio-aw/601415b58308405b0d11c82a?aid=5c58a34e176c2c0813b22e4b&pid=zsb5hKcv82EUtCo8fTmGKp93AlTXkUw8&sid=iZt6f5BCoFQVBYyLMNlXTtNpT3l7cq8g&uid=E0DK1Fzi5kydpvAJ9hrSbs3ZQWnxp6gb&es=us-b4-p-e-by2-audio.cdn.mdstrm.com&ote=1640147638704&ot=RDk_qyeksCMhf0Mg9LFi0A&proto=https&pz=us&cP=128000&awCollectionId=5c58a34e176c2c0813b22e4b&liveId=601415b58308405b0d11c82a
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/object-images/d7ece02859afbc7957cbc749cd8295a6.jpg" group-title="hits",Imagina
-http://24383.live.streamtheworld.com/IMAGINA_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/IMAGINA_SC
 #EXTINF:-1 tvg-logo="" group-title="",Infinita
 http://unlimited1-us.dps.live/infinita/go/audio/now/livestream1.m3u8
 #EXTINF:-1 tvg-logo="http://static.infinita.cl/_common/img/radio-infinita-white.svg" group-title="infinita",Infinita 100.1 FM
@@ -148,7 +148,7 @@ http://stream.zeno.fm/8vvrfmu9d8zuv?rj-ttl=5&rj-tok=AAABfdoBX-cAu5_x6G5_UoYdXQ
 #EXTINF:-1 tvg-logo="https://www.radiollacolen.com/wp-content/uploads/2021/10/cropped-radio-llacolen-logo-redes-sociales-01-180x180.png" group-title="pop,rock",Llacolén
 http://sonando.us.digitalproserver.com/radiollacolen.aac
 #EXTINF:-1 tvg-logo="http://funkyimg.com/i/2DvZE.jpg" group-title="hits,latin pop,top 40",Los 40 Principales Chile
-http://24383.live.streamtheworld.com:3690/LOS40_CHILE_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CHILE_SC
 #EXTINF:-1 tvg-logo="http://www.macarenafm.cl/cover.png" group-title="",Macarena
 https://sonic01.zglobalhost.com:7013/stream
 #EXTINF:-1 tvg-logo="" group-title="catholic,christian",María
@@ -186,7 +186,7 @@ http://192.99.18.164:9856/;
 #EXTINF:-1 tvg-logo="https://playfm.cl/playfm/site/artic/20190516/imag/foto_0000003820190516190153/play_morado.png" group-title="2000s,80s,90s,pop",Play FM Chile
 https://us-b4-p-e-az1-audio.cdn.mdstrm.com/live-audio-aw/5c8d6406f98fbf269f57c82c
 #EXTINF:-1 tvg-logo="https://www.pudahuel.cl/wp-content/uploads/2020/02/3dc0f632e699fbf057ae40f404af1d64-180x180.png" group-title="contemporary,music,talk",Pudahuel
-http://24963.live.streamtheworld.com:3690/PUDAHUEL_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/PUDAHUEL_SC
 #EXTINF:-1 tvg-logo="" group-title="bailable,cumbia,regaeton,salsa",Punto 7 Concepción
 https://unlimited1-eu.dps.live/p7concepcion/aac/icecast.audio
 #EXTINF:-1 tvg-logo="" group-title="bailable,cumbia,regaeton,salsa",Punto 7 Los Angeles
@@ -258,7 +258,7 @@ http://sonic.portalfoxmix.cl:8424/;
 #EXTINF:-1 tvg-logo="http://images.eltelon.com/cache/media/2565/square_150x150-2.jpg" group-title="",Radio Exquisita
 http://stream5.eltelon.com/exquisita.aac
 #EXTINF:-1 tvg-logo="" group-title="rock",Radio Futuro
-http://22823.live.streamtheworld.com/FUTURO_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/FUTURO_SC
 #EXTINF:-1 tvg-logo="https://ibb.co/B2ZsCt5" group-title="fácil escucha",Radio Gatuna 
 https://us-b4-p-e-cz3-audio.cdn.mdstrm.com/live-audio/601dd58c5fcd44672749652a/611d9db704b775082811559e/icecast.audio?aid=601dd58c5fcd44672749652a&pid=KaiGAVXOMRIwikBlLTExCG9PbWgpW0DV&sid=984etr9VwuwAeloGkheu8hkZXHiSxd1i&uid=rXJdd5xpVpCxLu40mzvH5dcXK8awIdst&es=us-b4-p-e-cz3-audio.cdn.mdstrm.com&ote=1640150400206&ot=_BzxtJMN60AWUTavTW3oBg&proto=https&pz=us&cP=128000
 #EXTINF:-1 tvg-logo="https://radiogenial.cl/wp-content/uploads/2019/08/genial_icon.png" group-title="2000s,2010s,80s,90s,adult contemporary,adulto contemporaneo,pop,pop dance,rock",Radio Genial
@@ -328,9 +328,9 @@ https://archi-us.digitalproserver.com/xqa-5.aac
 #EXTINF:-1 tvg-logo="http://www.radiozeta.cl/images/logo-z.png" group-title="pop",Radio Z
 https://unlimited10-cl.dps.live/radioztv/radioztv.smil/radioztv/livestream2/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://radioactiva.cl/wp-content/themes/activa/img/favico/apple-icon-120x120.png?v=2" group-title="comedy,talk",Radioactiva
-http://20833.live.streamtheworld.com/ACTIVA_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/ACTIVA_SC
 #EXTINF:-1 tvg-logo="http://www.radioactiva.cl/wp-content/themes/activa/img/favico/android-icon-192x192.png?v=2" group-title="comedy,talk",Radioactiva 92.5 FM
-http://20833.live.streamtheworld.com/ACTIVAAAC_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/ACTIVAAAC_SC
 #EXTINF:-1 tvg-logo="https://radiofiessta.cl/wp-content/uploads/2017/12/Identidad-Radio-Fiessta-170x170.png" group-title="hits,pop,talk",Radiofiessta
 http://5.9.65.9:8174/;?1635185486799
 #EXTINF:-1 tvg-logo="http://rdifm.cl/wp-content/uploads/2017/05/logoRDI.png" group-title="70s,80s,90s",RDI Fm
@@ -340,7 +340,7 @@ http://sonando.us.digitalproserver.com/ritoquefm_aac
 #EXTINF:-1 tvg-logo="https://ritoquefm.cl/wp-content/uploads/elementor/thumbs/rfm-t-p669v438e2dsnqdypgfjq42d1f3angyzl1d9x1368s.png" group-title="classic rock,hard rock,progressive rock,rock",Ritoque FM
 http://stream.zeno.fm/87wch5ygam8uv.aac?rj-ttl=5&rj-tok=AAABfdrpwcgAMaX45U1F2hMchg
 #EXTINF:-1 tvg-logo="http://www.rockandpop.cl/wp-content/uploads/2016/08/og.png" group-title="pop,rock",Rock and Pop
-http://22823.live.streamtheworld.com:3690/ROCK_AND_POPAAC_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/ROCK_AND_POPAAC_SC
 #EXTINF:-1 tvg-logo="" group-title="rock",Ruidos FM
 http://192.99.18.164:9880/;
 #EXTINF:-1 tvg-logo="" group-title="bible,christian,christian-gospel,church services,gospel,preaching",Sintonizados con Cristo Radio

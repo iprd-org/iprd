@@ -16,7 +16,7 @@ https://serverssl.innovatestream.pe:8080/167.114.118.120:7450/stream
 #EXTINF:-1 tvg-logo="https://bethelradio.fm/images/logo-bethel.svg" group-title="christmas music,radio cristiana,religiosa,religious",Bethel Radio (1570 AM, Lima)
 https://tampa.audio-stream.com/proxy/bethelra?mp=/stream
 #EXTINF:-1 tvg-logo="" group-title="classical",Bienestar
-http://17963.live.streamtheworld.com/BIENESTAR.mp3?csegid=1010&dist=1010&tdsdk=js-%40td&pname=TDSdk&pversion=%40td&banners=none&sbmid=46ea3be7-3eeb-4b49-d2ce-8568fcb10be7
+https://playerservices.streamtheworld.com/api/livestream-redirect/BIENESTAR.mp3?csegid=1010&dist=1010&tdsdk=js-%40td&pname=TDSdk&pversion=%40td&banners=none&sbmid=46ea3be7-3eeb-4b49-d2ce-8568fcb10be7
 #EXTINF:-1 tvg-logo="" group-title="classical",Bongara
 http://stream.zeno.fm/q568uytu6mruv?1597624354113=&rj-ttl=5&rj-tok=AAABfd5Kn8AAGpwIYQ-EzpNEQw
 #EXTINF:-1 tvg-logo="http://www.bossanovaperuradio.com/imagenes/png/logo-bnpr.png" group-title="bossa nova,musica brasileira,rock",Bossa Nova Perú Radio
@@ -70,7 +70,7 @@ https://turadio.accesopanel.com/8526/stream
 #EXTINF:-1 tvg-logo="" group-title="classical",Hits Star-Bagua
 http://oyotunstream.com:7278/;
 #EXTINF:-1 tvg-logo="" group-title="classical",Inca Sat
-http://17853.live.streamtheworld.com/CRP_INC.mp3?dist=20004
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_INC.mp3?dist=20004
 #EXTINF:-1 tvg-logo="https://indieperuradio.com/wp-content/uploads/2021/11/Indie-Peru-Radio-head.png" group-title="indie music,indie rock,sessions",Indie Perú Radio
 https://eu47-sonic.instainternet.com:7032/stream?icy=http
 #EXTINF:-1 tvg-logo="https://jazzcontempo.com/wp-content/uploads/2019/01/JAZZ_LOGO.png" group-title="smooth jazz",Jazzcontempo
@@ -104,19 +104,19 @@ http://ip.peruhits.com:9944/;stream.mp3
 #EXTINF:-1 tvg-logo="" group-title="",Luz y sonido
 https://radioserver11.profesionalhosting.com/proxy/mekqyaic?mp=/stream
 #EXTINF:-1 tvg-logo="" group-title="classical",Mágica
-http://18553.live.streamtheworld.com/MAG.mp3?dist=20004
+https://playerservices.streamtheworld.com/api/livestream-redirect/MAG.mp3?dist=20004
 #EXTINF:-1 tvg-logo="https://www.mamboinnradio.com/wp-content/uploads/2013/04/logo-120x300-1.png" group-title="salsa",Mambo INN Radio
 https://radio.perustream.com:7000/stream
 #EXTINF:-1 tvg-logo="" group-title="classical",Maxi Mix
 http://stream.zeno.fm/znv7mhnuaxquv?rj-ttl=5&rj-tok=AAABfd3REaEAyB7DXE4EHkqiDg
 #EXTINF:-1 tvg-logo="" group-title="classical",Moda
-http://18303.live.streamtheworld.com/CRP_MOD.mp3?dist=20004
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_MOD.mp3?dist=20004
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-1Q5ugYkq4xI/YHHGI1Eyq7I/AAAAAAAAG14/ZkLba9N-erEZ0pgL9cR9WvA_w0ijEcmPACK4BGAYYCw/s311/Logo%2BMonsefuradio%2B21.png" group-title="",Monsefú Radio
 http://stream.zeno.fm/gktf20bzy1zuv?rj-ttl=5&rj-tok=AAABfdr6kooAgLq7npwMbfHTBQ
 #EXTINF:-1 tvg-logo="https://noticias.madrededios.com/media/madrededios/images/2021/01/01/2021010100000019926.png" group-title="local news",Noticias Madre de Dios
 https://tupanel.info:9000/stream
 #EXTINF:-1 tvg-logo="" group-title="classical",Oasis
-http://19013.live.streamtheworld.com/CRP_OAS.mp3?dist=20004
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_OAS.mp3?dist=20004
 #EXTINF:-1 tvg-logo="https://oigo-public-bucket-production.s3.amazonaws.com/radios/81b8b8b7-330a-45ad-9117-7052424f42e6-logos-radios-v2.png" group-title="alternative rock,indie rock,peruvian rock",Oasis Patrio (Sonorama)
 https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_SON_S01_SC
 #EXTINF:-1 tvg-logo="https://radioondaazul.com/wp-content/uploads/2019/05/logo_radio_onda_azul.png" group-title="news",Onda Azul
@@ -136,7 +136,7 @@ http://gnstreammedia.net:8020/;stream.aac
 #EXTINF:-1 tvg-logo="https://perucumbia.com/imgs/perucumbia5.png" group-title="peruvian cumbia",PerúCumbia.com
 http://184.154.28.210:7130/stream?icy=http
 #EXTINF:-1 tvg-logo="" group-title="classical",Planeta
-http://19013.live.streamtheworld.com/CRP_PLA.mp3?dist=20004
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_PLA.mp3?dist=20004
 #EXTINF:-1 tvg-logo="https://oigo-public-bucket-production.s3.us-east-1.amazonaws.com/radios/d3917135-7552-4b63-9fae-0c7c9cd9c7ff-planeta-40-hot.png" group-title="hot hits,pop music",Planeta Hot 40
 https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_PLA_HOT40_S01.mp3
 #EXTINF:-1 tvg-logo="https://zeno.fm/static/icons/apple-icon-120x120.png" group-title="bailable,informativa,movida,music",RADIO  KAPRICHOS  FM
@@ -260,7 +260,7 @@ https://serverssl.innovatestream.pe:8080/167.114.118.119:7322/stream
 #EXTINF:-1 tvg-logo="" group-title="variety",Radio La Hechicera
 http://67.212.179.138:9028/;
 #EXTINF:-1 tvg-logo="https://lainolvidable.pe/assets/favicons/apple-touch-icon.png" group-title="latin pop,oldies",Radio La Inolvidable (OBT-4C, 93.7 MHz FM, Lima)
-http://18803.live.streamtheworld.com:3690/CRP_LI_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_LI_SC
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-H_1rbHh18Y8/WAkpegY48pI/AAAAAAAABP8/Hgy1QwDpmmwiYKM-1J5gefY__zwa-Nh7ACLcB/s1600/10-La%2BKalle%2B%2528Radios%2529.jpg" group-title="merengue,salsa",Radio La Kalle (OCR-4N, 96.1 MHz FM, Lima)
 http://167.114.118.120:7448/;
 #EXTINF:-1 tvg-logo="https://eaudioplayer.radio-grpp.io/static/dist/img/favicons/apple-touch-icon.png" group-title="cumbia,folklore,merengue,peruvian cumbia,sanjuanitos,tropical music",Radio La Mega
@@ -298,7 +298,7 @@ https://sp.oyotunstream.com/8006/stream
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-Dete3Wi505Y/UwTdaUlLFiI/AAAAAAAACII/YAmoBOMYujQ/w1200-h630-p-k-no-nu/radio-los-angeles-chepen.jpg" group-title="variety",Radio Los Angeles - Chepen
 http://94.23.159.187:9950/;
 #EXTINF:-1 tvg-logo="http://radiomagica.pe//assets/images/favicon/apple-touch-icon-114x114.png" group-title="classic hits",Radio Mágica 88.3 FM (OCX-4G, Lima, Perú)
-http://18313.live.streamtheworld.com/MAG_AAC_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/MAG_AAC_SC
 #EXTINF:-1 tvg-logo="https://www.manantialdevida1450.com/wp-content/uploads/2021/08/150x150-logomanantial.png" group-title="christian",Radio Manantial de Vida
 https://server.streamingradios.net/8036/stream
 #EXTINF:-1 tvg-logo="https://radiomaranon.org.pe/wp-content/uploads/2021/02/cropped-cropped-cropped-logo-21-180x180.png" group-title="variado",Radio Marañon 96.1 FM
@@ -326,9 +326,9 @@ https://cdnh4.iblups.com/hls/OisZOgZAOB.m3u8
 #EXTINF:-1 tvg-logo="https://radionova.pe/trujillo/wp-content/uploads/2021/01/cropped-nova_logo-11.png" group-title="local radio,peruvian cumbia",Radio Nova (Trujillo)
 https://serverssl.innovatestream.pe:8080/167.114.118.120:7168/stream
 #EXTINF:-1 tvg-logo="https://radionuevaq.pe/assets/images/Imagen-Q-enVivo.jpg" group-title="bachata,baladas,cumbia,reggaeton,románticas,salsa",Radio Nueva Q (OCZ-4P, 107.1 MHz, Lima)
-http://18803.live.streamtheworld.com:3690/CRP_NQ_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_NQ_SC
 #EXTINF:-1 tvg-logo="https://oasis.pe/assets/images/imagen-Oasis-enVivo.jpg" group-title="pop,rock",Radio Oasis (OCX-4U, 100.1 MHz, Lima)
-http://14003.live.streamtheworld.com:3690/CRP_OAS_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_OAS_SC
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-tiCqbf6Iwoc/XsCL05AuuoI/AAAAAAAAAUo/xQ5aDCL9DHYe-dJ1Oohda1n33McgpY1RgCK4BGAYYCw/s150/02.jpg" group-title="local radio",Radio OK Lambayeque
 https://dattavolt.com/8090/;
 #EXTINF:-1 tvg-logo="" group-title="urban contemporary,urban music",Radio Onda Cero
@@ -350,7 +350,7 @@ https://s2.free-shoutcast.com/stream/18090
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-d2h26kkRjiE/U48F33pEriI/AAAAAAAAE3Q/7nedM8GI51M/s1600/radio-pirata.JPG" group-title="rock",Radio Pirata Mix - Cajabamba
 http://167.114.118.120:7628/;
 #EXTINF:-1 tvg-logo="https://planeta.pe/assets/images/punto7___logo.jpg" group-title="electropop,hiphop,pop,top 40",Radio Planeta (OCZ-4L, 107.7 MHz FM, Lima)
-http://18843.live.streamtheworld.com:3690/CRP_PLA_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_PLA_SC
 #EXTINF:-1 tvg-logo="https://www.radioplanicie.com.pe/wp-content/uploads/2021/09/cropped-logor-1.png" group-title="news",Radio Planicie FM
 https://radio.transmite.pe/9314/stream/1/
 #EXTINF:-1 tvg-logo="https://radiopoderinka.com/" group-title="local news",Radio Poder Inka 92.1 FM
@@ -366,7 +366,7 @@ https://cp13.shoutcheap.com:18084/;
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-kdF5c3CfDVU/W0x6J82NGcI/AAAAAAAAAZM/lk81M82wOpMOjtoUjrdTh8CsmGybJKJMACK4BGAYYCw/s2000/LOGO-Regional-chico.png" group-title="",Radio Regional Sicusani
 https://conectperu.com:7106/;
 #EXTINF:-1 tvg-logo="https://ritmoromantica.pe/assets/images/Imagen-rr-enVivo-V2.jpg" group-title="baladas",Radio Ritmo Romántica
-http://22973.live.streamtheworld.com:3690/CRP_RIT_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_RIT_SC
 #EXTINF:-1 tvg-logo="" group-title="baladas,love songs",Radio Románticas Inolvidables
 http://stream.zeno.fm/uvn8angqq18uv?rj-ttl=5&rj-tok=AAABfdppVkYAzFjuGaRNiFrI5g
 #EXTINF:-1 tvg-logo="" group-title="dance,rock",Radio Rutas Perú
@@ -442,9 +442,9 @@ http://167.114.118.120:7440/
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-uVdheOaGeVY/VZfgIh2SGUI/AAAAAAAAGDM/9rh7xhnSMKY/s1600/logo-zona-5-chiclayo.jpg" group-title="cumbia,musica variada",Radio Zona 5 93.3 - Chiclayo
 http://167.114.118.120:7216/;
 #EXTINF:-1 tvg-logo="" group-title="classical",Radiomar
-http://18323.live.streamtheworld.com/CRP_MAR.mp3?dist=20004
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_MAR.mp3?dist=20004
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-xjyKfe9KCec/VgyNSRtawWI/AAAAAAAAHAQ/VLI39hZjI4g/s1600/logo%2Bradiomarplus%2Blima%2Bperu.jpg" group-title="variado",Radiomar Plus 106.3 Lima
-http://18323.live.streamtheworld.com:3690/CRP_MARAAC_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_MARAAC_SC
 #EXTINF:-1 tvg-logo="" group-title="new age",RadioSaurios New Age
 http://5.135.183.124:8430/stream
 #EXTINF:-1 tvg-logo="https://rri.pe/assets/imagenes/logos/logo-rri-color.svg" group-title="online christian radio,religious",Red Radio Integridad (RRI)
@@ -452,7 +452,7 @@ https://dattavolt.com/8164/stream
 #EXTINF:-1 tvg-logo="https://reinadelaselva.pe/imgs/logo_reina.png" group-title="",Reina de la Selva
 http://67.212.179.138:7046/;
 #EXTINF:-1 tvg-logo="" group-title="classical",Romántica
-http://19473.live.streamtheworld.com/CRP_RIT.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_RIT.mp3
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/object-images/c7b56eb049085ef8c579e221ce4d9c01.png" group-title="60s,70s,80s,baladas,romantica",Romantica Inolvidables
 http://stream.zeno.fm/uvn8angqq18uv?rj-ttl=5&rj-tok=AAABfdq9CHAAvFqASodvOKIYXA
 #EXTINF:-1 tvg-logo="" group-title="",Romanticas Inolvidables

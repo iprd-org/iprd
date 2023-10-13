@@ -96,9 +96,9 @@ http://quincy.torontocast.com:1910/stream
 #EXTINF:-1 tvg-logo="https://instrumentalsforever.eu/favicon.ico" group-title="big band,easy listening,instrumental",Instrumentals forever (64kbp)
 http://quincy.torontocast.com:1920/stream
 #EXTINF:-1 tvg-logo="" group-title="80's",Joe 80's
-http://23603.live.streamtheworld.com/JOE_80S.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/JOE_80S.mp3
 #EXTINF:-1 tvg-logo="" group-title="dance,oldies,pop",Joe FM
-http://25593.live.streamtheworld.com:80/JOE.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/JOE.mp3
 #EXTINF:-1 tvg-logo="https://www.ketnet.be//sites/all/themes/ketnet/images/favicons/apple-touch-icon.png" group-title="vrt",Ketnet Hits
 http://icecast-servers.vrtcdn.be/ketnetradio-high.mp3
 #EXTINF:-1 tvg-logo="https://kioskradio.com/images/logo.svg" group-title="dj,dj mixes,dj sets,electro,independent,independent music",Kiosk Radio
@@ -134,7 +134,7 @@ https://mint.ice.infomaniak.ch/mint-mp3-128.mp3
 #EXTINF:-1 tvg-logo="" group-title="classic rock,french,french pop,pop,pop rock,rock",MiNT
 http://audiostream.rtl.be/mint192
 #EXTINF:-1 tvg-logo="https://www.mnm.be//images/ios/touch-icon-iphone.png" group-title="pop,vrt",MNM
-http://22353.live.streamtheworld.com:80/MNM_128.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/MNM_128.mp3
 #EXTINF:-1 tvg-logo="" group-title="pop",MNM 90's & 00's
 http://icecast-servers.vrtcdn.be/mnm_90s00s-high.mp3
 #EXTINF:-1 tvg-logo="https://mnm.be//images/ios/touch-icon-iphone.png" group-title="pop,vrt",MNM big hits
@@ -192,25 +192,25 @@ https://radios.rtbf.be/pure-128.mp3
 #EXTINF:-1 tvg-logo="https://www.static.rtbf.be/rtbf/ananas/images/favicon-192x192.png" group-title="",Pure FM - 128
 http://radios.rtbf.be/pure-128.mp3
 #EXTINF:-1 tvg-logo="http://qmusic.be/favicon.ico" group-title="",Q Music
-http://23543.live.streamtheworld.com:80/QMUSIC.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/QMUSIC.mp3
 #EXTINF:-1 tvg-logo="" group-title="",Q music Foute Radio
-http://20723.live.streamtheworld.com/QFOUTERADIO.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/QFOUTERADIO.mp3
 #EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s308756/images/logog.png" group-title="",Q Music Maximum Hits
-http://20723.live.streamtheworld.com/QMAXIMUMHITS.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/QMAXIMUMHITS.mp3
 #EXTINF:-1 tvg-logo="http://qmusic.be/favicon.ico" group-title="pop",Q-Music
-http://25703.live.streamtheworld.com:80/QMUSIC.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/QMUSIC.mp3
 #EXTINF:-1 tvg-logo="" group-title="",Qmusic
-http://25643.live.streamtheworld.com:80/QMUSICAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/QMUSICAAC.aac
 #EXTINF:-1 tvg-logo="http://is1.mzstatic.com/image/thumb/Purple128/v4/d5/2b/2f/d52b2ffe-cc10-1dec-1cf6-f6811949b5ed/source/512x512bb.jpg" group-title="pop,vrt",Radio 1
-http://22603.live.streamtheworld.com:80/RADIO1_128.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO1_128.mp3
 #EXTINF:-1 tvg-logo="" group-title="pop,vrt",Radio 2 Antwerpen
-http://23553.live.streamtheworld.com:80/RADIO_2_ANTWERP_128.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_2_ANTWERP_128.mp3
 #EXTINF:-1 tvg-logo="https://radio2.be//modules/vrt/radio2/radio2_core/images/manifest/icon-512.png" group-title="",Radio 2 Limburg
-http://25433.live.streamtheworld.com:80/RADIO_2_LIMBURG_128.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_2_LIMBURG_128.mp3
 #EXTINF:-1 tvg-logo="http://be.radioonline.fm/images/Radio-2-Oost-Vlaanderen.png" group-title="pop,vrt",Radio 2 Oost-Vlaanderen
-http://22603.live.streamtheworld.com:80/RADIO_2_OOSTVL_128.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_2_OOSTVL_128.mp3
 #EXTINF:-1 tvg-logo="http://be.radioonline.fm/images/Radio-2-Vlaams-Brabant.png" group-title="pop,vrt",Radio 2 Vlaams-Brabant
-http://23553.live.streamtheworld.com:80/RADIO_2_VLAAMSBR_128.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_2_VLAAMSBR_128.mp3
 #EXTINF:-1 tvg-logo="" group-title="",Radio 700
 http://streamserver.funkhaus.info:8000/radio700-aacplus
 #EXTINF:-1 tvg-logo="http://www.radio700.de/images/general/logo.png" group-title="",Radio 700
@@ -358,7 +358,7 @@ https://stream.radioscorpio.be/stream
 #EXTINF:-1 tvg-logo="http://randstadfm.be/SRVWebsite/images/STADSRADIO%20VLAANDEREN%20LOGO%202.1.png" group-title="oldies",Stadsradio Vlaanderen
 http://randstad.wirelessbelgie.be:8330/stream.mp3
 #EXTINF:-1 tvg-logo="" group-title="alternative",Stubru
-http://22603.live.streamtheworld.com:80/STUDIO_BRUSSEL_AAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/STUDIO_BRUSSEL_AAC.aac
 #EXTINF:-1 tvg-logo="https://stubru.be//images/ios/touch-icon-iphone.png?v=2019" group-title="club,clubbing,dance,house",StuBru the Greatest Switch
 http://icecast-servers.vrtcdn.be/stubru_tgs-high.mp3
 #EXTINF:-1 tvg-logo="" group-title="dance,electronic",Stubru Untz AAC
@@ -366,7 +366,7 @@ http://icecast-servers.vrtcdn.be/stubru_untz.aac
 #EXTINF:-1 tvg-logo="" group-title="dance,electronic",stubru_untz-high.mp3 
 http://icecast-servers.vrtcdn.be/stubru_untz-high.mp3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/VRT_Studio_Brussel_logo.png" group-title="alternative,dance,pop,vrt",Studio Brussel
-http://25503.live.streamtheworld.com:80/STUDIO_BRUSSEL_128.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/STUDIO_BRUSSEL_128.mp3
 #EXTINF:-1 tvg-logo="https://stubru.be//images/ios/touch-icon-iphone.png?v=2019" group-title="",Studio Brussel - De Tijdloze
 http://icecast-servers.vrtcdn.be/stubru_tijdloze-high.mp3
 #EXTINF:-1 tvg-logo="" group-title="",Sud Radio
