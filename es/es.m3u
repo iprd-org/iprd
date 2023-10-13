@@ -442,9 +442,9 @@ http://s02.fjperezdj.com:8056/live
 #EXTINF:-1 tvg-logo="https://recursosweb.prisaradio.com/fotos/original/010002294341.jpg" group-title="adult contemporary,adult hits,electro,electronic,hits,pop,pop music,top 40",Los 40 Catalunya
 http://25603.live.streamtheworld.com:80/LOS40_CAT_SC
 #EXTINF:-1 tvg-logo="https://los40es00.epimg.net/iconos/v3.x/v1.0/cabeceras/logo_40_classic.png" group-title="musica",Los 40 Classic
-https://20723.live.streamtheworld.com/LOS40_CLASSICAAC.aac?
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSICAAC.aac?
 #EXTINF:-1 tvg-logo="" group-title="classical",Los 40 Classic
-https://20723.live.streamtheworld.com/LOS40_CLASSIC_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSIC_SC
 #EXTINF:-1 tvg-logo="https://recursosweb.prisaradio.com/fotos/original/010002753887.png" group-title="dance,dance music,edm,electro,electronic,house",Los 40 Dance
 http://21273.live.streamtheworld.com:80/LOS40_DANCE_SC
 #EXTINF:-1 tvg-logo="https://los40es00.epimg.net/iconos/v1.x/v1.0/touch-apple.png" group-title="music,pop,top 40",LOS 40 Principales España
@@ -1028,9 +1028,9 @@ https://eu1.fastcast4u.com/proxy/webmatix?mp=/1
 #EXTINF:-1 tvg-logo="https://www.santmartisarroca.cat/media/thumbnails/600_auto__2021_imatges_logo_Sarroca_Radio.jpg" group-title="pop,radio municipal,talk",Sarroca Ràdio 107.5 FM
 https://relay.stream.enacast-cloud.com:40268/santmartisarrocaHD.mp3
 #EXTINF:-1 tvg-logo="https://cadenaser00.epimg.net/apple-touch-icon-120x120.png" group-title="info,variado",SER - Alcalá
-https://21263.live.streamtheworld.com/SER_HENARES.mp3?csegid=10000&gdpr=1&gdpr_consent=CPQcg5LPQcg5LAHABBENB3CsAP_AAAAAAAAAIZNf_X__b3_j-_59__t0eY1f9_7_v-0zjhfdt-8N2f_X_L8X_2M7vF36pq4KuR4Eu3LBIQdlHOHcTUmw6okVrzPsbk2cr7NKJ7PEmnMbe2dYGH9_n93T-ZKY7______7__-_______f__-_____5_X-_-_f_V_997Lv9_____9_P___9v__9_wAAAEkoAMAAQQyDQAYAAghkKgAwABBDIpABgACCGQ6ADAAEEMiEAGAAIIZBIAMAAQQyEQAYAAghkMgAwABBDIAA.f_gAAAAAAAAA&dist=cadenaser-web-tod-permanente&tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=e984d96b-36f6-418a-a416-75bab9daa8e1
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_HENARES.mp3?csegid=10000&gdpr=1&gdpr_consent=CPQcg5LPQcg5LAHABBENB3CsAP_AAAAAAAAAIZNf_X__b3_j-_59__t0eY1f9_7_v-0zjhfdt-8N2f_X_L8X_2M7vF36pq4KuR4Eu3LBIQdlHOHcTUmw6okVrzPsbk2cr7NKJ7PEmnMbe2dYGH9_n93T-ZKY7______7__-_______f__-_____5_X-_-_f_V_997Lv9_____9_P___9v__9_wAAAEkoAMAAQQyDQAYAAghkKgAwABBDIpABgACCGQ6ADAAEEMiEAGAAIIZBIAMAAQQyEQAYAAghkMgAwABBDIAA.f_gAAAAAAAAA&dist=cadenaser-web-tod-permanente&tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=e984d96b-36f6-418a-a416-75bab9daa8e1
 #EXTINF:-1 tvg-logo="https://cadenaser00.epimg.net/apple-touch-icon-120x120.png" group-title="info,variada",SER - Segovia
-https://21273.live.streamtheworld.com/SER_ASO_SEGOVIAAAC.aac?csegid=10000&gdpr=1&gdpr_consent=CPQcg5LPQcg5LAHABBENB3CsAP_AAAAAAAAAIZNf_X__b3_j-_59__t0eY1f9_7_v-0zjhfdt-8N2f_X_L8X_2M7vF36pq4KuR4Eu3LBIQdlHOHcTUmw6okVrzPsbk2cr7NKJ7PEmnMbe2dYGH9_n93T-ZKY7______7__-_______f__-_____5_X-_-_f_V_997Lv9_____9_P___9v__9_wAAAEkoAMAAQQyDQAYAAghkKgAwABBDIpABgACCGQ6ADAAEEMiEAGAAIIZBIAMAAQQyEQAYAAghkMgAwABBDIAA.f_gAAAAAAAAA&dist=cadenaser-web-tod-permanente&tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=4617d7f4-5a28-40ef-cb45-f21a65c75198
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_SEGOVIAAAC.aac?csegid=10000&gdpr=1&gdpr_consent=CPQcg5LPQcg5LAHABBENB3CsAP_AAAAAAAAAIZNf_X__b3_j-_59__t0eY1f9_7_v-0zjhfdt-8N2f_X_L8X_2M7vF36pq4KuR4Eu3LBIQdlHOHcTUmw6okVrzPsbk2cr7NKJ7PEmnMbe2dYGH9_n93T-ZKY7______7__-_______f__-_____5_X-_-_f_V_997Lv9_____9_P___9v__9_wAAAEkoAMAAQQyDQAYAAghkKgAwABBDIpABgACCGQ6ADAAEEMiEAGAAIIZBIAMAAQQyEQAYAAghkMgAwABBDIAA.f_gAAAAAAAAA&dist=cadenaser-web-tod-permanente&tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=4617d7f4-5a28-40ef-cb45-f21a65c75198
 #EXTINF:-1 tvg-logo="http://cadenaser00.epimg.net/iconos/v1.x/v1.0/redes/imagenes_og/emisoras_v2/1200x630_imagen_control_radio_castellon.jpg" group-title="news talk,talk",SER Castellón
 http://stream.radiocastellon.com/ser
 #EXTINF:-1 tvg-logo="http://www.radiogandia.net///templates/inicio/favicon.ico" group-title="",Ser Gandia
@@ -1038,7 +1038,7 @@ http://stream.radiogandia.com:8080/ser_high
 #EXTINF:-1 tvg-logo="" group-title="classical",SER Zaragoza
 https://zaragoza-copesedes-rrcast.flumotion.com/copesedes/zaragoza-low.mp3
 #EXTINF:-1 tvg-logo="https://cadenaser00.epimg.net/apple-touch-icon-120x120.png" group-title="information,variada",SER+
-https://21293.live.streamtheworld.com/CADENASERAAC.aac?csegid=10000&gdpr=1&gdpr_consent=CPPTC1xPPTC1xAHABBENBzCsAP_AAAAAAAAAIUNf_X__b3_j-_59__t0eY1f9_7_v-0zjhfdt-8N2f_X_L8X_2M7vF36pq4KuR4Eu3LBIQdlHOHcTUmw6okVrzPsbk2cr7NKJ7PEmnMbe2dYGH9_n93T-ZKY7______7__-_______f__-_____5_X-_-_f_V_997Lv9_____9_N___9v__8AAABJKADAAEEKQ0AGAAIIUioAMAAQQpKQAYAAghSOgAwABBCkhABgACCFISADAAEEKREAGAAIIUjIAMAAQQp.f_gAAAAAAAAA&dist=cser-web-playperm-live_str_play&tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=951d9e29-0baf-4e14-ef5d-9e259bb36688
+https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASERAAC.aac?csegid=10000&gdpr=1&gdpr_consent=CPPTC1xPPTC1xAHABBENBzCsAP_AAAAAAAAAIUNf_X__b3_j-_59__t0eY1f9_7_v-0zjhfdt-8N2f_X_L8X_2M7vF36pq4KuR4Eu3LBIQdlHOHcTUmw6okVrzPsbk2cr7NKJ7PEmnMbe2dYGH9_n93T-ZKY7______7__-_______f__-_____5_X-_-_f_V_997Lv9_____9_N___9v__8AAABJKADAAEEKQ0AGAAIIUioAMAAQQpKQAYAAghSOgAwABBCkhABgACCFISADAAEEKREAGAAIIUjIAMAAQQp.f_gAAAAAAAAA&dist=cser-web-playperm-live_str_play&tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=951d9e29-0baf-4e14-ef5d-9e259bb36688
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/---duJcFkUxE/YIa-_pm1GRI/AAAAAAAAPfQ/APfMrC8dcuMQtDzp77rVia-RvB-eQ365gCLcBGAsYHQ/s200/sociedad.jpg" group-title="information,public,spanish,talk,world",Sociedad Creativa FM 
 https://live.allatra-radio.com/radio/8040/radio.mp3
 #EXTINF:-1 tvg-logo="" group-title="international",SOL ALBAL RADIO by Xopo

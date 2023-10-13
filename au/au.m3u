@@ -28,7 +28,7 @@ http://syd2gbaud-lh.akamaihd.net/i/sydneygbaudio_1@367120/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.2gb.com/wp-content/uploads/sites/2/2017/01/top_logo.png" group-title="",2GB Sydney
 http://21413.live.streamtheworld.com:80/2GB.mp3
 #EXTINF:-1 tvg-logo="" group-title="",2KRR-FM
-https://23203.live.streamtheworld.com/2KRR.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/2KRR.mp3
 #EXTINF:-1 tvg-logo="" group-title="religion,talk",2MFM "Muslim Community Radio" 92.1 FM Sydney, NSW
 http://www.2mfm.org.au:8000/live
 #EXTINF:-1 tvg-logo="https://www.2nurfm.com.au/wp-content/uploads/2021/06/cropped-2nurfm-favicon-512x512-1-180x180.png" group-title="community radio,easy listening,newcastle",2NUR 103.7 FM Newcastle, NSW
@@ -40,7 +40,7 @@ http://144.140.228.109:8220/mp3
 #EXTINF:-1 tvg-logo="https://www.3abnaustralia.org.au/core/wp-content/themes/3ABN%20Australia%202015/library/images/channel-icons/Icon_Radio_Aust@2x.png" group-title="gospel",3ABN Australia Radio
 https://stream.3abnaustralia.org.au:8443/stream
 #EXTINF:-1 tvg-logo="https://www.3aw.com.au/wp-content/uploads/sites/12/2017/03/logo-v2.png" group-title="entertainment,lifestyle,news,talks",3AW
-https://21363.live.streamtheworld.com/3AWAAC.aac?dist=onlineradiobox
+https://playerservices.streamtheworld.com/api/livestream-redirect/3AWAAC.aac?dist=onlineradiobox
 #EXTINF:-1 tvg-logo="https://www.3aw.com.au/wp-content/uploads/sites/12/2017/03/logo-v2.png" group-title="news,sport,talk,talkback",3AW 693 Melbourne
 http://melb3awaud-lh.akamaihd.net/i/melbourneaud_1@109380/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="alternative,community radio,melbourne,progressive",3CR
@@ -66,11 +66,11 @@ http://198.74.51.37:8435/;stream.mp3
 #EXTINF:-1 tvg-logo="https://www.4bc.com.au/wp-content/uploads/sites/10/2017/01/4bc_hires_logo-2.png" group-title="news,sport,talk,talkback",4BC Brisbane
 http://bris4bcaud-lh.akamaihd.net/i/brisbanebcaud_1@110990/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",4BU 1332 AM Classic Hits Bundaberg
-https://15363.live.streamtheworld.com/BUN_4BUAAC_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/BUN_4BUAAC_SC
 #EXTINF:-1 tvg-logo="" group-title="cairns,talk",4CA 846 AM CAIRNS ONLINE
 http://16693.live.streamtheworld.com:80/CAI_4CAAAC.aac
 #EXTINF:-1 tvg-logo="" group-title="",4CA 846 AM Far North QLD Classic Hits
-https://15363.live.streamtheworld.com/CAI_4CAAAC_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/CAI_4CAAAC_SC
 #EXTINF:-1 tvg-logo="" group-title="classic rock,comedy,education,heritage,indigenous current affairs,news",4K1G 107.1FM TATSICM Indigenous Community Radio Townsville
 https://usa4.fastcast4u.com/proxy/4k1g?mp=/stream
 #EXTINF:-1 tvg-logo="https://www.4kq.com.au/wp-content/themes/arn/assets/favicons/favicon_4kq/apple-touch-icon.png" group-title="classic hits",4KQ 693
@@ -94,13 +94,13 @@ https://iheart.4zzz.org.au/4zzz
 #EXTINF:-1 tvg-logo="https://www.fiveaa.com.au/wp-content/themes/theme-fiveaa.com.au/assets/icons/apple-touch-icon.png" group-title="news,talk",5AA
 http://23153.live.streamtheworld.com:80/FIVEAA_AAC48.aac?src=redirect
 #EXTINF:-1 tvg-logo="" group-title="60s,70s,80s,rock",5AU 1242
-https://23023.live.streamtheworld.com/AUG_5AUAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/AUG_5AUAAC.aac
 #EXTINF:-1 tvg-logo="" group-title="blues,classical,community radio,country,jazz,metal",5GTR
 http://203.45.194.8:88/broadwave.mp3
 #EXTINF:-1 tvg-logo="http://www.5mbs.com/wp-content/uploads/2014/05/5MBSv5-e1402277401859.png" group-title="adelaide,classical,community radio",5MBS 99.9 Adelaide, SA
 http://stream01.sigile.net/5mbs-128-mp3
 #EXTINF:-1 tvg-logo="" group-title="6ix,perth",6IX
-https://23203.live.streamtheworld.com/6IX.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/6IX.mp3
 #EXTINF:-1 tvg-logo="https://www.6pr.com.au/wp-content/uploads/sites/13/2017/04/6pr-logo.png" group-title="news,talk,talkback",6PR Perth
 http://per6praud-lh.akamaihd.net/i/perthpraud_1@110913/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",7HO FM Hobart
@@ -356,7 +356,7 @@ https://ais-arn.streamguys1.com/au_007_icy
 #EXTINF:-1 tvg-logo="http://kissfm.com.au/wp-content/uploads/2016/05/kiss-logo-105px.png" group-title="dance,electronica,melbourne",Kiss FM 87.6, 87.8 & 88.0 Melbourne, VIC
 http://cc.net2streams.com:8565/kissfm.mp3
 #EXTINF:-1 tvg-logo="https://www.kooriradio.com/favicon.ico" group-title="aboriginal,first nations,indigenous",Koori Radio 93.7FM
-https://21413.live.streamtheworld.com/2LNDAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/2LNDAAC.aac
 #EXTINF:-1 tvg-logo="" group-title="christian",Life FM
 http://radio1.internode.on.net:8002/21
 #EXTINF:-1 tvg-logo="http://www.massivedance.com/wp-content/uploads/2020/08/Massive-logo-reversed.png" group-title="dance",massive dance radio
@@ -458,9 +458,9 @@ https://ais-arn.streamguys1.com/au_033/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://skylab-radio.com/images/ba174bd0da1efd13ce41afccf5a9e063.png" group-title="ambient,eclectic,experimental,hip-hop,house,rock,techno",Skylab Radio
 http://stream.skylab-radio.com:8000/live
 #EXTINF:-1 tvg-logo="" group-title="decades",Smooth 90's
-https://23153.live.streamtheworld.com/SMOOTH_90S_AAC.aac?dist=neweb&tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=none&sbmid=abef4b80-f919-4890-d5fd-a5499445c36d
+https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH_90S_AAC.aac?dist=neweb&tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=none&sbmid=abef4b80-f919-4890-d5fd-a5499445c36d
 #EXTINF:-1 tvg-logo="https://www.smooth.com.au/wp-content/themes/theme-smooth.com.au/assets/icons/apple-touch-icon.png" group-title="commercial,easy listening",Smooth FM 91.5
-https://23153.live.streamtheworld.com/SMOOTH915_AAC48.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH915_AAC48.aac
 #EXTINF:-1 tvg-logo="https://d2nzqyyfd6k6c7.cloudfront.net/favicon_2.ico" group-title="commercial,easy listening",Smooth FM 95.3
 http://21363.live.streamtheworld.com:80/SMOOTH953_AAC48.aac?src=neweb
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7ggthHW.jpg" group-title="chill,chillout,easy listening,lounge,smooth",smooth Relax
@@ -494,15 +494,15 @@ https://theproganrockmachine.out.airtime.pro/theproganrockmachine_b
 #EXTINF:-1 tvg-logo="http://www.threedradio.com/favicon.ico" group-title="community radio",Three D Radio
 http://sounds.threedradio.com:8000/stream
 #EXTINF:-1 tvg-logo="https://totallyradio.com.au/wp-content/uploads/elementor/thumbs/00s-2020-om8ty0olmk7r7libdlz605skfdudmx39jpxhdrstwg.png" group-title="",Totally Radio 00's (update)
-https://18553.live.streamtheworld.com/T_RAD_00S_S01AAC_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/T_RAD_00S_S01AAC_SC
 #EXTINF:-1 tvg-logo="https://totallyradio.com.au/wp-content/uploads/elementor/thumbs/90s-2020-om8ty4fydwcwi1curnloa4uesxbuhpi6w8jfavn97k.png" group-title="",Totally Radio 90's
-https://18553.live.streamtheworld.com/T_RAD_90S_S01AAC
+https://playerservices.streamtheworld.com/api/livestream-redirect/T_RAD_90S_S01AAC
 #EXTINF:-1 tvg-logo="https://totallyradio.com.au/wp-content/uploads/elementor/thumbs/90s-2020-om8ty4fydwcwi1curnloa4uesxbuhpi6w8jfavn97k.png" group-title="",Totally Radio 90's (update)
-https://18553.live.streamtheworld.com/T_RAD_90S_S01AAC.aac?dist=triton-widget&tdsdk=js-2.9&pname=tdwidgets&pversion=2.9&banners=none&sbmid=c8b3b9f3-1ddf-44ea-944a-75516a135952
+https://playerservices.streamtheworld.com/api/livestream-redirect/T_RAD_90S_S01AAC.aac?dist=triton-widget&tdsdk=js-2.9&pname=tdwidgets&pversion=2.9&banners=none&sbmid=c8b3b9f3-1ddf-44ea-944a-75516a135952
 #EXTINF:-1 tvg-logo="https://totallyradio.com.au/wp-content/uploads/elementor/thumbs/Greatest-Hits-nyk46f2soysmrldxnkzzl8qh2zory0vr1jt3u3nbkw.png" group-title="",Totally Radio Greatest Hits
-https://18533.live.streamtheworld.com/T_RAD_GRTST_HITS_S01AAC
+https://playerservices.streamtheworld.com/api/livestream-redirect/T_RAD_GRTST_HITS_S01AAC
 #EXTINF:-1 tvg-logo="https://totallyradio.com.au/wp-content/uploads/elementor/thumbs/Totally-Radio-Pop-o8w4rtsgsf3203pl6egoik10ulhgip3e8d11irmxcw.png" group-title="",Totally Radio Pop (update)
-https://18553.live.streamtheworld.com/T_RAD_POP_S01AAC
+https://playerservices.streamtheworld.com/api/livestream-redirect/T_RAD_POP_S01AAC
 #EXTINF:-1 tvg-logo="" group-title="community radio",Triple H
 http://isrv-stream-1.vzb.conexim.net:8000/tripleh-32.mp3
 #EXTINF:-1 tvg-logo="http://www.abc.net.au/cm/rimage/8715224-1x1-large.jpg?v=2" group-title="",Triple J

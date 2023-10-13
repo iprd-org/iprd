@@ -150,7 +150,7 @@ http://115.178.48.43:9990/
 #EXTINF:-1 tvg-logo="" group-title="pop",playfm palembang
 http://66.96.237.109:8000/
 #EXTINF:-1 tvg-logo="https://live.pramborsfm.com/asset/images/favicon.ico" group-title="music,world music",PramborsFM
-https://22283.live.streamtheworld.com/PRAMBORS_FM.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/PRAMBORS_FM.mp3
 #EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radioonline-co-id/prestasi-jakarta.png" group-title="media kristen",Prestasi FM Jakarta
 http://u.klikhost.com:7128/stream/;
 #EXTINF:-1 tvg-logo="" group-title="bandung,news channel",PRFM

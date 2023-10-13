@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="" group-title="1980s,80er,80s,80s live radio,eighties,live,live 80s radio,live uk radio,new,pop,public radio,rock,synth,the best decade 80s radio around.,wave",__80s Live__
-https://16963.live.streamtheworld.com/SAM03AAC226_SC?__80sradio__
+https://playerservices.streamtheworld.com/api/livestream-redirect/SAM03AAC226_SC?__80sradio__
 #EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/cjqfbpl6lyyn.png" group-title="1980s,24/7,80er,80s,non-stop music,pop",#1980s Zoom
 http://13683.live.streamtheworld.com/SAM03AAC226_SC
 #EXTINF:-1 tvg-logo="http://10radio.org///favicon.ico" group-title="community radio,somerset,wivelliscombe",10 Radio 105.3 - Wiveliscombe
@@ -38,7 +38,7 @@ https://c30.radioboss.fm:18274/stream
 #EXTINF:-1 tvg-logo="https://dashradio.com/wp-content/themes/dash-2.2.5/favicon.png" group-title="1980s,80s,contemporary hits,dash,dashradio,decades,pop,popular music,synthesizer",80's on Dash
 http://ice55.securenetsystems.net/DASH7
 #EXTINF:-1 tvg-logo="" group-title="1980,1980's,1980s,80,80's,80er,80s,decades,eighties,non stop,oldies",80s Eagle
-https://16963.live.streamtheworld.com/SAM03AAC226_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/SAM03AAC226_SC
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s264062d.png" group-title="80s,soundtracks",80s Soundtracks Radio
 http://uk5.internet-radio.com:8256/;
 #EXTINF:-1 tvg-logo="http://cdn2.editmysite.com/images/site/footer/og-image-placeholder-blank.png" group-title="128 kbps,comedy,mp3",Abacus.fm
@@ -1066,7 +1066,7 @@ https://n01.on.revma.com/6wa52xb1pg0uv?direct=false&rj-token=AAAC-7O8kFp2irR_dBb
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Planet_Rock_Logo.jpg" group-title="bauer radio,classic rock,metal,rock",Planet Rock
 https://stream-mz.planetradio.co.uk/planetrock.aac
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/28e6e6_b67ba122b5e14164bafd662d93d68a34~mv2.png/v1/fill/w_32%2Ch_32%2Clg_1%2Cusm_0.66_1.00_0.01/28e6e6_b67ba122b5e14164bafd662d93d68a34~mv2.png" group-title="podcast",Podcast Radio
-https://22533.live.streamtheworld.com/PODCAST_RADIO.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/PODCAST_RADIO.mp3
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/28e6e6_b67ba122b5e14164bafd662d93d68a34%7emv2.png/v1/fill/w_32%2ch_32%2clg_1%2cusm_0.66_1.00_0.01/28e6e6_b67ba122b5e14164bafd662d93d68a34%7emv2.png" group-title="podcast",Podcast Radio
 https://25703.live.streamtheworld.com:443/PODCAST_RADIO.mp3
 #EXTINF:-1 tvg-logo="https://pointblank.fm/images/logo_large.png" group-title="deep house,house",Point Blank FM 320KB

@@ -102,7 +102,7 @@ http://rtlberlin.streamabc.net/rtlb-rtlberlintop40-mp3-192-6491075?sABC=61p20543
 #EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/dmhub-temp/1046-favicons/favicon-32x32.png" group-title="",104.6 RTL Weihnachtsradio
 http://rtlberlin.streamabc.net/rtlb-rtlxms-mp3-192-7484105?sABC=61p21839%230%23480403531qsn3q883o6q243r435924np%23&amsparams=playerid:;skey:1640110137
 #EXTINF:-1 tvg-logo="" group-title="",1045 The Zone
-https://16943.live.streamtheworld.com/WGFXFMAAC.aac?dist=tg&tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=14ce0932-de7e-405a-cb7a-168a160f276c
+https://playerservices.streamtheworld.com/api/livestream-redirect/WGFXFMAAC.aac?dist=tg&tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=14ce0932-de7e-405a-cb7a-168a160f276c
 #EXTINF:-1 tvg-logo="http://www.1054cascais.com//logo.ico" group-title="alternative,new wave,rock",105.4 Cascais
 http://95.217.75.38:9956/;/stream.mp3
 #EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/dmhub-temp/mstile-144x144.png" group-title="",105'5 Spreeradio 80er Love
@@ -176,7 +176,7 @@ http://146.71.124.10:8280/stream
 #EXTINF:-1 tvg-logo="https://24-7nicheradio.com/favicon.ico" group-title="dance,disco",24-7Disco
 http://146.71.124.10:8190/stream
 #EXTINF:-1 tvg-logo="" group-title="classic hits,easy listening,oldies",2UE 954 AM Sydney, NSW
-https://21413.live.streamtheworld.com/2UEAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/2UEAAC.aac
 #EXTINF:-1 tvg-logo="" group-title="",3 FM
 https://icecast.omroep.nl/3fm-bb-aac
 #EXTINF:-1 tvg-logo="https://3abn.org/img/3abn-ogg.png" group-title="radio cristiana,religious",3ABN Radio Latino
@@ -186,7 +186,7 @@ http://stream.4decadesradio.com:8003/stream
 #EXTINF:-1 tvg-logo="https://www.48fm.com/favicon.ico" group-title="university radio",48FM - Liege
 http://stream.48fm.com:8000/48fm-64
 #EXTINF:-1 tvg-logo="" group-title="classic hits,easy listening,oldies",4BH 882 AM Brisbane, QLD
-https://21423.live.streamtheworld.com/4BHAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/4BHAAC.aac
 #EXTINF:-1 tvg-logo="" group-title="",5280Jazz
 http://ais-edge37-live365-dal02.cdnstream.com/a19912
 #EXTINF:-1 tvg-logo="https://www.festivalinfo.nl/img/upload/2/7/538-logo-380.gif" group-title="",538
@@ -1022,7 +1022,7 @@ http://push.audio.3qsdn.com/radio_trier
 #EXTINF:-1 tvg-logo="https://cjsw.com/wp-content/themes/cjsw/assets/img/icons/apple-touch-icon-120x120.png" group-title="alternative,college,indie,local,punk",CJSW
 https://cjsw.leanstream.co/CJSWFM-MP3?args=web_03
 #EXTINF:-1 tvg-logo="https://www.melisten.sg/api/blob/10711296/ccf360e9edabc86fbe342fd5dee76464/class-95-logoImage.png" group-title="",Class 95
-https://19183.live.streamtheworld.com/CLASS95_PREM.aac?dist=mpl&tdsdk=js-2.9&pname=tdsdk&pversion=2.9&banners=300x250%2c728x90&sbmid=e3496b3f-1f6d-43ff-d5b5-2b23bc4e9b32
+https://playerservices.streamtheworld.com/api/livestream-redirect/CLASS95_PREM.aac?dist=mpl&tdsdk=js-2.9&pname=tdsdk&pversion=2.9&banners=300x250%2c728x90&sbmid=e3496b3f-1f6d-43ff-d5b5-2b23bc4e9b32
 #EXTINF:-1 tvg-logo="" group-title="",class rock florida
 http://us4.internet-radio.com:8258/
 #EXTINF:-1 tvg-logo="" group-title="",Classic
@@ -1866,7 +1866,7 @@ http://centova.rockhost.com:8001/stream
 #EXTINF:-1 tvg-logo="https://i3.radionomy.com/radios/400/cd4bc6d3-939f-4a3f-a073-3c5a239ff967.jpg" group-title="billboard,hip hop,trap",HOT 108 JAMZ
 http://hot108jamz.hot108.com:4040/;%20
 #EXTINF:-1 tvg-logo="https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/1300/2020/01/09132145/wqht-logo.png" group-title="hip-hop,r&b,rap",Hot 97
-https://19303.live.streamtheworld.com/WQHTFMAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/WQHTFMAAC.aac
 #EXTINF:-1 tvg-logo="https://hotdanceradio.com/wp-content/uploads/2018/05/cropped-56fd037d90a76a1883c76e5651451acf-180x180.png" group-title="dance",Hot Dance Radio - Hits with a Beat!
 http://icecast02.hotdanceradio.com/192.mp3
 #EXTINF:-1 tvg-logo="" group-title="progressive rock",House of Prog
@@ -1892,7 +1892,7 @@ http://stream.simulatorradio.com:8002/stream.mp3
 #EXTINF:-1 tvg-logo="http://stream01.ilovemusic.de/iloveradio20.mp3" group-title="",http://stream01.ilovemusic.de/iloveradio20.mp3
 http://stream01.ilovemusic.de/iloveradio20.mp3
 #EXTINF:-1 tvg-logo="" group-title="",https://player.slam.nl/?stream=slam
-https://22723.live.streamtheworld.com/SLAM_MP3_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/SLAM_MP3_SC
 #EXTINF:-1 tvg-logo="" group-title="elite dangerous",Hutton Orbital Radio
 https://hazel.torontocast.com/hutton
 #EXTINF:-1 tvg-logo="http://hyperadio.retroscene.org/favicon.ico" group-title="8 bit,8bit,chiptune,demoscene",Hyperadio
@@ -2258,7 +2258,7 @@ https://audio.mabu-beatz-radio.com:8003/techno
 #EXTINF:-1 tvg-logo="" group-title="family,pop,rock",Maeva
 http://149.202.22.75:8598/live
 #EXTINF:-1 tvg-logo="" group-title="classic hits,easy listening,oldies",Magic 1278 3EE 1278 AM Melbourne, VIC
-https://21413.live.streamtheworld.com/MAGIC1278AAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/MAGIC1278AAC.aac
 #EXTINF:-1 tvg-logo="https://assets.planetradio.co.uk/img/ConfigStraplineImageUrl/30.png?ver=1560233396" group-title="",Magic London
 https://stream-mz.planetradio.co.uk/magicnational.mp3?direct=true
 #EXTINF:-1 tvg-logo="https://assets.planetradio.co.uk/img/ConfigStraplineImageUrl/30.png?ver=1560233396" group-title="",Magic Radio
@@ -4294,7 +4294,7 @@ https://shoutcastwidgets.com/ssl/523/.mp3
 #EXTINF:-1 tvg-logo="" group-title="christian,praise and worship",WCSG
 https://wcsg.sslstream.com/wcsg-fm.mp3
 #EXTINF:-1 tvg-logo="https://vpm.org/themes/custom/vpm/assets/dist/images/vpm-npr-pbs-rgb.svg" group-title="news,npr,public radio,richmond",WCVE 88.9 VPM News
-https://22223.live.streamtheworld.com/WCVEFM.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/WCVEFM.mp3
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s23824/images/logoq.png?t=157478" group-title="50's,60's,70's,oldies",WDIG Radio,1450 AM, Dothan 
 http://janus.cdnstream.com:5423/stream
 #EXTINF:-1 tvg-logo="https://www1.wdr.de/radio/startseite/symbolbilder/dummy-logo108~_v-gseagaleriexl.jpg" group-title="mix",WDR 2 Muensterland
@@ -4392,7 +4392,7 @@ http://listen.livestreamingservice.com/181-yachtrock_128k.mp3
 #EXTINF:-1 tvg-logo="http://www.yastaradio.com/images/stories/Blog/Fabi/logo_c_t_home.png" group-title="alternative,alternative rock,italian rock,rock",Yastaradio
 http://shoutcast.xuniplay.fdnames.com:8000/;
 #EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fstreema.com%2Fradios%2FYes_93.3_FM&psig=AOvVaw2YqJ4cGCEbLYRwYLdAGVAW&ust=1596631941119000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPijhdDLgesCFQAAAAAdAAAAABAD" group-title="",Yes 933
-https://19183.live.streamtheworld.com/YES933_SC?dist=radiosingapore
+https://playerservices.streamtheworld.com/api/livestream-redirect/YES933_SC?dist=radiosingapore
 #EXTINF:-1 tvg-logo="" group-title="",Yes Radio
 http://27.254.65.244:8000/
 #EXTINF:-1 tvg-logo="" group-title="old time radio,otr",Yesterday USA Red

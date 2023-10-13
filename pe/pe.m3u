@@ -118,7 +118,7 @@ https://tupanel.info:9000/stream
 #EXTINF:-1 tvg-logo="" group-title="classical",Oasis
 http://19013.live.streamtheworld.com/CRP_OAS.mp3?dist=20004
 #EXTINF:-1 tvg-logo="https://oigo-public-bucket-production.s3.amazonaws.com/radios/81b8b8b7-330a-45ad-9117-7052424f42e6-logos-radios-v2.png" group-title="alternative rock,indie rock,peruvian rock",Oasis Patrio (Sonorama)
-https://18733.live.streamtheworld.com/CRP_SON_S01_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_SON_S01_SC
 #EXTINF:-1 tvg-logo="https://radioondaazul.com/wp-content/uploads/2019/05/logo_radio_onda_azul.png" group-title="news",Onda Azul
 http://167.114.118.120:7160/;
 #EXTINF:-1 tvg-logo="https://i2.wp.com/ondadigitaltv.com/wp-content/uploads/2019/10/LOGO-ODNOTI.png?w=640" group-title="news radio,noticias y comentarios",Onda Digital Radio
@@ -138,7 +138,7 @@ http://184.154.28.210:7130/stream?icy=http
 #EXTINF:-1 tvg-logo="" group-title="classical",Planeta
 http://19013.live.streamtheworld.com/CRP_PLA.mp3?dist=20004
 #EXTINF:-1 tvg-logo="https://oigo-public-bucket-production.s3.us-east-1.amazonaws.com/radios/d3917135-7552-4b63-9fae-0c7c9cd9c7ff-planeta-40-hot.png" group-title="hot hits,pop music",Planeta Hot 40
-https://23023.live.streamtheworld.com/CRP_PLA_HOT40_S01.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_PLA_HOT40_S01.mp3
 #EXTINF:-1 tvg-logo="https://zeno.fm/static/icons/apple-icon-120x120.png" group-title="bailable,informativa,movida,music",RADIO  KAPRICHOS  FM
 http://stream.zeno.fm/8bagnnetftzuv?rj-ttl=5&rj-tok=AAABfdrR-uEAqxHKBpj99vu-Vg
 #EXTINF:-1 tvg-logo="https://zeno.fm/static/icons/apple-icon-120x120.png" group-title="musica,noticias",RADIO  PLATINUM  102.9  FM
@@ -214,7 +214,7 @@ https://radio.datahost.pe/9660/stream
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-L1KRZr8kvOc/WzrUrRhe56I/AAAAAAAAL9E/eM8t1hv_TdU6xM8H0Olfwmvv_TvtZeABQCLcBGAs/s1600/radio-exitosa.jpg" group-title="deportes,música peruana,noticias",Radio Exitosa 95.5 FM
 http://167.114.118.120:7444/;
 #EXTINF:-1 tvg-logo="https://oigo-public-bucket-production.s3.amazonaws.com/radios/4fc51380-9ab4-4539-a8ff-2a380040096e-Group.png" group-title="holiday music",Radio Festiva
-https://24883.live.streamtheworld.com/CRP_FES_S01.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_FES_S01.mp3
 #EXTINF:-1 tvg-logo="https://zeno.fm/static/icons/apple-icon-120x120.png" group-title="latin  salsa kumbia  merenge  reggaeton,musica",RADIO FESTIVAL FM
 http://stream.zeno.fm/rrymns2d7gruv?rj-ttl=5&rj-tok=AAABfdmmU5IAl57kqBklpdQK1A
 #EXTINF:-1 tvg-logo="http://www.frecuencia100fm.com/imgs/logo.png" group-title="variety",Radio frecuencia 100 - Trujillo
@@ -320,7 +320,7 @@ https://eu47-sonic.instainternet.com/8016/;
 #EXTINF:-1 tvg-logo="https://zeno.fm/static/icons/apple-icon-120x120.png" group-title="80s,90s,adult contemporary,disco",RADIO MIX 103.5
 http://stream.zeno.fm/ug8papw4nbruv?rj-ttl=5&rj-tok=AAABfdppkoMANK5-qsnLtCcufg
 #EXTINF:-1 tvg-logo="https://moda.com.pe/assets/images/logo_modamas.png" group-title="latin salsa,raggaeton,trap,urban music",Radio Moda+
-https://24883.live.streamtheworld.com/CRP_MOD2_S01.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_MOD2_S01.mp3
 #EXTINF:-1 tvg-logo="https://www.radionacional.com.pe/sites/default/files/nacional-fm_1_0.png" group-title="education,national news,state",Radio Nacional de Perú (103.9 FM, Lima)
 https://cdnh4.iblups.com/hls/OisZOgZAOB.m3u8
 #EXTINF:-1 tvg-logo="https://radionova.pe/trujillo/wp-content/uploads/2021/01/cropped-nova_logo-11.png" group-title="local radio,peruvian cumbia",Radio Nova (Trujillo)

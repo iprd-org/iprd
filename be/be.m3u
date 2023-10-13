@@ -162,7 +162,7 @@ http://zengarden-mynoise.radioca.st/stream
 #EXTINF:-1 tvg-logo="" group-title="",Nostalgie
 https://streamingp.shoutcast.com/NostalgiePremium-mp3?gdpr=true&gdpr_consent=BOgFAkAOgFAkAAKAQBENCR-AAAAnB7_______9______9uz_Ov_v_f__33e87_9v_l_7_-___u_-3zd4-_1vf99yfm1-7etr3tp_87ues2_Xur__59__3z3_9phPrsk89r622A&lang=fr-BE&userref=T0rw3ugycCqsY8Ogne6mtWtbEn9Zw41557056982513
 #EXTINF:-1 tvg-logo="https://nl.nostalgie.be/icons/icon-144x144.png?v=c3f24dd18baa559c6c6226c585c1fba8" group-title="nostalgia,nostalgic,nostalgie",Nostalgie - what a feeling!
-https://22673.live.streamtheworld.com/NOSTALGIEWHATAFEELING.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWHATAFEELING.mp3
 #EXTINF:-1 tvg-logo="" group-title="pop",Nostalgie 80's
 https://25493.live.streamtheworld.com:443/NOSTALGIEWAF80.mp3
 #EXTINF:-1 tvg-logo="https://nl.nostalgie.be/radio-player/images/nostalgie-new-wave.jpg" group-title="192kbps,80s,new wave",Nostalgie Extra (New Wave)
@@ -172,7 +172,7 @@ https://22193.live.streamtheworld.com:443/NOSTALGIEWAFEXTRA.mp3
 #EXTINF:-1 tvg-logo="https://nl.nostalgie.be/favicon-32x32.png" group-title="70's,80's,90's,oldies",Nostalgie Vlaanderen
 https://22193.live.streamtheworld.com:443/NOSTALGIEWHATAFEELING.mp3?dist=radiobrowser
 #EXTINF:-1 tvg-logo="https://media.ngroup.be/IMAGE/IMAGE-S1-00009/16625-cover-nostalgie.png" group-title="60's,70's,80's,classic hits",Nostalgie+
-https://22673.live.streamtheworld.com/NOSTALGIEWAF6070.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWAF6070.mp3
 #EXTINF:-1 tvg-logo="" group-title="50s,60s,70s,chansons françaises,oldies",Nostalgie+
 http://streamingp.shoutcast.com/nostaplus-mp3
 #EXTINF:-1 tvg-logo="https://nl.nrj.be/favicon-32x32.png" group-title="hits,top 40",NRJ België
@@ -378,7 +378,7 @@ https://25643.live.streamtheworld.com:443/TOPRETRO.mp3
 #EXTINF:-1 tvg-logo="https://www.topradio.be/favicons/favicon-96x96.png" group-title="",TOPradio Belgium
 https://22603.live.streamtheworld.com:443/TOP_RADIO.mp3
 #EXTINF:-1 tvg-logo="https://www.topradio.be/" group-title="edm",Topradio one world radio
-https://22193.live.streamtheworld.com/OWR_DAB.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_DAB.mp3
 #EXTINF:-1 tvg-logo="https://www.canardfolk.be/favicon.ico" group-title="european music,traditional",TradCan
 https://eu2-centova.serverse.com/proxy/wiupfvnu?mp=/TradCan
 #EXTINF:-1 tvg-logo="" group-title="",Trendy FM

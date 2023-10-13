@@ -316,17 +316,17 @@ http://server-06.stream-server.nl:8800/
 #EXTINF:-1 tvg-logo="https://kink.nl/static/apple-touch-icon.png" group-title="",KINK
 https://25323.live.streamtheworld.com:443/KINK.mp3
 #EXTINF:-1 tvg-logo="https://kink.nl/static/favicon-32x32.png" group-title="alternative,alternative rock,indie,indie pop,indie rock",KINK 128k aac
-https://25293.live.streamtheworld.com/KINKAAC_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/KINKAAC_SC
 #EXTINF:-1 tvg-logo="https://goo.gl/images/7dEtca" group-title="kink,no alternative",Kink 192k mp3
 http://25323.live.streamtheworld.com/KINK_SC
 #EXTINF:-1 tvg-logo="https://kink.nl/static/icon.png" group-title="alternative classics,non-stop",KINK CLASSICS
 http://25253.live.streamtheworld.com:3690/KINK_DNA_SC
 #EXTINF:-1 tvg-logo="https://kink.nl/static/icon.png" group-title="",KINK DISTORTION
-https://22723.live.streamtheworld.com/KINK_DISTORTIONAAC_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/KINK_DISTORTIONAAC_SC
 #EXTINF:-1 tvg-logo="https://kink.nl/static/favicon-32x32.png" group-title="alternative classics,non-stop",KINK DNA
 http://25333.live.streamtheworld.com/KINK_DNAAAC_SC
 #EXTINF:-1 tvg-logo="https://kink.nl/static/favicon-32x32.png" group-title="alternative,indie,indie music,non-stop",KINK Indie 128k aac
-https://22723.live.streamtheworld.com/KINKINDIEAAC_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/KINKINDIEAAC_SC
 #EXTINF:-1 tvg-logo="http://www.kiss-fm.nl/favicon.ico" group-title="dance,house,trance",Kiss FM Netherlands
 http://stream.kiss-fm.nl:9500/
 #EXTINF:-1 tvg-logo="https://klokradio.nl/wp-content/uploads/2018/01/klokradio-logo.png" group-title="lokale omroep",Klokradio
@@ -508,7 +508,7 @@ http://pc192.pinguinradio.com/
 #EXTINF:-1 tvg-logo="https://pinguinradio.com/assets/img/logo/pinguinclassic.svg" group-title="alternative",Pinguin Classics
 http://streams.pinguinradio.com/PinguinClassics192.mp3
 #EXTINF:-1 tvg-logo="" group-title="",Pinguin Fiesta
-https://19293.live.streamtheworld.com/SP_R2292843_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R2292843_SC
 #EXTINF:-1 tvg-logo="https://pinguinradio.com/assets/img/logo/pinguingroove.svg" group-title="",Pinguin Groove
 http://17003.live.streamtheworld.com/SP_R2591867_SC
 #EXTINF:-1 tvg-logo="https://pinguinradio.com/assets/img/logo/pinguinindie.svg" group-title="alternative,indie",Pinguin Indie
@@ -534,7 +534,7 @@ http://19293.live.streamtheworld.com/SP_R2591417_SC
 #EXTINF:-1 tvg-logo="" group-title="church",Pnielkerk Veenendaal 
 http://vps.pniel.nl:7777/;
 #EXTINF:-1 tvg-logo="https://qmusic.nl/favicon.ico" group-title="christmas music,non-stop",Q Christmas
-https://23863.live.streamtheworld.com/QMUSICNL_THEMA.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/QMUSICNL_THEMA.mp3
 #EXTINF:-1 tvg-logo="" group-title="pop",Q MUSIC TOP 1000
 http://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_classics_32.aac
 #EXTINF:-1 tvg-logo="" group-title="hardstyle",Q-dance Radio
@@ -654,7 +654,7 @@ http://94.23.148.11:8547/test
 #EXTINF:-1 tvg-logo="" group-title="comedy",Radio van de Lach
 http://45.155.156.199:8000/live.mp3
 #EXTINF:-1 tvg-logo="https://www.radioveronica.nl/static/media/RadioVeronicaPlayerLogo.4511a841.png" group-title="00's,10's,80's,90's,pop,rock",Radio Veronica
-https://20873.live.streamtheworld.com/VERONICA.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/VERONICA.mp3
 #EXTINF:-1 tvg-logo="" group-title="misc",Radio Zuyd
 http://radiozuyd.shoutcaststream.com:8199/stream
 #EXTINF:-1 tvg-logo="http://www.radio10.nl/icons/apple-icon-120x120.png" group-title="",Radio10

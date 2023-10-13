@@ -44,7 +44,7 @@ http://radiobarriletes.sytes.net:8000/barriletes
 #EXTINF:-1 tvg-logo="https://berlin1079.com/favicon.ico" group-title="pop",berlin 107.9
 http://s8.stweb.tv/berlin/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://bluefm.com.ar/favicon-32x32.png" group-title="classics",Blue FM 100.7
-https://24253.live.streamtheworld.com/BLUE_FM_100_7AAC_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/BLUE_FM_100_7AAC_SC
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/e9/b2/e9b22a236c6baf447a2557cadecd6f31.jpg" group-title="",Cadena 3
 https://c3ny1.mediainbox.net/cadena3.mp3
 #EXTINF:-1 tvg-logo="http://www.cadenaxeneize.com/favicon.ico" group-title="america,argentina,boca,cadena,grande,radio,xeneize",Cadena Xeneize Radio
@@ -70,7 +70,7 @@ http://radios.solumedia.com:6002/stream
 #EXTINF:-1 tvg-logo="" group-title="music,talk",Congo.fm 12/2021
 https://ipanel.instream.audio:7009/stream
 #EXTINF:-1 tvg-logo="" group-title="deportes,noticias",Continental
-https://20283.live.streamtheworld.com/CONTINENTALAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/CONTINENTALAAC.aac
 #EXTINF:-1 tvg-logo="" group-title="",Continental 590 AM. Ciudad de Buenos Aires Details
 https://18733.live.streamtheworld.com:443/CONTINENTALAAC.aac
 #EXTINF:-1 tvg-logo="http://www.continentalcorrientes.com/images/logo.png" group-title="local news",Continental Corrientes 97.3
@@ -218,7 +218,7 @@ https://tus.radios.ar/9270/stream
 #EXTINF:-1 tvg-logo="" group-title="ayacucho,buenos aires,la 95,provincia de buenos aires",La 95 - FM 95.3
 https://sonic.cloudstreaming.eu:10989/;
 #EXTINF:-1 tvg-logo="" group-title="",la 990
-https://20833.live.streamtheworld.com/AM990AAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/AM990AAC.aac
 #EXTINF:-1 tvg-logo="" group-title="latin pop,pop,rosario",La Boing FM 97.3 - Rosario
 http://200.58.106.247:8626/;
 #EXTINF:-1 tvg-logo="" group-title="folcklore,folclore,news,noticias",La Cacharpaya
@@ -236,7 +236,7 @@ http://radio.solumedia.com.ar:8462/stream
 #EXTINF:-1 tvg-logo="" group-title="",La Hit Córdoba
 http://stm23.veemesoft.com.ar:24308/;
 #EXTINF:-1 tvg-logo="https://www.lapopu.com.ar/img/logo-la-popu.png" group-title="cuarteto,music,news",La Popu
-https://18733.live.streamtheworld.com/RADIO_POPULAR.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_POPULAR.mp3
 #EXTINF:-1 tvg-logo="http://lapostapergamino.com.ar/wp-content/uploads/2020/12/anigif-300x181.gif" group-title="argentina,la posta,pergamino,provincia de buenos aires",LA POSTA DE PERGAMINO - FM 101.7 MHZ
 http://streaming01.serverconnectinc.site:8439/stream
 #EXTINF:-1 tvg-logo="https://laradio1047.com.ar/favicon.ico" group-title="julio wajcman,la radio 104.7,resistencia chaco",La Radio 104.7 FM. Resistencia Chaco. Julio Wajcman
@@ -258,7 +258,7 @@ http://190.2.45.2:4994/stream
 #EXTINF:-1 tvg-logo="https://libertaddigital.com.ar/content/favicon/apple-touch-icon-120x120.png" group-title="",Libertad FM 99.1. Resistencia Chaco
 https://01.solumedia.com.ar:8378/stream
 #EXTINF:-1 tvg-logo="" group-title="pop",Los 40
-https://18243.live.streamtheworld.com/LOS40_ARGENTINAAAC.aac?csegid=12000&gdpr=1&gdpr_consent=false&dist=los40-web-live_streaming_play&tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=d05fb423-0a75-470d-d27a-b7840bea4b0b
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_ARGENTINAAAC.aac?csegid=12000&gdpr=1&gdpr_consent=false&dist=los40-web-live_streaming_play&tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=d05fb423-0a75-470d-d27a-b7840bea4b0b
 #EXTINF:-1 tvg-logo="http://funkyimg.com/i/2Dw11.jpg" group-title="hits,latin pop,top 40",Los 40 Principales Argentina
 http://24253.live.streamtheworld.com/LOS40_ARGENTINA_SC
 #EXTINF:-1 tvg-logo="http://www.lowprofileradio.com/wp-content/uploads/2020/08/head-150x150.jpg" group-title="ambient,dance,electronic,folk,metal,soundtrack,techno,world",Low Profile Radio
@@ -450,7 +450,7 @@ http://server3.veemesoft.com.ar:26429/;
 #EXTINF:-1 tvg-logo="" group-title="news,pop,rock",Radio Con Vos 89.9
 https://server1.stweb.tv/rcvos/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Radio Continental 590 AM. Ciudad de Buenos Aires
-https://24253.live.streamtheworld.com/CONTINENTALAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/CONTINENTALAAC.aac
 #EXTINF:-1 tvg-logo="http://radiocooperativa.com.ar/favicon.ico" group-title="noticias",Radio Cooperativa AM 770
 http://rcoop.cnwks.ws:8358/
 #EXTINF:-1 tvg-logo="https://secure.gravatar.com/blavatar/245ef50fb9a6f4621f3f19131f6c959e?s=200&ts=1565456771" group-title="catolica,cristiana",Radio Cristiandad
@@ -504,7 +504,7 @@ https://server.ohradio.com.ar/9344/stream
 #EXTINF:-1 tvg-logo="https://www.lared.am/css-custom/316/favicons/apple-touch-icon.png" group-title="am910,ascenso,deportes,lared,marcaderadio",Radio La Red 910 AM
 https://latamstreaming-live-os.akamaized.net/live_passthrough_static/amlared/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lared.am/css-custom/316/favicons/apple-touch-icon.png" group-title="am910,deportes,doman,lared,novaresio",Radio La Red AM 910
-https://21933.live.streamtheworld.com/LA_RED_AM910AAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/LA_RED_AM910AAC.aac
 #EXTINF:-1 tvg-logo="https://www.lared.am/css-custom/316/favicons/apple-touch-icon.png" group-title="",Radio La Red AM 910. Ciudad de Buenos Aires
 https://23023.live.streamtheworld.com:443/LA_RED_AM910AAC.aac
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-gbdekqpZqsw/T_bZFgzRmwI/AAAAAAAAcjY/Vznt03qNfeE/s1600/La+Red.jpg" group-title="",Radio La red Santa Fe fm 96.7
@@ -586,7 +586,7 @@ http://198.204.234.10:8580/stream
 #EXTINF:-1 tvg-logo="" group-title="",Radio Rivadavia
 https://21933.live.streamtheworld.com:443/RIVADAVIA.mp3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PEhQlKg.png" group-title="am 630,ciudad de buenos aires,radio rivadavia,radio rivadavia am 630",Radio Rivadavia AM 630. Ciudad de Buenos Aires
-https://14103.live.streamtheworld.com/RIVADAVIAAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/RIVADAVIAAAC.aac
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PEhQlKg.png" group-title="",Radio Rivadavia AM 630. Ciudad de Buenos Aires
 https://19803.live.streamtheworld.com:443/RIVADAVIAAAC.aac
 #EXTINF:-1 tvg-logo="http://www.radiosaintgermain.com/imagejpg/rasg.jpg" group-title="cristo,curación,luz,meditación,saint germain,yo soy",Radio Saint Germain
@@ -606,7 +606,7 @@ http://63.247.65.202:9467/stream
 #EXTINF:-1 tvg-logo="http://www.streaminglocucionar.com.ar/portal/images/logos/radiotortuga.png" group-title="alta gracia,argentina,cordoba,radio tortuga",Radio Tortuga - FM 92.9 mhz
 http://63.247.65.202:9989/stream
 #EXTINF:-1 tvg-logo="https://www.radioucasal.com.ar/images/favicon.ico?crc=472475579" group-title="salta,ucasal,universidad catolica de salta",Radio UCASAL
-https://19013.live.streamtheworld.com/SP_R3051188.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=none&sbmid=7f71a5bd-660f-45ea-d1c7-e1f9b3db3470
+https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R3051188.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=none&sbmid=7f71a5bd-660f-45ea-d1c7-e1f9b3db3470
 #EXTINF:-1 tvg-logo="" group-title="la plata,radio universidad,unlp",Radio Universidad
 http://163.10.186.70:8002/stream
 #EXTINF:-1 tvg-logo="https://radio.unr.edu.ar/apple-touch-icon.png" group-title="",Radio UNR
@@ -628,7 +628,7 @@ http://desatec.net:8706/stream
 #EXTINF:-1 tvg-logo="https://www.facebook.com/RETRO-FM-1067-san-jose-entre-rios-652053324807204/?eid=ARBO7S8W50b2006iH4wRplE69UyXLTdypVE0Owg4Gpzx_5CCmGNZXUZRzET-0q4-4WGnLeKvn_ayHMCJ" group-title="",retro fm
 http://server9.veemesoft.com.ar:11996/
 #EXTINF:-1 tvg-logo="https://fmrockandpop.com/images/ryp/logo-oficial136x112.webp" group-title="95.9,donde el rock vive,pop,rock,rock and pop",Rock and Pop - FM 95.9
-https://14623.live.streamtheworld.com/ROCKANDPOPAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/ROCKANDPOPAAC.aac
 #EXTINF:-1 tvg-logo="" group-title="",Rock And Pop FM 95.9 (Rock & Pop) Ciudad de Buenos Aires
 https://18423.live.streamtheworld.com:443/ROCKANDPOPAAC.aac
 #EXTINF:-1 tvg-logo="https://www.radiosanjorge.com.ar/wp-content/uploads/2014/12/logo30anos.jpg" group-title="",San Jorge FM 96.5 (Caleta Olivia)

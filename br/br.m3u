@@ -36,7 +36,7 @@ http://sh.upx.com.br:8120/;
 #EXTINF:-1 tvg-logo="" group-title="hghyt,teste",A Voz da Cura Divina 
 https://player-ssl.kshost.com.br:12802/live
 #EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radiosaovivo-net/alpha-sp.png" group-title="lounge,romantic,smooth",Alpha FM 101.7
-https://14613.live.streamtheworld.com/RADIO_ALPHAFM_ADP.aac?dist=site-alphafm
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ALPHAFM_ADP.aac?dist=site-alphafm
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-fDH80J3-yx0/XCPeRb04HsI/AAAAAAAABtE/XgZvksU_aZEJRhx6wmojBFtzp0XWIxLEgCLcBGAs/s1600/Logo%2BAltaneira%2BFM.png" group-title="ecletica,forró",Altaneira FM
 https://ssl.hdradios.net:15652/;
 #EXTINF:-1 tvg-logo="https://imgproxy.zenomedia.com/insecure/fit/380/380/ce/0/plain/https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQu_q87ggMCxIOU3RhdGlvblByb2ZpbGUYgIDQ4sC1ygoMogEEemVubw/image/%3Fresize=380x380&v=1" group-title="alternative,free,livre",Alternativa Livre
@@ -308,7 +308,7 @@ http://stream.enetbras.com.br:7016/;
 #EXTINF:-1 tvg-logo="http://www.umbertovettori.com/images/layout/logo-novo_1542311908.jpg" group-title="classic jazz,jazz",Jazz Medley Webradio
 http://server01.ouvir.radio.br:8006/stream
 #EXTINF:-1 tvg-logo="https://jb.fm/wp-content/uploads/2019/03/favicon.ico" group-title="",JB FM
-https://24463.live.streamtheworld.com/JBFMAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/JBFMAAC.aac
 #EXTINF:-1 tvg-logo="" group-title="",JB FM
 http://21933.live.streamtheworld.com:3690/JBFMAAC_SC
 #EXTINF:-1 tvg-logo="" group-title="",Jean Majolo Player
@@ -466,7 +466,7 @@ http://stream.zeno.fm/92ptm8uua2zuv.aac?rj-ttl=5&rj-tok=AAABfdrZVnYAsIIFheTnU-Mo
 #EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/robsonbillponte/cartoon/512/Radio-icon.png" group-title="",Portal Web Gospel
 http://centova2.euroti.com.br:8131/tunein/portalw8.pls
 #EXTINF:-1 tvg-logo="https://positividade.fm/wp-content/uploads/2021/09/cropped-icone-2-180x180.png" group-title="",Positividade FM
-https://20833.live.streamtheworld.com/POSITIVIDADE_FM.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/POSITIVIDADE_FM.mp3
 #EXTINF:-1 tvg-logo="https://public-rf-upload.minhawebradio.net/79866/favicon/aca58f7e098bfbe87cea7faccfd3740f.jpeg" group-title="local news",Principe Joinville
 https://servidor35-1.brlogic.com:8036/live
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio170330_1608747125.jpg" group-title="progressive rock",Progressive Earth Radio
