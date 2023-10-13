@@ -29,12 +29,8 @@ http://belrtl.ice.infomaniak.ch/belrtl-mp3-192.mp3
 http://audiostream.rtl.be/belrtl128
 #EXTINF:-1 tvg-logo="http://1.brf.be/wp-content/themes/brf-eins/assets/img/favicons/Icon-60@3x.png" group-title="regional",BRF1
 http://streaming.brf.be/brf1-high.mp3
-#EXTINF:-1 tvg-logo="https://1.brf.be/wp-content/themes/brf-maintheme/assets/img/favicons/favicon-brf1-radio.ico" group-title="",BRF1 Radio
-https://streaming.brf.be/brf1-high.mp3
 #EXTINF:-1 tvg-logo="http://2.brf.be/wp-content/themes/brf-zwei/assets/img/favicons/Icon-60@3x.png" group-title="schlager",BRF2
 http://streaming.brf.be/brf2-high.mp3
-#EXTINF:-1 tvg-logo="https://2.brf.be/wp-content/themes/brf-maintheme/assets/img/favicons/favicon-brf2-radio.ico" group-title="",BRF2 Radio
-https://streaming.brf.be/brf2-high.mp3
 #EXTINF:-1 tvg-logo="https://www.bruce-radio.be/uploads/3/9/6/3/3963899/editor/facebook-artwork-oktober-2021-miljoen.png?1635421307" group-title="",Bruce
 https://powerradio.level27.be/stream
 #EXTINF:-1 tvg-logo="https://www.bruzz.be/themes/custom/drupack/favicons/apple-touch-icon.png" group-title="",Bruzz
@@ -46,11 +42,11 @@ http://streamingp.shoutcast.com/Cherie-mp3
 #EXTINF:-1 tvg-logo="https://crooze.fm/wp-content/uploads/sites/3/2018/12/CHILLOUT-CROOZE-128x128.png" group-title="",Chillout CROOZE
 http://streams.crooze.fm:8006/stream/1/
 #EXTINF:-1 tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/90/24/109473/1/c175.png" group-title="blues,blues rock,classic blues",Classic 21 Blues
-http://radios.rtbf.be/wr-c21-blues-128.mp3
+https://radios.rtbf.be/wr-c21-blues-128.mp3
 #EXTINF:-1 tvg-logo="" group-title="classic blues",Classic 21 Blues
 https://radios.rtbf.be/wr-c21-blues-128.mp3
 #EXTINF:-1 tvg-logo="https://www.static.rtbf.be/rtbf/home/images/ico/favicon-info-32x32.png" group-title="classical",Classic21
-http://radios.rtbf.be/classic21-128.mp3
+https://radios.rtbf.be/classic21-128.mp3
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/e4c753_ea1cba1d326b4681bbe275fe35e1af53.png/v1/fill/w_213,h_60,al_c/e4c753_ea1cba1d326b4681bbe275fe35e1af53.png" group-title="pop",ClubFM
 http://www.clubfmserver.be:8000/clubfm.mp3
 #EXTINF:-1 tvg-logo="" group-title="",ClubFM Oost-Vlaanderen
@@ -401,32 +397,38 @@ http://versuzradio.live-streams.nl/live
 http://fred.torontocast.com:1050/stream
 #EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/VRT_NWS" group-title="news,vrt",VRT NWS
 http://progressive-audio.lwc.vrtcdn.be/content/fixed/11_11niws-snip_lo.mp3
-#EXTINF:-1 tvg-logo="" group-title="",VRT Radio 1
-http://23623.live.streamtheworld.com:80/RADIO1_128.mp3
+#EXTINF:-1 tvg-logo="http://vrt.be/favicon.ico" group-title="",VRT Radio 1
+https://radio.vrtcdn.be/vrt/radio1/live.m3u8?ola=true&contentType=LIVESTREAM&filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+#EXTINF:-1 tvg-logo="http://vrt.be/favicon.ico" group-title="",VRT Radio 1
+http://icecast-servers.vrtcdn.be/radio1-high.mp3
 #EXTINF:-1 tvg-logo="http://vrt.be/favicon.ico" group-title="golden oldies",VRT Radio 1 - Classics
 http://icecast-servers.vrtcdn.be/radio1_classics_high.mp3
 #EXTINF:-1 tvg-logo="https://radio2.be/themes/vrt/radio2/radio2/favicon.ico" group-title="",VRT Radio 2 Antwerpen - AAC
-http://23553.live.streamtheworld.com:80/RADIO_2_ANTWERP_AAC.aac
+https://radio.vrtcdn.be/vrt/radio2-antwerpen/live.m3u8?ola=true&contentType=LIVESTREAM&filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+#EXTINF:-1 tvg-logo="https://radio2.be/themes/vrt/radio2/radio2/favicon.ico" group-title="",VRT Radio 2 Antwerpen - AAC
+http://icecast-servers.vrtcdn.be/ra2ant-high.mp3
 #EXTINF:-1 tvg-logo="https://www.vrt.be/etc.clientlibs/corporate/clientlibs/clientlib-site/resources/images/favicon/apple-touch-icon.png" group-title="",VRT Radio 2 Bene Bene
 http://icecast-servers.vrtcdn.be/radio2_benebene-high.mp3
 #EXTINF:-1 tvg-logo="https://radio2.be/modules/vrt/radio2/radio2_core/images/manifest/icon-144.png" group-title="",VRT Radio 2 Oost-Vlaanderen
-http://22603.live.streamtheworld.com:80/RADIO_2_OOSTVL_AAC.aac
+http://icecast-servers.vrtcdn.be/ra2ovl.aac
 #EXTINF:-1 tvg-logo="https://www.vrt.be/etc.clientlibs/corporate/clientlibs/clientlib-site/resources/images/favicon/apple-touch-icon.png" group-title="",VRT Radio 2 Unwind
 http://icecast-servers.vrtcdn.be/radio2_unwind-high.mp3
 #EXTINF:-1 tvg-logo="https://radio2.be/themes/vrt/radio2/radio2/dist/images/radio2-logo.svg" group-title="",VRT Radio 2 Vlaams-Brabant
-http://23553.live.streamtheworld.com:80/RADIO_2_VLAAMSBR_AAC.aac
+http://icecast-servers.vrtcdn.be/ra2vlb.aac
 #EXTINF:-1 tvg-logo="" group-title="",VRT Radio 2 West-Vlaanderen
-http://23553.live.streamtheworld.com:80/RADIO_2_WESTVL_128.mp3
+http://icecast-servers.vrtcdn.be/ra2wvl.aac
+#EXTINF:-1 tvg-logo="" group-title="",VRT Radio 2 Limburg
+http://icecast-servers.vrtcdn.be/ra2lim.aac
 #EXTINF:-1 tvg-logo="" group-title="rock",VRT Studio Brussel - Bruut
 http://icecast-servers.vrtcdn.be/stubru_bruut-high.mp3
 #EXTINF:-1 tvg-logo="https://i3.radionomy.com/radios/400/0990ed5f-6121-4af2-be84-9827b8c1c4a4.png" group-title="electronic",Warm FM 104.2
 http://stream05.warm.fm:9002/warm
 #EXTINF:-1 tvg-logo="https://i.ibb.co/khs8V7M/willyfavicon.png" group-title="",Willy
-https://25533.live.streamtheworld.com:443/WILLY.mp3
+https://icecast-qmusicbe-cdp.triple-it.nl/willy.aac
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/ba7116_bd0a146638b84dc289c26934a5e610d9.jpg/v1/fill/w_32%2Ch_32%2Clg_1%2Cusm_0.66_1.00_0.01/ba7116_bd0a146638b84dc289c26934a5e610d9.jpg" group-title="00s,80s,90s,alternative,depeche mode belgium,dm,electronic,new wave,pop,rock",www.depechemode.be Radio
 http://eu2.radioboss.fm:8124/stream
 #EXTINF:-1 tvg-logo="" group-title="",ZenFm
-https://23613.live.streamtheworld.com:443/TOPZEN.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/TOPZEN.mp3
 #EXTINF:-1 tvg-logo="" group-title="golden oldies,goldies,oldies",Zoe FM
 http://streams.movemedia.eu:8000/zoefmmp3
 #EXTINF:-1 tvg-logo="" group-title="golden oldies,goldies,oldies",Zoe FM
