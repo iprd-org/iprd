@@ -23,6 +23,7 @@ body:
       label: Spoken language (required)
       description: Language spoken (ISO 639-2/B). If the radio station is multilingual, please write 'multilang', following of the main languages. If you're unsure, please look at [Wikipedia](https://en.wikipedia.org/wiki/List_of_ISO_639-2_codes)
       placeholder: 'eng | multilang (eng, spa, por)'
+    validations:
       required: true
 
   - type: input
