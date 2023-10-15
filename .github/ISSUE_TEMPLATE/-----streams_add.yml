@@ -1,0 +1,66 @@
+name: Add radio link
+description: Request to add a new radio into the playlists
+title: 'Add: '
+labels: ['streams:add']
+
+body:
+  - type: input
+    attributes:
+      label: Radio name (required)
+      description: Romanised name of the radio station (or call sign for US/Canada). If you do not remember the call sign, you may look on [RadioReference.com](https://www.radioreference.com/db/browse/)
+      placeholder: 'BBC Radio 1'
+    validations:
+      required: true
+
+  - type: input
+    attributes:
+      label: Alternative/original name
+      description: Original name of the radio station (in its original alphabet/language) or alternative name. For example, BBC Radio 1 is also known as Radio 1.
+      placeholder: 'Radio 1'
+
+  - type: input
+    attributes:
+      label: Spoken language (required)
+      description: Language spoken (ISO 639-2/B). If the radio station is multilingual, please write 'multilang', following of the main languages. If you're unsure, please look at [Wikipedia](https://en.wikipedia.org/wiki/List_of_ISO_639-2_codes)
+      placeholder: 'eng | multilang (eng, spa, por)'
+      required: true
+
+  - type: input
+    attributes:
+      label: Genre
+      description: Radio format (3 maximum). If you're unsure, please look at [Wikipedia](https://en.wikipedia.org/wiki/List_of_radio_formats)
+      placeholder: 'contemporary pop, rock, news'
+    validations:
+      required: true
+
+  - type: input
+    attributes:
+      label: Stream URL (required)
+      description: Link to the stream (aac, m3u8 or mp3)
+      placeholder: 'https://example.com/playlist.m3u8 | https://example.com/stream.aac [Recommended] | https://example.com/stream.mp3'
+    validations:
+      required: true
+
+  - type: dropdown
+    attributes:
+      label: Specific clause
+      description: Is there any reason why the broadcast may not work?
+      options:
+        - 'Not 24/7'
+        - 'Geo-blocked'
+
+  - type: input
+    attributes:
+      label: HTTP User Agent
+      placeholder: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246'
+
+  - type: input
+    attributes:
+      label: HTTP Referrer
+      placeholder: 'https://example.com/'
+
+  - type: textarea
+    attributes:
+      label: Notes
+      description: 'Anything else we should know about this radio? (optional)'
+      placeholder: '630 AM radio station from New York City, New York, United States'
