@@ -1,6 +1,8 @@
 name: DMCA Request
 description: Request to remove content
+title: 'DMCA Request: '
 labels: ['streams:dmca']
+
 body:
   - type: input
     attributes:
