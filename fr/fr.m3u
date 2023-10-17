@@ -439,17 +439,17 @@ http://manager2.streaming-ingenierie.fr:8058/;
 http://heberg.radioludo.com:8007/stream
 #EXTINF:-1 tvg-logo="http://www.h2oradio.fr/favicon.ico" group-title="annecy,haute-savoie,lac d'annecy,montagne",H2O
 http://vps443190.ovh.net:8000/h2oradio.mp3
-#EXTINF:-1 tvg-logo="http://www.helenefm.com/wordpress/wp-content/uploads/2013/11/favicon.jpg" group-title="",Hélène FM
+#EXTINF:-1 tvg-logo="http://www.helenefm.com/wordpress/wp-content/uploads/2013/11/favicon.jpg" group-title="country,pop",Hélène FM
 http://helenefm.ice.infomaniak.ch/helenefm-high.mp3
-#EXTINF:-1 tvg-logo="" group-title="ambient,deep house,downtempo,electronica,here4ears,indie,new wave,nu-disco,pascal dumont,skyline,synthpop",here4ears
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/79/f6/79f6336b32fea8b878453c3a9716f956.jpg" group-title="ambient,deep house,downtempo,electronica,here4ears,indie,new wave,nu-disco,pascal dumont,skyline,synthpop",here4ears
 http://82.64.164.43:8000/stream
-#EXTINF:-1 tvg-logo="https://images.lesindesradios.fr/radios/hitwest/images/tmp/logo.png" group-title="",Hit West
+#EXTINF:-1 tvg-logo="https://images.lesindesradios.fr/radios/hitwest/images/tmp/logo.png" group-title="pop,rnb,blues",Hit West
 http://hitwest.ice.infomaniak.ch/hitwest-high.mp3
-#EXTINF:-1 tvg-logo="https://images.lesindesradios.fr/radios/hitwest/images/tmp/logo.png" group-title="",Hit West Festivals
+#EXTINF:-1 tvg-logo="https://images.lesindesradios.fr/radios/hitwest/images/tmp/logo.png" group-title="indie,musique urbaine",Hit West Festivals
 http://hitwest-festival.ice.infomaniak.ch/hitwest-festival-128.mp3
-#EXTINF:-1 tvg-logo="" group-title="",Hit West Noël
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/ef/03/16420/3/c300.png" group-title="christmas,noel,traditional",Hit West Noël
 http://hitwestsaison.ice.infomaniak.ch/hitwestsaison-128.mp3
-#EXTINF:-1 tvg-logo="" group-title="",hitfm reunion 974
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s166346g.png" group-title="DOM-TOM,hit-parade",Hit FM Reunion 974
 http://hitfm.ice.infomaniak.ch/hitfm-192.mp3
 #EXTINF:-1 tvg-logo="https://www.hits1radio.com/wp-content/uploads/2019/03/1024.png" group-title="contemporary hits,dance,electro,electronic,hits,pop,top40",Hits 1
 https://radio12.pro-fhi.net/live/Hits%201%20radio
@@ -457,35 +457,35 @@ https://radio12.pro-fhi.net/live/Hits%201%20radio
 http://188.165.215.158:9057/stream?
 #EXTINF:-1 tvg-logo="https://www.hits1radio.com/wp-content/uploads/2019/03/H1L-300x300.png" group-title="latina,latino,musica latina,pop latino,reggaeton",Hits 1 latina
 https://radio10.pro-fhi.net/live/Hits1latina
-#EXTINF:-1 tvg-logo="http://www.horizon-fm.fr/wp-content/uploads/2015/03/favicon.gif" group-title="",HORIZON
+#EXTINF:-1 tvg-logo="http://www.horizon-fm.fr/wp-content/uploads/2015/03/favicon.gif" group-title="hauts-de-france,pop",Horizon
 http://horizonlaradiolibre.ice.infomaniak.ch/horizonlaradiolibre-128
-#EXTINF:-1 tvg-logo="http://horizonradio.fr/favicon.ico" group-title="",Horizon
+#EXTINF:-1 tvg-logo="http://horizonradio.fr/favicon.ico" group-title="hauts-de-france,pop",Horizon
 http://horizonradio-bethunelens.ice.infomaniak.ch/horizonradio-bethunelens-128
-#EXTINF:-1 tvg-logo="" group-title="",Hot radio Chambéry
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/s6hgsjgka2z5.png" group-title="electro,pop",Hot Radio Chambéry
 http://st8.hotradio.fr/32
 #EXTINF:-1 tvg-logo="https://static.hotmixradio.fr/wp-content/themes/remix/img/loading.gif" group-title="",Hot Rock
 http://streamingads.hotmixradio.fm:8000/hotmixradio-rock-64.mp3
-#EXTINF:-1 tvg-logo="" group-title="dance,dj sets,electronic,paris",Hotel Radio Paris
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1425079404519170051/Jc9r5PhF_400x400.jpg" group-title="dance,dj sets,electronic,paris",Hotel Radio Paris
 http://91.121.162.224:9111/stream2/;
-#EXTINF:-1 tvg-logo="http://www.radio-ihaveadream.com/favicon.ico" group-title="general,reggae,world music",I have a dream
+#EXTINF:-1 tvg-logo="http://www.radio-ihaveadream.com/favicon.ico" group-title="general,reggae,world music",I Have A Dream
 http://live.radio-ihaveadream.com/?type=http&nocache=392/;stream/1
-#EXTINF:-1 tvg-logo="" group-title="",Ici & Maintenant !
+#EXTINF:-1 tvg-logo="http://www.icietmaintenant.com/favicon.ico" group-title="ambient,chillout",Radio Ici & Maintenant !
 http://radio.rim952.fr:8002/stream3.mp3
-#EXTINF:-1 tvg-logo="http://www.icietmaintenant.com/favicon.ico" group-title="",Ici & Maintenant !
+#EXTINF:-1 tvg-logo="http://www.icietmaintenant.com/favicon.ico" group-title="ambient,chillout",Radio Ici & Maintenant !
 http://radio.rim952.fr:8001/stream.ogg
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e3/RIM.jpg" group-title="",Ici et Maintenant
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e3/RIM.jpg" group-title="ambient,chillout",Radio Ici et Maintenant !
 http://radio.rim952.fr:8000/stream.mp3
-#EXTINF:-1 tvg-logo="" group-title="",idFM
+#EXTINF:-1 tvg-logo="https://idfm98.fr/wp-content/uploads/2022/07/logo-idfm-violet-300x300.png" group-title="community radio,talk",idFM
 http://live.idfm98.fr:8000/idfm
-#EXTINF:-1 tvg-logo="http://www.impactfm.fr/wp-content/uploads/2014/07/favicon.png" group-title="",Impact FM
+#EXTINF:-1 tvg-logo="http://www.impactfm.fr/wp-content/uploads/2014/07/favicon.png" group-title="chanson francaise,oldies",Impact FM
 http://impactfm.ice.infomaniak.ch/impactfm-128.mp3
 #EXTINF:-1 tvg-logo="https://www.inforc.fr/images/Logos/LOGO_INFO_RC_FOND_BLANC.jpg" group-title="ardeche,france,radio associative",InfoRC
 http://live.francra.org:8000/InfoRC
-#EXTINF:-1 tvg-logo="http://inutileradio.com/wp-content/uploads/2019/03/cropped-InutileradiO_invert-192x192.png" group-title="",Inutile Radio
+#EXTINF:-1 tvg-logo="http://inutileradio.com/wp-content/uploads/2019/03/cropped-InutileradiO_invert-192x192.png" group-title="rap,electro",Inutile Radio
 http://51.254.203.56:8000/mp3_320
-#EXTINF:-1 tvg-logo="https://www.irulegikoirratia.com/images/logoa.png" group-title="orokorra",irulegiko irratia
+#EXTINF:-1 tvg-logo="https://www.irulegikoirratia.com/images/logoa.png" group-title="orokorra,basque,hits",Irulegiko Irratia
 https://hosting2.studioradiomedia.com:8007/stream
-#EXTINF:-1 tvg-logo="http://isabellefm.com/isafm.ico" group-title="",Isabelle FM
+#EXTINF:-1 tvg-logo="http://isabellefm.com/isafm.ico" group-title="nouvelle-aquitaine,pop",Isabelle FM
 http://80.13.146.243:8000/
 #EXTINF:-1 tvg-logo="" group-title="",Jade FM
 http://80.82.229.202/radiochrono.mp3
