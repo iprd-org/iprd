@@ -1,37 +1,37 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.francemusique.fr/favicon.ico" group-title="classical,jazz,music,public radio,radio france",France Musique
+#EXTINF:-1 tvg-logo="https://www.francemusique.fr/favicon.ico" group-title="classical,jazz",France Musique
 http://icecast.radiofrance.fr/francemusique-hifi.aac?ID=radiofrance
-#EXTINF:-1 tvg-logo="" group-title="classical,jazz,music,public radio,radio france",France Musique
+#EXTINF:-1 tvg-logo="https://www.francemusique.fr/favicon.ico" group-title="classical,jazz",France Musique
 http://icecast.radiofrance.fr/francemusique-midfi.mp3
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/22/France_Musique_-_2008.svg/1024px-France_Musique_-_2008.svg.png" group-title="aac,musique,public radio,radio france",France Musique
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/22/France_Musique_-_2008.svg/1024px-France_Musique_-_2008.svg.png" group-title="classical,jazz",France Musique
 http://icecast.radiofrance.fr/francemusique-hifi.aac
-#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2017/06/8ac537e2-bfab-4483-9d0d-3dc7309379bc/200x200_fmwebradiosnormaleasy.jpg" group-title="classic,classical",France Musique | Classique Easy
+#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2017/06/8ac537e2-bfab-4483-9d0d-3dc7309379bc/200x200_fmwebradiosnormaleasy.jpg" group-title="baroque,classical",France Musique Classique Easy
 http://icecast.radiofrance.fr/francemusiqueeasyclassique-midfi.mp3
-#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2017/06/d1d4a0e0-282f-434a-879d-9075905e12f9/200x200_fmwebradiosnormalplus.jpg" group-title="classic,classical",France Musique | Classique Plus
+#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2017/06/d1d4a0e0-282f-434a-879d-9075905e12f9/200x200_fmwebradiosnormalplus.jpg" group-title="baroque,classical",France Musique Classique Plus
 http://icecast.radiofrance.fr/francemusiqueclassiqueplus-midfi.mp3
-#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2017/06/205d847e-5b3e-4087-a9ca-68b76f077364/200x200_fmwebradiosnormalconcerts.jpg" group-title="classic,classical",France Musique | Concerts Radio France
+#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2017/06/205d847e-5b3e-4087-a9ca-68b76f077364/200x200_fmwebradiosnormalconcerts.jpg" group-title="live,classical",France Musique Concerts Radio France
 http://icecast.radiofrance.fr/francemusiqueconcertsradiofrance-midfi.mp3
-#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2017/06/d135f74f-6c96-4b6f-90ac-2d3b6ca96b53/200x200_fmwebradiosnormalcontemp.jpg" group-title="contemporary",France Musique | La Contemporaine
+#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2017/06/d135f74f-6c96-4b6f-90ac-2d3b6ca96b53/200x200_fmwebradiosnormalcontemp.jpg" group-title="contemporary,classique",France Musique La Contemporaine
 http://icecast.radiofrance.fr/francemusiquelacontemporaine-midfi.mp3
-#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2017/06/09ee5fb8-7a84-48ec-97fa-daea307d9415/200x200_fmwebradiosnormaljazz.jpg" group-title="jazz",France Musique | La Jazz
+#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2017/06/09ee5fb8-7a84-48ec-97fa-daea307d9415/200x200_fmwebradiosnormaljazz.jpg" group-title="jazz,paris",France Musique La Jazz
 http://icecast.radiofrance.fr/francemusiquelajazz-midfi.mp3
-#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2017/06/0ef8bf23-4089-4faf-907c-6b6be7c5b2df/200x200_fmwebradiosnormalocora.jpg" group-title="world music",France Musique | Ocora - Musiques du monde
+#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2017/06/0ef8bf23-4089-4faf-907c-6b6be7c5b2df/200x200_fmwebradiosnormalocora.jpg" group-title="world music,muisque du monde",France Musique Ocora Musiques du Monde
 http://icecast.radiofrance.fr/francemusiqueocoramonde-midfi.mp3
-#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2017/06/8ac537e2-bfab-4483-9d0d-3dc7309379bc/200x200_fmwebradiosnormaleasy.jpg" group-title="aac,classical,public radio,radio france",France Musique Classique Easy
+#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2017/06/8ac537e2-bfab-4483-9d0d-3dc7309379bc/200x200_fmwebradiosnormaleasy.jpg" group-title="baroque,classical",France Musique Classique Easy
 http://icecast.radiofrance.fr/francemusiqueeasyclassique-hifi.aac
-#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2017/06/d1d4a0e0-282f-434a-879d-9075905e12f9/200x200_fmwebradiosnormalplus.jpg" group-title="aac,long pieces of classical music,public radio,radio france",France Musique Classique Plus
+#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2017/06/d1d4a0e0-282f-434a-879d-9075905e12f9/200x200_fmwebradiosnormalplus.jpg" group-title="classical,baroque",France Musique Classique Plus
 http://icecast.radiofrance.fr/francemusiqueclassiqueplus-hifi.aac
-#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2017/06/205d847e-5b3e-4087-a9ca-68b76f077364/200x200_fmwebradiosnormalconcerts.jpg" group-title="aac,public radio,radio france,radio france concerts",France Musique Concerts Radio France
+#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2017/06/205d847e-5b3e-4087-a9ca-68b76f077364/200x200_fmwebradiosnormalconcerts.jpg" group-title="concerts,classical",France Musique Concerts Radio France
 http://icecast.radiofrance.fr/francemusiqueconcertsradiofrance-hifi.aac
-#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2017/06/d2ac7a26-843d-4f0c-a497-8ddf6f3b2f0f/200x200_fmwebbotout.jpg" group-title="aac,movie soundtracks,public radio,radio france",France Musique La B.O.
+#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2017/06/d2ac7a26-843d-4f0c-a497-8ddf6f3b2f0f/200x200_fmwebbotout.jpg" group-title="soundtracks,ambient",France Musique La B.O.
 http://icecast.radiofrance.fr/francemusiquelabo-hifi.aac
-#EXTINF:-1 tvg-logo="http://db.radioline.fr/pictures/radio_25d365241d650b0e9f3a920428d18a59/logo200.jpg" group-title="aac,classical,public radio,radio france",France Musique La Baroque
+#EXTINF:-1 tvg-logo="http://db.radioline.fr/pictures/radio_25d365241d650b0e9f3a920428d18a59/logo200.jpg" group-title="classical,baroque",France Musique La Baroque
 http://icecast.radiofrance.fr/francemusiquebaroque-hifi.aac
-#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2017/06/d135f74f-6c96-4b6f-90ac-2d3b6ca96b53/200x200_fmwebradiosnormalcontemp.jpg" group-title="aac,contemporary music,public radio,radio france",France Musique La Contemporaine
+#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2017/06/d135f74f-6c96-4b6f-90ac-2d3b6ca96b53/200x200_fmwebradiosnormalcontemp.jpg" group-title="contemporary,classical",France Musique La Contemporaine
 http://icecast.radiofrance.fr/francemusiquelacontemporaine-hifi.aac
-#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2017/06/09ee5fb8-7a84-48ec-97fa-daea307d9415/200x200_fmwebradiosnormaljazz.jpg" group-title="aac,jazz,public radio,radio france",France Musique La Jazz
+#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2017/06/09ee5fb8-7a84-48ec-97fa-daea307d9415/200x200_fmwebradiosnormaljazz.jpg" group-title="jazz,blues",France Musique La Jazz
 http://icecast.radiofrance.fr/francemusiquelajazz-hifi.aac
-#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2017/06/0ef8bf23-4089-4faf-907c-6b6be7c5b2df/200x200_fmwebradiosnormalocora.jpg" group-title="aac,public radio,radio france,webradio,world music",France Musique OCORA
+#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2017/06/0ef8bf23-4089-4faf-907c-6b6be7c5b2df/200x200_fmwebradiosnormalocora.jpg" group-title="webradio,world music",France Musique Ocora
 http://icecast.radiofrance.fr/francemusiqueocoramonde-hifi.aac
-#EXTINF:-1 tvg-logo="https://www.radiofrance.com/sites/default/files/press_releases/3873.jpg" group-title="opera,public radio,radio france",France Musique Opéra
+#EXTINF:-1 tvg-logo="https://www.radiofrance.com/sites/default/files/press_releases/3873.jpg" group-title="opera,classical",France Musique Opéra
 https://icecast.radiofrance.fr/francemusiqueopera-hifi.aac
