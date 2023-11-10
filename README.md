@@ -3,20 +3,14 @@ Listen to your favorite radios in one single place.
 
 # How radios are listed
 
-- If only one iteration of the radio exists
-  - country -> country.m3u
-- If multiple iterations of the radio exists
-  - country -> country_radio.m3u
+- If only one iteration of the radio exists (ex: local radio), they'll be available in country.m3u
+- If multiple iterations of the radio exists (ex: conglomerate or radio group), they'll be available in country_group.m3u
 
 # How to contribute
 
-Contributions are always welcome, but please respect these criterias :
+Contributions are always welcome.
 
-- Give a mp3 format of the radio stream, to give the end user a feedback of what's being played (ex. see example below).
+To do so, please create an issue containing the radio you would like to add. 
+Carefully read the required points as they'll help us target the appropriate playlist for your stream.
 
-![image](https://user-images.githubusercontent.com/30985701/146650981-726dafb8-6938-46ef-af9e-407616cade7c.png)
-
-If you cannot, just specify it and add the AAC version.
-
-- A logo to your radio stream would be appreciated.
-- Type of radio this is (News, General, Music...)
+The higher the radio quality is, the better the sound experience will be (lossless > compressed).
