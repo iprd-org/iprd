@@ -1,57 +1,37 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="",
-The Oasis
-Modern Easy Listening
-
-The Oasis - Modern Easy Listening
-http://cheetah.streemlion.com:1320/stream
-#EXTINF:-1 tvg-logo="" group-title="classical", KLUX 89.5HD - Good Company
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/KLUX_logo.png" group-title="catholic,easy listening",KLUX 89.5 HD
 http://204.141.167.20:12340/stream
-#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/emisora-org-es/1oldies.png" group-title="70s,80s,90s,disco,musica romantica,oldies,pop,rock",__1 oldies
-https://80sexitos.stream.laut.fm/80sexitos
-#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/emisora-org-es/1oldies.png" group-title="",__1oldies
-https://80sexitos.stream.laut.fm/80sexitos?t302=2021-12-20_23-05-56&uuid=45670c5a-2b5a-4340-af8f-d7a84c228098
-#EXTINF:-1 tvg-logo="" group-title="70s,80s,90s,disco,pop,rock,romantic",__80 HITS
-http://80sexitos.stream.laut.fm/80sexitos?t302=2021-12-21_03-41-06&uuid=95790d2b-edb4-4526-b169-c3b2c8ef1511
-#EXTINF:-1 tvg-logo="https://i3.radionomy.com/radios/300/a08b31ff-a6d8-498f-bbee-0b64a7096fcb.png" group-title="70s,80s,90s,disco,romantic",__80s HITS
-http://80sexitos.stream.laut.fm/80sexitos?t302=2021-12-21_01-59-21&uuid=14e0238f-1762-4b90-9117-f9b1124d91e0
-#EXTINF:-1 tvg-logo="https://www.funkycorner.it/FCR300.png" group-title="70s,70s disco,80s,black,black music,disco,funk,funky,motown,music,musica,oldies,p-funk,philadelphia,r&b,r'n'b,rare groove,rnb,soul,the sound of philadelphia",_Funky Corner Radio (USA)
-https://ais-sa2.cdnstream1.com/2447_192.mp3
-#EXTINF:-1 tvg-logo="https://www.radioenergy.to/favicon.ico" group-title="2000s,70s,80s,90s,adult contemporary,adult hits,classic hits,classic italian pop,classic pop,evergreen,evergreens,hits,italian,italian pop,oldies,pop,top 40,top100,top40",_Radio Energy(USA)
-https://gmusto.radioca.st/mp3
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/43eebf_40dc5b2e930f4ce7a8ea33ef2617e899%7emv2_d_1740_1399_s_2.png/v1/fill/w_32%2ch_32%2clg_1%2cusm_0.66_1.00_0.01/43eebf_40dc5b2e930f4ce7a8ea33ef2617e899%7emv2_d_1740_1399_s_2.png" group-title="",.100 Hip Hop and RNB FM
+#EXTINF:-1 tvg-logo="https://100hiphopandrnb.fm/wp-content/uploads/sites/62/logo-lftm-400px.png" group-title="hip hop,R'n'B,soul,urban",100 Hip Hop and RNB.FM
 http://hemnos.cdnstream.com/1914_192
-#EXTINF:-1 tvg-logo="https://ibb.co/Sy1pc25" group-title="hip hop,r&b,soul,urban",.100 Hip hop and RNB FM
+#EXTINF:-1 tvg-logo="https://ibb.co/Sy1pc25" group-title="hip hop,R'n'B,soul,urban",100 Hip Hop and RNB.FM
 https://ice64.securenetsystems.net/LFTM
-#EXTINF:-1 tvg-logo="" group-title="80s",.977 80s
+#EXTINF:-1 tvg-logo="https://mytunein.com/images/logos/97780shitsmusicradio.jpg" group-title="80s,florida",C97.7 80's Hits
 https://playerservices.streamtheworld.com/api/livestream-redirect/977_80_SC
-#EXTINF:-1 tvg-logo="" group-title="90s",.977 90s
+#EXTINF:-1 tvg-logo="https://mytunein.com/images/logos/97780shitsmusicradio.jpg" group-title="90s,florida",C97.7 90's Hits
 https://playerservices.streamtheworld.com/api/livestream-redirect/977_90_SC
-#EXTINF:-1 tvg-logo="" group-title="comedy",.977 Comedy
+#EXTINF:-1 tvg-logo="https://mytunein.com/images/logos/97780shitsmusicradio.jpg" group-title="comedy,florida",C97.7 Comedy
 https://playerservices.streamtheworld.com/api/livestream-redirect/977_COMEDY_SC
-#EXTINF:-1 tvg-logo="" group-title="country",.977 Country
+#EXTINF:-1 tvg-logo="https://mytunein.com/images/logos/97780shitsmusicradio.jpg" group-title="country,florida",C97.7 Country
 https://playerservices.streamtheworld.com/api/livestream-redirect/977_COUNTRY_SC
-#EXTINF:-1 tvg-logo="" group-title="hits,top 40",.977 Hitz
+#EXTINF:-1 tvg-logo="https://mytunein.com/images/logos/97780shitsmusicradio.jpg" group-title="hits,top 40",C97.7 Hitz
 https://playerservices.streamtheworld.com/api/livestream-redirect/977_HITS_SC
-#EXTINF:-1 tvg-logo="" group-title="hiphop,rnb,soul",.977 Jamz
+#EXTINF:-1 tvg-logo="https://mytunein.com/images/logos/97780shitsmusicradio.jpg" group-title="hip hop,rnb,soul",C97.7 Jamz
 https://playerservices.streamtheworld.com/api/livestream-redirect/977_JAMZ_SC
-#EXTINF:-1 tvg-logo="" group-title="oldies",.977 Oldies
+#EXTINF:-1 tvg-logo="https://mytunein.com/images/logos/97780shitsmusicradio.jpg" group-title="oldies,florida",C97.7 Oldies
 https://playerservices.streamtheworld.com/api/livestream-redirect/977_OLDIES_SC
-#EXTINF:-1 tvg-logo="" group-title="jazz,smooth jazz",.977 Smooth Jazz
+#EXTINF:-1 tvg-logo="https://mytunein.com/images/logos/97780shitsmusicradio.jpg" group-title="jazz,smooth jazz",C97.7 Smooth Jazz
 https://playerservices.streamtheworld.com/api/livestream-redirect/977_SMOOJAZZ_SC
-#EXTINF:-1 tvg-logo="" group-title="80s,90s,hits,today",.977 The Mix
+#EXTINF:-1 tvg-logo="https://mytunein.com/images/logos/97780shitsmusicradio.jpg" group-title="80s,90s,hits,today",C97.7 The Mix
 https://playerservices.streamtheworld.com/api/livestream-redirect/977_MIX_SC
-#EXTINF:-1 tvg-logo="https://i3.radionomy.com/radios/300/a08b31ff-a6d8-498f-bbee-0b64a7096fcb.png" group-title="00s,60s,70s,80s,90s,adult contemporary,classic hits,dance,disco,house,oldies,pop,rock,top 100,top 40",#80s HITS
-http://streaming.radionomy.com/JamendoLounge
-#EXTINF:-1 tvg-logo="https://dbs.radioline.fr/pictures/radio_1de34350694e2edf28f2840a98748585/logo200.jpg" group-title="1980's,1980s,24 horas,24/7,8,80,80's,80er,80s,80s radio,all 80s,business news,decades,eighties,international news,interviews,just 80s,live,live 80s radio,music news,news,non-stop,non-stop music,retro,sports news,vintage",#HiFi 80s
+#EXTINF:-1 tvg-logo="https://dbs.radioline.fr/pictures/radio_1de34350694e2edf28f2840a98748585/logo200.jpg" group-title="24/7,80,80's,80s,business,news,eighties,international,interviews,live,non-stop,retro,sports,vintage",#HiFi80s
 https://playerservices.streamtheworld.com/api/livestream-redirect/SAM03AAC226_SC?hifi80slive
-#EXTINF:-1 tvg-logo="https://011fm.com/wp-content/uploads/2017/08/web-header.png" group-title="ambient,christmas music,classical,holiday,internetradiodotcom,orchestral,seashellradio,thimbleradio",011.FM - Holiday Instrumental
+#EXTINF:-1 tvg-logo="https://011fm.com/wp-content/uploads/2017/08/web-header.png" group-title="ambient,christmas,classical,orchestral",011.FM Holiday Instrumental
 http://listen.011fm.com/stream33
-#EXTINF:-1 tvg-logo="http://static.radio.de/images/broadcasts/f1/8b/109503/1/t175.png" group-title="20s,30s,40s,50s,60s",011.FM - Non Stop 60's
+#EXTINF:-1 tvg-logo="http://static.radio.de/images/broadcasts/f1/8b/109503/1/t175.png" group-title="60s,60's,oldies,hits",011.FM Non Stop 60's
 http://listen.011fm.com:8004/stream03
-#EXTINF:-1 tvg-logo="" group-title="60's",1.FM
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/RIod9LeWFfJSSsXL34IofjiAX94T2gfbHuI1GaZ--rN5LP3RnFCRvmmuNyq9an7zdyQ" group-title="60's,rock",1.FM
 http://sc8.1.fm:7030/
-#EXTINF:-1 tvg-logo="" group-title="chill,chillout,lounge",100 Chill radio
+#EXTINF:-1 tvg-logo="" group-title="chill,chillout,lounge",100 Chill Radio
 https://radio1.streamserver.link/radio/8110/100chill-aac
 #EXTINF:-1 tvg-logo="https://100xr.com/favicon.ico" group-title="classic rock,hard rock,metal",100 XR - The Net's #1 Rock Station!
 http://listen.100xr.com/aac
