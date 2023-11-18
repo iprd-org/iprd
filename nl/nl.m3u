@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="rock",  ICE RADIO
+#EXTINF:-1 tvg-logo="http://www.a1radio.nl/wp-content/uploads/2016/11/A-1NL.png" group-title="pop,rock,variety",A-1 Radio NL
+http://185.80.220.12:8500/stream
+#EXTINF:-1 tvg-logo="" group-title="rock",Ice Radio
 https://stream.iceradio.nl/iceradiohq?ver=30283
 #EXTINF:-1 tvg-logo="" group-title="pop",1.fm movie Sound
 http://185.33.21.112/moviesoundtracks_128
