@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://dreamfm.org/wp-content/uploads/2019/09/cropped-big-D-2-32x32.png" group-title="reggae,latin",Dream 102.9 FM
+http://cdn.voscast.com/resources/?key=8db736edbd338204f5e81908aa843113&c=wmp
+#EXTINF:-1 tvg-logo="http://dmpulse.com/favicon.ico" group-title="alternative,commercial-free,indie,online",DM Pulse
+https://playerservices.streamtheworld.com/api/livestream-redirect/SAM01AAC23_SC
+#EXTINF:-1 tvg-logo="https://t.waziper.com/uploads/avatar/13150.jpg" group-title="top 40,pop",ddbradio
+https://www.ae-radiostation.com/stream/1
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/ssjnps8wxuez.png" group-title="classic rock,rock",Classic Rock 109
 https://jenny.torontocast.com:2000/stream/ClassicRock109
 #EXTINF:-1 tvg-logo="https://www.beats-radio.com/assets/img/beats-radio-logo.png" group-title="electronic,electro",beats radio
