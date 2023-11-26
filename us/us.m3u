@@ -2415,7 +2415,7 @@ http://206.217.213.236:8490/
 http://pureplay.cdnstream1.com/6041_128.mp3
 #EXTINF:-1 tvg-logo="https://gotradio.com/wp-content/themes/roots-master/assets/img/logo.png" group-title="80s,pop,rock",GotRadio Rockin' 80's
 http://pureplay.cdnstream1.com/6008_128.mp3
-#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/KXGR.jpg" group-title="christian,contemporary",GRACE KXGR
+#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/KXGR.jpg" group-title="christian,contemporary",Grace KXGR
 https://ice23.securenetsystems.net/KXGRFM
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s242105q.png" group-title="christian,religious",Gran Carpa Cathedral Swahili
 http://s10.voscast.com:9030/;
@@ -2443,193 +2443,187 @@ https://n11b-e2.revma.ihrhls.com/zc3964?rj-ttl=5&rj-tok=AAABfdq7xzgAXj3pxe-4IaY6
 https://n30b-e2.revma.ihrhls.com/zc7001/hls.m3u8?streamid=7001&rj-tok=AAABfd4NXAsA8hI9iWO6FgMvKg&rj-ttl=5
 #EXTINF:-1 tvg-logo="https://dashradio.com/wp-content/themes/dash-2.2.5/favicon.png" group-title="contemporary,disco,dance,party,hits,pop,teen pop",Happy Fun Time Rainbow Radio
 http://ice55.securenetsystems.net/DASH41
-#EXTINF:-1 tvg-logo="https://imageprocessor.digital.vistaprint.com/crop/0,0,246x246/maxWidth/1000/https://www.vistaprint.com/preview/image.aspx?image_type=upload&image_token=1192327275-6e02000200-89314e&png=1" group-title="christian",Harbingers Of Truth Radio
+#EXTINF:-1 tvg-logo="https://imageprocessor.digital.vistaprint.com/crop/0,0,246x246/maxWidth/1000/https://www.vistaprint.com/preview/image.aspx?image_type=upload&image_token=1192327275-6e02000200-89314e&png=1" group-title="christian,religious",Harbingers of Truth Radio
 https://usa12.fastcast4u.com/proxy/harbinger?mp=/1
 #EXTINF:-1 tvg-logo="http://static.radio.es/images/broadcasts/15/f6/32621/c175.png" group-title="80s,glam metal,hair metal,hard rock,heavy metal,overland park",Hard Rock Heaven
 http://hydra.cdnstream.com/1521_128
-#EXTINF:-1 tvg-logo="http://www.hardradio.com/favicon.ico" group-title="metal,rock",HardRadio [AAC+]
+#EXTINF:-1 tvg-logo="http://www.hardradio.com/favicon.ico" group-title="metal,rock",HardRadio
 http://3634.cloudrad.io/stream/3//hardradio4.aac
-#EXTINF:-1 tvg-logo="http://www.hardradio.com/favicon.ico" group-title="metal,rock",HardRadio [MP3]
+#EXTINF:-1 tvg-logo="http://www.hardradio.com/favicon.ico" group-title="metal,rock",HardRadio
 http://144.217.29.205/
-#EXTINF:-1 tvg-logo="http://hardrockin80s.com/templates/photobox/favicon.ico" group-title="rock",Hardrockin80s
+#EXTINF:-1 tvg-logo="http://hardrockin80s.com/templates/photobox/favicon.ico" group-title="rock,metal",Hardrockin80s
 http://stream-licensing.com:8018/;.mp3
-#EXTINF:-1 tvg-logo="http://mediad.publicbroadcasting.net/p/khpr/files/201702/hpr_logo_final_hor-fixed.png" group-title="blues,jazz,news,npr,public radio,talk,world music",Hawaii Public Radio HPR-1 (KHPR)
+#EXTINF:-1 tvg-logo="http://mediad.publicbroadcasting.net/p/khpr/files/201702/hpr_logo_final_hor-fixed.png" group-title="blues,jazz,news,npr,public radio,talk,world",Hawaii Public Radio HPR-1 KHPR
 http://khpr-ice.streamguys1.com/khpr2
-#EXTINF:-1 tvg-logo="http://mediad.publicbroadcasting.net/p/khpr/files/201702/hpr_logo_final_hor-fixed.png" group-title="classical,npr,public radio",Hawaii Public Radio HPR-2 (KIPO)
+#EXTINF:-1 tvg-logo="http://mediad.publicbroadcasting.net/p/khpr/files/201702/hpr_logo_final_hor-fixed.png" group-title="classical,npr,public radio",Hawaii Public Radio HPR-2 KIPO
 http://khpr-ice.streamguys1.com/kipo2
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/573d5cfe2eeb81a86915bfa7/1533553232633-NS51N8IPD41FVWTL4LBW/HML_logo_horizontal.png?content-type=image%2Fpng" group-title="hawaii,hawaiian,hawaiian music,hawaiian pop,world music",Hawaiian Music Live
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/573d5cfe2eeb81a86915bfa7/1533553232633-NS51N8IPD41FVWTL4LBW/HML_logo_horizontal.png?content-type=image%2Fpng" group-title="hawaii,hawaiian,pop,world",Hawaiian Music Live
 http://s6.voscast.com:10108/
-#EXTINF:-1 tvg-logo="" group-title="classic hits",Hawaiian Pacific Radio
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s203648/images/logod.png?t=638104142290000000" group-title="classic rock,hits",Hawaiian Pacific Radio
 http://192.111.140.11:8018/stream
-#EXTINF:-1 tvg-logo="https://www.hawaiianrainbow.com/wp-content/uploads/2016/12/ukepostcardThumb.jpg" group-title="folklore,hawaiian music",Hawaiian Rainbow
+#EXTINF:-1 tvg-logo="https://www.hawaiianrainbow.com/wp-content/uploads/2016/12/ukepostcardThumb.jpg" group-title="folklore,hawaiian",Hawaiian Rainbow
 http://178.159.3.22:8307/
-#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/2793.png" group-title="country",Hawk Country 106.9
+#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/2793.png" group-title="country,new country",Hawk Country 106.9 KIHK
 https://ice24.securenetsystems.net/KIHK
-#EXTINF:-1 tvg-logo="" group-title="rock",HD radio - Blues
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/ully34x66ugy.png" group-title="rock,blues,soul",HD Radio Blues
 http://167.114.64.181:8389/
-#EXTINF:-1 tvg-logo="http://hd-radio.net/favicon.ico" group-title="classic rock",hd radio - classic rock
+#EXTINF:-1 tvg-logo="http://hd-radio.net/favicon.ico" group-title="classic rock,rock",HD Radio Classic Rock
 http://rosetta.shoutca.st:8352/stream
-#EXTINF:-1 tvg-logo="http://www.hd-radio.net/favicon.ico" group-title="jazz",HD Radio - Jazz
+#EXTINF:-1 tvg-logo="http://www.hd-radio.net/favicon.ico" group-title="jazz,blues",HD Radio Jazz
 http://myradio.doscast.com:8290/
 #EXTINF:-1 tvg-logo="http://peteredwards.com/wp-content/uploads/2015/09/favicon-32x32.png" group-title="ambient,cinematic,easy listening,new age",Healing Music Radio
 http://us3.internet-radio.com:8169/live
-#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/KRMP.png" group-title="urban contemporary",Heart & Soul 92.1 & 1140
+#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/KRMP.png" group-title="urban contemporary",Heart & Soul 92.1/1140 KRMP
 https://crystalout.surfernetwork.com:8001/KRMP_MP3
-#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/WGZO-LP.png" group-title="gospel",Heartbeat 98.7
+#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/WGZO-LP.png" group-title="gospel,christian",Heartbeat 98.7 WGZO-LP
 http://unoredradio.com:9646/;
-#EXTINF:-1 tvg-logo="http://www.heartbeatofflagler.com/images/hbravitar_013.gif" group-title="00s,90s,heartbeat radio",Heartbeat Radio
+#EXTINF:-1 tvg-logo="http://www.heartbeatofflagler.com/images/hbravitar_013.gif" group-title="00s,90s,heartbeat",Heartbeat Radio
 http://s1.nexuscast.com:8139/;
-#EXTINF:-1 tvg-logo="http://www.hpr.org/icon-hires.png" group-title="country",Heartland Public Radio: HRP2: Today's Classic Country
+#EXTINF:-1 tvg-logo="http://www.hpr.org/icon-hires.png" group-title="country,new country",Heartland Public Radio HRP2
 http://87.98.130.255:8401/stream
-#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/WXOK.jpg" group-title="gospel",Heaven 1460
+#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/WXOK.jpg" group-title="gospel,christian",Heaven 1460 WXOK
 https://17653.live.streamtheworld.com:443/WXOKAMAAC.aac
-#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/WCAO.png" group-title="gospel",Heaven 600
+#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/WCAO.png" group-title="gospel,christian",Heaven 600 WCAO
 https://n1eb-e2.revma.ihrhls.com/zc1069?rj-ttl=5&rj-tok=AAABfdrTggEADqvShaRmHzxOfg
-#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/KFBN.png" group-title="gospel",Heaven 88.7
+#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/KFBN.png" group-title="gospel,christian",Heaven 88.7 KFBN
 https://ice7.securenetsystems.net/KFBN887
-#EXTINF:-1 tvg-logo="" group-title="news",hellasfm
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/tKmTLCHJJM21kWM0Or_zH0kCicbo_4hE1yla28QXCME_cRaXpEZXhVDKIz215yTh3nop" group-title="news,talk",Hellas FM
 https://s3.radio.co/s07f995997/listen?fbclid=IwAR2p6kx0zeO6XuUrVuToayTLCerPzYx13jvdmjceZtpYQyVTzWkD22USbSY
-#EXTINF:-1 tvg-logo="https://wavefarm.org/images/wf-logo-lg.png" group-title="wavefarm",Here Goes Radiotelescope
+#EXTINF:-1 tvg-logo="https://wavefarm.org/images/wf-logo-lg.png" group-title="wavefarm,weather",Here GOES Radiotelescope
 http://audio.wavefarm.org:8000/heregoes.mp3
-#EXTINF:-1 tvg-logo="https://hebrewnationonline.com/wp-content/uploads/2017/03/cropped-hno-icon-192x192.png" group-title="",HEWBREW NATION KPJC
+#EXTINF:-1 tvg-logo="https://hebrewnationonline.com/wp-content/uploads/2017/03/cropped-hno-icon-192x192.png" group-title="talk,religion",Hebrew Nation KPJC
 http://67.227.183.17:9998/;
-#EXTINF:-1 tvg-logo="http://hexx9.com/favicon.ico" group-title="ambient,darkwave,ebm,film,gothic,witch house,witchhouse",HEXX 9 Radio
+#EXTINF:-1 tvg-logo="http://hexx9.com/favicon.ico" group-title="ambient,darkwave,ebm,film,gothic,witch,house",HEXX 9 Radio
 http://46.105.124.120:8604/stream
-#EXTINF:-1 tvg-logo="http://mediad.publicbroadcasting.net/p/hppr/files/styles/medium/public/201607/hppr_logo.jpg" group-title="classical,folk,npr,public radio",High Plains Public Radio - 91.1 KANZ
+#EXTINF:-1 tvg-logo="http://mediad.publicbroadcasting.net/p/hppr/files/styles/medium/public/201607/hppr_logo.jpg" group-title="classical,folk,npr,public radio",High Plains Public Radio 91.1 KANZ
 https://playerservices.streamtheworld.com/api/livestream-redirect/KANZFM_HPPR_SC
-#EXTINF:-1 tvg-logo="http://mediad.publicbroadcasting.net/p/hppr/files/styles/medium/public/201607/hppr_logo.jpg" group-title="npr,public radio",High Plains Public Radio - 94.9 Connect (KANZ)
+#EXTINF:-1 tvg-logo="http://mediad.publicbroadcasting.net/p/hppr/files/styles/medium/public/201607/hppr_logo.jpg" group-title="npr,public radio",High Plains Public Radio 94.9 KANZ
 https://playerservices.streamtheworld.com/api/livestream-redirect/KANZFM_HPPR2_SC
 #EXTINF:-1 tvg-logo="https://www.hisradio.com/sites/hisradio/images/logos/hisradio-favicon.ico" group-title="christian,contemporary,music,radio",His Radio
 https://rtn.cdnstream1.com/2566_96.aac
-#EXTINF:-1 tvg-logo="http://www.invubu.com/radio/radio_images/logos/hisrz/hisrz-logo200.png" group-title="christian,gospel,religion,religious",His Rádio Z
+#EXTINF:-1 tvg-logo="http://www.invubu.com/radio/radio_images/logos/hisrz/hisrz-logo200.png" group-title="christian,gospel,religion,religious",His Radio Z
 https://rtn.cdnstream1.com/2567_96.aac
-#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/WHQC2.png" group-title="pop,top 40",HITS 96.1
+#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/WHQC2.png" group-title="pop,top 40",HITS 96.1 WHQC
 https://n2eb-e2.revma.ihrhls.com/zc1601?rj-ttl=5&rj-tok=AAABfd4j3hEAv5Ltnabb8rCSmA
-#EXTINF:-1 tvg-logo="https://www.hitsradio.com/img/default/hitsradio.png" group-title="1970s,70s,classic rock,rock",hitsradio 70s rock
+#EXTINF:-1 tvg-logo="https://www.hitsradio.com/img/default/hitsradio.png" group-title="1970s,70s,classic rock,rock",HitsRadio 70s Rock
 https://playerservices.streamtheworld.com/api/livestream-redirect/977_CLASSROCK.mp3
-#EXTINF:-1 tvg-logo="https://www.hitsradio.com/img/default/hitsradio.png" group-title="1980s,80s,classic hits,classic rock,classics,pop classic",hitsradio 80s hits
+#EXTINF:-1 tvg-logo="https://www.hitsradio.com/img/default/hitsradio.png" group-title="1980s,80s,classic hits,classic rock,classics,pop classic",HitsRadio 80s Hits
 https://playerservices.streamtheworld.com/api/livestream-redirect/977_80.mp3
-#EXTINF:-1 tvg-logo="https://www.hitsradio.com/img/default/hitsradio.png" group-title="90er,90s,pop,rock",hitsradio 90s hits
+#EXTINF:-1 tvg-logo="https://www.hitsradio.com/img/default/hitsradio.png" group-title="90er,90s,pop,rock",HitsRadio 90s Hits
 https://playerservices.streamtheworld.com/api/livestream-redirect/977_90.mp3
-#EXTINF:-1 tvg-logo="http://hitsradio.com/img/default/hitsradio.png" group-title="oldies 50's/60's",HitsRadio 977 - 50s, 60s Hits
+#EXTINF:-1 tvg-logo="http://hitsradio.com/img/default/hitsradio.png" group-title="oldies 50's/60's",HitsRadio 50s, 60s Hits
 https://playerservices.streamtheworld.com/api/livestream-redirect/977_OLDIES_SC
-#EXTINF:-1 tvg-logo="https://www.hitsradio.com/img/default/hitsradio.png" group-title="country",hitsradio country
+#EXTINF:-1 tvg-logo="https://www.hitsradio.com/img/default/hitsradio.png" group-title="country,new country",HitsRadio Country
 https://playerservices.streamtheworld.com/api/livestream-redirect/977_COUNTRY.mp3
-#EXTINF:-1 tvg-logo="https://www.hitsradio.com/img/default/hitsradio.png" group-title="hip-hop,hiphop,rnb,slow jamz",hitsradio hiphop rnb
+#EXTINF:-1 tvg-logo="https://www.hitsradio.com/img/default/hitsradio.png" group-title="hip hop,hiphop,rnb,slow jamz",HitsRadio Hip Hop R'n'B
 https://playerservices.streamtheworld.com/api/livestream-redirect/977_JAMZ.mp3
-#EXTINF:-1 tvg-logo="https://www.hitsradio.com/img/default/hitsradio.png" group-title="chill,chillout,jazz,smooth jazz",hitsradio smooth jazz
+#EXTINF:-1 tvg-logo="https://www.hitsradio.com/img/default/hitsradio.png" group-title="chill,chillout,jazz,smooth jazz",HitsRadio Smooth Jazz
 https://playerservices.streamtheworld.com/api/livestream-redirect/977_SMOOJAZZ.mp3
-#EXTINF:-1 tvg-logo="https://www.hitsradio.com/img/default/hitsradio.png" group-title="hits,hot hits,top 100,top 40",hitsradio today's hits
+#EXTINF:-1 tvg-logo="https://www.hitsradio.com/img/default/hitsradio.png" group-title="hits,hot hits,top 100,top 40",HitsRadio Today's Hits
 https://playerservices.streamtheworld.com/api/livestream-redirect/977_HITS.mp3
-#EXTINF:-1 tvg-logo="" group-title="",HKC Radio
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1408209853022195713/7fLt2v0C_400x400.jpg" group-title="indie,variety",HKC Radio
 https://listen.hkcradio.com/hkc.mp3
-#EXTINF:-1 tvg-logo="http://www.hogstory.net/wp-content/uploads/2019/02/cropped-8206_TheIlluminati-270x270.png" group-title="carblanez33,fletcher,hogstory,inthesmoker,its",Hog Story
+#EXTINF:-1 tvg-logo="http://www.hogstory.net/wp-content/uploads/2019/02/cropped-8206_TheIlluminati-270x270.png" group-title="carblanez33,fletcher,hogstory,inthesmoker",Hog Story
 http://stream.hogstory.net:8000/stream
-#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/WCPH.jpg" group-title="oldies",Homegrown Radio 1220
+#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/WCPH.jpg" group-title="oldies,hits",Homegrown Radio 1220 WCPH
 http://wcph.dyndns.biz:8000/;
 #EXTINF:-1 tvg-logo="http://horror-theatre.com.s3-website-us-east-1.amazonaws.com/i/honkytonk.png" group-title="50s country,bop,rockabilly",Honkeytonk Hootenanny
 http://server10.reliastream.com:8069/
-#EXTINF:-1 tvg-logo="" group-title="50s,country,swing,western",Honkytonk Hootenanny - Old School Country Style!
+#EXTINF:-1 tvg-logo="https://www.allradio.net/500/_VHZC4MV0Ieh92zO-qS5A.webp" group-title="50s,country,swing,western",Honkytonk Hootenanny Old School Country Style!
 http://199.195.194.140:8069/
-#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/KZFS.png" group-title="hip hop",Hooptown 101.5
+#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/KZFS.png" group-title="hip hop,soul",Hooptown 101.5 KZFS
 https://n4bb-e2.revma.ihrhls.com/zc8556?rj-ttl=5&rj-tok=AAABfd5Pr0MAADkfwp6PDtuOow
-#EXTINF:-1 tvg-logo="https://hope1032.com.au/wp-content/themes/hope/images/favicon.png" group-title="christian",Hope 103.2 (AAC+)
-http://stream.hopemedia.com.au/hope
-#EXTINF:-1 tvg-logo="https://hope1032.com.au/wp-content/themes/hope/images/favicon.png" group-title="christian",Hope 103.2 (MP3)
-http://stream.hopemedia.com.au/hope-mp3
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s290806q.png" group-title="",Horn Driven Radio
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s290806q.png" group-title="rock,soul",Horn Driven Radio
 http://ais-edge08-live365-dal02.cdnstream.com/a62479
 #EXTINF:-1 tvg-logo="http://static.radio.net/images/broadcasts/2d/5c/7996/c175.png" group-title="horror stories,low bandwidth,old time radio,radio drama",Horror Theatre Internet Radio
 http://162.244.80.118:3066/;
-#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/WHTY.jpg" group-title="urban contemporary",HOT 100 Columbus
+#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/WHTY.jpg" group-title="urban contemporary,hits",HOT 100 Columbus WHTY
 https://n3bb-e2.revma.ihrhls.com/zc781?rj-ttl=5&rj-tok=AAABfdr0DnUA47BYiJR8mgXwVQ
-#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/KHTH.jpg" group-title="pop,top 40",Hot 101.7
+#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/KHTH.jpg" group-title="pop,top 40",Hot 101.7 KHTH
 https://prod-34-82-15-139.wostreaming.net/sonoma-khthfmaac-ibc3?session-id=277c8c047c6b74df0f45ac8b59a3e613
-#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/KPRS.jpg" group-title="urban contemporary",Hot 103 Jamz
+#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/KPRS.jpg" group-title="urban contemporary,hits",Hot 103 Jamz KPRS
 https://23113.live.streamtheworld.com:443/KPRSFMAAC.aac
-#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/WHXT-FM.png" group-title="urban contemporary",Hot 103.9
+#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/WHXT-FM.png" group-title="urban contemporary,hits",Hot 103.9 WHXT
 https://prod-34-145-28-222.wostreaming.net/alphacorporate-whxtfmaac-ibc4?session-id=aaed08587f02410800c00fd4a18c8cf9
-#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/KHXT.jpg" group-title="adult contemporary",HOT 107-9
+#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/KHXT.jpg" group-title="adult contemporary,hits",HOT 107-9 KHXT
 https://prod-34-127-69-233.wostreaming.net/townsquare-khxtfmaac-ibc3?
-#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/hot1071.png" group-title="hip hop",Hot 107.1
+#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/hot1071.png" group-title="hip hop,soul",Hot 107.1 KXHT
 https://stream1.flinn.com:8443/1071FM.aac
-#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/WGPR Hot 107.5.jpg" group-title="hip hop",Hot 107.5
+#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/WGPR Hot 107.5.jpg" group-title="hip hop,soul",Hot 107.5 WGPR
 https://22113.live.streamtheworld.com:443/WGPRFMAAC.aac
-#EXTINF:-1 tvg-logo="" group-title="rap hiphop rnb",Hot 108 JAMZ
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/pcae6lY1ucKZCsf9erDmCgIXaH40k4UAm8ocaVij71VoIYCa2EzylHON0qsWgYBqjA" group-title="rap,hip hop,R'n'B",Hot 108 JAMZ
 http://sc.hot108.com:4000/
-#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/HOT 93.5 Old School.png" group-title="hip hop",HOT 93.5 Old School
+#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/HOT 93.5 Old School.png" group-title="hip hop,soul",HOT 93.5 Old School
 https://n02b-e2.revma.ihrhls.com/zc6841?rj-ttl=5&rj-tok=AAABfd4j0kAAOh1wRaKwrTvl7A
-#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/KOLZ.jpg" group-title="",Hot 95.1
+#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/KOLZ.jpg" group-title="top 40,hits",Hot 95.1 KOLZ
 https://n35b-e2.revma.ihrhls.com/zc1393?rj-ttl=5&rj-tok=AAABfd2jRL8ARDBtK7fFke-14A
-#EXTINF:-1 tvg-logo="https://www1.zradio.org/images/persistent-player-logos/H-logo_115x40.png" group-title="gospel,hiphop",Hot 95.9
+#EXTINF:-1 tvg-logo="https://www1.zradio.org/images/persistent-player-logos/H-logo_115x40.png" group-title="gospel,hip hop",Hot 95.9
 https://ice.zradio.org/h/high.mp3
-#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/KVEGFM.jpg" group-title="adult contemporary",Hot 97.5 KVEG
+#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/KVEGFM.jpg" group-title="adult contemporary,hits",Hot 97.5 KVEG
 https://14983.live.streamtheworld.com:443/KVEGFM
-#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/WJYE.jpg" group-title="adult contemporary",Hot Radio Maine
+#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/WJYE.jpg" group-title="adult contemporary,hits",Hot Radio Maine WHTP
 https://ice9.securenetsystems.net/WHTP
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s232698q.png" group-title="blues",Houston Blues Radio
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s232698q.png" group-title="blues,soul",Houston Blues Radio
 http://edge3.peta.live365.net/b76353_128mp3
-#EXTINF:-1 tvg-logo="https://cdn.hpm.io/assets/images/favicon-192x192.png" group-title="classical,npr",Houston Public Media - Classical (KUHF)
+#EXTINF:-1 tvg-logo="https://cdn.hpm.io/assets/images/favicon-192x192.png" group-title="classical,npr",Houston Public Media Classical KUHF
 http://hpm.streamguys1.com/classical-mp3
-#EXTINF:-1 tvg-logo="https://cdn.hpm.io/assets/images/favicon-192x192.png" group-title="alternative country,blues,folk,npr,rock,world music",Houston Public Media - Mixtape (KUHF)
+#EXTINF:-1 tvg-logo="https://cdn.hpm.io/assets/images/favicon-192x192.png" group-title="alternative country,blues,folk,npr,rock,world music",Houston Public Media Mixtape KUHF
 http://hpm.streamguys1.com/mixtape-mp3
-#EXTINF:-1 tvg-logo="https://cdn.hpm.io/assets/images/favicon-192x192.png" group-title="news,npr,talk",Houston Public Media - News 88.7 (KUHF)
+#EXTINF:-1 tvg-logo="https://cdn.hpm.io/assets/images/favicon-192x192.png" group-title="news,npr,talk",Houston Public Media News 88.7 KUHF
 http://hpm.streamguys1.com/news-mp3
-#EXTINF:-1 tvg-logo="https://www.hpr.org/wp-content/uploads/2020/06/hprlogo.png" group-title="country",HPR1: Traditional Classic Country
+#EXTINF:-1 tvg-logo="https://www.hpr.org/wp-content/uploads/2020/06/hprlogo.png" group-title="country,classic country",HPR1 Traditional Classic Country
 http://87.98.130.255:8188/stream
-#EXTINF:-1 tvg-logo="https://www.hpr.org/wp-content/uploads/2020/06/hprlogo.png" group-title="bluegrass,country,southern gospel",HPR4: Bluegrass Gospel
+#EXTINF:-1 tvg-logo="https://www.hpr.org/wp-content/uploads/2020/06/hprlogo.png" group-title="bluegrass,country,southern gospel",HPR4 Bluegrass Gospel
 http://87.98.130.255:8428/stream
-#EXTINF:-1 tvg-logo="http://kibm.us/HQjw.jpg" group-title="nostalgia,otr",HQ with Jack Webb
+#EXTINF:-1 tvg-logo="http://kibm.us/HQjw.jpg" group-title="nostalgia,otr",HQ with Jack Webb KIBM
 http://ice.stream101.com:8025/;
-#EXTINF:-1 tvg-logo="" group-title="easy listening",Humboldt 101
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/pRX53N-ajvBthcKYtUmggHbN45Bpee-qhrGlvllN1H3_t7fM5K5v1h2b_glfHEF-p7u_" group-title="easy listening,oldies",Humboldt 101
 http://ais-sa2.cdnstream1.com/2188_64.aac
-#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/WLWI-FM.jpg" group-title="country",I-92 Country
+#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/WLWI-FM.jpg" group-title="country,new country",I-92 Country WLWI
 https://20603.live.streamtheworld.com:443/WLWIFMAAC.aac
-#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/WWMJ.jpg" group-title="classic rock",I-95 FM
+#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/WWMJ.jpg" group-title="classic rock,rock",I-95 FM WWMJ
 https://prod-34-82-13-22.wostreaming.net/townsquare-wwmjfmaac-ibc3?
-#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/WRKI.jpg" group-title="classic rock",I95 Rock
+#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/WRKI.jpg" group-title="classic rock,rock",I95 Rock WRKI
 https://prod-34-82-13-22.wostreaming.net/townsquare-wrkifmaac-ibc3?session-id=07f85b7aef7c7ded06503ecc061a29d2
-#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/WWRI-lp.png" group-title="classic rock",I95.1
+#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/WWRI-lp.png" group-title="classic rock,rock",I95.1 WWRI
 https://ice64.securenetsystems.net/WWRI
-#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/logo_WIVG-FM_96.1.jpg" group-title="alternative",i96
+#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/logo_WIVG-FM_96.1.jpg" group-title="alternative,rock",i96 WIVG
 https://stream1.flinn.com:8443/963FM.aac
-#EXTINF:-1 tvg-logo="https://ibrbc.net/favicon.ico" group-title="christian",IBRBC
+#EXTINF:-1 tvg-logo="https://ibrbc.net/favicon.ico" group-title="christian,religious",IBRBC
 https://shout2.brnstream.com/proxy/ibrbc?mp=/stream?type=http%26nocache=7045&1639205413416
 #EXTINF:-1 tvg-logo="https://www.thestationofthecross.com/wp-content/uploads/2020/05/cropped-sotc-site-icon-512x512-1-300x300.png" group-title="catholic,christian,music",iCatholicMusic
 http://hfc.streamguys1.com/icatholicmusic
-#EXTINF:-1 tvg-logo="https://www.thestationofthecross.com/wp-content/uploads/2020/05/cropped-sotc-site-icon-512x512-1-300x300.png" group-title="catholic,christian,radio,talk",iCatholicRadio
+#EXTINF:-1 tvg-logo="https://www.thestationofthecross.com/wp-content/uploads/2020/05/cropped-sotc-site-icon-512x512-1-300x300.png" group-title="catholic,christian,radio,talk",iCatholicRadio WQOM
 http://hfc.streamguys1.com/wqom
 #EXTINF:-1 tvg-logo="http://i.ido.bi/assets/albums/small/default.jpg" group-title="indie,indie rock,new music",idobi Anthm
 http://idobianthm.idobi.com/;stream.mp3
-#EXTINF:-1 tvg-logo="" group-title="",idobi Anthm
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/aa/09/37125/c300.png" group-title="indie,alternative",idobi Anthm
 https://idobianthm.idobi.com/
 #EXTINF:-1 tvg-logo="http://i.ido.bi/assets/albums/small/default.jpg" group-title="hardcore,metal,new music",idobi Howl
 http://idobihowl.idobi.com/;stream.mp3
 #EXTINF:-1 tvg-logo="http://i.ido.bi/assets/albums/small/default.jpg" group-title="alternative,new music,punk,rock",idobi Radio
 http://idobiradio.idobi.com/;stream.mp3
-#EXTINF:-1 tvg-logo="" group-title="",idobi Radio
-https://idobiradio.idobi.com/
-#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/url/aHR0cHM6Ly9pLmloZWFydC5jb20vdjMvcmUvbmV3X2Fzc2V0cy8wZWY3M2Y4NC1kNjEzLTQxZmYtOGEzNi05MjJiZjFhYTgxNWU" group-title="country",iH Country Radio
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/url/aHR0cHM6Ly9pLmloZWFydC5jb20vdjMvcmUvbmV3X2Fzc2V0cy8wZWY3M2Y4NC1kNjEzLTQxZmYtOGEzNi05MjJiZjFhYTgxNWU" group-title="new country,country",iH Country Radio
 https://n24b-e2.revma.ihrhls.com/zc4418?rj-ttl=5&rj-tok=AAABfd0kYK8Ax3OS23ncWJDy6Q
-#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/5da6591691216d1ce366f83d" group-title="",iHeart Radio Christmas Classics
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/5da6591691216d1ce366f83d" group-title="christmas,traditional",iHeart Radio Christmas Classics
 http://n44b-e2.revma.ihrhls.com/zc6137/hls.m3u8?rj-ttl=5&rj-tok=AAABfd2AhNgAwU6wGQGyqMZxCg
-#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/5da6592291216d1ce366f83f" group-title="",iHeart Radio Christmas Country
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/5da6592291216d1ce366f83f" group-title="christmas,country",iHeart Radio Christmas Country
 http://n33b-e2.revma.ihrhls.com/zc4601/hls.m3u8?rj-ttl=5&rj-tok=AAABfd18-egAMZXYEjNHIJQ9KQ
-#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/6afae4be-9a66-453d-96c0-c94def7b97e9" group-title="",iHeart Radio Christmas R&B
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/6afae4be-9a66-453d-96c0-c94def7b97e9" group-title="christmas,R'n'B",iHeart Radio Christmas R&B
 https://n4ab-e2.revma.ihrhls.com/zc6136/hls.m3u8?rj-ttl=5&rj-tok=AAABfd1cwp8A1fG0dcxFExVYyg
-#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/5da6590d91216d1ce366f83b?ops=fit(960%2C960)%2Cresize(0%2C390)" group-title="",iHeart Radio Christmas Rock
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/5da6590d91216d1ce366f83b?ops=fit(960%2C960)%2Cresize(0%2C390)" group-title="christmas,rock",iHeart Radio Christmas Rock
 http://n3db-e2.revma.ihrhls.com/zc6410/hls.m3u8?rj-ttl=5&rj-tok=AAABfd12Z1MApcthle3TFZhAyQ
-#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/dc0462cf-7655-4960-9ea1-c00989625ee1" group-title="",iHeart Radio Club Jam Christmas
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/dc0462cf-7655-4960-9ea1-c00989625ee1" group-title="club,christmas",iHeart Radio Club Jam Christmas
 https://n05b-e2.revma.ihrhls.com/zc7252/hls.m3u8?rj-ttl=5&rj-tok=AAABfd2GBykAElNshTZ7sj0LDg
-#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/d1c4a881-ba95-4efe-87f6-a03491b29155" group-title="",iHeart Radio Sacred Christmas
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/d1c4a881-ba95-4efe-87f6-a03491b29155" group-title="traditional,christmas",iHeart Radio Sacred Christmas
 https://n16b-e2.revma.ihrhls.com/zc7444/hls.m3u8?rj-ttl=5&rj-tok=AAABfd2ApzoApIkslLCquc_suQ
-#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/WSAN.png" group-title="news,talk",iHeartPodcast AM 1470
+#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/WSAN.png" group-title="news,talk",iHeartPodcast AM 1470 WSAN
 https://n1bb-e2.revma.ihrhls.com/zc3348?rj-ttl=5&rj-tok=AAABfdrVC8UA5HgnRb5clwBJOg
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/b85767b2-d530-468e-8979-d0aa0319b7c8" group-title="christmas,christmas music,xmas",iHeartRadio Christmas
 http://n49b-e2.revma.ihrhls.com/zc4596/hls.m3u8?rj-ttl=5&rj-tok=AAABfd1gBPIAmilCsSIaXu4UZQ
-#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/26c7d6fa-1003-4ccc-967c-c6bb3b7949b4" group-title="",iHeartRadio Christmas Jazz
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/26c7d6fa-1003-4ccc-967c-c6bb3b7949b4" group-title="christmas,jazz",iHeartRadio Christmas Jazz
 https://n31b-e2.revma.ihrhls.com/zc7251/hls.m3u8?rj-ttl=5&rj-tok=AAABfd1a0MYANe9fu6v_NtQ8jA
-#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/c001b08b-93e3-48d8-9134-acf64369131a" group-title="",iHeartRadio North Pole Radio
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/c001b08b-93e3-48d8-9134-acf64369131a" group-title="christmas,santa",iHeartRadio North Pole Radio
 http://n0cb-e2.revma.ihrhls.com/zc6734/hls.m3u8?rj-ttl=5&rj-tok=AAABfd2F9ykAtDcbZIwQR8Ov9g
 #EXTINF:-1 tvg-logo="https://storage.snappages.site/2DBP6B/assets/images/1013804_1024x1024_2500.jpg" group-title="",In Him Radio
 http://144.217.203.184:9572/stream.mp3

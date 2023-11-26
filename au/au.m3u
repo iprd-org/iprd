@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://hope1032.com.au/wp-content/themes/hope/images/favicon.png" group-title="christian,religious",Hope 103.2
+http://stream.hopemedia.com.au/hope
+#EXTINF:-1 tvg-logo="https://hope1032.com.au/wp-content/themes/hope/images/favicon.png" group-title="christian,religious",Hope 103.2
+http://stream.hopemedia.com.au/hope-mp3
 #EXTINF:-1 tvg-logo="https://www.abc.net.au/cm/rimage/9593036-1x1-large.png?v=12" group-title="local news,local radio",1062 ABC Riverland
 https://mediaserviceslive.akamaized.net/hls/live/2038160/localriverland/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.sen.com.au/images/favicon-180x180.png" group-title="sport",1170 SEN Sydney [GEO]
