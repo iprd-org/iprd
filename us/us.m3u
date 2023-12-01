@@ -2619,7 +2619,7 @@ https://n05b-e2.revma.ihrhls.com/zc7252/hls.m3u8?rj-ttl=5&rj-tok=AAABfd2GBykAElN
 https://n16b-e2.revma.ihrhls.com/zc7444/hls.m3u8?rj-ttl=5&rj-tok=AAABfd2ApzoApIkslLCquc_suQ
 #EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/WSAN.png" group-title="news,talk",iHeartPodcast AM 1470 WSAN
 https://n1bb-e2.revma.ihrhls.com/zc3348?rj-ttl=5&rj-tok=AAABfdrVC8UA5HgnRb5clwBJOg
-#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/b85767b2-d530-468e-8979-d0aa0319b7c8" group-title="christmas,christmas music,xmas",iHeartRadio Christmas
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/b85767b2-d530-468e-8979-d0aa0319b7c8" group-title="christmas,xmas,traditional",iHeartRadio Christmas
 http://n49b-e2.revma.ihrhls.com/zc4596/hls.m3u8?rj-ttl=5&rj-tok=AAABfd1gBPIAmilCsSIaXu4UZQ
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/26c7d6fa-1003-4ccc-967c-c6bb3b7949b4" group-title="christmas,jazz",iHeartRadio Christmas Jazz
 https://n31b-e2.revma.ihrhls.com/zc7251/hls.m3u8?rj-ttl=5&rj-tok=AAABfd1a0MYANe9fu6v_NtQ8jA
@@ -3039,193 +3039,183 @@ http://130.166.82.184:8000/;.mp3
 http://130.166.82.14:8002/;stream.mp3
 #EXTINF:-1 tvg-logo="http://player.streamguys.com/kcss/sgplayer/include/assets/img/KCSSLogo.png" group-title="college,educational",KCSS 91.9
 http://kcss.streamguys1.com/live
-#EXTINF:-1 tvg-logo="" group-title="misc",KCUR
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/23/KCUR_89.3_logo.png" group-title="npr,news,talk",KCUR
 https://kcurlive.umkc.edu/kcur893
-#EXTINF:-1 tvg-logo="" group-title="classical music",Kcur
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/23/KCUR_89.3_logo.png" group-title="classical,baroque",KCUR HD2
 https://kcurlive.umkc.edu/ckc919
-#EXTINF:-1 tvg-logo="http://mediad.publicbroadcasting.net/p/kcur/files/201509/KCUR-Logo-Horizontal-FullColor.png" group-title="classical,kansas city,npr,public radio",KCUR 89.3 Kansas City, MO
-http://kcurlive.umkc.edu:8000/kcur893
-#EXTINF:-1 tvg-logo="http://evc-wp01.s3.amazonaws.com/www.semodesto.com/files/2015/05/SE-logoSite-989.png" group-title="lodi,spanish contemporary hits,stockton",KCVR "Super Estrella 98.9" Lodi, CA
+#EXTINF:-1 tvg-logo="http://evc-wp01.s3.amazonaws.com/www.semodesto.com/files/2015/05/SE-logoSite-989.png" group-title="spanish,contemporary hits",KCVR Super Estrella 98.9
 https://playerservices.streamtheworld.com/api/livestream-redirect/KCVRFMAAC_SC
-#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/KCWM.png" group-title="country",KCWM 1460 AM
+#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/KCWM.png" group-title="country,new country",KCWM 1460
 https://edge.mixlr.com/channel/nwlar
-#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/KDAK.png" group-title="classic hits",KDAK 1600 AM
+#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/KDAK.png" group-title="classic rock,hits",KDAK 1600
 https://ice23.securenetsystems.net/KDAK
-#EXTINF:-1 tvg-logo="http://my957.com/favicon.ico" group-title="adult contemporary,duluth,superior",KDAL "My 95.7" Duluth, MN
+#EXTINF:-1 tvg-logo="http://my957.com/favicon.ico" group-title="adult contemporary,hits",KDAL My 95.7
 https://playerservices.streamtheworld.com/api/livestream-redirect/KDALFMAAC_SC
-#EXTINF:-1 tvg-logo="http://kdal610.com/favicon.ico" group-title="",kdal 610
+#EXTINF:-1 tvg-logo="http://kdal610.com/favicon.ico" group-title="talk,news",KDAL 610
 http://208.80.54.30:3690/KDALAMAAC_SC
-#EXTINF:-1 tvg-logo="http://mediad.publicbroadcasting.net/p/rrr/files/201508/RRRNewlogoico_0.ico" group-title="npr,pri,public radio",KDAQ 89.9 "Red River Radio" Shreveport, LA
+#EXTINF:-1 tvg-logo="http://mediad.publicbroadcasting.net/p/rrr/files/201508/RRRNewlogoico_0.ico" group-title="npr,public",KDAQ 89.9 Red River Radio
 https://playerservices.streamtheworld.com/api/livestream-redirect/KDAQFM_SC
-#EXTINF:-1 tvg-logo="http://mediad.publicbroadcasting.net/p/rrr/files/201508/RRRNewlogoico_0.ico" group-title="classical,public radio",KDAQ-HD2 "Red River Radio Classical Stream" Shreveport, LA
+#EXTINF:-1 tvg-logo="http://mediad.publicbroadcasting.net/p/rrr/files/201508/RRRNewlogoico_0.ico" group-title="classical,public",KDAQ HD2 Red River Radio Classical Stream
 https://playerservices.streamtheworld.com/api/livestream-redirect/KDAQHD2_SC
-#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/KDCE.png" group-title="",KDCE
+#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/KDCE.png" group-title="latin,spanish",KDCE
 https://streamer.radio.co/s69ad365c4/listen
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/e466d4_0c3eb3e3414745a79c8d7d5bc2f38f73~mv2.png/v1/fill/w_167,h_121,al_c,q_85,usm_1.20_1.00_0.01/kdee_new_logo_plain_large_FINAL.webp" group-title="old school,r&b,soul",KDEE 97.5
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/e466d4_0c3eb3e3414745a79c8d7d5bc2f38f73~mv2.png/v1/fill/w_167,h_121,al_c,q_85,usm_1.20_1.00_0.01/kdee_new_logo_plain_large_FINAL.webp" group-title="old school,R'n'B,soul",KDEE 97.5
 http://ic2.mainstreamnetwork.com/kdee-fm
-#EXTINF:-1 tvg-logo="https://www.kdfc.com/wp-content/uploads/2016/11/cropped-kdfc-favicon-180x180.png" group-title="angwin,classical,public radio,santa rosa",KDFC 89.9 Angwin, CA
+#EXTINF:-1 tvg-logo="https://www.kdfc.com/wp-content/uploads/2016/11/cropped-kdfc-favicon-180x180.png" group-title="classical,public",KDFC 89.9
 https://playerservices.streamtheworld.com/api/livestream-redirect/KDFCFM_SC
-#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/KDHL.jpg" group-title="country",KDHL 920 AM
+#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/KDHL.jpg" group-title="country,new country",KDHL 920
 https://prod-34-127-69-233.wostreaming.net/townsquare-kdhlamaac-ibc3?
-#EXTINF:-1 tvg-logo="" group-title="community radio,st. louis,variety",KDHX 88.1 St. Louis, MO
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/63/87/31519/c300.png" group-title="community,variety",KDHX 88.1
 http://kdhx-ice.streamguys1.com/live
-#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/KDKRFM.png" group-title="religious",KDKR 91.3
+#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/KDKRFM.png" group-title="religious,christian",KDKR 91.3
 http://live.kdkr.org:8000/kdkr
-#EXTINF:-1 tvg-logo="http://kdlg.org//sites/all/themes/pilot/favicon.ico" group-title="alaska bush,alaska public radio,community radio,dillingham,npr,public radio",KDLG 670 & 89.9 Dillingham, AK
+#EXTINF:-1 tvg-logo="http://kdlg.org//sites/all/themes/pilot/favicon.ico" group-title="public,community,npr,public",KDLG 670/89.9
 https://peace.streamguys1.com:6095/kdlg
-#EXTINF:-1 tvg-logo="" group-title="kenai,kenai peninsula,npr,public radio",KDLL 91.9 Kenai, AK
+#EXTINF:-1 tvg-logo="https://liveonlineradio.net/wp-content/uploads/2014/02/kdll-fm.jpg" group-title="npr,public",KDLL 91.9
 http://peridot.streamguys.com:5460/live
-#EXTINF:-1 tvg-logo="https://kdlmradio.com/application/files/6514/9365/9992/apple-touch-icon.png" group-title="1340,detroit lakes,kdlm",KDLM 1340
+#EXTINF:-1 tvg-logo="https://kdlmradio.com/application/files/6514/9365/9992/apple-touch-icon.png" group-title="news,talk",KDLM 1340
 https://playerservices.streamtheworld.com/api/livestream-redirect/KDLMAM.mp3
 #EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/KDLMGraphic.jpg" group-title="news,talk",KDLM Radio
 https://19303.live.streamtheworld.com:443/KDLMAMAAC.aac
-#EXTINF:-1 tvg-logo="" group-title="",KDLO F.M.
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s32324/images/logoq.png?t=154988" group-title="classic country,country",KDLO 
 https://prod-34-127-48-215.wostreaming.net/alphamidwest-kdlofmaac-ibc2?session-id=c5ca420f6a6e8b6fca61b729ddbeea94&dnt=1&privacypolicy=1&source=website&user-id=00000000-0000-0000-0000-000000000000
-#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/KDLS.png" group-title="classic hits",KDLS
+#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/KDLS.png" group-title="classic rock,hits",KDLS
 https://ice8.securenetsystems.net/KDLS
-#EXTINF:-1 tvg-logo="http://www.yakimavalleycf.org/Portals/0/Uploads/Images/Logo/cropped-KDNA_header_light.png" group-title="community radio,granger,variety,yakima",KDNA 91.9 "La Voz del Campesino" Yakima, WA
+#EXTINF:-1 tvg-logo="http://www.yakimavalleycf.org/Portals/0/Uploads/Images/Logo/cropped-KDNA_header_light.png" group-title="community,variety",KDNA 91.9 La Voz del Campesino
 http://peridot.streamguys.com:5620/kdna-mp3
-#EXTINF:-1 tvg-logo="http://cdn.saleminteractivemedia.com/shared/images/logos/101/template3_logo.png" group-title="business news,palo alto,san francisco",KDOW 1220 Palo Alto, CA
+#EXTINF:-1 tvg-logo="http://cdn.saleminteractivemedia.com/shared/images/logos/101/template3_logo.png" group-title="business,news",KDOW 1220
 https://playerservices.streamtheworld.com/api/livestream-redirect/KDOWAMAAC_SC
-#EXTINF:-1 tvg-logo="https://files.secure.website/wscfus/10506445/25369077/image002-w300-o.png" group-title="des moines,high school radio",KDPS Edge 88.1
+#EXTINF:-1 tvg-logo="https://files.secure.website/wscfus/10506445/25369077/image002-w300-o.png" group-title="hits,variety",KDPS Edge 88.1
 https://ais-sa1.streamon.fm/7240_32k.aac
-#EXTINF:-1 tvg-logo="https://broncoradio.files.wordpress.com/2014/08/cropped-screen-shot-2014-08-10-at-1-30-31-am.png" group-title="community radio,dos palos",KDPT-LP 102.9 Dos Palos, CA
+#EXTINF:-1 tvg-logo="https://broncoradio.files.wordpress.com/2014/08/cropped-screen-shot-2014-08-10-at-1-30-31-am.png" group-title="community,variety",KDPT-LP 102.9
 http://cc.net2streams.com:8083/;.mp3
-#EXTINF:-1 tvg-logo="http://cdnrf.securenetsystems.net/file_radio/stations_large/SUNRADIO/v5/album-art-default.png" group-title="alternative country,americana,austin",KDRP-LP "Sun Radio" 100.1 FM Austin, TX
+#EXTINF:-1 tvg-logo="http://cdnrf.securenetsystems.net/file_radio/stations_large/SUNRADIO/v5/album-art-default.png" group-title="alternative country,americana",KDRP-LP Sun Radio 100.1
 http://ice10.securenetsystems.net/SUNRADIO
-#EXTINF:-1 tvg-logo="http://kdrt.org/sites/beta.kdrt.org/files/logo.jpg" group-title="community radio,davis",KDRT-LP 95.7 Davis, CA
+#EXTINF:-1 tvg-logo="http://kdrt.org/sites/beta.kdrt.org/files/logo.jpg" group-title="community,variety",KDRT-LP 95.7
 http://davismedia.org:8000/kdrt
-#EXTINF:-1 tvg-logo="http://www.kcrw.com/kcrw-home///++theme++kcrw.theme/icons/apple-touch-icon-57x57.png" group-title="npr,public radio,santa barbara",KDRW 88.7 Santa Barbara, CA
+#EXTINF:-1 tvg-logo="http://www.kcrw.com/kcrw-home///++theme++kcrw.theme/icons/apple-touch-icon-57x57.png" group-title="npr,public",KDRW 88.7
 https://kcrw.streamguys1.com/kcrw_192k_mp3_santa_barbara
-#EXTINF:-1 tvg-logo="https://cdnrf.securenetsystems.net/file_radio/stations_large/KDSN/v5/album-art-default.png" group-title="adult contemporary,commercial,denison",KDSN The Hive 104.9
+#EXTINF:-1 tvg-logo="https://cdnrf.securenetsystems.net/file_radio/stations_large/KDSN/v5/album-art-default.png" group-title="adult contemporary,commercial",KDSN The Hive 104.9
 https://ice8.securenetsystems.net/KDSN
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b021c7_283fdb63a68149fea912f90fc886e90f%7Emv2.jpg" group-title="50's,60's,70's,oldies",KDUN AM 1030
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b021c7_283fdb63a68149fea912f90fc886e90f%7Emv2.jpg" group-title="50's,60's,70's,oldies",KDUN 1030
 http://hestia.cdnstream.com/1571_128
-#EXTINF:-1 tvg-logo="" group-title="community radio,durango",KDUR 91.9 Fort Lewis College Radio - Durango, CO
+#EXTINF:-1 tvg-logo="https://www.kdur.org/Portals/12/skins/kdur/FileUploads/12/kdur-radio-logo-2_3.jpg" group-title="community,college",KDUR 91.9 Fort Lewis College Radio
 http://kdurradio.fortlewis.edu/stream
-#EXTINF:-1 tvg-logo="" group-title="nbc sports radio,phoenix,sport,tempe",KDUS "NBC Sports 1060" Tempe, AZ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cb/KDUS_SportsAM1060_logo.jpg" group-title="sports,talk",KDUS 1060
 https://playerservices.streamtheworld.com/api/livestream-redirect/KDUSAMAAC_SC
 #EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/KDUZ.png" group-title="news,talk",KDUZ
 https://ice5.securenetsystems.net/KDUZ
-#EXTINF:-1 tvg-logo="https://kdvs.org/wp-content/themes/kdvs-theme/images/logo.png" group-title="",KDVS 90.3FM
+#EXTINF:-1 tvg-logo="https://kdvs.org/wp-content/themes/kdvs-theme/images/logo.png" group-title="freeform,variety",KDVS 90.3
 http://archives.kdvs.org:8000/stream
-#EXTINF:-1 tvg-logo="https://kdvs.org/wp-content/themes/kdvs-theme/favicon.png" group-title="college radio,community radio,davis,local news,sacramento,uc davis,ucd,university radio",KDVS Davis
-https://archives.kdvs.org/stream
-#EXTINF:-1 tvg-logo="http://cumulus.pro.poolb.tritondigitalcms.com/kdvv-fm/wp-content/uploads/sites/1197/2015/06/site-logo.png" group-title="album oriented rock,topeka",KDVV 100.3 "V-100" Topeka, KS
+#EXTINF:-1 tvg-logo="http://cumulus.pro.poolb.tritondigitalcms.com/kdvv-fm/wp-content/uploads/sites/1197/2015/06/site-logo.png" group-title="album oriented,rock",KDVV V-100 100.3
 https://playerservices.streamtheworld.com/api/livestream-redirect/KDVVFMAAC192_SC
-#EXTINF:-1 tvg-logo="http://kdwa.com/wp-content/uploads/2017/06/kdwa-back-new17fade.jpg" group-title="hastings,local news,talk radio",KDWA 1460 Hastings, MN
+#EXTINF:-1 tvg-logo="http://kdwa.com/wp-content/uploads/2017/06/kdwa-back-new17fade.jpg" group-title="news,talk",KDWA 1460
 http://s4.voscast.com:7262/
-#EXTINF:-1 tvg-logo="http://www.themix1057.com/uploads/mix/logo.png" group-title="adult contemporary,dickinson,south heart",KDXN "The Mix 105.7"  South Heart, ND
+#EXTINF:-1 tvg-logo="http://www.themix1057.com/uploads/mix/logo.png" group-title="adult contemporary,hits",KDXN The Mix 105.7
 https://playerservices.streamtheworld.com/api/livestream-redirect/KDXNFMAAC_SC
-#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/Ke Buena 97.5 FM.png" group-title="regional mexican",Ke Buena 97.5 FM
+#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/Ke Buena 97.5 FM.png" group-title="regional,mexican",Ke Buena 97.5 KBNA
 https://14543.live.streamtheworld.com:443/KBNA975_FM.mp3
-#EXTINF:-1 tvg-logo="https://worldoneradio.org/wp-content/uploads/2015/04/cropped-worldone-logo-2.jpg" group-title="eclectic,world radio",KECG WorldOne Radio
+#EXTINF:-1 tvg-logo="https://worldoneradio.org/wp-content/uploads/2015/04/cropped-worldone-logo-2.jpg" group-title="eclectic,world",KECG WorldOne Radio
 https://stream.radio.co/sc91461019/listen
-#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/KECH.png" group-title="classic rock",KECH 95.3 FM
+#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/KECH.png" group-title="classic rock,rock",KECH 95.3 FM
 https://ice24.securenetsystems.net/KECH
-#EXTINF:-1 tvg-logo="" group-title="",KEGX The Eagle
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Logo_Eagle_FM_106.5.png" group-title="classic rock,rock",KEGX The Eagle
 http://ice5.securenetsystems.net/KEGX
-#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/Keilah Radio.png" group-title="spanish christian",Keilah Radio 106.5 FM
+#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/Keilah Radio.png" group-title="spanish,christian",Keilah Radio 106.5 FM
 http://ovz.arcoshost.com:8013/stream
-#EXTINF:-1 tvg-logo="http://kelo.com/favicon.ico" group-title="news talk,sioux falls",KELO-AM 1320 Sioux Falls, SD
+#EXTINF:-1 tvg-logo="http://kelo.com/favicon.ico" group-title="news,talk",KELO 1320
 https://playerservices.streamtheworld.com/api/livestream-redirect/KELOAMAAC_SC
-#EXTINF:-1 tvg-logo="http://kelofm.com/favicon.ico" group-title="adult contemporary,sioux falls",KELO-FM 101.9 Sioux Falls, SD
+#EXTINF:-1 tvg-logo="http://kelofm.com/favicon.ico" group-title="adult contemporary,hits",KELO 101.9
 https://playerservices.streamtheworld.com/api/livestream-redirect/KELOFMAAC_SC
-#EXTINF:-1 tvg-logo="" group-title="community radio,news,talk",KELY - 1230 AM - Ely, NV
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/fblogo/5/121155.v7.png" group-title="community,news,talk",KELY 1230
 http://173.193.205.96:7200/stream
-#EXTINF:-1 tvg-logo="http://mediad.publicbroadcasting.net/p/kemc/files/201602/favicon.ico" group-title="billings,npr,public radio",KEMC 91.7 "Yellowstone Public Radio" Billings, MT (MP3)
+#EXTINF:-1 tvg-logo="http://mediad.publicbroadcasting.net/p/kemc/files/201602/favicon.ico" group-title="npr,public",KEMC 91.7 Yellowstone Public Radio
 http://ypr-sc.streamguys.net/live
-#EXTINF:-1 tvg-logo="http://mediad.publicbroadcasting.net/p/kemc/files/201602/favicon.ico" group-title="billings,npr,public radio",KEMC 91.7 "Yellowstone Public Radio" Billings, MT(AAC)
+#EXTINF:-1 tvg-logo="http://mediad.publicbroadcasting.net/p/kemc/files/201602/favicon.ico" group-title="npr,public",KEMC 91.7 Yellowstone Public Radio
 http://ypr-sc.streamguys.net/live-aac
-#EXTINF:-1 tvg-logo="http://mediad.publicbroadcasting.net/p/kenw/files/201504/logo_fid.png" group-title="npr,portales,public radio",KENW 89.5 Portales, NM
+#EXTINF:-1 tvg-logo="http://mediad.publicbroadcasting.net/p/kenw/files/201504/logo_fid.png" group-title="npr,public",KENW 89.5
 http://ice10.securenetsystems.net/KENWFM
-#EXTINF:-1 tvg-logo="http://images.tritondigitalcms.com/6616/sites/1089/2017/01/25170349/PowerLanding.png" group-title="contemporary,pop",KENZ-FM Provo, UT "Power 94.9"
+#EXTINF:-1 tvg-logo="http://images.tritondigitalcms.com/6616/sites/1089/2017/01/25170349/PowerLanding.png" group-title="contemporary,pop",KENZ Power 94.9
 https://playerservices.streamtheworld.com/api/livestream-redirect/KENZFMAAC_SC
-#EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/logo/6/21046.png" group-title="college radio,freeform",KEOL Eastern Oregon University
+#EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/logo/6/21046.png" group-title="college,freeform",KEOL Eastern Oregon University
 http://barix.streamguys.net/barix_hi
-#EXTINF:-1 tvg-logo="http://www.4190d.com/images/projects/keos.jpg" group-title="college radio,community radio,npr,pacifica,public radio",KEOS 89.1 College Station, TX
+#EXTINF:-1 tvg-logo="http://www.4190d.com/images/projects/keos.jpg" group-title="college,community,npr,pacifica,public",KEOS 89.1
 http://66.135.55.19:8170/;
-#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/KEPC.png" group-title="",KEPC 89.7 FM
+#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/KEPC.png" group-title="public,adult album alternative",KEPC 89.7
 https://ice24.securenetsystems.net/KEPC
-#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/KEPT-lp.png" group-title="religious",KEPT 96.9 FM
+#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/KEPT-lp.png" group-title="religious,christian",KEPT 96.9
 https://ice9.securenetsystems.net/KEPT
-#EXTINF:-1 tvg-logo="https://kepw.org/wp-content/uploads/2016/01/cropped-cropped-cropped-logo-192x192.png" group-title="community,community radio,community supported radio station,local news,music",KEPW - Eugene PeaceWorks Homegrown Community Radio
+#EXTINF:-1 tvg-logo="https://kepw.org/wp-content/uploads/2016/01/cropped-cropped-cropped-logo-192x192.png" group-title="community,news",KEPW Eugene PeaceWorks Homegrown Community Radio
 http://pacificaservice.org:8000/kepw_128
-#EXTINF:-1 tvg-logo="https://www.kera.org/wp-content/themes/news-mix/js/jplayer-new/favicon/apple-icon-120x120.png" group-title="apm,bbc,dallas,npr,pri,public radio",KERA 90.1 Dallas, TX (AAC)
+#EXTINF:-1 tvg-logo="https://www.kera.org/wp-content/themes/news-mix/js/jplayer-new/favicon/apple-icon-120x120.png" group-title="bbc,npr,public",KERA 90.1
 http://kera-ice.streamguys.us/keraliveaacplus
-#EXTINF:-1 tvg-logo="http://www.kera.org/wp-content/uploads/2014/05/apple-touch-icon-57x57.png" group-title="apm,bbc,dallas,npr,pri,public radio",KERA 90.1 Dallas, TX (MP3)
+#EXTINF:-1 tvg-logo="http://www.kera.org/wp-content/uploads/2014/05/apple-touch-icon-57x57.png" group-title="bbc,npr,public",KERA 90.1
 http://kera-ice.streamguys.us/keralive
-#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/18415.jpg" group-title="talk",KEST 1450 AM
+#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/18415.jpg" group-title="talk,news",KEST 1450
 http://38.96.148.253:6670/;stream.mp3
-#EXTINF:-1 tvg-logo="http://mediad.publicbroadcasting.net/p/ketr/files/201603/primary_full_color_0.png" group-title="apm,npr,public radio",KETR 88.9 Northeast Texas
+#EXTINF:-1 tvg-logo="http://mediad.publicbroadcasting.net/p/ketr/files/201603/primary_full_color_0.png" group-title="npr,public",KETR 88.9
 https://playerservices.streamtheworld.com/api/livestream-redirect/KETRFM_SC
-#EXTINF:-1 tvg-logo="http://www.kexp.org//static/assets/img/favicon-32x32.png" group-title="indie,live,public radio,seattle,variety",KEXP 90.3 Seattle, WA
+#EXTINF:-1 tvg-logo="http://www.kexp.org//static/assets/img/favicon-32x32.png" group-title="indie,live,public,variety",KEXP 90.3
 http://live-aacplus-64.kexp.org/kexp64.aac
-#EXTINF:-1 tvg-logo="http://www.kexp.org//static/assets/img/favicon-32x32.png" group-title="alternative rock,indie,live,public radio,seattle,variety",KEXP 90.3 Seattle, WA
+#EXTINF:-1 tvg-logo="http://www.kexp.org//static/assets/img/favicon-32x32.png" group-title="alternative,rock,indie,live,public,variety",KEXP 90.3
 http://live-mp3-128.kexp.org/kexp128.mp3
-#EXTINF:-1 tvg-logo="http://kexp.org//static/assets/img/favicon-32x32.png" group-title="alternative rock,indie,live,public radio,seattle,variety",KEXP 90.3 Seattle, WA
+#EXTINF:-1 tvg-logo="http://kexp.org//static/assets/img/favicon-32x32.png" group-title="alternative,rock,indie,live,public,variety",KEXP 90.3
 http://live-mp3-128.kexp.org:8000/
-#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/WAFY.png" group-title="pop,top 40",Key 103
+#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/WAFY.png" group-title="pop,top 40",Key 103 WAFY
 https://prod-34-127-64-191.wostreaming.net/manningbroadcasting-wafyfmaac-ibc2?
-#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/BJhgtZ8PJw.png" group-title="",KEYE 93.7 My FM
+#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/BJhgtZ8PJw.png" group-title="adult contemporary,hits",KEYE 93.7 My FM
 http://ice5.securenetsystems.net/KEYE
-#EXTINF:-1 tvg-logo="http://hot969.com/wp-content/uploads/sites/83/180x115-keze-fm.png" group-title="rhythmic contemporary hits,spokane",KEZE "Hot 96.9" Spokane, WA
+#EXTINF:-1 tvg-logo="http://hot969.com/wp-content/uploads/sites/83/180x115-keze-fm.png" group-title="rhythmic,contemporary hits",KEZE Hot 96.9
 https://playerservices.streamtheworld.com/api/livestream-redirect/KEZEFMAAC_SC
-#EXTINF:-1 tvg-logo="https://static.radio.net/images/broadcasts/f7/b4/30991/c175.png" group-title="",KFAI
-http://tres.kfai.org:8000/
-#EXTINF:-1 tvg-logo="https://www.kfai.org/wp-content/uploads/2018/09/cropped-512sitemark-180x180.png" group-title="community radio,minneapolis",KFAI 90.3 & 106.7 Minneapolis-St. Paul, MN
+#EXTINF:-1 tvg-logo="https://www.kfai.org/wp-content/uploads/2018/09/cropped-512sitemark-180x180.png" group-title="community,world",KFAI 90.3/106.7
 http://tres.kfai.org:8000/;.mp3
-#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/KFAN Sports Radio FM.png" group-title="sports",KFAN FM Sports
+#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/KFAN Sports Radio FM.png" group-title="sports,news,talk",KFAN
 https://n33b-e2.revma.ihrhls.com/zc1209?rj-ttl=5&rj-tok=AAABfd5krSEAaUouZAwvgDfczQ
-#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/KFAXAM.png" group-title="regional mexican",KFAX 1100 AM
+#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/KFAXAM.png" group-title="regional,mexican",KFAX 1100
 https://16693.live.streamtheworld.com:443/KFAXAMAAC.aac
-#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets.brands/acc89b33c9780124e0fc60982283130f" group-title="iheart,local news weather,sacramento,stockton,talk radio,traffic",KFBK "News Radio 93.1 & 1530" Sacramento, CA
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets.brands/acc89b33c9780124e0fc60982283130f" group-title="local,news,weather,talk,traffic",KFBK News Radio 93.1/1530
 http://n34b-e2.revma.ihrhls.com/zc217?rj-ttl=5&rj-tok=AAABfdreqUQA1tTaHAkJ8DHsVA
-#EXTINF:-1 tvg-logo="https://avatars1.githubusercontent.com/u/15120453?s=460&v=4" group-title="community radio,eclectic,freeform,oregon,portland",KFFP-LP 90.3 FM Freeform Portland
+#EXTINF:-1 tvg-logo="https://avatars1.githubusercontent.com/u/15120453?s=460&v=4" group-title="community,eclectic,freeform",KFFP-LP 90.3 Freeform Portland
 http://listen.freeformportland.org:8000/stream
-#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/KFGB-LP.png" group-title="christian contemporary",KFGB-LP
+#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/KFGB-LP.png" group-title="christian,contemporary",KFGB-LP
 https://s.radiowave.io/kfgb.mp3
-#EXTINF:-1 tvg-logo="http://1055kfgm.org/wp-content/uploads/2015/05/favicon-32x321.png" group-title="freeform,freeform music,local radio",KFGM Missoula Freeform Radio
+#EXTINF:-1 tvg-logo="http://1055kfgm.org/wp-content/uploads/2015/05/favicon-32x321.png" group-title="freeform,local",KFGM Missoula Freeform Radio
 http://stream.1055kfgm.org:8000/stream
-#EXTINF:-1 tvg-logo="http://kfgo.com/favicon.ico" group-title="fargo,moorehead,news talk",KFGO "The Mighty 790" Fargo, ND
+#EXTINF:-1 tvg-logo="http://kfgo.com/favicon.ico" group-title="news,talk",KFGO The Mighty 790
 https://playerservices.streamtheworld.com/api/livestream-redirect/KFGOAMAAC_SC
-#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets.brands/7724e1260428f5b03568e97c0280f35c?ops=gravity(%22center%22),contain(32,32),quality(65)" group-title="",KFI
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets.brands/7724e1260428f5b03568e97c0280f35c?ops=gravity(%22center%22),contain(32,32),quality(65)" group-title="talk,news",KFI
 http://n1bb-e2.revma.ihrhls.com/zc177?rj-ttl=5&rj-tok=AAABfdrCrJoAt8pJqtdZtN1u8g
-#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets.brands/7724e1260428f5b03568e97c0280f35c?ops=gravity(%22center%22),contain(32,32),quality(65)" group-title="",KFI LA
-http://n2eb-e2.revma.ihrhls.com/zc177/hls.m3u8?rj-ttl=5&rj-tok=AAABfdt3wJcAlul_Ui1ndZqzGw
-#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/KFIA.png" group-title="religious",KFIA 710 AM The Word
+#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/KFIA.png" group-title="religious,christian",KFIA 710 The Word
 https://17963.live.streamtheworld.com:443/KFIAAMAAC.aac
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/KFIR_720AM_logo.png" group-title="news",KFIR 720 AM
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/KFIR_720AM_logo.png" group-title="news,talk",KFIR 720
 https://ice10.securenetsystems.net/KFIR
-#EXTINF:-1 tvg-logo="" group-title="",KFLiP Camp
+#EXTINF:-1 tvg-logo="https://www.burningflipside.com/wp-content/uploads/2018/04/kflip_logotype.jpg" group-title="ecletic,variety",KFLiP Camp
 http://www.kflipcamp.org:8000/kflip
-#EXTINF:-1 tvg-logo="http://kfmg.org/images/header/logo.png" group-title="community radio,des moines,music,non-commercial,variety",KFMG-LP 98.9/99.1  Des Moines, IA (OGG)
+#EXTINF:-1 tvg-logo="http://kfmg.org/images/header/logo.png" group-title="community,non-commercial,variety",KFMG-LP 98.9/99.1
 http://18.220.54.199:8000/kfmg.ogg
-#EXTINF:-1 tvg-logo="http://kfmg.org/images/header/logo.png" group-title="community radio,des moines,music,non-commercial,variety",KFMG-LP 98.9/99.1 Des Moines, IA  (MP3)
+#EXTINF:-1 tvg-logo="http://kfmg.org/images/header/logo.png" group-title="community,non-commercial,variety",KFMG-LP 98.9/99.1
 http://18.220.54.199:8002/;
-#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/KFMO.png" group-title="news,talk",KFMO 1240 AM
+#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/KFMO.png" group-title="news,talk",KFMO 1240
 https://ice24.securenetsystems.net/KFMO
-#EXTINF:-1 tvg-logo="http://www.espn975.com/wp-content/uploads/2016/07/kfnc_cover.png" group-title="espn,houston,mont belevieu,sport",KFNC 97.5  "ESPN Houston" Mont Belevieu, TX
+#EXTINF:-1 tvg-logo="http://www.espn975.com/wp-content/uploads/2016/07/kfnc_cover.png" group-title="talk,sport",KFNC 97.5
 https://playerservices.streamtheworld.com/api/livestream-redirect/KFNCFMAAC_SC
-#EXTINF:-1 tvg-logo="" group-title="contemporary christian,fargo",KFNW "Life 97.9" Fargo, ND
+#EXTINF:-1 tvg-logo="https://kayakfishingnorthwest.com/wp-content/uploads/2019/01/kfnw-logo-600px.png" group-title="contemporary,christian",KFNW Life 97.9
 http://nwmedia-kfnwfm.streamguys1.com/kfnw-fm?.mp3
-#EXTINF:-1 tvg-logo="http://www.1100kfnx.com/favicon.ico" group-title="christian,news,phoenix",KFNX 1100 News-Talk Radio - Cave Creek, AZ
+#EXTINF:-1 tvg-logo="http://www.1100kfnx.com/favicon.ico" group-title="christian,news",KFNX 1100
 http://crystalout.surfernetwork.com:8001/KFNX_MP3
-#EXTINF:-1 tvg-logo="" group-title="",KFOI 90.9
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/qe3qeqy4ddre.png" group-title="variety,community",KFOI 90.9
 http://75.128.17.88:88/broadwave.m3u?src=1&rate=1
 #EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/KFOR-AMFM.jpg" group-title="news,talk",KFOR 1240 AM 103.3 FM
 https://prod-34-83-60-77.wostreaming.net/alphacorporate-kforamaac-ibc4?session-id=67a0314cce22373d630b9a5d574fd81f&source=website
-#EXTINF:-1 tvg-logo="https://q945rocks.s3.amazonaws.com/wp-content/uploads/2017/03/kfrq_logo_640.png" group-title="active rock,harlingen",KFRQ "Q 94.5" Harlingen, TX
+#EXTINF:-1 tvg-logo="https://q945rocks.s3.amazonaws.com/wp-content/uploads/2017/03/kfrq_logo_640.png" group-title="active,rock",KFRQ Q 94.5
 https://playerservices.streamtheworld.com/api/livestream-redirect/KFRQFMAAC_SC
-#EXTINF:-1 tvg-logo="https://kfsk-org.s3.amazonaws.com/wp-content/uploads/2017/02/KFSK_favicon.png" group-title="bbc,coastalaska,community radio,npr,petersburg,public radio",KFSK 100.9 Petersburg, AK
+#EXTINF:-1 tvg-logo="https://kfsk-org.s3.amazonaws.com/wp-content/uploads/2017/02/KFSK_favicon.png" group-title="bbc,community,npr,public",KFSK 100.9
 http://amber.streamguys.com:4620/kfsk
 #EXTINF:-1 tvg-logo="http://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/816/2017/04/11143246/Ranch_Logo_CorrectSize.png" group-title="country,red dirt",KFWR 95.9 The Ranch
 https://playerservices.streamtheworld.com/api/livestream-redirect/KFWRFMAAC_SC
-#EXTINF:-1 tvg-logo="" group-title="",KFXM
-http://147.135.84.27/kfxm-fm
-#EXTINF:-1 tvg-logo="https://ingstadmedia.com/mybasin/wp-content/uploads/sites/5/2020/02/cropped-tree-1-180x180.png" group-title="classic hits,klamath falls",KFXX-FM "99.5 The Fox" Klamath Falls, OR
+#EXTINF:-1 tvg-logo="https://ingstadmedia.com/mybasin/wp-content/uploads/sites/5/2020/02/cropped-tree-1-180x180.png" group-title="classic rock,hits",KFXX 99.5 The Fox
 http://ice10.securenetsystems.net/KFXXFM
-#EXTINF:-1 tvg-logo="" group-title="phoenix news talk",KFYI
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/KFYI550.png" group-title="news,talk",KFYI
 http://n48b-e2.revma.ihrhls.com/zc37?rj-ttl=5&rj-tok=AAABfdrTEA0A--lOiDJDDfK34w
 #EXTINF:-1 tvg-logo="https://i3.radionomy.com/radios/400/afb3fbec-bf77-4133-b0c0-147660a1e36d.png" group-title="coast to coast am,mark levin,news talk,rush limbaugh,sean hannity",KFYO 790 AM Lubbock, TX
 http://34.105.27.249/townsquare-kfyoamaac-ibc3?session-id=4408e296c02270c95df8d2fcee5fe357
