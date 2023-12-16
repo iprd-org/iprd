@@ -5761,23 +5761,23 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/NEW_JERSEY_DEV
 https://ais-edge09-live365-dal02.cdnstream.com/a73313
 #EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/Saigon-Radio.png" group-title="asian,world",KALI Saigon Radio 106.3
 https://ice5.securenetsystems.net/KALI
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-foft0tvcNLE/WTtpA2ZkDXI/AAAAAAAAKD8/Ta9q9tvKcewryOmpckl6JsxrN6m90yXZgCLcB/s1600/salsa-radio-logo.jpg" group-title="salsa",Salsa One Radio
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-foft0tvcNLE/WTtpA2ZkDXI/AAAAAAAAKD8/Ta9q9tvKcewryOmpckl6JsxrN6m90yXZgCLcB/s1600/salsa-radio-logo.jpg" group-title="salsa,dance",Salsa One Radio
 http://server7.servistreaming.com:10006/stream
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/f8d17e_b1f9038c12d84cf280081a1e450d4dc3%7emv2.png/v1/fill/w_32%2ch_32%2clg_1%2cusm_0.66_1.00_0.01/f8d17e_b1f9038c12d84cf280081a1e450d4dc3%7emv2.png" group-title="salsa",Salsa Warriors
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/f8d17e_b1f9038c12d84cf280081a1e450d4dc3%7emv2.png/v1/fill/w_32%2ch_32%2clg_1%2cusm_0.66_1.00_0.01/f8d17e_b1f9038c12d84cf280081a1e450d4dc3%7emv2.png" group-title="salsa,dance",Salsa Warriors
 http://192.99.17.12:6031/
-#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/Salt-Light-Catholic-Radio.jpg" group-title="religious",Salt & Light Radio
+#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/Salt-Light-Catholic-Radio.jpg" group-title="religious,christian",KGEM Salt & Light Radio
 http://salt-light-stream-01.miriamtech.net:8000/live
 #EXTINF:-1 tvg-logo="http://saltydog.com/favicon-32x32.png" group-title="country,island,jimmy buffett,rock",Salty Dog Radio
 http://98.101.223.10:8011/
-#EXTINF:-1 tvg-logo="" group-title="jazz",San Diego's Jazz
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk42ZuRnVgZYgnno_3aN-jyd7NQCJUM1uJqvyX-mWyltzzE_0tLGGPLdlPZa5eka-NBpI&usqp=CAU" group-title="jazz,blues",KSDS San Diego's Jazz
 https://ksds-ice.streamguys1.com/ksds.mp3
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s115612q.png" group-title="70s",San Francisco's 70's HITS!
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s115612q.png" group-title="70s,hits,oldies",San Francisco's 70's HITS!
 http://198.178.123.17:10922/;
-#EXTINF:-1 tvg-logo="https://cms.nhl.bamgrid.com/images/photos/281721090/256x256/cut.png" group-title="hockey,live sports,nhl,san jose sharks",San Jose Sharks Audio Network
+#EXTINF:-1 tvg-logo="https://cms.nhl.bamgrid.com/images/photos/281721090/256x256/cut.png" group-title="hockey,live,sports,nhl,san jose sharks",San Jose Sharks Audio Network
 https://sjsharks.streamguys1.com/sharks-player
-#EXTINF:-1 tvg-logo="" group-title="80s,new wave",Sanctuary Radio (Retro 80s Channel)
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s121324g.png" group-title="80s,new wave",Sanctuary Radio Retro 80s
 http://192.111.140.6:9772/stream2
-#EXTINF:-1 tvg-logo="http://www.sanctuaryradio.com/images/na.jpg" group-title="",Sanctuary Radio's Dark Electro Channel LIVE (Sanctuary Radio Copyright 2019)
+#EXTINF:-1 tvg-logo="http://www.sanctuaryradio.com/images/na.jpg" group-title="electro,industrail,edm",Sanctuary Radio's Dark Electro
 http://192.111.140.6:9772/stream
 #EXTINF:-1 tvg-logo="https://www.nsf.gov/news/special_reports/apps/images/sciencezone_card.jpg" group-title="engineering,science,talk",Science Zone
 http://amber.streamguys1.com:4200/live
@@ -5787,171 +5787,159 @@ http://ais-sa5.cdnstream1.com/b92108_128mp3
 http://67.225.254.37:5530/
 #EXTINF:-1 tvg-logo="https://imgur.com/a/j7mhoiN.jpg" group-title="ccm,gospel",SDA Radio
 https://usa18.fastcast4u.com/proxy/loudcrymedia6?mp=/1
-#EXTINF:-1 tvg-logo="https://srsounds.com/player/images/seasons_vert.png" group-title="",Seasons by Sorcerer Radio
+#EXTINF:-1 tvg-logo="https://srsounds.com/player/images/seasons_vert.png" group-title="seasonal,ambient",Seasons by Sorcerer Radio
 https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R2809833_SC
 #EXTINF:-1 tvg-logo="http://seeburg1000.com/wp-content/uploads/2015/05/favicon.ico" group-title="elevator,smooth jazz",Seeburg 1000
 http://74.82.59.197:8351/stream/;.m3u
-#EXTINF:-1 tvg-logo="http://seeburg1000.com/wp-content/uploads/2016/08/the-incomparable-seeburg-1000-background-music-stream.png" group-title="ambient,easy listening,instrumental,seeburg 1000",Seeburg 1000 Background Music
-http://74.82.59.197:8351/stream
-#EXTINF:-1 tvg-logo="http://seismicradio.org/home/wp-content/uploads/2017/06/cropped-seismic-colour-d-crack-270x270.jpg" group-title="christian",Seismic Radio Arabic
+#EXTINF:-1 tvg-logo="http://seismicradio.org/home/wp-content/uploads/2017/06/cropped-seismic-colour-d-crack-270x270.jpg" group-title="christian,religious",Seismic Radio Arabic
 http://69.162.103.66:8108/;
-#EXTINF:-1 tvg-logo="http://seismicradio.org/home/wp-content/uploads/2017/06/cropped-seismic-colour-d-crack-270x270.jpg" group-title="christian",Seismic Radio Francais
+#EXTINF:-1 tvg-logo="http://seismicradio.org/home/wp-content/uploads/2017/06/cropped-seismic-colour-d-crack-270x270.jpg" group-title="christian,religious",Seismic Radio Francais
 http://5.63.151.52:7076/;
-#EXTINF:-1 tvg-logo="http://seismicradio.org/home/wp-content/uploads/2017/06/cropped-seismic-colour-d-crack-270x270.jpg" group-title="christian",Seismic Radio German
+#EXTINF:-1 tvg-logo="http://seismicradio.org/home/wp-content/uploads/2017/06/cropped-seismic-colour-d-crack-270x270.jpg" group-title="christian,religious",Seismic Radio German
 http://5.63.151.52:7070/;
-#EXTINF:-1 tvg-logo="http://seismicradio.org/home/wp-content/uploads/2017/06/cropped-seismic-colour-d-crack-270x270.jpg" group-title="christian",Seismic Radio OT
+#EXTINF:-1 tvg-logo="http://seismicradio.org/home/wp-content/uploads/2017/06/cropped-seismic-colour-d-crack-270x270.jpg" group-title="christian,religious",Seismic Radio OT
 http://5.63.151.52:7130/stream
-#EXTINF:-1 tvg-logo="http://sensimedia.net/favicon.ico" group-title="reggae,roots reggae",sensimedia roots reggae
+#EXTINF:-1 tvg-logo="http://sensimedia.net/favicon.ico" group-title="reggae,roots",Sensimedia Roots Reggae
 http://equinox.shoutca.st:9878/
-#EXTINF:-1 tvg-logo="https://servingwithamission.org/wp-content/uploads/2018/12/1500swmradiologo.png" group-title="christian",Serving With A Mission Radio
+#EXTINF:-1 tvg-logo="https://servingwithamission.org/wp-content/uploads/2018/12/1500swmradiologo.png" group-title="christian,religious",Serving With A Mission Radio
 https://playerservices.streamtheworld.com/api/livestream-redirect/SAM09AAC224.mp3
-#EXTINF:-1 tvg-logo="" group-title="country",SFLINY
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/pmGQODga60ox2I0ehfJSSkESnToCg2qXtTEOTsnF1kinWlwEJF3vN5DsViERYat18KM" group-title="classic rock,50s,60s,70s,80s,90s,00s",SFLINY
 https://s5.citrus3.com:8156/stream
-#EXTINF:-1 tvg-logo="http://sfsound.org/radio.jpg" group-title="alternative,avant-garde,computer music,electronic,experimental,free jazz,improvisation,new music,noise,sonic art,sound art,underground",sfSoundRadio
+#EXTINF:-1 tvg-logo="http://sfsound.org/radio.jpg" group-title="alternative,avant-garde,computer,electronic,experimental,free jazz,improvisation,new,noise,sonic,art,sound,underground",sfSoundRadio
 http://sfsound.org:8000/
-#EXTINF:-1 tvg-logo="https://player.streamguys.com/sjsharks/sgplayer/include/image/SJS_Logo.jpg" group-title="",Sharks Audio Network
-http://sjsharks.streamguys1.com/sharks-player.mp3
-#EXTINF:-1 tvg-logo="" group-title="",Shine Worship
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s218804d.png" group-title="christian,religious",Shine Worship
 https://mist.olivet.edu/shineworship128
-#EXTINF:-1 tvg-logo="" group-title="",Shine Worship
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s218804d.png" group-title="christian,religious",Shine Worship
 http://mourka.olivet.edu:8000/shineworship128
-#EXTINF:-1 tvg-logo="http://shine.fm/themes/custom/shinefm/icons/apple-touch-icon.png?v=xbblkoxzz3" group-title="christian,christian contemporary",Shine.FM
+#EXTINF:-1 tvg-logo="http://shine.fm/themes/custom/shinefm/icons/apple-touch-icon.png?v=xbblkoxzz3" group-title="christian,contemporary",Shine.fm
 http://mist.olivet.edu:8000/shine64
-#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/shinefm883.png" group-title="christian contemporary",Shine.FM Indy
+#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/shinefm883.png" group-title="christian,contemporary",Shine.fm Indy
 https://mist.olivet.edu/shine128
-#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/WAAW.jpg" group-title="gospel",Shout 94.7
+#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/WAAW.jpg" group-title="gospel,christian",WAAW Shout 94.7
 https://ice64.securenetsystems.net/WAAWFM
-#EXTINF:-1 tvg-logo="https://shoutdrive-com.cdn.shoutdrive.com/img/favicon/apple-touch-icon.png" group-title="deep house,electro house,house,progressive house",ShoutDRIVE | Dance Music for North America from Los Angeles
+#EXTINF:-1 tvg-logo="https://shoutdrive-com.cdn.shoutdrive.com/img/favicon/apple-touch-icon.png" group-title="deep,house,electro,progressive",ShoutDRIVE
 http://geostream.cdn.shoutdrive.com/sd-aac-hi
-#EXTINF:-1 tvg-logo="https://shoutingfire.com/wp-content/uploads/2019/04/cropped-sf-n-logo-32x32.jpg" group-title="",Shouting Fire (AAC)
+#EXTINF:-1 tvg-logo="https://shoutingfire.com/wp-content/uploads/2019/04/cropped-sf-n-logo-32x32.jpg" group-title="art,culture,freeform",Shouting Fire
 http://shoutingfire-ice.streamguys1.com/live-aac
-#EXTINF:-1 tvg-logo="https://shoutingfire.com/wp-content/uploads/2019/04/cropped-sf-n-logo-32x32.jpg" group-title="",Shouting Fire (Smart Metadata AAC)
+#EXTINF:-1 tvg-logo="https://shoutingfire.com/wp-content/uploads/2019/04/cropped-sf-n-logo-32x32.jpg" group-title="are,culture,freeform",Shouting Fire
 http://shoutingfire-ice.streamguys1.com/smartmetadata-live-aac
-#EXTINF:-1 tvg-logo="http://mediad.publicbroadcasting.net/p/kwit/files/201511/kwit-logo-2016-1_0.png" group-title="npr,public radio",Siouxland Public Radio (KWIT, KOJI)
+#EXTINF:-1 tvg-logo="http://mediad.publicbroadcasting.net/p/kwit/files/201511/kwit-logo-2016-1_0.png" group-title="npr,public",KWIT Siouxland Public Radio
 https://playerservices.streamtheworld.com/api/livestream-redirect/KWITFM_SC
-#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/KSTP.png" group-title="sports",SKOR North
+#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/KSTP.png" group-title="sports,talk",KSTP SKOR North
 https://17553.live.streamtheworld.com:443/KSTPAMAAC.aac
-#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/WNSL.png" group-title="pop,top 40",SL100
+#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/WNSL.png" group-title="pop,top 40",WNSL SL100
 https://n20b-e2.revma.ihrhls.com/zc5112?rj-ttl=5&rj-tok=AAABfd3qWaYAqzqsi86k5qL-lA
 #EXTINF:-1 tvg-logo="https://imgproxy.zenomedia.com/insecure/fit/500/500/ce/0/plain/https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDQ-vHzvQoMCxIOU3RhdGlvblByb2ZpbGUYgICwxL25kQkMogEEemVubw/image/%3Fresize=500x500&v=1" group-title="chillout,non-commercial,sleep,wellbeing",Sleep FM
 http://stream.zeno.fm/c16qn9fkns8uv?sleepfm320mp3=&rj-tok=AAABfd48UFIAK4M8H1RKlqznkg&rj-ttl=5
-#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/tssezepasgf7.png" group-title="ambient,chill,fm,free,hypnotic,live,lounge,new age,relax,rest,sleep,soothing frequencies,therapy",Sleep Radio FM
+#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/tssezepasgf7.png" group-title="ambient,chill,hypnotic,live,lounge,new age,relax,rest,sleep,soothing frequencies,therapy",Sleep Radio
 https://laservox.com/radio/8030/radio.mp3
-#EXTINF:-1 tvg-logo="http://thevibesmoothgrooveradio.weebly.com/uploads/9/7/3/1/97313354/jazz_1_orig.jpg" group-title="funk,music,smooth jazz",Smooth Groove Radio - The Vibe
+#EXTINF:-1 tvg-logo="http://thevibesmoothgrooveradio.weebly.com/uploads/9/7/3/1/97313354/jazz_1_orig.jpg" group-title="funk,music,smooth jazz",Smooth Groove Radio The Vibe
 https://usa17.fastcast4u.com/proxy/smoothgr?mp=/1
-#EXTINF:-1 tvg-logo="" group-title="classical",Smooth Jazz
+#EXTINF:-1 tvg-logo="https://www.smoothjazz.com/sites/default/files/help/spotify-radar.jpg" group-title="jazz,smooth",Smooth Jazz
 https://smoothjazz.cdnstream1.com/2585_320.mp3
-#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/WJZA.png" group-title="smooth jazz",Smooth Jazz 101.1
+#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/WJZA.png" group-title="jazz,smooth",WJZA Smooth Jazz 101.1
 https://crystalout.surfernetwork.com:8001/WJZA-AM_MP3
-#EXTINF:-1 tvg-logo="http://www.smoothjazz247.com/favicon.ico" group-title="easy listening,jazz,smooth jazz",SMOOTH JAZZ 24/7
+#EXTINF:-1 tvg-logo="http://www.smoothjazz247.com/favicon.ico" group-title="easy listening,jazz,smooth",Smooth Jazz 24/7
 https://edge3.peta.live365.net/b75154_128mp3
-#EXTINF:-1 tvg-logo="http://www.smoothjazz247.com/favicon.ico" group-title="smooth jazz",Smooth Jazz 247 (new)
-http://ais-sa5.cdnstream1.com/b75154_128mp3
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/97096bd3-dfc7-4535-91a2-1db3c9fcb16b/CD1019.jpg/:/rs=w:237,h:190,cg:true,m/cr=w:237,h:190/qt=q:95" group-title="easy listening,new york city,smooth jazz",Smooth Jazz CD 101.9
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/97096bd3-dfc7-4535-91a2-1db3c9fcb16b/CD1019.jpg/:/rs=w:237,h:190,cg:true,m/cr=w:237,h:190/qt=q:95" group-title="easy listening,smooth,jazz",Smooth Jazz CD 101.9
 https://ais-edge37-live365-dal02.cdnstream.com/a43749
-#EXTINF:-1 tvg-logo="" group-title="jazz",Smooth Jazz Global Radio
-https://smoothjazz.cdnstream1.com/2585_256.mp3
-#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/WISX-HD2.jpg" group-title="smooth jazz",Smooth Jazz JJZ
+#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/WISX-HD2.jpg" group-title="smooth,jazz",WISX HD2 Smooth Jazz JJZ
 https://n24b-e2.revma.ihrhls.com/zc7390?rj-ttl=5&rj-tok=AAABfd0XlvQA5qAPWKFxkAgTFA
-#EXTINF:-1 tvg-logo="" group-title="jazz",Smooth Lounge Global Radio
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s51156/images/logog.png?t=162377" group-title="lounge,easy listening",Smooth Lounge Global Radio
 https://smoothjazz.cdnstream1.com/2586_256.mp3
-#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/KRNBFM.png" group-title="urban adult contemporary",Smooth R&B 105.7
+#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/KRNBFM.png" group-title="urban,adult contemporary",KRNB Smooth R&B 105.7
 https://ais-sa1.streamon.fm/7281_64k.aac
-#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/WRTM.png" group-title="urban contemporary",Smooth Soul 100.5
+#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/WRTM.png" group-title="urban contemporary,hits",WRTM Smooth Soul 100.5
 https://ice10.securenetsystems.net/WRTMFM
-#EXTINF:-1 tvg-logo="https://www.smoothjazz.com/themes/smoothjazz/images/sj-circle-logo.png" group-title="smooth jazz",SmoothJazz.com
-https://smoothjazz.cdnstream1.com/2585_128.mp3
-#EXTINF:-1 tvg-logo="https://www.internet-radio.com/favicon.ico" group-title="dark ambient,internetradiodotcom,melatonin,seashellradio,sleep,sleepingpill,soundscape,thimbleradio,xyrem",Snore Radio
+#EXTINF:-1 tvg-logo="https://www.internet-radio.com/favicon.ico" group-title="dark,ambient,melatonin,sleep,sleepingpill,soundscape",Snore Radio
 http://104.167.4.67:8215/;stream/1
 #EXTINF:-1 tvg-logo="https://reggaespin.com/media/rs-favicon.jpg" group-title="calypso,soca",Soca Zone by The Reggae Spin
 https://reggaespin.media/radio/8020/radio.mp3
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s106474q.png" group-title="classic rock,soft rock",Soft Classic Rock Radio
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s106474q.png" group-title="classic rock,soft",Soft Classic Rock Radio
 http://64.71.133.122:8000/;
-#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s113401q.png" group-title="classic rock,mellow rock,soft rock,yacht rock",Soft Rock Radio
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s113401q.png" group-title="classic rock,mellow,soft,yacht",Soft Rock Radio
 http://softrock-ice.purestream.net/softrock.mp3
-#EXTINF:-1 tvg-logo="" group-title="70s,80s,pop,soft rock",Soft Tracks
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/96/02/96027f987e7c24712cc98c829c778f3f.jpg" group-title="70s,80s,pop,soft rock",Soft Tracks
 http://198.105.216.204:8200/
-#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/WSJO.jpg" group-title="pop,top 40",SoJO 104.9
+#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/WSJO.jpg" group-title="pop,top 40",WSJO SoJO 104.9
 https://prod-34-127-118-156.wostreaming.net/townsquare-wsjofmaac-ibc3?
-#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/WJJO.jpg" group-title="rock",Solid Rock 94.1 WJJO
+#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/WJJO.jpg" group-title="active,rock",WJJO Solid Rock 94.1
 https://prod-34-82-15-139.wostreaming.net/mwfmadison-wjjofmaac-ibc3?session-id=d92f8470c54765125398b286f4f217d6
 #EXTINF:-1 tvg-logo="" group-title="alt-folk,folk classics,indie folk",soma fm Folk Forward
 http://ice6.somafm.com/folkfwd-128-aac
-#EXTINF:-1 tvg-logo="https://somafm.com/img3/illstreet-400.jpg" group-title="decades",Soma FM Illinois Street Lounge
-
-
+#EXTINF:-1 tvg-logo="https://somafm.com/img3/illstreet-400.jpg" group-title="decades,lounge",SomaFM Illinois Street Lounge
 https://ice2.somafm.com/illstreet-128-aac
-#EXTINF:-1 tvg-logo="https://somafm.com/img3/deepspaceone-400.jpg" group-title="",Soma FM: Deep Space One
+#EXTINF:-1 tvg-logo="https://somafm.com/img3/deepspaceone-400.jpg" group-title="deep,ambient,experimental",SomaFM Deep Space One
 http://ice4.somafm.com/deepspaceone-128-aac
-#EXTINF:-1 tvg-logo="https://somafm.com/img3/xmasinfrisko-400.jpg" group-title="adult hits,christmas music,eclectic,holiday,xmas",Soma FM: Xmas in Frisko (AAC: 128k)
+#EXTINF:-1 tvg-logo="https://somafm.com/img3/xmasinfrisko-400.jpg" group-title="adult hits,christmas,eclectic,holiday,xmas",SomaFM Xmas in Frisko
 https://ice6.somafm.com/xmasinfrisko-128-aac
-#EXTINF:-1 tvg-logo="https://somafm.com/img3/poptron-400.jpg" group-title="electro-pop,indie dance rock",SomaFM | PopTron | 32 aac
+#EXTINF:-1 tvg-logo="https://somafm.com/img3/poptron-400.jpg" group-title="electro-pop,indie,dance,rock",SomaFM PopTron
 http://ice5.somafm.com/poptron-32-aac
-#EXTINF:-1 tvg-logo="https://somafm.com/img3/poptron-400.jpg" group-title="electro-pop,indie dance rock",SomaFM | PopTron | 64 aac
+#EXTINF:-1 tvg-logo="https://somafm.com/img3/poptron-400.jpg" group-title="electro-pop,indie,dance,rock",SomaFM PopTron
 http://ice5.somafm.com/poptron-64-aac
-#EXTINF:-1 tvg-logo="https://somafm.com/img3/bagel-400.jpg" group-title="alternative,indie rock,post-punk",SomaFM BAGeL Radio
+#EXTINF:-1 tvg-logo="https://somafm.com/img3/bagel-400.jpg" group-title="alternative,indie,post-punk",SomaFM BAGeL
 http://ais-sa3.cdnstream1.com/2606_128.aac
-#EXTINF:-1 tvg-logo="http://somafm.com/img/bagel120.png" group-title="alternative,indie-rock,post-punk",SomaFM BAGeL Radio
+#EXTINF:-1 tvg-logo="http://somafm.com/img/bagel120.png" group-title="alternative,indie,post-punk",SomaFM BAGeL
 https://ais-sa3.cdnstream1.com/2606_128.mp3
-#EXTINF:-1 tvg-logo="http://api.somafm.com/img/blender120.png" group-title="chillout,deep house,downtempo",SomaFM Beat Blender
+#EXTINF:-1 tvg-logo="http://api.somafm.com/img/blender120.png" group-title="chillout,deep,house,downtempo",SomaFM Beat Blender
 http://ice1.somafm.com/beatblender-128-mp3
-#EXTINF:-1 tvg-logo="https://somafm.com/img3/beatblender-400.jpg" group-title="chillout,deep house,downtempo,electronica",SomaFM Beat Blender (128k AAC)
+#EXTINF:-1 tvg-logo="https://somafm.com/img3/beatblender-400.jpg" group-title="chillout,deep,house,downtempo,electronica",SomaFM Beat Blender
 https://ice4.somafm.com/beatblender-128-aac
-#EXTINF:-1 tvg-logo="http://somafm.com/img/1023brc.jpg" group-title="electronica,trance",SomaFM Black Rock FM
+#EXTINF:-1 tvg-logo="http://somafm.com/img/1023brc.jpg" group-title="electronica,trance,burning man",SomaFM Black Rock
 http://ice4.somafm.com/brfm-128-aac
-#EXTINF:-1 tvg-logo="http://somafm.com/img/1023brc.jpg" group-title="2014 burning man festival,playa,world music",SomaFM Black Rock FM
+#EXTINF:-1 tvg-logo="http://somafm.com/img/1023brc.jpg" group-title="burning man,world",SomaFM Black Rock
 http://ice1.somafm.com/brfm-128-mp3
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/bootliquor-400.jpg" group-title="americana,country",SomaFM Boot Liquor
 https://ice2.somafm.com/bootliquor-128-aac
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/bootliquor-400.jpg" group-title="americana,country",SomaFM Boot Liquor
 http://ice1.somafm.com/bootliquor-320-mp3
-#EXTINF:-1 tvg-logo="https://somafm.com/img3/christmas-400.jpg" group-title="",SomaFM Christmas Lounge 256k
+#EXTINF:-1 tvg-logo="https://somafm.com/img3/christmas-400.jpg" group-title="christmas,lounge",SomaFM Christmas Lounge
 https://ice1.somafm.com/christmas-256-mp3
-#EXTINF:-1 tvg-logo="https://somafm.com/favicon.ico" group-title="chillout,christmas",SomaFM Christmas Lounge 64k
+#EXTINF:-1 tvg-logo="https://somafm.com/favicon.ico" group-title="chillout,christmas",SomaFM Christmas Lounge
 https://ice4.somafm.com/christmas-64-aac
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/xmasrocks-400.jpg" group-title="alternative,christmas,indie,rock",SomaFM Christmas Rocks!
 http://ice2.somafm.com/xmasrocks-128-mp3
-#EXTINF:-1 tvg-logo="https://somafm.com/img3/cliqhop-400.jpg" group-title="",SomaFM Cliqhop
+#EXTINF:-1 tvg-logo="https://somafm.com/img3/cliqhop-400.jpg" group-title="dance,idm",SomaFM cliqhop idm
 https://ice6.somafm.com/cliqhop-64-aac
-#EXTINF:-1 tvg-logo="https://somafm.com/img3/cliqhop-400.jpg" group-title="idm",SomaFM Cliqhop
+#EXTINF:-1 tvg-logo="https://somafm.com/img3/cliqhop-400.jpg" group-title="idm,dance",SomaFM cliqhop idm
 https://ice4.somafm.com/cliqhop-128-aac
-#EXTINF:-1 tvg-logo="http://somafm.com/img3/cliqhop-400.jpg" group-title="idm",SomaFM cliqhop idm
+#EXTINF:-1 tvg-logo="http://somafm.com/img3/cliqhop-400.jpg" group-title="idm,dance",SomaFM cliqhop idm
 http://ice1.somafm.com/cliqhop-256-mp3
-#EXTINF:-1 tvg-logo="http://somafm.com/img3/cliqhop-400.jpg" group-title="idm",SomaFM cliqhop idm
+#EXTINF:-1 tvg-logo="http://somafm.com/img3/cliqhop-400.jpg" group-title="idm,dance",SomaFM cliqhop idm
 http://ice1.somafm.com/cliqhop-128-mp3
-#EXTINF:-1 tvg-logo="" group-title="",SomaFM cliqhop idm (64 kBit, AAC)
+#EXTINF:-1 tvg-logo="http://somafm.com/img3/cliqhop-400.jpg" group-title="idm,dance",SomaFM cliqhop idm
 http://ice2.somafm.com/cliqhop-64-aac
-#EXTINF:-1 tvg-logo="http://somafm.com/img/covers120.jpg" group-title="covers",SomaFM Covers
+#EXTINF:-1 tvg-logo="http://somafm.com/img/covers120.jpg" group-title="covers,hits",SomaFM Covers
 http://ice2.somafm.com/covers-128-mp3
-#EXTINF:-1 tvg-logo="http://somafm.com/img3/deepspaceone-400.jpg" group-title="deep ambient",SomaFM Deep Space One
+#EXTINF:-1 tvg-logo="http://somafm.com/img3/deepspaceone-400.jpg" group-title="deep,ambient,experimental",SomaFM Deep Space One
 http://ice1.somafm.com/deepspaceone-64-aac
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/deepspaceone-400.jpg" group-title="ambient,electronic,space",SomaFM Deep Space One
 https://ice1.somafm.com/deepspaceone-32-aac
-#EXTINF:-1 tvg-logo="http://somafm.com/img3/deepspaceone-400.jpg" group-title="deep ambient",SomaFM Deep Space One 128k AAC+
+#EXTINF:-1 tvg-logo="http://somafm.com/img3/deepspaceone-400.jpg" group-title="deep,ambient,experimental",SomaFM Deep Space One
 http://ice1.somafm.com/deepspaceone-128-aac
-#EXTINF:-1 tvg-logo="https://somafm.com/img3/deepspaceone-400.jpg" group-title="",SomaFM Deep Space One 128k MP3
+#EXTINF:-1 tvg-logo="https://somafm.com/img3/deepspaceone-400.jpg" group-title="deep,ambient,experimental",SomaFM Deep Space One
 https://ice6.somafm.com/deepspaceone-128-mp3
-#EXTINF:-1 tvg-logo="http://somafm.com/img3/defcon-400.jpg" group-title="",SomaFM DEF CON Radio - MP3 256k
+#EXTINF:-1 tvg-logo="http://somafm.com/img3/defcon-400.jpg" group-title="chill,ambient",SomaFM DEF CON Radio
 http://ice1.somafm.com/defcon-256-mp3
-#EXTINF:-1 tvg-logo="https://somafm.com/img3/defcon-400.jpg" group-title="ambient,chill,defcon,electronic,hacker,non-commercial",SomaFM DEF CON Radio 128k
+#EXTINF:-1 tvg-logo="https://somafm.com/img3/defcon-400.jpg" group-title="ambient,chill,defcon,electronic,hacker,non-commercial",SomaFM DEF CON Radio
 https://ice6.somafm.com/defcon-128-aac
-#EXTINF:-1 tvg-logo="https://somafm.com/img3/defcon-400.jpg" group-title="ambient,chill,defcon,electronic,hacker,non-commercial",SomaFM DEF CON Radio 64k
+#EXTINF:-1 tvg-logo="https://somafm.com/img3/defcon-400.jpg" group-title="ambient,chill,defcon,electronic,hacker,non-commercial",SomaFM DEF CON Radio
 http://ice6.somafm.com/defcon-64-aac
-#EXTINF:-1 tvg-logo="https://somafm.com/img3/digitalis-400.jpg" group-title="analog,digitally affected,rock",somaFM Digitalis
+#EXTINF:-1 tvg-logo="https://somafm.com/img3/digitalis-400.jpg" group-title="analog,digitally affected,rock",SomaFM Digitalis
 http://ice2.somafm.com/digitalis-32-aac
 #EXTINF:-1 tvg-logo="http://somafm.com/img3/digitalis-400.jpg" group-title="analog,digitally affected,rock",SomaFM Digitalis
 http://ice4.somafm.com/digitalis-128-mp3
-#EXTINF:-1 tvg-logo="" group-title="",SomaFM Digitalis
+#EXTINF:-1 tvg-logo="http://somafm.com/img3/digitalis-400.jpg" group-title="analog,digitally affected,rock",SomaFM Digitalis
 http://ice2.somafm.com/digitalis-64-aac
-#EXTINF:-1 tvg-logo="http://somafm.com/img/dronezone120.jpg" group-title="ambient,chillout,drone",SomaFM Drone Zone 128k AAC
+#EXTINF:-1 tvg-logo="http://somafm.com/img/dronezone120.jpg" group-title="ambient,chillout,drone",SomaFM Drone Zone
 http://ice3.somafm.com/dronezone-128-aac
-#EXTINF:-1 tvg-logo="http://somafm.com/img/dronezone120.jpg" group-title="ambient,atmospheric,chillout,drone",SomaFM Drone Zone 128k MP3
+#EXTINF:-1 tvg-logo="http://somafm.com/img/dronezone120.jpg" group-title="ambient,atmospheric,chillout,drone",SomaFM Drone Zone
 http://ice4.somafm.com/dronezone-128-mp3
-#EXTINF:-1 tvg-logo="http://somafm.com/img/dronezone120.jpg" group-title="ambient,atmospheric,chillout,drone",SomaFM Drone Zone 256k MP3
+#EXTINF:-1 tvg-logo="http://somafm.com/img/dronezone120.jpg" group-title="ambient,atmospheric,chillout,drone",SomaFM Drone Zone
 http://ice1.somafm.com/dronezone-256-mp3
-#EXTINF:-1 tvg-logo="https://somafm.com/img3/dronezone-400.jpg" group-title="32 kbps,aac,ambient,atmospheric,drone",SomaFM Drone Zone 32k AAC
+#EXTINF:-1 tvg-logo="https://somafm.com/img3/dronezone-400.jpg" group-title="ambient,atmospheric,drone",SomaFM Drone Zone
 https://ice4.somafm.com/dronezone-32-aac
-#EXTINF:-1 tvg-logo="https://somafm.com/img3/dronezone-400.jpg" group-title="ambient",SomaFM Drone Zone 64k AAC+
+#EXTINF:-1 tvg-logo="https://somafm.com/img3/dronezone-400.jpg" group-title="ambient,atmospheric,drone",SomaFM Drone Zone
 http://ice4.somafm.com/dronezone-64-aac
 #EXTINF:-1 tvg-logo="http://somafm.com/img/dubstep120.png" group-title="dub,dubstep",SomaFM Dub Step Beyond
 http://ice3.somafm.com/dubstep-128-aac
@@ -5965,93 +5953,93 @@ http://ice1.somafm.com/folkfwd-128-aac
 http://ice1.somafm.com/folkfwd-64-aac
 #EXTINF:-1 tvg-logo="http://somafm.com/img3/folkfwd-400.jpg" group-title="folk,indie",SomaFM Folk Forward
 http://ice3.somafm.com/folkfwd-128-mp3
-#EXTINF:-1 tvg-logo="" group-title="folk",SomaFM folk forward
+#EXTINF:-1 tvg-logo="http://somafm.com/img3/folkfwd-400.jpg" group-title="folk,indie",SomaFM Folk Forward
 http://ice4.somafm.com/folkfwd-128-mp3
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/groovesalad-400.jpg" group-title="ambient,chillout,downtempo,groove,lounge,sleep",SomaFM Groove Salad
 http://ice3.somafm.com/groovesalad-128-mp3
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/groovesalad-400.jpg" group-title="ambient,chillout,downtempo,groove,lounge,sleep",SomaFM Groove Salad
 http://ice1.somafm.com/groovesalad-256-mp3
-#EXTINF:-1 tvg-logo="https://somafm.com/img3/groovesalad-400.jpg" group-title="ambient,chillout,downtempo,groove,lounge,sleep",SomaFM Groove Salad 128k AAC
+#EXTINF:-1 tvg-logo="https://somafm.com/img3/groovesalad-400.jpg" group-title="ambient,chillout,downtempo,groove,lounge,sleep",SomaFM Groove Salad
 http://ice6.somafm.com/groovesalad-128-aac
-#EXTINF:-1 tvg-logo="https://somafm.com/img3/groovesalad-400.jpg" group-title="ambient,chillout,downtempo,groove,lounge,sleep",SomaFM Groove Salad 64k AAC
+#EXTINF:-1 tvg-logo="https://somafm.com/img3/groovesalad-400.jpg" group-title="ambient,chillout,downtempo,groove,lounge,sleep",SomaFM Groove Salad
 https://ice6.somafm.com/groovesalad-64-aac
-#EXTINF:-1 tvg-logo="https://somafm.com/img3/gsclassic400.jpg" group-title="",SomaFM Groove Salad Classic , (AAC 64k)
+#EXTINF:-1 tvg-logo="https://somafm.com/img3/gsclassic400.jpg" group-title="ambient,chillout,downtempo,groove,lounge,sleep",SomaFM Groove Salad Classic
 https://ice2.somafm.com/gsclassic-64-aac
-#EXTINF:-1 tvg-logo="https://somafm.com/img3/LoneDJsquare400.jpg" group-title="ambient,chillout,downtempo,groove salad classic,lounge,non-commercial,somafm",SomaFM Groove Salad Classic 128k
+#EXTINF:-1 tvg-logo="https://somafm.com/img3/LoneDJsquare400.jpg" group-title="ambient,chillout,downtempo,lounge,non-commercial",SomaFM Groove Salad Classic
 https://ice1.somafm.com/gsclassic-128-mp3
-#EXTINF:-1 tvg-logo="https://somafm.com/img3/reggae400.png" group-title="rocksteady,roots reggae,ska",SomaFM Heavyweight Reggae
+#EXTINF:-1 tvg-logo="https://somafm.com/img3/reggae400.png" group-title="rocksteady,roots,reggae,ska",SomaFM Heavyweight Reggae
 http://ice4.somafm.com/reggae-256-mp3
-#EXTINF:-1 tvg-logo="https://somafm.com/img3/reggae400.png" group-title="reggae,rocksteady,roots reggae,ska",SomaFM Heavyweight Reggae 32k
+#EXTINF:-1 tvg-logo="https://somafm.com/img3/reggae400.png" group-title="reggae,rocksteady,roots,ska",SomaFM Heavyweight Reggae
 https://ice1.somafm.com/reggae-32-aac
-#EXTINF:-1 tvg-logo="http://somafm.com/img/illstreet.jpg" group-title="bachelor",SomaFM Illinois Street Lounge
+#EXTINF:-1 tvg-logo="http://somafm.com/img/illstreet.jpg" group-title="bachelor,lounge",SomaFM Illinois Street Lounge
 http://ice1.somafm.com/illstreet-128-mp3
-#EXTINF:-1 tvg-logo="http://somafm.com/img3/indiepop-400.jpg" group-title="indie,indie pop,indie rock",SomaFM Indie Pop Rocks!
+#EXTINF:-1 tvg-logo="http://somafm.com/img3/indiepop-400.jpg" group-title="indie,indie pop",SomaFM Indie Pop Rocks!
 https://ice2.somafm.com/indiepop-128-aac
-#EXTINF:-1 tvg-logo="https://somafm.com/img3/indiepop-400.jpg" group-title="",SomaFM Indie Pop Rocks!
+#EXTINF:-1 tvg-logo="https://somafm.com/img3/indiepop-400.jpg" group-title="indie,indie pop",SomaFM Indie Pop Rocks!
 https://ice4.somafm.com/indiepop-32-aac
-#EXTINF:-1 tvg-logo="http://somafm.com/img3/indiepop-400.jpg" group-title="classic,indie,new,pop",SomaFM Indie Pop Rocks! - AAC 128k
+#EXTINF:-1 tvg-logo="http://somafm.com/img3/indiepop-400.jpg" group-title="classic,indie,new,pop",SomaFM Indie Pop Rocks!
 http://ice3.somafm.com/indiepop-128-aac
-#EXTINF:-1 tvg-logo="http://somafm.com/img/seventies120.jpg" group-title="easy listening,mellow album rock,rock,yacht rock",SomaFM Left Coast 70s
+#EXTINF:-1 tvg-logo="http://somafm.com/img/seventies120.jpg" group-title="easy listening,mellow album,rock,yacht",SomaFM Left Coast 70s
 http://ice4.somafm.com/seventies-128-mp3
-#EXTINF:-1 tvg-logo="http://somafm.com/img/seventies400.jpg" group-title="easy listening,mellow album rock,rock,san francisco,yacht rock",SomaFM Left Coast 70s
+#EXTINF:-1 tvg-logo="http://somafm.com/img/seventies400.jpg" group-title="easy listening,mellow album rock,yacht",SomaFM Left Coast 70s
 http://ice.somafm.com/seventies-320.mp3
-#EXTINF:-1 tvg-logo="https://api.somafm.com/img/SomaFMDJSquare120.jpg" group-title="",SomaFM Live
+#EXTINF:-1 tvg-logo="https://api.somafm.com/img/SomaFMDJSquare120.jpg" group-title="live,concert",SomaFM Live
 http://ice1.somafm.com/live-128-mp3
-#EXTINF:-1 tvg-logo="" group-title="electronic,femalevocals,lounge,mellow,vocal",SomaFM Lush
+#EXTINF:-1 tvg-logo="https://somafm.com/img3/lush-400.jpg" group-title="electronic,lounge,mellow,vocal",SomaFM Lush
 http://ice.somafm.com/lush-128-mp3
-#EXTINF:-1 tvg-logo="https://somafm.com/img3/lush-400.jpg" group-title="electronic,femalevocals,lounge music,mellow,vocal",Somafm Lush 64k AAC
+#EXTINF:-1 tvg-logo="https://somafm.com/img3/lush-400.jpg" group-title="electronic,lounge,mellow,vocal",Somafm Lush
 https://ice6.somafm.com/lush-64-aac
-#EXTINF:-1 tvg-logo="http://somafm.com/img3/metal-400.png" group-title="black metal,crossover,death metal,doom,industrial,metal,progressive metal,punk,rock,stoner,technical death metal,thrash,thrash metal",SomaFM Metal Detector (128k AAC)
+#EXTINF:-1 tvg-logo="http://somafm.com/img3/metal-400.png" group-title="black,crossover,death,doom,industrial,metal,progressive,punk,rock,stoner,technical,thrash",SomaFM Metal Detector
 https://ice1.somafm.com/metal-128-aac
 #EXTINF:-1 tvg-logo="http://somafm.com/img3/missioncontrol-400.jpg" group-title="ambient,experimental,sounds,space program",SomaFM Mission Control
 http://ice4.somafm.com/missioncontrol-128-mp3
-#EXTINF:-1 tvg-logo="https://somafm.com/img3/missioncontrol-400.jpg" group-title="ambient,space",SomaFM Mission Control - AAC 128k
+#EXTINF:-1 tvg-logo="https://somafm.com/img3/missioncontrol-400.jpg" group-title="ambient,space",SomaFM Mission Control
 http://ice4.somafm.com/missioncontrol-128-aac
-#EXTINF:-1 tvg-logo="https://somafm.com/img3/missioncontrol-400.jpg" group-title="ambient,space",SomaFM Mission Control - AAC 64k
+#EXTINF:-1 tvg-logo="https://somafm.com/img3/missioncontrol-400.jpg" group-title="ambient,space",SomaFM Mission Control
 http://ice2.somafm.com/missioncontrol-64-aac
-#EXTINF:-1 tvg-logo="https://somafm.com/img3/n5md-400.png" group-title="ambient,experimental electronic music,modern composition,post-rock",SomaFM n5MD 128k AAC
+#EXTINF:-1 tvg-logo="https://somafm.com/img3/n5md-400.png" group-title="ambient,experimental electronic music,modern composition,post-rock",SomaFM n5MD
 https://ice4.somafm.com/n5md-128-aac
-#EXTINF:-1 tvg-logo="https://somafm.com/img3/n5md-400.png" group-title="",SomaFM n5MD 128k MP3
+#EXTINF:-1 tvg-logo="https://somafm.com/img3/n5md-400.png" group-title="ambient,experimental electronic,modern composition,post-rock",SomaFM n5MD
 https://ice6.somafm.com/n5md-128-mp3
-#EXTINF:-1 tvg-logo="https://somafm.com/img3/n5md-400.png" group-title="ambient,experimental electronic music,modern composition,post-rock",SomaFM n5MD 32k AAC
+#EXTINF:-1 tvg-logo="https://somafm.com/img3/n5md-400.png" group-title="ambient,experimental electronic,modern composition,post-rock",SomaFM n5MD
 https://ice1.somafm.com/n5md-32-aac
-#EXTINF:-1 tvg-logo="" group-title="ambient,experimental electronic music,modern composition,post-rock",SOMAFM n5MD Radio
+#EXTINF:-1 tvg-logo="https://somafm.com/img3/n5md-400.png" group-title="ambient,experimental electronic,modern composition,post-rock",SomaFM n5MD
 http://ice6.somafm.com/n5md-128-aac
 #EXTINF:-1 tvg-logo="http://somafm.com/img3/poptron-400.jpg" group-title="dance,electropop,indie,pop,rock,sparkle",SomaFM PopTron
 http://ice3.somafm.com/poptron-128-mp3
 #EXTINF:-1 tvg-logo="http://somafm.com/img3/poptron-400.jpg" group-title="electronic,synth,synthesizer,synthpop",SomaFM PopTron
 http://ice4.somafm.com/poptron-128-aac
-#EXTINF:-1 tvg-logo="https://somafm.com/img3/poptron-400.jpg" group-title="electropop,indie,synthpop",SomaFM PopTron 128 mp3 m3u
+#EXTINF:-1 tvg-logo="https://somafm.com/img3/poptron-400.jpg" group-title="electropop,indie,synthpop",SomaFM PopTron
 http://ice2.somafm.com/poptron-128-mp3
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/secretagent-400.jpg" group-title="jazz,lounge,stylish",SomaFM Secret Agent
 https://ice6.somafm.com/secretagent-64-aac
 #EXTINF:-1 tvg-logo="http://somafm.com/img/secretagent120.jpg" group-title="ambient,jazz,lounge",SomaFM Secret Agent
 http://ice.somafm.com/secretagent
-#EXTINF:-1 tvg-logo="http://somafm.com/img3/secretagent-400.jpg" group-title="ambient,jazz,lounge",SomaFM Secret Agent - AAC 128k
+#EXTINF:-1 tvg-logo="http://somafm.com/img3/secretagent-400.jpg" group-title="ambient,jazz,lounge",SomaFM Secret Agent
 http://ice3.somafm.com/secretagent-128-aac
-#EXTINF:-1 tvg-logo="http://somafm.com/img3/7soul-400.jpg" group-title="soul",SomaFM Seven Inch Soul (7 Inch Soul)
+#EXTINF:-1 tvg-logo="http://somafm.com/img3/7soul-400.jpg" group-title="soul,R'n'B",SomaFM Seven Inch Soul
 http://ice3.somafm.com/7soul-128-mp3
 #EXTINF:-1 tvg-logo="http://somafm.com/img3/sf1033-400.jpg" group-title="ambient,experimental,fire scanner,live,mix,police scanner",SomaFM SF 10-33
 http://ice2.somafm.com/sf1033-128-mp3
-#EXTINF:-1 tvg-logo="https://somafm.com/img3/sf1033-400.jpg" group-title="ambient,experimental,fire scanner,live,mix,police scanner",somaFM SF 10-33
+#EXTINF:-1 tvg-logo="https://somafm.com/img3/sf1033-400.jpg" group-title="ambient,experimental,fire scanner,live,mix,police scanner",SomaFM SF 10-33
 http://ice4.somafm.com/sf1033-32-aac
-#EXTINF:-1 tvg-logo="https://somafm.com/img3/sonicuniverse-400.jpg" group-title="avant-garde,eclectic,jazz",SomaFM Sonic Universe 128k AAC+
+#EXTINF:-1 tvg-logo="https://somafm.com/img3/sonicuniverse-400.jpg" group-title="avant-garde,eclectic,jazz",SomaFM Sonic Universe
 https://ice2.somafm.com/sonicuniverse-128-aac
-#EXTINF:-1 tvg-logo="http://somafm.com/img3/sonicuniverse-400.jpg" group-title="jazz,modern jazz,nu-jazz",SomaFM Sonic Universe 192k MP3
+#EXTINF:-1 tvg-logo="http://somafm.com/img3/sonicuniverse-400.jpg" group-title="jazz,modern jazz,nu-jazz",SomaFM Sonic Universe
 https://ice1.somafm.com/sonicuniverse-256-mp3
-#EXTINF:-1 tvg-logo="https://somafm.com/img3/sonicuniverse-400.jpg" group-title="avant-garde,eclectic,jazz",SomaFM Sonic Universe 64k AAC+
+#EXTINF:-1 tvg-logo="https://somafm.com/img3/sonicuniverse-400.jpg" group-title="avant-garde,eclectic,jazz",SomaFM Sonic Universe
 https://ice6.somafm.com/sonicuniverse-64-aac
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/spacestation-400.jpg" group-title="ambient,electronica,mid-tempo",SomaFM Space Station Soma
 https://ice2.somafm.com/spacestation-64-aac
-#EXTINF:-1 tvg-logo="http://somafm.com/img3/spacestation-400.jpg" group-title="ambient,electronica,mid-tempo",SomaFM Space Station Soma (AAC)
+#EXTINF:-1 tvg-logo="http://somafm.com/img3/spacestation-400.jpg" group-title="ambient,electronica,mid-tempo",SomaFM Space Station Soma
 http://ice4.somafm.com/spacestation-128-aac
-#EXTINF:-1 tvg-logo="https://somafm.com/img3/spacestation-400.jpg" group-title="ambient,electronica,mid-tempo",SomaFM Space Station Soma (MP3)
+#EXTINF:-1 tvg-logo="https://somafm.com/img3/spacestation-400.jpg" group-title="ambient,electronica,mid-tempo",SomaFM Space Station Soma
 http://ice3.somafm.com/spacestation-128-mp3
-#EXTINF:-1 tvg-logo="https://api.somafm.com/img/SomaFMDJSquare120.jpg" group-title="",SomaFM Specials
+#EXTINF:-1 tvg-logo="https://api.somafm.com/img/SomaFMDJSquare120.jpg" group-title="freeform,eclectic",SomaFM Specials
 http://ice1.somafm.com/specials-128-aac
-#EXTINF:-1 tvg-logo="http://somafm.com/img3/suburbsofgoa-400.jpg" group-title="desi,worldbeat",SomaFM Suburbs of Goa (AAC)
+#EXTINF:-1 tvg-logo="http://somafm.com/img3/suburbsofgoa-400.jpg" group-title="desi,worldbeat",SomaFM Suburbs of Goa
 http://ice1.somafm.com/suburbsofgoa-128-aac
-#EXTINF:-1 tvg-logo="https://somafm.com/img3/suburbsofgoa-400.jpg" group-title="desi,worldbeat",SomaFM Suburbs of Goa (MP3)
+#EXTINF:-1 tvg-logo="https://somafm.com/img3/suburbsofgoa-400.jpg" group-title="desi,worldbeat",SomaFM Suburbs of Goa
 http://ice6.somafm.com/suburbsofgoa-128-mp3
 #EXTINF:-1 tvg-logo="https://somafm.com/favicon.ico" group-title="ambient,electronic,space",SomaFM Synphaera Radio
 https://ice6.somafm.com/synphaera-128-aac
@@ -6061,215 +6049,203 @@ https://ice4.somafm.com/synphaera-256-mp3
 http://ice3.somafm.com/thetrip-128-mp3
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/thetrip-400.jpg" group-title="house,progressive,trance",SomaFM The Trip
 https://ice4.somafm.com/thetrip-64-aac
-#EXTINF:-1 tvg-logo="https://somafm.com/img3/thetrip-400.jpg" group-title="progressive house,trance",SomaFM The Trip 128k
+#EXTINF:-1 tvg-logo="https://somafm.com/img3/thetrip-400.jpg" group-title="progressive house,trance",SomaFM The Trip
 http://ice4.somafm.com/thetrip-128-aac
-#EXTINF:-1 tvg-logo="http://somafm.com/img3/thistle-400.jpg" group-title="celtic,folk",SomaFM ThistleRadio 128k AAC+
+#EXTINF:-1 tvg-logo="http://somafm.com/img3/thistle-400.jpg" group-title="celtic,folk",SomaFM ThistleRadio
 https://ice6.somafm.com/thistle-128-aac
-#EXTINF:-1 tvg-logo="https://somafm.com/img3/thistle-400.jpg" group-title="celtic",SomaFM ThistleRadio 32k AAC+
+#EXTINF:-1 tvg-logo="https://somafm.com/img3/thistle-400.jpg" group-title="celtic,folk",SomaFM ThistleRadio
 https://ice6.somafm.com/thistle-32-aac
-#EXTINF:-1 tvg-logo="https://somafm.com/img3/thistle-400.jpg" group-title="celtic",SomaFM ThistleRadio 64k AAC+
+#EXTINF:-1 tvg-logo="https://somafm.com/img3/thistle-400.jpg" group-title="celtic,folk",SomaFM ThistleRadio
 https://ice2.somafm.com/thistle-64-aac
 #EXTINF:-1 tvg-logo="http://somafm.com/img3/u80s-400.png" group-title="80s,new wave,uk synthpop",SomaFM Underground 80s
 http://ice1.somafm.com/u80s-128-mp3
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/6/83776.v6.png" group-title="decades",SomaFM Underground 80s
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/6/83776.v6.png" group-title="80s,new wave,uk synthpop",SomaFM Underground 80s
 https://ice1.somafm.com/u80s-128-mp3
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/u80s-400.png" group-title="80s,new wave,uk synthpop",SomaFM Underground 80s
 http://ice2.somafm.com/u80s-32-aac
 #EXTINF:-1 tvg-logo="http://somafm.com/img3/u80s-400.png" group-title="80s,new wave,uk synthpop",SomaFM Underground 80s
 http://ice1.somafm.com/u80s-256-mp3
-#EXTINF:-1 tvg-logo="https://somafm.com/img3/u80s-400.png" group-title="80s,new wave,uk synthpop",SomaFM Underground 80s [64kb]
+#EXTINF:-1 tvg-logo="https://somafm.com/img3/u80s-400.png" group-title="80s,new wave,uk synthpop",SomaFM Underground 80s
 http://ice2.somafm.com/u80s-64-aac
-#EXTINF:-1 tvg-logo="" group-title="",SomaFM Vaporwaves (64 kbit)
+#EXTINF:-1 tvg-logo="https://somafm.com/img3/vaporwaves400.png" group-title="vaporwave,electronic",SomaFM Vaporwaves
 http://ice4.somafm.com/vaporwaves-64-aac
-#EXTINF:-1 tvg-logo="https://somafm.com/img3/xmasinfrisko-400.jpg" group-title="",Somafm Xmas in Frisco 64k AAC
+#EXTINF:-1 tvg-logo="https://somafm.com/img3/xmasinfrisko-400.jpg" group-title="adult hits,christmas,eclectic,holiday,xmas",SomaFM Xmas in Frisco
 https://ice4.somafm.com/xmasinfrisko-64-aac
-#EXTINF:-1 tvg-logo="https://somafm.com/img3/brfm-400.png" group-title="",SomaFM: Black Rock FM
+#EXTINF:-1 tvg-logo="https://somafm.com/img3/brfm-400.png" group-title="electronica,trance,burning man",SomaFM Black Rock FM
 https://ice2.somafm.com/brfm-64-aac
-#EXTINF:-1 tvg-logo="https://somafm.com/img3/brfm-400.png" group-title="",SomaFM: Black Rock FM
+#EXTINF:-1 tvg-logo="https://somafm.com/img3/brfm-400.png" group-title="electronica,trance,burning man",SomaFM Black Rock FM
 https://ice4.somafm.com/brfm-32-aac
-#EXTINF:-1 tvg-logo="https://somafm.com/img3/dronezone-400.jpg" group-title="",SomaFM: Drone Zone
+#EXTINF:-1 tvg-logo="https://somafm.com/img3/dronezone-400.jpg" group-title="ambient,atmospheric,drone",SomaFM Drone Zone
 http://ice6.somafm.com/dronezone-128-aac
-#EXTINF:-1 tvg-logo="https://somafm.com/img3/metal-400.png" group-title="",SomaFM: Metal Detector
+#EXTINF:-1 tvg-logo="https://somafm.com/img3/metal-400.png" group-title="black,crossover,death,doom,industrial,metal,progressive,punk,rock,stoner,technical,thrash",SomaFM Metal Detector
 https://ice2.somafm.com/metal-32-aac
-#EXTINF:-1 tvg-logo="https://somafm.com/img3/missioncontrol-400.png" group-title="",SomaFM: Mission Control
+#EXTINF:-1 tvg-logo="https://somafm.com/img3/missioncontrol-400.png" group-title="ambient,experimental,sounds,space program",SomaFM Mission Control
 https://ice2.somafm.com/missioncontrol-32-aac
-#EXTINF:-1 tvg-logo="https://somafm.com/img3/sonicuniverse-400.png" group-title="",SomaFM: Sonic Universe
+#EXTINF:-1 tvg-logo="https://somafm.com/img3/sonicuniverse-400.png" group-title="avant-garde,eclectic,jazz",SomaFM Sonic Universe
 https://ice6.somafm.com/sonicuniverse-32-aac
-#EXTINF:-1 tvg-logo="https://somafm.com/img3/suburbsofgoa-400.png" group-title="",SomaFM: Suburbs of Goa
+#EXTINF:-1 tvg-logo="https://somafm.com/img3/suburbsofgoa-400.png" group-title="desi,worldbeat",SomaFM Suburbs of Goa
 https://ice2.somafm.com/suburbsofgoa-32-aac
-#EXTINF:-1 tvg-logo="https://somafm.com/img3/suburbsofgoa-400.jpg" group-title="",SomaFM: Suburbs of Goa
+#EXTINF:-1 tvg-logo="https://somafm.com/img3/suburbsofgoa-400.jpg" group-title="desi,worldbeat",SomaFM Suburbs of Goa
 https://ice2.somafm.com/suburbsofgoa-64-aac
-#EXTINF:-1 tvg-logo="https://somafm.com/img3/vaporwaves400.png" group-title="128kbit,aac+,somafm,vaporwave,vapourwave",SomaFM: Vaporwaves [AAC 128kb]
+#EXTINF:-1 tvg-logo="https://somafm.com/img3/vaporwaves400.png" group-title="vaporwave,vapourwave",SomaFM Vaporwaves
 https://ice6.somafm.com/vaporwaves-128-aac
-#EXTINF:-1 tvg-logo="https://somafm.com/img3/xmasinfrisko-400.jpg" group-title="christmas music,nsfw,san francisco,seasonal",SomaFM: Xmas in Friskko
+#EXTINF:-1 tvg-logo="https://somafm.com/img3/xmasinfrisko-400.jpg" group-title="christmas,seasonal",SomaFM Xmas in Friskko
 https://ice2.somafm.com/xmasinfrisko-32-aac
-#EXTINF:-1 tvg-logo="https://somafm.com/img3/sonicuniverse-400.jpg" group-title="",Sonic Universe
+#EXTINF:-1 tvg-logo="https://somafm.com/img3/sonicuniverse-400.jpg" group-title="avant-garde,eclectic,jazz",SomaFM Sonic Universe
 http://ice3.somafm.com/dronezone-256-mp3
 #EXTINF:-1 tvg-logo="https://sonsoflibertyradio.com/images/ogimage.jpg" group-title="history,news",Sons of Liberty
 http://superflow02.gcnlive.com/sonsOfLiberty-hi.mp3
-#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/KSOSFM.jpg" group-title="christian contemporary",SOS Radio
+#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/KSOSFM.jpg" group-title="christian,contemporary",KSOS SOS Radio
 https://ic2.sslstream.com/sosnet.mp3
-#EXTINF:-1 tvg-logo="https://soulradio.us/soulradio.us_512.png" group-title="classic soul,soul",SOUL RADIO Classics
+#EXTINF:-1 tvg-logo="https://soulradio.us/soulradio.us_512.png" group-title="classic,soul",Soul Radio Classics
 https://listen.soulradio.us/us
-#EXTINF:-1 tvg-logo="https://streamfinder.com/listing-logos/49779_logo.jpg?version=7b73a644dbefd96af576b4e1ef4ab8b6" group-title="movie soundtracks",SoundtraxFM
+#EXTINF:-1 tvg-logo="https://streamfinder.com/listing-logos/49779_logo.jpg?version=7b73a644dbefd96af576b4e1ef4ab8b6" group-title="ambient,movies,soundtracks",SoundtraxFM
 http://edge4.peta.live365.net/b31436_128mp3
-#EXTINF:-1 tvg-logo="https://dashradio.com/wp-content/themes/dash-2.2.5/favicon.png" group-title="contemporary rnb,dash,dashradio,explicit,rap hiphop rnb,urban,urban contemporary",Southside on Dash
+#EXTINF:-1 tvg-logo="https://dashradio.com/wp-content/themes/dash-2.2.5/favicon.png" group-title="contemporary,R'n'B,explicit,rap,hip hop,urban",Southside on Dash
 http://ice55.securenetsystems.net/DASH95
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/18aa28_2e5ae431325e4e0e9154f6a1f3932c53~mv2.png/v1/fill/w_295,h_371,al_c,q_85,usm_0.66_1.00_0.01/18aa28_2e5ae431325e4e0e9154f6a1f3932c53~mv2.webp" group-title="community radio",Space 101.1 FM
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/18aa28_2e5ae431325e4e0e9154f6a1f3932c53~mv2.png/v1/fill/w_295,h_371,al_c,q_85,usm_0.66_1.00_0.01/18aa28_2e5ae431325e4e0e9154f6a1f3932c53~mv2.webp" group-title="community,freeform",KMGP Space 101.1
 http://67.212.165.106:8239/stream
-#EXTINF:-1 tvg-logo="" group-title="collage,drone,experimental,field recording,improvisation,jazz,noise,non music,psychedelic",SPARETIRE Radio
-https://sparetire.radio.af/stream/
-#EXTINF:-1 tvg-logo="" group-title="misc",SpasticRadio
+#EXTINF:-1 tvg-logo="https://seeded-session-images.scdn.co/v2/img/122/secondary/artist/1gZQti2XlFSddF9EV9Pqrp/en" group-title="dance,electronic",SpasticRadio
 http://spasticradio.serverroom.us:5860/
-#EXTINF:-1 tvg-logo="" group-title="",Speedway Radio
-http://67.212.165.106:8142/stream/;
-#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets.brands/602e7e9984c20b13f032ee35?ops=gravity(%22center%22),contain(32,32),quality(65)" group-title="",Spin Cycle - Mixing and Remixing The Hits 24/7
-http://n08b-e2.revma.ihrhls.com/zc4776?rj-ttl=5&rj-tok=AAABfdrw_f0A25bfn8gMWfFtAg
-#EXTINF:-1 tvg-logo="http://funkyimg.com/i/2DvFf.jpg" group-title="fresh,non stop,top 40",spin1038 - non stop
-http://pri.gocaster.net/SpinExtra
-#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/KCMS Spirit 105.3.png" group-title="christian contemporary",Spirit 105.3
+#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/KCMS Spirit 105.3.png" group-title="christian,contemporary",KCMS Spirit 105.3
 https://crista-kcms.streamguys1.com/kcmsmp3
-#EXTINF:-1 tvg-logo="https://storage.snappages.site/oxrycnjnby/assets/images/1200250_1152x717_500.png" group-title="christian,christian contemporary,internet radio,le mars",Spirit 712 (128k MP3)
+#EXTINF:-1 tvg-logo="https://storage.snappages.site/oxrycnjnby/assets/images/1200250_1152x717_500.png" group-title="christian,contemporary",Spirit 712
 https://www.streamvortex.com:8444/s/10150
-#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/KVSS.png" group-title="religious",Spirit Catholic Radio
+#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/KVSS.png" group-title="religious,christian",KVSS Spirit Catholic Radio
 https://ice7.securenetsystems.net/KVSS
-#EXTINF:-1 tvg-logo="" group-title="christian,christian contemporary,christian praise&worship,god,jesus",Spirit FM
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7f/WXRT_station_logo.png" group-title="christian,contemporary,praise,worship",WRXT Spirit FM
 https://positivealtradio.streamguys1.com/wrxtmp3
-#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/KHTK-AM.jpg" group-title="sports",Sports 1140 KHTK
+#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/KHTK-AM.jpg" group-title="sports,talk",KHTK Sports 1140
 https://19803.live.streamtheworld.com:443/KHTKAMAAC.aac
-#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/WODT.png" group-title="sports",Sports 1280
+#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/WODT.png" group-title="sports,talk",WODT Sports 1280
 https://n13b-e2.revma.ihrhls.com/zc6223?rj-ttl=5&rj-tok=AAABfd4-YYUAqSU_Zo5ntEhB4w
-#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/sports56.png" group-title="sports",Sports 56 WHBQ
+#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/sports56.png" group-title="sports,talk",WHBQ Sports 56
 https://stream1.flinn.com:8443/560AM.mp3
-#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/KARN.jpg" group-title="sports",Sports Animal 920
+#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/KARN.jpg" group-title="sports,talk",KARN Sports Animal 920
 https://18443.live.streamtheworld.com:443/KARNAMAAC.aac
-#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/WMSP-AM.jpg" group-title="sports",Sports Radio 740
+#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/WMSP-AM.jpg" group-title="sports,talk",WMSP Sports Radio 740
 https://24373.live.streamtheworld.com:443/WMSPAMAAC.aac
-#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/KUJZ.jpg" group-title="sports",Sports Radio 95.3 The Score
+#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/KUJZ.jpg" group-title="sports,talk",KUJZ Sports Radio 95.3
 https://25013.live.streamtheworld.com:443/KUJZFMAAC.aac
-#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/Sports Radio KJR Seattle.png" group-title="sports",Sports Radio KJR
+#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/Sports Radio KJR Seattle.png" group-title="talk,sports",KJR Sports Radio
 https://n0eb-e2.revma.ihrhls.com/zc2565?rj-ttl=5&rj-tok=AAABfd4-TIgA47m_3Iuf4YOMjw
-#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/WUMP.jpg" group-title="sports",Sports Radio the Ump
+#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/WUMP.jpg" group-title="sports,talk",WUMP Sports Radio The Ump
 https://24373.live.streamtheworld.com:443/WUMPAMAAC.aac
-#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/WTKAAM.png" group-title="sports",Sports Talk 1050 WTKA
+#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/WTKAAM.png" group-title="sports,talk",WTKA Sports Talk 1050
 https://19313.live.streamtheworld.com:443/WTKAAMAAC.aac
-#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/KNBB.png" group-title="sports",Sports Talk 97.7
+#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/KNBB.png" group-title="sports,talk",KNBB Sports Talk 97.7
 https://ice7.securenetsystems.net/RDSPORTS
-#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/KTCKFMAM.png" group-title="sports",SportsRadio 1310 & 96.7 The Ticket
+#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/KTCKFMAM.png" group-title="sports,talk",KTCK SportsRadio 1310/96.7 The Ticket
 https://18743.live.streamtheworld.com:443/KTCKAMAAC.aac
-#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/SportsTalk 790.png" group-title="sports",SportsTalk 790
+#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/SportsTalk 790.png" group-title="sports,talk",KBME SportsTalk 790
 https://n14b-e2.revma.ihrhls.com/zc2257?rj-ttl=5&rj-tok=AAABfd42jOYAp_gtTcJFz87uoA
-#EXTINF:-1 tvg-logo="http://www.spritelayerradio.com/static/icons/production/120.png" group-title="game,video game music",SpriteLayer Video Game Radio
+#EXTINF:-1 tvg-logo="http://www.spritelayerradio.com/static/icons/production/120.png" group-title="soundtracks,video game",SpriteLayer Video Game Radio
 http://www.spritelayerradio.com:8010/all
-#EXTINF:-1 tvg-logo="" group-title="",Squid Radio - Guilty
+#EXTINF:-1 tvg-logo="https://i.guim.co.uk/img/media/e879a87a36ed277cf5048bd00df635ab65b7d606/115_0_3371_2024/master/3371.jpg?width=465&dpr=1&s=none" group-title="alternative,indie",Squid Radio - Guilty
 https://play.squid-radio.net/guilty
-#EXTINF:-1 tvg-logo="" group-title="",Squidbillies
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/58/Squidbillies_title_card.png" group-title="country,new country,adult,comedy",Squidbillies
 https://adultswim-vodlive.cdn.turner.com/live/squidbillies/stream_8.m3u8
-#EXTINF:-1 tvg-logo="" group-title="spiritual",Srila Prabhupada Lecturas
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/31TGfnjeM5w/hqdefault.jpg" group-title="spiritual,hare krishna",Srila Prabhupada Lecturas
 http://sc17.spacialnet.com/stream/3234/
-#EXTINF:-1 tvg-logo="http://stlouisclassicrock.com/favicon.ico" group-title="60s,70er,classic rock,rock",St Louis Classic Rock
+#EXTINF:-1 tvg-logo="http://stlouisclassicrock.com/favicon.ico" group-title="60s,70s,classic,rock",St. Louis Classic Rock
 http://74.208.89.18:8000/SLCR_highdef.mp3;
-#EXTINF:-1 tvg-logo="https://wavefarm.org/favicon/apple-icon-120x120.png" group-title="arca,art,community radio,experimental",Standing Wave Radio
+#EXTINF:-1 tvg-logo="https://wavefarm.org/favicon/apple-icon-120x120.png" group-title="arca,art,community,experimental",Standing Wave Radio
 http://audio.wavefarm.org:8000/transmissionarts.mp3
-#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/KDGEFMStar.png" group-title="adult contemporary",Star 102.1
+#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/KDGEFMStar.png" group-title="adult contemporary,hits",KDGE Star 102.1
 https://n4bb-e2.revma.ihrhls.com/zc2815?rj-ttl=5&rj-tok=AAABfd4u8d8AKx8j623Xvt3gPg
-#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/WQNQ.png" group-title="pop,top 40",Star 104.3
+#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/WQNQ.png" group-title="pop,top 40",WQNQ Star 104.3
 https://n01b-e2.revma.ihrhls.com/zc1585?rj-ttl=5&rj-tok=AAABfdpkOp8A0qQrAsavqphykw
-#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets.brands/5e050734403415ef8e632d47" group-title="",Star 105.7
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets.brands/5e050734403415ef8e632d47" group-title="adult contemporary,hits",WSRW Star 105.7
 https://n1cb-e2.revma.ihrhls.com/zc1169/hls.m3u8?streamid=1169&rj-tok=AAABfdum8aoA7jYyJL4LOyBGRQ&rj-ttl=5
-#EXTINF:-1 tvg-logo="" group-title="80s,dance,newage,pop,rock",Star 107.9 FM
+#EXTINF:-1 tvg-logo="https://media.live365.com/download/69ee7384-c5a2-4636-9559-c672a11a57f7.png" group-title="80s,dance,newage,pop,rock",Star 107.9
 http://hemnos.cdnstream.com/1100_us
-#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/603e4afac693cb5cbb7b0fb2" group-title="",Star 94.1
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/603e4afac693cb5cbb7b0fb2" group-title="adult contemporary,hits",KMYI Star 94.1
 https://n04b-e2.revma.ihrhls.com/zc253?rj-ttl=5&rj-tok=AAABfdtp1I4A6Mm_WlyCi6JeyQ
-#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/KHKU.png" group-title="adult contemporary",STAR 94.3
+#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/KHKU.png" group-title="adult contemporary,hits",KHKU Star 94.3
 https://ice10.securenetsystems.net/KHKU
-#EXTINF:-1 tvg-logo="" group-title="classic rock,trance",Star 98 FM
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/50/af/30663/c300.png" group-title="classic rock,trance",WQLH Star 98
 http://sc9.shoutcaststreaming.us:9052/;
-#EXTINF:-1 tvg-logo="https://www.startalkradio.net/wp-content/uploads/2014/04/neil-degrasse-tyson-startalk-radio.jpg" group-title="science",StarTalk Radio 24/7
+#EXTINF:-1 tvg-logo="https://www.startalkradio.net/wp-content/uploads/2014/04/neil-degrasse-tyson-startalk-radio.jpg" group-title="science,education,public",StarTalk Radio 24/7
 http://tunein.streamguys1.com/StarTalkRadio?aw_0_1st.playerid=RadioTime&aw_0_1st.skey=1508066437
-#EXTINF:-1 tvg-logo="" group-title="community radio,indie,sturgeon bay",Steel Bridge Radio - Sturgeon Bay, WI
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/fMvGuM_O6unYF9C6mXILNwBw9UbpyQ3IC1qbhWzwJRhQmg1eyvlzyJXd2hFOBV0qE94=w240-h480-rw" group-title="community,indie",Steel Bridge Radio
 https://stream.radio.co/sb3c9c9d77/listen
-#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/KCSR.png" group-title="country",Stereo AM 610 KCSR
+#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/KCSR.png" group-title="country,new country",KCSR 610
 https://ice23.securenetsystems.net/KCSR
-#EXTINF:-1 tvg-logo="https://qello.com/static/favicons/favicon48x48.png" group-title="live concert",Stingray Quello Concerts (US)
+#EXTINF:-1 tvg-logo="https://qello.com/static/favicons/favicon48x48.png" group-title="live,concert",Stingray Quello Concerts
 https://dai.google.com/linear/hls/pa/event/BakMHO8xRSmGKYeiyhsq3A/stream/261d84a2-6aad-4b60-b86c-b71af80fa89b:BRU/master.m3u8
-#EXTINF:-1 tvg-logo="http://www.streamingsoundtracks.com/images/logos/logo-sst-v200x200.png" group-title="movie,richmond,soundtrack",StreamingSoundtracks.com Hi
+#EXTINF:-1 tvg-logo="http://www.streamingsoundtracks.com/images/logos/logo-sst-v200x200.png" group-title="movie,soundtrack",StreamingSoundtracks.com Hi
 http://hi5.streamingsoundtracks.com/
-#EXTINF:-1 tvg-logo="http://www.streamingsoundtracks.com/images/logos/logo-sst-v200x200.png" group-title="movie,richmond,soundtrack",StreamingSoundtracks.com Lo
+#EXTINF:-1 tvg-logo="http://www.streamingsoundtracks.com/images/logos/logo-sst-v200x200.png" group-title="movie,soundtrack",StreamingSoundtracks.com Lo
 http://lo4.streamingsoundtracks.com/
-#EXTINF:-1 tvg-logo="" group-title="adventist,christian,gospel",Strong Tower Radio
+#EXTINF:-1 tvg-logo="https://strongtowerradio.org/wp-content/uploads/2020/06/Copy-of-STR-Today.png" group-title="adventist,christian,gospel",Strong Tower Radio
 https://strongtowerradio.streamguys1.com/live
-#EXTINF:-1 tvg-logo="https://imgproxy.zenomedia.com/insecure/fit/500/500/ce/0/plain/https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDQruiq8QsMCxIOU3RhdGlvblByb2ZpbGUYgIDQ1v3O3wkMogEEemVubw/image/%3Fresize=500x500&v=1" group-title="70s,decades,decatur,lifestyle,live,nostalgia,retro",Style Radio 70s
+#EXTINF:-1 tvg-logo="https://imgproxy.zenomedia.com/insecure/fit/500/500/ce/0/plain/https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDQruiq8QsMCxIOU3RhdGlvblByb2ZpbGUYgIDQ1v3O3wkMogEEemVubw/image/%3Fresize=500x500&v=1" group-title="70s,lifestyle,live,nostalgia,retro",Style Radio 70s
 http://stream.zeno.fm/g3vbf5d0ts8uv?styleradio70s=&rj-tok=AAABfdroa6wA9Q1Vd1JN63c1Ww&rj-ttl=5
-#EXTINF:-1 tvg-logo="http://www.subsonicradio.com/favicon.ico" group-title="background,disneyland park,instrumental",Subsonic Radio Backgrounds
+#EXTINF:-1 tvg-logo="http://www.subsonicradio.com/favicon.ico" group-title="background,instrumental",Subsonic Radio Backgrounds
 http://horizons.subsonicradio.com:8000/background.mp3
-#EXTINF:-1 tvg-logo="http://www.subsonicradio.com/favicon.ico" group-title="",Subsonic Radio Dole Whip
+#EXTINF:-1 tvg-logo="http://www.subsonicradio.com/favicon.ico" group-title="adventureland,tiki",Subsonic Radio Dole Whip
 http://horizons.subsonicradio.com:8000/dole-whip.mp3
-#EXTINF:-1 tvg-logo="http://www.subsonicradio.com/favicon.ico" group-title="",Subsonic Radio Future Land
+#EXTINF:-1 tvg-logo="http://www.subsonicradio.com/favicon.ico" group-title="electronic,dance",Subsonic Radio Future Land
 http://horizons.subsonicradio.com:8000/futureland.mp3
 #EXTINF:-1 tvg-logo="http://www.subsonicradio.com/favicon.ico" group-title="disney,disneyland park",Subsonic Radio Great Music Ride
 http://horizons.subsonicradio.com:8000/gmr.mp3
-#EXTINF:-1 tvg-logo="http://www.subsonicradio.com/favicon.ico" group-title="",Subsonic Radio Living Seas
+#EXTINF:-1 tvg-logo="http://www.subsonicradio.com/favicon.ico" group-title="ambient,oceanic",Subsonic Radio Living Seas
 http://horizons.subsonicradio.com:8000/livingseas.mp3
-#EXTINF:-1 tvg-logo="http://www.subsonicradio.com/favicon.ico" group-title="",Subsonic Radio Main Street
+#EXTINF:-1 tvg-logo="http://www.subsonicradio.com/favicon.ico" group-title="hits,ambient",Subsonic Radio Main Street
 http://horizons.subsonicradio.com:8000/mainstreet.mp3
-#EXTINF:-1 tvg-logo="http://www.subsonicradio.com/favicon.ico" group-title="disneyland park",Subsonic Radio Soarin'
+#EXTINF:-1 tvg-logo="http://www.subsonicradio.com/favicon.ico" group-title="disneyland park,classics",Subsonic Radio Soarin'
 http://horizons.subsonicradio.com:8000/soarin.mp3
 #EXTINF:-1 tvg-logo="http://www.subsonicradio.com/favicon.ico" group-title="disney,disney parks",Subsonic Radio Staff Picks
 http://horizons.subsonicradio.com:8000/staff_picks.mp3
-#EXTINF:-1 tvg-logo="http://www.subsonicradio.com/favicon.ico" group-title="disney parks",Subsonic Radio Star Tunnel
+#EXTINF:-1 tvg-logo="http://www.subsonicradio.com/favicon.ico" group-title="disney parks,soundtracks",Subsonic Radio Star Tunnel
 http://horizons.subsonicradio.com:8000/startunnel.mp3
-#EXTINF:-1 tvg-logo="http://subsonicradio.com/favicon.ico" group-title="disneyland park",Subsonic Radio Tangaroa
+#EXTINF:-1 tvg-logo="http://subsonicradio.com/favicon.ico" group-title="disneyland park,soundtracks",Subsonic Radio Tangaroa
 http://horizons.subsonicradio.com:8000/tangaroa.mp3
-#EXTINF:-1 tvg-logo="http://subsonicradio.com/favicon.ico" group-title="disneyland park",Subsonic Radio WEDWay
+#EXTINF:-1 tvg-logo="http://subsonicradio.com/favicon.ico" group-title="disneyland park,soundtracks",Subsonic Radio WEDWay
 http://horizons.subsonicradio.com:8000/wedway.mp3
-#EXTINF:-1 tvg-logo="http://www.subsonicradio.com/favicon.ico" group-title="",Subsonic Radio Wilderness Jct
+#EXTINF:-1 tvg-logo="http://www.subsonicradio.com/favicon.ico" group-title="disneyland park,soundtracks",Subsonic Radio Wilderness Junction
 http://horizons.subsonicradio.com:8000/2.mp3
 #EXTINF:-1 tvg-logo="https://substation.one/wp-content/uploads/2020/01/cropped-substation.one-Logo-final-192x192.png" group-title="dance,house,techno",Substation One LA
 http://transmitter.clubcasting.net:8000/radio
-#EXTINF:-1 tvg-logo="" group-title="birmingham,indie",Substrate Radio.com - Birmingham, AL
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/YTLqjKRrEnL0yXIHkq8vnUhMM3gfF4-_tvQ5QtRv8behcBKb8y0lzb_dp5E0fSJALA" group-title="indie,rock",Substrate Radio.com
 http://substrate.serverroom.us:4378/;stream.nsv
-#EXTINF:-1 tvg-logo="http://qsl.net/w4xtc/deltafoxmedia/logo/Icon.jpg" group-title="classic country,country,new country",Sugar Country Radio
+#EXTINF:-1 tvg-logo="http://qsl.net/w4xtc/deltafoxmedia/logo/Icon.jpg" group-title="classic,country,new country",Sugar Country Radio
 https://radio.streemlion.com:2795/stream
-#EXTINF:-1 tvg-logo="https://flysnf.org/wp-content/uploads/2020/05/cropped-snf-favicon-192x192.jpg" group-title="aviation",Sun 'n Fun Radio
+#EXTINF:-1 tvg-logo="https://flysnf.org/wp-content/uploads/2020/05/cropped-snf-favicon-192x192.jpg" group-title="aviation,news",SUN 'n FUN Radio 1510
 http://s1-ord.liveatc.net:80/sunfunlive1?nocache=2021122102353323950
-#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/sunradio.png" group-title="rock",Sun Radio
+#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/sunradio.png" group-title="rock,oldies",Sun Radio
 https://ice10.securenetsystems.net/SUNRADIO
-#EXTINF:-1 tvg-logo="https://www.sunsounds.org/sites/default/files/Sunsounds_Logo.png" group-title="radio for the print handicapped,radio reading service",Sun Sounds of Arizona
+#EXTINF:-1 tvg-logo="https://www.sunsounds.org/sites/default/files/Sunsounds_Logo.png" group-title="radio reading service,talk,speech",Sun Sounds of Arizona
 https://kjzz.streamguys1.com/sunsounds_aac_256
-#EXTINF:-1 tvg-logo="https://i2.wp.com/sundaybaroque.org/wp-content/uploads/2018/02/cropped-B2.jpg?fit=192%2C192" group-title="baroque,classical",Sunday Baroque
+#EXTINF:-1 tvg-logo="https://i2.wp.com/sundaybaroque.org/wp-content/uploads/2018/02/cropped-B2.jpg?fit=192%2C192" group-title="baroque,classical",WSHU Sunday Baroque
 http://wshu.streamguys.org/wshu-baroque
-#EXTINF:-1 tvg-logo="https://www.internet-radio.com/favicon.png" group-title="70s,80s,90s,christmas,classical,holiday",Sunny 105 - Feel Good Christmas Variety
+#EXTINF:-1 tvg-logo="https://www.internet-radio.com/favicon.png" group-title="70s,80s,90s,christmas,classical,holiday",Sunny 105 Feel Good Christmas Variety
 http://us5.internet-radio.com:8121/stream
-#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/KSNE-FM.jpg" group-title="adult contemporary",Sunny 106.5
+#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/KSNE-FM.jpg" group-title="adult contemporary,hits",KSNE Sunny 106.5
 https://n31b-e2.revma.ihrhls.com/zc1341?rj-ttl=5&rj-tok=AAABfd5Un8gAiXLHpl92OYkKhQ
-#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/WGSY.jpg" group-title="adult contemporary",Sunny 94.7
+#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/WGSY.jpg" group-title="adult contemporary,hits",WGSY Sunny 94.7
 https://n3fb-e2.revma.ihrhls.com/zc3390?rj-ttl=5&rj-tok=AAABfd2LnTwAB7K1bUw4kW54xQ
-#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/WFDL.jpg" group-title="adult contemporary",Sunny 97.7
+#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/WFDL.jpg" group-title="adult contemporary,hits",WFDL Sunny 97.7
 https://ice24.securenetsystems.net/WFDL?&playSessionID=A36B2C25-F84A-41C3-93A2416EB2614119
-#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/SUNNY 99.1.png" group-title="adult contemporary",SUNNY 99.1
+#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/SUNNY 99.1.png" group-title="adult contemporary,hits",KODA Sunny 99.1
 https://n1ab-e2.revma.ihrhls.com/zc2273?rj-ttl=5&rj-tok=AAABfdstgwUAIIFOfABJTa1hTg
-#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/Sunny 99.9 El Paso.png" group-title="adult contemporary",Sunny 99.9 El Paso
+#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/Sunny 99.9 El Paso.png" group-title="adult contemporary,hits",KTSM Sunny 99.9
 https://n2db-e2.revma.ihrhls.com/zc3188?rj-ttl=5&rj-tok=AAABfd0ka68Au6kooItHy4OY9g
-#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/WNJC.jpg" group-title="spanish",Super 1360
-http://192.95.39.65:5383/;
-#EXTINF:-1 tvg-logo="" group-title="hiphop,party,rnb",Super Throwback Party Radio
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s273904/images/logog.png?t=159139" group-title="hip hop,party,R'n'B",Super Throwback Party Radio
 http://hestia.cdnstream.com/1543_128?cb=618512.mp3
-#EXTINF:-1 tvg-logo="https://dashradio.com/wp-content/themes/dash-2.2.5/favicon.png" group-title="60s,70s,80s,classic disco,contemporary hits,dash,dashradio,disco,easy,easy listening,funk,funky,houseparty,oldies,smooth lounge,soul",Superfreak with Rick James
+#EXTINF:-1 tvg-logo="https://dashradio.com/wp-content/themes/dash-2.2.5/favicon.png" group-title="60s,70s,80s,disco,contemporary,hits,disco,easy listening,funk,funky,houseparty,oldies,smooth,lounge,soul",Superfreak With Rick James
 http://ice55.securenetsystems.net/DASH22
-#EXTINF:-1 tvg-logo="" group-title="rock",Supernatural SRN
-http://www.srnlive.com:8000/
-#EXTINF:-1 tvg-logo="http://player.radiocoalition.org/configs_RC/images/surfrootsclassicsbig2-icon.png" group-title="reggae",Surf Roots Radio
+#EXTINF:-1 tvg-logo="http://player.radiocoalition.org/configs_RC/images/surfrootsclassicsbig2-icon.png" group-title="reggae,world",Surf Roots Radio
 http://ais-sa5.cdnstream1.com/b00888_128mp3
-#EXTINF:-1 tvg-logo="https://dashradio.com/wp-content/themes/dash-2.2.5/favicon.png" group-title="20c,21c,adult contemporary,dash,dashradio,decades,easy listening,houseparty,influences,jazz,lounge,midtempo,swing",Swing on Dash
+#EXTINF:-1 tvg-logo="https://dashradio.com/wp-content/themes/dash-2.2.5/favicon.png" group-title="20c,21c,adult contemporary,easy listening,houseparty,influences,jazz,lounge,midtempo,swing",Swing on Dash
 http://ice55.securenetsystems.net/DASH80
-#EXTINF:-1 tvg-logo="https://www.swingstreetradio.org/wp-content/themes/swing/images/favicon.ico" group-title="",Swing Street Radio
+#EXTINF:-1 tvg-logo="https://www.swingstreetradio.org/wp-content/themes/swing/images/favicon.ico" group-title="swing,big band",Swing Street Radio
 http://s6.voscast.com:11312/
-#EXTINF:-1 tvg-logo="" group-title="",Syncopated Times Radio Network
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s310177/images/logog.png?t=1" group-title="jazz,swing,big band",Syncopated Times Radio Network
 https://s3.radio.co/sd61f8187a/listen
 #EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/5d5dbe474a04b7000190070b/1578552251559-LUA0Y5429GAMN2S2O3S4/SZ_logo_white_pink.png?format=1500w&content-type=image%2Fpng" group-title="80s,darkwave,music,new wave,retro,synthwave,vaporwave",Synth Zone Radio
 https://s3.radio.co/s5fba18864/low
-#EXTINF:-1 tvg-logo="https://www.synthwavecityfm.com/favicon.ico" group-title="chillwave,retrowave,synthwave",Synthwave City FM
+#EXTINF:-1 tvg-logo="https://www.synthwavecityfm.com/favicon.ico" group-title="chillwave,retrowave,synthwave",Synthwave City
 http://94.23.252.14:8179/stream
 #EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/WOWD-LP.png" group-title="",Takoma Radio
 https://live2.takomaradio.org/stream
