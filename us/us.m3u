@@ -8343,145 +8343,143 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WUAL_HD1_SC
 https://playerservices.streamtheworld.com/api/livestream-redirect/WUAL_HD2_SC
 #EXTINF:-1 tvg-logo="http://mediad.publicbroadcasting.net/p/wual/files/201508/favicon_fid.ico" group-title="bbc,public",WUAL HD3 Alabama Public Radio BBC World Service
 https://playerservices.streamtheworld.com/api/livestream-redirect/WUAL_HD3_SC
-#EXTINF:-1 tvg-logo="https://d1qbemlbhjecig.cloudfront.net/prod/filer_public/wucf-bento-live-pbs/About/666861bb0f_WUCF-Social.png" group-title="",WUCF 89.9 Jazz Orlando/ Florida AAC+
+#EXTINF:-1 tvg-logo="https://d1qbemlbhjecig.cloudfront.net/prod/filer_public/wucf-bento-live-pbs/About/666861bb0f_WUCF-Social.png" group-title="jazz,blues",WUCF 89.9 Jazz
 http://peridot.streamguys.com:7830/WUCF
-#EXTINF:-1 tvg-logo="http://static.wixstatic.com/media/2de031_71d65cc0544c43d4ab9b87c496ffbe13%7Emv2.png/v1/fill/w_32%2Ch_32%2Clg_1%2Cusm_0.66_1.00_0.01/2de031_71d65cc0544c43d4ab9b87c496ffbe13%7Emv2.png" group-title="amherst,buffalo,urban gospel",WUFO 1080 Amherst, NY
+#EXTINF:-1 tvg-logo="http://static.wixstatic.com/media/2de031_71d65cc0544c43d4ab9b87c496ffbe13%7Emv2.png/v1/fill/w_32%2Ch_32%2Clg_1%2Cusm_0.66_1.00_0.01/2de031_71d65cc0544c43d4ab9b87c496ffbe13%7Emv2.png" group-title="urban,gospel",WUFO 1080
 http://crystalout.surfernetwork.com:8001/WUFO_MP3
-#EXTINF:-1 tvg-logo="https://www.wuft.org/favicon.ico" group-title="classical,various",WUFT Classic
+#EXTINF:-1 tvg-logo="https://www.wuft.org/favicon.ico" group-title="classical,baroque",WUFT Classic
 http://ais-sa1.streamon.fm/7648_48k.aac/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.wuft.org/wp-content/uploads/2019/08/WUFT-logo-icon.png" group-title="news,npr,pri",WUFT News
 https://ais-sa1.streamon.fm/7647_48k.aac/playlist.m3u8?listenerId=d022961cd3f2d326b3099ffd4020559b&aw_0_1st.playerid=esPlayer&aw_0_1st.skey=1583551216
-#EXTINF:-1 tvg-logo="" group-title="classical,folk,jazz,news,talk,variety",wuga
+#EXTINF:-1 tvg-logo="https://radiostation.info/images/station-logo/w/WUGA-FM.jpeg" group-title="classical,folk,jazz,news,talk,variety",WUGA 91.7
 http://wuga-ice.streamguys1.com/live-mp3
-#EXTINF:-1 tvg-logo="https://www.wuky.org/sites/wuky/files/201907/wuky_avatar.jpg" group-title="",WUKY
+#EXTINF:-1 tvg-logo="https://www.wuky.org/sites/wuky/files/201907/wuky_avatar.jpg" group-title="public,adult album alternative",WUKY 91.3
 http://wukyhd1.wuky.org:8000/xstream
-#EXTINF:-1 tvg-logo="https://secureservercdn.net/50.62.174.75/oxv.3e3.mwp.accessdomain.com/wp-content/themes/wumb/images/favicon.png" group-title="blues,boston,public radio",WUMB Blues Stream - Boston, MA
+#EXTINF:-1 tvg-logo="https://secureservercdn.net/50.62.174.75/oxv.3e3.mwp.accessdomain.com/wp-content/themes/wumb/images/favicon.png" group-title="blues,public",WUMB Blues Stream
 http://wumb.streamguys1.com/wumb919st
-#EXTINF:-1 tvg-logo="https://secureservercdn.net/50.62.174.75/oxv.3e3.mwp.accessdomain.com/wp-content/themes/wumb/images/favicon.png" group-title="boston,french music,public radio",WUMB French Accent Stream - Boston, MA
+#EXTINF:-1 tvg-logo="https://secureservercdn.net/50.62.174.75/oxv.3e3.mwp.accessdomain.com/wp-content/themes/wumb/images/favicon.png" group-title="french,public",WUMB French Accent Stream
 http://wumb.streamguys1.com/wumb919fr-aac
-#EXTINF:-1 tvg-logo="http://player.streamguys.com/wumb/sgplayer/include/assets/img/wumbSG.jpg" group-title="boston,community radio,folk,public radio",WUMB Studio Archives Stream - Boston, MA
+#EXTINF:-1 tvg-logo="http://player.streamguys.com/wumb/sgplayer/include/assets/img/wumbSG.jpg" group-title="community,folk,public",WUMB Studio Archives Stream
 http://wumb.streamguys1.com/wumb919od
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hjZRKiE.jpg" group-title="apm,bbc,chapel hill,news,npr,pri,public radio,talk",WUNC 91.5 Chapel Hill, NC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hjZRKiE.jpg" group-title="apm,bbc,news,npr,pri,public,talk",WUNC 91.5
 http://wunc-ice.streamguys1.com/wunc-128-mp3
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hjZRKiE.jpg" group-title="adult album alternative,public radio",WUNC 91.5 HD-2 Chapel Hill, NC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hjZRKiE.jpg" group-title="adult album alternative,public",WUNC 91.5 HD2
 http://wunc-ice.streamguys1.com/wunc-hd2-128-mp3
-#EXTINF:-1 tvg-logo="https://www.unh.edu/wunh/favicon.png" group-title="alternative,college radio,durham,sport,university radio",WUNH 91.3 University of New Hampshire - Durham, NH
+#EXTINF:-1 tvg-logo="https://www.unh.edu/wunh/favicon.png" group-title="alternative,college,durham,sport,university",WUNH 91.3 University of New Hampshire
 http://s9.viastreaming.net:9000/;.mp3
-#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/WUNR Radio International.jpg" group-title="ethnic",WUNR 1600 AM
+#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/WUNR Radio International.jpg" group-title="ethnic,world",WUNR 1600
 http://peridot.streamguys.com:7740/live
-#EXTINF:-1 tvg-logo="http://wuol.org/wp-content/uploads/cropped-wuol-192x192.gif" group-title="classical",WUOL 90.5 Classical Louisville, KY
+#EXTINF:-1 tvg-logo="http://wuol.org/wp-content/uploads/cropped-wuol-192x192.gif" group-title="classical,baroque",WUOL 90.5 Classical
 http://lpm.streamguys1.com/wuol-web
-#EXTINF:-1 tvg-logo="http://mediad.publicbroadcasting.net/p/michigan/files/201503/512x512.ico" group-title="apm,bbc,npr,pri",WUOM 91.7 "Michigan Radio" - Ann Arbor, MI
+#EXTINF:-1 tvg-logo="http://mediad.publicbroadcasting.net/p/michigan/files/201503/512x512.ico" group-title="apm,bbc,npr,pri",WUOM 91.7 Michigan Radio
 https://playerservices.streamtheworld.com/api/livestream-redirect/WUOMFM_SC
-#EXTINF:-1 tvg-logo="http://mediad.publicbroadcasting.net/p/wuot/files/201506/favicon_fid.ico" group-title="community radio,npr,public radio",WUOT | 91.9 FM, Knoxville, TN
+#EXTINF:-1 tvg-logo="http://mediad.publicbroadcasting.net/p/wuot/files/201506/favicon_fid.ico" group-title="community,npr,public",WUOT 91.9
 https://playerservices.streamtheworld.com/api/livestream-redirect/WUOTFM_SC
-#EXTINF:-1 tvg-logo="" group-title="knoxville,public radio",WUOT-2
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s23408/images/logog.jpg?t=1" group-title="public,talk",WUOT 2
 https://16813.live.streamtheworld.com:443/WUOTHD2.mp3
-#EXTINF:-1 tvg-logo="https://townsquare.media/site/919/files/2017/09/wupe-logo.png?w=250&zc=1&s=0&a=t&q=90" group-title="",WUPE Whoopee 100.1 FM
+#EXTINF:-1 tvg-logo="https://townsquare.media/site/919/files/2017/09/wupe-logo.png?w=250&zc=1&s=0&a=t&q=90" group-title="classic hits,oldies",WUPE Whoopee 100.1
 http://34.105.27.249/townsquare-wupefmaac-ibc3?session-id=ca6f66076e94966fa91c6db3ae85a245
-#EXTINF:-1 tvg-logo="https://wurdradio.com/favicon.ico" group-title="",WURD Radio 96.1 FM/900 AM
+#EXTINF:-1 tvg-logo="https://wurdradio.com/favicon.ico" group-title="urban,talk",WURD 96.1/900
 http://147.135.84.27/wurd-am
-#EXTINF:-1 tvg-logo="http://www.wusb.fm//misc/favicon.ico" group-title="freeform,long island,stony brook,university radio",WUSB 90.1 (Lo-Fi)
+#EXTINF:-1 tvg-logo="http://www.wusb.fm//misc/favicon.ico" group-title="freeform,university",WUSB 90.1
 http://stream.wusb.stonybrook.edu:8080/;
-#EXTINF:-1 tvg-logo="http://abcdunlimited.com/images/logo/wusblogor80.jpg" group-title="freeform,long island,stony brook,university radio",WUSB 90.1 State University of New York at Stony Brook, NY
+#EXTINF:-1 tvg-logo="http://abcdunlimited.com/images/logo/wusblogor80.jpg" group-title="freeform,university",WUSB 90.1 State University of New York
 http://stream.wusb.stonybrook.edu:8090/;.mp3
-#EXTINF:-1 tvg-logo="" group-title="columbia,student radio,university radio",WUSC 90.5 Columbia, SC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/WUSC_90.5FM_logo.png" group-title="student,university",WUSC 90.5
 http://129.252.184.221:8000/;.mp3
-#EXTINF:-1 tvg-logo="" group-title="jazz",WUSF 89.7
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s23426/images/logog.png?t=1697533397000" group-title="jazz,blues",WUSF 89.7
 https://playerservices.streamtheworld.com/api/livestream-redirect/WUSFFM.mp3
-#EXTINF:-1 tvg-logo="" group-title="jazz,news,npr,tampa",WUSF 89.7 University of South Florida NPR
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s23426/images/logog.png?t=1697533397000" group-title="jazz,news,npr",WUSF 89.7 University of South Florida
 https://18193.live.streamtheworld.com:443/WUSFFM.mp3
-#EXTINF:-1 tvg-logo="http://www.southernmissradio.com/wp-content/themes/swift/images/favicon.ico" group-title="adult album alternative,americana,eclectic,hattiesburg,university radio",WUSM 88.5 University of Southern Mississippi, Hattiesburg, MS
+#EXTINF:-1 tvg-logo="http://www.southernmissradio.com/wp-content/themes/swift/images/favicon.ico" group-title="adult album alternative,americana,eclectic,university",WUSM 88.5 University of Southern Mississippi
 http://wusm-stream.usm.edu:8000/wusm
-#EXTINF:-1 tvg-logo="http://www.scranton.edu/academics/cas/communication/wusr/images/mic.png" group-title="alternative,college radio,scranton,student radio,university radio",WUSR 99.5 University of Scranton, PA
+#EXTINF:-1 tvg-logo="http://www.scranton.edu/academics/cas/communication/wusr/images/mic.png" group-title="alternative,college,student,university",WUSR 99.5 University of Scranton
 http://wusrstreaming.scranton.edu:8080/live.mp3
-#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/wast.png" group-title="international",WUST 1120
-https://ice5.securenetsystems.net/WUST
-#EXTINF:-1 tvg-logo="http://wust1120.com/sites/all/themes/newworld/favicon.ico" group-title="ethnic,multicultural,multilingual,washington dc",WUST 1120 Washington, DC
+#EXTINF:-1 tvg-logo="http://wust1120.com/sites/all/themes/newworld/favicon.ico" group-title="ethnic,multicultural,multilingual",WUST 1120
 http://ice5.securenetsystems.net/WUST
-#EXTINF:-1 tvg-logo="" group-title="apm,npr,pri,public radio",WUTC 88.1 Chattanooga, TN
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s23441/images/logog.png?t=1" group-title="apm,npr,pri,public",WUTC 88.1
 https://playerservices.streamtheworld.com/api/livestream-redirect/WUTCFM_SC
-#EXTINF:-1 tvg-logo="" group-title="apm,npr,pri,public radio",WUTC-HD2 Chattanooga, TN
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s23441/images/logog.png?t=1" group-title="apm,npr,pri,public",WUTC HD2
 https://playerservices.streamtheworld.com/api/livestream-redirect/WUTCHD2_SC
-#EXTINF:-1 tvg-logo="http://wutkradio.com/favicon.ico" group-title="community radio,knoxville,university radio,variety",WUTK 90.3 "the Rock" Knoxville, TN
+#EXTINF:-1 tvg-logo="http://wutkradio.com/favicon.ico" group-title="community,university,variety",WUTK 90.3 The Rock
 http://streamer.cci.utk.edu:8000/wutk-vorbis
-#EXTINF:-1 tvg-logo="https://www.wuvt.vt.edu/static/img/icon.png" group-title="blacksburg,college - virginia tech,college radio,university radio",WUVT 90.7 Virginia Tech University - Blacksburg, VA
+#EXTINF:-1 tvg-logo="https://www.wuvt.vt.edu/static/img/icon.png" group-title="college,university",WUVT 90.7 Virginia Tech University
 http://engine.wuvt.vt.edu:8000/wuvt.ogg
-#EXTINF:-1 tvg-logo="http://mediad.publicbroadcasting.net/p/wuwf/files/201508/ico15_0.ico" group-title="apm,npr,pensacola,pri,public radio",WUWF 88.1 Pensacola, FL
+#EXTINF:-1 tvg-logo="http://mediad.publicbroadcasting.net/p/wuwf/files/201508/ico15_0.ico" group-title="apm,npr,pri,public",WUWF 88.1
 https://playerservices.streamtheworld.com/api/livestream-redirect/WUWFFM_SC
-#EXTINF:-1 tvg-logo="http://mediad.publicbroadcasting.net/p/wuwf/files/201508/ico15_0.ico" group-title="classical,pensacola,public radio",WUWF-HD2 Classical Stream Pensacola, FL
+#EXTINF:-1 tvg-logo="http://mediad.publicbroadcasting.net/p/wuwf/files/201508/ico15_0.ico" group-title="classical,public",WUWF HD2 Classical
 https://playerservices.streamtheworld.com/api/livestream-redirect/WUWFHD2_SC
-#EXTINF:-1 tvg-logo="http://www.gpb.org/apple-touch-icon.png" group-title="carrollton,college radio,npr",WUWG 90.7 University of West Georgia - Carrollton, GA
+#EXTINF:-1 tvg-logo="http://www.gpb.org/apple-touch-icon.png" group-title="college,npr",WUWG 90.7 University of West Georgia
 http://gpb.streamguys1.com/gpb-atlanta-mp3
-#EXTINF:-1 tvg-logo="http://mediad.publicbroadcasting.net/p/wuwm/files/201503/logo_fid.png" group-title="milwaukee,npr,public radio",WUWM 89.7 Milwaukee Public Radio, WI
+#EXTINF:-1 tvg-logo="http://mediad.publicbroadcasting.net/p/wuwm/files/201503/logo_fid.png" group-title="npr,public",WUWM 89.7 Milwaukee Public Radio
 http://wuwm.streamguys1.com/live.mp3
-#EXTINF:-1 tvg-logo="http://wvbi.biccenter.org/favicon.ico" group-title="beaver island,community radio",WVBI-LP 100.1 Beaver Island, MI
+#EXTINF:-1 tvg-logo="http://wvbi.biccenter.org/favicon.ico" group-title="community,variety",WVBI-LP 100.1
 http://usa12.fastcast4u.com:5316/;stream.mp3
-#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/WVCP.png" group-title="oldies",WVCP 88.5
+#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/WVCP.png" group-title="oldies,hits",WVCP 88.5
 https://prod-34-145-78-84.wostreaming.net/volunteerstate-wvcpfmaac-ibc4?session-id=fe9b64798ca86d121c7aa88a30cd5375
-#EXTINF:-1 tvg-logo="http://myfm1065.com/favicon.ico" group-title="adult contemporary,kalamazoo",WVFM 106.5 Kalamazoo, MI
+#EXTINF:-1 tvg-logo="http://myfm1065.com/favicon.ico" group-title="adult contemporary,hits",WVFM 106.5
 https://playerservices.streamtheworld.com/api/livestream-redirect/WVFMFMAAC_SC
-#EXTINF:-1 tvg-logo="" group-title="college radio,tallahasee",WVFS 89.7 Florida State University - Tallahasee, FL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Wvfs_logo.jpg" group-title="college,alternative",WVFS 89.7 Florida State University
 http://voice.wvfs.fsu.edu:8000/stream
-#EXTINF:-1 tvg-logo="http://pbs.bento.storage.s3.amazonaws.com/hostedbento-prod/filer_public/Site%20Graphics/WVIA%20Logos/WVIA%20Fav%20Icon%20Large.ico" group-title="classical,jazz,npr,public radio,scranton",WVIA 89.9 Scranton, PA
+#EXTINF:-1 tvg-logo="http://pbs.bento.storage.s3.amazonaws.com/hostedbento-prod/filer_public/Site%20Graphics/WVIA%20Logos/WVIA%20Fav%20Icon%20Large.ico" group-title="classical,jazz,npr,public",WVIA 89.9
 https://playerservices.streamtheworld.com/api/livestream-redirect/WVIAFM_SC
-#EXTINF:-1 tvg-logo="http://pbs.bento.storage.s3.amazonaws.com/hostedbento-prod/filer_public/Site%20Graphics/WVIA%20Logos/WVIA%20Fav%20Icon%20Large.ico" group-title="bbc,classical,npr,public radio,scranton",WVIA-HD2 Scranton, PA
+#EXTINF:-1 tvg-logo="http://pbs.bento.storage.s3.amazonaws.com/hostedbento-prod/filer_public/Site%20Graphics/WVIA%20Logos/WVIA%20Fav%20Icon%20Large.ico" group-title="bbc,classical,npr,public",WVIA HD2
 https://playerservices.streamtheworld.com/api/livestream-redirect/WVIAHD2_SC
-#EXTINF:-1 tvg-logo="https://cdn.shortpixel.ai/client/q_glossy,ret_img/https://chiaroscurojazz.org/wp-content/uploads/2021/01/chiarologo1.png.webp" group-title="jazz,public radio,scranton",WVIA-HD3 "Chiaroscuro Channel" Scranton, PA
+#EXTINF:-1 tvg-logo="https://cdn.shortpixel.ai/client/q_glossy,ret_img/https://chiaroscurojazz.org/wp-content/uploads/2021/01/chiarologo1.png.webp" group-title="jazz,public",WVIA HD3 Chiaroscuro Channel
 https://wvia.streamguys1.com:80/WVIAHD3AAC
-#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s22612q.png" group-title="new rochelle,world ethnic",WVIP 93.5 New Rochelle, NY
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s22612q.png" group-title="world,ethnic",WVIP 93.5
 http://crystalout.surfernetwork.com:8001/WVIP_MP3
-#EXTINF:-1 tvg-logo="http://www.wvkr.org/wp-content/uploads/giphy-18.gif" group-title="college radio,poughkeepsie",WVKR 91.3 Vassar College - Poughkeepsie, NY
+#EXTINF:-1 tvg-logo="http://www.wvkr.org/wp-content/uploads/giphy-18.gif" group-title="college,pacifica",WVKR 91.3 Vassar College
 https://playerservices.streamtheworld.com/api/livestream-redirect/WVKRFM_SC
-#EXTINF:-1 tvg-logo="http://www.wvli927.com/favicon.ico" group-title="kankakee,oldies",WVLI 92.7 "The Valley" Kankakee, IL
+#EXTINF:-1 tvg-logo="http://www.wvli927.com/favicon.ico" group-title="kankakee,oldies",WVLI 92.7 The Valley
 https://playerservices.streamtheworld.com/api/livestream-redirect/WVLIFMAAC_SC
-#EXTINF:-1 tvg-logo="http://pulse.messiah.edu/favicon.ico" group-title="christian,college radio,grantham",WVMM 90.7 "The Pulse" Messiah College - Grantham, PA
+#EXTINF:-1 tvg-logo="http://pulse.messiah.edu/favicon.ico" group-title="christian,college",WVMM 90.7 The Pulse
 http://mediastreams.flagstream.com:8080/wvmmlive.mp3
 #EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/WVNN.png" group-title="news,talk",WVNN
 https://20603.live.streamtheworld.com:443/WVNNAMAAC.aac
 #EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/WVOC.png" group-title="news,talk",WVOC
 https://n47b-e2.revma.ihrhls.com/zc2085?rj-ttl=5&rj-tok=AAABfdrtl0EAxTm8WvfUe6aEDg
-#EXTINF:-1 tvg-logo="https://wvox.com/wp-content/uploads/2016/02/favicon-150x150.png" group-title="community radio,new rochelle,westchester",WVOX 1460 New Rochelle, NY
+#EXTINF:-1 tvg-logo="https://wvox.com/wp-content/uploads/2016/02/favicon-150x150.png" group-title="community,public",WVOX 1460
 http://crystalout.surfernetwork.com:8001/WVOX_MP3
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/WestVirginiaPublicBroadcasting.PNG" group-title="bluegrass,local news,mountain stage,news,npr,public radio",WVPB 88.5 "West Virginia Public Broadcasting" - Charleston, WV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/WestVirginiaPublicBroadcasting.PNG" group-title="bluegrass,local,news,npr,public",WVPB 88.5 West Virginia Public Broadcasting
 https://wvpublic.streamguys1.com/wvpb256k.aac
-#EXTINF:-1 tvg-logo="http://mediad.publicbroadcasting.net/p/wvpe/files/201505/logo_fid.png" group-title="apm,npr,pri,public radio",WVPE 88.1 Elkhardt, IN
+#EXTINF:-1 tvg-logo="http://mediad.publicbroadcasting.net/p/wvpe/files/201505/logo_fid.png" group-title="apm,npr,pri,public",WVPE 88.1
 https://playerservices.streamtheworld.com/api/livestream-redirect/WVPEFMAAC_SC
-#EXTINF:-1 tvg-logo="http://mediad.publicbroadcasting.net/p/wvpe/files/201505/logo_fid.png" group-title="blues,npr,public radio",WVPE Blues3 Elkhardt, IN
+#EXTINF:-1 tvg-logo="http://mediad.publicbroadcasting.net/p/wvpe/files/201505/logo_fid.png" group-title="blues,npr,public",WVPE Blues3
 http://live.str3am.com:2240/live
-#EXTINF:-1 tvg-logo="http://mediad.publicbroadcasting.net/p/wvpe/files/201505/logo_fid.png" group-title="jazz,npr,public radio",WVPE News2 Elkhardt, IN
+#EXTINF:-1 tvg-logo="http://mediad.publicbroadcasting.net/p/wvpe/files/201505/logo_fid.png" group-title="jazz,npr,public",WVPE News2
 https://playerservices.streamtheworld.com/api/livestream-redirect/WVPEHD2AAC_SC
-#EXTINF:-1 tvg-logo="http://mediad.publicbroadcasting.net/p/vpr/files/favicon.ico" group-title="apm,burlington,npr,pri,public radio,vpr",WVPS 107.9 "Vermont Public Radio" Burlington, VT
+#EXTINF:-1 tvg-logo="http://mediad.publicbroadcasting.net/p/vpr/files/favicon.ico" group-title="apm,npr,pri,public,vpr",WVPS 107.9 Vermont Public Radio
 http://vpr.streamguys.net/vpr64.mp3
-#EXTINF:-1 tvg-logo="http://mediad.publicbroadcasting.net/p/vpr/files/favicon.ico" group-title="burlington,npr,public radio,vpr",WVPS Vermont Public Radio Replay Stream - Burlington, VT
+#EXTINF:-1 tvg-logo="http://mediad.publicbroadcasting.net/p/vpr/files/favicon.ico" group-title="npr,public,vpr",WVPS Vermont Public Radio Replay Stream
 http://vprmix.streamguys.net/vprmix64.mp3
-#EXTINF:-1 tvg-logo="http://mediad.publicbroadcasting.net/p/vpr/files/favicon.ico" group-title="bbc,burlington,low bandwidth,npr,public radio,vpr",WVPS-HD3 Vermont Public Radio - BBC World Service Stream - Burlington, VT
+#EXTINF:-1 tvg-logo="http://mediad.publicbroadcasting.net/p/vpr/files/favicon.ico" group-title="bbc,npr,public,vpr",WVPS HD3 Vermont Public Radio
 http://vprbbc.streamguys.net/vprbbc24.mp3
-#EXTINF:-1 tvg-logo="http://www.samford.edu/../Templates/images/mobile-touch-icon.png" group-title="college radio,jazz,university radio",WVSU 91.1 Samford University - Birmingham, AL
+#EXTINF:-1 tvg-logo="http://www.samford.edu/../Templates/images/mobile-touch-icon.png" group-title="college,jazz,university",WVSU 91.1 Samford University
 http://ice7.securenetsystems.net/WVSU
-#EXTINF:-1 tvg-logo="" group-title="classical,music,npr,world music",WVTF Music
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/05/Radio_IQ_Network_2015.PNG" group-title="classical,npr,world",WVTF 89.1
 https://wvtf.streamguys1.com/wvtf-edge/wvtfmusic-aac-128/icecast.audio
-#EXTINF:-1 tvg-logo="" group-title="college radio,university radio",WVUD 91.3 University of Delaware - Newark, DE
+#EXTINF:-1 tvg-logo="https://www.wvud.org/files/2013/02/wvudtwotonesmall.gif" group-title="college,university",WVUD 91.3 University of Delaware
 http://128.175.76.123:8000/stream/2/
-#EXTINF:-1 tvg-logo="http://www.wvud.org/wp-content/uploads/2013/02/basementlogo.jpg" group-title="newark,university radio",WVUD-HD2 "The Basement", Newark, DE
+#EXTINF:-1 tvg-logo="http://www.wvud.org/wp-content/uploads/2013/02/basementlogo.jpg" group-title="newark,university radio",WVUD HD2 The Basement
 http://128.175.76.123:8000/stream/3/
-#EXTINF:-1 tvg-logo="https://secure.gravatar.com/blavatar/8b094050a3c8b11ecd152f72b3c243b9?s=32" group-title="college radio,university radio,valpraiso",WVUR 95.1 Valpraiso University, IN
+#EXTINF:-1 tvg-logo="https://secure.gravatar.com/blavatar/8b094050a3c8b11ecd152f72b3c243b9?s=32" group-title="college,university",WVUR 95.1 Valparaiso University
 http://amber.streamguys.com:5600/live
-#EXTINF:-1 tvg-logo="" group-title="community radio,martha's vineyard,tisbury",WVVY-LP 96.7 Tisbury, MA
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/b4/df/27867/1/c300.png" group-title="community,freeform",WVVY-LP 96.7
 http://50.252.252.209:8000/;.mp3
-#EXTINF:-1 tvg-logo="http://mediad.publicbroadcasting.net/p/wvxu/files/201502/logo_fid.png" group-title="apm,cincinatti,npr,pri,public radio",WVXU 91.7 Cincinatti, OH
+#EXTINF:-1 tvg-logo="http://mediad.publicbroadcasting.net/p/wvxu/files/201502/logo_fid.png" group-title="apm,npr,pri,public",WVXU 91.7
 http://stream.cinradio.org/noads-wvxu
-#EXTINF:-1 tvg-logo="http://1033wvyb.com/favicon.ico" group-title="contemporary hits,daytona beach,holy hill,top 40",WVYB 103.3 "The Vibe" Holly Hill, FL
+#EXTINF:-1 tvg-logo="http://1033wvyb.com/favicon.ico" group-title="contemporary hits,top 40",WVYB 103.3 The Vibe
 https://playerservices.streamtheworld.com/api/livestream-redirect/WVYBFMAAC_SC
-#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/WWBA.png" group-title="news,talk",WWBA 820 AM
+#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/WWBA.png" group-title="news,talk",WWBA 820
 https://ice41.securenetsystems.net/WWBA
-#EXTINF:-1 tvg-logo="http://www.wwcr.com/shared_wwcrlogo.gif" group-title="brokered programming,religious",WWCR 2
+#EXTINF:-1 tvg-logo="http://www.wwcr.com/shared_wwcrlogo.gif" group-title="brokered,religious",WWCR 2
 http://wwcr.gsradio.net:3863/
-#EXTINF:-1 tvg-logo="http://www.wwcr.com/shared_wwcrlogo.gif" group-title="brokered programming,religious",WWCR 3
+#EXTINF:-1 tvg-logo="http://www.wwcr.com/shared_wwcrlogo.gif" group-title="brokered,religious",WWCR 3
 http://wwcr.gsradio.net:3963/
-#EXTINF:-1 tvg-logo="http://www.wwcr.com/shared_wwcrlogo.gif" group-title="brokered programming,religious",WWCR 4
+#EXTINF:-1 tvg-logo="http://www.wwcr.com/shared_wwcrlogo.gif" group-title="brokered,religious",WWCR 4
 http://wwcr.gsradio.net:4063/
-#EXTINF:-1 tvg-logo="http://www.wwcr.com/shared_wwcrlogo.gif" group-title="brokered programming,nashville,religion",WWCR Shortwave - Nashville, TN
+#EXTINF:-1 tvg-logo="http://www.wwcr.com/shared_wwcrlogo.gif" group-title="brokered,religious",WWCR Shortwave
 http://wwcr.gsradio.net:3763/;.mp3
 #EXTINF:-1 tvg-logo="" group-title="classic country,jackson,lansing",WWDK 94.1 "Duke FM" Jackson, MI
 https://playerservices.streamtheworld.com/api/livestream-redirect/WWDKFMAAC_SC
