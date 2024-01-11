@@ -361,6 +361,8 @@ https://ec2s.crolive.com.hr:2595/stream
 http://s8.iqstreaming.com:8024/stream
 #EXTINF:-1 tvg-logo="https://www.radio-otok-krk.hr/images/logo-ok.png" group-title="folk,local news,pop",Radio Otok Krk
 http://streamer2.streamsink.com:8000/stream
+#EXTINF:-1 tvg-logo="https://radioposavina.com/favicon.ico" group-title="pop,top 40",Radio Posavina
+http://cmr-hosting.com:8500/;stream.mp3
 #EXTINF:-1 tvg-logo="https://www.radioploce.hr/wp-content/themes/rpp/apple-touch-icon.png" group-title="",Radio Ploce 64,5 MHz
 http://178.218.163.171:8010/ploce
 #EXTINF:-1 tvg-logo="https://tligradio.org/wp-content/uploads/2016/06/favicon.ico" group-title="",Radio Pravi Zivot u Bogu
