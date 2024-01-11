@@ -1,167 +1,165 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="",American Forces Network (europe.afn.mil) 360AM Benelux
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s218406/images/logog.png" group-title="talk,sports,news",American Forces Network 360 Benelux
 https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_BLX_SC
-#EXTINF:-1 tvg-logo="" group-title="",1 MINI 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSzelF4ogs_a6kyoGtn4oJD7imOEQQ-slYt8mdS7xL31KFQ1inbI5_uuv7NkhnVcbd2Rs&usqp=CAU" group-title="top 40,hits",1 Mini 1
 http://centauri.shoutca.st:9021/;
-#EXTINF:-1 tvg-logo="" group-title="",1 MINI 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSzelF4ogs_a6kyoGtn4oJD7imOEQQ-slYt8mdS7xL31KFQ1inbI5_uuv7NkhnVcbd2Rs&usqp=CAU" group-title="variety,news,culture",1 Mini 2
 http://centauri.shoutca.st:9064/;
-#EXTINF:-1 tvg-logo="" group-title="",1 MINI 3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSzelF4ogs_a6kyoGtn4oJD7imOEQQ-slYt8mdS7xL31KFQ1inbI5_uuv7NkhnVcbd2Rs&usqp=CAU" group-title="variety,news,culture",1 Mini 3
 http://centauri.shoutca.st:9060/;
-#EXTINF:-1 tvg-logo="" group-title="hits,lederland,news,pop,rock",100,5 Das Hitradio
+#EXTINF:-1 tvg-logo="https://www.ard-media.de/fileadmin/user_upload/radio/sender_und_kombis/bilder/sender_logo/Neue_Logos/Einzelsender/100-5_hitradio.png" group-title="hits,news,pop,rock",100.5 Das Hitradio
 http://dashitradio-de-hz-fal-stream07-cluster01.radiohost.de/dashitradio_48?listenerrmid=31363430313039353030-34352e37372e36322e313631-3338303430-53747265616d436865636b426f742f302e312e30
-#EXTINF:-1 tvg-logo="" group-title="misc",All 4 Music (A4M1)
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/5/89505.v7.png" group-title="top 40,pop,dance",All 4 Music A4M1
 http://ruby.torontocast.com:1040/stream
-#EXTINF:-1 tvg-logo="https://www.all4music.zone/apple-icon-120x120.png" group-title="misc",All 4 Music (A4M4)
+#EXTINF:-1 tvg-logo="https://www.all4music.zone/apple-icon-120x120.png" group-title="live,remixes",All 4 Music A4M4
 http://ruby.torontocast.com:1310/stream
-#EXTINF:-1 tvg-logo="" group-title="folk",ALL 4 MUSIC A4M2
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/rhw8rfrYgmA/hqdefault.jpg" group-title="traditional,folk",All 4 Music A4M2
 https://ruby.torontocast.com:1095/stream
-#EXTINF:-1 tvg-logo="http://antipode.be/favicon.ico" group-title="belgium,french,louvain-la-neuve,wallonia",Antipode
+#EXTINF:-1 tvg-logo="http://antipode.be/favicon.ico" group-title="rock,pop",Radio Antipode 94.1/107.3
 https://streaming.antipode.be/antipode.mp3
-#EXTINF:-1 tvg-logo="" group-title="",Antwerpen FM
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000058230587-mtsgmn-t240x240.jpg" group-title="pop,soul,top 40",Antwerpen 105.4
 http://streams.lazernet.be:2710/
-#EXTINF:-1 tvg-logo="http://www.arabel.fm/wp-content/uploads/logo.jpg" group-title="arabic,berbér",Arabel
+#EXTINF:-1 tvg-logo="http://www.arabel.fm/wp-content/uploads/logo.jpg" group-title="pop,news,talk,arabic,berbér",AraBel 106.8
 http://arabelfm.ice.infomaniak.ch/arabelprodcastfm.mp3
-#EXTINF:-1 tvg-logo="" group-title="golden oldies",ARL radio
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/6/88346.v7.png" group-title="folk,community,variety",ARL Radio
 https://arlradio.ice.infomaniak.ch/poste01.mp3
-#EXTINF:-1 tvg-logo="https://www.rtl.be/belrtl/GED/00140000/148300/148340.png" group-title="",Bel RTL
+#EXTINF:-1 tvg-logo="https://www.rtl.be/belrtl/GED/00140000/148300/148340.png" group-title="classic,rock,pop,sports",Bel RTL
 http://belrtl.ice.infomaniak.ch/belrtl-mp3-192.mp3
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f8/BelRTL_2008_%28logo%29.svg/langfr-220px-BelRTL_2008_%28logo%29.svg.png" group-title="bel rtl,pop",Bel-RTL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f8/BelRTL_2008_%28logo%29.svg/langfr-220px-BelRTL_2008_%28logo%29.svg.png" group-title="classic,rock,pop,sports",Bel RTL
 http://audiostream.rtl.be/belrtl128
-#EXTINF:-1 tvg-logo="http://1.brf.be/wp-content/themes/brf-eins/assets/img/favicons/Icon-60@3x.png" group-title="regional",BRF1
+#EXTINF:-1 tvg-logo="http://1.brf.be/wp-content/themes/brf-eins/assets/img/favicons/Icon-60@3x.png" group-title="pop,rock,german",BRF1
 http://streaming.brf.be/brf1-high.mp3
-#EXTINF:-1 tvg-logo="http://2.brf.be/wp-content/themes/brf-zwei/assets/img/favicons/Icon-60@3x.png" group-title="schlager",BRF2
+#EXTINF:-1 tvg-logo="http://2.brf.be/wp-content/themes/brf-zwei/assets/img/favicons/Icon-60@3x.png" group-title="german,folk,schlager",BRF2
 http://streaming.brf.be/brf2-high.mp3
-#EXTINF:-1 tvg-logo="https://www.bruce-radio.be/uploads/3/9/6/3/3963899/editor/facebook-artwork-oktober-2021-miljoen.png?1635421307" group-title="",Bruce
+#EXTINF:-1 tvg-logo="https://www.bruce-radio.be/uploads/3/9/6/3/3963899/editor/facebook-artwork-oktober-2021-miljoen.png?1635421307" group-title="classic,rock",Bruce
 https://powerradio.level27.be/stream
-#EXTINF:-1 tvg-logo="https://www.bruzz.be/themes/custom/drupack/favicons/apple-touch-icon.png" group-title="",Bruzz
+#EXTINF:-1 tvg-logo="https://www.bruzz.be/themes/custom/drupack/favicons/apple-touch-icon.png" group-title="pop,top 40,hits",BRUZZ 
 https://ice.cr6.streamzilla.xlcdn.com:8000/sz=fmbrussel=fmb988.mp3?token=7055205e79e535681694a24dc6b488b3&time=61c237cc
-#EXTINF:-1 tvg-logo="http://radiocharleking.be//upload/5d08fc02ccb615.59628751.ico" group-title="adult contemporary,adult hits,hits,pop,pop music",Charleking Radio
+#EXTINF:-1 tvg-logo="http://radiocharleking.be//upload/5d08fc02ccb615.59628751.ico" group-title="adult,contemporary,hits,pop",Charleking Radio
 http://charlekingradio.ice.infomaniak.ch/ckradio-192.mp3
-#EXTINF:-1 tvg-logo="" group-title="",Cherie FM Belgique
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s242129/images/logod.png?t=636402685305870000" group-title="60s,pop,romantic",Cherie FM Belgique
 http://streamingp.shoutcast.com/Cherie-mp3
-#EXTINF:-1 tvg-logo="https://crooze.fm/wp-content/uploads/sites/3/2018/12/CHILLOUT-CROOZE-128x128.png" group-title="",Chillout CROOZE
+#EXTINF:-1 tvg-logo="https://crooze.fm/wp-content/uploads/sites/3/2018/12/CHILLOUT-CROOZE-128x128.png" group-title="electro,ambient",chillout CROOZE
 http://streams.crooze.fm:8006/stream/1/
-#EXTINF:-1 tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/90/24/109473/1/c175.png" group-title="blues,blues rock,classic blues",Classic 21 Blues
+#EXTINF:-1 tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/90/24/109473/1/c175.png" group-title="blues,rock,classic",Classic 21 Blues
 https://radios.rtbf.be/wr-c21-blues-128.mp3
-#EXTINF:-1 tvg-logo="" group-title="classic blues",Classic 21 Blues
-https://radios.rtbf.be/wr-c21-blues-128.mp3
-#EXTINF:-1 tvg-logo="https://www.static.rtbf.be/rtbf/home/images/ico/favicon-info-32x32.png" group-title="classical",Classic21
+#EXTINF:-1 tvg-logo="https://www.static.rtbf.be/rtbf/home/images/ico/favicon-info-32x32.png" group-title="hits,rock",Classic 21
 https://radios.rtbf.be/classic21-128.mp3
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/e4c753_ea1cba1d326b4681bbe275fe35e1af53.png/v1/fill/w_213,h_60,al_c/e4c753_ea1cba1d326b4681bbe275fe35e1af53.png" group-title="pop",ClubFM
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/e4c753_ea1cba1d326b4681bbe275fe35e1af53.png/v1/fill/w_213,h_60,al_c/e4c753_ea1cba1d326b4681bbe275fe35e1af53.png" group-title="pop,oldies",Club FM
 http://www.clubfmserver.be:8000/clubfm.mp3
-#EXTINF:-1 tvg-logo="" group-title="",ClubFM Oost-Vlaanderen
+#EXTINF:-1 tvg-logo="https://www.liveradio.ie/files/images/110917/clubfm.jpg" group-title="pop,rock,dance",ClubFM Oost-Vlaanderen
 http://www.clubfmserver.be:8000/radioclubfm.mp3
-#EXTINF:-1 tvg-logo="" group-title="",De Jukebox
+#EXTINF:-1 tvg-logo="https://www.allradio.net/500/bb4bNPROFUa0Kzpxs9Apt.webp" group-title="50s,60s,70s,hits",De Jukebox
 http://s35.myradiostream.com:14472/
-#EXTINF:-1 tvg-logo="http://live2.radioemotion.be/emotion.gif" group-title="",Emotion
+#EXTINF:-1 tvg-logo="http://live2.radioemotion.be/emotion.gif" group-title="pop,community",Radio Emotion 104.9
 http://stream.radioemotion.be/;stream.mp3
-#EXTINF:-1 tvg-logo="" group-title="",Equinoxe FM 100.1
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s128510d.png" group-title="top 40,pop",Equinoxe 100.1
 http://equinoxefm.ddns.net:8000/stream.ogg
-#EXTINF:-1 tvg-logo="https://www.radioaccent.be/favicon.ico" group-title="pop rock",Erik Paelman
+#EXTINF:-1 tvg-logo="https://www.radioaccent.be/favicon.ico" group-title="pop,rock",Radio Accent
 https://www.clubfmserver.be/accent.mp3
-#EXTINF:-1 tvg-logo="http://familieradio-enjoy.be/wp-content/uploads/2018/06/cropped-enkelAntenne-192x192.png" group-title="",familieradio enjoy fm
+#EXTINF:-1 tvg-logo="http://familieradio-enjoy.be/wp-content/uploads/2018/06/cropped-enkelAntenne-192x192.png" group-title="pop,rock",Familieradio Enjoy
 http://live.radiostudio.be/enjoyfm
-#EXTINF:-1 tvg-logo="http://www.familyradio.be/images/jocks/jock_660_huisje.png" group-title="",Family Radio (België/Belgique/Belgien)
+#EXTINF:-1 tvg-logo="http://www.familyradio.be/images/jocks/jock_660_huisje.png" group-title="classic,hits,schlager",Family Radio
 http://www.clubfmserver.be:8000/family.mp3
-#EXTINF:-1 tvg-logo="" group-title="",Flash FM
+#EXTINF:-1 tvg-logo="https://groover-images.s3.eu-west-3.amazonaws.com/prod/influencer/0.flash-fm/profile_picture/200_200" group-title="80s,chanson,pop",Flash 88.4
 http://flashfm.ice.infomaniak.ch/flashfm-128
-#EXTINF:-1 tvg-logo="https://www.fmgoud.be/uploads/3/9/6/3/3963899/download-200_orig.png" group-title="",FM Goud
+#EXTINF:-1 tvg-logo="https://www.fmgoud.be/uploads/3/9/6/3/3963899/download-200_orig.png" group-title="80s,90s,pop",FM Goud
 http://stream01.level27.be:8008/
-#EXTINF:-1 tvg-logo="https://www.fmgoud.be/favicon.ico" group-title="80s,90s,pop",FM Goud Kempen
+#EXTINF:-1 tvg-logo="https://www.fmgoud.be/favicon.ico" group-title="80s,90s,pop",FM Goud Kempen 100.4
 https://server3.radio-streams.net:18019/stream
 #EXTINF:-1 tvg-logo="https://www.fmgoud.be/favicon.ico" group-title="80s,90s,pop",FM Goud Plus
 http://stream01.level27.be:8010/
-#EXTINF:-1 tvg-logo="https://focusfantastic.com/wp-content/uploads/2020/10/focus-fantastic-80s-music.png" group-title="oldies",Focus Fantastic
+#EXTINF:-1 tvg-logo="https://focusfantastic.com/wp-content/uploads/2020/10/focus-fantastic-80s-music.png" group-title="oldies,hits",Focus Fantastic
 http://sonic.magicdragon.nl:8002/stream
-#EXTINF:-1 tvg-logo="http://frequenceplus.be/images/favicon_000.png" group-title="",Fréquence Plus Andenne
+#EXTINF:-1 tvg-logo="http://frequenceplus.be/images/favicon_000.png" group-title="hits,news",Fréquence Plus Andenne 106.6
 http://frequenceplusandenne.ice.infomaniak.ch/frequenceplusandenne-192
-#EXTINF:-1 tvg-logo="http://www.funradio.be/wp-content/themes/rise/assets/img/fav/apple-touch-icon.png" group-title="",Fun Radio
+#EXTINF:-1 tvg-logo="http://www.funradio.be/wp-content/themes/rise/assets/img/fav/apple-touch-icon.png" group-title="contemporary,R'n'B,dance",Fun Radio 104.7
 http://funradiobe.ice.infomaniak.ch/funradiobe-high
-#EXTINF:-1 tvg-logo="http://gaveromroep.be/favicon.ico" group-title="local radio",Gaveromroep
+#EXTINF:-1 tvg-logo="http://gaveromroep.be/favicon.ico" group-title="70s,80s,90s,hits,local",Gaveromroep Deerlijk 106.4
 http://s43.myradiostream.com:18192/
-#EXTINF:-1 tvg-logo="http://www.goldfm.be/favicon.ico" group-title="",Gold FM
+#EXTINF:-1 tvg-logo="http://www.goldfm.be/favicon.ico" group-title="pop,news,talk",Gold 106.1
 http://stream.goldfm.be:1061/station.mp3
-#EXTINF:-1 tvg-logo="https://www.goldiesradio.be///templates/urbanlife/favicon.ico" group-title="oldies",Goldies Radio
+#EXTINF:-1 tvg-logo="https://www.goldiesradio.be///templates/urbanlife/favicon.ico" group-title="oldies,hits",Goldies Radio
 http://178.32.62.167:8565/
-#EXTINF:-1 tvg-logo="https://www.halloweenradio.net/images/channel_atmosphere.png" group-title="atmospheric,halloween,halloween music",Halloween Radio - Atmosphere
+#EXTINF:-1 tvg-logo="https://www.halloweenradio.net/images/channel_atmosphere.png" group-title="ambient,halloween",Halloween Radio Atmosphere
 http://radio1.streamserver.link/radio/8040/hra-aac
-#EXTINF:-1 tvg-logo="https://www.halloweenradio.net/images/channel_main.png" group-title="halloween,halloween music",Halloween Radio - Main
+#EXTINF:-1 tvg-logo="https://www.halloweenradio.net/images/channel_main.png" group-title="halloween,ambient",Halloween Radio Main
 http://radio1.streamserver.link/radio/8000/hrm-aac
 #EXTINF:-1 tvg-logo="http://www.harmonyradio.be//w/1/files/images/favicon.ico" group-title="chansons françaises,pop",Harmony Radio
 http://server1.harmonyradio.be:8052/
-#EXTINF:-1 tvg-logo="http://www.impact-fm.be/images/logoImpactfm.jpg" group-title="",Impact FM
+#EXTINF:-1 tvg-logo="http://www.impact-fm.be/images/logoImpactfm.jpg" group-title="local,top 40",Impact 106.9
 http://impactfm.ice.infomaniak.ch/impactfm-64.aac
 #EXTINF:-1 tvg-logo="https://instrumentalsforever.eu/favicon.ico" group-title="big band,easy listening,instrumental",Instrumentals Forever
 http://quincy.torontocast.com:1910/stream
-#EXTINF:-1 tvg-logo="https://instrumentalsforever.eu/favicon.ico" group-title="big band,easy listening,instrumental",Instrumentals forever (64kbp)
+#EXTINF:-1 tvg-logo="https://instrumentalsforever.eu/favicon.ico" group-title="big band,easy listening,instrumental",Instrumentals Forever
 http://quincy.torontocast.com:1920/stream
-#EXTINF:-1 tvg-logo="" group-title="80's",Joe 80's
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/2c/00/116339/2/c300.png" group-title="80s,90s,dutch",Joe 80s & 90s
 https://playerservices.streamtheworld.com/api/livestream-redirect/JOE_80S.mp3
-#EXTINF:-1 tvg-logo="" group-title="dance,oldies,pop",Joe FM
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s25741/images/logog.jpg?t=1" group-title="80s,90s,oldies,pop",JOE
 https://playerservices.streamtheworld.com/api/livestream-redirect/JOE.mp3
-#EXTINF:-1 tvg-logo="https://www.ketnet.be//sites/all/themes/ketnet/images/favicons/apple-touch-icon.png" group-title="vrt",Ketnet Hits
+#EXTINF:-1 tvg-logo="https://www.ketnet.be//sites/all/themes/ketnet/images/favicons/apple-touch-icon.png" group-title="hits,youth",VRT Ketnet Hits
 http://icecast-servers.vrtcdn.be/ketnetradio-high.mp3
-#EXTINF:-1 tvg-logo="https://kioskradio.com/images/logo.svg" group-title="dj,dj mixes,dj sets,electro,independent,independent music",Kiosk Radio
+#EXTINF:-1 tvg-logo="https://kioskradio.com/images/logo.svg" group-title="dj,mixes,sets,electro,independent",Kiosk Radio
 https://kioskradiobxl.out.airtime.pro/kioskradiobxl_b
-#EXTINF:-1 tvg-logo="https://cdn.radiokix.be/favicon-32x32.png" group-title="",Kix
+#EXTINF:-1 tvg-logo="https://cdn.radiokix.be/favicon-32x32.png" group-title="pop,news,90s,00s,80s",KIX Belgium
 http://stream2.radiokix.be:10460/live.aac
-#EXTINF:-1 tvg-logo="http://is5.mzstatic.com/image/thumb/Purple128/v4/83/b7/ce/83b7ceb7-3cc3-2278-67e6-3c85887b6cbd/source/1200x630bb.jpg" group-title="classical,vrt",Klara
+#EXTINF:-1 tvg-logo="http://is5.mzstatic.com/image/thumb/Purple128/v4/83/b7/ce/83b7ceb7-3cc3-2278-67e6-3c85887b6cbd/source/1200x630bb.jpg" group-title="classical,jazz,world",Klara
 http://icecast-servers.vrtcdn.be/klara-high.mp3
-#EXTINF:-1 tvg-logo="http://be.radioonline.fm/images/klara-continuo.png" group-title="classical,vrt",Klara Continuo
+#EXTINF:-1 tvg-logo="http://be.radioonline.fm/images/klara-continuo.png" group-title="classical,dutch",Klara Continuo
 http://icecast-servers.vrtcdn.be/klaracontinuo-high.mp3
-#EXTINF:-1 tvg-logo="" group-title="classical",La Classica
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s244379g.png" group-title="classical,baroque",La Classica
 http://stream.laclassica.be:8023/stream
-#EXTINF:-1 tvg-logo="" group-title="classical",La Classica
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s244379g.png" group-title="classical,baroque",La Classica
 http://stream.laclassica.be:8023/stream2
-#EXTINF:-1 tvg-logo="https://www.static.rtbf.be/news/common/images/radio/logo/1400x1400/lapremiere-1400x1400.png" group-title="",La première
+#EXTINF:-1 tvg-logo="https://www.static.rtbf.be/news/common/images/radio/logo/1400x1400/lapremiere-1400x1400.png" group-title="chanson,world,culture",RTBF La Première
 https://radios.rtbf.be/vivabxl-128.mp3
-#EXTINF:-1 tvg-logo="https://www.static.rtbf.be/news/common/images/radio/logo/1400x1400/lapremiere-1400x1400.png" group-title="",La Première - Bruxelles
+#EXTINF:-1 tvg-logo="https://www.static.rtbf.be/news/common/images/radio/logo/1400x1400/lapremiere-1400x1400.png" group-title="chanosn,world,culture",RTBF La Première
 http://radios.rtbf.be/laprem1erebxl-128.mp3
 #EXTINF:-1 tvg-logo="http://www.lazerhothits.eu/images/Lazerhothits_Banner_Small.jpg" group-title="house,oldschool,retro,techno",Lazer Hot Hits
 http://streams.servicehosting.be:3730/;
-#EXTINF:-1 tvg-logo="" group-title="",louisplayz
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/xXbflTsPWzGaUR08gsblq4MK2EFGr_I5T3chfTGIxYfn9XaLLS24jSCB6dhlwIFSPxg=w600-h300-pc0xffffff-pd" group-title="pop,rock,hip hop",Louisplayz inc
 http://stream.zeno.fm/my78wz87em0uv?rj-ttl=5&rj-tok=AAABfdrYXpoAhfd8Y87Gzq-lLw
-#EXTINF:-1 tvg-logo="" group-title="classical",Med Muzik
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Logo_of_MED_TV.jpeg" group-title="classical,baroque",Med Muzik
 http://137.74.205.201/medmuzik/MedStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.melodiefm.be/templates/rt_vermilion/favicon.ico" group-title="",Mélodie FM
+#EXTINF:-1 tvg-logo="http://www.melodiefm.be/templates/rt_vermilion/favicon.ico" group-title="https://uk.radio.net/images/broadcasts/a3/a5/12361/1/c300.png",Mélodie 101.6
 http://188.165.35.60:8008/;
-#EXTINF:-1 tvg-logo="" group-title="",Métropole Radio
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/e5/97/e59721012fa8b4e392feed8f300b4d93.jpg" group-title="pop,top 40",Métropole Radio 104.5
 http://maxpag.eu:8000/metropole
 #EXTINF:-1 tvg-logo="" group-title="",Mint
 http://audiostream.rtl.be/mint
 #EXTINF:-1 tvg-logo="https://marpimagecache.s3.amazonaws.com/image/7_300x170_2018-06-12-12-19-20-831.png" group-title="belgiqie,mint",Mint
 https://mint.ice.infomaniak.ch/mint-mp3-128.mp3
-#EXTINF:-1 tvg-logo="" group-title="classic rock,french,french pop,pop,pop rock,rock",MiNT
+#EXTINF:-1 tvg-logo="https://static.tuneyou.com/images/logos/500_500/17/217/MintRadio_0.png" group-title="classic,rock,french,pop",MiNT
 http://audiostream.rtl.be/mint192
-#EXTINF:-1 tvg-logo="https://www.mnm.be//images/ios/touch-icon-iphone.png" group-title="pop,vrt",MNM
+#EXTINF:-1 tvg-logo="https://www.mnm.be//images/ios/touch-icon-iphone.png" group-title="pop,dutch",MNM Radio 89.0
 https://playerservices.streamtheworld.com/api/livestream-redirect/MNM_128.mp3
-#EXTINF:-1 tvg-logo="" group-title="pop",MNM 90's & 00's
+#EXTINF:-1 tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/03/b2/5484/c300.png" group-title="pop,hits",MNM 90's & 00's
 http://icecast-servers.vrtcdn.be/mnm_90s00s-high.mp3
-#EXTINF:-1 tvg-logo="https://mnm.be//images/ios/touch-icon-iphone.png" group-title="pop,vrt",MNM big hits
+#EXTINF:-1 tvg-logo="https://mnm.be//images/ios/touch-icon-iphone.png" group-title="pop,dutch",MNM Big Hits
 http://icecast-servers.vrtcdn.be/mnm_hits-high.mp3
-#EXTINF:-1 tvg-logo="https://mnm.be/favicons/favicon-128.png" group-title="r&b/urban",MNM UrbaNice
+#EXTINF:-1 tvg-logo="https://mnm.be/favicons/favicon-128.png" group-title="R'n'B,urban",MNM UrbaNice
 http://icecast-servers.vrtcdn.be/mnm_urb-high.mp3
-#EXTINF:-1 tvg-logo="https://www.static.rtbf.be/radio/musiq3/ico/favicon-musiq3-192x192.png" group-title="",Musiq3 Jazz
+#EXTINF:-1 tvg-logo="https://www.static.rtbf.be/radio/musiq3/ico/favicon-musiq3-192x192.png" group-title="jazz,classical,blues",Musiq3
 https://radios.rtbf.be/wr-m3-baroque-128.mp3
-#EXTINF:-1 tvg-logo="" group-title="adult contemporary,adult hits,hits,pop,pop music",Must FM
+#EXTINF:-1 tvg-logo="https://radioenlignefrance.com/storage/radios/1799/694/conversions/maximumliege-lg.webp" group-title="adult,contemporary,hits,pop",Must 87.6
 http://mustfm.ice.infomaniak.ch/mustfm-192.mp3
-#EXTINF:-1 tvg-logo="https://mynoise.net/apple-touch-icon.png" group-title="ambient,ambient and relaxation music",MyNoise Drone Zone
+#EXTINF:-1 tvg-logo="https://mynoise.net/apple-touch-icon.png" group-title="ambient,relaxation",MyNoise Drone Zone
 http://dronezone-mynoise.radioca.st/stream
-#EXTINF:-1 tvg-logo="https://mynoise.net/apple-touch-icon.png" group-title="ambient,ambient and relaxation music,nature",MyNoise Ocean Waves
+#EXTINF:-1 tvg-logo="https://mynoise.net/apple-touch-icon.png" group-title="ambient,relaxation,nature",MyNoise Ocean Waves
 http://oceanwaves-mynoise.radioca.st/stream
-#EXTINF:-1 tvg-logo="https://mynoise.net/apple-touch-icon.png" group-title="ambient,ambient and relaxation music,nature",MyNoise Pure Nature
+#EXTINF:-1 tvg-logo="https://mynoise.net/apple-touch-icon.png" group-title="ambient,relaxation,nature",MyNoise Pure Nature
 https://purenature-mynoise.radioca.st/stream
-#EXTINF:-1 tvg-logo="https://mynoise.net/apple-touch-icon.png" group-title="ambient,ambient and relaxation music,nature",MyNoise Rainy Day
+#EXTINF:-1 tvg-logo="https://mynoise.net/apple-touch-icon.png" group-title="ambient,relaxation,nature",MyNoise Rainy Day
 http://rainyday-mynoise.radioca.st/stream
-#EXTINF:-1 tvg-logo="https://mynoise.net/apple-touch-icon.png" group-title="ambient,ambient and relaxation music",MyNoise Siren Songs
+#EXTINF:-1 tvg-logo="https://mynoise.net/apple-touch-icon.png" group-title="ambient,relaxation",MyNoise Siren Songs
 http://sirensongs-mynoise.radioca.st/stream
-#EXTINF:-1 tvg-logo="https://mynoise.net/apple-touch-icon.png" group-title="ambient,ambient and relaxation music,ambient techno",MyNoise Space Odyssey
+#EXTINF:-1 tvg-logo="https://mynoise.net/apple-touch-icon.png" group-title="ambient,relaxation,techno",MyNoise Space Odyssey
 http://spaceodyssey-mynoise.radioca.st/stream
-#EXTINF:-1 tvg-logo="https://mynoise.net/apple-touch-icon.png" group-title="ambient,ambient and relaxation music,nature",MyNoise Zen Garden
+#EXTINF:-1 tvg-logo="https://mynoise.net/apple-touch-icon.png" group-title="ambient,relaxation,nature",MyNoise Zen Garden
 http://zengarden-mynoise.radioca.st/stream
-#EXTINF:-1 tvg-logo="" group-title="",Nostalgie
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/a9/83/22115/6/c300.png" group-title="classic,hits,oldies",Nostalgie Vlaanderen
 https://streamingp.shoutcast.com/NostalgiePremium-mp3?gdpr=true&gdpr_consent=BOgFAkAOgFAkAAKAQBENCR-AAAAnB7_______9______9uz_Ov_v_f__33e87_9v_l_7_-___u_-3zd4-_1vf99yfm1-7etr3tp_87ues2_Xur__59__3z3_9phPrsk89r622A&lang=fr-BE&userref=T0rw3ugycCqsY8Ogne6mtWtbEn9Zw41557056982513
-#EXTINF:-1 tvg-logo="https://nl.nostalgie.be/icons/icon-144x144.png?v=c3f24dd18baa559c6c6226c585c1fba8" group-title="nostalgia,nostalgic,nostalgie",Nostalgie - what a feeling!
+#EXTINF:-1 tvg-logo="https://nl.nostalgie.be/icons/icon-144x144.png?v=c3f24dd18baa559c6c6226c585c1fba8" group-title="pop,oldies,dutch",Nostalgie NL - What a feeling!
 https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWHATAFEELING.mp3
 #EXTINF:-1 tvg-logo="" group-title="pop",Nostalgie 80's
 https://25493.live.streamtheworld.com:443/NOSTALGIEWAF80.mp3
