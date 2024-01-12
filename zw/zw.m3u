@@ -1,11 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://www.hevoifm.co.zw/favicon.ico" group-title="african music",Hevoi FM
-http://197.221.240.226:88/broadwave.mp3
+https://s27.myradiostream.com:17755/listen.mp3
 #EXTINF:-1 tvg-logo="" group-title="african music,business news,house,local music,mbaqanga,relaxation,sport,talk",Khulumani FM
-http://197.221.250.170:88/broadwavehigh.mp3
-#EXTINF:-1 tvg-logo="" group-title="",Zimbabwe Khulumani Radio
-http://197.221.250.170:88/broadwavehigh.mp3?src=1
-#EXTINF:-1 tvg-logo="" group-title="",Zimbabwe National Radio
-http://41.220.21.70:88/broadwavehigh.mp3?src=2
-#EXTINF:-1 tvg-logo="" group-title="",Zimbabwe Radio
-http://41.220.21.70:88/broadwavelow.mp3?src=1
+http://197.221.250.170:88/broadwave.mp3?src=1
+#EXTINF:-1 tvg-logo="" group-title="",National Radio [Not 24/7]
+https://154.120.239.26:8020/national.mp3
+#EXTINF:-1 tvg-logo="" group-title="",Radio Zimbabwe
+https://154.120.239.26:8040/nhepfenuro.mp3
