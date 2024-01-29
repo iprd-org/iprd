@@ -233,56 +233,28 @@ http://cnlive.cnr.cn/hls/nanhaizhisheng.m3u8
 http://sk.cri.cn/905.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9b/CRI_EZFM_logo.png" group-title="variety,news",CRI轻松调频
 http://sk.cri.cn/915.m3u8
-#EXTINF:-1 tvg-logo="https://chinese.cri.cn/etc/static/img/logo-radio-nhzs.png" group-title="talk,news",CRl南海之声
+#EXTINF:-1 tvg-logo="https://chinese.cri.cn/etc/static/img/logo-radio-nhzs.png" group-title="talk,news",CRI南海之声
 http://satellitepull.cnr.cn/live/wxnhzs/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="hong kong",D100 Radio
-http://59.152.232.108:8000/Channel1-64MP3
-#EXTINF:-1 tvg-logo="" group-title="news",DLR-1 大连新闻广播
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/5/52/Dalian_TV_logo.jpg" group-title="news,talk",DLR-1 大连新闻广播 882/103.3
 https://live.xmcdn.com/live/2732/64.m3u8
-#EXTINF:-1 tvg-logo="http://dltv.dlxww.com/images/guangbo2.png" group-title="economic news,economics",DLR-2 大连财经广播
+#EXTINF:-1 tvg-logo="http://dltv.dlxww.com/images/guangbo2.png" group-title="business,news",DLR-2 大连财经广播 1152/93.1
 http://live.dltv.cn:80/B3kHIHk/z63Bk0I.m3u8
-#EXTINF:-1 tvg-logo="" group-title="sports",DLR-3 大连体育广播
+#EXTINF:-1 tvg-logo="https://pic.qtfm.cn/sso/198/1572602808032_aLDLW2SXN.jpeg!200" group-title="sports,talk",DLR-3 大连体育广播 105.7
 https://lhttp.qingting.fm/live/1085/64k.mp3
-#EXTINF:-1 tvg-logo="http://dltv.dlxww.com/images/guangbo3.jpg" group-title="traffic",DLR-4 大连交通广播
+#EXTINF:-1 tvg-logo="http://dltv.dlxww.com/images/guangbo3.jpg" group-title="traffic,news,weather",DLR-4 大连交通广播 100.8
 http://live.dltv.cn:80/n1xc68c/g4mnkx0.m3u8
-#EXTINF:-1 tvg-logo="" group-title="fashion,music,pop,大连少儿广播",DLR-5 大连音乐广播
+#EXTINF:-1 tvg-logo="https://www.programmes-radio.com/media/stream/659f6c4a-9c6b-4b55-84c8-d499c4181461_228F92824316BC912D92D3E34F72EB0D_guangbo6.jpg" group-title="fashion,pop,大连少儿广播",DLR-5 大连音乐广播 106.7
 https://lhttp.qingting.fm/live/1084/64k.mp3
-#EXTINF:-1 tvg-logo="" group-title="entertainment,happy,literature,大连都市之声",DLR-6 大连都市广播
+#EXTINF:-1 tvg-logo="https://www.allradio.net/500/Tf_brRSwUgtj4K0tME8lI.webp" group-title="culture,大连都市之声",DLR-6 大连都市广播 99.1
 https://lhttp.qingting.fm/live/1086/64k.mp3
-#EXTINF:-1 tvg-logo="http://www.dltv.cn/images/guangbo7.jpg" group-title="family,happiness",DLR-7 大连新城乡广播
+#EXTINF:-1 tvg-logo="http://www.dltv.cn/images/guangbo7.jpg" group-title="community,lifestyle",DLR-7 大连新城乡广播 95.6
 http://live.dltv.cn:80/Y3jss5h/w36Ykj0.m3u8
-#EXTINF:-1 tvg-logo="http://www.nettv.live/uploads/allimg/18/1-1P31QF4240-L.jpg" group-title="",Fengtai Culture & Life TV
-http://60.175.115.119:1935/live/wenhua/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.nettv.live/uploads/allimg/18/1-1P31QF2450-L.jpg" group-title="",Fengtai News Radio
+#EXTINF:-1 tvg-logo="http://www.nettv.live/uploads/allimg/18/1-1P31QF2450-L.jpg" group-title="news,talk",Fengtai News Radio
 http://60.175.115.119:1935/live/fm/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.nettv.live/uploads/allimg/18/1-1P31QF2450-L.jpg" group-title="",Fengtai News TV
-http://60.175.115.119:1935/live/zonghe/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=823252087,2793610083&fm=26&gp=0.jpg" group-title="music,pop",FM89.8烟台汽车音乐广播
+#EXTINF:-1 tvg-logo="https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=823252087,2793610083&fm=26&gp=0.jpg" group-title="automotive,pop",FM89.8烟台汽车音乐广播
 http://lhttp.qingting.fm/live/5022382/64k.mp3
-#EXTINF:-1 tvg-logo="https://pic.qingting.fm/2018/1226/20181226030417.jpeg!200" group-title="fashion,music,pop,rock",FM99.9犀牛电台·鹿泉区融媒体中心
+#EXTINF:-1 tvg-logo="https://pic.qingting.fm/2018/1226/20181226030417.jpeg!200" group-title="fashion,pop,rock",FM99.9犀牛电台·鹿泉区融媒体中心
 https://live.xmcdn.com/live/2572/64.m3u8
-#EXTINF:-1 tvg-logo="http://www.haoqu.net/d/file/2016/1020/d479aedd2d8fa24b0a8dc369a83d1cd6.jpg" group-title="",Foochow Children TV
-http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
-#EXTINF:-1 tvg-logo="http://nettv.live/uploads/18/1-1PG0202342Y9.jpg" group-title="",Foochow TV-1
-http://111.75.179.195:30767/video/live_vide.m3u8
-#EXTINF:-1 tvg-logo="http://www.haoqu.net/d/file/2016/1020/ac6bd6adced81cd15a24ab3652f2d61e.jpg" group-title="",Foochow TV-1 News
-http://live.zohi.tv/video/s10001-FZTV-1/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.haoqu.net/d/file/2016/1020/8a0526e31670f648ea4796c3fd1c5748.jpg" group-title="",Foochow TV-2 TV Series
-http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.haoqu.net/d/file/2016/1020/acf94f214a3e79158a2ae9b22d54f372.jpg" group-title="",Foochow TV-3 Life
-http://live.zohi.tv/video/s10001-shpd-3/index.m3u8
-#EXTINF:-1 tvg-logo="http://nettv.live/uploads/allimg/19/1-1Z9192035440-L.jpg" group-title="",Fooshun Public TV
-http://pili-live-rtmp.145.i2863.com/i2863-145/fsggpd.m3u8
-#EXTINF:-1 tvg-logo="http://www.haoqu.net/d/file/2018/0701/small458eebf56ddc2a381551f300ada71da4.jpg" group-title="",Foshan News TV
-http://dslive.grtn.cn/fszh/sd/live.m3u8
-#EXTINF:-1 tvg-logo="http://nettv.live/uploads/18/1-1P2151I2213S.jpg" group-title="",Fuling TV
-http://pili-live-hls.cqfl.tianma3600.com/wxfl/flds.m3u8
-#EXTINF:-1 tvg-logo="http://nettv.live/uploads/allimg/19/1-1Z60G234150-L.jpg" group-title="",Fuping TV-1
-http://124.47.34.189:80/wh7f454c46tw749339647_705237419/PLTV/88888888/224/3221225905/index.m3u8?icpid=88888888&RTS=1640046896&from=1&hms_devid=203
-#EXTINF:-1 tvg-logo="http://nettv.live/uploads/allimg/19/1-1Z60G231450-L.jpg" group-title="",Fuping TV-2
-http://124.47.34.188:80/wh7f454c46tw1412774635_659925561/PLTV/88888888/224/3221225906/index.m3u8?icpid=88888888&RTS=1640099099&from=1&hms_devid=203
-#EXTINF:-1 tvg-logo="http://nettv.live/uploads/allimg/19/1-1ZP4160G40-L.jpg" group-title="",Fusung News TV
-http://stream8.jlntv.cn/fs/sd/live.m3u8
 #EXTINF:-1 tvg-logo="http://pic.qingting.fm/2018/0102/20180102115350.jpeg" group-title="",Haikow Music Radio
 http://lhttp.qingting.fm/live/20010/64k.mp3
 #EXTINF:-1 tvg-logo="http://pic.qingting.fm/2017/0309/20170309042216.jpeg" group-title="",Haikow News Radio
