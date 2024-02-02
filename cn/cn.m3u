@@ -33,7 +33,7 @@ http://ls.qingting.fm/live/4973.m3u8
 http://stream3.hljtv.com/hljrdjt/sd/live.m3u8
 #EXTINF:-1 tvg-logo="http://pic.qingting.fm/2018/0118/20180118040752.jpeg" group-title="variety,talk",Amur River University Radio 99.3
 http://ls.qingting.fm/live/4976.m3u8
-#EXTINF:-1 tvg-logo="https://cn.anison.fm/images/logo_f.png" group-title="anime,jpop,russia,Anison动漫音乐台
+#EXTINF:-1 tvg-logo="https://cn.anison.fm/images/logo_f.png" group-title="anime,jpop,russia",Anison动漫音乐台
 http://pool.anison.fm:9000/AniSonFM(320)?
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s201534/images/logog.jpg?t=1671762322000" group-title="pop,rock,hip hop",AsiaFM亚洲天空台
 https://lhttp.qingting.fm/live/20071/64k.mp3
@@ -365,211 +365,73 @@ http://lhttp.qingting.fm/live/20194/64k.mp3
 http://lhttp.qingting.fm/live/15318294/64k.mp3
 #EXTINF:-1 tvg-logo="http://pic.qingting.fm/2015/1125/20151125112804631.jpg" group-title="news,traffic,weather",Ningsia Traffic Radio 98.4
 http://ls.qingting.fm/live/1840.m3u8
-#EXTINF:-1 tvg-logo="http://nettv.live/uploads/allimg/19/1-1ZZ3224S80-L.jpg" group-title="",Paofeng TV 1
-http://live.dxhmt.cn:9081/tv/10421-1.m3u8
-#EXTINF:-1 tvg-logo="http://nettv.live/uploads/allimg/19/1-1Z41G031110-L.jpg" group-title="",Peiliu TV
-http://124.226.233.4:81/hls/001/1.m3u8
-#EXTINF:-1 tvg-logo="http://www.nettv.live/uploads/18/1-1PF916443EW.jpg" group-title="",Pengan TV-1 News
-http://palive.patv123.com:8091/live/xwpd_800K.m3u8
-#EXTINF:-1 tvg-logo="http://pic.qingting.fm/2015/0508/20150508151623858.jpg" group-title="",Peony River Life Story Radio
+#EXTINF:-1 tvg-logo="http://pic.qingting.fm/2015/0508/20150508151623858.jpg" group-title="variety,news,talk",Peony River Life Story Radio 91.6
 http://lhttp.qingting.fm/live/5022435/64k.mp3
-#EXTINF:-1 tvg-logo="http://pic.qingting.fm/2015/0505/20150505142054585.jpg" group-title="",Peony River News Radio
+#EXTINF:-1 tvg-logo="http://pic.qingting.fm/2015/0505/20150505142054585.jpg" group-title="news,talk",Peony River News Radio 684/100.7
 http://lhttp.qingting.fm/live/5022434/64k.mp3
-#EXTINF:-1 tvg-logo="" group-title="",Peony River Traffic Radio
+#EXTINF:-1 tvg-logo="https://www.programmes-radio.com/media/stream/c96af35e-b761-11e8-aaf2-52543be04c81_E4F7CBDA0AB911D2B9EAC21DEB3EE8FB_20150518152314713.png" group-title="traffic,news,weather",Peony River Traffic Radio 98.2
 http://lhttp.qingting.fm/live/5022354/64k.mp3
-#EXTINF:-1 tvg-logo="http://p1.ifengimg.com/index/72x72_2520ifeng.png" group-title="",Phoenix Chinese Satellite TV
-http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.haoqu.net/d/file/2016/1023/3dbd7f69c75486247711623f4720885c.jpg" group-title="",Phoenix Info News Satellite TV
-http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.pingli.gov.cn/favicon.ico" group-title="",Pingli TV
-http://124.47.34.186/PLTV/88888888/224/3221225846/index.m3u8
-#EXTINF:-1 tvg-logo="http://nettv.live/uploads/allimg/18/1-1P219161Q60-L.jpg" group-title="",Pingsiang Educational TV
-http://www.pxitv.com:8099/hls-live/livepkgr/_definst_/pxitvevent/pxtv2stream.m3u8
-#EXTINF:-1 tvg-logo="http://nettv.live/uploads/18/1-1P21916264S20.jpg" group-title="",Pingsiang News TV
-http://www.pxitv.com:8099/hls-live/livepkgr/_definst_/pxitvevent/pxtv1stream.m3u8
-#EXTINF:-1 tvg-logo="http://nettv.live/uploads/19/1-1Z411143030111.jpg" group-title="",Puer TV-1 News
-http://hwzbout.yunshicloud.com/701aec/orx377.m3u8
-#EXTINF:-1 tvg-logo="" group-title="pop,rock",Radio Collection
-http://listen.radioking.com/radio/251653/stream/296545
-#EXTINF:-1 tvg-logo="http://portugues.tdm.com.mo/favicon.ico" group-title="",Rádio Macau
-http://live4.tdm.com.mo/live/_definst_/rch1.live/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",RTHK Channel 31 TV
-http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
-#EXTINF:-1 tvg-logo="" group-title="hong kong",RTHK Putonghua Channel
-http://stm.rthk.hk/radiopth
-#EXTINF:-1 tvg-logo="" group-title="hong kong",RTHK Radio-1
-http://stm.rthk.hk/radio1
-#EXTINF:-1 tvg-logo="" group-title="hong kong",RTHK Radio-2
-http://stm.rthk.hk/radio2
-#EXTINF:-1 tvg-logo="" group-title="hong kong",RTHK Radio-3
-http://stm.rthk.hk/radio3
-#EXTINF:-1 tvg-logo="" group-title="hong kong",RTHK Radio-4
-http://stm.rthk.hk/radio4
-#EXTINF:-1 tvg-logo="" group-title="hong kong",RTHK Radio-5
-http://stm1.rthk.hk/radio5
-#EXTINF:-1 tvg-logo="http://nettv.live/uploads/19/1-1910301IH4639.jpg" group-title="",Ruili TV
-http://live.ynurl.com/video/s10021-rltv/index.m3u8
-#EXTINF:-1 tvg-logo="http://nettv.live/uploads/allimg/19/1-1Z4211053550-L.jpg" group-title="",Ruyang News TV
-http://live.dxhmt.cn:9081/tv/10326-1.m3u8
-#EXTINF:-1 tvg-logo="http://nettv.live/uploads/18/sandu1.jpg" group-title="",Santu News TV
-http://pili-live-rtmp.207.i2863.com/i2863-207/sdpdzb.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",Shanghai FM 101 上海动感101
-https://lhttp.qingting.fm/live/274/64k.mp3
-#EXTINF:-1 tvg-logo="http://o.cztvcloud.com/static/oldtemplates/project/shangyuweb/images/shangyu_32_32.ico" group-title="chekiang,hls video",Shangyu New Commercial City TV
-http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
-#EXTINF:-1 tvg-logo="http://o.cztvcloud.com/static/oldtemplates/project/shangyuweb/images/shangyu_32_32.ico" group-title="chekiang,hls video",Shangyu News TV
-http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
-#EXTINF:-1 tvg-logo="http://o.cztvcloud.com/static/oldtemplates/project/shangyuweb/images/shangyu_32_32.ico" group-title="chekiang",Shangyu People Radio
+#EXTINF:-1 tvg-logo="http://o.cztvcloud.com/static/oldtemplates/project/shangyuweb/images/shangyu_32_32.ico" group-title="chekiang,variety",Shangyu People Radio
 http://l.cztvcloud.com/channels/lantian/SXshangyuaud/128k.m3u8
-#EXTINF:-1 tvg-logo="http://o.cztvcloud.com/static/oldtemplates/project/shangyuweb/images/shangyu_32_32.ico" group-title="chekiang,hls video",Shangyu TV Series TV
-http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
-#EXTINF:-1 tvg-logo="http://pic.qingting.fm/2018/0214/20180214113747.jpeg" group-title="",Shansi Agriculture Radio
+#EXTINF:-1 tvg-logo="http://pic.qingting.fm/2018/0214/20180214113747.jpeg" group-title="news,educational",Shansi Agriculture Radio 100.9
 http://lhttp.qingting.fm/live/1186/64k.mp3
-#EXTINF:-1 tvg-logo="http://pic.qingting.fm/2015/0109/20150109153004175.jpg" group-title="",Shansi Economics Radio
+#EXTINF:-1 tvg-logo="http://pic.qingting.fm/2015/0109/20150109153004175.jpg" group-title="news,talk,business",Shansi Economics Radio 95.8
 http://lhttp.qingting.fm/live/20501/64k.mp3
-#EXTINF:-1 tvg-logo="" group-title="",Shansi Literature & Art Radio
-http://lhttp.qingting.fm/live/20485/64k.mp3
-#EXTINF:-1 tvg-logo="http://pic.qingting.fm/2013/channel_logo/4932.jpg" group-title="",Shansi Music Radio
+#EXTINF:-1 tvg-logo="http://pic.qingting.fm/2013/channel_logo/4932.jpg" group-title="pop,rock,hip hop",Shansi Music Radio 98.8
 http://ls.qingting.fm/live/4932.m3u8
-#EXTINF:-1 tvg-logo="http://pic.qingting.fm/2017/0810/20170810105456.jpeg" group-title="",Shansi News Radio
+#EXTINF:-1 tvg-logo="http://pic.qingting.fm/2017/0810/20170810105456.jpeg" group-title="news,talk",Shansi News Radio 101.8
 http://lhttp.qingting.fm/live/20491/64k.mp3
-#EXTINF:-1 tvg-logo="http://pic.qingting.fm/2012/1205/20121205091438874.jpg" group-title="",Shansi Traffic Radio
+#EXTINF:-1 tvg-logo="http://pic.qingting.fm/2012/1205/20121205091438874.jpg" group-title="news,weather,traffic",Shansi Traffic Radio 88.0
 http://lhttp.qingting.fm/live/20007/64k.mp3
-#EXTINF:-1 tvg-logo="http://pic.qingting.fm/2017/0113/20170113053011.jpeg" group-title="",Shantung Economics Radio
+#EXTINF:-1 tvg-logo="http://pic.qingting.fm/2017/0113/20170113053011.jpeg" group-title="business,news",Shantung Economics Radio
 http://lhttp.qingting.fm/live/20236/64k.mp3
-#EXTINF:-1 tvg-logo="http://pic.qingting.fm/2017/0802/20170802162457542.jpg" group-title="",Shantung Life Radio
+#EXTINF:-1 tvg-logo="http://pic.qingting.fm/2017/0802/20170802162457542.jpg" group-title="lifestyle,culture",Shantung Life Radio
 http://lhttp.qingting.fm/live/20240/64k.mp3
-#EXTINF:-1 tvg-logo="http://pic.qingting.fm/2017/0320/20170320032451.png" group-title="",Shantung Literature & Art Radio
+#EXTINF:-1 tvg-logo="http://pic.qingting.fm/2017/0320/20170320032451.png" group-title="lifestyle,culture",Shantung Literature & Art Radio
 http://lhttp.qingting.fm/live/20238/64k.mp3
-#EXTINF:-1 tvg-logo="http://pic.qingting.fm/2015/1231/20151231143414292.jpg" group-title="",Shantung Music Radio
+#EXTINF:-1 tvg-logo="http://pic.qingting.fm/2015/1231/20151231143414292.jpg" group-title="pop,rock,hits",Shantung Music Radio
 http://ls.qingting.fm/live/1665.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",Shantung Sports Radio
+#EXTINF:-1 tvg-logo="https://www.programmes-radio.com/media/stream/970272b8-bda4-11e8-aaf2-52543be04c81_0567FBF3D2335F35DDF7405DA287BAA4_20160905105048.jpeg" group-title="sports,talk",Shantung Sports Radio 102.1
 http://lhttp.qingting.fm/live/20246/64k.mp3
-#EXTINF:-1 tvg-logo="http://pic.qingting.fm/2017/1017/20171017054652.jpeg" group-title="",Shantung Traffic Radio
+#EXTINF:-1 tvg-logo="http://pic.qingting.fm/2017/1017/20171017054652.jpeg" group-title="news,weather,traffic",Shantung Traffic Radio 101.1
 http://lhttp.qingting.fm/live/20242/64k.mp3
-#EXTINF:-1 tvg-logo="http://nettv.live/uploads/18/1-1P304232530O5.jpg" group-title="",Shaokwan News TV
-http://dslive.grtn.cn/sgxwzhHD/sd/live.m3u8
-#EXTINF:-1 tvg-logo="http://www.haoqu.net/d/file/2017/0108/small39b114dd60d68199cbb39ff08f242abb1483882516.jpg" group-title="",Shekow News TV
-http://218.17.99.211:5080/hls/ttsw6ccn.m3u8
-#EXTINF:-1 tvg-logo="http://nettv.live/uploads/allimg/19/1-1Z60G259410-L.jpg" group-title="",Shenmu TV-1 News
-http://124.47.34.188:80/wh7f454c46tw2793466120_1953421357/PLTV/88888888/224/3221225893/index.m3u8?icpid=88888888&RTS=1640053235&from=1&hms_devid=203
-#EXTINF:-1 tvg-logo="" group-title="shensi",Shensi Agriculture Radio
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s112423g.png" group-title="agriculture,news",Shensi Agriculture Radio
 http://radio.sxtvs.com/radio/country.mp3
-#EXTINF:-1 tvg-logo="" group-title="shensi",Shensi Auto Radio
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s112417q.png" group-title="economics,automobiles",Shensi Auto Radio 89.6
 http://radio.sxtvs.com/radio/encnomy.mp3
-#EXTINF:-1 tvg-logo="http://images.snrtv.com/images/24986.files/1018.jpg" group-title="shensi",Shensi Metro Radio
+#EXTINF:-1 tvg-logo="http://images.snrtv.com/images/24986.files/1018.jpg" group-title="pop,rock",Shensi Metro Radio 1008/101.8
 http://radio.sxtvs.com/radio/city.mp3
-#EXTINF:-1 tvg-logo="" group-title="shensi",Shensi Music Radio
+#EXTINF:-1 tvg-logo="https://fltaradio.com/upload/2018/05/shanxi-music-radio.jpg" group-title="folk,modern",Shensi Music Radio 98.8
 http://radio.sxtvs.com/radio/music.mp3
-#EXTINF:-1 tvg-logo="" group-title="shensi",Shensi News Radio
+#EXTINF:-1 tvg-logo="https://kuasark.com/files/stations-logos/shensi-news-radio.png" group-title="news,talk",Shensi News Radio 101.8
 http://radio.sxtvs.com/radio/news.mp3
-#EXTINF:-1 tvg-logo="" group-title="shensi",Shensi Opera Radio
+#EXTINF:-1 tvg-logo="https://i0.wp.com/top-radio.org/wp-content/uploads/logo/id/33769.png?w=1200&ssl=1" group-title="opera,folk",Shensi Opera Radio 747
 http://radio.sxtvs.com/radio/opera.mp3
-#EXTINF:-1 tvg-logo="" group-title="shensi",Shensi Story Radio
+#EXTINF:-1 tvg-logo="https://www.allradio.net/100/9nSVcXbD0-NaAZp_TvFGS.webp" group-title="talk,news",Shensi Story Radio 603
 http://radio.sxtvs.com/radio/story.mp3
-#EXTINF:-1 tvg-logo="" group-title="shensi",Shensi Talk Box Radio
+#EXTINF:-1 tvg-logo="https://www.radio-addict.com/media/stream/6f5e1f73-6fcd-11e8-83fa-52543be04c81_9EB04A1B20DD948F9A5075A9E008B635_1011.jpg" group-title="talk,news",Shensi Talk Box Radio
 http://radio.sxtvs.com/radio/cityopera.mp3
-#EXTINF:-1 tvg-logo="" group-title="shensi",Shensi Youth Radio
+#EXTINF:-1 tvg-logo="https://www.radio-addict.com/media/stream/d24e5018-6fcd-11e8-83fa-52543be04c81_52390EE3D84A1A7B430356540130E404_1055.jpg" group-title="variety,youth",Shensi Youth Radio 105.5
 http://radio.sxtvs.com/radio/kids.mp3
-#EXTINF:-1 tvg-logo="http://pic.qingting.fm/2016/0203/20160203152723669.blob" group-title="",Shikiachwang Music Radio
+#EXTINF:-1 tvg-logo="http://pic.qingting.fm/2016/0203/20160203152723669.blob" group-title="variety,news,talk",Shikiachwang Music Radio
 http://ls.qingting.fm/live/1654.m3u8
-#EXTINF:-1 tvg-logo="http://pic.qingting.fm/2012/0906/20120906051505474.jpg" group-title="",Shikiachwang News Radio
+#EXTINF:-1 tvg-logo="http://pic.qingting.fm/2012/0906/20120906051505474.jpg" group-title="news,talk",Shikiachwang News Radio
 http://ls.qingting.fm/live/1652.m3u8
-#EXTINF:-1 tvg-logo="http://pic.qingting.fm/2018/0205/20180205110605.jpeg" group-title="",Shikiachwang Traffic Radio
+#EXTINF:-1 tvg-logo="http://pic.qingting.fm/2018/0205/20180205110605.jpeg" group-title="traffic,news,weather",Shikiachwang Traffic Radio
 http://ls.qingting.fm/live/1655.m3u8
-#EXTINF:-1 tvg-logo="http://compound-eye.org/favicon.ico" group-title="college radio,eclectic,experimental",shirley & spinoza
-http://s2.radio.co/sec5fa6199/listen
-#EXTINF:-1 tvg-logo="http://nettv.live/uploads/19/1-1Z419192S53P.jpg" group-title="",Shishow News TV
-http://sstvplay.ssgdlive.com/live/sszh.m3u8
-#EXTINF:-1 tvg-logo="http://nettv.live/uploads/19/1-1Z419192351H4.jpg" group-title="",Shishow TV Series TV
-http://sstvplay.ssgdlive.com/live/sszh2.m3u8
-#EXTINF:-1 tvg-logo="http://nettv.live/uploads/allimg/19/1-1Z41G235130-L.jpg" group-title="",Shitai News TV
-http://112.27.85.131:8278/stzb/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="shensi",Sian Info Radio
-http://stream3.xiancity.cn/2/sd/live.m3u8
-#EXTINF:-1 tvg-logo="" group-title="shensi",Sian Music Radio
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/fblogo/0/94350.png" group-title="traditional,pop,shensi",Xian Music Radio 93.1
 http://stream3.xiancity.cn/4/sd/live.m3u8
-#EXTINF:-1 tvg-logo="" group-title="shensi",Sian News Radio
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s112655d.png" group-title="news,talk,shensi",Xian Information Radio 106.1
 http://stream3.xiancity.cn/1/sd/live.m3u8
-#EXTINF:-1 tvg-logo="" group-title="shensi",Sian Traffic Radio
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s112656d.png" group-title="news,weather,traffic,shensi",Xian Traffic Radio 104.3
 http://stream3.xiancity.cn/5/sd/live.m3u8
-#EXTINF:-1 tvg-logo="" group-title="hls video,shensi",Sian TV-1 News
-http://stream2.xiancity.cn/xatv1/sd/live.m3u8
-#EXTINF:-1 tvg-logo="" group-title="hls video,shensi",Sian TV-2 Metro
-http://stream2.xiancity.cn/xatv2/sd/live.m3u8
-#EXTINF:-1 tvg-logo="" group-title="hls video,shensi",Sian TV-3 Info
-http://stream2.xiancity.cn/xatv3/sd/live.m3u8
-#EXTINF:-1 tvg-logo="" group-title="hls video,shensi",Sian TV-4 Movies
-http://stream2.xiancity.cn/xatv4/sd/live.m3u8
-#EXTINF:-1 tvg-logo="" group-title="hls video,shensi",Sian TV-SRC Silk Road Channel
-http://stream2.xiancity.cn/xatv5/sd/live.m3u8
-#EXTINF:-1 tvg-logo="http://www.hnxttv.com/favicon.ico" group-title="hls video,hunan",Siangtan News TV
-http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
-#EXTINF:-1 tvg-logo="" group-title="hls video,hunan",Siangtan Public TV
-http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8
-#EXTINF:-1 tvg-logo="http://nettv.live/uploads/allimg/18/1-1P22Q623300-L.jpg" group-title="",Siantao Life & Sports TV
-http://221.233.242.239:280/live/72/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://nettv.live/uploads/allimg/18/1-1P22Q620080-L.jpg" group-title="",Siantao News TV
-http://221.233.242.239:280/live/71/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://o.cztvcloud.com/6/669201/images/logo_xh.png" group-title="",Siaoshan Cable Radio
-http://l.cztvcloud.com/channels/lantian/SXxiaoshanaud2/128k.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",Siaoshan FM Radio
-http://l.cztvcloud.com/channels/lantian/SXxiaoshanaud1/128k.m3u8
-#EXTINF:-1 tvg-logo="http://nettv.live/uploads/18/1-1PH6232011545.jpg" group-title="",Siaoshan Life TV
-http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
-#EXTINF:-1 tvg-logo="http://nettv.live/uploads/18/1-1PH6231U1126.jpg" group-title="",Siaoshan News TV
-http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
-#EXTINF:-1 tvg-logo="http://pic.qingting.fm/2017/0523/20170523114653753.png" group-title="",Sichuan News 四川综合广播FM98.1
-https://lhttp.qingting.fm/live/4906/64k.mp3
-#EXTINF:-1 tvg-logo="http://nettv.live/uploads/allimg/19/1-1Z4211026260-L.jpg" group-title="",Sin County News TV
-http://live.dxhmt.cn:9081/tv/11523-1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="chekiang,hls video",Sinchang News TV
-http://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
-#EXTINF:-1 tvg-logo="" group-title="chekiang",Sinchang Voice of Tienmu
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2e/The_Voice_of_China_-_official_logo.jpg" group-title="traditional,pop,rock",Sinchang Voice of Tienmu
 http://l.cztvcloud.com/channels/lantian/SXxinchangaud/128k.m3u8
-#EXTINF:-1 tvg-logo="http://nettv.live/uploads/allimg/19/1-1Z6060U3080-L.jpg" group-title="",Sincheng TV 1 News
-http://live.dxhmt.cn:9081/tv/10184-1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="sinkiang",Sinkiang Communications Radio
-http://aod.xjbs.com.cn:1935/live/949/32K/tzwj_video.m3u8
-#EXTINF:-1 tvg-logo="" group-title="sinkiang",Sinkiang Kyrgyz Radio
-http://aod.xjbs.com.cn:1935/live/ky/32K/tzwj_video.m3u8
-#EXTINF:-1 tvg-logo="" group-title="sinkiang",Sinkiang Life Radio
-http://aod.xjbs.com.cn:1935/live/924/32K/tzwj_video.m3u8
-#EXTINF:-1 tvg-logo="" group-title="sinkiang",Sinkiang Mongolian Radio
-http://aod.xjbs.com.cn:1935/live/my/32K/tzwj_video.m3u8
-#EXTINF:-1 tvg-logo="" group-title="sinkiang",Sinkiang Story Radio
-http://aod.xjbs.com.cn:1935/live/1028/32K/tzwj_video.m3u8
-#EXTINF:-1 tvg-logo="" group-title="sinkiang",Sinkiang Uyghur Communications Radio
-http://aod.xjbs.com.cn:1935/live/wywy/32K/tzwj_video.m3u8
-#EXTINF:-1 tvg-logo="" group-title="sinkiang",Sinkiang Uyghur News Radio
-http://aod.xjbs.com.cn:1935/live/wy/32K/tzwj_video.m3u8
-#EXTINF:-1 tvg-logo="http://pic.qingting.fm/2018/0314/20180314115925.jpeg" group-title="",Sinkiang Voice of Corps Radio
+#EXTINF:-1 tvg-logo="http://pic.qingting.fm/2018/0314/20180314115925.jpeg" group-title="variety,talk,politics",Sinkiang Voice of Corps Radio 88.2
 http://lhttp.qingting.fm/live/5022410/64k.mp3
-#EXTINF:-1 tvg-logo="" group-title="",Sintai Agriculture TV
-http://live.xtgdw.cn:1935/live/xtxc/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://nettv.live/uploads/18/1-1PH0231543W4.jpg" group-title="",Sintai Life TV
-http://live.xtgdw.cn:1935/live/xtsh/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://nettv.live/uploads/18/1-1PH0230ZK03.jpg" group-title="",Sintai News TV
-http://live.xtgdw.cn:1935/live/xtzh/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://nettv.live/uploads/18/1-1PH0231I5S6.jpg" group-title="",Sintai TV Series TV
-http://live.xtgdw.cn:1935/live/xtys/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://nettv.live/uploads/18/1-1P331133954G1.jpg" group-title="",Strait Satellite TV
-http://stream7.fjtv.net/hxpdfh/hd/live.m3u8
-#EXTINF:-1 tvg-logo="http://nettv.live/uploads/allimg/19/1-1Z41G300510-L.jpg" group-title="",Suisi TV-1
-http://hwapi.yunshicloud.com/m87oxo/251011.m3u8
-#EXTINF:-1 tvg-logo="http://nettv.live/uploads/allimg/19/1-1Z41G304360-L.jpg" group-title="",Suisi TV-2
-http://hwapi.yunshicloud.com/m87oxo/h7j86z.m3u8
-#EXTINF:-1 tvg-logo="http://nettv.live/uploads/18/1-1PR5212U3439.jpg" group-title="",Sun Satellite TV
-http://stream.chinasuntv.com/680k/mid_video_index.m3u8
-#EXTINF:-1 tvg-logo="http://nettv.live/uploads/allimg/19/1-1ZRQ61U60-L.jpg" group-title="",Sungtao News TV
-http://live.strmtzx.cn/stxw/sd/live.m3u8
-#EXTINF:-1 tvg-logo="http://www.haoqu.net/d/file/2018/0703/smallc0a787e198250f8ea1f92404800f485d1530594336.jpg" group-title="",Swabue TV-2 Public
-http://dslive.grtn.cn/swzh/sd/live.m3u8
-#EXTINF:-1 tvg-logo="http://www.haoqu.net/d/file/2017/0109/small-75748548.jpg" group-title="",Swatow TV-1 News
-http://dslive.grtn.cn/stzh/sd/live.m3u8
-#EXTINF:-1 tvg-logo="http://www.sctv.com/favicon.ico" group-title="szechuan",Szechuan Min River Music
+#EXTINF:-1 tvg-logo="http://www.sctv.com/favicon.ico" group-title="traditional,contemporary",Szechuan Min River Music
 http://live.xmcdn.com/live/751/64.m3u8
-#EXTINF:-1 tvg-logo="http://www.sctv.com/favicon.ico" group-title="szechuan",Szechuan News Radio
+#EXTINF:-1 tvg-logo="http://www.sctv.com/favicon.ico" group-title="news,talk",Szechuan News Radio
 http://live.xmcdn.com/live/1643/64.m3u8
 #EXTINF:-1 tvg-logo="http://nettv.live/uploads/allimg/19/1-1ZQ21910060-L.jpg" group-title="",Taiho Educational TV
 http://p2.weizan.cn/1110366022/132071060845712961/live.m3u8
