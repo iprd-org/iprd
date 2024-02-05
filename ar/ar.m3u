@@ -249,10 +249,8 @@ http://miradioenlaweb.com:4994/;
 http://190.2.45.2:4994/stream
 #EXTINF:-1 tvg-logo="https://libertaddigital.com.ar/content/favicon/apple-touch-icon-120x120.png" group-title="pop,news,latin",Libertad FM 99.1
 https://01.solumedia.com.ar:8378/stream
-#EXTINF:-1 tvg-logo="https://co.radio.net/images/broadcasts/4c/ce/10732/2/c300.png" group-title="latin,world,pop",Los 40 Principales 105.5
-https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_ARGENTINAAAC.aac?csegid=12000&gdpr=1&gdpr_consent=false&dist=los40-web-live_streaming_play&tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=d05fb423-0a75-470d-d27a-b7840bea4b0b
 #EXTINF:-1 tvg-logo="http://funkyimg.com/i/2Dw11.jpg" group-title="hits,latin,pop,top 40",Los 40 Principales 105.5
-https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_ARGENTINA_SC
+https://sigma.radioplayer.com.ar/stream/los40
 #EXTINF:-1 tvg-logo="http://www.lowprofileradio.com/wp-content/uploads/2020/08/head-150x150.jpg" group-title="ambient,dance,electronic,folk,metal,soundtrack,techno,world",Low Profile Radio
 https://delta.radioplayer.com.ar:9102/lowprofileradio
 #EXTINF:-1 tvg-logo="http://www.lt9.com.ar/img/favicon/favicon-32x32.png" group-title="pop,news,talk",LT9 Radio 1150
