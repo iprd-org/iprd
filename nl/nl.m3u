@@ -315,8 +315,8 @@ http://mediaserv30.live-streams.nl:8007/stream
 https://icecast-qmusicnl-cdp.triple-it.nl/Joe_nl_1_96.mp3
 #EXTINF:-1 tvg-logo="" group-title="",Joy Radio
 http://stream.joyradio.nl/joyradio
-#EXTINF:-1 tvg-logo="" group-title="drum and bass,jungle",Jungletrain.net
-http://stream5.jungletrain.net:8000/
+#EXTINF:-1 tvg-logo="https://jungletrain.net/images/logo_final_003_wyb_.svg" group-title="drum and bass,jungle",Jungletrain.net [128Kbps MP3]
+https://jungletrain.net/128kbps.pls
 #EXTINF:-1 tvg-logo="" group-title="80s,pop",Keizerstad Radio 80s
 http://server-06.stream-server.nl:8800/
 #EXTINF:-1 tvg-logo="https://kink.nl/static/apple-touch-icon.png" group-title="",KINK
