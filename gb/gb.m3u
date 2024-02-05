@@ -453,6 +453,8 @@ http://vis.media-ice.musicradio.com/CapitalUK
 http://radio.canstream.co.uk:8008/live.mp3
 #EXTINF:-1 tvg-logo="https://rmp.files.bbci.co.uk/playspace/img/apple-touch-icon.96d5401f35.png" group-title="children,childrens music,educational",CBeebies Radio
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_med/ak/cbeebies_radio.m3u8
+#EXTINF:-1 tvg-logo="https://www.centreforceradio.com/wp-content/uploads/2023/02/WebsiteLogoMobile.fw_-2.fw_.png" group-title="House,Dance,Live DJ",Centreforce 883 Radio
+https://listen.centreforceradio.com/320
 #EXTINF:-1 tvg-logo="" group-title="celtic,folk",Celtic Music Radio
 http://stream.celticmusicradio.net:8000/celticmusic.mp3
 #EXTINF:-1 tvg-logo="https://assets.planetradio.co.uk/img/ConfigWebMobileHeroImageUrl/10.jpg?ver=1465404043" group-title="hits,pop,top 40",CFM Cumbria UK
@@ -1303,6 +1305,8 @@ http://206.189.117.157:8000/stream
 https://streaming01.zfast.co.uk/proxy/mtunstil?mp=/stream
 #EXTINF:-1 tvg-logo="" group-title="blind,partially sighted",RNIB Connect Radio - Royal National Institute of Blind People
 https://n13.rcs.revma.com/yv4znr4xcg0uv?rj-ttl=5&rj-tok=AAABfd5kKOkA9kzDj1akmwH7lw
+#EXTINF:-1 tvg-logo="https://www.royalfreeradio.co.uk/images/logos/RoyalFree_Radio_Primary_RGB.png" group-title="60s.70s,80,90,00,10,20",Royal Free Radio [128Kbps MP3]
+https://royalfreeradio.radioca.st/;
 #EXTINF:-1 tvg-logo="https://listenapi.s3.amazonaws.com/img/ConfigWebListenBarLogoImageUrl/8.png" group-title="bauer radio,hits,pop,top 40",Rock FM
 http://live-bauer-mz.sharp-stream.com/rock.mp3
 #EXTINF:-1 tvg-logo="https://listenapi.s3.amazonaws.com/img/ConfigWebListenBarLogoImageUrl/42.png" group-title="bauer radio,classic hits",Rock FM 2
