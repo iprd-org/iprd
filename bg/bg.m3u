@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYu45c1xUTgzCUF7r5fiFU0DBe0geyiWiRhKpkHhF_Cbtc7JiNthAtbhMJSxEB8hdmK9Q&usqp=CAU" group-title="alternative,classic,rock",BadRock Radio
 http://199.115.117.77:8100/;
+#EXTINF:-1 tvg-logo="https://i0.wp.com/radiobg.co.uk/wp-content/uploads/2020/03/RadioBG_London_Logo.jpg?fit=367%2C80&ssl=1" group-title="pop",RadioBG London
+https://live.radiobg.co.uk:8443/live
 #EXTINF:-1 tvg-logo="http://www.radio1rock.bg/theme_assets/radio1rock/images/favicon.png" group-title="rock,classic",Radio 1 Rock 98.3
 http://31.13.223.148:8000/1_rock.mp3
 #EXTINF:-1 tvg-logo="http://www.predavatel.com/bg/radio/bgradio.png" group-title="local,pop",BG Radio
