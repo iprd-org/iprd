@@ -93,16 +93,6 @@ http://balamii.out.airtime.pro:8000/balamii_a
 http://91.232.4.33:9454/stream
 #EXTINF:-1 tvg-logo="http://static.radio.net/images/broadcasts/bf/40/4993/c300.png" group-title="drum and bass,dubstep,jungle",Bassjunkees
 http://ducks.and.ponies.listen.bassjunkees.com:8442/
-#EXTINF:-1 tvg-logo="https://www.bbc.com/favicon.ico" group-title="africa,afrique,news,talk",BBC Afrique Radio
-http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_afrique_radio.m3u8
-#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/6/6.1563228219.png" group-title="news",BBC for Australasia
-https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_australasia
-#EXTINF:-1 tvg-logo="https://www.bbc.com/favicon.ico" group-title="news,somali,talk",BBC Somali Radio
-http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_somali_radio.m3u8
-#EXTINF:-1 tvg-logo="https://rmp.files.bbci.co.uk/rmp-shared-assets/1.4.0/img/network-logos/national/bbc_world_service_colour.svg" group-title="News",BBC World Service Online
-https://stream.live.vc.bbcmedia.co.uk/bbc_world_service
-#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/6/6.1563228219.png" group-title="news",BBC World Service for East Asia
-https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_east_asia
 #EXTINF:-1 tvg-logo="https://assets.radioplayer.co.uk/stationimages/1163_handheld_default_playing_image.png" group-title="bradford,community radio",BCB Radio
 https://radio.canstream.co.uk:9071/live.mp3
 #EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/hZ4CuzBpkn.jpg" group-title="",Beethoven In Sequence
@@ -233,8 +223,6 @@ http://icecast.thisisdax.com/CapitalLiverpoolMP3
 http://vis.media-ice.musicradio.com/CapitalUK
 #EXTINF:-1 tvg-logo="http://www.castledownradio.info/favicon.ico" group-title="community radio,tidworth",Castledown Radio 104.7 - Tidworth
 http://radio.canstream.co.uk:8008/live.mp3
-#EXTINF:-1 tvg-logo="https://rmp.files.bbci.co.uk/playspace/img/apple-touch-icon.96d5401f35.png" group-title="children,childrens music,educational",CBeebies Radio
-http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_med/ak/cbeebies_radio.m3u8
 #EXTINF:-1 tvg-logo="https://www.centreforceradio.com/wp-content/uploads/2023/02/WebsiteLogoMobile.fw_-2.fw_.png" group-title="House,Dance,Live DJ",Centreforce 883 Radio
 https://listen.centreforceradio.com/320
 #EXTINF:-1 tvg-logo="" group-title="celtic,folk",Celtic Music Radio
@@ -389,10 +377,6 @@ http://streaming01.zfast.co.uk:8116/;
 http://stream.evehost.net:8000/listen.pls
 #EXTINF:-1 tvg-logo="https://ewtn.co.uk/wp-content/uploads/2020/06/LogoSlimLight78.png" group-title="catholic,christian,tv",EWTN Great Britain TV
 https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/byyfhl2b/1152/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://exclusive.radio/wp-content/uploads/2019/03/cropped-cropped-er-logo-51213-100x100.png" group-title="rock",Exclusively Dire Straits
-https://streaming.exclusive.radio/er/direstraits/icecast.audio
-#EXTINF:-1 tvg-logo="https://manager.uber.radio/static/uploads/station/a376b7ec-23c8-4d59-bbc2-b307de321d77.jpg" group-title="rock",Exclusively Supertramp
-https://streaming.exclusive.radio/er/supertramp/icecast.audio
 #EXTINF:-1 tvg-logo="https://www.nts.live/favicon.ico" group-title="jazz",Expansions | NTS
 https://stream-mixtape-geo.ntslive.net/mixtape3
 #EXTINF:-1 tvg-logo="https://mm.aiircdn.com/41/5d385f28046be.png" group-title="",express fm
