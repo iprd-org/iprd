@@ -45,26 +45,6 @@ http://uk5.internet-radio.com:8256/;
 http://185.80.221.113:7550/stream
 #EXTINF:-1 tvg-logo="https://abbey104.com/favicon.ico" group-title="community radio,sherborne",Abbey 104  Sherborne
 http://5.152.208.98:8030/;stream/1
-#EXTINF:-1 tvg-logo="https://assets.planetradio.co.uk/img/ConfigWebListenBarLogoImageUrl/1.png" group-title="bauer radio,modern adult contemporary",Absolute Radio
-https://stream-ar.planetradio.co.uk/absoluteradiohigh.aac
-#EXTINF:-1 tvg-logo="https://planetradio.co.uk/tesla/static/favicons/absolute/favicon.ico" group-title="",Absolute Radio 00s
-http://ais.absoluteradio.co.uk//absolute00s.mp3
-#EXTINF:-1 tvg-logo="https://planetradio.co.uk/tesla/static/favicons/planet-radio/apple-touch-icon.png" group-title="",Absolute Radio 10s
-http://ais.absoluteradio.co.uk//absolute10s.mp3
-#EXTINF:-1 tvg-logo="https://planetradio.co.uk/tesla/static/favicons/absolute/favicon.ico" group-title="1960s,60s",Absolute Radio 60s
-http://ais.absoluteradio.co.uk//absolute60s.mp3
-#EXTINF:-1 tvg-logo="https://planetradio.co.uk/tesla/static/favicons/absolute/apple-touch-icon.png" group-title="",Absolute Radio 70's
-http://icy-e-bab-04-cr.sharp-stream.com/absolute70s.mp3
-#EXTINF:-1 tvg-logo="https://planetradio.co.uk/tesla/static/favicons/absolute/favicon.ico" group-title="",Absolute Radio 70s
-http://ais.absoluteradio.co.uk//absolute70s.mp3
-#EXTINF:-1 tvg-logo="https://planetradio.co.uk/tesla/static/favicons/absolute/favicon.ico" group-title="",Absolute Radio 80s
-http://ais.absoluteradio.co.uk//absolute80s.mp3
-#EXTINF:-1 tvg-logo="" group-title="rock",Absolute Radio 80s
-http://icy-e-bab-04-cr.sharp-stream.com/absolute80s.mp3
-#EXTINF:-1 tvg-logo="https://planetradio.co.uk/tesla/static/favicons/absolute/favicon.ico" group-title="",Absolute Radio 90s
-http://ais.absoluteradio.co.uk//absolute90s.mp3
-#EXTINF:-1 tvg-logo="https://assets.planetradio.co.uk/img/ConfigWebListenBarLogoImageUrl/2.png?ver=1465293129" group-title="",Absolute Radio Classic Rock
-http://ais.absoluteradio.co.uk/absoluteclassicrock.mp3?
 #EXTINF:-1 tvg-logo="https://actualradio.com/wp-content/uploads/2017/05/cropped-Favicon-192x192.png" group-title="best music,classic hits,colchester,contemporary hits,essex,hits,local,local news,local radio,local talk,music,variety",Actual Radio Colchester
 https://listen-actualradio.sharp-stream.com/actualradio.mp3
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio70007_1526588256.jpg" group-title="ccm,gospel",Adventist Radio London
@@ -113,216 +93,6 @@ http://balamii.out.airtime.pro:8000/balamii_a
 http://91.232.4.33:9454/stream
 #EXTINF:-1 tvg-logo="http://static.radio.net/images/broadcasts/bf/40/4993/c300.png" group-title="drum and bass,dubstep,jungle",Bassjunkees
 http://ducks.and.ponies.listen.bassjunkees.com:8442/
-#EXTINF:-1 tvg-logo="" group-title="sports",BBC 5 LIVE SPORTS
-http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_vlow/ak/bbc_radio_five_live_sports_extra.m3u8
-#EXTINF:-1 tvg-logo="https://www.bbc.com/favicon.ico" group-title="africa,afrique,news,talk",BBC Afrique Radio
-http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_afrique_radio.m3u8
-#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s6866q.png" group-title="arabic,news",BBC Arabic
-http://stream.live.vc.bbcmedia.co.uk/bbc_arabic_radio
-#EXTINF:-1 tvg-logo="https://www.bbc.com/favicon.ico" group-title="arabic,news,talk",BBC Arabic Radio
-http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_arabic_radio.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s44490q.png" group-title="asian,bbc,entertainment,music,news",BBC Asian Network
-http://stream.live.vc.bbcmedia.co.uk/bbc_asian_network
-#EXTINF:-1 tvg-logo="http://www.bbc.co.uk/favicon.ico" group-title="bbc,essex,local news,news",BBC Essex
-http://stream.live.vc.bbcmedia.co.uk/bbc_radio_essex?s=1640104569&e=1640118969&h=5c59eebcdc00074c660ac6e12968ea4e
-#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/6/6.1563228219.png" group-title="news",BBC for Australasia
-https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_australasia
-#EXTINF:-1 tvg-logo="https://rmp.files.bbci.co.uk/playspace/img/apple-touch-icon.96d5401f35.png" group-title="hot adult contemporary",BBC Radio 1
-http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_radio_one.m3u8
-#EXTINF:-1 tvg-logo="https://rmp.files.bbci.co.uk/rmp-shared-assets/1.4.0/img/network-logos/national/bbc_radio_one_colour.svg" group-title="adult contemporary,bbc",BBC Radio 1
-https://stream.live.vc.bbcmedia.co.uk/bbc_radio_one
-#EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbrandeps.com%2Flogo%2FB%2FBBC-Radio-1-01&psig=AOvVaw2VyS8567JOfS399KLtQazY&ust=1616525611949000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLjp26jJxO8CFQAAAAAdAAAAABAE" group-title="",BBC Radio 1
-http://stream.live.vc.bbcmedia.co.uk/bbc_radio_one
-#EXTINF:-1 tvg-logo="https://rmp.files.bbci.co.uk/playspace/img/apple-touch-icon.96d5401f35.png" group-title="dance,electronic,house",BBC Radio 1 Dance
-http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_radio_one_dance.m3u8
-#EXTINF:-1 tvg-logo="https://rmp.files.bbci.co.uk/playspace/img/apple-touch-icon.96d5401f35.png" group-title="asmr,meditation",BBC Radio 1 Relax
-http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_radio_one_relax.m3u8
-#EXTINF:-1 tvg-logo="https://rmp.files.bbci.co.uk/rmp-shared-assets/1.4.0/img/network-logos/national/bbc_1xtra_colour.svg" group-title="adult contemporary",BBC Radio 1Xtra
-https://stream.live.vc.bbcmedia.co.uk/bbc_1xtra
-#EXTINF:-1 tvg-logo="https://rmp.files.bbci.co.uk/playspace/img/apple-touch-icon.96d5401f35.png" group-title="electronica,hip-hop,r&b,soul,urban",BBC Radio 1Xtra
-http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_1xtra.m3u8
-#EXTINF:-1 tvg-logo="https://bathfestivals.org.uk/the-bath-festival/wp-content/uploads/sites/6/2019/02/1200px-BBC_Radio_2.svg.png" group-title="",BBC Radio 2
-http://stream.live.vc.bbcmedia.co.uk/bbc_radio_two
-#EXTINF:-1 tvg-logo="https://rmp.files.bbci.co.uk/rmp-shared-assets/1.4.0/img/network-logos/national/bbc_radio_two_colour.svg" group-title="bbc",BBC Radio 2
-https://stream.live.vc.bbcmedia.co.uk/bbc_radio_two
-#EXTINF:-1 tvg-logo="https://rmp.files.bbci.co.uk/playspace/img/apple-touch-icon.96d5401f35.png" group-title="adult contemporary",BBC Radio 2
-http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_radio_two.m3u8
-#EXTINF:-1 tvg-logo="https://rmp.files.bbci.co.uk/rmp-shared-assets/1.4.0/img/network-logos/national/bbc_radio_three_colour.svg" group-title="bbc,classical",BBC Radio 3
-https://stream.live.vc.bbcmedia.co.uk/bbc_radio_three
-#EXTINF:-1 tvg-logo="https://rmp.files.bbci.co.uk/playspace/img/apple-touch-icon.96d5401f35.png" group-title="arts,classical,culture,drama,jazz,world music",BBC Radio 3
-http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_radio_three.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s24941q.png" group-title="",BBC Radio 3 HD
-http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_three.m3u8
-#EXTINF:-1 tvg-logo="https://rmp.files.bbci.co.uk/playspace/img/apple-touch-icon.96d5401f35.png" group-title="comedy,drama,news,talk",BBC Radio 4
-http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_radio_fourfm.m3u8
-#EXTINF:-1 tvg-logo="https://rmp.files.bbci.co.uk/rmp-shared-assets/1.4.0/img/network-logos/national/bbc_radio_fourfm_colour.svg" group-title="bbc",BBC Radio 4
-https://stream.live.vc.bbcmedia.co.uk/bbc_radio_fourfm
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s25419q.png" group-title="bbc,comedy,drama,news,news talk,talk",BBC Radio 4
-http://stream.live.vc.bbcmedia.co.uk/bbc_radio_fourfm
-#EXTINF:-1 tvg-logo="https://rmp.files.bbci.co.uk/rmp-shared-assets/1.4.0/img/network-logos/national/bbc_radio_four_extra_colour.svg" group-title="bbc",BBC Radio 4 Extra
-https://stream.live.vc.bbcmedia.co.uk/bbc_radio_four_extra
-#EXTINF:-1 tvg-logo="https://rmp.files.bbci.co.uk/playspace/img/apple-touch-icon.96d5401f35.png" group-title="comedy,drama,entertainment",BBC Radio 4 Extra
-http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_radio_four_extra.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s6839q.png" group-title="",BBC Radio 4 Extra (320kbits)
-http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_four_extra.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s25419q.png" group-title="",BBC Radio 4 HD
-http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_fourfm.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s24943q.png" group-title="news,sport",BBC Radio 5 Live
-http://stream.live.vc.bbcmedia.co.uk/bbc_radio_five_live_online_nonuk?s=1640103758&e=1640118158&h=c54a0294c69e5e07d0b614c7fdbebfdf
-#EXTINF:-1 tvg-logo="https://rmp.files.bbci.co.uk/playspace/img/apple-touch-icon.96d5401f35.png" group-title="news,sport",BBC Radio 5 Live
-http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_radio_five_live.m3u8
-#EXTINF:-1 tvg-logo="https://images.app.goo.gl/eZwGnfvfkMqy4Ete7" group-title="",BBC Radio 5 live non-UK
-http://stream.live.vc.bbcmedia.co.uk/bbc_radio_five_live_online_nonuk
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s50459q.png" group-title="bbc,live sports,sport",BBC Radio 5 Live Sports Extra
-http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_five_live_sports_extra.m3u8
-#EXTINF:-1 tvg-logo="https://rmp.files.bbci.co.uk/playspace/img/apple-touch-icon.96d5401f35.png" group-title="sport",BBC Radio 5 Live Sports Extra
-http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_med/ak/bbc_radio_five_live_sports_extra.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s44491q.png" group-title="alternative,indie",BBC Radio 6 Music
-http://stream.live.vc.bbcmedia.co.uk/bbc_6music?s=1640040959&e=1640055359&h=10f8615fd1699a05c64c8cd2de3db451
-#EXTINF:-1 tvg-logo="https://rmp.files.bbci.co.uk/rmp-shared-assets/1.4.0/img/network-logos/national/bbc_6music_colour.svg" group-title="bbc",BBC Radio 6 Music
-https://stream.live.vc.bbcmedia.co.uk/bbc_6music
-#EXTINF:-1 tvg-logo="https://rmp.files.bbci.co.uk/rmp-shared-assets/1.3.0/img/network-logos/national/bbc_6music_alt_colour.svg" group-title="320kbps,indie,music,pop,rock",BBC Radio 6 Music
-http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_6music.m3u8
-#EXTINF:-1 tvg-logo="http://www.bbc.co.uk/favicon.ico" group-title="bbc,berkshire,local news,music,talk",BBC Radio Berkshire
-http://stream.live.vc.bbcmedia.co.uk/bbc_radio_berkshire
-#EXTINF:-1 tvg-logo="http://www.bbc.co.uk/favicon.ico" group-title="bbc,bristol,local,traffic",BBC Radio Bristol
-http://stream.live.vc.bbcmedia.co.uk/bbc_radio_bristol
-#EXTINF:-1 tvg-logo="http://www.bbc.co.uk/favicon.ico" group-title="bbc,cambridgeshire,information,local news,news",BBC Radio Cambridgeshire
-http://stream.live.vc.bbcmedia.co.uk/bbc_radio_cambridge
-#EXTINF:-1 tvg-logo="https://rmp.files.bbci.co.uk/playspace/img/apple-touch-icon.96d5401f35.png" group-title="",BBC Radio Cornwall
-http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_radio_cornwall.m3u8
-#EXTINF:-1 tvg-logo="http://www.bbc.co.uk/favicon.ico" group-title="bbc,cornwall,information,local news,news",BBC Radio Cornwall
-http://stream.live.vc.bbcmedia.co.uk/bbc_radio_cornwall
-#EXTINF:-1 tvg-logo="https://radiotoday.co.uk/wp-content/uploads/2020/01/CWR.png" group-title="",BBC Radio Coventry & Warwickshire
-http://stream.live.vc.bbcmedia.co.uk/bbc_radio_coventry_warwickshire
-#EXTINF:-1 tvg-logo="https://static.files.bbci.co.uk/sounds/web/sounds-web/img/apple-touch-icon.96d5401f35.png" group-title="bbc,cumbria,information,local news,news",BBC Radio Cumbria
-http://stream.live.vc.bbcmedia.co.uk/bbc_radio_cumbria
-#EXTINF:-1 tvg-logo="https://static.files.bbci.co.uk/sounds/web/sounds-web/img/apple-touch-icon.96d5401f35.png" group-title="bbc,local music,news,sport",BBC Radio Cymru
-http://stream.live.vc.bbcmedia.co.uk/bbc_radio_cymru
-#EXTINF:-1 tvg-logo="https://rmp.files.bbci.co.uk/playspace/img/apple-touch-icon.96d5401f35.png" group-title="entertainment,music,news,sport",BBC Radio Cymru
-http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_radio_cymru.m3u8
-#EXTINF:-1 tvg-logo="http://www.bbc.co.uk/favicon.ico" group-title="",BBC Radio Cymru 2
-http://stream.live.vc.bbcmedia.co.uk/bbc_radio_cymru_2
-#EXTINF:-1 tvg-logo="https://rmp.files.bbci.co.uk/playspace/img/apple-touch-icon.96d5401f35.png" group-title="entertainment,music",BBC Radio Cymru 2
-http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_radio_cymru_2.m3u8
-#EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/images/ic/640x360/p08h6dcl.jpg" group-title="",BBC Radio Derby
-http://stream.live.vc.bbcmedia.co.uk/bbc_radio_derby
-#EXTINF:-1 tvg-logo="http://static.bbci.co.uk/favicon.ico" group-title="bbc,devon,information,local news,news",BBC Radio Devon
-http://stream.live.vc.bbcmedia.co.uk/bbc_radio_devon
-#EXTINF:-1 tvg-logo="https://static.files.bbci.co.uk/sounds/web/sounds-web/img/apple-touch-icon.96d5401f35.png" group-title="bbc,derry,music,news,talk",BBC Radio Foyle
-http://stream.live.vc.bbcmedia.co.uk/bbc_radio_foyle
-#EXTINF:-1 tvg-logo="https://rmp.files.bbci.co.uk/playspace/img/apple-touch-icon.96d5401f35.png" group-title="music,news,sport,talk",BBC Radio Foyle
-http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_radio_foyle.m3u8
-#EXTINF:-1 tvg-logo="http://www.bbc.co.uk/favicon.ico" group-title="bbc,gloucestershire,information,local news,news",BBC Radio Gloucestershire
-http://stream.live.vc.bbcmedia.co.uk/bbc_radio_gloucestershire
-#EXTINF:-1 tvg-logo="http://www.bbc.co.uk/favicon.ico" group-title="bbc,guernsey,local news,news",BBC Radio Guernsey
-http://stream.live.vc.bbcmedia.co.uk/bbc_radio_guernsey
-#EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/images/ic/320x320/p08h6f24.jpg" group-title="",BBC Radio Hereford and Worcester
-http://stream.live.vc.bbcmedia.co.uk/bbc_radio_hereford_worcester
-#EXTINF:-1 tvg-logo="http://www.bbc.co.uk/favicon.ico" group-title="bbc,humberside,information,local news,news",BBC Radio Humberside
-http://stream.live.vc.bbcmedia.co.uk/bbc_radio_humberside
-#EXTINF:-1 tvg-logo="http://www.bbc.co.uk/favicon.ico" group-title="bbc,information,jersey city,local news,news",BBC Radio Jersey
-http://stream.live.vc.bbcmedia.co.uk/bbc_radio_jersey
-#EXTINF:-1 tvg-logo="http://www.bbc.co.uk/favicon.ico" group-title="bbc,information,kent,local news,news",BBC Radio Kent
-http://stream.live.vc.bbcmedia.co.uk/bbc_radio_kent
-#EXTINF:-1 tvg-logo="http://www.bbc.co.uk/favicon.ico" group-title="bbc,information,lancashire,local news,news",BBC Radio Lancashire
-http://stream.live.vc.bbcmedia.co.uk/bbc_radio_lancashire
-#EXTINF:-1 tvg-logo="http://www.bbc.co.uk/favicon.ico" group-title="bbc,local radio",BBC Radio Leeds
-http://stream.live.vc.bbcmedia.co.uk/bbc_radio_leeds
-#EXTINF:-1 tvg-logo="http://www.bbc.co.uk/favicon.ico" group-title="bbc,information,leicester,local news,news",BBC Radio Leicester
-http://stream.live.vc.bbcmedia.co.uk/bbc_radio_leicester
-#EXTINF:-1 tvg-logo="http://www.bbc.co.uk/favicon.ico" group-title="bbc,information,lincolnshire,local news,news",BBC Radio Lincolnshire
-http://stream.live.vc.bbcmedia.co.uk/bbc_radio_lincolnshire
-#EXTINF:-1 tvg-logo="https://d15mj6e6qmt1na.cloudfront.net/i/17104160/300x300/c" group-title="bbc,local news,london,music,talk",BBC Radio London 94.9 FM
-http://stream.live.vc.bbcmedia.co.uk/bbc_london
-#EXTINF:-1 tvg-logo="http://www.bbc.co.uk/favicon.ico" group-title="bbc,local news,manchester,music,talk",BBC Radio Manchester
-http://stream.live.vc.bbcmedia.co.uk/bbc_radio_manchester
-#EXTINF:-1 tvg-logo="http://www.bbc.co.uk/favicon.ico" group-title="bbc,information,liverpool,local news,merseyside,music,news",BBC Radio Merseyside
-http://stream.live.vc.bbcmedia.co.uk/bbc_radio_merseyside
-#EXTINF:-1 tvg-logo="https://static.files.bbci.co.uk/sounds/web/sounds-web/img/apple-touch-icon.96d5401f35.png" group-title="bbc,entertainment,news,scotland,showbiz,speech",BBC Radio nan Gàidheal
-http://stream.live.vc.bbcmedia.co.uk/bbc_radio_nan_gaidheal
-#EXTINF:-1 tvg-logo="https://rmp.files.bbci.co.uk/playspace/img/apple-touch-icon.96d5401f35.png" group-title="entertainment,music,news,speech,talk",BBC Radio nan Gàidheal
-http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_radio_nan_gaidheal.m3u8
-#EXTINF:-1 tvg-logo="https://static.files.bbci.co.uk/sounds/web/sounds-web/img/apple-touch-icon.96d5401f35.png" group-title="local news",BBC Radio Newcastle
-http://stream.live.vc.bbcmedia.co.uk/bbc_radio_newcastle?s=1640104088&e=1640118488&h=ecce009de4c4140163fb1813cd298d25
-#EXTINF:-1 tvg-logo="http://www.bbc.co.uk/favicon.ico" group-title="bbc,information,local news,news,norfolk",BBC Radio Norfolk
-http://stream.live.vc.bbcmedia.co.uk/bbc_radio_norfolk
-#EXTINF:-1 tvg-logo="http://www.bbc.co.uk/favicon.ico" group-title="bbc,information,local news,news,northampton",BBC Radio Northampton
-http://stream.live.vc.bbcmedia.co.uk/bbc_radio_northampton
-#EXTINF:-1 tvg-logo="http://www.bbc.co.uk/favicon.ico" group-title="bbc,information,local news,news,nottingham",BBC Radio Nottingham
-http://stream.live.vc.bbcmedia.co.uk/bbc_radio_nottingham
-#EXTINF:-1 tvg-logo="https://www.bbc.co.uk/favicon.ico" group-title="music,news,sport,talk",BBC Radio Orkney
-http://stream.live.vc.bbcmedia.co.uk/bbc_radio_orkney
-#EXTINF:-1 tvg-logo="http://www.bbc.co.uk/favicon.ico" group-title="bbc,information,local news,news,oxford",BBC Radio Oxford
-http://stream.live.vc.bbcmedia.co.uk/bbc_radio_oxford
-#EXTINF:-1 tvg-logo="https://rmp.files.bbci.co.uk/playspace/img/apple-touch-icon.96d5401f35.png" group-title="",BBC Radio Oxford
-http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_radio_oxford.m3u8
-#EXTINF:-1 tvg-logo="https://rmp.files.bbci.co.uk/playspace/img/apple-touch-icon.96d5401f35.png" group-title="music,news,sport,talk",BBC Radio Scotland
-http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_radio_scotland_fm.m3u8
-#EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/images/ic/1200x675/p029kx4l.jpg" group-title="bbc,music,scotland,talk,variety",BBC Radio Scotland (FM)
-http://stream.live.vc.bbcmedia.co.uk/bbc_radio_scotland_fm
-#EXTINF:-1 tvg-logo="https://www.bbc.co.uk/favicon.ico" group-title="music,news,sport,talk",BBC Radio Scotland MW
-http://stream.live.vc.bbcmedia.co.uk/bbc_radio_scotland_mw
-#EXTINF:-1 tvg-logo="http://www.bbc.co.uk/favicon.ico" group-title="bbc,information,local news,news,sheffield",BBC Radio Sheffield
-http://stream.live.vc.bbcmedia.co.uk/bbc_radio_sheffield
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFWGxjsaw2iIWCbGwoadlIVf9wVL64_vMHpw&usqp=CAU" group-title="variety",BBC Radio Shetland
-https://stream.live.vc.bbcmedia.co.uk/bbc_radio_shetland
-#EXTINF:-1 tvg-logo="http://www.bbc.co.uk/favicon.ico" group-title="bbc,local news,music,shropshire,talk",BBC Radio Shropshire
-http://stream.live.vc.bbcmedia.co.uk/bbc_radio_shropshire
-#EXTINF:-1 tvg-logo="http://www.bbc.co.uk/favicon.ico" group-title="bbc,information,local news,news,solent",BBC Radio Solent
-http://stream.live.vc.bbcmedia.co.uk/bbc_radio_solent
-#EXTINF:-1 tvg-logo="http://www.bbc.co.uk/favicon.ico" group-title="bbc,information,local news,news,solent",BBC Radio Solent West Dorset
-http://stream.live.vc.bbcmedia.co.uk/bbc_radio_solent_west_dorset
-#EXTINF:-1 tvg-logo="http://www.bbc.co.uk/favicon.ico" group-title="bbc,information,local news,news,somerset",BBC Radio Somerset Sound
-http://stream.live.vc.bbcmedia.co.uk/bbc_radio_somerset_sound
-#EXTINF:-1 tvg-logo="http://www.bbc.co.uk/favicon.ico" group-title="bbc,local programming,music,news,sport,stoke",BBC Radio Stoke
-http://stream.live.vc.bbcmedia.co.uk/bbc_radio_stoke
-#EXTINF:-1 tvg-logo="http://www.bbc.co.uk/favicon.ico" group-title="bbc,information,local news,news,suffolk",BBC Radio Suffolk
-http://stream.live.vc.bbcmedia.co.uk/bbc_radio_suffolk
-#EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/images/ic/1008x567/p092qnkk.jpg" group-title="local news",BBC Radio Sunderland
-http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_med/ak/bbc_radio_sunderland.m3u8
-#EXTINF:-1 tvg-logo="http://www.bbc.co.uk/favicon.ico" group-title="bbc,information,local news,news,surrey",BBC Radio Surrey
-http://stream.live.vc.bbcmedia.co.uk/bbc_radio_surrey
-#EXTINF:-1 tvg-logo="https://rmp.files.bbci.co.uk/playspace/img/apple-touch-icon.96d5401f35.png" group-title="",BBC Radio Surrey
-http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_radio_surrey.m3u8
-#EXTINF:-1 tvg-logo="http://www.bbc.co.uk/favicon.ico" group-title="bbc,information,local news,news,sussex",BBC Radio Sussex
-http://stream.live.vc.bbcmedia.co.uk/bbc_radio_sussex
-#EXTINF:-1 tvg-logo="https://rmp.files.bbci.co.uk/playspace/img/apple-touch-icon.96d5401f35.png" group-title="",BBC Radio Sussex
-http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_radio_sussex.m3u8
-#EXTINF:-1 tvg-logo="http://www.bbc.co.uk/favicon.ico" group-title="bbc,information,local news,news,tees",BBC Radio Tees
-http://stream.live.vc.bbcmedia.co.uk/bbc_tees
-#EXTINF:-1 tvg-logo="https://static.files.bbci.co.uk/sounds/web/sounds-web/img/apple-touch-icon.96d5401f35.png" group-title="bbc,belfast,music,news,talk",BBC Radio Ulster
-http://stream.live.vc.bbcmedia.co.uk/bbc_radio_ulster
-#EXTINF:-1 tvg-logo="https://rmp.files.bbci.co.uk/playspace/img/apple-touch-icon.96d5401f35.png" group-title="music,news,sport,talk",BBC Radio Ulster
-http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_radio_ulster.m3u8
-#EXTINF:-1 tvg-logo="http://www.bbc.co.uk/favicon.ico" group-title="entertainment,news,sport",BBC Radio Wales
-http://stream.live.vc.bbcmedia.co.uk/bbc_radio_wales_fm
-#EXTINF:-1 tvg-logo="https://rmp.files.bbci.co.uk/playspace/img/apple-touch-icon.96d5401f35.png" group-title="entertainment,music,news,sport",BBC Radio Wales
-http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_radio_wales_fm.m3u8
-#EXTINF:-1 tvg-logo="http://www.bbc.co.uk/favicon.ico" group-title="bbc,information,local news,news,wiltshire",BBC Radio Wiltshire
-http://stream.live.vc.bbcmedia.co.uk/bbc_radio_wiltshire
-#EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/images/ic/640x360/p08h6ksl.jpg" group-title="",BBC Radio WM
-http://stream.live.vc.bbcmedia.co.uk/bbc_wm
-#EXTINF:-1 tvg-logo="http://www.bbc.co.uk/favicon.ico" group-title="bbc,information,local news,news,york",BBC Radio York
-http://stream.live.vc.bbcmedia.co.uk/bbc_radio_york
-#EXTINF:-1 tvg-logo="https://www.bbc.com/favicon.ico" group-title="news,somali,talk",BBC Somali Radio
-http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_somali_radio.m3u8
-#EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/images/ic/640x360/p08h6kbx.jpg" group-title="",BBC Three Counties Radio
-http://stream.live.vc.bbcmedia.co.uk/bbc_three_counties_radio
-#EXTINF:-1 tvg-logo="" group-title="",BBC World News TV
-http://203.162.235.41:16917/
-#EXTINF:-1 tvg-logo="http://www.nettv.live/uploads/allimg/18/1-1PQH351480-L.jpg" group-title="",BBC World News TV
-http://ott-cdn.ucom.am/s24/04.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",BBC World News TV
-http://84.22.33.214/bbc/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://rmp.files.bbci.co.uk/rmp-shared-assets/1.4.0/img/network-logos/national/bbc_world_service_colour.svg" group-title="bbc",BBC World Service
-https://stream.live.vc.bbcmedia.co.uk/bbc_world_service
-#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s24948/images/logoq.jpg?t=1" group-title="news,talk",BBC World Service
-http://stream.live.vc.bbcmedia.co.uk/bbc_world_service
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/BBC_World_Service_red.svg" group-title="new url march 2021,news,talk,world",BBC World Service
-http://stream.live.vc.bbcmedia.co.uk/bbc_world_service?s=1640085672&e=1640100072&h=c137b407b8726d3a6282b6bb958c4701
-#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/6/6.1563228219.png" group-title="news",BBC World Service for East Asia
-https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_east_asia
 #EXTINF:-1 tvg-logo="https://assets.radioplayer.co.uk/stationimages/1163_handheld_default_playing_image.png" group-title="bradford,community radio",BCB Radio
 https://radio.canstream.co.uk:9071/live.mp3
 #EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/hZ4CuzBpkn.jpg" group-title="",Beethoven In Sequence
@@ -375,6 +145,8 @@ https://streaming.radio.co/s5c5da6a36/listen
 http://mp3streaming.planetwideradio.com:9400/BHBN
 #EXTINF:-1 tvg-logo="http://www.bitfellas.org/favicon.ico" group-title="demoscene",BitJam
 http://marmalade.scenesat.com:8086/bitjam.ogg
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/e274410c-46c4-4433-8924-ffb549a9828a/logo/6b6295a1-627e-46e7-a4e6-055e292784d7.jpg/:/rs=w:107,h:80,cg:true,m/cr=w:107,h:80/qt=q:100/ll" group-title="Trance,Upfront Progressive,Old Skool,90s,00s",Radio Blackbeard AM 1512 KHz
+https://control.internet-radio.com:2199/tunein/buzzfm.pls
 #EXTINF:-1 tvg-logo="https://blooplondon.com/wp-content/themes/bloop-child/img/favicon.jpg" group-title="electronic,house",Bloop London Radio
 https://radio.canstream.co.uk:8058/live.mp3
 #EXTINF:-1 tvg-logo="https://boogalooradio.com/wp-content/uploads/2019/10/LOGO-ICON-WHITE-SHADIW.png" group-title="brit pop,indie rock",Boogaloo Radio
@@ -451,8 +223,6 @@ http://icecast.thisisdax.com/CapitalLiverpoolMP3
 http://vis.media-ice.musicradio.com/CapitalUK
 #EXTINF:-1 tvg-logo="http://www.castledownradio.info/favicon.ico" group-title="community radio,tidworth",Castledown Radio 104.7 - Tidworth
 http://radio.canstream.co.uk:8008/live.mp3
-#EXTINF:-1 tvg-logo="https://rmp.files.bbci.co.uk/playspace/img/apple-touch-icon.96d5401f35.png" group-title="children,childrens music,educational",CBeebies Radio
-http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_med/ak/cbeebies_radio.m3u8
 #EXTINF:-1 tvg-logo="https://www.centreforceradio.com/wp-content/uploads/2023/02/WebsiteLogoMobile.fw_-2.fw_.png" group-title="House,Dance,Live DJ",Centreforce 883 Radio
 https://listen.centreforceradio.com/320
 #EXTINF:-1 tvg-logo="" group-title="celtic,folk",Celtic Music Radio
@@ -607,10 +377,6 @@ http://streaming01.zfast.co.uk:8116/;
 http://stream.evehost.net:8000/listen.pls
 #EXTINF:-1 tvg-logo="https://ewtn.co.uk/wp-content/uploads/2020/06/LogoSlimLight78.png" group-title="catholic,christian,tv",EWTN Great Britain TV
 https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/byyfhl2b/1152/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://exclusive.radio/wp-content/uploads/2019/03/cropped-cropped-er-logo-51213-100x100.png" group-title="rock",Exclusively Dire Straits
-https://streaming.exclusive.radio/er/direstraits/icecast.audio
-#EXTINF:-1 tvg-logo="https://manager.uber.radio/static/uploads/station/a376b7ec-23c8-4d59-bbc2-b307de321d77.jpg" group-title="rock",Exclusively Supertramp
-https://streaming.exclusive.radio/er/supertramp/icecast.audio
 #EXTINF:-1 tvg-logo="https://www.nts.live/favicon.ico" group-title="jazz",Expansions | NTS
 https://stream-mixtape-geo.ntslive.net/mixtape3
 #EXTINF:-1 tvg-logo="https://mm.aiircdn.com/41/5d385f28046be.png" group-title="",express fm
@@ -895,12 +661,10 @@ https://playoutonestreaming.com/proxy/pool247/?mp=/stream
 http://eco.onestreaming.com:8203/stream
 #EXTINF:-1 tvg-logo="https://www.londonlive.co.uk/wp-content/themes/londonlive/images/favicon/apple-icon-120x120.png" group-title="tv",London Live.TV
 http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
-#EXTINF:-1 tvg-logo="https://londonmusicradio.com/wp-content/uploads/2017/04/thumbnail_Logo2-2-copyY-copy-black-e1519168864488.jpg" group-title="",London Music Radio
+#EXTINF:-1 tvg-logo="https://londonmusicradio.com/wp-content/uploads/2017/04/thumbnail_Logo2-2-copyY-copy-black-e1519168864488.jpg" group-title="Soul",London Music Radio 320k
+https://stream.londonmusicradio.com:8005/listen
+#EXTINF:-1 tvg-logo="https://londonmusicradio.com/wp-content/uploads/2017/04/thumbnail_Logo2-2-copyY-copy-black-e1519168864488.jpg" group-title="Soul",London Music Radio 320k [Relay]
 https://radiobossrelay.radioca.st/stream
-#EXTINF:-1 tvg-logo="https://londonmusicradio.com/wp-content/uploads/2017/04/thumbnail_Logo2-2-copyY-copy-black-e1519168864488.jpg" group-title="",London Music Radio 128k
-https://stream.londonmusicradio.com:8005/128k
-#EXTINF:-1 tvg-logo="https://londonmusicradio.com/wp-content/uploads/2017/04/thumbnail_Logo2-2-copyY-copy-black-e1519168864488.jpg" group-title="",London Music Radio 32k
-https://stream.londonmusicradio.com:8005/mobile
 #EXTINF:-1 tvg-logo="" group-title="boogie woogie,disco,funk,gospel,groove,jazz,rare groove,rnb,slow jams,slow jamz,smooth jazz,soul,soulful house",London Soul Radio
 http://londonsoulradio.out.airtime.pro:8000/londonsoulradio_a
 #EXTINF:-1 tvg-logo="http://www.italoeuropeo.co.uk/wp-content/uploads/2016/06/london-one-radio.png" group-title="",LondonOneRadio
@@ -1007,6 +771,8 @@ http://46.105.122.141:9676/;
 http://stream.nonstopplay.co.uk/nsp-192k-mp3
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/7p09rOas9kotiu36Dnc2BGKl3Wu1u2cNljR77KIkwIYn7ZyAlAU-xdVVVXK8ZVqCnBL9=w170" group-title="dance,hits",NonStopPlay Pure Dance
 http://stream.nonstopplay.co.uk/nsppd-32k-aac
+#EXTINF:-1 tvg-logo="https://dbs.radioline.fr/pictures/radio_8305fa78219abc63076064e8ddd68395/logo600.jpg" group-title="UK GARAGE,HOUSE,JUNGLE,DNB,OLD SKOOL",Pure FM London
+http://phoebe.streamerr.co:1140/;
 #EXTINF:-1 tvg-logo="" group-title="ambient,bass,bristol,electronic,experimental,house,techno,uk bass",Noods Radio
 http://noodsradio.out.airtime.pro:8000/noodsradio_a
 #EXTINF:-1 tvg-logo="https://nmfm1066.files.wordpress.com/2016/06/nmfm-logo.jpg" group-title="community radio,local,manchester,volunteer",North Manchester FM 106.6
