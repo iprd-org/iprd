@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="",BBC Afrique Radio
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_afrique_radio/bbc_afrique_radio.isml/master.norewind.m3u8
+#EXTINF:-1 tvg-logo="https://rmp.files.bbci.co.uk/playspace/img/apple-touch-icon.96d5401f35.png" group-title="children,childrens music,educational",BBC CBeebies Radio [Geo-blocked]
+https://as-hls-uk.live.cf.md.bbci.co.uk/pool_904/live/uk/cbeebies_radio/cbeebies_radio.isml/master.norewind.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",BBC Radio 1
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one/bbc_radio_one.isml/master.norewind.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",BBC Radio 1Xtra
@@ -127,5 +131,15 @@ http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_wm/bbc_wm.isml/master.n
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_york/bbc_radio_york.isml/master.norewind.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",BBC Three Counties Radio
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_three_counties_radio/bbc_three_counties_radio.isml/master.norewind.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",BBC Somali Radio
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_somali_radio/bbc_somali_radio.isml/master.norewind.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",BBC World Service
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_world_service/bbc_world_service.isml/master.norewind.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",BBC World Service Australasia
+https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_australasia
+#EXTINF:-1 tvg-logo="" group-title="",BBC World Service Australasia
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_world_service_australasia/bbc_world_service_australasia.isml/master.norewind.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",BBC World Service East Asia
+https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_east_asia
+#EXTINF:-1 tvg-logo="" group-title="",BBC World Service East Asia
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_world_service_east_asia/bbc_world_service_east_asia.isml/master.norewind.m3u8
