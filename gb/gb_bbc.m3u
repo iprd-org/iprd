@@ -25,14 +25,12 @@ http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_6music/bbc_6music.isml/
 http://as-hls-uk-live.akamaized.net/pool_904/live/uk/bbc_radio_five_live_sports_extra/bbc_radio_five_live_sports_extra.isml/master.norewind.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",BBC Radio Asian Network
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_asian_network/bbc_asian_network.isml/master.norewind.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",BBC BBC World Service
-http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_world_service.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",BBC BBC CWR
+#EXTINF:-1 tvg-logo="" group-title="",BBC Radio Arabic
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_arabic_radio/bbc_arabic_radio.isml/master.norewind.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",BBC Radio CWR
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_coventry_warwickshire/bbc_radio_coventry_warwickshire.isml/master.norewind.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",BBC BBC Essex
+#EXTINF:-1 tvg-logo="" group-title="",BBC Radio Essex
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_essex/bbc_radio_essex.isml/master.norewind.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",BBC BBC Hereford Worcester
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_hereford_worcester/bbc_radio_hereford_worcester.isml/master.norewind.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",BBC Radio Berkshire
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_berkshire/bbc_radio_berkshire.isml/master.norewind.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",BBC Radio Bristol
@@ -57,6 +55,8 @@ http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_foyle/bbc_radio_f
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_gloucestershire/bbc_radio_gloucestershire.isml/master.norewind.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",BBC Radio Guernsey
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_guernsey/bbc_radio_guernsey.isml/master.norewind.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",BBC Radio Hereford Worcester
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_hereford_worcester/bbc_radio_hereford_worcester.isml/master.norewind.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",BBC Radio Humberside
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_humberside/bbc_radio_humberside.isml/master.norewind.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",BBC Radio Jersey
@@ -127,3 +127,5 @@ http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_wm/bbc_wm.isml/master.n
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_york/bbc_radio_york.isml/master.norewind.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",BBC Three Counties Radio
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_three_counties_radio/bbc_three_counties_radio.isml/master.norewind.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",BBC World Service
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_world_service/bbc_world_service.isml/master.norewind.m3u8
