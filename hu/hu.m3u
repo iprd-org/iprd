@@ -433,6 +433,8 @@ http://stream.tilos.hu/tilos_32.mp3
 http://stream.tilos.hu/tilos_128.mp3
 #EXTINF:-1 tvg-logo="" group-title="independent",Tilos Rádió FM 90.3
 http://stream.tilos.hu:8000/tilos
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/e462c5_1e9f37f367b00c91e2cb96051c817a53.jpg/v1/fill/w_92,h_92,al_c,q_80,usm_0.66_1.00_0.01/e462c5_1e9f37f367b00c91e2cb96051c817a53.webp" group-title="pop,rock",Tordas Rádió
+http://stream.tilos.hu:8000/tordas_radio_online
 #EXTINF:-1 tvg-logo="" group-title="cultural,economic news,talk",Trend FM
 http://radio.nordtelekom.hu:8000/gazdasagiradio
 #EXTINF:-1 tvg-logo="" group-title="classical",Veszprémfm
