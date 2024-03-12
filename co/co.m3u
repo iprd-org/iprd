@@ -199,73 +199,73 @@ https://master.letio.com/io/?gs=9100&type=master.m3u8
 https://master.letio.com/io/?gs=9164&type=master.m3u8
 #EXTINF:-1 tvg-logo="https://emisorasenvivo.co/sites/default/files/radio/logos/logo-radio-tiempo-medellin.jpg" group-title="balada,latin,romantica",HJJL Radio Tiempo Cartagena de Indias 88.5
 https://master.letio.com/io/?gs=9140&type=master.m3u8
-#EXTINF:-1 tvg-logo="https://emisorasenvivo.co/sites/default/files/radio/logos/logo-radio-tiempo-medellin.jpg" group-title="balada en español,latin pop,love songs,musica romantica",Radio Tiempo Medellín (HJG55, 105.9 MHz FM)
+#EXTINF:-1 tvg-logo="https://emisorasenvivo.co/sites/default/files/radio/logos/logo-radio-tiempo-medellin.jpg" group-title="balada,latin,pop",HJG55 Radio Tiempo Medellín 105.9
 https://master.letio.com/io/?gs=9144&type=master.m3u8
-#EXTINF:-1 tvg-logo="https://emisorasenvivo.co/sites/default/files/radio/logos/logo-radio-tiempo-medellin.jpg" group-title="",Radio Tiempo Montería
+#EXTINF:-1 tvg-logo="https://emisorasenvivo.co/sites/default/files/radio/logos/logo-radio-tiempo-medellin.jpg" group-title="pop,top 40,latin",Radio Tiempo Montería 104.5
 https://master.letio.com/io/?gs=9142&type=master.m3u8
-#EXTINF:-1 tvg-logo="https://www.radiovivafenix.com/wp-content/themes/rvf/assets/images/general/icon114.png" group-title="cali,culture,live sports,local music,local news,local talk,music,news,sports news",Radio Viva Fenix Cali (HJMC, 1290 kHz AM)
+#EXTINF:-1 tvg-logo="https://www.radiovivafenix.com/wp-content/themes/rvf/assets/images/general/icon114.png" group-title="culture,sports,local",HJMC Radio Viva Fenix Cali 1290
 http://195.154.133.107:8282/stream
-#EXTINF:-1 tvg-logo="https://www.radiovivafenix.com/wp-content/themes/rvf/assets/images/general/icon114.png" group-title="culture,ipiales,live sports,local music,local news,local talk,music,news,sports news",Radio Viva Fenix Ipiales (HJB29, 89.1 MHz FM)
+#EXTINF:-1 tvg-logo="https://www.radiovivafenix.com/wp-content/themes/rvf/assets/images/general/icon114.png" group-title="culture,sports,local",HJB29 Radio Viva Fenix Ipiales 89.1
 http://195.154.133.107:8264/stream
-#EXTINF:-1 tvg-logo="https://www.radiovivafenix.com/wp-content/themes/rvf/assets/images/general/icon114.png" group-title="culture,ipiales,live sports,local music,local news,local talk,music,news,sports news",Radio Viva Fenix Ipiales (HJNM, 1220 kHz AM)
+#EXTINF:-1 tvg-logo="https://www.radiovivafenix.com/wp-content/themes/rvf/assets/images/general/icon114.png" group-title="culture,sports,local",HJNM Radio Viva Fenix Ipiales 1220
 http://195.154.133.107:8258/stream
-#EXTINF:-1 tvg-logo="https://www.radiovivafenix.com/wp-content/themes/rvf/assets/images/general/icon114.png" group-title="culture,live sports,local music,local news,local talk,music,news,pasto,sports news",Radio Viva Fenix Pasto (HJFV, 780 kHz AM)
+#EXTINF:-1 tvg-logo="https://www.radiovivafenix.com/wp-content/themes/rvf/assets/images/general/icon114.png" group-title="culture,sports,local",HJFV Radio Viva Fenix Pasto 780
 http://195.154.133.107:8252/stream
-#EXTINF:-1 tvg-logo="http://www.radioacktiva.com/wp-content/themes/radioacktiva-outspoken/images/logo.png" group-title="classic rock,español,guns n' roses,rock en español",RadioActiva 97.9FM. El planeta Rock
+#EXTINF:-1 tvg-logo="http://www.radioacktiva.com/wp-content/themes/radioacktiva-outspoken/images/logo.png" group-title="classic,rock",RadioActiva 97.9
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ACTIVAAAC_SC
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Se%C3%B1al_Radionica_logo.svg/245px-Se%C3%B1al_Radionica_logo.svg.png" group-title="electronic,metal,rock,spanish rock",Radiónica (HJYM 99.1 Bogotá) RTVC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Se%C3%B1al_Radionica_logo.svg/245px-Se%C3%B1al_Radionica_logo.svg.png" group-title="electronic,metal,rock",HJYM Radiónica 99.1
 http://shoutcast.rtvc.gov.co:8010/;
-#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s271963q.png" group-title="colombian hiphop,colombian music,colombian rap,hiphop,public radio,rap",Radiónica 3 [RTVC]
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s271963q.png" group-title="hiphop,rap,public",Radiónica 3
 http://shoutcast.rtvc.gov.co:8070/;
-#EXTINF:-1 tvg-logo="https://www.rcnradio.com/favicon-32x32.png" group-title="deportes,news,noticias,sports news",RCN La Radio Bogota Nacional
+#EXTINF:-1 tvg-logo="https://www.rcnradio.com/favicon-32x32.png" group-title="deportes,news,noticias",RCN 93.9
 https://playerservices.streamtheworld.com/api/livestream-redirect/RCN_RADIO_FM
 #EXTINF:-1 tvg-logo="https://www.rcnmundo.com/favicon.ico" group-title="musica,noticias",Rumba Ocaña
 https://playerservices.streamtheworld.com/api/livestream-redirect/RUMBA_OCANAAAC
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s139027q.png" group-title="salsa",Salsa Gorda
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s139027q.png" group-title="salsa,cali,jazz",Salsa Gorda Radio
 http://stream.zeno.fm/u27pdewuq74tv
-#EXTINF:-1 tvg-logo="http://i64.tinypic.com/a4vhmo.png" group-title="guajira,jazz,latinjazz,salsa,timba",salsagordaradio
+#EXTINF:-1 tvg-logo="http://i64.tinypic.com/a4vhmo.png" group-title="guajira,jazz,latin",Salsa Gorda Radio
 http://stream.zeno.fm/s4s85axxaseuv
-#EXTINF:-1 tvg-logo="https://ibb.co/MhG8SCF" group-title="jazz,salsa,salsa colombiana,timba",sasagordaradio
+#EXTINF:-1 tvg-logo="https://ibb.co/MhG8SCF" group-title="jazz,salsa,timba",Salsa Gorda Radio
 http://stream.zeno.fm/s4s85axxaseuv
-#EXTINF:-1 tvg-logo="https://www.rtvc.gov.co/favicon.ico" group-title="classical",Señal Clásica (RTVC / Radio Nacional de Colombia)
+#EXTINF:-1 tvg-logo="https://www.rtvc.gov.co/favicon.ico" group-title="classical,baroque",Señal Clásica RNC
 http://shoutcast.rtvc.gov.co:8040/;
-#EXTINF:-1 tvg-logo="https://supresenciaradio.com/wp-content/uploads/2017/12/logo-spradio.png" group-title="cristiana,gospel,radio cristiana,religion",Su Presencia Radio
+#EXTINF:-1 tvg-logo="https://supresenciaradio.com/wp-content/uploads/2017/12/logo-spradio.png" group-title="cristiana,gospel,religion",Su Presencia Radio 1520
 https://supresenciaradio.out.airtime.pro/supresenciaradio_a
-#EXTINF:-1 tvg-logo="https://supresenciaradio.com/wp-content/uploads/2017/12/logo-spradio.png" group-title="",Su Presencia radio
+#EXTINF:-1 tvg-logo="https://supresenciaradio.com/wp-content/uploads/2017/12/logo-spradio.png" group-title="cristiana,gospel,religion",Su Presencia Radio 1520
 http://supresenciaradio.out.airtime.pro:8000/supresenciaradio_c
-#EXTINF:-1 tvg-logo="http://superclasica.com/wp/wp-content/uploads/2013/11/logo-peq-color-mini.bmp" group-title="baladas,love songs,spanish pop",Super Clásica
+#EXTINF:-1 tvg-logo="http://superclasica.com/wp/wp-content/uploads/2013/11/logo-peq-color-mini.bmp" group-title="baladas,pop,romantica",Super Clásica
 http://sclasica-stream.sytes.net:8012/;
-#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s161501q.png" group-title="60s,70s,80s,baladas en español,musica romantica,romantic",Super Clásica
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s161501q.png" group-title="60s,70s,80s,baladas,romantica",Super Clásica
 http://77.73.69.238:8000/stream
-#EXTINF:-1 tvg-logo="http://www.tropicanafm.com/wp-content/themes/tropicana-outspoken/images/favicon.ico" group-title="salsa,tropical,vallenato",Tropicana Bogotá (HJRX 102.9) Caracol Radio
+#EXTINF:-1 tvg-logo="http://www.tropicanafm.com/wp-content/themes/tropicana-outspoken/images/favicon.ico" group-title="salsa,tropical,vallenato",HJRX Tropicana 102.9
 https://playerservices.streamtheworld.com/api/livestream-redirect/TROPICANA_SC
-#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/t3BFeWXb5a.png" group-title="",Tropicana Cali (93.1 FM) Caracol Radio
+#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/t3BFeWXb5a.png" group-title="salsa,tropical,vallenato",Tropicana Cali 93.1
 https://playerservices.streamtheworld.com/api/livestream-redirect/TR_CALIAAC
-#EXTINF:-1 tvg-logo="http://www.tropicanafm.com/bogota/wp-content/themes/tropicana-outspoken/images/favicon.ico" group-title="latin,latin music,merengue,salsa,tropical,villavicencio",Tropicana Villavicencio (HJN49, 99.3 MHz FM, Vista Hermosa, Meta) Caracol Radio
+#EXTINF:-1 tvg-logo="http://www.tropicanafm.com/bogota/wp-content/themes/tropicana-outspoken/images/favicon.ico" group-title="latin,merengue,salsa",HJN49 Tropicana Villavicencio 99.3
 https://playerservices.streamtheworld.com/api/livestream-redirect/TR_VILLAVICENCIOAAC_SC
-#EXTINF:-1 tvg-logo="" group-title="bucaramanga,college radio,university radio",UIS AM (HJR33, 670 kHz AM, Bucaramanga) Universidad Industrial de Santander
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Universidad_Industrial_de_Santander_logo.svg/800px-Universidad_Industrial_de_Santander_logo.svg.png" group-title="college,university",HJR33 UIS 670
 http://emisoras.uis.edu.co:8000/mp3am
-#EXTINF:-1 tvg-logo="" group-title="bogota,classical,college radio,jazz,news,radio universidad,university radio",UN Radio Bogotá (HJUN 98.5 MHz FM) Universidad Nacional de Colombia
+#EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/universidad-nacional-de-colombia-radio-3272.jpg" group-title="classical,college,jazz",HJUN UN Radio 98.5
 http://streaming.unradio.unal.edu.co:8010/;
-#EXTINF:-1 tvg-logo="http://unimedios.medellin.unal.edu.co/bitacora/images/fotos/octubre_2017/un_radio.jpg" group-title="college radio,cultural,medellin,radio universitaria,universitaria",UN Radio Medellín (HJG51 100.4 MHz FM) Universidad Nacional de Colombia
+#EXTINF:-1 tvg-logo="http://unimedios.medellin.unal.edu.co/bitacora/images/fotos/octubre_2017/un_radio.jpg" group-title="college,cultural,universitaria",HJG51 UN Radio 100.4
 http://streaming.unradio.unal.edu.co:8012/;
-#EXTINF:-1 tvg-logo="http://unradio.unal.edu.co/uploads/pics/BASE_RADIOWEB_2017.jpg" group-title="college radio,culture,education,online only,public radio,science,university radio",UN Radio Web (Universidad Nacional de Colombia)
+#EXTINF:-1 tvg-logo="http://unradio.unal.edu.co/uploads/pics/BASE_RADIOWEB_2017.jpg" group-title="college,culture,education",UN Web Radio
 http://streaming.unradio.unal.edu.co:8014/;stream.mp3
-#EXTINF:-1 tvg-logo="http://www.unicauca.edu.co/sitioemisora/sites/all/themes/radio/imagenes/favicon.ico" group-title="colombian music,folklore,local radio,university radio",Unicauca estereo
+#EXTINF:-1 tvg-logo="http://www.unicauca.edu.co/sitioemisora/sites/all/themes/radio/imagenes/favicon.ico" group-title="folklore,local,university",Unicauca Estereo 104.1
 http://ftpemisora.unicauca.edu.co:8000/stream
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6a2bfc_1c82b7fa2fb54d35a772866687b6cefb%7emv2.png/v1/fill/w_32%2ch_32%2clg_1%2cusm_0.66_1.00_0.01/6a2bfc_1c82b7fa2fb54d35a772866687b6cefb%7emv2.png" group-title="chía,college radio,local talk,music,university radio,variety",Unisabana Radio (Universidad de La Sabana, Chía, Cundinamarca)
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6a2bfc_1c82b7fa2fb54d35a772866687b6cefb%7emv2.png/v1/fill/w_32%2ch_32%2clg_1%2cusm_0.66_1.00_0.01/6a2bfc_1c82b7fa2fb54d35a772866687b6cefb%7emv2.png" group-title="college,local,university",Unisabana Radio
 http://unisabana.out.airtime.pro:8000/unisabana_a
-#EXTINF:-1 tvg-logo="http://emisora.univalle.edu.co//wp-content/uploads/2013/12/univallestereo-appletouch.png" group-title="afro-latin music,college radio,culture,education,university radio",Univalle Estéreo (HJC37, 105.3 MHz FM) Universidad del Valle
+#EXTINF:-1 tvg-logo="http://emisora.univalle.edu.co//wp-content/uploads/2013/12/univallestereo-appletouch.png" group-title="afro-latin,college,culture",HJC37 Univalle Estéreo 105.3
 http://uv-stereo.univalle.edu.co:8000/envivo.mp3
-#EXTINF:-1 tvg-logo="https://veracruzestereo.com/favicon.ico" group-title="classic rock,hard rock,heavy metal,rock",Veracruz Stereo Colombia
+#EXTINF:-1 tvg-logo="https://veracruzestereo.com/favicon.ico" group-title="classic,rock,metal",Veracruz Estereo
 https://radio.veracruzstereo.com:20000/stream
-#EXTINF:-1 tvg-logo="https://www.vibra.fm/favicon.ico" group-title="colombian music,latin music,pop,salsa,vallenato",Vibra Bogotá 104.9 FM
+#EXTINF:-1 tvg-logo="https://www.vibra.fm/favicon.ico" group-title="latin,pop,salsa",Vibra Bogotá 104.9
 https://playerservices.streamtheworld.com/api/livestream-redirect/VIBRAAAC_SC
-#EXTINF:-1 tvg-logo="https://www.vozdelacapilla.com/" group-title="",Voz de la capilla
+#EXTINF:-1 tvg-logo="https://www.vozdelacapilla.com/" group-title="pop,ranchera,romantic",Voz de la Capilla
 https://sonic.paulatina.co/7446/stream
-#EXTINF:-1 tvg-logo="http://ipcdesperanza.com/wp-content/uploads/2018/07/esperanza.jpg" group-title="musica cristiana,radio cristiana,social",Voz de la Esperanza
+#EXTINF:-1 tvg-logo="http://ipcdesperanza.com/wp-content/uploads/2018/07/esperanza.jpg" group-title="cristiana,social",La Voz de la Esperanza
 http://server2.ejeserver.com:8895/autodj
-#EXTINF:-1 tvg-logo="" group-title="news,news and talk,talk radio",W Radio Colombia, Bogotá (HJCZ 690 AM; HJLN 99.9 MHz FM) Caracol Estéreo / Caracol Radio
+#EXTINF:-1 tvg-logo="https://emisorasenvivo.com.co/uploads/img/w-radio.jpg" group-title="news,talk",HJCZ W Radio 690/99.9
 https://playerservices.streamtheworld.com/api/livestream-redirect/WRADIOAAC
-#EXTINF:-1 tvg-logo="" group-title="",ZonaSalsa
+#EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/zonasalsa-radio-3066.jpg" group-title="jazz,latino,salsa",ZonaSalsa
 http://s40.myradiostream.com:8520/listen.mp3
