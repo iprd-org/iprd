@@ -101,105 +101,103 @@ http://icecast2.play.cz:8000/cro3-32aac
 http://icecast5.play.cz/cro3-128.mp3
 #EXTINF:-1 tvg-logo="http://api.play.cz/static/radio_logo/t200/croregionvysocina.png" group-title="local,news,oldies",CRo Vysocina 87.9
 http://icecast2.play.cz/crovysocina128.mp3
-#EXTINF:-1 tvg-logo="" group-title="dance,dj,house,trance",Dance Club Radio
+#EXTINF:-1 tvg-logo="https://online-radio.eu/logo/70/70480.jpg" group-title="dance,house,trance",Dance Club Radio
 https://ice4.abradio.cz/dance128.mp3
-#EXTINF:-1 tvg-logo="https://www.danceradio.cz/favicons/apple-icon-120x120.png" group-title="320kbps",Dance Radio
+#EXTINF:-1 tvg-logo="https://www.danceradio.cz/favicons/apple-icon-120x120.png" group-title="dance,electronic,rock",Dance Radio 89.0
 http://ice.actve.net/dance-radio320.mp3
-#EXTINF:-1 tvg-logo="https://www.danceradio.cz/favicons/apple-icon-120x120.png" group-title="128kbit",Dance Radio
+#EXTINF:-1 tvg-logo="https://www.danceradio.cz/favicons/apple-icon-120x120.png" group-title="dance,electronic,rock",Dance Radio 89.0
 http://ice.actve.net/dance-radio128.mp3
-#EXTINF:-1 tvg-logo="https://www.danceradio.cz/favicons/apple-icon-120x120.png" group-title="fm 89.0",Dance rádio cz
+#EXTINF:-1 tvg-logo="https://www.danceradio.cz/favicons/apple-icon-120x120.png" group-title="dance,electronic,rock",Dance Radio 89.0
 https://ice.actve.net/dance-radio128.mp3
-#EXTINF:-1 tvg-logo="http://www.europalibera.org/Content/responsive/RFE/img/top_logo_news.png" group-title="news,prague,rfe-rl",Europa Liberă (RFE/RL for Moldova, ch. 18)
+#EXTINF:-1 tvg-logo="http://www.europalibera.org/Content/responsive/RFE/img/top_logo_news.png" group-title="news,talk,romanian",Europa Libera RFE/RL for Moldova Channel 18
 http://n0a.radiojar.com/puc9upcpn3quv?rj-ttl=5&rj-tok=AAABfdriftYAt05r6XSJ8iDDEg
-#EXTINF:-1 tvg-logo="https://romania.europalibera.org//Content/responsive/RFE/img/webApp/favicon.ico" group-title="news,prague,rfe-rl",Europa Liberă (RFE/RL for Romania, ch. 29)
+#EXTINF:-1 tvg-logo="https://romania.europalibera.org//Content/responsive/RFE/img/webApp/favicon.ico" group-title="news,talk,romanian",Europa Libera RFE/RL for Romania Channel 29
 http://n03.radiojar.com/zststmqc75quv?rj-ttl=5&rj-tok=AAABfd0P2FIAUVWj6Tsm5Zm42Q
-#EXTINF:-1 tvg-logo="https://m.actve.net/e2/favicon/apple-touch-icon.png" group-title="",Evropa 2
+#EXTINF:-1 tvg-logo="https://m.actve.net/e2/favicon/apple-touch-icon.png" group-title="pop,hits",Evropa 2 88.2
 https://ice.actve.net/fm-evropa2-128
-#EXTINF:-1 tvg-logo="" group-title="",Expresradio
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/a7/cd/12709/c300.png" group-title="hits,electro,pop",Expres 90.3 
 http://icecast5.play.cz:8000/expres128mp3
-#EXTINF:-1 tvg-logo="https://www.expresfm.cz/static/images/mobile-icon.png" group-title="alternative,czech folk music,dance,pop,prague,rock",Express FM
+#EXTINF:-1 tvg-logo="https://www.expresfm.cz/static/images/mobile-icon.png" group-title="hits,electro,pop",Expres 90.3
 http://icecast8.play.cz/expres128mp3
-#EXTINF:-1 tvg-logo="https://www.fajnradio.cz/img/logo.png" group-title="",Fajn Rádio
+#EXTINF:-1 tvg-logo="https://www.fajnradio.cz/img/logo.png" group-title="rock,r'n'b,pop",Fajn Rádio 87.6-106.6
 http://ice.abradio.cz/fajn128.mp3
-#EXTINF:-1 tvg-logo="" group-title="",Flash radio
+#EXTINF:-1 tvg-logo="https://flashradio.online/wp-content/uploads/2019/07/logo-flashradio-web.png" group-title="rock,pop",Flash Radio 87.5
 http://185.47.222.75:8750/
-#EXTINF:-1 tvg-logo="http://www.freeradio.cz//img/ico_vcelka_32_32_6.png" group-title="90s,dance,hiphop,house,pop,rnb,trance",Free Rádio 107,0 FM Brno
+#EXTINF:-1 tvg-logo="http://www.freeradio.cz//img/ico_vcelka_32_32_6.png" group-title="90s,dance,hiphop",Free Radio 107.0
 http://icecast8.play.cz/freeradio128.mp3
-#EXTINF:-1 tvg-logo="https://css.actve.net/frekvence1/img/favicons/mstile-150x150.png?v=jw63ApEelG" group-title="commercial",Frekvence 1
+#EXTINF:-1 tvg-logo="https://css.actve.net/frekvence1/img/favicons/mstile-150x150.png?v=jw63ApEelG" group-title="pop,news,talk",Frekvence 1 102.5
 http://ice.actve.net/fm-frekvence1-aac
-#EXTINF:-1 tvg-logo="https://www.frekvence1.cz/img/favicons/apple-touch-icon.png?v108" group-title="",Frekvence 1 - Youradio Československé hity
+#EXTINF:-1 tvg-logo="https://www.frekvence1.cz/img/favicons/apple-touch-icon.png?v108" group-title="pop,news,talk",Frekvence 1 102.5
 http://ice.actve.net/web-e2-csweb
-#EXTINF:-1 tvg-logo="https://www.frekvence1.cz/img/favicons/apple-touch-icon.png?v108" group-title="nostalgia,nostalgic,nostalgico,nostalgie",Frekvence 1 - Youradio Legendy
+#EXTINF:-1 tvg-logo="https://www.frekvence1.cz/img/favicons/apple-touch-icon.png?v108" group-title="pop,news,talk",Frekvence 1 102.5
 http://ice.actve.net/web-f1-legendy
-#EXTINF:-1 tvg-logo="https://www.frekvence1.cz/img/favicons/apple-touch-icon.png?v108" group-title="80's",Frekvence 1 - Youradio Osmdesátky
+#EXTINF:-1 tvg-logo="https://www.frekvence1.cz/img/favicons/apple-touch-icon.png?v108" group-title="pop,news,talk",Frekvence 1 102.5
 http://ice.actve.net/web-80
-#EXTINF:-1 tvg-logo="https://www.funkstar.eu/favicon.ico" group-title="disco,discomusic 70,discomusic 80,funk,nu-disco",Funkstar Radio
+#EXTINF:-1 tvg-logo="https://www.funkstar.eu/favicon.ico" group-title="disco,70s,80s",Funkstar Radio
 https://funkstar.radioca.st/stream
-#EXTINF:-1 tvg-logo="" group-title="",Getradio
-https://tcpower.eu:8443/getradio
-#EXTINF:-1 tvg-logo="https://d173wke2e7swhh.cloudfront.net/coverarts/cardio-circle.png" group-title="dance,edm,house",GYM Radio - Cardio Ch.1
+#EXTINF:-1 tvg-logo="https://d173wke2e7swhh.cloudfront.net/coverarts/cardio-circle.png" group-title="dance,edm,house",GYM Radio Cardio Channel 1
 http://5.35.247.7/CAR0
-#EXTINF:-1 tvg-logo="https://d173wke2e7swhh.cloudfront.net/coverarts/cardio-circle.png" group-title="dance,edm,house",GYM Radio - Cardio Ch.2
+#EXTINF:-1 tvg-logo="https://d173wke2e7swhh.cloudfront.net/coverarts/cardio-circle.png" group-title="dance,edm,house",GYM Radio Cardio Channel 2
 http://5.35.247.7/CAR1
-#EXTINF:-1 tvg-logo="https://d173wke2e7swhh.cloudfront.net/coverarts/cardio-circle.png" group-title="dance,edm,house",GYM Radio - Cardio Ch.3
+#EXTINF:-1 tvg-logo="https://d173wke2e7swhh.cloudfront.net/coverarts/cardio-circle.png" group-title="dance,edm,house",GYM Radio Cardio Channel 3
 http://5.35.247.7/CAR2
-#EXTINF:-1 tvg-logo="https://d173wke2e7swhh.cloudfront.net/coverarts/cardio-circle.png" group-title="dance,edm,house",GYM Radio - Cardio Ch.4
+#EXTINF:-1 tvg-logo="https://d173wke2e7swhh.cloudfront.net/coverarts/cardio-circle.png" group-title="dance,edm,house",GYM Radio Cardio Channel 4
 http://5.35.247.7/CAR3
-#EXTINF:-1 tvg-logo="https://d173wke2e7swhh.cloudfront.net/coverarts/cardio-circle.png" group-title="dance,edm,house",GYM Radio - Cardio Ch.5
+#EXTINF:-1 tvg-logo="https://d173wke2e7swhh.cloudfront.net/coverarts/cardio-circle.png" group-title="dance,edm,house",GYM Radio Cardio Channel 5
 http://5.35.247.7/CAR4
-#EXTINF:-1 tvg-logo="https://d173wke2e7swhh.cloudfront.net/coverarts/cardio-circle.png" group-title="dance,edm,house",GYM Radio - Cardio Ch.6
+#EXTINF:-1 tvg-logo="https://d173wke2e7swhh.cloudfront.net/coverarts/cardio-circle.png" group-title="dance,edm,house",GYM Radio Cardio Channel 6
 http://5.35.247.7/CAR5
-#EXTINF:-1 tvg-logo="https://d173wke2e7swhh.cloudfront.net/coverarts/cardio-circle.png" group-title="dance,edm,house",GYM Radio - Cardio Ch.7
+#EXTINF:-1 tvg-logo="https://d173wke2e7swhh.cloudfront.net/coverarts/cardio-circle.png" group-title="dance,edm,house",GYM Radio Cardio Channel 7
 http://5.35.247.7/CAR6
-#EXTINF:-1 tvg-logo="https://d173wke2e7swhh.cloudfront.net/coverarts/gym-circle.png" group-title="hiphop,nu metal,rapcore",GYM Radio - Gym Ch.1
+#EXTINF:-1 tvg-logo="https://d173wke2e7swhh.cloudfront.net/coverarts/gym-circle.png" group-title="hiphop,nu metal,rapcore",GYM Radio Gym Channel 1
 http://5.35.247.7/GYM0
-#EXTINF:-1 tvg-logo="https://d173wke2e7swhh.cloudfront.net/coverarts/gym-circle.png" group-title="hiphop,nu metal,rapcore",GYM Radio - Gym Ch.2
+#EXTINF:-1 tvg-logo="https://d173wke2e7swhh.cloudfront.net/coverarts/gym-circle.png" group-title="hiphop,nu metal,rapcore",GYM Radio Gym Channel 2
 http://5.35.247.7/GYM1
-#EXTINF:-1 tvg-logo="https://d173wke2e7swhh.cloudfront.net/coverarts/gym-circle.png" group-title="hiphop,nu metal,rapcore",GYM Radio - Gym Ch.3
+#EXTINF:-1 tvg-logo="https://d173wke2e7swhh.cloudfront.net/coverarts/gym-circle.png" group-title="hiphop,nu metal,rapcore",GYM Radio Gym Channel 3
 http://5.35.247.7/GYM2
-#EXTINF:-1 tvg-logo="https://d173wke2e7swhh.cloudfront.net/coverarts/gym-circle.png" group-title="hiphop,nu metal,rapcore",GYM Radio - Gym Ch.4
+#EXTINF:-1 tvg-logo="https://d173wke2e7swhh.cloudfront.net/coverarts/gym-circle.png" group-title="hiphop,nu metal,rapcore",GYM Radio Gym Channel 4
 http://5.35.247.7/GYM3
-#EXTINF:-1 tvg-logo="https://d173wke2e7swhh.cloudfront.net/coverarts/gym-circle.png" group-title="hiphop,nu metal,rapcore",GYM Radio - Gym Ch.5
+#EXTINF:-1 tvg-logo="https://d173wke2e7swhh.cloudfront.net/coverarts/gym-circle.png" group-title="hiphop,nu metal,rapcore",GYM Radio Gym Channel 5
 http://5.35.247.7/GYM4
-#EXTINF:-1 tvg-logo="https://d173wke2e7swhh.cloudfront.net/coverarts/gym-circle.png" group-title="hiphop,nu metal,rapcore",GYM Radio - Gym Ch.6
+#EXTINF:-1 tvg-logo="https://d173wke2e7swhh.cloudfront.net/coverarts/gym-circle.png" group-title="hiphop,nu metal,rapcore",GYM Radio Gym Channel 6
 http://5.35.247.7/GYM5
-#EXTINF:-1 tvg-logo="https://d173wke2e7swhh.cloudfront.net/coverarts/gym-circle.png" group-title="hiphop,nu metal,rapcore",GYM Radio - Gym Ch.7
+#EXTINF:-1 tvg-logo="https://d173wke2e7swhh.cloudfront.net/coverarts/gym-circle.png" group-title="hiphop,nu metal,rapcore",GYM Radio Gym Channel 7
 http://5.35.247.7/GYM6
-#EXTINF:-1 tvg-logo="https://d173wke2e7swhh.cloudfront.net/coverarts/hardcore-circle.png" group-title="hard rock,hardcore,metal",GYM Radio - Hardcore Ch.1
+#EXTINF:-1 tvg-logo="https://d173wke2e7swhh.cloudfront.net/coverarts/hardcore-circle.png" group-title="hard rock,hardcore,metal",GYM Radio Hardcore Channel 1
 http://5.35.247.7/HC0
-#EXTINF:-1 tvg-logo="https://d173wke2e7swhh.cloudfront.net/coverarts/hardcore-circle.png" group-title="hard rock,hardcore,metal",GYM Radio - Hardcore Ch.2
+#EXTINF:-1 tvg-logo="https://d173wke2e7swhh.cloudfront.net/coverarts/hardcore-circle.png" group-title="hard rock,hardcore,metal",GYM Radio Hardcore Channel 2
 http://5.35.247.7/HC1
-#EXTINF:-1 tvg-logo="https://d173wke2e7swhh.cloudfront.net/coverarts/hardcore-circle.png" group-title="hard rock,hardcore,metal",GYM Radio - Hardcore Ch.3
+#EXTINF:-1 tvg-logo="https://d173wke2e7swhh.cloudfront.net/coverarts/hardcore-circle.png" group-title="hard rock,hardcore,metal",GYM Radio Hardcore Channel 3
 http://5.35.247.7/HC2
-#EXTINF:-1 tvg-logo="https://d173wke2e7swhh.cloudfront.net/coverarts/hardcore-circle.png" group-title="hard rock,hardcore,metal",GYM Radio - Hardcore Ch.4
+#EXTINF:-1 tvg-logo="https://d173wke2e7swhh.cloudfront.net/coverarts/hardcore-circle.png" group-title="hard rock,hardcore,metal",GYM Radio Hardcore Channel 4
 http://5.35.247.7/HC3
-#EXTINF:-1 tvg-logo="https://d173wke2e7swhh.cloudfront.net/coverarts/hardcore-circle.png" group-title="hard rock,hardcore,metal",GYM Radio - Hardcore Ch.5
+#EXTINF:-1 tvg-logo="https://d173wke2e7swhh.cloudfront.net/coverarts/hardcore-circle.png" group-title="hard rock,hardcore,metal",GYM Radio Hardcore Channel 5
 http://5.35.247.7/HC4
-#EXTINF:-1 tvg-logo="https://d173wke2e7swhh.cloudfront.net/coverarts/hardcore-circle.png" group-title="hard rock,hardcore,metal",GYM Radio - Hardcore Ch.6
+#EXTINF:-1 tvg-logo="https://d173wke2e7swhh.cloudfront.net/coverarts/hardcore-circle.png" group-title="hard rock,hardcore,metal",GYM Radio Hardcore Channel 6
 http://5.35.247.7/HC5
-#EXTINF:-1 tvg-logo="https://d173wke2e7swhh.cloudfront.net/coverarts/hardcore-circle.png" group-title="hard rock,hardcore,metal",GYM Radio - Hardcore Ch.7
+#EXTINF:-1 tvg-logo="https://d173wke2e7swhh.cloudfront.net/coverarts/hardcore-circle.png" group-title="hard rock,hardcore,metal",GYM Radio Hardcore Channel 7
 http://5.35.247.7/HC6
-#EXTINF:-1 tvg-logo="" group-title="",Helax 93,7
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/e6/b7/12740/1/c300.png" group-title="adult,contemporary,dance",Radio Fajn Helax 93.7
 http://ice.abradio.cz/helax128.mp3
-#EXTINF:-1 tvg-logo="" group-title="",HEY rádio
+#EXTINF:-1 tvg-logo="https://heyradio.cz/image/freestyle/HEY_logo_head2022.png" group-title="80s,90s,pop",Radio Hey 101.6
 http://icecast3.play.cz/hey-radio128.mp3
-#EXTINF:-1 tvg-logo="http://www.hitradioorion.cz/favicon.ico" group-title="hits",HIT Rádio Orion
+#EXTINF:-1 tvg-logo="http://www.hitradioorion.cz/favicon.ico" group-title="top 40,pop,hits",Hitradio Orion 88.1
 http://ice.abradio.cz/orion128.mp3
-#EXTINF:-1 tvg-logo="https://www.hitradiocity.cz/design/favicons/apple-icon-120x120.png" group-title="prag,prague,praha",Hitrádio City 93,7 FM
+#EXTINF:-1 tvg-logo="https://www.hitradiocity.cz/design/favicons/apple-icon-120x120.png" group-title="adult,contemporary,pop",Hitradio City 93.7
 https://playerservices.streamtheworld.com/api/livestream-redirect/HITRADIO_CITY_PRAHA_128.mp3
-#EXTINF:-1 tvg-logo="http://hitradiocitybrno.cz/design/favicons/apple-icon-120x120.png" group-title="",Hitrádio City Brno
+#EXTINF:-1 tvg-logo="http://hitradiocitybrno.cz/design/favicons/apple-icon-120x120.png" group-title="rock,pop,top 40",Hitradio City Brno 89.2-102.7
 http://ice.abradio.cz/magicbrno128.mp3
-#EXTINF:-1 tvg-logo="http://hitradiocity.cz/design/favicons/apple-icon-120x120.png" group-title="love songs,pop,romantic",hitradio City zona Lasky
+#EXTINF:-1 tvg-logo="http://hitradiocity.cz/design/favicons/apple-icon-120x120.png" group-title="ballads,pop,romantic",Hitradio City Zona lasky
 http://ice.abradio.cz/cityzl128.mp3
-#EXTINF:-1 tvg-logo="" group-title="90s,pop",Hitrádio Devadesátka
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/fc/9e/12736/1/c300.png" group-title="90s,pop,hits",Hitradio Devadesatka
 http://ice.abradio.cz/hit90128.mp3
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s10545/images/logog.jpg" group-title="",Hitrádio Faktor
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s10545/images/logog.jpg" group-title="rock,pop,top 40",Hitradio Faktor
 https://ice.abradio.cz/faktor128.mp3
-#EXTINF:-1 tvg-logo="" group-title="",Hitrádio FM
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/e1/22/17306/1/c300.png" group-title="rock,pop,top 40",Hitradio FM
 http://ice.abradio.cz/hitradiofm128.mp3
-#EXTINF:-1 tvg-logo="https://hitradiofm.cz/design/favicons/apple-icon-120x120.png" group-title="local,pop",Hitrádio FM Crystal
+#EXTINF:-1 tvg-logo="https://hitradiofm.cz/design/favicons/apple-icon-120x120.png" group-title="local,pop,hits",Hitrádio FM Crystal
 http://ice.abradio.cz/crystal128.mp3
-#EXTINF:-1 tvg-logo="https://hitradiofmplus.cz/design/favicons/apple-icon-120x120.png" group-title="pilsen,pop,rock",Hitradio FM Plus
+#EXTINF:-1 tvg-logo="https://hitradiofmplus.cz/design/favicons/apple-icon-120x120.png" group-title="top 40,pop,rock",Hitradio FM Plus 100.2
 https://playerservices.streamtheworld.com/api/livestream-redirect/HITRADIO_FMPLUS_128.mp3
 #EXTINF:-1 tvg-logo="" group-title="80s",Hitrádio Osmdesátka
 http://ice.abradio.cz/hit80128.mp3
