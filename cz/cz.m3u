@@ -199,109 +199,105 @@ http://ice.abradio.cz/hitradiofm128.mp3
 http://ice.abradio.cz/crystal128.mp3
 #EXTINF:-1 tvg-logo="https://hitradiofmplus.cz/design/favicons/apple-icon-120x120.png" group-title="top 40,pop,rock",Hitradio FM Plus 100.2
 https://playerservices.streamtheworld.com/api/livestream-redirect/HITRADIO_FMPLUS_128.mp3
-#EXTINF:-1 tvg-logo="" group-title="80s",Hitrádio Osmdesátka
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/a5/f2/12737/1/c300.png" group-title="80s,hits,rock",Hitradio Osmdesatka
 http://ice.abradio.cz/hit80128.mp3
-#EXTINF:-1 tvg-logo="" group-title="",Hitrádio PopRock
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s171070/images/logod.png?t=637720054880000000" group-title="rock,pop",Hitradio PopRock
 http://ice.abradio.cz/hitpoprock128.mp3
-#EXTINF:-1 tvg-logo="http://hitradiovysocina.cz/design/favicons/favicon-32x32.png" group-title="",Hitrádio Vysočina
+#EXTINF:-1 tvg-logo="http://hitradiovysocina.cz/design/favicons/favicon-32x32.png" group-title="adult,contemporary,top 40",Hitradio Vysocina 94.3
 http://ice5.abradio.cz/hitvysocina128.mp3
-#EXTINF:-1 tvg-logo="http://api.play.cz/static/radio_logo/t200/radio-hlas-prahy.png" group-title="",Hlas Prahy
+#EXTINF:-1 tvg-logo="http://api.play.cz/static/radio_logo/t200/radio-hlas-prahy.png" group-title="pop,news,talk",Hlas Prahy
 http://icecast9.play.cz/radiohlasprahy.mp3
-#EXTINF:-1 tvg-logo="https://1gr.cz/u/favicon/apple-touch-icon/impuls.png" group-title="",Impuls Ráááádio
+#EXTINF:-1 tvg-logo="https://1gr.cz/u/favicon/apple-touch-icon/impuls.png" group-title="news,pop",Radio Impuls
 http://icecast5.play.cz/impuls128.mp3
-#EXTINF:-1 tvg-logo="https://jojfamily.blesk.cz/favicon.ico" group-title="general,show,tv",JOJ Family
-https://live.cdn.joj.sk/live/hls/family-540.m3u8
-#EXTINF:-1 tvg-logo="" group-title="pop",Kiss 98 FM
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/4760130827.png" group-title="pop,hits",Kiss 98FM
 http://icecast2.play.cz:8000/kiss128aac
-#EXTINF:-1 tvg-logo="" group-title="hits,pop",Kiss Delta
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1617484017/kiss_fb_400x400.jpg" group-title="hits,pop",Kiss Delta
 http://icecast1.play.cz:8000/kissdelta192.mp3
-#EXTINF:-1 tvg-logo="" group-title="pop",Kiss Hady
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/artworks-000267114323-ab3bas-t500x500.jpg" group-title="dance,house,pop",Radio Kiss Hady 88.3
 http://icecast8.play.cz/kisshady128.mp3
-#EXTINF:-1 tvg-logo="" group-title="hits,pop",Kiss Publikum
+#EXTINF:-1 tvg-logo="https://pea.fm/uploads/posts/2020-08/1597037649_kiss-publikum.png" group-title="hits,pop",Kiss Publikum Radio
 http://icecast1.play.cz:8000/kisspublikum128aac
-#EXTINF:-1 tvg-logo="https://www.metalheartradio.com/assets/img/theme/favicon.ico" group-title="metal,rock",Metal Heart
+#EXTINF:-1 tvg-logo="https://www.metalheartradio.com/assets/img/theme/favicon.ico" group-title="metal,rock",Metal Heart Radio
 http://fr.radio-streamhosting.com:8000/metalheartradio64aac
-#EXTINF:-1 tvg-logo="" group-title="",Metalománie
+#EXTINF:-1 tvg-logo="https://online-radio.eu/logo/33/33063.jpg" group-title="metal,rock",Metalomanie
 http://ice.abradio.cz/metalomanie128.mp3
-#EXTINF:-1 tvg-logo="https://www.netroliferadio.cz/files/resize/128/128/netro-favicon-top-0.png" group-title="dance,dj sets",Netro Life Radio 100,8 FM
+#EXTINF:-1 tvg-logo="https://www.netroliferadio.cz/files/resize/128/128/netro-favicon-top-0.png" group-title="dance,electronic",Netro Life Radio 100.8
 https://icecast9.play.cz/netro-life-radio.mp3
-#EXTINF:-1 tvg-logo="http://www.nonstopradio.cz/templates/template-webhosting/favicon.ico" group-title="00s,80s,90s,dance,electronic,remix,remixes",Nonstopradio CZ
+#EXTINF:-1 tvg-logo="http://www.nonstopradio.cz/templates/template-webhosting/favicon.ico" group-title="00s,80s,90s,dance",Nonstopradio 
 http://server.nonstopradio.cz:8080/
-#EXTINF:-1 tvg-logo="http://www.oldiesradio.cz/wp-content/themes/OldiesRadio/assets/touch-icon-iphone.png" group-title="oldies",Oldies Rádio
+#EXTINF:-1 tvg-logo="http://www.oldiesradio.cz/wp-content/themes/OldiesRadio/assets/touch-icon-iphone.png" group-title="oldies,pop",Oldies Radio
 http://ice.abradio.cz/oldiesradio128.mp3
-#EXTINF:-1 tvg-logo="https://www.pigy.cz/wp-content/themes/pigy/img/radio-diskotrisko-pigy.png" group-title="dance,kids",Pigy.cz – Disko Trysko
+#EXTINF:-1 tvg-logo="https://www.pigy.cz/wp-content/themes/pigy/img/radio-diskotrisko-pigy.png" group-title="dance,kids",Pigy.cz Disko Trysko
 http://ice.actve.net/web-pg-disko
-#EXTINF:-1 tvg-logo="https://www.pigy.cz/wp-content/themes/pigy/img/radio-pohadkove-pisnicky-pigy.png" group-title="childrens music",Pigy.cz – Písničky z pohádek
+#EXTINF:-1 tvg-logo="https://www.pigy.cz/wp-content/themes/pigy/img/radio-pohadkove-pisnicky-pigy.png" group-title="children,youth",Pigy.cz Pisnicky z pohadek
 http://ice.actve.net/web-pg-pisnicky
-#EXTINF:-1 tvg-logo="https://www.pigy.cz/wp-content/themes/pigy/img/radio-pohadky-pigy.png" group-title="fairytales,kids",Pigy.cz – Pohádky
+#EXTINF:-1 tvg-logo="https://www.pigy.cz/wp-content/themes/pigy/img/radio-pohadky-pigy.png" group-title="fairytales,children",Pigy.cz Pohadky
 http://ice.actve.net/web-pg-pohadky
-#EXTINF:-1 tvg-logo="" group-title="undefined",povídka
+#EXTINF:-1 tvg-logo="https://radioly.app/images/18865.jpg" group-title="talk,literature,history,otr",Radio Povidka
 https://ice3.abradio.cz/povidka128.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/87/2d/12734/c300.png" group-title="r&b/urban",Rádio 1
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/87/2d/12734/c300.png" group-title="dance,electronic",Radio 1 91.9
 http://icecast6.play.cz/radio1-128.mp3
-#EXTINF:-1 tvg-logo="" group-title="alternative",RADIO 1
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/87/2d/12734/c300.png" group-title="dance,electronic",Radio 1 91.9
 http://icecast2.play.cz/radio1.mp3
-#EXTINF:-1 tvg-logo="" group-title="32 kbps ve formátu aac",Radio 1
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/87/2d/12734/c300.png" group-title="dance,electronic",Radio 1 91.9
 http://icecast1.play.cz/radio1aac
-#EXTINF:-1 tvg-logo="" group-title="",Rádio 7
+#EXTINF:-1 tvg-logo="https://radio7.cz/images/r7_logo_transp.png" group-title="talk,christian",Radio 7
 http://icecast8.play.cz/radio7-128.mp3
-#EXTINF:-1 tvg-logo="https://radio7.cz/images/r7_logo_transp.png" group-title="",Rádio 7 32kb
+#EXTINF:-1 tvg-logo="https://radio7.cz/images/r7_logo_transp.png" group-title="talk,christian",Radio 7
 http://icecast1.play.cz:8000/radio7cz32.mp3
-#EXTINF:-1 tvg-logo="http://www.zeno.fm/static/icons/apple-icon-120x120.png" group-title="comedy,talk,talk & speech",Radio Alexandr
+#EXTINF:-1 tvg-logo="http://www.zeno.fm/static/icons/apple-icon-120x120.png" group-title="comedy,talk,speech",Radio Alexandr
 http://stream.zeno.fm/6gdrswywm18uv?rj-ttl=5&rj-tok=AAABfdq29IoAI2AMbSmLdNBiKw
-#EXTINF:-1 tvg-logo="" group-title="pop",Rádio Applaus
+#EXTINF:-1 tvg-logo="https://www.radioapplaus.com/wp-content/uploads/2021/10/cropped-Logo-radio-applaus-velke-1.png" group-title="pop,hits",Radio Applaus
 http://mp3stream3.abradio.cz/applaus128.mp3
-#EXTINF:-1 tvg-logo="http://www.radiobeat.cz//favicon.ico" group-title="classic rock,heavy metal,metal,rock",Radio Beat
+#EXTINF:-1 tvg-logo="http://www.radiobeat.cz//favicon.ico" group-title="classic,rock,metal",Radio Beat 95.3
 http://icecast2.play.cz/radiobeat128.mp3
-#EXTINF:-1 tvg-logo="https://www.radiobeat.cz/img/logo@2x.png" group-title="classic rock,rock",Rádio Beat (128 AAC)
+#EXTINF:-1 tvg-logo="https://www.radiobeat.cz/img/logo@2x.png" group-title="classic,rock,metal",Radio Beat 95.3
 https://icecast2.play.cz/beat128aac
-#EXTINF:-1 tvg-logo="https://radioblanik.cz/design/img/logo.svg" group-title="",Rádio Blaník
+#EXTINF:-1 tvg-logo="https://radioblanik.cz/design/img/logo.svg" group-title="pop,hits",Radio Blanik
 https://21293.live.streamtheworld.com:443/RADIO_BLANIK_128.mp3
-#EXTINF:-1 tvg-logo="http://www.radioblanik.cz/favicon.ico" group-title="",Rádio Blaník CZ Webové rádio
+#EXTINF:-1 tvg-logo="http://www.radioblanik.cz/favicon.ico" group-title="pop,hits",Rádio Blanik
 http://ice.abradio.cz/blanikcz128.mp3
-#EXTINF:-1 tvg-logo="" group-title="pop",Radio Blaník Morava a Slezsko 
+#EXTINF:-1 tvg-logo="http://www.radioblanik.cz/favicon.ico" group-title="pop,hits",Radio Blanik Morava a Slezsko 
 https://ice.abradio.cz/blanikmorava128.mp3?gdpr=1&gdpr_consent=Q084aEUyaE84aEUyaEFjQUJCRU5BX0NnQVBfQUFIX0FBQVlnRjVvQmhEeEVCU0ZDQUdKb1lOa2dBQUFXeHdBQUFDQUNBQUFBb0FBQUFCb0FBQVFBQUFBQUFBQWdCQUFBQUJJQUlBSUFBQUJBR0VBQUFBQUFBQUFBQUFBQUFFQUFBQUFBSVFBQUFBQUFBQ0JBQUFBQUFBQUFBQUFBQUFBQVFBQUFnWG5BZUFBV0FCVUFDNEFIQUFRQUFxQUJvQURrQUlnQVRBQW5nQlZBQzRBRjhBTVFBaElCRUFFVUFLVUFXSUF5d0Jtd0R1QU84QWhBQkZnQzBnRjFBTUNBYXdCTm9DOHdBQUFBLllBQUFBQUFBQUFBQQ==
-#EXTINF:-1 tvg-logo="http://www.radioblanik.cz/favicon.ico" group-title="",Rádio Blaník živé
+#EXTINF:-1 tvg-logo="http://www.radioblanik.cz/favicon.ico" group-title="pop,hits",Radio Blanik zive
 http://ice.abradio.cz/blanikfm128.mp3
-#EXTINF:-1 tvg-logo="https://www.radioblatna.cz/images/icons/ico.png" group-title="",Rádio Blatná 89,7 FM
+#EXTINF:-1 tvg-logo="https://www.radioblatna.cz/images/icons/ico.png" group-title="rock,pop,folk",Radio Otava Blatna 89.7
 http://vserver.sporknet.cz:8889/test.mp3
-#EXTINF:-1 tvg-logo="https://www.radiobonton.cz/favicons/apple-touch-icon.png" group-title="klídek,pohoda,relax",Rádio Bonton
+#EXTINF:-1 tvg-logo="https://www.radiobonton.cz/favicons/apple-touch-icon.png" group-title="klídek,pohoda,relax",Radio BonTon 104.9
 http://ice.actve.net/fm-bonton-128
-#EXTINF:-1 tvg-logo="https://casradio.cz/wp-content/themes/frontheme_woo/assets/img/logos/radio-cas5.png" group-title="oldies,pop,regional",Radio Čas
+#EXTINF:-1 tvg-logo="https://casradio.cz/wp-content/themes/frontheme_woo/assets/img/logos/radio-cas5.png" group-title="oldies,pop",Radio Cas
 http://icecast6.play.cz/casradio128.mp3
-#EXTINF:-1 tvg-logo="https://www.casrock.cz/wp-content/themes/frontheme/assets/img/favicon/apple-touch-icon-180x180.png?v002=" group-title="rock",Radio Čas Rock
+#EXTINF:-1 tvg-logo="https://www.casrock.cz/wp-content/themes/frontheme/assets/img/favicon/apple-touch-icon-180x180.png?v002=" group-title="rock,variety",Radio Cas Rock
 http://icecast6.play.cz/casrock128.mp3
-#EXTINF:-1 tvg-logo="" group-title="pop",Radio City FM
-http://ice.abradio.cz/cityfm128.mp3
-#EXTINF:-1 tvg-logo="https://www.clickandcountry.com/images/favicon/apple-icon-120x120.png" group-title="country",Rádio Click & Country
+#EXTINF:-1 tvg-logo="https://www.clickandcountry.com/images/favicon/apple-icon-120x120.png" group-title="country,new country",Radio Click & Country
 http://radio.clickandcountry.cz:8000/clickandcountry.mp3
-#EXTINF:-1 tvg-logo="https://radiodalnice.cz/wp-content/uploads/2018/01/Logo-R%C3%A1dio-D%C3%A1lnice-18.png" group-title="adult contemporary,hits,traffic",Rádio Dálnice
+#EXTINF:-1 tvg-logo="https://radiodalnice.cz/wp-content/uploads/2018/01/Logo-R%C3%A1dio-D%C3%A1lnice-18.png" group-title="adult,contemporary,hits",Radio Dalnice 104.2
 http://icecast8.play.cz/radiodalnice.mp3
-#EXTINF:-1 tvg-logo="http://api.play.cz/static/radio_logo/t200/radiodechovka.png" group-title="czech folk music",Radio Dechovka 1233 Stredni Vlny
+#EXTINF:-1 tvg-logo="http://api.play.cz/static/radio_logo/t200/radiodechovka.png" group-title="folk,traditional",Radio Dechovka 1233
 http://icecast5.play.cz/dechovka128.mp3
-#EXTINF:-1 tvg-logo="" group-title="",Radio Depeche Mode
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Td4Q6Sds87iRTPAjacmDsV26q60uXzscwzOiixxoEmN5vM1bdymPUDUoJYo_KXeI-oc=w480-h960" group-title="electronic,rock",ABradio Depeche Mode
 http://mp3stream4.abradio.cz/depeche128.mp3
-#EXTINF:-1 tvg-logo="" group-title="dance,dj",Rádio Diana – Dance Club
+#EXTINF:-1 tvg-logo="https://cache.usercontentapp.com/logo/mjpg/50456.jpg?format=png&enlarge=0&quality=90&width=960" group-title="dance,electronic",Dance Club R@dio Diana
 https://westradio.cz/radio/8020/radio.mp3
-#EXTINF:-1 tvg-logo="" group-title="90's",Rádio Diana – Retro Club
+#EXTINF:-1 tvg-logo="https://liveonlineradio.net/wp-content/uploads/2021/01/Retro-Club-R@dio-Diana.jpg" group-title="90's,dance",Retro Club R@dio Diana
 https://westradio.cz/radio/8000/radio.mp3
-#EXTINF:-1 tvg-logo="http://www.radiodixie.cz/images/favicons/apple-touch-icon-60x60.png" group-title="rock,southern rock",Radio Dixie
+#EXTINF:-1 tvg-logo="http://www.radiodixie.cz/images/favicons/apple-touch-icon-60x60.png" group-title="rock,southern",Radio Dixie
 http://icecast8.play.cz/radiodixie192.mp3
-#EXTINF:-1 tvg-logo="http://www.spodniproudy.cz/wp-content/gallery/ikony/dratak_radio_spodnich_proudu2.jpg" group-title="",Rádio Dráťák
+#EXTINF:-1 tvg-logo="http://www.spodniproudy.cz/wp-content/gallery/ikony/dratak_radio_spodnich_proudu2.jpg" group-title="",Radio Dratak
 http://dratak.cz:8000/dratak
-#EXTINF:-1 tvg-logo="http://www.evropaelire.org/Content/responsive/RFE/img/top_logo_news.png" group-title="news,prague,rfe-rl",Radio Evropa e Lirë (RFE/RL for Kosovo, ch. 16)
+#EXTINF:-1 tvg-logo="http://www.evropaelire.org/Content/responsive/RFE/img/top_logo_news.png" group-title="news,albanian,talk",Radio Evropa e Lire RFE/RL for Kosovo Channel 16
 http://n05.radiojar.com/u3camdcpn3quv?rj-ttl=5&rj-tok=AAABfd09FZwA40kaY3_ClOqtpw
-#EXTINF:-1 tvg-logo="http://www.radiog6.cz/favicon.ico" group-title="folk,world",Rádio G6 (Gipsy Radio)
+#EXTINF:-1 tvg-logo="http://www.radiog6.cz/favicon.ico" group-title="folk,world",Radio G6
 http://mpc.mediacp.eu:8400/stream
-#EXTINF:-1 tvg-logo="http://radiohana.cz/theme/radio_hana/favicon.ico" group-title="music,nejlepší hudební výběr,olomoucko",Radio Haná
+#EXTINF:-1 tvg-logo="http://radiohana.cz/theme/radio_hana/favicon.ico" group-title="pop,hits",Radio Hana 92.3
 http://icecast8.play.cz/hana160.mp3
-#EXTINF:-1 tvg-logo="" group-title="humor",Radio Humor
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/e7/36/10864/c300.png" group-title="humor,comedy",ABradio Humor
 http://mp3stream4.abradio.cz:8000/humor128.mp3
-#EXTINF:-1 tvg-logo="" group-title="pop",Rádio Jih
+#EXTINF:-1 tvg-logo="https://liveonlineradio.net/wp-content/uploads/2013/10/radio-jih-1-220x108.jpg" group-title="pop,hits",Radio Jih 88.9
 http://icecast6.play.cz/jih128.mp3
-#EXTINF:-1 tvg-logo="http://api.play.cz/static/radio_logo/t200/crojuniormaxi.png" group-title="children,public radio,český rozhlas",Rádio Junior
+#EXTINF:-1 tvg-logo="http://api.play.cz/static/radio_logo/t200/crojuniormaxi.png" group-title="children,public",Radio Junior
 http://amp.cesnet.cz:8000/cro-radio-junior-256.ogg
-#EXTINF:-1 tvg-logo="" group-title="pop",Radio Kiss
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s2923/images/logog.jpg?t=151991" group-title="90s,pop",Radio Kiss 104.1
 http://icecast4.play.cz/kiss128.mp3
 #EXTINF:-1 tvg-logo="http://krokodyl.cz/www/upload/favicons/144/20210218010709604.png" group-title="",Radio Krokodyl
 http://icecast-u2.play.cz:8000/krokodyl128.mp3
