@@ -299,117 +299,111 @@ http://icecast6.play.cz/jih128.mp3
 http://amp.cesnet.cz:8000/cro-radio-junior-256.ogg
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s2923/images/logog.jpg?t=151991" group-title="90s,pop",Radio Kiss 104.1
 http://icecast4.play.cz/kiss128.mp3
-#EXTINF:-1 tvg-logo="http://krokodyl.cz/www/upload/favicons/144/20210218010709604.png" group-title="",Radio Krokodyl
+#EXTINF:-1 tvg-logo="http://krokodyl.cz/www/upload/favicons/144/20210218010709604.png" group-title="hits,news,top 40",Radio Krokodyl 103.0
 http://icecast-u2.play.cz:8000/krokodyl128.mp3
-#EXTINF:-1 tvg-logo="" group-title="oldies,pop music",Rádio MB
+#EXTINF:-1 tvg-logo="https://radiomb.cz/wp-content/uploads/2021/12/logo_r-1.png" group-title="oldies,pop",Radio MB
 http://icecast3.play.cz/radiomb.mp3
-#EXTINF:-1 tvg-logo="" group-title="",Rádio Olympic
-http://ice3.abradio.cz/olympic128.mp3
-#EXTINF:-1 tvg-logo="http://www.radioorlicko.cz/apple-touch-icon.png" group-title="local music,local news,rock",Radio Orlicko
+#EXTINF:-1 tvg-logo="http://www.radioorlicko.cz/apple-touch-icon.png" group-title="local,news,rock",Radio Orlicko 95.5
 http://46.28.111.246/stream192.mp3
-#EXTINF:-1 tvg-logo="http://www.radioostravan.cz/favicon.ico" group-title="variety",Radio Ostravan
+#EXTINF:-1 tvg-logo="http://www.radioostravan.cz/favicon.ico" group-title="variety,local",Radio Ostravan
 http://icecast9.play.cz/radio-ostravan-256.mp3
-#EXTINF:-1 tvg-logo="" group-title="",Rádio pohádka
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s126609d.png" group-title="youth,variety",Radio Pohadka
 http://ice3.abradio.cz/pohadka128.mp3
-#EXTINF:-1 tvg-logo="" group-title="drama",Radio Povidka
+#EXTINF:-1 tvg-logo="https://d2hb4t67mjtsmc.cloudfront.net/new_images/onestop_74584203_92599.png" group-title="talk,education",Radio Povidka
 http://ice.abradio.cz/povidka128.mp3
-#EXTINF:-1 tvg-logo="https://english.radio.cz/sites/default/files/favicon.ico" group-title="local news,news",Radio Prague International
+#EXTINF:-1 tvg-logo="https://english.radio.cz/sites/default/files/favicon.ico" group-title="local,news",Radio Prague International
 https://rozhlas.stream/cro7_mp3_128.mp3
-#EXTINF:-1 tvg-logo="http://api.play.cz/static/radio_logo/t200/cro7.png" group-title="public radio,český rozhlas",Radio Praha
+#EXTINF:-1 tvg-logo="http://api.play.cz/static/radio_logo/t200/cro7.png" group-title="public,news",Radio Praha
 http://icecast2.play.cz/cro7-128.mp3
-#EXTINF:-1 tvg-logo="https://www.proglas.cz/res/images/og-default.png" group-title="christian",Radio Proglas
+#EXTINF:-1 tvg-logo="https://www.proglas.cz/res/images/og-default.png" group-title="christian,news",Radio Proglas
 http://icecast2.play.cz/proglas128
-#EXTINF:-1 tvg-logo="https://radiopunctum.cz/favicon/apple-touch-icon.png" group-title="alternative,ambient,electronic,experimental,house,indie,rap,techno",Radio Punctum
+#EXTINF:-1 tvg-logo="https://radiopunctum.cz/favicon/apple-touch-icon.png" group-title="alternative,ambient,electronic",Radio Punctum
 https://radiopunctum.cz:8001/radio
-#EXTINF:-1 tvg-logo="" group-title="pop,rock",Rádio Relax
+#EXTINF:-1 tvg-logo="https://api.play.cz/static/radio_logo/t200/radio-relax.png" group-title="pop,rock",Radio Relax 92.3
 http://icecast7.play.cz/relax128.mp3
-#EXTINF:-1 tvg-logo="http://api.play.cz/static/radio_logo/t200/croretro.png" group-title="public radio,talk,český rozhlas",Rádio Retro
+#EXTINF:-1 tvg-logo="http://api.play.cz/static/radio_logo/t200/croretro.png" group-title="public,talk",Radio Retro
 http://ice3.abradio.cz/croretro64.mp3
-#EXTINF:-1 tvg-logo="" group-title="rock",Radio ROCK
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/9a/31/9a31c676b6f650397d6bb7468a557f1c.jpg" group-title="rock,pop",Rock Radio 89.0
 http://ice.abradio.cz/rockradio128.mp3
-#EXTINF:-1 tvg-logo="http://www.radiosamson.cz/../../../content/templates/favicon.gif" group-title="country,folk,rock",Rádio Samson
+#EXTINF:-1 tvg-logo="http://www.radiosamson.cz/../../../content/templates/favicon.gif" group-title="country,folk,rock",Radio Samson
 http://icecast8.play.cz/samsonfm128.mp3
-#EXTINF:-1 tvg-logo="http://radio-smile.cz/favicon.ico" group-title="90s,dance,electronic,music,pop",Rádio Smile
-http://live.topradio.cz:8000/smile192
-#EXTINF:-1 tvg-logo="https://svoboda.org/content/responsive/rfe/img/webapp/ico-128x128.png" group-title="",Radio Svoboda (ru) (official stream)
+#EXTINF:-1 tvg-logo="https://svoboda.org/content/responsive/rfe/img/webapp/ico-128x128.png" group-title="russian,news,talk,political",Radio Svoboda
 https://n0c.radiojar.com/hcrb063nn3quv?rj-ttl=5&rj-tok=AAABfdperlgAQofynFRJ8MBm0w
-#EXTINF:-1 tvg-logo="https://www.svoboda.org/Content/responsive/RFE/img/top_logo_news.png" group-title="news,political talk,rfe,talk",Radio Svoboda Rus
+#EXTINF:-1 tvg-logo="https://www.svoboda.org/Content/responsive/RFE/img/top_logo_news.png" group-title="news,political,talk,russian",Radio Svoboda
 http://n01.radiojar.com/hcrb063nn3quv?rj-ttl=5&rj-tok=AAABfdqODuwAF2U5qDZ8VI0O0A
-#EXTINF:-1 tvg-logo="http://www.radiozapad.cz/favicon.ico" group-title="",Rádio Západ
+#EXTINF:-1 tvg-logo="http://www.radiozapad.cz/favicon.ico" group-title="hits,pop,top 40",Radio Zapad 103.0
 http://icecast9.play.cz/radio-zapad-128.mp3
-#EXTINF:-1 tvg-logo="" group-title="psytrance",RADIO.IPIP.CZ: psytrance-radio.cz
+#EXTINF:-1 tvg-logo="https://ca.radio.net/images/broadcasts/fb/f4/19327/2/c300.png" group-title="psytrance,dance,electronic",RADIO.IPIP.CZ: psytrance-radio.cz
 http://212.96.160.160:8022/
-#EXTINF:-1 tvg-logo="https://www.radio1.cz/favicon.ico" group-title="alternative",RADIO1
+#EXTINF:-1 tvg-logo="https://www.radio1.cz/favicon.ico" group-title="alternative,freeform",Radio 1 91.9
 http://icecast2.play.cz/radio1-64.mp3
-#EXTINF:-1 tvg-logo="http://www.radiobrod.cz/themes/images/ico/favicon.ico" group-title="hardcore,metal,punk,rock,ska",Rebel Radio Brod
+#EXTINF:-1 tvg-logo="http://www.radiobrod.cz/themes/images/ico/favicon.ico" group-title="hardcore,metal,punk",Rebel Radio Brod
 http://radio.ipip.cz:7988/
-#EXTINF:-1 tvg-logo="http://www.rferl.org/Content/responsive/RFE/img/top_logo_news.png" group-title="news,prague,rfe-rl",RFE/RL for North Caucasus, ch. 19
+#EXTINF:-1 tvg-logo="http://www.rferl.org/Content/responsive/RFE/img/top_logo_news.png" group-title="news,talk,political",RFE/RL for North Caucasus Channel 19
 http://n05.radiojar.com/wm9sntcpn3quv?rj-ttl=5&rj-tok=AAABfd4t37IA-eef0g7-QlneEQ
-#EXTINF:-1 tvg-logo="http://www.radiofarda.com//Content/responsive/RFE/img/webApp/favicon.ico" group-title="music,news,persian,rfe-rl,talk",RFE/RL Radio Farda
+#EXTINF:-1 tvg-logo="http://www.radiofarda.com//Content/responsive/RFE/img/webApp/favicon.ico" group-title="news,persian,talk,political",RFE/RL Radio Farda
 http://n01.radiojar.com/cp13r2cpn3quv?rj-ttl=5&rj-tok=AAABfdqPYtUA3zO8rzmU_TTQng
-#EXTINF:-1 tvg-logo="" group-title="rock",ROCK MAX
+#EXTINF:-1 tvg-logo="https://www.radiolistenlive.com/logo/5234-rock-max-radio.jpg" group-title="rock,pop",Rock Max
 http://ice.abradio.cz/rockmax256.mp3
-#EXTINF:-1 tvg-logo="https://rockovyradio.cz/design/img/logo.svg" group-title="rock",Rock Radio
+#EXTINF:-1 tvg-logo="https://rockovyradio.cz/design/img/logo.svg" group-title="rock,pop",Rock Radio 89.0
 https://25583.live.streamtheworld.com:443/ROCK_RADIO_128.mp3
-#EXTINF:-1 tvg-logo="http://www.radiosumava.cz/favicon.ico" group-title="rock",Rock Rádio Šumava
+#EXTINF:-1 tvg-logo="http://www.radiosumava.cz/favicon.ico" group-title="rock,pop",Rock Radio Sumava 95.2
 http://ice.abradio.cz/sumava128.mp3
-#EXTINF:-1 tvg-logo="" group-title="czech rock",Rocková zábava
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s171033g.png" group-title="rock,pop",Rock Radio Rockova Zabava
 http://ice.abradio.cz/rockzabava128.mp3
-#EXTINF:-1 tvg-logo="http://www.rockzone.cz/favicon.ico" group-title="",Rockzone
+#EXTINF:-1 tvg-logo="http://www.rockzone.cz/favicon.ico" group-title="alternative,rock",RockZone 105.9
 http://icecast5.play.cz/rockzone128.mp3
-#EXTINF:-1 tvg-logo="http://www.signalradio.cz/assets/images/_layout/logo-signal-radio.png" group-title="oldies,pop",Signál Rádio
+#EXTINF:-1 tvg-logo="http://www.signalradio.cz/assets/images/_layout/logo-signal-radio.png" group-title="oldies,pop",Signal Radio 105.7
 http://icecast1.play.cz/signal128.mp3
-#EXTINF:-1 tvg-logo="http://www.signalradio.cz/favicon.ico" group-title="oldies,pop",Signál Rádio Brno
+#EXTINF:-1 tvg-logo="http://www.signalradio.cz/favicon.ico" group-title="oldies,pop",Signál Rádio Brno 98.1
 http://icecast6.play.cz/signal-brno128.mp3
-#EXTINF:-1 tvg-logo="https://www.internet-radio.com/favicon.ico" group-title="ambient,deep ambient,downtempo,electronic,internetradiodotcom,psychill,seashellradio,thimbleradio",Solar Walk Radio
+#EXTINF:-1 tvg-logo="https://www.internet-radio.com/favicon.ico" group-title="ambient,downtempo,electronic",Solar Walk Radio
 http://188.165.192.5:8193/;stream/1
-#EXTINF:-1 tvg-logo="http://www.radiospin.cz/assets/favicon/apple-touch-icon.png" group-title="",Spin 96.2 CZ
+#EXTINF:-1 tvg-logo="http://www.radiospin.cz/assets/favicon/apple-touch-icon.png" group-title="r'n'b,pop,urban",Radio SPIN 96.2
 http://icecast1.play.cz/spin32aac
-#EXTINF:-1 tvg-logo="http://svobodne-radio.cz/wp-content/uploads/2018/02/site-logo-og.jpg" group-title="",svobodne-radio
+#EXTINF:-1 tvg-logo="http://svobodne-radio.cz/wp-content/uploads/2018/02/site-logo-og.jpg" group-title="news,talk",Svobodne Radio
 http://svobodneradio.radioca.st:8859/stream
-#EXTINF:-1 tvg-logo="https://www.svobodny-vysilac.cz/wp-content/themes/alpha-forte/img/logo.jpg" group-title="",Svobodný vysílač
+#EXTINF:-1 tvg-logo="https://www.svobodny-vysilac.cz/wp-content/themes/alpha-forte/img/logo.jpg" group-title="news,education",Svobodny Vysilac
 http://stream.svobodny-vysilac.cz:8000/live.ogg
-#EXTINF:-1 tvg-logo="http://thisisradio.net/favicon.ico" group-title="chill,chillout,lounge,lounge music,nu disco,nu-disco",This Is Radio
+#EXTINF:-1 tvg-logo="http://thisisradio.net/favicon.ico" group-title="chillout,lounge,nu disco",This Is Radio
 http://ice3.abradio.cz/this_is_radio.mp3
-#EXTINF:-1 tvg-logo="https://www.chillers.cz/favicon.png" group-title="chillout,downtempo,psychill",united Czech chillers
+#EXTINF:-1 tvg-logo="https://www.chillers.cz/favicon.png" group-title="chillout,downtempo,psychill",United Czech Chillers
 https://chill.mfnet.cz/radio/8000/radio192.mp3
-#EXTINF:-1 tvg-logo="https://www.wehouseradio.com/images/whr-logo-players.png" group-title="funky house,house,jackin house,nu-disco,soulful house,tech house",We House Radio (AAC+ High)
+#EXTINF:-1 tvg-logo="https://www.wehouseradio.com/images/whr-logo-players.png" group-title="funky,house,jackin",We House Radio
 https://stream.wehouseradio.com/stream/2/
-#EXTINF:-1 tvg-logo="http://www.epigon.info/img/e-logo.png" group-title="cz sk,czech rock,metal,rock,student radio",WebRadio Epigon
+#EXTINF:-1 tvg-logo="http://www.epigon.info/img/e-logo.png" group-title="rock,metal,student",WebRadio Epigon
 http://ice3.abradio.cz/epigon128.mp3
-#EXTINF:-1 tvg-logo="https://www.wehouseradio.com/images/whr-logo-players.png" group-title="funky house,house,jackin house,nu-disco,soulful house,tech house",WeHouseRadio
+#EXTINF:-1 tvg-logo="https://www.wehouseradio.com/images/whr-logo-players.png" group-title="funky,house,jackin",We House Radio
 https://stream.wehouseradio.com/stream/1/
-#EXTINF:-1 tvg-logo="https://www.wehouseradio.com/images/whr-logo-players.png" group-title="funky house,house,jackin house,nu-disco,soulful house,tech house",WeHouseRadio
+#EXTINF:-1 tvg-logo="https://www.wehouseradio.com/images/whr-logo-players.png" group-title="funky,house,jackin",We House Radio
 https://stream.wehouseradio.com/stream/3/
-#EXTINF:-1 tvg-logo="https://radia.cz/data/station_logo_svg/0001/01/-znamka-punku-600-svg.svg" group-title="punk",Známka Punku
+#EXTINF:-1 tvg-logo="https://radia.cz/data/station_logo_svg/0001/01/-znamka-punku-600-svg.svg" group-title="punk,hardcore",Znamka Punku
 https://ice.abradio.cz/znamkapunku128.mp3
-#EXTINF:-1 tvg-logo="" group-title="chiptune,demoscene",ZX Music Radio
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Qm23Vw0PmHMWCASwaozVGkBx4FxiUiycs9sKC3urjLdMMw6CjmLC4lptWKi4a9RlaTsP=w480-h960" group-title="chiptune,demoscene",ZX Music Radio
 http://zxm.cz:8000/zx
-#EXTINF:-1 tvg-logo="http://www.azattyq.org/Content/responsive/RFE/img/top_logo_news.png" group-title="news,prague,rfe-rl",Азат Еуропа / Азаттық Радиосы (RFE/RL in Kazakh, ch. 11)
+#EXTINF:-1 tvg-logo="http://www.azattyq.org/Content/responsive/RFE/img/top_logo_news.png" group-title="news,kazakh,talk",Аzat Europa RFE/RL in Kazakh Channel 11
 http://n0a.radiojar.com/s4r86napn3quv?rj-ttl=5&rj-tok=AAABfd4tdmAAs5k-z5fb3B4DPQ
-#EXTINF:-1 tvg-logo="http://www.azattyk.org/Content/responsive/RFE/img/top_logo_news.png" group-title="news,prague,rfe-rl",Азаттык Υналгысы (RFE/RL in Kyrgyz, ch. 1)
+#EXTINF:-1 tvg-logo="http://www.azattyk.org/Content/responsive/RFE/img/top_logo_news.png" group-title="news,kyrgyz,talk",Аzattik Ynalgysy RFE/RL in Kyrgyz Channel 1
 http://n0f.radiojar.com/q9z8fs3nn3quv?rj-ttl=5&rj-tok=AAABfd4gumUAhDXUeDHte9Mu_Q
-#EXTINF:-1 tvg-logo="https://ru.krymr.com/content/responsive/rfe/img/webapp/ico-128x128.png" group-title="",Крым Реалии (rus, ukr) (official stream)
+#EXTINF:-1 tvg-logo="https://ru.krymr.com/content/responsive/rfe/img/webapp/ico-128x128.png" group-title="russian,ukrainian,talk,news",Krim Realii
 https://n09.radiojar.com/wm9sntcpn3quv?rj-ttl=5&rj-tok=AAABfdoMJLsAfepLbHp8eva27A
-#EXTINF:-1 tvg-logo="http://www.currenttime.tv//Content/responsive/RFE/ru-RU-TV/img/webApp/ico-144x144.png" group-title="cultural,news,prague,rfe-rl,television,video",Настоящее Время (Current Time RFE/RL TV in Russian)
-http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
-#EXTINF:-1 tvg-logo="http://www.ozodlik.org/Content/responsive/RFE/img/top_logo_news.png" group-title="news,prague,rfe-rl",Озодлик радиоси (RFE/RL in Uzbek, ch. 13)
+#EXTINF:-1 tvg-logo="http://www.ozodlik.org/Content/responsive/RFE/img/top_logo_news.png" group-title="news,uzbek,talk",Ozodlik Radioci RFE/RL in Uzbek Channel 13
 http://n0d.radiojar.com/9mdte4apn3quv?rj-ttl=5&rj-tok=AAABfdr9KlAAzgY0e84-QP5_pA
-#EXTINF:-1 tvg-logo="http://www.svoboda.org/Content/responsive/RFE/img/top_logo_news.png" group-title="cultural,music,news,prague,rfe-rl,talk",Радио Свобода (Radio Svoboda, RFE/RL Russian, ch. 4)
+#EXTINF:-1 tvg-logo="http://www.svoboda.org/Content/responsive/RFE/img/top_logo_news.png" group-title="cultural,news,talk,russian",Radio Svoboda RFE/RL in Russian Channel 4
 http://n08.radiojar.com/hcrb063nn3quv?rj-ttl=5&rj-tok=AAABfd3x8hwA-nhZO1vmAhHBGQ
-#EXTINF:-1 tvg-logo="http://www.slobodnaevropa.mk/Content/responsive/RFE/img/top_logo_news.png" group-title="news,prague,rfe-rl",Радио Слободна Eвропа (RFE/RL in Macedonian, ch. 14)
+#EXTINF:-1 tvg-logo="http://www.slobodnaevropa.mk/Content/responsive/RFE/img/top_logo_news.png" group-title="news,macedonian,talk",Radio Svoboda Evropa RFE/RL in Macedonian Channel 14
 http://n06.radiojar.com/hrvg3cbpn3quv?rj-ttl=5&rj-tok=AAABfd5ndY8A3grW8VtMrOhqfQ
-#EXTINF:-1 tvg-logo="http://www.ozodi.org/Content/responsive/RFE/img/top_logo_news.png" group-title="news,prague,rfe-rl",Радиои Озодӣ (RFE/RL in Tajik, ch. 9)
+#EXTINF:-1 tvg-logo="http://www.ozodi.org/Content/responsive/RFE/img/top_logo_news.png" group-title="news,tajik,talk",Radioi Ozodi RFE/RL in Tajik Channel 9
 http://n02.radiojar.com/mn1ukbapn3quv?rj-ttl=5&rj-tok=AAABfdoaeqMAT_naA2A0Rytsfw
-#EXTINF:-1 tvg-logo="http://www.radiosvoboda.org/Content/responsive/RFE/img/top_logo_news.png" group-title="cultural,news,prague,rfe-rl,talk",Радіо Свобода (RFE/RL in Ukrainian, ch. 7)
+#EXTINF:-1 tvg-logo="http://www.radiosvoboda.org/Content/responsive/RFE/img/top_logo_news.png" group-title="cultural,news,ukrainian,talk",Radio Svoboda RFE/RL in Ukrainian Channel 7
 http://n0f.radiojar.com/arzknz9nn3quv?rj-ttl=5&rj-tok=AAABfd3tyBcA3PFTRs_YcigVYA
-#EXTINF:-1 tvg-logo="http://www.svaboda.org/Content/responsive/RFE/img/top_logo_news.png" group-title="belarusian news,politics,prague,rfe-rl,talk",Радыё Свабода (RFE/RL in Belorussian, ch. 10)
+#EXTINF:-1 tvg-logo="http://www.svaboda.org/Content/responsive/RFE/img/top_logo_news.png" group-title="belarusian,news,politics,talk",Radio Svoboda RFE/RL in Belorussian Channel 10
 http://n0b.radiojar.com/zv9u3eapn3quv?rj-ttl=5&rj-tok=AAABfd41pVwAvICb4rMNZ5t6Fw
-#EXTINF:-1 tvg-logo="http://www.radiotavisupleba.ge/Content/responsive/RFE/img/top_logo_news.png" group-title="news,prague,rfe-rl",რადიო თავისუფალი ევროპა/რადიო თავისუფლება (RFE/RL in Georgian, ch. 3)
+#EXTINF:-1 tvg-logo="http://www.radiotavisupleba.ge/Content/responsive/RFE/img/top_logo_news.png" group-title="news,georgian,talk",Radio Tavisupali Evrop’a RFE/RL in Georgian Channel 3
 http://n11.radiojar.com/ych1q33nn3quv?rj-ttl=5&rj-tok=AAABfd5ho6cAdMsVPfNQwK6QuQ
-#EXTINF:-1 tvg-logo="http://www.azatutyun.am/Content/responsive/RFE/img/top_logo_news.png" group-title="news,prague,rfe-rl",Ազատություն ռ/կ (RFE/RL in Armenian, ch. 2)
+#EXTINF:-1 tvg-logo="http://www.azatutyun.am/Content/responsive/RFE/img/top_logo_news.png" group-title="news,armenian,talk",Freedom R/C RFE/RL in Armenian Channel 2
 http://n0d.radiojar.com/k8z93x3nn3quv?rj-ttl=5&rj-tok=AAABfd5j18oA1FTWIVFuOSvDPQ
-#EXTINF:-1 tvg-logo="http://pa.azadiradio.com/Content/responsive/RFE/img/top_logo_news.png" group-title="news,prague,rfe-rl",ازادي راډیودازادې اروپا راډیو (RFE/RL in Pashto, ch. 17)
+#EXTINF:-1 tvg-logo="http://pa.azadiradio.com/Content/responsive/RFE/img/top_logo_news.png" group-title="news,pashto,talk",RFE/RL in Pashto Channel 17
 http://n04.radiojar.com/bzbzqgcpn3quv?rj-ttl=5&rj-tok=AAABfdrmm-wA-RmqNPtxJ0kp2w
-#EXTINF:-1 tvg-logo="http://www.mashaalradio.com/Content/responsive/RFE/img/top_logo_news.png" group-title="news,prague,rfe-rl",مشال راډیو (RFE/RL in Pashto, R. Mashaal, ch. 20)
+#EXTINF:-1 tvg-logo="http://www.mashaalradio.com/Content/responsive/RFE/img/top_logo_news.png" group-title="news,pashto,talk",RFE/RL in Pashto Channel 20
 http://n05.radiojar.com/x9zb3ycpn3quv?rj-ttl=5&rj-tok=AAABfd0kOxcAnEyTj8QYIX715A
