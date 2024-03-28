@@ -699,11 +699,11 @@ http://62.138.2.128:8009/stream
 http://audio.674.fm/stream
 #EXTINF:-1 tvg-logo="http://m1.fm/favicon.ico" group-title="80s,hits",80er
 http://tuner.m1.fm/80er.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/67/70/14276/1/c300.png" group-title="1980s,80er,italo disco,ndw,new wave,oldies,pop",80er-Revival
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/67/70/14276/1/c300.png" group-title="80s,ndw,oldies,pop",80er-Revival
 https://80er-revival.stream.laut.fm/80er-revival?t302=2021-12-21_03-04-16&uuid=77fe6e14-15a5-41d5-8723-37294a037978
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/7/82797.v7.png" group-title="decades,80s",80s Mix Radio
 https://80s-mix-radio.stream.laut.fm/80s-mix-radio
-#EXTINF:-1 tvg-logo="https://www.allradio.net/500/mV_x2bJ6WClXzvZGhbZkT.webp" group-title="80s,90s",80s-90s
+#EXTINF:-1 tvg-logo="https://www.allradio.net/500/mV_x2bJ6WClXzvZGhbZkT.webp" group-title="80s,90s,hits",80s-90s
 https://80s-90s.stream.laut.fm/80s-90s?t302=2021-12-21_19-05-27&uuid=08bf4e87-f32e-4d6d-9883-afe29d697148
 #EXTINF:-1 tvg-logo="https://images.80s80s.de/files/2021-06/website_teaser_80s80s_summer_16x9.png?rect=24%2C13%2C3815%2C2146&fit=crop&crop=faces&w=668&h=376&dpr=3" group-title="80er,sommer",80s80 Summerhits
 https://80s80s.hoerradar.de/80s80s-summerhits-mp3-hq?sABC=61p133n5%230%23r4880qrn6s01nn6n263q843o4n00pqq9%23fgernzf.80f80f.qr&amsparams=playerid:streams.80s80s.de;skey:1640051621
@@ -799,113 +799,107 @@ http://90s90s.hoerradar.de/90s90s-pop-aac-mq?sABC=61p14310%230%232qqpnss01895rqr
 http://90s90s.hoerradar.de/90s90s-pop-mp3-mq?sABC=61p20893%230%23r4880qrn6s01nn6n263q843o4n00pqq9%23enqvbqr&amsparams=playerid:radiode;skey:1640106131
 #EXTINF:-1 tvg-logo="http://aggregatorservice.loverad.io/wp-content/uploads/2019/08/90s90s_inthemix_600x600.png" group-title="90s,hits,mixes",90s90s In The Mix
 http://90s90s.hoerradar.de/90s90s-inthemix-mp3-hq?sABC=61p1375s%230%232qqpnss01895rqr0s8oq129o03s183o0%23fgernzf.90f90f.qr&amsparams=playerid:streams.90s90s.de;skey:1640052575
-#EXTINF:-1 tvg-logo="https://images.90s90s.de/files/2019-07/90s90s_inthemix_1920x1080.jpg?rect=0%2C0%2C1920%2C1080&fit=crop&crop=faces&w=736&h=414&dpr=1.0909090909090908" group-title="",90s90s In The Mix | aac 64k
+#EXTINF:-1 tvg-logo="https://images.90s90s.de/files/2019-07/90s90s_inthemix_1920x1080.jpg?rect=0%2C0%2C1920%2C1080&fit=crop&crop=faces&w=736&h=414&dpr=1.0909090909090908" group-title="90s,hits,mixes",90s90s In The Mix
 http://90s90s.hoerradar.de/90s90s-inthemix-aac-mq?sABC=61p1qn6n%230%23480403531qsn3q883o6q243r435924np%23fgernzf.90f90f.qr&amsparams=playerid:streams.90s90s.de;skey:1640094314
-#EXTINF:-1 tvg-logo="http://aggregatorservice.loverad.io/wp-content/uploads/2020/08/90s90s_sommerhits_1x1_600x600.png" group-title="90s,summer",90s90s Sommerhits | aac 64k
+#EXTINF:-1 tvg-logo="http://aggregatorservice.loverad.io/wp-content/uploads/2020/08/90s90s_sommerhits_1x1_600x600.png" group-title="90s,summer",90s90s Sommerhits
 https://90s90s.hoerradar.de/90s90s-sommerhits-aac-mq?sABC=61p2191q%230%23480403531qsn3q883o6q243r435924np%23fgernzf.90f90f.qr&amsparams=playerid:streams.90s90s.de;skey:1640110365
 #EXTINF:-1 tvg-logo="http://static.rad.io/images/broadcasts/44/35/113401/2/t300.png" group-title="90s,techno",90s90s Techno
 http://90s90s.hoerradar.de/90s90s-techno-mp3-mq?sABC=61p107or%230%23r4880qrn6s01nn6n263q843o4n00pqq9%23enqvbqr&amsparams=playerid:radiode;skey:1640040382
-#EXTINF:-1 tvg-logo="http://static.rad.io/images/broadcasts/44/35/113401/2/t300.png" group-title="90s,techno",90s90s Techno HQ
+#EXTINF:-1 tvg-logo="http://static.rad.io/images/broadcasts/44/35/113401/2/t300.png" group-title="90s,techno",90s90s Techno
 http://90s90s.hoerradar.de/90s90s-techno-mp3-hq?sABC=61p201qn%230%232qqpnss01895rqr0s8oq129o03s183o0%23enqvbqr&amsparams=playerid:radiode;skey:1640104410
 #EXTINF:-1 tvg-logo="http://media.streamabc.com/90s90s.de/main/90s90s_the-beat_600x600.png" group-title="90s,hits",90s90s The Beat
 http://90s90s.hoerradar.de/90s90s-main-mp3-hq?sABC=61p20892%230%23r4880qrn6s01nn6n263q843o4n00pqq9%23fgernzf.90f90f.qr&amsparams=playerid:streams.90s90s.de;skey:1640106130
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/943rs2_Claim_blau.png/320px-943rs2_Claim_blau.png" group-title="pop",94,3 rs2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/943rs2_Claim_blau.png/320px-943rs2_Claim_blau.png" group-title="pop,80s,90s",94.3 RS2
 http://topradio-de-hz-fal-stream08-cluster01.radiohost.de/rs2_mp3-128?ref=internetradio&amsparams=internetradio&listenerrmid=31363430313035313038-326130333a343030303a33373a34323a633466653a346366663a666561373a38393431-3630333430-53747265616d436865636b426f742f302e312e30
-#EXTINF:-1 tvg-logo="http://www.rs2.de/_nuxt/icons/icon_64.bw0400g0000.png" group-title="80s",94,3 rs2 80's
+#EXTINF:-1 tvg-logo="http://www.rs2.de/_nuxt/icons/icon_64.bw0400g0000.png" group-title="80s,hits,pop",94.3 RS2 80's
 http://topradio-de-hz-fal-stream01-cluster01.radiohost.de/rs2-80er_mp3-128?ref=internetradio&amsparams=internetradio&listenerrmid=31363430313133363136-326130333a343030303a33373a34323a633466653a346366663a666561373a38393431-3433313734-53747265616d436865636b426f742f302e312e30
-#EXTINF:-1 tvg-logo="http://www.rs2.de/_nuxt/icons/icon_64.bw0400g0000.png" group-title="90s",94,3 rs2 90's
+#EXTINF:-1 tvg-logo="http://www.rs2.de/_nuxt/icons/icon_64.bw0400g0000.png" group-title="90s,hits,pop",94.3 RS2 90's
 http://topradio-de-hz-fal-stream01-cluster01.radiohost.de/rs2-90er_mp3-128?ref=internetradio&amsparams=internetradio&listenerrmid=31363430303532313237-323030313a313966303a363830313a313964373a353430303a3266663a666537313a62646237-3438303836-53747265616d436865636b426f742f302e312e30
-#EXTINF:-1 tvg-logo="http://www.rs2.de/_nuxt/icons/icon_64.bw0400g0000.png" group-title="party,relax",94,3 rs2 relax
+#EXTINF:-1 tvg-logo="http://www.rs2.de/_nuxt/icons/icon_64.bw0400g0000.png" group-title="ambient,relax",94.3 RS2 relax
 http://topradio-de-hz-fal-stream01-cluster01.radiohost.de/rs2-relax_mp3-128?ref=internetradio&amsparams=internetradio&listenerrmid=31363430303438323230-323030313a313966303a363830313a313964373a353430303a3266663a666537313a62646237-3534313936-53747265616d436865636b426f742f302e312e30
-#EXTINF:-1 tvg-logo="https://www.charivari.de/assets/Uploads/_resampled/ScaleHeightWyI5NSJd/logo-955-charivari-webseite.png" group-title="",95.5 Charivari - München
+#EXTINF:-1 tvg-logo="https://www.charivari.de/assets/Uploads/_resampled/ScaleHeightWyI5NSJd/logo-955-charivari-webseite.png" group-title="pop,hits",95.5 Charivari München
 http://rs5.stream24.net/stream
 #EXTINF:-1 tvg-logo="https://www.kissfm.de/_nuxt/icons/icon_64.be8y2280000.png" group-title="hits,pop",98.8 Kiss FM
 http://topradio-de-hz-fal-stream02-cluster01.radiohost.de/kissfm_mp3-128?ref=internetradio&amsparams=internetradio&listenerrmid=31363430303938313330-326130333a343030303a33373a34323a633466653a346366663a666561373a38393431-3538383532-53747265616d436865636b426f742f302e312e30
-#EXTINF:-1 tvg-logo="http://www.kissfm.de/_nuxt/icons/icon_64.be8y2280000.png" group-title="electronic",98.8 Kiss FM Clubsets
+#EXTINF:-1 tvg-logo="http://www.kissfm.de/_nuxt/icons/icon_64.be8y2280000.png" group-title="electronic,dance",98.8 Kiss FM Clubsets
 http://topradio-de-hz-fal-stream09-cluster01.radiohost.de/kissfm-electro_mp3-128?ref=internetradio&amsparams=internetradio&listenerrmid=31363430303436323438-323030313a313966303a363830313a313964373a353430303a3266663a666537313a62646237-3432373432-53747265616d436865636b426f742f302e312e30
-#EXTINF:-1 tvg-logo="https://www.kissfm.de/_nuxt/icons/icon_64.be8y2280000.png" group-title="german beats",98.8 Kiss FM German Beats
+#EXTINF:-1 tvg-logo="https://www.kissfm.de/_nuxt/icons/icon_64.be8y2280000.png" group-title="dance,beats",98.8 Kiss FM German Beats
 http://topradio-de-hz-fal-stream01-cluster01.radiohost.de/kissfm-germanbeats_mp3-128?ref=internetradio&amsparams=internetradio&listenerrmid=31363430303531363231-323030313a313966303a353030313a333261343a353430303a3266663a666533373a37356332-3530313338-53747265616d436865636b426f742f302e312e30
-#EXTINF:-1 tvg-logo="http://www.kissfm.de/_nuxt/icons/icon_64.be8y2280000.png" group-title="rnb",98.8 Kiss FM R'n'B
+#EXTINF:-1 tvg-logo="http://www.kissfm.de/_nuxt/icons/icon_64.be8y2280000.png" group-title="r'n'b,soul",98.8 Kiss FM R'n'B
 http://topradio-de-hz-fal-stream01-cluster01.radiohost.de/kissfm-rnb_mp3-128?ref=internetradio&amsparams=internetradio&listenerrmid=31363430303937353133-323030313a313966303a363830313a313964373a353430303a3266663a666537313a62646237-3333353936-53747265616d436865636b426f742f302e312e30
-#EXTINF:-1 tvg-logo="http://www.kissfm.de/_nuxt/icons/icon_64.be8y2280000.png" group-title="",98.8 Kiss FM Sextime
+#EXTINF:-1 tvg-logo="http://www.kissfm.de/_nuxt/icons/icon_64.be8y2280000.png" group-title="r'n'b,pop,urban",98.8 Kiss FM Sextime
 http://topradio-stream20.radiohost.de/kissfm-sextime_mp3-128?ref=internetradio&amsparams=internetradio&listenerrmid=31363430313030303733-323030313a313966303a363830313a313964373a353430303a3266663a666537313a62646237-3535333230-53747265616d436865636b426f742f302e312e30
 #EXTINF:-1 tvg-logo="http://www.kissfm.de/_nuxt/icons/icon_64.be8y2280000.png" group-title="rap,urban",98.8 Kiss FM Urban Beats
 http://topradio-stream21.radiohost.de/kissfm-urbanbeats_mp3-128?ref=internetradio&amsparams=internetradio&listenerrmid=31363430313038333130-323030313a313966303a363830313a313964373a353430303a3266663a666537313a62646237-3532353834-53747265616d436865636b426f742f302e312e30
 #EXTINF:-1 tvg-logo="http://www.radio-mittweida.de/favicon.ico" group-title="information,music,news",99drei Radio Mittweida
 http://netradio.ext.htwm.de:8000/live256
-#EXTINF:-1 tvg-logo="https://www.augsburg.tv/storage/thumbs/192x192/f:png/r:1610477804/118847.png" group-title="tv",a.tv Augsburg
-https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://top20radio.tv/favicon.ico" group-title="pop",aaa
+#EXTINF:-1 tvg-logo="https://top20radio.tv/favicon.ico" group-title="adult,alternative,rock",AAA
 http://server8.blitz-stream.de:9150/Listen.pls
-#EXTINF:-1 tvg-logo="https://top100station.de/wp-content/uploads/2018/05/AAA-Top-Music-Station_WEB-272x182.png" group-title="",AAA Top Music Station
+#EXTINF:-1 tvg-logo="https://top100station.de/wp-content/uploads/2018/05/AAA-Top-Music-Station_WEB-272x182.png" group-title="pop,top 40,hits",AAA Top Music Station
 http://substream.top100station.com/aaatopmusicstation.mp3
-#EXTINF:-1 tvg-logo="http://static.radio.net/images/broadcasts/4a/c4/20811/c300.png" group-title="",Absolut HOT
+#EXTINF:-1 tvg-logo="http://static.radio.net/images/broadcasts/4a/c4/20811/c300.png" group-title="top 40,charts,electro",Absolut HOT
 http://edge08.live-sm.absolutradio.de/absolut-hot?aggregator=RDQC_radioplayer_absolut-hot-mp3128&aggkey=radioplayer
-#EXTINF:-1 tvg-logo="" group-title="",Absolut music XL
+#EXTINF:-1 tvg-logo="https://www.absolutradio.de/images/stations/231_musicxl.png" group-title="pop,alternative,rock",Absolut musicXL
 https://edge03.live-sm.absolutradio.de/absolut-musicxl?aggregator=RDQC_stream.absolutradio.de_absolut-musicxl-aac64&aggkey=stream.absolutradio.de
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1743624879/Logo_Absolut_Radio_inkl_Schriftzug_2.jpg" group-title="pop,rnb,rock",Absolut Radio
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1743624879/Logo_Absolut_Radio_inkl_Schriftzug_2.jpg" group-title="pop,r'n'b,rock",Absolut
 http://edge07.live-sm.absolutradio.de/absolut-musicxl?aggregator=RDQC_stream.absolutradio.de_absolut-musicxl-mp3160&aggkey=stream.absolutradio.de
-#EXTINF:-1 tvg-logo="http://www.absolutradio.de/apple-touch-icon.png" group-title="",Absolut Radio - Hot
+#EXTINF:-1 tvg-logo="http://www.absolutradio.de/apple-touch-icon.png" group-title="top 40,charts,electro",Absolut HOT
 http://edge08.live-sm.absolutradio.de/absolut-hot?aggregator=RDQC__absolut-hot-mp3160&aggkey=
-#EXTINF:-1 tvg-logo="http://www.absolutradio.de/apple-touch-icon.png" group-title="",Absolut Radio - Hot
+#EXTINF:-1 tvg-logo="http://www.absolutradio.de/apple-touch-icon.png" group-title="top 40,charts,electro",Absolut HOT
 http://edge02.live-sm.absolutradio.de/absolut-hot?aggregator=RDQC__absolut-hot-mp3192&aggkey=
-#EXTINF:-1 tvg-logo="http://www.absolutradio.de/apple-touch-icon.png" group-title="",Absolut Radio - Relax
+#EXTINF:-1 tvg-logo="http://www.absolutradio.de/apple-touch-icon.png" group-title="easy listening,instrumental,relax",Absolut Relax
 http://edge54.live-sm.absolutradio.de/absolut-relax?aggregator=RDQC__absolut-relax-mp3192&aggkey=
-#EXTINF:-1 tvg-logo="http://www.absolutradio.de/apple-touch-icon.png" group-title="",Absolut Radio - Relax
+#EXTINF:-1 tvg-logo="http://www.absolutradio.de/apple-touch-icon.png" group-title="easy listening,instrumental,relax",Absolut Relax
 http://edge53.live-sm.absolutradio.de/absolut-relax?aggregator=RDQC__absolut-relax-mp3160&aggkey=
-#EXTINF:-1 tvg-logo="http://static.radio.net/images/broadcasts/28/5b/11593/c300.png" group-title="",Absolut Relax
+#EXTINF:-1 tvg-logo="http://static.radio.net/images/broadcasts/28/5b/11593/c300.png" group-title="easy listening,instrumental,relax",Absolut Relax
 http://absolut.hoerradar.de/absolutradio-relax-aac-48?sABC=5916qr05%230%231967977qnp14887r8nr8q9qopr2929r6%23fgernz.nofbyhgenqvb.qr&amsparams=playerid:stream.absolutradio.de;skey:1494670853
 #EXTINF:-1 tvg-logo="http://static.radio.net/images/broadcasts/28/5b/11593/c300.png" group-title="easy listening,instrumental,relax",Absolut Relax
 http://edge05.live-sm.absolutradio.de/absolut-relax?aggregator=RDQC_stream.absolutradio.de_absolut-relax-mp3192&aggkey=stream.absolutradio.de
-#EXTINF:-1 tvg-logo="https://tracks.absolutradio.de/cover/top/cover_big.jpg?1608757074" group-title="",Absolut Top
+#EXTINF:-1 tvg-logo="https://tracks.absolutradio.de/cover/top/cover_big.jpg?1608757074" group-title="hits,charts",Absolut TOP
 https://edge54.streamonkey.net/absolut-top?aggregator=radioplayer
-#EXTINF:-1 tvg-logo="http://static.radio.de/images/broadcasts/4a/c4/20811/c175.png" group-title="",Absolute Hot
+#EXTINF:-1 tvg-logo="http://static.radio.de/images/broadcasts/4a/c4/20811/c175.png" group-title="top 40,charts,electro",Absolute HOT
 http://absolut.hoerradar.de/absolutradio-hot-mp3-128?sABC=5n9r65n9%230%23870qr8345p87q413934r74os6675n6qp%23nofbyhgubg.qr&amsparams=playerid:absoluthot.de;skey:1520330153
-#EXTINF:-1 tvg-logo="https://absolutradio.de/apple-touch-icon.png" group-title="easy listning",absolute relax
+#EXTINF:-1 tvg-logo="https://absolutradio.de/apple-touch-icon.png" group-title="easy listening,instrumental,relax",Absolut Relax
 http://edge04.live-sm.absolutradio.de/absolut-relax?aggregator=RDQC_radiode_absolut-relax-mp3128&aggkey=radiode
-#EXTINF:-1 tvg-logo="http://abstrait.de/images/apple-touch-icon-9ee006.png" group-title="",Abstrait
+#EXTINF:-1 tvg-logo="http://abstrait.de/images/apple-touch-icon-9ee006.png" group-title="chillout,electro",abstrait
 http://abstrait.stream.laut.fm/abstrait?t302=2021-12-21_02-35-44&uuid=b248a288-14d5-4c0c-906e-9e6ff6cc6d3e
-#EXTINF:-1 tvg-logo="" group-title="80s,90s,charts,dance,electronic,pop",AC-PLUS
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/9/73539.v5.png" group-title="80s,90s,charts,top 40",AC-PLUS
 https://ac-plus.stream.laut.fm/ac-plus?t302=2021-12-21_19-21-14&uuid=2096a38f-f32a-4a71-b6b6-8b34b8bdbd71
-#EXTINF:-1 tvg-logo="" group-title="",Achjaradio
+#EXTINF:-1 tvg-logo="https://achjaradio.de/bilder_2023/achja_logo_quadrat.jpg" group-title="70s,oldies,top 40",AchjaRadio
 http://server7.streamserver24.com:28714/stream
-#EXTINF:-1 tvg-logo="http://www.acid-jazz-radio.de/logo-gruen.jpg" group-title="acid,acid jazz,dance",Acid Jazz Radio
+#EXTINF:-1 tvg-logo="http://www.acid-jazz-radio.de/logo-gruen.jpg" group-title="acid,jazz,dance",Acid Jazz Radio
 http://acidjazz.stream.laut.fm/acidjazz?t302=2021-12-21_16-16-36&uuid=e92aae83-3ae3-44b5-8d29-dd1dee29262c
-#EXTINF:-1 tvg-logo="https://adbt.it.cx/favicon.ico" group-title="classical,jpop,kpop,pop,rock,techno",ADBT Radio
+#EXTINF:-1 tvg-logo="https://adbt.it.cx/favicon.ico" group-title="classical,jpop,kpop",ADBT Radio
 http://217.79.181.61:8000/;
-#EXTINF:-1 tvg-logo="http://www.m945.de/images/logo_footer.png" group-title="afk,indie,munich,student radio",afk M94.5 (AAC HQ)
+#EXTINF:-1 tvg-logo="http://www.m945.de/images/logo_footer.png" group-title="indie,student",M94.5
 http://stream.m945.de/m945-hq.aac
-#EXTINF:-1 tvg-logo="http://www.m945.de/images/logo_footer.png" group-title="afk,indie,munich,student radio",afk M94.5 (AAC LQ)
+#EXTINF:-1 tvg-logo="http://www.m945.de/images/logo_footer.png" group-title="indie,student",M94.5
 http://stream.m945.de/m945-lq.aac
-#EXTINF:-1 tvg-logo="http://www.m945.de/images/logo_footer.png" group-title="afk,indie,munich,student radio",afk M94.5 (MP3 HQ )
+#EXTINF:-1 tvg-logo="http://www.m945.de/images/logo_footer.png" group-title="indie,student",M94.5
 http://stream.m945.de/m945-hq
-#EXTINF:-1 tvg-logo="http://www.m945.de/images/logo_footer.png" group-title="afk,indie,munich,student radio",afk M94.5 (MP3 LQ)
+#EXTINF:-1 tvg-logo="http://www.m945.de/images/logo_footer.png" group-title="indie,student",M94.5
 http://stream.m945.de/m945-lq
-#EXTINF:-1 tvg-logo="" group-title="",AFK Max Nürnberg
+#EXTINF:-1 tvg-logo="https://www.maxneo.de/wp-content/uploads/sites/4/2020/01/FB-Profilbild.jpg" group-title="rock,pop",AFK MAX 106.5
 http://stream.afkmax.de/afkmax-hq.mp3
-#EXTINF:-1 tvg-logo="http://www.afneurope.net/portals/100/Images/Bavaria_AFN360Revamped-01.png" group-title="american forces network",AFN 360 Bavaria
+#EXTINF:-1 tvg-logo="http://www.afneurope.net/portals/100/Images/Bavaria_AFN360Revamped-01.png" group-title="urban,top 40,charts",AFN 360 Bavaria
 https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_BAV_SC
-#EXTINF:-1 tvg-logo="http://www.afneurope.net/portals/100/Images/Kaiserslautern_AFN360Revamped-01.png" group-title="american forces network",AFN 360 Kaiserslautern
+#EXTINF:-1 tvg-logo="http://www.afneurope.net/portals/100/Images/Kaiserslautern_AFN360Revamped-01.png" group-title="urban,top 40,charts",AFN 360 Kaiserslautern
 https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_KTN_SC
-#EXTINF:-1 tvg-logo="http://www.afneurope.net/portals/100/Images/Spangdahlem_AFN360Revamped-01.png" group-title="american forces network",AFN 360 Spangdahlem
+#EXTINF:-1 tvg-logo="http://www.afneurope.net/portals/100/Images/Spangdahlem_AFN360Revamped-01.png" group-title="urban,top 40,charts",AFN 360 Spangdahlem
 https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_SPG_SC
-#EXTINF:-1 tvg-logo="http://www.afneurope.net/portals/100/Images/Stuttgart_AFN360Revamped-01.png" group-title="american forces network",AFN 360 Stuttgart
+#EXTINF:-1 tvg-logo="http://www.afneurope.net/portals/100/Images/Stuttgart_AFN360Revamped-01.png" group-title="urban,top 40,charts",AFN 360 Stuttgart
 https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_STU_SC
-#EXTINF:-1 tvg-logo="http://www.afneurope.net/portals/100/Images/Wiesbaden_AFN360Revamped-01.png" group-title="american forces network",AFN 360 Wiesbaden
+#EXTINF:-1 tvg-logo="http://www.afneurope.net/portals/100/Images/Wiesbaden_AFN360Revamped-01.png" group-title="urban,top 40,charts",AFN 360 Wiesbaden
 https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_WBN_SC
-#EXTINF:-1 tvg-logo="https://i3.radionomy.com/radios/400/79d4f12c-ecdc-4d8c-9a5f-e9142f09b694.png" group-title="deutschrock",AGF Radio
+#EXTINF:-1 tvg-logo="https://i3.radionomy.com/radios/400/79d4f12c-ecdc-4d8c-9a5f-e9142f09b694.png" group-title="deutschrock,metal,hard",AGF-Radio
 http://service.pop-stream.de:4000/;
-#EXTINF:-1 tvg-logo="" group-title="pop,rock",AGF-Radio - Deutsch-Rock
-http://service.pop-stream.de:4000/
-#EXTINF:-1 tvg-logo="" group-title="",Ahrtal Radio
-https://server3.streamserver-unlimited.de:8689/stream2?type=http&nocache=55
-#EXTINF:-1 tvg-logo="" group-title="stoner rock",Aircooled
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/2/44462.v2.png" group-title="stoner,rock",Aircooled
 http://aircooled.stream.laut.fm/aircooled?t302=2021-12-21_18-29-12&uuid=249852df-3185-493d-9fe7-76a1d2d8e852
-#EXTINF:-1 tvg-logo="http://akademieradio.de/favicon.ico" group-title="arts,culture,experimental,fine arts,live",Akademieradio
+#EXTINF:-1 tvg-logo="http://akademieradio.de/favicon.ico" group-title="arts,culture,experimental",Akademieradio
 https://akademieradio.de/play
-#EXTINF:-1 tvg-logo="" group-title="pop,rock",Akustik Weihnachten
+#EXTINF:-1 tvg-logo="https://www.radio.de/images/broadcasts/2b/a2/108193/4/c300.png" group-title="pop,rock",100% Akustik Weihnachten
 http://regiocast.streamabc.net/wmu-akustik-mp3-192-5827226?sABC=61p2065p%230%232qqpnss01895rqr0s8oq129o03s183o0%23&amsparams=playerid:;skey:1640105564
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Alex_Offener_Kanal_Berlin_Logo.svg/320px-Alex_Offener_Kanal_Berlin_Logo.svg.png" group-title="multicultural,world music",ALEX Offener Kanal Berlin
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Alex_Offener_Kanal_Berlin_Logo.svg/320px-Alex_Offener_Kanal_Berlin_Logo.svg.png" group-title="multicultural,world",ALEX Offener Kanal Berlin
 http://alex-radio.rosebud-media.de:8000/alex-radio.aac
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Alex_Offener_Kanal_Berlin_Logo.svg/320px-Alex_Offener_Kanal_Berlin_Logo.svg.png" group-title="",ALEX Offener Kanal Berlin
 http://alex-radio.rosebud-media.de:8000/alex-radio-low
