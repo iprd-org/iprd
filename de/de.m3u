@@ -1777,7 +1777,7 @@ http://d131.rndfnk.com/ard/dlf/03/mp3/128/stream.mp3?sid=22bXEXqSDs2ROtyXJXxots7
 https://d141.rndfnk.com/ard/dlf/03/opus/24/stream.opus?sid=22ZPB1OpLX3EFijRdWl7fw1vKje&token=mdVLw7Kd9rmHNq0wUsOSaAMb9FoiTXaa4d_o_e4JLhQ&tvf=NyH2wCatwhZkMTQxLnJuZGZuay5jb20
 #EXTINF:-1 tvg-logo="https://www.deutschlandfunknova.de//favicon-32x32.png" group-title="information,news,talk",Deutschlandfunk Nova
 https://d141.rndfnk.com/ard/dlf/03/opus/64/stream.opus?sid=22bF6OVIgMGzG2iY8Si0bzKms6a&token=f-8yUr84S3mUm6c_zNypgOep1YFwJ8JgC2obsLkqlSo&tvf=r3pWmkXgwhZkMTQxLnJuZGZuay5jb20
-#EXTINF:-1 tvg-logo="https://laut.fm/deutschrap" group-title="deutschrap,german rap,hip hop,rap",deutschrap
+#EXTINF:-1 tvg-logo="https://laut.fm/deutschrap" group-title="deutschrap,hip hop,rap",deutschrap
 http://deutschrap.stream.laut.fm/deutschrap?t302=2021-12-21_05-40-50&uuid=5cf9cce5-7c41-4ab6-8309-effa624b6f1c
 #EXTINF:-1 tvg-logo="https://laut.fm/assets/touch-icons/apple-touch-icon.png" group-title="deutschrap,hip hop,rap",Deutschrap-Deluxe von laut.fm
 http://deutschrap-deluxe.stream.laut.fm/deutschrap-deluxe?t302=2021-12-21_04-18-33&uuid=73446be7-2f0b-4a1b-9d5d-b8d32221869f
@@ -1899,109 +1899,107 @@ https://egofm-ais-edge-4002-fra-dtag-cdn.cast.addradio.de/egofm/flash/mp3/high/s
 http://egofm-ais-edge-4006-dus-dtag-cdn.cast.addradio.de/egofm/flash/mp3/high/stream.mp3?ar-distributor=ffa0&_art=dj0yJmlwPTk1LjE3OS4xMzkuMTA2JmlkPWljc2N4bC1zNm5vbmNubWImdD0xNjQwMTI3NTA4JnM9Nzg2NmYyOWMjY2M4OWMwYWVkMmZmZjVlZDBlNTNlYWYyMjI5YWJmYmI
 #EXTINF:-1 tvg-logo="https://www.egofm.de/content/images/stream/egofmflash/egofm-flash-og.png" group-title="electronic,indie",egoFLASH 
 http://egofm-ais-edge-400b-dus-dtag-cdn.cast.addradio.de/egofm/flash/aac/low/stream.aac?ar-distributor=ffa0&_art=dj0yJmlwPTkxLjEzMi4xNDUuMTE0JmlkPWljc2N4bC0zZm9vbmNubWImdD0xNjQwMTkyNDE1JnM9Nzg2NmYyOWMjZDY3NGI2NzVmOTRkYjhiZWZkMzU0NzRlYzJmZTdlMjU
-#EXTINF:-1 tvg-logo="" group-title="indie",egoFM
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/71/7d/5151/1/c300.png" group-title="electro,alternative,r'n'b",egoFM
 http://egofm-ais-edge-3001-fra-eco-cdn.cast.addradio.de/egofm/live/aac/low/stream.aac?ar-distributor=ffa0&_art=dj0yJmlwPTk1LjE3OS4xMzkuMTA2JmlkPWljc2N4bC11cW5vbmNubWImdD0xNjQwMTg5NTQ5JnM9Nzg2NmYyOWMjZDYxZDQ5YTkzZWU5ZWU2NGJjZjYwMTg4MWQxNDhjMjY
-#EXTINF:-1 tvg-logo="http://static.radio.de/images/broadcasts/71/7d/5151/1/c175.png" group-title="indie",egoFM
+#EXTINF:-1 tvg-logo="http://static.radio.de/images/broadcasts/71/7d/5151/1/c175.png" group-title="electro,alternative,r'n'b",egoFM
 http://egofm-ais-edge-3002-fra-eco-cdn.cast.addradio.de/egofm/live/mp3/high/stream.mp3?ar-distributor=ffa0&_art=dj0yJmlwPTkxLjEzMi4xNDUuMTE0JmlkPWljc2N4bC13am5vbmNubWImdD0xNjQwMTk2NTQ3JnM9Nzg2NmYyOWMjMTJiYTFkNWEwZjE4ODAwOWRlZjkxMGY5ZDFjYzJhOTg
-#EXTINF:-1 tvg-logo="https://player.egofm.de/radioplayer/img/egofm.svg" group-title="indie",egoFM
+#EXTINF:-1 tvg-logo="https://player.egofm.de/radioplayer/img/egofm.svg" group-title="electro,alternative,r'n'b",egoFM
 https://egofm-ais-edge-4006-dus-dtag-cdn.cast.addradio.de/egofm/live/mp3/high/stream.mp3?_art=dj0yJmlwPTk1LjE3OS4xMzkuMTA2JmlkPWljc2N4bC13am5vbmNubWImdD0xNjQwMTQzOTYyJnM9Nzg2NmYyOWMjZjQ1NDRlMDhhNjlkNmQxM2RkMGI3Mzc4N2VjYzU1Y2E
-#EXTINF:-1 tvg-logo="https://www.egofm.de/content/images/stream/egofm/egofm-live-og.png" group-title="alternative,electronic,hiphop,indie,rap",egoFM
+#EXTINF:-1 tvg-logo="https://www.egofm.de/content/images/stream/egofm/egofm-live-og.png" group-title="alternative,electronic,hip hop",egoFM
 https://egofm-ais-edge-3006-fra-eco-cdn.cast.addradio.de/egofm/live/mp3/high/stream.mp3?ar-distributor=f0a2&_art=dj0yJmlwPTk1LjE3OS4xMzkuMTA2JmlkPWljc2N4bC13am5vbmNubWImdD0xNjQwMTI5NDMzJnM9Nzg2NmYyOWMjMzNhYTA3NTVlODRhMWM3YTkxZjgyZTNlM2Q0MTlmMjE
-#EXTINF:-1 tvg-logo="https://www.egofm.de/content/images/stream/50fresh-fm/egofm-streams-50fresh-fm.jpg" group-title="egofm",egofm 50fresh
+#EXTINF:-1 tvg-logo="https://www.egofm.de/content/images/stream/50fresh-fm/egofm-streams-50fresh-fm.jpg" group-title="dance,electronic,pop",50fresh ELEKTRO
 https://cast.egofm.de/50fresh.mp3?ar-distributor=ffa0
-#EXTINF:-1 tvg-logo="https://streams.egofm.de/img/egofm-App2019_0022_Ebenenkomp.-11_BaWü Stream-288.png" group-title="",egoFM BW
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/61/f0/118706/1/c300.png" group-title="electro,alternative,r'n'b",egoFM BW
 http://cast.egofm.de/egofmbw.aac?ar-distributor=ffa0
-#EXTINF:-1 tvg-logo="https://www.egofm.de//templates/main/favicon.ico" group-title="classic rock",egoFM Chillout
+#EXTINF:-1 tvg-logo="https://www.egofm.de//templates/main/favicon.ico" group-title="classic,rock",egoFM Chillout
 https://cast.egofm.de/egofmchillout.mp3
-#EXTINF:-1 tvg-logo="https://www.strandbeben.de/fileadmin/user_upload/egoFM_Logo.png" group-title="chillout",egofm Chillout
+#EXTINF:-1 tvg-logo="https://www.strandbeben.de/fileadmin/user_upload/egoFM_Logo.png" group-title="chillout,ambient",egofm Chillout
 https://cast.egofm.de/egofmchillout.mp3?ar-distributor=ffa0
-#EXTINF:-1 tvg-logo="https://streams.egofm.de/img/APP Patch_CHILLOUT_500px.png" group-title="",egoFM CHILLOUT (aac)
+#EXTINF:-1 tvg-logo="https://streams.egofm.de/img/APP Patch_CHILLOUT_500px.png" group-title="chillout,ambient",egoFM Chillout
 http://cast.egofm.de/egofmchillout.aac?ar-distributor=ffa0
-#EXTINF:-1 tvg-logo="https://www.egofm.de/images/site/logo.svg" group-title="classic rock",egoFM Fame
+#EXTINF:-1 tvg-logo="https://www.egofm.de/images/site/logo.svg" group-title="classic,rock",egoFM Fame
 https://cast.egofm.de/egofmhalloffame.mp3?ar-distributor=ffa0
-#EXTINF:-1 tvg-logo="https://www.egofm.de/images/site/logo.svg" group-title="classic rock",egoFM Fame
+#EXTINF:-1 tvg-logo="https://www.egofm.de/images/site/logo.svg" group-title="classic,rock",egoFM Fame
 http://cast.egofm.de/egofmhalloffame.mp3?ar-distributor=ffa0
-#EXTINF:-1 tvg-logo="https://www.egofm.de//templates/main/favicon.ico" group-title="classic rock",egoFM Fame
+#EXTINF:-1 tvg-logo="https://www.egofm.de//templates/main/favicon.ico" group-title="classic,rock",egoFM Fame
 https://cast.egofm.de/egofmhalloffame.mp3
-#EXTINF:-1 tvg-logo="https://streams.egofm.de/img/egofm-App2019_0001_Ebenenkomp.-2-288.png" group-title="",egoFM FLASH (aac)
+#EXTINF:-1 tvg-logo="https://streams.egofm.de/img/egofm-App2019_0001_Ebenenkomp.-2-288.png" group-title="electro,house,minimal",egoFLASH
 http://egofm-ais-edge-3007-fra-eco-cdn.cast.addradio.de/egofm/flash/aac/low/stream.aac?ar-distributor=ffa0&_art=dj0yJmlwPTkxLjEzMi4xNDUuMTE0JmlkPWljc2N4bC0zZm9vbmNubWImdD0xNjQwMTc4NDgyJnM9Nzg2NmYyOWMjZWFlMzViYzBjODRlODY2MDM3YTZlOWM0YTAyOGZiZmM
-#EXTINF:-1 tvg-logo="https://www.egofm.de//templates/main/favicon.ico" group-title="classic rock",egoFM Jazz
+#EXTINF:-1 tvg-logo="https://www.egofm.de//templates/main/favicon.ico" group-title="blues,jazz",egoFM Jazz
 https://cast.egofm.de/egofmjazz.mp3
-#EXTINF:-1 tvg-logo="" group-title="hiphop,rap",egoFM Rap
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/71/7d/5151/1/c300.png" group-title="hip hop,rap",egoFM Rap
 http://egofm-ais-edge-3006-fra-eco-cdn.cast.addradio.de/egofm/rap/mp3/high/stream.mp3?_art=dj0yJmlwPTk1LjE3OS4xMzkuMTA2JmlkPWljc2N4bC1qbGFrNHM1a2ImdD0xNjQwMTk5ODQ0JnM9Nzg2NmYyOWMjMGM3MGNiYzUzOWQxZTMzZGE3MjdkMTA5OTczOTI1MmE
-#EXTINF:-1 tvg-logo="https://www.egofm.de/content/images/stream/egofm-seewald/egofm-streams-seewald.jpg" group-title="egofm",egoFM SEEWALD
+#EXTINF:-1 tvg-logo="https://www.egofm.de/content/images/stream/egofm-seewald/egofm-streams-seewald.jpg" group-title="pop,alternative",egoFM SEEWALD
 https://cast.egofm.de/egofmseewald.mp3?ar-distributor=ffa0
-#EXTINF:-1 tvg-logo="https://player.egofm.de/radioplayer/img/favicon.ico" group-title="snow",egoFM Snow
+#EXTINF:-1 tvg-logo="https://player.egofm.de/radioplayer/img/favicon.ico" group-title="relax,chillout",egoFM SNOW
 https://egofm-ais-edge-4008-fra-dtag-cdn.cast.addradio.de/egofm/snow/mp3/high/stream.mp3?ar-distributor=ffa0&_art=dj0yJmlwPTk1LjE3OS4xMzkuMTA2JmlkPWljc2N4bC1vdnFvbmNubWImdD0xNjQwMTMzNzAwJnM9Nzg2NmYyOWMjNDVhZTQ0NDdkYjlmNjFlNjE1NDUxY2JmYzAyYTY0ZDE
-#EXTINF:-1 tvg-logo="" group-title="",egoFM Soul
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/0e/12/36206/1/c300.png" group-title="soul,r'n'b",egoFM Soul
 http://egofm-ais-edge-3001-fra-eco-cdn.cast.addradio.de/egofm/soul/mp3/high/stream.mp3?_art=dj0yJmlwPTkxLjEzMi4xNDUuMTE0JmlkPWljc2N4bC0yaWZrdDYzamImdD0xNjQwMTQwNDk4JnM9Nzg2NmYyOWMjMmM5ODk3NDJlNjQzZDM5MWU0NmIzZDc5YjI1YmI2OGI
-#EXTINF:-1 tvg-logo="" group-title="",egoFM Soundtrack
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVtM_L5NZ91Vr8aymRSb4uwNzfcMMeGQ9lzDxt1lG8Ig&s" group-title="soundtrack,ambient",egoFM Soundtrack
 https://cast.egofm.de/egofmsoundtrack.mp3
-#EXTINF:-1 tvg-logo="https://www.egofm.de/content/images/stream/egofmpure/egofm-pure-og.png" group-title="alternative,augsburg,ego,egopure,ingolstadt,münchen,nürnberg,regensburg",egoPURE
+#EXTINF:-1 tvg-logo="https://www.egofm.de/content/images/stream/egofmpure/egofm-pure-og.png" group-title="alternative,electronic,indie",egoPURE
 http://egofm-ais-edge-4004-dus-dtag-cdn.cast.addradio.de/egofm/pure/mp3/high/stream.mp3?ar-distributor=ffa0&_art=dj0yJmlwPTQ1Ljc3LjYyLjE2MSZpZD1pY3NjeGwtdnRvb25jbm1iJnQ9MTY0MDEzMjMwNiZzPTc4NjZmMjljIzExOGRlN2ViMjhmNDk1ZDlkOTRlMWIxNjNlMDViYjJj
-#EXTINF:-1 tvg-logo="https://www.egofm.de/content/images/stream/egofmpure/egofm-pure-og.png" group-title="rock,unplugged",egoPURE
+#EXTINF:-1 tvg-logo="https://www.egofm.de/content/images/stream/egofmpure/egofm-pure-og.png" group-title="rock,unplugged,live",egoPURE
 https://egofm-ais-edge-400b-dus-dtag-cdn.cast.addradio.de/egofm/pure/mp3/high/stream.mp3?ar-distributor=f0a2&_art=dj0yJmlwPTkxLjEzMi4xNDUuMTE0JmlkPWljc2N4bC12dG9vbmNubWImdD0xNjQwMTMzOTYzJnM9Nzg2NmYyOWMjNGJhMjY3MjJiYjBjYjFiZDAwOTJjNDFlZmY3NDUwMjA
-#EXTINF:-1 tvg-logo="https://www.egofm.de/content/images/stream/egorap/egofm-rap-og.png" group-title="classic hip hop,hiphop,rap",egoRAP
+#EXTINF:-1 tvg-logo="https://www.egofm.de/content/images/stream/egorap/egofm-rap-og.png" group-title="classic,hip hop,rap",egoRAP
 https://egofm-ais-edge-3001-fra-eco-cdn.cast.addradio.de/egofm/rap/mp3/high/stream.mp3?ar-distributor=f0a2&_art=dj0yJmlwPTk1LjE3OS4xMzkuMTA2JmlkPWljc2N4bC02anBvbmNubWImdD0xNjQwMTkwMTk3JnM9Nzg2NmYyOWMjM2M0NmQzODhkNTRiMTgxM2U2YTdhODNjMWZjZTk2Njc
-#EXTINF:-1 tvg-logo="https://www.egofm.de/content/images/stream/egofmriff/egofm-riff-og.png" group-title="alternative rock,pop rock,rock",egoRIFF
+#EXTINF:-1 tvg-logo="https://www.egofm.de/content/images/stream/egofmriff/egofm-riff-og.png" group-title="alternative,rock,pop",egoRIFF
 https://egofm-ais-edge-3001-fra-eco-cdn.cast.addradio.de/egofm/riff/mp3/high/stream.mp3?ar-distributor=f0a2&_art=dj0yJmlwPTk1LjE3OS4xMzkuMTA2JmlkPWljc2N4bC1pYXFvbmNubWImdD0xNjQwMTM5ODgxJnM9Nzg2NmYyOWMjZWFlMmM1NTU4ZjU4ZWJlNTkzYWQ4MmIzNTdhZmFlNzQ
 #EXTINF:-1 tvg-logo="https://www.egofm.de/content/images/stream/egosnow/egofm-snow-og.png" group-title="alternative,indie,rock",egoSNOW
 https://egofm-ais-edge-4001-fra-dtag-cdn.cast.addradio.de/egofm/snow/mp3/high/stream.mp3?ar-distributor=f0a2&_art=dj0yJmlwPTk1LjE3OS4xMzkuMTA2JmlkPWljc2N4bC1vdnFvbmNubWImdD0xNjQwMTg5NTQzJnM9Nzg2NmYyOWMjMDBkMDJmNDY2NDdmNzc3MjJiODc1MWQyYjJmNDlhM2E
-#EXTINF:-1 tvg-logo="https://www.egofm.de/content/images/stream/egofmsoul/egofm-soul-og.png" group-title="soul",egoSOUL
+#EXTINF:-1 tvg-logo="https://www.egofm.de/content/images/stream/egofmsoul/egofm-soul-og.png" group-title="soul,disco,r'n'b",egoSOUL
 https://egofm-ais-edge-400c-dus-dtag-cdn.cast.addradio.de/egofm/soul/mp3/high/stream.mp3?ar-distributor=f0a2&_art=dj0yJmlwPTkxLjEzMi4xNDUuMTE0JmlkPWljc2N4bC1oaXJvbmNubWImdD0xNjQwMTg0NTMyJnM9Nzg2NmYyOWMjMTQzNjNjYWRhMDJmMGE3OTliNjI3OTc4NDM5MWM4ZWM
-#EXTINF:-1 tvg-logo="https://www.egofm.de/content/images/stream/egofmsun/egofm-sun-og.png" group-title="alternative,indie,reggae,rock",egoSUN
+#EXTINF:-1 tvg-logo="https://www.egofm.de/content/images/stream/egofmsun/egofm-sun-og.png" group-title="alternative,indie,reggae",egoSUN
 https://egofm-ais-edge-3001-fra-eco-cdn.cast.addradio.de/egofm/sun/mp3/high/stream.mp3?ar-distributor=f0a2&_art=dj0yJmlwPTk1LjE3OS4xMzkuMTA2JmlkPWljc2N4bC15NHJvbmNubWImdD0xNjQwMTk3MzEzJnM9Nzg2NmYyOWMjOTczMmRkNmM3OTMwMzBmYTMxZjZiYmM4YWRhMDZhMDE
-#EXTINF:-1 tvg-logo="https://www.eldoradio.de/sites/default/files/favicon.ico" group-title="alternative,dortmund,university radio",eldoradio* Technische Universitat Dortmund
+#EXTINF:-1 tvg-logo="https://www.eldoradio.de/sites/default/files/favicon.ico" group-title="alternative,university",eldoradio
 http://sender.eldoradio.de:8000/192
-#EXTINF:-1 tvg-logo="" group-title="",elduderadio
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/3/58913.v4.png" group-title="dance,electronic,rock",El Dude Radio
 https://elduderadio.stream.laut.fm/elduderadio?t302=2021-12-21_03-24-40&uuid=5aaf37ca-a648-4335-b43e-a1050a6191a1
-#EXTINF:-1 tvg-logo="" group-title="edm,electro,ibiza",electric-circus
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/3d/06/3d06ca926fa20358e97c38b48ea398b3.jpg" group-title="edm,electro,ibiza",electric-circus
 http://electric-circus.stream.laut.fm/electric-circus?t302=2018-03-12_09-25-29&uuid=aeadb32f-c8c9-4626-a879-02915edff866
-#EXTINF:-1 tvg-logo="https://www.electroswing-radio.com/wp-content/uploads/2017/06/Favico-1.png" group-title="",Electro Swing Revolution
+#EXTINF:-1 tvg-logo="https://www.electroswing-radio.com/wp-content/uploads/2017/06/Favico-1.png" group-title="dance,electronic,jazz",Electro Swing Revolution
 https://streamer.radio.co/s2c3cc784b/listen
-#EXTINF:-1 tvg-logo="" group-title="dance,electronic",electronic music club
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/eb/c0/9178/2/c300.png" group-title="dance,electronic",Electronic Music Club
 http://emc.stream.laut.fm/emc?t302=2021-12-21_15-44-54&uuid=6de90288-f69d-4707-a9d1-97839eb7b3f5
-#EXTINF:-1 tvg-logo="https://electrozombies.com/wp-content/uploads/2015/09/electrozombies_icon.jpg" group-title="darkwave,ebm,electropop,futurepop,gothic,industrial,new wave,synthpop",ElectroZombies
+#EXTINF:-1 tvg-logo="https://electrozombies.com/wp-content/uploads/2015/09/electrozombies_icon.jpg" group-title="darkwave,ebm,electropop",ElectroZombies
 http://electrozombies.stream.laut.fm/electrozombies?t302=2021-12-21_02-42-35&uuid=f829707f-f917-4ec8-82d6-8b641e79f803
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/1/43221.v1.png" group-title="electronic",Electrozombies
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/1/43221.v1.png" group-title="electronic,drum,bass",Electrozombies
 https://electrozombies.stream.laut.fm/electrozombies
-#EXTINF:-1 tvg-logo="" group-title="abstract,ambient,broken beat,dubstep,glitch,idm",Elektronisch Querbeat
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/cc/06/cc06f887cb77c1e58ee17c880a7378d8.jpg" group-title="abstract,ambient,dubstep",Elektronisch Querbeat
 http://elektronischquerbeat.stream.laut.fm/elektronisch_querbeat?t302=2021-12-21_15-00-22&uuid=db71cb94-9fe6-4dfa-9a50-20ca966e185a
-#EXTINF:-1 tvg-logo="https://i.imgur.com/E1iVdwU.png" group-title="local,oldies",Elsterwelle
-http://radioelsterwelle.mp3.green.ch/elsterwelle.mp3
-#EXTINF:-1 tvg-logo="" group-title="",Elvis Junkie
+#EXTINF:-1 tvg-logo="https://www.allradio.net/500/lsOyakgZE2dGR1qVOB2tF.webp" group-title="oldies,hits",Elvisjunkie
 http://elvisjunkie.stream.laut.fm/elvisjunkie?pl=m3u&t302=2021-12-21_19-39-20&uuid=1b9310dd-c6ec-45e4-b31f-f86070337fad
-#EXTINF:-1 tvg-logo="https://www.ems-vechte-welle.de/favicon.ico" group-title="",Ems-Vechte-Welle
+#EXTINF:-1 tvg-logo="https://www.ems-vechte-welle.de/favicon.ico" group-title="pop,local",Ems-Vechte-Welle
 http://live.radio-aktiv.de/evw.mp3
-#EXTINF:-1 tvg-logo="https://www.energy.de/sites/all/themes/zen_energy/images/ENERGY_Logo_Nuernberg.jpg" group-title="top 40",Energy (NRJ) Nürnberg
+#EXTINF:-1 tvg-logo="https://www.energy.de/sites/all/themes/zen_energy/images/ENERGY_Logo_Nuernberg.jpg" group-title="top 40,hits",Energy NRJ Nürnberg
 https://f5-th2-2.nrjaudio.fm/de/33011/mp3_128.mp3?cdn_path=adswizz_lbs11&adws_out_a1&access_token=f39cb2408bf64458ab1a86313a741fbe
-#EXTINF:-1 tvg-logo="http://www.energy.de/sites/all/themes/zen_energy/images/ENERGY_Logo_Bremen.jpg" group-title="",Energy Bremen (NRJ)
+#EXTINF:-1 tvg-logo="http://www.energy.de/sites/all/themes/zen_energy/images/ENERGY_Logo_Bremen.jpg" group-title="top 40,hits",Energy NRJ Bremen
 http://ffn-de-hz-fal-stream07-cluster01.radiohost.de/energybremen_mp3-192?listenerrmid=31363430303938333439-326130333a343030303a33373a34323a633466653a346366663a666561373a38393431-3438323732-53747265616d436865636b426f742f302e312e30
-#EXTINF:-1 tvg-logo="http://www.energy.de/sites/all/themes/zen_energy/images/ENERGY_Logo_Hamburg.jpg" group-title="contemporary hits,hamburg,top 40",Energy Hamburg (NRJ) 97,1
+#EXTINF:-1 tvg-logo="http://www.energy.de/sites/all/themes/zen_energy/images/ENERGY_Logo_Hamburg.jpg" group-title="contemporary,hits,top 40",Energy NRJ Hamburg 97.1
 http://185.52.127.170/de/33009/mp3_128.mp3?adws_out_b1&access_token=fee9a920cf434effae79c56cb3f0492c
-#EXTINF:-1 tvg-logo="http://www.energy.de/sites/all/themes/zen_energy/images/ENERGY_Logo_Muenchen.jpg" group-title="",Energy München (NRJ) 93,3
+#EXTINF:-1 tvg-logo="http://www.energy.de/sites/all/themes/zen_energy/images/ENERGY_Logo_Muenchen.jpg" group-title="contemporary,hits,top 40",Energy NRJ München 93.3
 http://185.52.127.170/de/33003/mp3_128.mp3?adws_out_b1&access_token=71e7f81996014d8aa7c8e31c171e8efd
 #EXTINF:-1 tvg-logo="http://www.energy.de/sites/all/themes/zen_energy/images/ENERGY_LOGO_ACOUSTIC_HITS.png" group-title="acoustic,hits",Energy NRJ Acoustic Hits
 http://185.52.127.131/de/33051/mp3_128.mp3?adws_out_a1&access_token=fb532940372a4ac1bf9f361fd59e9c4b
-#EXTINF:-1 tvg-logo="" group-title="club",Energy NRJ Clubbin'
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/9d/7f/22538/2/c300.png" group-title="club,house,electro",Energy NRJ Clubbin'
 http://185.52.127.170/de/33023/mp3_128.mp3?adws_out_b2&access_token=df8c86d2d2614bcc8f82fa5f40ddc246
-#EXTINF:-1 tvg-logo="" group-title="dance",Energy NRJ Dance
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/56/37/6884/2/c300.png" group-title="dance,electronic",Energy NRJ Dance
 http://185.52.127.157/de/33015/mp3_128.mp3?adws_out_a1&access_token=9727258416a4492c9951e693a8944864
-#EXTINF:-1 tvg-logo="https://www.energy.de/webradio/ENERGY_LOGO_DEUTSCHRAP.png" group-title="",Energy NRJ Deurschrap
+#EXTINF:-1 tvg-logo="https://www.energy.de/webradio/ENERGY_LOGO_DEUTSCHRAP.png" group-title="rap,r'n'b",Energy NRJ Deutsch Rap
 https://f5-pa6.nrjaudio.fm/de/56369/mp3_128.mp3?origine=wlan&cdn_path=adswizz_lbs10&adws_out_b3&access_token=8149b2995f534dd484e64a92086e7911
-#EXTINF:-1 tvg-logo="" group-title="fitness,workout",Energy NRJ Fitness
+#EXTINF:-1 tvg-logo="https://ca.radio.net/images/broadcasts/2e/dc/22547/2/c300.png" group-title="fitness,workout",Energy NRJ Fitness
 http://185.52.127.170/de/33047/mp3_128.mp3?adws_out_b3&access_token=2b1403453cd24236a33b4338663d0b40
-#EXTINF:-1 tvg-logo="http://www.energy.de/sites/all/themes/zen_energy/images/ENERGY_LOGO_HITS.png" group-title="hits",Energy NRJ Hits
+#EXTINF:-1 tvg-logo="http://www.energy.de/sites/all/themes/zen_energy/images/ENERGY_LOGO_HITS.png" group-title="hits,pop",Energy NRJ Hits
 http://185.52.127.131/de/33019/mp3_128.mp3?adws_out_a1&access_token=b7b538ce327c42fe80e64985dff85a03
-#EXTINF:-1 tvg-logo="https://www.energy.de/webradio/ENERGY_LOGO_HITS_2000.png" group-title="",Energy NRJ Hits 2000
+#EXTINF:-1 tvg-logo="https://www.energy.de/webradio/ENERGY_LOGO_HITS_2000.png" group-title="hits,pop",Energy NRJ Hits 2000
 https://f5-pa6.nrjaudio.fm/de/56218/mp3_128.mp3?origine=wlan&cdn_path=adswizz_lbs10&adws_out_b2&access_token=cc40978ff44244278784350956ef6861
-#EXTINF:-1 tvg-logo="https://www.energy.de/webradio/ENERGY_LOGO_HOME_OFFICE.png" group-title="",ENERGY NRJ Homeoffice
+#EXTINF:-1 tvg-logo="https://www.energy.de/webradio/ENERGY_LOGO_HOME_OFFICE.png" group-title="chillout,ambient,easy listening",Energy NRJ Homeoffice
 https://f5-th2-2.nrjaudio.fm/de/33057/mp3_128.mp3?origine=wlan?&cdn_path=adswizz_lbs11&adws_out_a2&access_token=41c361e45f3b4c4185f8d162d95f1a72
-#EXTINF:-1 tvg-logo="http://www.energy.de/sites/all/themes/zen_energy/images/ENERGY_LOGO_LATINO.png" group-title="latino",Energy NRJ Latino
+#EXTINF:-1 tvg-logo="http://www.energy.de/sites/all/themes/zen_energy/images/ENERGY_LOGO_LATINO.png" group-title="latino,dance",Energy NRJ Latino
 http://185.52.127.157/de/33069/mp3_128.mp3?adws_out_a2&access_token=3b98eae008bc4e65997943cff824ad1e
-#EXTINF:-1 tvg-logo="" group-title="chillout,club",Energy NRJ Lounge
+#EXTINF:-1 tvg-logo="https://images.radio.orange.com/radios/large_nrj_energy_lounge_germany.png" group-title="chillout,club",Energy NRJ Lounge
 http://185.52.127.170/de/33029/mp3_128.mp3?adws_out_b1&access_token=1a8524edb4d64eae8ea55427c373e866
-#EXTINF:-1 tvg-logo="http://www.energy.de/sites/all/themes/zen_energy/images/ENERGY_LOGO_LOVE.png" group-title="love songs",Energy NRJ Love
+#EXTINF:-1 tvg-logo="http://www.energy.de/sites/all/themes/zen_energy/images/ENERGY_LOGO_LOVE.png" group-title="love,ballads",Energy NRJ Love
 http://185.52.127.170/de/33049/mp3_128.mp3?adws_out_b3&access_token=8f7216610f6c4e25a4f5e282d998a5e4
 #EXTINF:-1 tvg-logo="https://www.energy.de/webradio/ENERGY_LOGO_MADE_IN_GERMANY.png" group-title="pop music",Energy NRJ MadeInGermany
 https://f5-th2-2.nrjaudio.fm/de/56370/mp3_128.mp3?origine=wlan&cdn_path=adswizz_lbs9&adws_out_a3&access_token=cc1d7533d4ab4ffd89a073e339f4dc07
