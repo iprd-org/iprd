@@ -305,6 +305,8 @@ http://stream.radio1.ch/128k.m3u
 https://radio.netstream.ch/128k
 #EXTINF:-1 tvg-logo="https://www.radio1.ch/templates/web/img/fallback.jpg" group-title="pop,rock",Radio 1 93.6
 http://radio.nello.tv/128k
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/eb/ea/12475/3/c300.png" group-title="pop,rock",Radio 1 Music Only
+http://radio.netstream.ch/radio1web1_192k_mp3
 #EXTINF:-1 tvg-logo="https://ch.az-cdn.ch/static/1.220.1/radio24/device-icons/48x48.png" group-title="hits,news,pop",Radio 24
 http://icecast.radio24.ch/radio24
 #EXTINF:-1 tvg-logo="https://ch.az-cdn.ch/static/1.218.0/radio24/device-icons/48x48.png" group-title="ballads,top 40,hits,pop,rock,trap",Radio 24 Countdown
