@@ -4699,19 +4699,19 @@ http://radio-paralax.de:8000/
 http://webstream.radio-plassenburg.de/radio-plassenburg.mp3
 #EXTINF:-1 tvg-logo="https://radio-pmevents.de/images/radio_klein.jpg" group-title="schlager,oldies,folk",Radio PM Events
 https://server7.streamserver24.com:61414/;stream.mp3
-#EXTINF:-1 tvg-logo="https://www.wix.com/favicon.ico" group-title="",Radio popEXPRESS
+#EXTINF:-1 tvg-logo="https://www.wix.com/favicon.ico" group-title="80s,90s,pop",Radio popEXPRESS
 https://s5.radioforge.com:4272/popEXPRESS
-#EXTINF:-1 tvg-logo="https://www.radioprimaton.de/wp-content/uploads/2018/08/favicon-32x32.png" group-title="franken,information,kult,news,pop,talk",Radio Primaton
+#EXTINF:-1 tvg-logo="https://www.radioprimaton.de/wp-content/uploads/2018/08/favicon-32x32.png" group-title="franken,information,kult",Radio Primaton
 http://primaton-ais-edge-3003-fra-eco-cdn.cast.addradio.de/primaton/live/mp3/high?_art=dj0yJmlwPTkxLjEzMi4xNDUuMTE0JmlkPWljc2N4bC11cWJzZWxwZ2ImdD0xNjQwMTkxNzc4JnM9Nzg2NmYyOWMjNTZlMDQxZDViYWFiODZiOWFkODFmMzg5MzIyODg0YTI
-#EXTINF:-1 tvg-logo="https://s3.eu-central-1.amazonaws.com/radiopsr.de/styles/logo.png" group-title="",Radio PSR
+#EXTINF:-1 tvg-logo="https://s3.eu-central-1.amazonaws.com/radiopsr.de/styles/logo.png" group-title="pop,80s,90s",Radio PSR
 https://psr.hoerradar.de/psr-live-mp3-hq?sABC=5o6369ps%230%234q6nnqq39or2s5ropn3n5roon0pn505p%23ubzrcntr&context=fHA6LTE=&amsparams=playerid:homepage;skey:1533241807
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7lD9y2a.jpgch-icon_192x192.png" group-title="mainstream music,ohne zusätzliche werbung",Radio PSR
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7lD9y2a.jpgch-icon_192x192.png" group-title="pop,80s,90s",Radio PSR
 http://regiocast.hoerradar.de/psr128?sABC=5no12o84#0#22s14q98os161426q40sr5q59s0s221s#yvfgrayvir&amsparams=playerid:listenlive;skey:1521560708
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7lD9y2a.jpgch-icon_192x192.png" group-title="adult contemporary,schlager",Radio PSR
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7lD9y2a.jpgch-icon_192x192.png" group-title="adult,contemporary,schlager",Radio PSR
 http://regiocast.hoerradar.de/psr-live-mp3-hq
-#EXTINF:-1 tvg-logo="http://www.radiopsr.de/_nuxt/icons/icon_64.cawac0w0200.png" group-title="80s",Radio PSR 80er
+#EXTINF:-1 tvg-logo="http://www.radiopsr.de/_nuxt/icons/icon_64.cawac0w0200.png" group-title="80s,80er,hits",Radio PSR 80er
 http://regiocast.hoerradar.de/psr-80er-mp3-hq
-#EXTINF:-1 tvg-logo="http://www.radiopsr.de/_nuxt/icons/icon_64.cawac0w0200.png" group-title="90s",Radio PSR 90er
+#EXTINF:-1 tvg-logo="http://www.radiopsr.de/_nuxt/icons/icon_64.cawac0w0200.png" group-title="90s,90er,hits",Radio PSR 90er
 http://regiocast.hoerradar.de/psr-90er-mp3-hq
 #EXTINF:-1 tvg-logo="http://www.radiopsr.de/_nuxt/icons/icon_64.cawac0w0200.png" group-title="pop,top 40",Radio PSR Chartbreaker
 http://regiocast.hoerradar.de/psr-chartbreaker-mp3-hq
@@ -4721,85 +4721,85 @@ http://regiocast.hoerradar.de/psr-partymix-mp3-hq
 http://regiocast.hoerradar.de/psr-sachsensongs-mp3-hq
 #EXTINF:-1 tvg-logo="http://www.radiopsr.de/_nuxt/icons/icon_64.cawac0w0200.png" group-title="comedy,talk",Radio PSR Sinnlos-Telefon
 http://regiocast.hoerradar.de/psr-sinnlostelefon-mp3-hq
-#EXTINF:-1 tvg-logo="http://www.radiopsr.de/_nuxt/icons/icon_64.cawac0w0200.png" group-title="hits",Radio PSR Sommerhits
+#EXTINF:-1 tvg-logo="http://www.radiopsr.de/_nuxt/icons/icon_64.cawac0w0200.png" group-title="hits,pop",Radio PSR Sommerhits
 http://regiocast.hoerradar.de/psr-sommerhits-mp3-hq
-#EXTINF:-1 tvg-logo="http://www.radiopsr.de/_nuxt/icons/icon_64.cawac0w0200.png" group-title="christmas music",Radio PSR Weihnachts-Superhits
+#EXTINF:-1 tvg-logo="http://www.radiopsr.de/_nuxt/icons/icon_64.cawac0w0200.png" group-title="christmas,weihnachten",Radio PSR Weihnachts-Superhits
 http://regiocast.hoerradar.de/psr-event01-mp3-hq
-#EXTINF:-1 tvg-logo="" group-title="celtic,folk,gothic,medieval,mittelalter",Radio Rabenwind
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXiwcbvD3-0M2z9gjFGVgTWJjSrgUdANoOGb3VTSbo&s" group-title="celtic,folk,gothic",Radio Rabenwind
 http://rabenwind.stream.laut.fm/rabenwind?t302=2021-12-21_03-57-22&uuid=f5b3ef6f-212c-4b3b-8e18-b3b7c0082166
-#EXTINF:-1 tvg-logo="https://radio-radeberg.org/favicon.ico" group-title="",Radio Radeberg
+#EXTINF:-1 tvg-logo="https://radio-radeberg.org/favicon.ico" group-title="variety,hits",Radio Radeberg
 http://streamplus52.leonex.de:10188/
-#EXTINF:-1 tvg-logo="" group-title="",Radio Rakete
+#EXTINF:-1 tvg-logo="https://www.radio.de/images/broadcasts/6b/d8/127328/2/c300.png" group-title="rock,metal,deutsch",Radio Rakete
 https://www.radiorakete.de:8443/airtime_128
-#EXTINF:-1 tvg-logo="http://www.radio-reeperbahn.de/favicon.ico" group-title="hits,top 40",RADIO Reeperbahn
+#EXTINF:-1 tvg-logo="http://www.radio-reeperbahn.de/favicon.ico" group-title="hits,top 40",Radio Reeperbahn
 http://mp3.radio-reeperbahn.de/reeperbahn.mp3
-#EXTINF:-1 tvg-logo="http://cdn.regenbogen.de/sites/all/themes/regenbogen/assets/images/logos/logo-desktop.svg" group-title="90s",Radio Regenbogen - 90er Dance
+#EXTINF:-1 tvg-logo="http://cdn.regenbogen.de/sites/all/themes/regenbogen/assets/images/logos/logo-desktop.svg" group-title="90s,90er,dance",Radio Regenbogen 90er Dance
 http://scast.regenbogen.de/eurodance-128-mp3
-#EXTINF:-1 tvg-logo="" group-title="guns n' roses",Radio Regenbogen - Guns N' Roses
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s299333/images/logog.jpg?t=164452" group-title="rock,guns n' roses",Radio Regenbogen Guns N' Roses
 http://streams.regenbogen.de/rr-gunsnroses-128-mp3
-#EXTINF:-1 tvg-logo="https://cdn.regenbogen.de/sites/default/files/styles/webstream_thumbnail/public/scald/image/justblack.jpg" group-title="black music",Radio Regenbogen - Just Black
+#EXTINF:-1 tvg-logo="https://cdn.regenbogen.de/sites/default/files/styles/webstream_thumbnail/public/scald/image/justblack.jpg" group-title="urban,soul",Radio Regenbogen Just Black
 http://streams.regenbogen.de/rr-justblack-128-mp3
-#EXTINF:-1 tvg-logo="" group-title="kinderlieder",Radio Regenbogen - Kinderlieder
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s299335/images/logog.jpg?t=1" group-title="kinder,lieder",Radio Regenbogen Kinderlieder
 http://streams.regenbogen.de/rr-kinderlieder-128-mp3
-#EXTINF:-1 tvg-logo="http://cdn.regenbogen.de//sites/all/themes/regenbogen/assets/images/logos/logo-desktop.svg" group-title="top 40",Radio Regenbogen - Top40
+#EXTINF:-1 tvg-logo="http://cdn.regenbogen.de//sites/all/themes/regenbogen/assets/images/logos/logo-desktop.svg" group-title="top 40,hits",Radio Regenbogen Top 40
 http://scast.regenbogen.de/top40-128-mp3
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/idzgEG5cydqKi9vb2QsYhicnA0n51gcTe0n3mlU39IHKVk8tS8JNU7DAZcrA8MBq2dE=w300" group-title="workout",Radio Regenbogen - Workout
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/idzgEG5cydqKi9vb2QsYhicnA0n51gcTe0n3mlU39IHKVk8tS8JNU7DAZcrA8MBq2dE=w300" group-title="workout,hits",Radio Regenbogen Workout
 http://scast.regenbogen.de/workout-128-mp3
-#EXTINF:-1 tvg-logo="http://cdn.regenbogen.de/sites/all/themes/regenbogen/assets/images/logos/logo-desktop.svg" group-title="",Radio Regenbogen 100.4
+#EXTINF:-1 tvg-logo="http://cdn.regenbogen.de/sites/all/themes/regenbogen/assets/images/logos/logo-desktop.svg" group-title="pop,top 40",Radio Regenbogen 100.4
 http://scast.regenbogen.de/liveKA
-#EXTINF:-1 tvg-logo="http://cdn.regenbogen.de/sites/all/themes/regenbogen/assets/images/logos/logo-desktop.svg" group-title="",Radio Regenbogen 101.1
+#EXTINF:-1 tvg-logo="http://cdn.regenbogen.de/sites/all/themes/regenbogen/assets/images/logos/logo-desktop.svg" group-title="pop,top 40",Radio Regenbogen 101.1
 http://scast.regenbogen.de/liveFR
-#EXTINF:-1 tvg-logo="http://cdn.regenbogen.de/sites/all/themes/regenbogen/assets/images/logos/logo-desktop.svg" group-title="german pop",Radio Regenbogen 102.8
+#EXTINF:-1 tvg-logo="http://cdn.regenbogen.de/sites/all/themes/regenbogen/assets/images/logos/logo-desktop.svg" group-title="pop,top 40",Radio Regenbogen 102.8
 http://streams.regenbogen.de/rr-mannheim-128-mp3
-#EXTINF:-1 tvg-logo="https://cdn.regenbogen.de/sites/all/themes/regenbogen/assets/images/logos/regenbogen-zwei-logo.png" group-title="",Radio Regenbogen 2
+#EXTINF:-1 tvg-logo="https://cdn.regenbogen.de/sites/all/themes/regenbogen/assets/images/logos/regenbogen-zwei-logo.png" group-title="pop,top 40",Radio Regenbogen 2
 http://streams.regenbogen.de/rr2-bw-128-mp3
-#EXTINF:-1 tvg-logo="http://static.radio.de/images/broadcasts/67/b2/35501/2/c300.png" group-title="",Radio Regenbogen 80er
+#EXTINF:-1 tvg-logo="http://static.radio.de/images/broadcasts/67/b2/35501/2/c300.png" group-title="80er,80s,hits",Radio Regenbogen 80er
 http://streams.regenbogen.de/rr-80er-128-mp3
-#EXTINF:-1 tvg-logo="http://cdn.regenbogen.de/sites/default/files/styles/webstream_thumbnail/public/scald/image/classicrock.png?itok=3Vxt0M-s" group-title="classic rock",Radio Regenbogen Classic Rock (128-mp3)
+#EXTINF:-1 tvg-logo="http://cdn.regenbogen.de/sites/default/files/styles/webstream_thumbnail/public/scald/image/classicrock.png?itok=3Vxt0M-s" group-title="classic,rock",Radio Regenbogen Classic Rock
 http://scast.regenbogen.de/rr-classicrock-128-mp3
-#EXTINF:-1 tvg-logo="http://cdn.regenbogen.de/sites/default/files/styles/webstream_thumbnail/public/scald/image/classicrock.png?itok=3Vxt0M-s" group-title="classic rock",Radio Regenbogen Classic Rock (AAC)
+#EXTINF:-1 tvg-logo="http://cdn.regenbogen.de/sites/default/files/styles/webstream_thumbnail/public/scald/image/classicrock.png?itok=3Vxt0M-s" group-title="classic,rock",Radio Regenbogen Classic Rock
 http://scast.regenbogen.de/rr-classicrock-128-aac
-#EXTINF:-1 tvg-logo="http://cdn.regenbogen.de/sites/default/files/styles/webstream_thumbnail/public/scald/image/Deutschpop.png" group-title="deutschrock,german pop",Radio Regenbogen Deutsch Pop
+#EXTINF:-1 tvg-logo="http://cdn.regenbogen.de/sites/default/files/styles/webstream_thumbnail/public/scald/image/Deutschpop.png" group-title="deutschrock,pop",Radio Regenbogen Deutsch Pop
 http://scast.regenbogen.de/dpop-128-mp3
-#EXTINF:-1 tvg-logo="https://www.regenbogen.de/sites/all/modules/regenbogen/regenbogen_webradio/radioplayer-regenbogen//images/favicon.ico" group-title="",Radio Regenbogen Metal
+#EXTINF:-1 tvg-logo="https://www.regenbogen.de/sites/all/modules/regenbogen/regenbogen_webradio/radioplayer-regenbogen//images/favicon.ico" group-title="metal,rock",Radio Regenbogen Metal
 https://streams.regenbogen.de/rr-metal-128-mp3
-#EXTINF:-1 tvg-logo="http://cdn.regenbogen.de/sites/all/themes/regenbogen/assets/images/logos/logo-desktop.svg" group-title="modern rock",Radio Regenbogen Modern Rock
+#EXTINF:-1 tvg-logo="http://cdn.regenbogen.de/sites/all/themes/regenbogen/assets/images/logos/logo-desktop.svg" group-title="modern,rock",Radio Regenbogen Modern Rock
 http://streams.regenbogen.de/rr-modernrock-128-aac?usid=0-0-H-A-D-01
-#EXTINF:-1 tvg-logo="" group-title="blues,metal,mix,oldies,pop,reggae,rock",Radio Regentrude
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/61/01/8921/1/c300.png" group-title="blues,metal,mix",Radio Regentrude
 http://rs13.stream24.org:9260/stream
-#EXTINF:-1 tvg-logo="" group-title="local,mainz,music,talk,wiesbaden",Radio Rheinwelle
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/e0/6f/1896/c300.png" group-title="oldies,pop",Radio Rheinwelle 92.5
 http://s2.onlinestream.de:6640/
-#EXTINF:-1 tvg-logo="" group-title="pop,rock",Radio Rock On
+#EXTINF:-1 tvg-logo="https://kuasark.com/files/stations-logos/radio-rock-on-de.png" group-title="pop,rock",Radio Rock On 99.5
 http://streaming.radiostreamlive.com/radiorockon_devices
-#EXTINF:-1 tvg-logo="" group-title="",Radio Rockland Ludwigshafen
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s58157/images/logog.png?t=153496" group-title="pop,rock",Rockland Radio Ludwigshafen
 https://stream.rockland.de/rockland_ludwigshafen.mp3
-#EXTINF:-1 tvg-logo="" group-title="pop,rock",Radio Roland
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/c1/fa/108144/5/c300.png" group-title="pop,rock",Radio Roland
 http://ffn-stream21.radiohost.de/radioroland_mp3-192?listenerrmid=31363430313131373035-323030313a313966303a363830313a313964373a353430303a3266663a666537313a62646237-3531353836-53747265616d436865636b426f742f302e312e30
-#EXTINF:-1 tvg-logo="" group-title="misc",Radio Rotter See
+#EXTINF:-1 tvg-logo="https://radioonline.lv/images/stations/laufm-radio-rotter-see.png" group-title="80s,news,schlager",Radio Rotter See
 http://radio-rotter-see.stream.laut.fm/radio-rotter-see?t302=2021-12-21_19-30-11&uuid=698a1957-eb58-4f40-b7cd-b9d499aa0023
-#EXTINF:-1 tvg-logo="" group-title="00s,80s,90s,charts,local news",Radio RSG
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuHT9KdHOVtCZzwvTViYVvtxY6Epp0Quao4DjpDAj28w&s" group-title="00s,80s,90s,charts",Radio RSG
 http://radiorsg-ais-edge-3001-fra-eco-cdn.cast.addradio.de/radiorsg/live/mp3/high?ar-distributor=f0a1&_art=dj0yJmlwPTkxLjEzMi4xNDUuMTE0JmlkPWljc2N4bC1veXdlYXNpbWImdD0xNjQwMTIxMTk1JnM9Nzg2NmYyOWMjY2E4MDE1YzJlMjdiYWRhNGM0ZWM3Mzc2YjZjZDk0NTg
-#EXTINF:-1 tvg-logo="" group-title="",Radio RST
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/e0/30/6929/8/c300.png" group-title="80s,90s,hits",Radio RST 104.0
 https://radiorst-ais-edge-4009-fra-dtag-cdn.cast.addradio.de/radiorst/live/mp3/high
-#EXTINF:-1 tvg-logo="http://www.radio-rb.de/favicon.ico" group-title="adult contemporary",Radio Russkij Berlin
+#EXTINF:-1 tvg-logo="http://www.radio-rb.de/favicon.ico" group-title="adult,contemporary",Radio Russkij Berlin
 http://rb-stream.de:8000/rrb_128.mp3
-#EXTINF:-1 tvg-logo="http://www.salue.de/radioplayer/img/station-logo.png" group-title="",Radio Salü
+#EXTINF:-1 tvg-logo="http://www.salue.de/radioplayer/img/station-logo.png" group-title="pop,hits",Radio Salü 101.7
 http://internetradio.salue.de:8000/salue.mp3
-#EXTINF:-1 tvg-logo="http://www.salue.de/musik/webradio/in-the-mix/logo-280.png" group-title="hits",Radio Salü in the Mix
+#EXTINF:-1 tvg-logo="http://www.salue.de/musik/webradio/in-the-mix/logo-280.png" group-title="hits,dance,pop",Radio Salü in the Mix
 http://internetradio.salue.de:8000/channel1
 #EXTINF:-1 tvg-logo="http://www.salue.de/kulthits/kulthits_170.png" group-title="80s,90s",Radio Salü Kulthits
 http://internetradio.salue.de:8000/top100.mp3
-#EXTINF:-1 tvg-logo="https://www.salue.de/assets/img/favicon96.png" group-title="schlager",Radio Salü Mallorca-Style
+#EXTINF:-1 tvg-logo="https://www.salue.de/assets/img/favicon96.png" group-title="schlager,pop,news",Radio Salü Mallorca-Style
 http://internetradio.salue.de:8000/schlagerparty
-#EXTINF:-1 tvg-logo="https://www.radio-santec.com/favicon.ico" group-title="christian,religion",Radio Santec - DE
+#EXTINF:-1 tvg-logo="https://www.radio-santec.com/favicon.ico" group-title="christian,religion",Radio Santec
 https://onairport.live/radiosantec-de
-#EXTINF:-1 tvg-logo="https://www.radiosardegnaweb.csmwebmedia.com/wp-content/uploads/2017/03/indexRSW-296x300.png" group-title="community radio",Radio Sardegna Web
+#EXTINF:-1 tvg-logo="https://www.radiosardegnaweb.csmwebmedia.com/wp-content/uploads/2017/03/indexRSW-296x300.png" group-title="community,indie,rock",Radio Sardegna
 http://91.121.38.216:8090/stream
-#EXTINF:-1 tvg-logo="https://www.radiosauerland.de/assets/images/senderlogos/radio_sauerland.png" group-title="",Radio Sauerland
+#EXTINF:-1 tvg-logo="https://www.radiosauerland.de/assets/images/senderlogos/radio_sauerland.png" group-title="pop,rock,hits",Radio Sauerland
 http://radiosauerland-ais-edge-3003-fra-eco-cdn.cast.addradio.de/radiosauerland/simulcast/high/stream.mp3?_art=dj0yJmlwPTQ1Ljc3LjYyLjE2MSZpZD1pY3NjeGwtYm9paWh0amxiJnQ9MTY0MDE4NTYyNyZzPTc4NjZmMjljI2Q0YThkMjU0NTRmMDBiMGYxN2NlMTViZDJmZDhkZWVl
-#EXTINF:-1 tvg-logo="http://www.1a-webradio.de/sites/all/themes/webradio/btn/logo-saw.png" group-title="pop",radio SAW
+#EXTINF:-1 tvg-logo="http://www.1a-webradio.de/sites/all/themes/webradio/btn/logo-saw.png" group-title="pop,hits",radio SAW
 http://saw-stream20.radiohost.de/saw_48?ref=radiosure-1a&amsparams=radiosure-1a&listenerrmid=31363430313130303031-323030313a313966303a363830313a313964373a353430303a3266663a666537313a62646237-3530333432-53747265616d436865636b426f742f302e312e30
-#EXTINF:-1 tvg-logo="http://www.radiosaw.de/sites/default/files/logo_0_1.png" group-title="pop",radio SAW
+#EXTINF:-1 tvg-logo="http://www.radiosaw.de/sites/default/files/logo_0_1.png" group-title="pop,hits",radio SAW
 http://saw-de-hz-fal-stream04-cluster01.radiohost.de/saw_128
 #EXTINF:-1 tvg-logo="http://www.radiosaw.de/sites/default/files/logo_0_1.png" group-title="00s",radio SAW - 2000er
 http://saw-de-hz-fal-stream05-cluster01.radiohost.de/saw-2000er_128?ref=radio-browser&amsparams=radio-browser&listenerrmid=31363430303939343233-323030313a313966303a363830313a313964373a353430303a3266663a666537313a62646237-3333303338-53747265616d436865636b426f742f302e312e30
