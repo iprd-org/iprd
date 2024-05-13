@@ -5099,111 +5099,105 @@ http://ic5.radiomonster.fm:80/evergreens-320
 http://ic5.radiomonster.fm:80/schlager-320
 #EXTINF:-1 tvg-logo="https://www.radioq.de/favicon.ico" group-title="rock,pop,talk",Radio Q 90.9
 https://rqstream.radioq.de/stream/160.ogg
-#EXTINF:-1 tvg-logo="https://radioselection.de/wp-content/uploads/2018/12/WP-ICON-100x100.png" group-title="hitselection,public radio,saturdayselection,schlagerselection,selection",RadioSelection
+#EXTINF:-1 tvg-logo="https://radioselection.de/wp-content/uploads/2018/12/WP-ICON-100x100.png" group-title="hits,public,schlager",RadioSelection
 https://live.radio-selection.de/onair
-#EXTINF:-1 tvg-logo="https://rs218.de/wp-content/uploads/2019/01/rs218_fb.jpg" group-title="",Radiostation 218
+#EXTINF:-1 tvg-logo="https://rs218.de/wp-content/uploads/2019/01/rs218_fb.jpg" group-title="mixes,variety",Radiostation 218
 https://rs218.radioca.st/stream
-#EXTINF:-1 tvg-logo="" group-title="50er,60er,70er,80er,oldies",RadioSuperoldie
+#EXTINF:-1 tvg-logo="https://ca.radio.net/images/broadcasts/fb/64/8155/c300.png" group-title="60er,70er,80er,oldies",RadioSuperoldie
 http://high.radiosuperoldie.com:8888/
-#EXTINF:-1 tvg-logo="" group-title="chemnitz",RadioT
+#EXTINF:-1 tvg-logo="https://2022.radiot-chemnitz.de/images/static/RTlogog.png" group-title="world,variety",Radio T
 http://streaming.fueralle.org/radiot.mp3
-#EXTINF:-1 tvg-logo="" group-title="student radio",Radius 92,1 - Das Campusradio (Siegen)
+#EXTINF:-1 tvg-logo="https://radius921.de/wp-content/uploads/2018/12/radius921_logo-u4680_2x-1-500x320.png" group-title="student,rock,pop",Radius 92.1
 http://141.99.154.10:8002/;
-#EXTINF:-1 tvg-logo="https://www.phonostar.de/images/auto_created/lautfm_rafin184x184.png" group-title="classical",RAFIN
+#EXTINF:-1 tvg-logo="https://www.phonostar.de/images/auto_created/lautfm_rafin184x184.png" group-title="rock,deutsch",Rafin
 http://rafin.stream.laut.fm/rafin?pl=pls&t302=2021-12-21_17-56-45&uuid=cbebed33-7c22-48f3-9934-3c7a53b69ba0
-#EXTINF:-1 tvg-logo="https://www.ramasuri.de//favicon.ico" group-title="local news,oberpfalz,pop",Ramasuri
+#EXTINF:-1 tvg-logo="https://www.ramasuri.de//favicon.ico" group-title="news,oberpfalz,pop",Ramasuri
 http://ramasuri-ais-edge-4001-fra-dtag-cdn.cast.addradio.de/ramasuri/live/mp3/high?_art=dj0yJmlwPTk1LjE3OS4xMzkuMTA2JmlkPWljc2N4bC1oM2RzZWxwZ2ImdD0xNjQwMTg4ODAwJnM9Nzg2NmYyOWMjNGRkM2M2NjlkZmU3MWEwYWZhZTVjOWQ1ZGU5MDY5MGU
-#EXTINF:-1 tvg-logo="" group-title="",Rapkings
+#EXTINF:-1 tvg-logo="https://assets.laut.fm/44269fbd81cb81083442428e65465545?t=_640x640" group-title="rap,urban",Rapkings
 http://rapkings.stream.laut.fm/rapkings?t302=2021-12-21_16-10-25&uuid=ede60e6e-782a-4b13-bec4-79dd2114823c
-#EXTINF:-1 tvg-logo="" group-title="",Rare Guitar Radio
-http://rareguitar.stream.laut.fm/rareguitar?t302=2021-12-21_17-50-35&uuid=e8f50d81-e07f-4e72-af8a-b2c7d58264f8
-#EXTINF:-1 tvg-logo="" group-title="dance,electro,house",Raute Musik - House
+#EXTINF:-1 tvg-logo="https://ie.radio.net/images/broadcasts/95/9a/9883/2/c300.png" group-title="dance,electro,house",RauteMusik House
 http://rautemusik-de-hz-fal-stream14.radiohost.de/house?listenerrmid=31363430303436363531-326130333a343030303a33373a34323a633466653a346366663a666561373a38393431-3630373130-53747265616d436865636b426f742f302e312e30
-#EXTINF:-1 tvg-logo="" group-title="90s,eurodance",RauteMusik 90s
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/28/2a/34581/4/c300.png" group-title="90s,90er,eurodance",RauteMusik 90s
 http://rautemusik-de-hz-fal-stream17.radiohost.de/90s?listenerrmid=31363430303432363233-323030313a313966303a353030313a333261343a353430303a3266663a666533373a37356332-3337343630-53747265616d436865636b426f742f302e312e30
-#EXTINF:-1 tvg-logo="" group-title="dance,handsup,techno",RauteMusik Club
+#EXTINF:-1 tvg-logo="https://ie.radio.net/images/broadcasts/c2/0a/3180/3/c300.png" group-title="dance,handsup,techno",RauteMusik Club
 http://rautemusik-de-hz-fal-stream14.radiohost.de/club?listenerrmid=31363430313039393931-326130333a343030303a33373a34323a633466653a346366663a666561373a38393431-3533353332-53747265616d436865636b426f742f302e312e30
-#EXTINF:-1 tvg-logo="https://www.rm.fm///favicon.ico" group-title="",RauteMusik Club 48kbs acc
+#EXTINF:-1 tvg-logo="https://www.rm.fm///favicon.ico" group-title="dance,handsup,techno",RauteMusik Club
 http://rautemusik-de-hz-fal-stream17.radiohost.de/club_aacp?listenerrmid=31363430313130313938-323030313a313966303a353030313a333261343a353430303a3266663a666533373a37356332-3430323238-53747265616d436865636b426f742f302e312e30
-#EXTINF:-1 tvg-logo="" group-title="country",RauteMusik Country
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/49/26/4926d1042d2185e376bf692c9fc957e0.jpg" group-title="country,new country",RauteMusik Country
 http://rautemusik-de-hz-fal-stream16.radiohost.de/country?listenerrmid=31363430303534363935-323030313a313966303a353030313a333261343a353430303a3266663a666533373a37356332-3630393936-53747265616d436865636b426f742f302e312e30
-#EXTINF:-1 tvg-logo="" group-title="hiphop,rap",RauteMusik Deutschrap
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/7d/46/18930/2/c300.png" group-title="hip hop,rap",RauteMusik Deutschrap
 http://rautemusik-de-hz-fal-stream14.radiohost.de/deutschrap?listenerrmid=31363430303536393938-323030313a313966303a353030313a333261343a353430303a3266663a666533373a37356332-3530393838-53747265616d436865636b426f742f302e312e30
-#EXTINF:-1 tvg-logo="" group-title="60s,70s,80s,90s,goldies,oldies",RauteMusik Goldies
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu3Nu8G33OFE_PSVHWhTamkQXHzh5yFwuIp5T5KruKlA&s" group-title="60s,70s,80s",RauteMusik Goldies
 http://rautemusik-de-hz-fal-stream11.radiohost.de/goldies?listenerrmid=31363430303434363632-323030313a313966303a353030313a333261343a353430303a3266663a666533373a37356332-3534303630-53747265616d436865636b426f742f302e312e30
-#EXTINF:-1 tvg-logo="" group-title="happy hardcore",RauteMusik Happy Hardcore
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s213210/images/logog.jpg?t=161436" group-title="happy hardcore,electro",RauteMusik Happy Hardcore
 http://rautemusik-de-hz-fal-stream16.radiohost.de/happyhardcore?listenerrmid=31363430313035323230-326130333a343030303a33373a34323a633466653a346366663a666561373a38393431-3436333036-53747265616d436865636b426f742f302e312e30
-#EXTINF:-1 tvg-logo="" group-title="hardcore,hardstyle,jumpstyle",RauteMusik HardeR
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/cd/fa/5855/2/c300.png" group-title="hardcore,hardstyle,jumpstyle",RauteMusik HardeR
 http://rautemusik-de-hz-fal-stream12.radiohost.de/harder?listenerrmid=31363430313039343632-326130333a343030303a33373a34323a633466653a346366663a666561373a38393431-3434323632-53747265616d436865636b426f742f302e312e30
-#EXTINF:-1 tvg-logo="" group-title="classical",RauteMusik Klassik
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/39/26/34119/2/c300.png" group-title="classical,baroque,klassik",RauteMusik Klassik
 http://rautemusik-de-hz-fal-stream18.radiohost.de/klassik?listenerrmid=31363430313130313333-323030313a313966303a363830313a313964373a353430303a3266663a666537313a62646237-3436303930-53747265616d436865636b426f742f302e312e30
-#EXTINF:-1 tvg-logo="" group-title="ambient,chillout,jazz",RauteMusik Lounge
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/3e/b4/3184/3/c300.png" group-title="ambient,chillout,jazz",RauteMusik Lounge
 http://rautemusik-de-hz-fal-stream18.radiohost.de/lounge?listenerrmid=31363430313036373437-326130333a343030303a33373a34323a633466653a346366663a666561373a38393431-3431333536-53747265616d436865636b426f742f302e312e30
-#EXTINF:-1 tvg-logo="" group-title="",RauteMusik Lovehits
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/a6/b2/19278/3/c300.png" group-title="ballads,pop,love",RauteMusik Lovehits
 http://rautemusik-de-hz-fal-stream11.radiohost.de/lovehits?listenerrmid=31363430303532323631-323030313a313966303a353030313a333261343a353430303a3266663a666533373a37356332-3435343036-53747265616d436865636b426f742f302e312e30
-#EXTINF:-1 tvg-logo="" group-title="charts,pop,rock",RauteMusik Main
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/20/c8/3167/4/c300.png" group-title="charts,pop,rock",RauteMusik Main
 http://rautemusik-de-hz-fal-stream18.radiohost.de/main?listenerrmid=31363430313133353136-323030313a313966303a353030313a333261343a353430303a3266663a666533373a37356332-3335393334-53747265616d436865636b426f742f302e312e30
-#EXTINF:-1 tvg-logo="https://www.rm.fm/favicon.ico" group-title="",RauteMusik Main
+#EXTINF:-1 tvg-logo="https://www.rm.fm/favicon.ico" group-title="charts,pop,rock",RauteMusik Main
 https://rautemusik-de-hz-fal-stream11.radiohost.de/main_aacp?listenerrmid=31363430313037373536-323030313a313966303a363830313a313964373a353430303a3266663a666537313a62646237-3430363632-53747265616d436865636b426f742f302e312e30
-#EXTINF:-1 tvg-logo="" group-title="oriental",RauteMusik Oriental
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/2f/01/8304/3/c300.png" group-title="oriental,world,ambient",RauteMusik Oriental
 http://rautemusik-de-hz-fal-stream14.radiohost.de/oriental?listenerrmid=31363430313131333636-323030313a313966303a363830313a313964373a353430303a3266663a666537313a62646237-3537323830-53747265616d436865636b426f742f302e312e30
-#EXTINF:-1 tvg-logo="" group-title="",RauteMusik Progressive
-http://rautemusik-de-hz-fal-stream14.radiohost.de/techhouse?listenerrmid=31363430303937303430-323030313a313966303a353030313a333261343a353430303a3266663a666533373a37356332-3335373332-53747265616d436865636b426f742f302e312e30
-#EXTINF:-1 tvg-logo="" group-title="alternative,punk,rock",RauteMusik Rock
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000401631273-s5wm37-t500x500.jpg" group-title="alternative,punk,rock",RauteMusik Rock
 http://rautemusik-de-hz-fal-stream12.radiohost.de/rock?listenerrmid=31363430303533393436-323030313a313966303a363830313a313964373a353430303a3266663a666537313a62646237-3335303032-53747265616d436865636b426f742f302e312e30
-#EXTINF:-1 tvg-logo="" group-title="",RauteMusik Sex
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/a8/d8/100319/7/c300.png" group-title="pop,r'n'b,ballads",RauteMusik Sex
 http://rautemusik-de-hz-fal-stream12.radiohost.de/sex?listenerrmid=31363430313131373732-323030313a313966303a363830313a313964373a353430303a3266663a666537313a62646237-3630393936-53747265616d436865636b426f742f302e312e30
-#EXTINF:-1 tvg-logo="" group-title="classical,piano",RauteMusik Solopiano
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/b6/97/34118/2/c300.png" group-title="classical,piano",RauteMusik Solopiano
 http://rautemusik-de-hz-fal-stream12.radiohost.de/solopiano?listenerrmid=31363430303437333036-323030313a313966303a353030313a333261343a353430303a3266663a666533373a37356332-3433373932-53747265616d436865636b426f742f302e312e30
-#EXTINF:-1 tvg-logo="" group-title="beats,chill,hiphop,jazz,lofi",RauteMusik Study
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/c1/38/106059/4/c300.png" group-title="beats,chill,hiphop",RauteMusik Study
 http://de-hz-fal-stream01.rautemusik.fm/study
-#EXTINF:-1 tvg-logo="" group-title="",RauteMusik TechHouse
+#EXTINF:-1 tvg-logo="https://ie.radio.net/images/broadcasts/4b/a9/9881/2/c300.png" group-title="dance,electro,techno",RauteMusik TechHouse
 http://rautemusik-de-hz-fal-stream18.radiohost.de/techhouse?listenerrmid=31363430313130393430-323030313a313966303a363830313a313964373a353430303a3266663a666537313a62646237-3533333830-53747265616d436865636b426f742f302e312e30
-#EXTINF:-1 tvg-logo="" group-title="charts,top 40",RauteMusik Top 40
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/7e/0a/37977/3/c300.png" group-title="charts,top 40",RauteMusik Top 40
 http://de-hz-fal-stream08.rautemusik.fm/top40
-#EXTINF:-1 tvg-logo="" group-title="dubstep,trap",RauteMusik Trap
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/94/77/39254/3/c300.png" group-title="dubstep,trap",RauteMusik Trap
 http://de-hz-fal-stream05.rautemusik.fm/trap
-#EXTINF:-1 tvg-logo="" group-title="heavy metal,metal",RauteMusik Wacken Radio
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-cL5HA0r830JoNf6WQPsVAi0VwgqeDhrsPh_OJd8m4A&s" group-title="rock,metal",RauteMusik Wacken Radio
 http://rautemusik-de-hz-fal-stream18.radiohost.de/wackenradio?listenerrmid=31363430303437323232-323030313a313966303a363830313a313964373a353430303a3266663a666537313a62646237-3534303838-53747265616d436865636b426f742f302e312e30
-#EXTINF:-1 tvg-logo="http://www.rbb-online.de/content/dam/rbb/rbb/logos/touch/rbb-n-128.png" group-title="",RBB Kultur
+#EXTINF:-1 tvg-logo="http://www.rbb-online.de/content/dam/rbb/rbb/logos/touch/rbb-n-128.png" group-title="classical,jazz,kultur",RBB Kulturradio
 http://d131.rndfnk.com/ard/rbb/rbbkultur/live/mp3/256/stream.mp3?sid=22aWzhauI4zEknXsKfa1Xq1HHR6&token=NmN7-Ubf9B1TkiyGFYTxlKIiwK8EeMkkt4HshARKSrc&tvf=whLgynrMwhZkMTMxLnJuZGZuay5jb20
-#EXTINF:-1 tvg-logo="" group-title="kultur",RBB Kultur
+#EXTINF:-1 tvg-logo="http://www.rbb-online.de/content/dam/rbb/rbb/logos/touch/rbb-n-128.png" group-title="classical,jazz,kultur",RBB Kulturradio
 http://f141.rndfnk.com/ard/rbb/rbbkultur/live/mp3/256/stream.mp3?sid=22bSZSewtHjymWTCX0DqLNbQm3j&token=pr0GZbCB1ymWnFPt_bTeBTfjYa81rt8G54Y49t0KZH0&tvf=Vpjzm1DmwhZmMTQxLnJuZGZuay5jb20
-#EXTINF:-1 tvg-logo="http://www.rbiradio.eu/rbilogo_neu_start.jpg" group-title="60s,70s,80s,classic rock,classic rock oldies soul,oldies,pop",RBI Radio
+#EXTINF:-1 tvg-logo="http://www.rbiradio.eu/rbilogo_neu_start.jpg" group-title="60s,70s,80s",RBI Radio
 http://85.195.72.226:18576/;
-#EXTINF:-1 tvg-logo="" group-title="pop,rock",Rebecca Radio - Gospel
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBQJqNpEFP8nAeKdAhejWxid5ckA9AB42VOlba_jWaqA&s" group-title="pop,rock,gospel",Rebecca Radio Gospel
 http://s3.myradiostream.com:9164/listen.mp3
 #EXTINF:-1 tvg-logo="http://reboot.fm/wp-content/themes/neutica-theme-109/neutica/img/reboot.fm.yellow.horizontal.gif" group-title="electronic,experimental",Reboot FM
 http://87.118.122.220:8002/stream
-#EXTINF:-1 tvg-logo="https://refugeworldwide.com/favicon.ico" group-title="ambient,electronic,experimental,hip-hop,house,jazz,pop,r&b,soul,techno",Refuge Worldwide
+#EXTINF:-1 tvg-logo="https://refugeworldwide.com/favicon.ico" group-title="ambient,electronic,experimental",Refuge Worldwide
 https://streaming.radio.co/s3699c5e49/listen
-#EXTINF:-1 tvg-logo="https://cdn.regenbogen.de/sites/all/themes/regenbogen/assets/images/logos/regenbogen-zwei-logo.png" group-title="",Regenbogen 2
+#EXTINF:-1 tvg-logo="https://cdn.regenbogen.de/sites/all/themes/regenbogen/assets/images/logos/regenbogen-zwei-logo.png" group-title="rock,hard,classic",Regenbogen 2
 http://scast.regenbogen.de/rr2-128-mp3
-#EXTINF:-1 tvg-logo="http://static.radio.de/images/broadcasts/a1/f0/4436/c175.png" group-title="reggae",Reggae Radio Rastamusic.com
+#EXTINF:-1 tvg-logo="http://static.radio.de/images/broadcasts/a1/f0/4436/c175.png" group-title="reggae,reggaeton,dubstep",Reggae Radio Rastamusic.com
 http://ais.rastamusic.com/rastamusic.mp3
-#EXTINF:-1 tvg-logo="https://www.meintobi.de/wp-content/uploads/2018/10/cropped-logos3-1-180x180.png" group-title="comedy,hits,party,partymix,pop,rock",Rent a Tobi - WebRadio
+#EXTINF:-1 tvg-logo="https://www.meintobi.de/wp-content/uploads/2018/10/cropped-logos3-1-180x180.png" group-title="comedy,hits,party",Rent a Tobi
 https://rentatobi.stream.laut.fm/rentatobi?t302=2021-12-21_02-07-24&uuid=5242580a-6725-4e0f-adb1-d97baf245e4e
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/0/96780.v8.png" group-title="misc",Replay.FM
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/0/96780.v8.png" group-title="house,oldies,90s,90er",Replay.FM
 https://listener1.mp3.tb-group.fm/rp.mp3
-#EXTINF:-1 tvg-logo="https://www.replay.fm/media/icons/rp/favicon-32x32.png" group-title="house,oldies,replay",Replay.FM
+#EXTINF:-1 tvg-logo="https://www.replay.fm/media/icons/rp/favicon-32x32.png" group-title="house,oldies,90s,90er",Replay.FM
 http://listener1.mp3.tb-group.fm:80/ht.mp3
-#EXTINF:-1 tvg-logo="https://www.replay.fm/content/images/site/logo-replay.fm.png" group-title="90's,eurodance",Replay.FM
+#EXTINF:-1 tvg-logo="https://www.replay.fm/content/images/site/logo-replay.fm.png" group-title="house,oldies,90s,90er",Replay.FM
 http://listener2.aachd.tb-group.fm:80/rp-hd.aac
-#EXTINF:-1 tvg-logo="https://www.replay.fm/content/images/site/logo-replay.fm.png" group-title="",REPLAY.FM
+#EXTINF:-1 tvg-logo="https://www.replay.fm/content/images/site/logo-replay.fm.png" group-title="house,oldies,90s,90er",Replay.FM
 https://listener2.aachd.tb-group.fm/rp-hd.aac
-#EXTINF:-1 tvg-logo="" group-title="",Retrowelle
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/97/15/9715edc0e9638ccef8c6cc603ca39bc1.jpg" group-title="70s,80s,90s,oldies",Radio Retrowelle
 https://retrowelle.stream.laut.fm/retrowelle?t302=2021-12-21_13-46-44&uuid=0032b574-13d4-49f4-846c-0879af7fab26
-#EXTINF:-1 tvg-logo="https://cdn.reyfm.de/img/logo.png" group-title="chill,lofi",REYFM -#LOFI
+#EXTINF:-1 tvg-logo="https://cdn.reyfm.de/img/logo.png" group-title="chillout,lofi,relax",REYFM -#LOFI
 https://reyfm-stream15.radiohost.de/reyfm-lofi_mp3-320?listenerrmid=31363430303534383538-326130333a343030303a33373a34323a633466653a346366663a666561373a38393431-3439393938-53747265616d436865636b426f742f302e312e30
-#EXTINF:-1 tvg-logo="" group-title="tv",rheinmain TV
-https://586fb512206e4.streamlock.net/rheinmaintv-live/_definst_/mp4:livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.rick-future.de/wp-content/uploads/rffm-front1.png" group-title="drama,radio drama,radioplay,science fiction",Rick Future FM
+#EXTINF:-1 tvg-logo="http://www.rick-future.de/wp-content/uploads/rffm-front1.png" group-title="drama,radioplay,science fiction",Rick Future FM
 http://rickfuture-fm.stream.laut.fm/rickfuture-fm?t302=2021-12-21_03-09-38&uuid=94ada136-c2ee-4ce0-b053-c8b37f060ee6
-#EXTINF:-1 tvg-logo="" group-title="punk oi ska",riotradio
+#EXTINF:-1 tvg-logo="https://thumbnailer.mixcloud.com/unsafe/164x164/profile/f/6/1/1/2f29-9707-4b63-b1ba-006b1ed880b1" group-title="rock,folk,punk",Riotradio
 http://riotradio.stream.laut.fm/riotradio?t302=2021-12-21_03-51-41&uuid=f1faeccc-3189-41c9-ab80-07e68778d285
-#EXTINF:-1 tvg-logo="" group-title="instrumental",RMNinstrumental
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/46/98/26617/c300.png" group-title="instrumental,ambient,hits",RMNinstrumentalhits
 http://stream.instrumentalhits.de:8060/
-#EXTINF:-1 tvg-logo="" group-title="chillout",RMNrelax
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl3NchuwO7_z_sbg8V7kTDG7YJmIZncXlVFSa0jv4-Sg&s" group-title="chillout,relax,ambient",RMNrelax
 http://stream.rmnrelax.de:8023/
 #EXTINF:-1 tvg-logo="https://www.radio-northsea.de/wp-content/uploads/2018/04/cropped-RNI_Logo_23_Juli_2013-transparent-270x270.png" group-title="",RNI Radio Northsea Inbternational
 http://stream.radio-northsea.de:7000/mp3
