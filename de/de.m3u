@@ -5599,105 +5599,105 @@ http://85.25.43.55/berlin.mp3
 https://starfm-5.explodio.com/berlin.mp3
 #EXTINF:-1 tvg-logo="https://berlin.starfm.de/assets/icons/apple-touch-icon.png" group-title="blues,rock",Star FM Blues
 http://85.25.209.150/blues.mp3
-#EXTINF:-1 tvg-logo="https://berlin.starfm.de/channel/rock-classics" group-title="",Star FM Classic Rock
+#EXTINF:-1 tvg-logo="https://berlin.starfm.de/channel/rock-classics" group-title="classic,rock",Star FM Classic Rock
 https://starfm-5.explodio.com/rock_classics.mp3?cstring=CPCVHrAPCVHrnAFADBDEBPCgAAAAAAAAAAYgAAAAAAAA.YAAAAAAAAAAA&context=fHA6LTE=
-#EXTINF:-1 tvg-logo="https://berlin.starfm.de/assets/icons/apple-touch-icon.png" group-title="",Star FM From Hell
+#EXTINF:-1 tvg-logo="https://berlin.starfm.de/assets/icons/apple-touch-icon.png" group-title="hard,rock",Star FM From Hell
 http://85.25.43.55/hell.mp3
-#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Music/v4/f5/6b/86/f56b86dc-f376-0834-6734-438546c2e794/source/600x600bb.jpg" group-title="concert,live rock",Star FM Live Rock
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Music/v4/f5/6b/86/f56b86dc-f376-0834-6734-438546c2e794/source/600x600bb.jpg" group-title="concert,live,rock",Star FM Live Rock
 http://starfm-5.explodio.com/festival_live_rock.mp3
-#EXTINF:-1 tvg-logo="https://berlin.starfm.de/favicon.ico" group-title="rock",Star FM Millenium Rock
+#EXTINF:-1 tvg-logo="https://berlin.starfm.de/favicon.ico" group-title="rock,2000s,2000er",Star FM Millenium Rock
 https://starfm-4.explodio.com/2000er_new_metal.mp3
-#EXTINF:-1 tvg-logo="https://static-test.nbg.starfm.de/img/849/455235/946000/o/480/480/stream_1600x1600_nbg.jpg" group-title="mainstream rock,rock",STAR FM Nürnberg
+#EXTINF:-1 tvg-logo="https://static-test.nbg.starfm.de/img/849/455235/946000/o/480/480/stream_1600x1600_nbg.jpg" group-title="pop,rock",Star FM Nürnberg
 https://starfm-5.explodio.com/nuernberg.mp3
-#EXTINF:-1 tvg-logo="https://i0.wp.com/communicator.space/wp-content/uploads/2020/01/cropped-ig_com_profile-2.png?fit=180%2c180&#038;ssl=1" group-title="soundtrack",Star Trek Radio
+#EXTINF:-1 tvg-logo="https://i0.wp.com/communicator.space/wp-content/uploads/2020/01/cropped-ig_com_profile-2.png?fit=180%2c180&#038;ssl=1" group-title="soundtrack,sci-fi",Star Trek Radio
 http://startrek.stream.laut.fm/startrek?pl=m3u&t302=2021-12-21_12-28-05&uuid=b742bc68-ee40-4b4f-bfcb-2de1478d557b
-#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/sc0fc92ce0c32e802/image/i43b8a451dc745337/version/1588158078/image.png" group-title="starmix",STAR*MIX - 89 HIT FM - REWIND
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/sc0fc92ce0c32e802/image/i43b8a451dc745337/version/1588158078/image.png" group-title="top 40,charts",STAR*MIX 89 Hit FM Rewind
 http://stream.hitfm.de:9050/starmix
-#EXTINF:-1 tvg-logo="" group-title="hard rock,heavy metal,rock",starfm Nürnberg
+#EXTINF:-1 tvg-logo="https://static-test.nbg.starfm.de/img/849/455235/946000/o/480/480/stream_1600x1600_nbg.jpg" group-title="hard,rock,metal",Star FM Nürnberg
 http://85.25.209.152/nuernberg.aac
-#EXTINF:-1 tvg-logo="http://www.radiogong.com/static/icons/apple-touch-icon-114x114.png" group-title="",Stars On Radio Gong
+#EXTINF:-1 tvg-logo="http://www.radiogong.com/static/icons/apple-touch-icon-114x114.png" group-title="pop,rock,schlager",Stars on Radio Gong
 http://gongwb-ais-edge-3006-fra-eco-cdn.cast.addradio.de/gongwb/oldschool/mp3/high?_art=dj0yJmlwPTk1LjE3OS4xMzkuMTA2JmlkPWljc2N4bC1uNTRzanozZ2ImdD0xNjQwMDYwMTMxJnM9Nzg2NmYyOWMjYzcyYzRjNzM0NTI0MTY4YzBmMTVlYTk0ZDMyZjg0NzI
 #EXTINF:-1 tvg-logo="https://www.starsat.de/images/ico/favicon2.ico" group-title="80er,90er,top 40",StarSat Radio
 http://starsat-ais-edge-4006-dus-dtag-cdn.cast.addradio.de/starsat/live/aac/low/stream.aac?_art=dj0yJmlwPTk1LjE3OS4xMzkuMTA2JmlkPWljc2N4bC1uNTRpa3Fua2ImdD0xNjQwMTk2MzMxJnM9Nzg2NmYyOWMjZWJhNzlhNDVjZGU1NDFlMzM5MDJjNmIwN2U5MDAwOTY
-#EXTINF:-1 tvg-logo="" group-title="pop",StarSatRadio
+#EXTINF:-1 tvg-logo="https://www.starsat.de/images/ico/favicon2.ico" group-title="80er,90er,top 40",StarSatRadio
 http://starsat-ais-edge-4002-fra-dtag-cdn.cast.addradio.de/starsat/live/aac/low/stream.aac?_art=dj0yJmlwPTk1LjE3OS4xMzkuMTA2JmlkPWljc2N4bC1uNTRpa3Fua2ImdD0xNjAyNjk5MzQ2JnM9Nzg2NmYyOWMjZGExZWJmMTViNGYzMGQ3NjRjZWUzYTk4YmRkOTYzMjE
-#EXTINF:-1 tvg-logo="" group-title="post rock,progressive metal,progressive rock,rock,stoner rock",Stone Prog
+#EXTINF:-1 tvg-logo="https://assets.laut.fm/d1a67881a722ea9f5e33f0110e0b9470?t=_640x640" group-title="post rock,progressive,metal",Stone Prog
 http://stone-prog.stream.laut.fm/stone-prog?t302=2021-12-21_01-12-56&uuid=3ff2e182-28f3-4098-b9cd-7d623807b4b5
-#EXTINF:-1 tvg-logo="http://static.radio.de/images/broadcasts/30/1b/29107/c175.png" group-title="ambient,lounge,space",STR - Space Travel Radio
+#EXTINF:-1 tvg-logo="http://static.radio.de/images/broadcasts/30/1b/29107/c175.png" group-title="ambient,lounge,space",STR Space Travel Radio
 http://136.243.156.30:1701/stream/2/
-#EXTINF:-1 tvg-logo="" group-title="sommer,strandbar",Strandbar
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/0e/25/116343/1/c300.png" group-title="sommer,chillout",Strandbar
 http://barbaradio.hoerradar.de/barbaradio-strandbar-mp3-hq?sABC=61p20o93%230%23r4880qrn6s01nn6n263q843o4n00pqq9%23ighare&amsparams=playerid:vtuner;skey:1640106899
-#EXTINF:-1 tvg-logo="" group-title="pop",Strandbar HQ
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/0e/25/116343/1/c300.png" group-title="sommer,chillout",Strandbar
 http://barbaradio.hoerradar.de/barbaradio-strandbar-mp3-hq?sABC=61p146rq%230%23r4880qrn6s01nn6n263q843o4n00pqq9%23ubzrcntr&amsparams=playerid:homepage;skey:1640056557
-#EXTINF:-1 tvg-logo="https://studentenfunk-regensburg.de/wp-content/uploads/2018/04/linien-schrift.png" group-title="college radio",Studentenfunk
+#EXTINF:-1 tvg-logo="https://studentenfunk-regensburg.de/wp-content/uploads/2018/04/linien-schrift.png" group-title="college,talk,pop",Studentenfunk
 http://studentenfunk.out.airtime.pro:8000/studentenfunk_a
-#EXTINF:-1 tvg-logo="https://studentenfunk-regensburg.de/wp-content/themes/studentenfunk/images/apple-touch-icon.png" group-title="campus radio,student radio",Studentenfunk (Universität Regensburg)
+#EXTINF:-1 tvg-logo="https://studentenfunk-regensburg.de/wp-content/themes/studentenfunk/images/apple-touch-icon.png" group-title="college,talk,pop",Studentenfunk
 https://studentenfunk.out.airtime.pro/studentenfunk_a#
-#EXTINF:-1 tvg-logo="" group-title="alternative,dutch pop,dutch rock,indie,indie pop,indie rock,netherlands,pop rock",Studio NL
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/86/fd/105298/2/c300.png" group-title="alternative,dutch,pop",Studio NL
 http://studionl.stream.laut.fm/studionl?t302=2021-12-21_00-35-37&uuid=823d155f-a66a-4ebb-8c96-a6f48023d0b8
-#EXTINF:-1 tvg-logo="" group-title="pop,rock",Studio Riedberg
+#EXTINF:-1 tvg-logo="https://www.radio.de/images/broadcasts/d1/77/143831/1/c300.png" group-title="pop,rock,top 40",Studio Riedberg
 http://studio-riedberg.stream.laut.fm/studio-riedberg?t302=2021-12-21_17-49-37&uuid=a871098f-7560-42aa-b99e-fa5fb1b14a69
-#EXTINF:-1 tvg-logo="" group-title="krankenhausradio",Studiowelle Hiltrup
+#EXTINF:-1 tvg-logo="https://www.radio.de/images/broadcasts/25/17/39389/1/c300.png" group-title="pop,deutsch",Studiowelle Hiltrup
 http://server29247.streamplus.de:12876/
-#EXTINF:-1 tvg-logo="" group-title="classic rock,eclectic,jazz,local,local radio,pop",Südstadt Radio
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/aa/cc/123308/1/c300.png" group-title="classic,rock,eclectic",Südstadt Radio
 https://listen.radioking.com/radio/253861/stream/298342
-#EXTINF:-1 tvg-logo="" group-title="pop,rock",Sunrise Radio
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8b/Sunrise_Radio_logo.png" group-title="pop,rock",Sunrise Radio
 http://server2.blitz-stream.de:7920/
 #EXTINF:-1 tvg-logo="http://media.streamabc.com/sunshine-live/live/600x600__sunshine_live_colored.jpg" group-title="dance,trance",Sunshine Live
 http://sunshinelive.hoerradar.de/sunshinelive-live-mp3-hq?sABC=61p21poq%230%232qqpnss01895rqr0s8oq129o03s183o0%23fgernz.fhafuvar-yvir.qr&amsparams=playerid:stream.sunshine-live.de;skey:1640111293
-#EXTINF:-1 tvg-logo="http://funkyimg.com/i/2DtmD.jpg" group-title="90s,classic 90s",Sunshine Live - 90s Anthems
+#EXTINF:-1 tvg-logo="http://funkyimg.com/i/2DtmD.jpg" group-title="90s,classic,90er",Sunshine Live 90s Anthems
 http://sunsl.streamabc.net/sunsl-90santhems-mp3-128-6629159?sABC=61p2164p%230%232qqpnss01895rqr0s8oq129o03s183o0%23fgernz.fhafuvar-yvir.qr&amsparams=playerid:stream.sunshine-live.de;skey:1640109644
-#EXTINF:-1 tvg-logo="http://static.radio.de/images/broadcasts/57/51/108292/1/c175.png" group-title="electronica,techno,trance",Sunshine Live - Afterhour
+#EXTINF:-1 tvg-logo="http://static.radio.de/images/broadcasts/57/51/108292/1/c175.png" group-title="electronica,techno,trance",Sunshine Live Afterhour
 http://sunsl.streamabc.net/sunsl-sunsldfw8j6rqyqnlw-mp3-192-9761542?sABC=61p13o68%230%23r4880qrn6s01nn6n263q843o4n00pqq9%23fgernz.fhafuvar-yvir.qr&amsparams=playerid:stream.sunshine-live.de;skey:1640053608
-#EXTINF:-1 tvg-logo="" group-title="dance",sunshine live - Avicii
+#EXTINF:-1 tvg-logo="https://www.allradio.net/500/whMMkI6SC6XQdJoluwY6U.webp" group-title="dance,electronic",Sunshine Live Avicii
 https://sunsl.streamabc.net/sunsl-avicii-mp3-128-7171315?sABC=61p21921%230%23480403531qsn3q883o6q243r435924np%23fgernz.fhafuvar-yvir.qr&amsparams=playerid:stream.sunshine-live.de;skey:1640110369
-#EXTINF:-1 tvg-logo="http://static.radio.de/images/broadcasts/4a/2d/108293/1/c175.png" group-title="dance",Sunshine Live - Best of 20 years
+#EXTINF:-1 tvg-logo="http://static.radio.de/images/broadcasts/4a/2d/108293/1/c175.png" group-title="dance,electronic",Sunshine Live Best of 20 Years
 http://sunsl.streamabc.net/sunsl-christmas-mp3-192-7547837?sABC=61p1qo9r%230%23480403531qsn3q883o6q243r435924np%23fgernz.fhafuvar-yvir.qr&amsparams=playerid:stream.sunshine-live.de;skey:1640094622
-#EXTINF:-1 tvg-logo="http://static.radio.de/images/broadcasts/4a/2d/108293/1/c175.png" group-title="dance",Sunshine Live - Best of 20 years
+#EXTINF:-1 tvg-logo="http://static.radio.de/images/broadcasts/4a/2d/108293/1/c175.png" group-title="dance,electronic",Sunshine Live Best of 20 Years
 http://sunsl.streamabc.net/sunsl-bestof20-aacplus-64-3335940?sABC=61p1490q%230%23r4880qrn6s01nn6n263q843o4n00pqq9%23fgernz.fhafuvar-yvir.qr&amsparams=playerid:stream.sunshine-live.de;skey:1640057101
-#EXTINF:-1 tvg-logo="http://funkyimg.com/i/2Dtmc.jpg" group-title="beats,dark techno,deep",Sunshine Live - Bunker
+#EXTINF:-1 tvg-logo="http://funkyimg.com/i/2Dtmc.jpg" group-title="beats,dark,techno,deep",Sunshine Live Bunker
 http://sunsl.streamabc.net/sunsl-amsterdam-mp3-192-9011779?sABC=61p1rn25%230%232qqpnss01895rqr0s8oq129o03s183o0%23fgernz.fhafuvar-yvir.qr&amsparams=playerid:stream.sunshine-live.de;skey:1640098341
-#EXTINF:-1 tvg-logo="" group-title="charts,hits,top 40",Sunshine Live - Charts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7egJdOrbyYsAV0EobEzN15Gt7nAyRBvsAbyNENsyZZA&s" group-title="charts,hits,top 40",Sunshine Live Charts
 http://sunsl.streamabc.net/sunsl-charts-mp3-192-1193432?sABC=61p10p4o%230%232qqpnss01895rqr0s8oq129o03s183o0%23fgernz.fhafuvar-yvir.qr&amsparams=playerid:stream.sunshine-live.de;skey:1640041547
-#EXTINF:-1 tvg-logo="http://funkyimg.com/i/2Dtmn.jpg" group-title="chillout,relaxing,vocal deep",Sunshine Live - Chillout
+#EXTINF:-1 tvg-logo="http://funkyimg.com/i/2Dtmn.jpg" group-title="chillout,relaxing,vocal,deep",Sunshine Live Chillout
 http://sunsl.streamabc.net/sunsl-chillout-mp3-192-3900120?sABC=61p13ops%230%23480403531qsn3q883o6q243r435924np%23fgernz.fhafuvar-yvir.qr&amsparams=playerid:stream.sunshine-live.de;skey:1640053711
-#EXTINF:-1 tvg-logo="" group-title="192kbps,classic,house,live,sunshine,vocal",sunshine live - Classic & Vocal House
+#EXTINF:-1 tvg-logo="https://kuasark.com/files/stations-logos/sunshine-live-classic-vocal-house.png" group-title="classic,house,live,vocal",Sunshine Live Classic & Vocal House
 https://sunsl.streamabc.net/sunsl-classichouse-mp3-192-9589235?sABC=61p21p4r%230%232qqpnss01895rqr0s8oq129o03s183o0%23fgernz.fhafuvar-yvir.qr&amsparams=playerid:stream.sunshine-live.de;skey:1640111182
-#EXTINF:-1 tvg-logo="" group-title="192kbps,classic,house,live,sunshine,vocal",sunshine live - Classic & Vocal House
+#EXTINF:-1 tvg-logo="https://kuasark.com/files/stations-logos/sunshine-live-classic-vocal-house.png" group-title="classic,house,live,vocal",Sunshine Live Classic & Vocal House
 https://sunsl.streamabc.net/sunsl-classichouse-mp3-192-9589235?sABC=61p140ps%230%232qqpnss01895rqr0s8oq129o03s183o0%23fgernz.fhafuvar-yvir.qr&amsparams=playerid:stream.sunshine-live.de;skey:1640054991
-#EXTINF:-1 tvg-logo="" group-title="party",Sunshine Live - Classics
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/2e/54/21208/5/c300.png" group-title="dance,club,dj",Sunshine Live Classics
 http://sunshinelive.hoerradar.de/sunshinelive-classics-mp3-hq?sABC=61p13o29%230%23r4880qrn6s01nn6n263q843o4n00pqq9%23&amsparams=playerid:;skey:1640053545
-#EXTINF:-1 tvg-logo="http://media.streamabc.com/sunshine-live/classics/600x600__sunshine%20live_Classics_colored.jpg" group-title="00s,dance",Sunshine Live - Classics
+#EXTINF:-1 tvg-logo="http://media.streamabc.com/sunshine-live/classics/600x600__sunshine%20live_Classics_colored.jpg" group-title="dance,club,dj",Sunshine Live Classics
 http://sunshinelive.hoerradar.de/sunshinelive-classics-mp3-hq?sABC=61p1r950%230%232qqpnss01895rqr0s8oq129o03s183o0%23fgernz.fhafuvar-yvir.qr&amsparams=playerid:stream.sunshine-live.de;skey:1640098128
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s299490q.png" group-title="club,elektronik",Sunshine Live - Clubsound Berlin
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s299490q.png" group-title="club,elektronik",Sunshine Live Clubsound Berlin
 http://sunsl.streamabc.net/sunsl-playlist1-mp3-192-2595213?sABC=61p14n25%230%23r4880qrn6s01nn6n263q843o4n00pqq9%23fgernz.fhafuvar-yvir.qr&amsparams=playerid:stream.sunshine-live.de;skey:1640057381
-#EXTINF:-1 tvg-logo="" group-title="pop,rock",Sunshine Live - Die 80er
+#EXTINF:-1 tvg-logo="https://www.radio.de/images/broadcasts/65/23/117339/1/c300.png" group-title="pop,rock",Sunshine Live Die 80er
 http://sunsl.streamabc.net/sunsl-sunsl6eifqasv1fngh-mp3-192-9467550?sABC=61p2218s%230%23480403531qsn3q883o6q243r435924np%23&amsparams=playerid:;skey:1640112527
-#EXTINF:-1 tvg-logo="http://funkyimg.com/i/2Dtmj.jpg" group-title="80s,classic hits",Sunshine Live - Die 80er
+#EXTINF:-1 tvg-logo="http://funkyimg.com/i/2Dtmj.jpg" group-title="pop,rock",Sunshine Live Die 80er
 http://sunsl.streamabc.net/sunsl-sunsl6eifqasv1fngh-mp3-192-9467550?sABC=61p21q07%230%23480403531qsn3q883o6q243r435924np%23fgernz.fhafuvar-yvir.qr&amsparams=playerid:stream.sunshine-live.de;skey:1640111367
-#EXTINF:-1 tvg-logo="http://media.streamabc.com/sunshine-live/90er/600x600__sunshine_liveDie_90er_colored.jpg" group-title="90s,dance,electronica,eurodance",Sunshine Live - Die 90er
+#EXTINF:-1 tvg-logo="http://media.streamabc.com/sunshine-live/90er/600x600__sunshine_liveDie_90er_colored.jpg" group-title="90s,dance,electronica",Sunshine Live Die 90er
 http://sunshinelive.hoerradar.de/sunshinelive-90er-mp3-hq?sABC=61p13n16%230%232qqpnss01895rqr0s8oq129o03s183o0%23fgernz.fhafuvar-yvir.qr&amsparams=playerid:stream.sunshine-live.de;skey:1640053270
-#EXTINF:-1 tvg-logo="" group-title="dance",Sunshine Live - Die 90er
+#EXTINF:-1 tvg-logo="http://media.streamabc.com/sunshine-live/90er/600x600__sunshine_liveDie_90er_colored.jpg" group-title="90s,dance,electronica",Sunshine Live Die 90er
 http://sunshinelive.hoerradar.de/sunshinelive-90er-mp3-hq?sABC=61p214so%230%23480403531qsn3q883o6q243r435924np%23&amsparams=playerid:;skey:1640109307
-#EXTINF:-1 tvg-logo="" group-title="drum and bass",Sunshine Live - Drum 'N' Bass
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/49/9a/39616/2/c300.png" group-title="drum,bass,club,dj",Sunshine Live Drum 'N' Bass
 http://sunshinelive.hoerradar.de/sunshinelive-dnb-mp3-hq?sABC=61p20rn7%230%23480403531qsn3q883o6q243r435924np%23fgernz.fhafuvar-yvir.qr&amsparams=playerid:stream.sunshine-live.de;skey:1640107687
-#EXTINF:-1 tvg-logo="" group-title="charts",Sunshine Live - Drum N Bass
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/49/9a/39616/2/c300.png" group-title="drum,bass,club,dj",Sunshine Live Drum 'N' Bass
 http://sunshinelive.hoerradar.de/sunshinelive-dnb-mp3-hq?sABC=61p20617%230%232qqpnss01895rqr0s8oq129o03s183o0%23&amsparams=playerid:;skey:1640105495
-#EXTINF:-1 tvg-logo="http://media.streamabc.com/sunshine-live/edm/600x600__sunshine_live_EDM_colored.jpg" group-title="dance,edm",Sunshine Live - EDM
+#EXTINF:-1 tvg-logo="http://media.streamabc.com/sunshine-live/edm/600x600__sunshine_live_EDM_colored.jpg" group-title="dance,edm",Sunshine Live EDM
 http://sunshinelive.hoerradar.de/sunshinelive-edm-mp3-hq?sABC=61p20sqp%230%23r4880qrn6s01nn6n263q843o4n00pqq9%23fgernz.fhafuvar-yvir.qr&amsparams=playerid:stream.sunshine-live.de;skey:1640107996
-#EXTINF:-1 tvg-logo="http://media.streamabc.com/sunshine-live/festival/600x600__sunshine_live_Festival_colored.png" group-title="electronic,events,house,live,techno",Sunshine Live - Festival
+#EXTINF:-1 tvg-logo="http://media.streamabc.com/sunshine-live/festival/600x600__sunshine_live_Festival_colored.png" group-title="electronic,events,house",Sunshine Live Festival
 http://sunshinelive.hoerradar.de/sunshinelive-festival-mp3-hq?sABC=61p2191p%230%23480403531qsn3q883o6q243r435924np%23fgernz.fhafuvar-yvir.qr&amsparams=playerid:stream.sunshine-live.de;skey:1640110364
-#EXTINF:-1 tvg-logo="" group-title="pop,rock",Sunshine Live - Festival
+#EXTINF:-1 tvg-logo="http://media.streamabc.com/sunshine-live/festival/600x600__sunshine_live_Festival_colored.png" group-title="electronic,events,house",Sunshine Live Festival
 http://sunshinelive.hoerradar.de/sunshinelive-festival-mp3-hq?sABC=61p145rs%230%23r4880qrn6s01nn6n263q843o4n00pqq9%23&amsparams=playerid:;skey:1640056303
-#EXTINF:-1 tvg-logo="https://www.phonostar.de/images/auto_created/sunshine_live_gaming184x184.png" group-title="electro,gaming",Sunshine Live - Gaming
+#EXTINF:-1 tvg-logo="https://www.phonostar.de/images/auto_created/sunshine_live_gaming184x184.png" group-title="electro,gaming",Sunshine Live Gaming
 http://sunsl.streamabc.net/sunsl-gaming-mp3-192-3446518?sABC=61p15nq2%230%23r4880qrn6s01nn6n263q843o4n00pqq9%23fgernz.fhafuvar-yvir.qr&amsparams=playerid:stream.sunshine-live.de;skey:1640061650
-#EXTINF:-1 tvg-logo="http://www.sunshine-live.de//_nuxt/icons/icon_64.964qFBKj2AM.png" group-title="",Sunshine Live - German Techno
+#EXTINF:-1 tvg-logo="http://www.sunshine-live.de//_nuxt/icons/icon_64.964qFBKj2AM.png" group-title="techno,dance",Sunshine Live German Techno
 http://sunsl.streamabc.net/sunsl-germantechno-mp3-192-8949784?sABC=61p1q288%230%232qqpnss01895rqr0s8oq129o03s183o0%23&amsparams=playerid:;skey:1640092296
-#EXTINF:-1 tvg-logo="http://www.sunshine-live.de//_nuxt/icons/icon_64.964qFBKj2AM.png" group-title="",Sunshine Live - German Techno
+#EXTINF:-1 tvg-logo="http://www.sunshine-live.de//_nuxt/icons/icon_64.964qFBKj2AM.png" group-title="techno,dance",Sunshine Live German Techno
 http://sunsl.streamabc.net/sunsl-germantechno-mp3-192-8949784?sABC=61p11215%230%23r4880qrn6s01nn6n263q843o4n00pqq9%23&amsparams=playerid:;skey:1640043029
-#EXTINF:-1 tvg-logo="" group-title="pop,rock",Sunshine Live - Hands Up
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s268510/images/logog.png?t=1" group-title="dance,electronic,pop",Sunshine Live Hands Up
 http://sunshinelive.hoerradar.de/sunshinelive-handsup-mp3-hq?sABC=61p141p4%230%232qqpnss01895rqr0s8oq129o03s183o0%23&amsparams=playerid:;skey:1640055236
-#EXTINF:-1 tvg-logo="" group-title="handsup",Sunshine Live - Hands Up
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s268510/images/logog.png?t=1" group-title="dance,electronic,pop",Sunshine Live Hands Up
 http://sunshinelive.hoerradar.de/sunshinelive-handsup-mp3-hq?sABC=61p202s1%230%23r4880qrn6s01nn6n263q843o4n00pqq9%23fgernz.fhafuvar-yvir.qr&amsparams=playerid:stream.sunshine-live.de;skey:1640104689
 #EXTINF:-1 tvg-logo="http://media.streamabc.com/sunshine-live/hard/600x600__sunshine_live_Hard_colored.jpg" group-title="hard techno,hardcore,hardstyle,techno",Sunshine Live - Hard
 http://sunshinelive.hoerradar.de/sunshinelive-hard-mp3-hq?sABC=61p20391%230%232qqpnss01895rqr0s8oq129o03s183o0%23fgernz.fhafuvar-yvir.qr&amsparams=playerid:stream.sunshine-live.de;skey:1640104849
