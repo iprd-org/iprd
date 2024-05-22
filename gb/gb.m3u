@@ -1345,8 +1345,10 @@ https://s6.voscast.com:7787/stream
 http://station.worldsawakeningradio.com:8000/radio.mp3
 #EXTINF:-1 tvg-logo="http://worldwidefm.net/favicon.ico" group-title="electronica,jazz,world music",Worldwide FM
 http://worldwidefm.out.airtime.pro:8000/worldwidefm_a
-#EXTINF:-1 tvg-logo="" group-title="international,news,world radio",WRN Europe
-http://shoutcast.wrn.org:8026/
+#EXTINF:-1 tvg-logo="https://2xfsxz394vd5hn5q4qxb878f-wpengine.netdna-ssl.com/wp-content/themes/encompassmarketing/library/images/logoDK.svg" group-title="news,talk",World Radio Network Europe
+http://streaming.edmradio.online:8025/WRN-E
+#EXTINF:-1 tvg-logo="https://2xfsxz394vd5hn5q4qxb878f-wpengine.netdna-ssl.com/wp-content/themes/encompassmarketing/library/images/logoDK.svg" group-title="news,talk",World Radio Network North America
+http://streaming.edmradio.online:8025/NAMAAP
 #EXTINF:-1 tvg-logo="https://wyldwood.org/wp-content/uploads/2021/03/cropped-logo-150x150-1-1-180x180.png" group-title="dark folk,folk,gothic,neofolk,pagan,tribal",Wyldwood Radio
 https://hazel.torontocast.com:2190/stream
 #EXTINF:-1 tvg-logo="https://mmo.aiircdn.com/366/601ec9bad9621.png" group-title="hereford,students,university,university radio,worcester,worcestershire,youth",Youthcomm Radio
