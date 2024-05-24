@@ -12,7 +12,7 @@ http://109.233.192.78:8000/_a
 #EXTINF:-1 tvg-logo="http://www.frocus.net/images/logotv/original/russkoe-radio-moldova-2016.jpg" group-title="russian pop",Like FM - Русское радио
 http://live.ruradio.md:8000/ruradio
 #EXTINF:-1 tvg-logo="http://www.prodjradio.net/wp-content/themes/theme1342/images/logo.png" group-title="pop,top 40",LOVE PRO Dj Radio Chisinau
-http://live.prodjradio.net:8000/;
+http://live.prodjradio.net:8000/listen.pls
 #EXTINF:-1 tvg-logo="" group-title="",love radio
 http://37.233.41.76:8000/lovefm
 #EXTINF:-1 tvg-logo="http://www.frocus.net/images/logotv/maestro.jpg" group-title="",Maestro FM
@@ -34,7 +34,7 @@ http://live.noroc.tv:8000/radionoroc.mp3
 #EXTINF:-1 tvg-logo="http://www.frocus.net/images/logotv/original/r_one_md17.jpg" group-title="music,news",Radio ONE Moldova
 http://radio1.md:8000/r1
 #EXTINF:-1 tvg-logo="https://c.radikal.ru/c23/1811/fe/bf75116b5698.png" group-title="",Radio Orhei FM
-http://live.prodjradio.net:8030/;
+http://live.prodjradio.net:8030/listen.pls
 #EXTINF:-1 tvg-logo="http://www.radioplai.md/favicon.ico" group-title="",RADIO PLAI
 http://stream.radioplai.md:8000/live
 #EXTINF:-1 tvg-logo="https://cdnn1.img.sputnik.md/i/favicon/favicon-120x120.png" group-title="news",Radio Sputnik Moldova

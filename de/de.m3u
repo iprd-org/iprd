@@ -870,7 +870,7 @@ http://server7.streamserver24.com:28714/stream
 #EXTINF:-1 tvg-logo="http://www.acid-jazz-radio.de/logo-gruen.jpg" group-title="acid,jazz,dance",Acid Jazz Radio
 http://acidjazz.stream.laut.fm/acidjazz?t302=2021-12-21_16-16-36&uuid=e92aae83-3ae3-44b5-8d29-dd1dee29262c
 #EXTINF:-1 tvg-logo="https://adbt.it.cx/favicon.ico" group-title="classical,jpop,kpop",ADBT Radio
-http://217.79.181.61:8000/;
+http://217.79.181.61:8000/listen.pls
 #EXTINF:-1 tvg-logo="http://www.m945.de/images/logo_footer.png" group-title="indie,student",M94.5
 http://stream.m945.de/m945-hq.aac
 #EXTINF:-1 tvg-logo="http://www.m945.de/images/logo_footer.png" group-title="indie,student",M94.5
@@ -892,7 +892,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_STU_SC
 #EXTINF:-1 tvg-logo="http://www.afneurope.net/portals/100/Images/Wiesbaden_AFN360Revamped-01.png" group-title="urban,top 40,charts",AFN 360 Wiesbaden
 https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_WBN_SC
 #EXTINF:-1 tvg-logo="https://i3.radionomy.com/radios/400/79d4f12c-ecdc-4d8c-9a5f-e9142f09b694.png" group-title="deutschrock,metal,hard",AGF-Radio
-http://service.pop-stream.de:4000/;
+http://service.pop-stream.de:4000/listen.pls
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/2/44462.v2.png" group-title="stoner,rock",Aircooled
 http://aircooled.stream.laut.fm/aircooled?t302=2021-12-21_18-29-12&uuid=249852df-3185-493d-9fe7-76a1d2d8e852
 #EXTINF:-1 tvg-logo="http://akademieradio.de/favicon.ico" group-title="arts,culture,experimental",Akademieradio
@@ -1634,7 +1634,7 @@ http://51.89.173.53:8000/stream
 #EXTINF:-1 tvg-logo="https://radioslovo.net/img/microphone.png" group-title="bibel,bible,christian",Das Offenbarte Wort
 https://rs.radioslovo.net:4125/stream?1619346366224
 #EXTINF:-1 tvg-logo="http://www.dasradiodervonneilyounggetoeteten.de/wp-content/uploads/2015/11/cropped-neal_6-192x192.jpg" group-title="rock,hits",Das Radio der von Neil Young Getöteten
-http://streamplus52.leonex.de:11216/;
+http://streamplus52.leonex.de:11216/listen.pls
 #EXTINF:-1 tvg-logo="https://dasding.de/assets/dasding/apple-touch-icon-120x120.png" group-title="alternative,electro",DASDING
 https://f131.rndfnk.com/ard/swr/dasding/live/aac/96/stream.aac?aggregator=web&sid=22bddIXSznTPS9rpFhmgLrcSvpx&token=IMYBPDkGBaaJ_ZUKLtZNMcNE2BOKvjgadW6IBm0m_70&tvf=dfbziUfrwhZmMTMxLnJuZGZuay5jb20
 #EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/38539.png" group-title="ebm,futurepop,synthpop",Das Sofa
@@ -1812,7 +1812,7 @@ http://server4.streamserver24.com:22126/stream
 #EXTINF:-1 tvg-logo="https://dinkelwelle.de/wp-content/uploads/2016/05/cropped-dinkel_radio-300x300.png" group-title="folklore,schlager",Dinkelwelle
 http://server4.streamserver24.com:22126/
 #EXTINF:-1 tvg-logo="https://discofoxfm.de/templates/yoo_avenue/favicon.ico" group-title="disco,schlager",Discofox FM
-http://87.118.78.2:8000/;
+http://87.118.78.2:8000/listen.pls
 #EXTINF:-1 tvg-logo="http://discofox-hithaus.com/favicon.ico" group-title="discofox,hits,schlager",Discofox-Hithaus
 http://discofox-hithaus.com:11550/
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/3/88403.v4.png" group-title="pop,rock",Discollection Radio
@@ -1880,7 +1880,7 @@ http://server25531.streamplus.de/;stream.mp3
 #EXTINF:-1 tvg-logo="https://radio.dwgradio.net/cz/wp-content/uploads/2018/03/cropped-DWGradio-Favicon-270x270.png" group-title="christian,praise,czech",DWG Radio Český
 https://server25530.streamplus.de/;stream.mp3
 #EXTINF:-1 tvg-logo="http://static.radio.de/images/broadcasts/8b/5c/4150/c175.png" group-title="christian,religious,german",DWG Radio German
-http://server23644.streamplus.de/;
+http://server23644.streamplus.de/listen.pls
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/p310404g.png" group-title="chill,chillout,ethnic",Earth & Beat
 http://eilo.org:8000/earthbeat
 #EXTINF:-1 tvg-logo="https://eastsidefm.org/static/3a994d1ed74a303394dc6f71463d1552/dd515/wolf-face.jpg" group-title="hits,jugendradio,pop",Eastside 89.7
@@ -2080,7 +2080,7 @@ http://exogaming.stream.laut.fm/exogaming?t302=2021-12-21_06-07-15&uuid=0d813ee8
 #EXTINF:-1 tvg-logo="http://www.extra-radio.de/images/favicon/apple-touch-icon.png" group-title="80s,90s,pop,oldies",extra-radio
 http://www.radionetz.de:8000/extra-radio.mp3
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/4b/85/4b85b23d85694b324f218ccf371ac1ab.jpg" group-title="variety,pop",Fantastic-Radio
-http://81.169.137.95:8100/;
+http://81.169.137.95:8100/listen.pls
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe85xbOKbYPYymdYbOknIkc3cuJAulBojfWzA-r6nkWw&s" group-title="hard,rock",Farming Fun and More
 http://farmingfunandmore.stream.laut.fm/farmingfunandmore?pl=m3u&t302=2021-12-21_14-16-41&uuid=3be73c26-cc49-4d81-8f19-ad593319ec32
 #EXTINF:-1 tvg-logo="https://www.radio.de/images/broadcasts/f3/9b/111150/1/c300.png" group-title="hits,party",100% Eskalation von Feierfreund
@@ -2378,7 +2378,7 @@ http://streamplus19.leonex.de:11036/;audio.mp3
 #EXTINF:-1 tvg-logo="https://groover-images.s3.eu-west-3.amazonaws.com/prod/influencer/0.freies-radio-fratz/profile_picture/400_400?1704591129172" group-title="community,freies,politics",Freies Radio Fratz
 https://stream.radio-fratz.de/stream.mp3
 #EXTINF:-1 tvg-logo="http://www.radio-fds.de/fileadmin/template_foundation_2014/img/favicon.ico" group-title="jazz,alternative",Freies Radio Freudenstadt 89.2
-http://85.25.176.186:9140/;
+http://85.25.176.186:9140/listen.pls
 #EXTINF:-1 tvg-logo="http://www.freies-radio.de/sites/default/files/radio_logo.gif" group-title="classical,jazz,punk",Freies Radio für Stuttgart 99.2
 http://streaming.fueralle.org:8000/frs-hi.mp3
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcCvjKRjf_EylCSEFyl3Dl_XY-l-_bwiCNCcZJj4Gh0A&s" group-title="rock,alternative,pop",Freies Radio Kassel 105.8
@@ -2466,13 +2466,13 @@ http://gamersone.stream.laut.fm/gamersone?t302=2021-12-21_17-45-13&uuid=7799ca93
 #EXTINF:-1 tvg-logo="https://www.ganorium.com/wp-content/uploads/2018/10/ganorium-radio-2018-favicon.png" group-title="club,dance,dj",Ganorium Radio
 https://ganorium-radio.stream.laut.fm/ganorium-radio
 #EXTINF:-1 tvg-logo="https://gaessjer.live/favicon.png" group-title="freies,free,variety",Gässjer FM
-https://gaesserfm.radioca.st/;
+https://gaesserfm.radioca.st/listen.pls
 #EXTINF:-1 tvg-logo="http://www.gayfm.de/images/logos/logo.png" group-title="dance,pop",GAYFM
 http://icepool.silvacast.com/GAYFM.mp3
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/TXvQELcMMv.png" group-title="christian,religious",Gemeinde Gottes Hamm
 http://49.12.36.4:8000/;stream.mp3
 #EXTINF:-1 tvg-logo="https://gemeindegottesinpforzheim.de/favicon.ico" group-title="christian,religious",Gemeinde Gottes in Pforzheim
-http://server22887.streamplus.de:18808/;
+http://server22887.streamplus.de:18808/listen.pls
 #EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/be/c7/111729/2/c300.png" group-title="gothic,electro,industrial",German Gothic Radio
 http://german-gothic-radio.stream.laut.fm/german-gothic-radio?t302=2021-12-21_18-20-19&uuid=9126fbe0-ea87-4738-804a-9767f626d5e0
 #EXTINF:-1 tvg-logo="https://assets.laut.fm/090a0900eeee3abf0a6ed79db39e251a?t=_640x640" group-title="dance,techno",German Tuner Radio
@@ -2480,15 +2480,15 @@ http://german-tuner-radio.stream.laut.fm/german-tuner-radio?t302=2021-12-21_01-4
 #EXTINF:-1 tvg-logo="https://online-radio.eu/logo/11/11274.jpg" group-title="rap,hip hop",Germandream Radio
 http://germandreamradio.stream.laut.fm/germandreamradio?t302=2021-12-21_03-24-54&uuid=ed3e1cac-2972-43ff-8bff-c6c8ee20bdb7
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOp61MZfclnMECQyX9xsUyNEd8nLyHuUzQOaGGaHJ1Kw&s" group-title="dj,mixes,electro",Ghostshipradio
-http://server34502.streamplus.de:12288/;
+http://server34502.streamplus.de:12288/listen.pls
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_PARp1Uhl4q8tJM6QapVrW4mlJAV9Hsmy50RpfWXfOA&s" group-title="folk,pop,rock",Gipsy Voice Folk
 http://radio.ransis.org:8000/gipsyvoice
 #EXTINF:-1 tvg-logo="https://gitarre.blog//wp-content/uploads/2019/06/gitarre_logo_rund.jpg" group-title="acoustic,guitar",Gitarren-Radio
 http://gitarrenradio.stream.laut.fm/gitarrenradio?t302=2021-12-21_19-23-41&uuid=ace74724-95f4-4fd5-bbf7-0989d3c7f18a
 #EXTINF:-1 tvg-logo="http://www.globalbeats.fm/site/templates/gbg/images/icon.png" group-title="progressive,trance",GlobalBeats FM Blue Channel
-http://gbs01.de:7120/;
+http://gbs01.de:7120/listen.pls
 #EXTINF:-1 tvg-logo="http://www.globalbeats.fm/site/templates/gbg/images/icon.png" group-title="electro,house,minimal",GlobalBeats FM White Channel
-http://gbs01.de:7210/;
+http://gbs01.de:7210/listen.pls
 #EXTINF:-1 tvg-logo="https://www.gongfm.de/storage/thumbs/192x192/r:1559130023/2860.png" group-title="pop,electro",Gong FM Regensburg
 http://fhr-ais-edge-4005-dus-dtag-cdn.cast.addradio.de/fhr/radiogongfm/live/mp3/128/stream.mp3?_art=dj0yJmlwPTk1LjE3OS4xMzkuMTA2JmlkPWljc2N4bC1ncDZtcWR4bGImdD0xNjQwMTk3MzEyJnM9Nzg2NmYyOWMjMDg2ZmVmZjEwNTJiODViNjRkMmUwZDRhZDQwMGQ5NmQ
 #EXTINF:-1 tvg-logo="https://www.gospelradio.de/wp-content/uploads/cropped-favicon-180x180.gif" group-title="christian,religious",Gospelradio.de
@@ -2520,7 +2520,7 @@ https://edge53.streamonkey.net/hh2-950?aggregator=linkhamburgzweide
 #EXTINF:-1 tvg-logo="https://www.handwerker-radio.de/favicon.ico" group-title="pop,rock",Handwerker Radio
 https://s37.derstream.net/handwerker-radio.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/a6/80/34931/2/c300.png" group-title="pop,80s,90s",RTI
-http://87.118.126.241:8092/;
+http://87.118.126.241:8092/listen.pls
 #EXTINF:-1 tvg-logo="https://i3.radionomy.com/radios/400/c7b90e8c-d8a0-4946-a00c-be656b28ab3a.png" group-title="dance,dubstep,hardstyle",HardBase.FM
 http://listener2.mp3.tb-group.fm:80/hb.mp3
 #EXTINF:-1 tvg-logo="https://www.hardbase.fm/media/icons/hb/apple-touch-icon.png" group-title="dance,dubstep,hardstyle",HardBase.FM
@@ -3056,7 +3056,7 @@ http://s1.knixx.fm/dein_webradio_128.mp3
 #EXTINF:-1 tvg-logo="https://seeded-session-images.scdn.co/v2/img/122/secondary/artist/74EM5VMsCr1KhdwT74oHiv/en" group-title="christian,religious",Koinonia Radio
 https://www.koinonia-radio.de/live.ogg
 #EXTINF:-1 tvg-logo="http://static.radio.net/images/broadcasts/b8/9c/3597/c175.png" group-title="progressive,psychedelic,rock",Krautrock World
-http://94.249.254.14:7592/;
+http://94.249.254.14:7592/listen.pls
 #EXTINF:-1 tvg-logo="https://www.radio.de/images/broadcasts/b8/9c/3597/c300.png" group-title="kraut-rock,progressive",Krautrock-World
 http://94.249.254.14:7592/stream
 #EXTINF:-1 tvg-logo="https://www.krawallradio.com///templates/protostar_kr/favicon.ico" group-title="rock,pop",Krawallradio
@@ -3314,7 +3314,7 @@ http://rs18.stream24.net/leinewelle.mp3
 #EXTINF:-1 tvg-logo="https://www.sachsen-fernsehen.de/wp-content/themes/sachsen/assets/img/favicon.ico" group-title="pop,hits",Leipzig Eins
 https://irmedia.streamabc.net/irm-l1-mp3-192-1992149
 #EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/com.idmgroup.lab.images.prod/pic/living/Germany/radio/radio-and-bearbanner.jpg" group-title="community,education",Lern Radio
-http://193.197.85.26:8000/;
+http://193.197.85.26:8000/listen.pls
 #EXTINF:-1 tvg-logo="https://images.streamitter.com/logos/X28F2.png" group-title="rock,top 40",Liederlicht
 http://liederlicht.stream.laut.fm/liederlicht?t302=2021-12-21_00-17-23&uuid=db6f7c96-92a7-40f2-98e2-2da74ae1a5a8
 #EXTINF:-1 tvg-logo="https://lightbeat-radio.de/wp-content/uploads/2018/03/cropped-Lightbeat-noch-kleinerr-1-270x270.jpg" group-title="alternative,international,jazz",LightBeat Radio
@@ -3328,7 +3328,7 @@ http://radiolikefm.stream.laut.fm/radiolikefm?t302=2021-12-21_18-12-33&uuid=beff
 #EXTINF:-1 tvg-logo="http://likethatunderground.com/wp-content/uploads/2017/09/cropped-LTU-Logo-270x270.png" group-title="techno,house",Like That Underground
 http://hyades.shoutca.st:8091/stream
 #EXTINF:-1 tvg-logo="http://www.gemeinde-gottes-gifhorn.de/favicon.ico" group-title="christian,religious",Livestream der Gemeinde Gottes Gifhorn
-http://46.4.107.89:8000/;
+http://46.4.107.89:8000/listen.pls
 #EXTINF:-1 tvg-logo="https://bethaus.de/favicon.ico" group-title="christian,religious",Livestream EBG Wiesbaden
 http://segenswelle.de:8000/ebg-wiesbaden
 #EXTINF:-1 tvg-logo="http://www.xn--efk-bnde-b6a.de/wp-content/mediathek/2021/05/Header2Sa18-1-1024x576.jpg" group-title="christian,religious",Livestream EFK-Buende 
@@ -3596,7 +3596,7 @@ https://www.memoryradio.de:4420
 #EXTINF:-1 tvg-logo="http://memoryradio.de/favicon.ico" group-title="20s,30s,40s,50s,schlager",Memoryradio 2
 http://www.memoryradio.de:5000/
 #EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/3a/c4/4580/c300.png" group-title="oldies,hits",MemoryRadio 
-http://memoryradio.de:4100/;
+http://memoryradio.de:4100/listen.pls
 #EXTINF:-1 tvg-logo="https://radiomephisto.de/sites/default/files/favicon32.png" group-title="kopfhörer,variety,university",Mephisto 97.6
 http://radiostream.radio.uni-leipzig.de:8000/mephisto976_livestream.mp3
 #EXTINF:-1 tvg-logo="https://www.phonostar.de/images/auto_created/metal_only184x184.png" group-title="medieval,metal,rock",Metal Only
@@ -3784,7 +3784,7 @@ https://neofolk.stream.laut.fm/neofolk?t302=2021-12-21_17-30-56&uuid=b6779ad3-da
 #EXTINF:-1 tvg-logo="http://www.neon.de/favicon.ico" group-title="dance,rock,pop",Neon FM
 http://neon.stream.laut.fm/neon?t302=2021-12-21_19-53-02&uuid=b7ee24e7-1a75-4a79-939d-65eb964084b5
 #EXTINF:-1 tvg-logo="https://the.nag.zone/wp-content/uploads/2017/01/cropped-nag_favicon5-180x180.png" group-title="dance,electronic,rock",Nerds and Geeks: THE STATION
-http://136.243.156.30:2808/stream/2/;
+http://136.243.156.30:2808/stream/2/listen.pls
 #EXTINF:-1 tvg-logo="https://netlabel.org/wp-content/uploads/2021/01/cropped-netlabel_org_logo_512x512-1-1.png" group-title="acoustic,dj,sets",Netlabel.org
 https://netlabelorg.stream.laut.fm/netlabel_org
 #EXTINF:-1 tvg-logo="http://www.nicetv.de/favicon.ico" group-title="dj,mixes,dance",nice - MIX mit Enrico Ostendorf
@@ -4132,7 +4132,7 @@ http://radioalexfm.stream.laut.fm/radioalexfm?t302=2021-12-21_19-00-58&uuid=c242
 #EXTINF:-1 tvg-logo="https://allelon.radio/wp-content/uploads/2017/06/nia_2.jpg" group-title="christian,religious",Radio Allelon
 http://allelon.streamabc.net/alon-allelonradio-mp3-128-3648329?sABC=61p13r6p%231%23%23Ubzrcntr&amsparams=playerid:Homepage;skey:1640054380
 #EXTINF:-1 tvg-logo="http://www.radio-alpenfunk.de/cms/wp-content/uploads/2015/07/favicon-96x96.png" group-title="country,instrumental,oldies",Radio Alpenfunk
-http://81.169.174.242:7000/;
+http://81.169.174.242:7000/listen.pls
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw8ichTB9uOaDcybgikT53phwaDQeIbGlkrmjNDCCrRw&s" group-title="pop,hits",Radio Alpenwelle
 http://live.alpenwelle.de/alpenwelle128.mp3
 #EXTINF:-1 tvg-logo="https://kuasark.com/files/stations-logos/radio-amazing.png" group-title="pop,rock",Radio Amazing
@@ -4526,11 +4526,11 @@ http://stream2.radiohbr.de:8080/stream.aac
 #EXTINF:-1 tvg-logo="http://www.radio-hbw.de/images/logo.jpg" group-title="adult,contemporary",radio hbw
 http://server26678.streamplus.de/;stream.mp3
 #EXTINF:-1 tvg-logo="http://www.radio-heimatmelodie.de/favicon.ico" group-title="folk,schlager",Radio Heimatmelodie
-http://play.radio-heimatmelodie.de/;
+http://play.radio-heimatmelodie.de/listen.pls
 #EXTINF:-1 tvg-logo="http://www.radio-heimatmelodie.de/images/favicon.ico" group-title="folk,schlager",Radio Heimatmelodie
-http://212.77.178.166:8080/;
+http://212.77.178.166:8080/listen.pls
 #EXTINF:-1 tvg-logo="http://www.radio-heimatmelodie.de/images/favicon.ico" group-title="folklore,schlager,volksmusik",Radio Heimatmelodie
-http://212.77.178.166:8010/;
+http://212.77.178.166:8010/listen.pls
 #EXTINF:-1 tvg-logo="http://www.radioherford.de/fileadmin/ams/Shared/Public/custom/img/rahf-square-500.png" group-title="pop,talk",Radio Herford
 http://radioherford-ais-edge-3007-fra-eco-cdn.cast.addradio.de/radioherford/live/mp3/high?ar-distributor=f0d1&_art=dj0yJmlwPTkxLjEzMi4xNDUuMTE0JmlkPWljc2N4bC1na2xmYXNpbWImdD0xNjQwMTM2NzUxJnM9Nzg2NmYyOWMjNTI1OGM2NDc2M2Q2YmJjZmNhMmJiMWMyMTY0OTEwMDA
 #EXTINF:-1 tvg-logo="https://www.radioherne.de/assets/images/senderlogos/radio_herne.png" group-title="pop,hits",Radio Herne 90.8
@@ -4848,7 +4848,7 @@ http://radiosiegen-ais-edge-3001-fra-eco-cdn.cast.addradio.de/radiosiegen/live/m
 #EXTINF:-1 tvg-logo="http://www.radio.slubfurt.net/favicon.ico" group-title="community,free,non-commercial",Radio Słubfurt
 http://streaming.fueralle.org:8000/slubfurt
 #EXTINF:-1 tvg-logo="http://static.radio.de/images/broadcasts/fc/08/25733/c175.png" group-title="alternative,gothic,industrial",Radio SoC Shadow Of Convulsion
-http://stream.radio-soc.de:9200/;
+http://stream.radio-soc.de:9200/listen.pls
 #EXTINF:-1 tvg-logo="http://www.sthoerfunk.de/images/icons/favicon.ico" group-title="pop,jazz,indie",Radio StHörfunk
 http://stream.sthoerfunk.de:7000/sthoerfunk.ogg
 #EXTINF:-1 tvg-logo="https://www.radiostonefm.de/images/stonefm/logo/logo_orange_round_100.png" group-title="rock,experimental,metal",Radio StoneFM
@@ -4976,7 +4976,7 @@ http://snd.radio-z.net:8000/Radio-Z
 #EXTINF:-1 tvg-logo="https://radiozeri.com/wp-content/uploads/2020/01/cropped-radiozeri-logo-1-180x180.png" group-title="folk,albanian",Radio Zëri
 http://radiozeri.radioca.st:8846/stream
 #EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/b4/f8/9402/c300.png" group-title="rock,pop,electro",Radio Zombiestation
-http://81.169.218.25:8000/;
+http://81.169.218.25:8000/listen.pls
 #EXTINF:-1 tvg-logo="https://www.radio-zoom.de//fileadmin/template/Public/images/rz_touch-icon.png" group-title="80s,country,soundtracks",Radio Zoom
 http://musik.radio-zoom.de:8000/
 #EXTINF:-1 tvg-logo="http://zusa.de//images/favicon.ico" group-title="indie,pop,alternative",Radio ZuSa
@@ -5108,7 +5108,7 @@ http://high.radiosuperoldie.com:8888/
 #EXTINF:-1 tvg-logo="https://2022.radiot-chemnitz.de/images/static/RTlogog.png" group-title="world,variety",Radio T
 http://streaming.fueralle.org/radiot.mp3
 #EXTINF:-1 tvg-logo="https://radius921.de/wp-content/uploads/2018/12/radius921_logo-u4680_2x-1-500x320.png" group-title="student,rock,pop",Radius 92.1
-http://141.99.154.10:8002/;
+http://141.99.154.10:8002/listen.pls
 #EXTINF:-1 tvg-logo="https://www.phonostar.de/images/auto_created/lautfm_rafin184x184.png" group-title="rock,deutsch",Rafin
 http://rafin.stream.laut.fm/rafin?pl=pls&t302=2021-12-21_17-56-45&uuid=cbebed33-7c22-48f3-9934-3c7a53b69ba0
 #EXTINF:-1 tvg-logo="https://www.ramasuri.de//favicon.ico" group-title="news,oberpfalz,pop",Ramasuri
@@ -5166,7 +5166,7 @@ http://d131.rndfnk.com/ard/rbb/rbbkultur/live/mp3/256/stream.mp3?sid=22aWzhauI4z
 #EXTINF:-1 tvg-logo="http://www.rbb-online.de/content/dam/rbb/rbb/logos/touch/rbb-n-128.png" group-title="classical,jazz,kultur",RBB Kulturradio
 http://f141.rndfnk.com/ard/rbb/rbbkultur/live/mp3/256/stream.mp3?sid=22bSZSewtHjymWTCX0DqLNbQm3j&token=pr0GZbCB1ymWnFPt_bTeBTfjYa81rt8G54Y49t0KZH0&tvf=Vpjzm1DmwhZmMTQxLnJuZGZuay5jb20
 #EXTINF:-1 tvg-logo="http://www.rbiradio.eu/rbilogo_neu_start.jpg" group-title="60s,70s,80s",RBI Radio
-http://85.195.72.226:18576/;
+http://85.195.72.226:18576/listen.pls
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBQJqNpEFP8nAeKdAhejWxid5ckA9AB42VOlba_jWaqA&s" group-title="pop,rock,gospel",Rebecca Radio Gospel
 http://s3.myradiostream.com:9164/listen.mp3
 #EXTINF:-1 tvg-logo="http://reboot.fm/wp-content/themes/neutica-theme-109/neutica/img/reboot.fm.yellow.horizontal.gif" group-title="electronic,experimental",Reboot FM
@@ -5862,7 +5862,7 @@ http://tfm-80s90s.stream.laut.fm/tfm-80s90s?t302=2021-12-21_17-19-24&uuid=726f78
 #EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/109524932.jpg" group-title="rock,hits",TFM Rock
 http://tfm-rock.stream.laut.fm/tfm-rock?t302=2021-12-21_16-11-42&uuid=c85f1ac5-b365-4f81-96e3-3eb2a5142330
 #EXTINF:-1 tvg-logo="http://www.the4throom.com///templates/jsn_venture_pro/favicon.ico" group-title="electronic,house,techno",The 4th Room
-http://85.214.201.133:9500/;
+http://85.214.201.133:9500/listen.pls
 #EXTINF:-1 tvg-logo="https://assets.laut.fm/4e4fb64d625caea5326079d3adca40fc?t=_640x640" group-title="alternative,art,baumarkttechno",The Artist
 http://theartist.stream.laut.fm/theartist?pl=m3u&t302=2021-12-21_00-38-30&uuid=76f38b9d-7051-433b-9c87-19212f8d9672
 #EXTINF:-1 tvg-logo="https://uk.radio.net/images/broadcasts/eb/84/14672/1/c300.png" group-title="oldies,rock",The Beat Goes On
@@ -5930,9 +5930,9 @@ http://stream.ue30partyradio.de:18200/
 #EXTINF:-1 tvg-logo="http://www.ü30partyradio.de/images/ue30logo.jpg" group-title="disco,party",Ü30-Partyradio Disco
 http://stream.ue30partyradio.de:18100/
 #EXTINF:-1 tvg-logo="http://www.ü30partyradio.de/images/ue30logo.jpg" group-title="party,rock",Ü30-Partyradio Rock
-http://stream.ue30partyradio.de:18300/;
+http://stream.ue30partyradio.de:18300/listen.pls
 #EXTINF:-1 tvg-logo="http://www.ü30partyradio.de/images/ue30logo.jpg" group-title="party,schlager",Ü30-Partyradio Schlager
-http://stream.ue30partyradio.de:18000/;
+http://stream.ue30partyradio.de:18000/listen.pls
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/2/34162.v1.png" group-title="electronic,metal,alternative",Ultra Dark Radio
 https://ultradarkradio.stream.laut.fm/ultradarkradio
 #EXTINF:-1 tvg-logo="http://68.media.tumblr.com/avatar_f67f0ccba3e2_128.png" group-title="electronic,metal,alternative",Ultra Dark Radio

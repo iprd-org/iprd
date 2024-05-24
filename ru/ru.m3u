@@ -78,17 +78,17 @@ http://amoris.sknt.ru/goa.mp3
 #EXTINF:-1 tvg-logo="http://anima.sknt.ru/player_play.png" group-title="electronic,music,russia,saint-petersburg,trance",Anima Amoris [Trance]
 http://anima.sknt.ru/trance.mp3
 #EXTINF:-1 tvg-logo="" group-title="ambient,deep,electronic",Anima Amoris Ambient
-http://amoris.sknt.ru:8014/;
+http://amoris.sknt.ru:8014/listen.pls
 #EXTINF:-1 tvg-logo="http://anima.sknt.ru/player_play.png" group-title="bible,religion",Anima Amoris Bible
 https://amoris.sknt.ru/bible.mp3
 #EXTINF:-1 tvg-logo="http://anima.sknt.ru/player_play.png" group-title="",Anima Amoris Deep Tech House
 https://amoris.sknt.ru/deeptech.mp3
 #EXTINF:-1 tvg-logo="http://anima.sknt.ru/player_play.png" group-title="bass,drum and bass,electronic",Anima Amoris Drum and Bass
-http://amoris.sknt.ru:8008/;
+http://amoris.sknt.ru:8008/listen.pls
 #EXTINF:-1 tvg-logo="http://anima.sknt.ru/player_play.png" group-title="",Anima Amoris Dub Step
 https://amoris.sknt.ru/dubstep.mp3
 #EXTINF:-1 tvg-logo="" group-title="ambient,chillout,deep,deep house,electronic,techno",Anima Amoris Dub Techno
-http://amoris.sknt.ru:8000/;
+http://amoris.sknt.ru:8000/listen.pls
 #EXTINF:-1 tvg-logo="" group-title="dub,mix,techno",Anima Amoris Dub Techno Mix
 http://amoris.sknt.ru/dubtechnomix.mp3
 #EXTINF:-1 tvg-logo="http://anima.sknt.ru/player_play.png" group-title="",Anima Amoris Electro
@@ -286,7 +286,7 @@ http://music.garagefm.ru:8005/Garagefm128
 #EXTINF:-1 tvg-logo="" group-title="gay",Gay Moscow Radio
 http://s3.radioheart.ru:8027/gaymoscowradio
 #EXTINF:-1 tvg-logo="http://animeradio.su/favicon.ico" group-title="anime",Ghost Anime Radio
-http://animeradio.su:8000/;
+http://animeradio.su:8000/listen.pls
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s179753q.png" group-title="dance,electro,variate",GIKRadio
 http://77.120.162.12:8000/live320
 #EXTINF:-1 tvg-logo="" group-title="audiobooks",Gimadut Radio Book
@@ -344,7 +344,7 @@ http://95.143.216.164:8080/
 #EXTINF:-1 tvg-logo="http://keygen-fm.ru/pereezd.png" group-title="chiptune,keygen",KEYGEN FM (OGG)
 http://stream.keygen-fm.ru:8042/live.ogg
 #EXTINF:-1 tvg-logo="" group-title="classical",KIDS HITS
-http://92.255.229.74:8888/;
+http://92.255.229.74:8888/listen.pls
 #EXTINF:-1 tvg-logo="http://kir98.no-ip.org/favicon.ico" group-title="kir98,pop,post-rock,rock,russian pop,russian rock",Kir98 Radio station
 http://kir98.no-ip.org/aac
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/40remerm32svcux/klubb.png" group-title="dance,dj,electronic,house,jumpstyle,klubb,lubava,promo,promodj,pump,wapmahka,клуб,клубная,танцевальная,танцевальный",Klubb
@@ -544,7 +544,7 @@ http://79.120.77.11:8000/brokenbeat
 #EXTINF:-1 tvg-logo="http://radcap.ru/graf2/rclogo.png" group-title="broken beat,bruk,electronic,radcap",Radio Caprice - Broken Beat / Bruk [3]
 http://79.120.77.11:8004/brokenbeat
 #EXTINF:-1 tvg-logo="https://radcap.ru/apple-touch-icon.png" group-title="death metal",Radio Caprice - Brutal Death Metal
-http://79.111.119.111:9075/;
+http://79.111.119.111:9075/listen.pls
 #EXTINF:-1 tvg-logo="http://radcap.ru/graf2/rclogo.png" group-title="cello,classical",Radio Caprice - Cello / Violoncelo
 http://79.111.14.76:8002/cello
 #EXTINF:-1 tvg-logo="http://radcap.ru/graf2/rclogo.png" group-title="celtic",Radio Caprice - Celtic
@@ -564,7 +564,7 @@ http://79.120.77.11:8002/rock
 #EXTINF:-1 tvg-logo="http://radcap.ru/stylegraf/baroque2.jpg" group-title="baroque,classical",Radio Caprice - Classical Baroque
 http://79.111.14.76:8002/baroque
 #EXTINF:-1 tvg-logo="http://www.ratiooficial.com/uploads/thumb/96480caprice-80s.png" group-title="classical,piano",Radio Caprice - Classical Piano
-http://79.120.39.202:9069/;
+http://79.120.39.202:9069/listen.pls
 #EXTINF:-1 tvg-logo="http://www.radcap.ru/graf2/radcaplogo.png" group-title="",Radio Caprice - Classical Symphonic Music
 http://79.120.77.11:8002/classical
 #EXTINF:-1 tvg-logo="http://radcap.ru//favicon.ico" group-title="soundtrack,video game",Radio Caprice - Computer / Video Game Music (Ost / Score / Soundrack)
@@ -576,7 +576,7 @@ http://79.111.119.111:8002/contemporaryjazz
 #EXTINF:-1 tvg-logo="http://radcap.ru/graf2/rclogo.png" group-title="cool jazz,jazz",Radio Caprice - Cool / West Coast Jazz
 http://79.120.39.202:8002/cooljazz
 #EXTINF:-1 tvg-logo="https://radcap.ru/apple-touch-icon.png" group-title="jazz",Radio Caprice - Cool Jazz
-http://79.120.39.202:9085/;
+http://79.120.39.202:9085/listen.pls
 #EXTINF:-1 tvg-logo="http://radcap.ru/graf2/rclogo.png" group-title="crossover prog,progressive",Radio Caprice - Crossover Prog
 http://79.111.14.76:8002/crossoverprog
 #EXTINF:-1 tvg-logo="http://radcap.ru/apple-touch-icon.png" group-title="crust,punk",Radio Caprice - Crust Punk
@@ -590,7 +590,7 @@ http://79.120.39.202:8002/darkelectro
 #EXTINF:-1 tvg-logo="http://radcap.ru/stylegraf/darkjazz5.jpg" group-title="ambient jazz,dark,doom,funeral,noir",Radio Caprice - Dark Jazz
 http://79.120.39.202:9137/
 #EXTINF:-1 tvg-logo="http://radcap.ru/apple-touch-icon.png" group-title="darkpsy",Radio Caprice - Dark Psytrance
-http://79.111.119.111:9057/;
+http://79.111.119.111:9057/listen.pls
 #EXTINF:-1 tvg-logo="http://www.radcap.ru/favicon.ico" group-title="darktechno,electronic,techno",Radio Caprice - Dark Techno
 http://79.111.14.76:9139/
 #EXTINF:-1 tvg-logo="http://www.ratiooficial.com/uploads/thumb/96480caprice-80s.png" group-title="death-doom metal",Radio Caprice - Death Doom Metal
@@ -598,7 +598,7 @@ http://79.120.39.202:9007/
 #EXTINF:-1 tvg-logo="http://www.ratiooficial.com/uploads/thumb/96480caprice-80s.png" group-title="death metal",Radio Caprice - Death Metal
 http://79.120.77.11:9083/
 #EXTINF:-1 tvg-logo="https://radcap.ru/apple-touch-icon.png" group-title="black metal",Radio Caprice - Depressive Black Metal
-http://79.111.119.111:9011/;
+http://79.111.119.111:9011/listen.pls
 #EXTINF:-1 tvg-logo="http://radcap.ru/graf2/rclogo.png" group-title="dixieland,jazz",Radio Caprice - Dixieland
 http://79.120.39.202:8002/dixieland
 #EXTINF:-1 tvg-logo="http://radcap.ru/graf2/rclogo.png" group-title="downbeat,downtempo,electronic,radcap",Radio Caprice - Downtempo / Downbeat [1]
@@ -612,7 +612,7 @@ http://79.120.39.202:8002/dreamtrance
 #EXTINF:-1 tvg-logo="http://radcap.ru/apple-touch-icon.png" group-title="dream dance",Radio Caprice - Dream Trance
 http://79.120.39.202:9029/
 #EXTINF:-1 tvg-logo="https://radcap.ru/apple-touch-icon.png" group-title="ambient,drone",Radio Caprice - Drone Ambient
-http://79.111.119.111:9135/;
+http://79.111.119.111:9135/listen.pls
 #EXTINF:-1 tvg-logo="http://radcap.ru/graf2/rclogo.png" group-title="drum & bass,drum 'n' bass,drum and bass,electronic,radcap",Radio Caprice - Drum 'n' Bass [1]
 http://79.111.14.76:8002/drumbass
 #EXTINF:-1 tvg-logo="http://radcap.ru/graf2/rclogo.png" group-title="drum & bass,drum 'n' bass,drum and bass,electronic,radcap",Radio Caprice - Drum 'n' Bass [2]
@@ -666,7 +666,7 @@ http://213.141.131.10:8004/experimentaltechno
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/4/64714.v28.png" group-title="rock",Radio Caprice - Female vocal in metal music
 http://79.111.14.76:8000/femalemetal?type=.mp3
 #EXTINF:-1 tvg-logo="http://www.radcap.ru/apple-touch-icon.png" group-title="",Radio Caprice - Flute
-http://79.111.14.76:9101/;
+http://79.111.14.76:9101/listen.pls
 #EXTINF:-1 tvg-logo="http://radcap.ru/graf2/rclogo.png" group-title="folk rock",Radio Caprice - Folk Rock
 http://79.111.14.76:8002/folkrock
 #EXTINF:-1 tvg-logo="http://radcap.ru/graf2/rclogo.png" group-title="free jazz,jazz",Radio Caprice - Free Jazz
@@ -730,7 +730,7 @@ http://79.120.39.202:9077/
 #EXTINF:-1 tvg-logo="http://radcap.ru/graf2/radcaplogo-hor.png" group-title="",Radio Caprice - Jazz / Fusion Metal
 http://213.141.131.10:8002/jazzmetal
 #EXTINF:-1 tvg-logo="http://www.ratiooficial.com/uploads/thumb/96480caprice-80s.png" group-title="fusion,jazz",Radio Caprice - Jazz Fusion
-http://79.111.119.111:9009/;
+http://79.111.119.111:9009/listen.pls
 #EXTINF:-1 tvg-logo="http://radcap.ru/graf2/rclogo.png" group-title="jazz,jazz fusion",Radio Caprice - Jazz Fusion
 http://79.111.119.111:8002/jazzfusion
 #EXTINF:-1 tvg-logo="http://radcap.ru/graf2/rclogo.png" group-title="jazz rock,rock",Radio Caprice - Jazz Rock
@@ -782,7 +782,7 @@ http://213.141.131.10:8000/musiqueconcrete
 #EXTINF:-1 tvg-logo="http://radcap.ru/graf2/rclogo.png" group-title="acousmatic,electroacoustic,electronic,musique concrete,radcap",Radio Caprice - Musique Concrete / Acousmatic / Electroacoustic [3]
 http://213.141.131.10:8004/musiqueconcrete
 #EXTINF:-1 tvg-logo="http://www.ratiooficial.com/uploads/thumb/96480caprice-80s.png" group-title="native american",Radio Caprice - Native American
-http://79.111.119.111:9071/;
+http://79.111.119.111:9071/listen.pls
 #EXTINF:-1 tvg-logo="http://radcap.ru/graf2/rclogo.png" group-title="neo-progressive rock,rock",Radio Caprice - Neo-progressive Rock
 http://79.111.119.111:8002/neoprogrock
 #EXTINF:-1 tvg-logo="http://radcap.ru/graf2/rclogo.png" group-title="classical,neoclassical",Radio Caprice - Neoclassical Music
@@ -832,9 +832,9 @@ http://79.120.77.11:8000/progmetal
 #EXTINF:-1 tvg-logo="http://radcap.ru/stylegraf/progrock2.jpg" group-title="prog rock,progressive,progressive rock,rock",Radio Caprice - Progressive Rock
 http://79.111.119.111:9121/
 #EXTINF:-1 tvg-logo="http://www.radcap.ru/apple-touch-icon.png" group-title="progressive trance",Radio Caprice - Progressive Trance
-http://79.120.39.202:9025/;
+http://79.120.39.202:9025/listen.pls
 #EXTINF:-1 tvg-logo="http://radcap.ru/apple-touch-icon.png" group-title="psybient",Radio Caprice - Psybient
-http://79.111.14.76:9023/;
+http://79.111.14.76:9023/listen.pls
 #EXTINF:-1 tvg-logo="http://radcap.ru/graf2/radcaplogo.png" group-title="psychedelic folk",Radio Caprice - Psychedelic Folk
 http://213.141.131.10:8000/psychfolk
 #EXTINF:-1 tvg-logo="http://www.ratiooficial.com/uploads/thumb/96480caprice-80s.png" group-title="psychedelic rock",Radio Caprice - Psychedelic Rock
@@ -848,7 +848,7 @@ http://79.111.119.111:8000/posthardcore
 #EXTINF:-1 tvg-logo="http://radcap.ru/apple-touch-icon.png" group-title="",Radio Caprice - Punk Post-Hardcore Emo/Screamo
 http://79.111.119.111:8000/screamoemo
 #EXTINF:-1 tvg-logo="http://www.ratiooficial.com/uploads/thumb/96480caprice-80s.png" group-title="rapcore",Radio Caprice - Rapcore
-http://79.120.39.202:9043/;
+http://79.120.39.202:9043/listen.pls
 #EXTINF:-1 tvg-logo="http://radcap.ru/stylegraf/relax2.jpg" group-title="meditation,relax,relaxation",Radio Caprice - Relaxation Music
 http://79.120.39.202:9109/
 #EXTINF:-1 tvg-logo="http://radcap.ru/graf2/radcaplogo.png" group-title="classical",Radio Caprice - Renaissance Music
@@ -860,7 +860,7 @@ http://79.120.77.11:9059/;stream.aac
 #EXTINF:-1 tvg-logo="http://radcap.ru/apple-touch-icon.png" group-title="dub,reggae,roots reggae",Radio Caprice - Roots Reggae
 http://79.111.119.111:9047/
 #EXTINF:-1 tvg-logo="http://www.radcap.ru/apple-touch-icon.png" group-title="folk",Radio Caprice - Russian Folk
-http://79.120.77.11:9057/;
+http://79.120.77.11:9057/listen.pls
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/9/59359.v13.png" group-title="decades",Radio Caprice - Russian Pop music 80-90's
 http://79.120.77.11:8002/80ru
 #EXTINF:-1 tvg-logo="http://www.ratiooficial.com/uploads/thumb/96480caprice-80s.png" group-title="rock,russian rock",Radio Caprice - Russian Rock
@@ -886,7 +886,7 @@ http://79.111.119.111:9025/
 #EXTINF:-1 tvg-logo="http://www.ratiooficial.com/uploads/thumb/96480caprice-80s.png" group-title="classical,strings",Radio Caprice - Strings
 http://79.120.39.202:9133/
 #EXTINF:-1 tvg-logo="http://www.ratiooficial.com/uploads/thumb/96480caprice-80s.png" group-title="suomisaundi",Radio Caprice - Suomisaundi / Freeform Psytrance
-http://79.120.77.11:9147/;
+http://79.120.77.11:9147/listen.pls
 #EXTINF:-1 tvg-logo="http://radcap.ru/graf2/rclogo.png" group-title="electronic,freeform psytrance,radcap,spugedelic trance,suomisaundi",Radio Caprice - Suomisaundi / Freeform Psytrance / Spugedelic Trance [2]
 http://79.120.77.11:8000/suomisaundi
 #EXTINF:-1 tvg-logo="http://radcap.ru/graf2/rclogo.png" group-title="electronic,freeform psytrance,radcap,spugedelic trance,suomisaundi",Radio Caprice - Suomisaundi / Freeform Psytrance / Spugedelic Trance [3]
@@ -900,7 +900,7 @@ http://213.141.131.10:8002/symphogoth
 #EXTINF:-1 tvg-logo="http://radcap.ru/stylegraf/symphrock.jpg" group-title="rock,symphonic rock",Radio Caprice - Symphonic Rock
 http://79.120.39.202:8002/symphorock
 #EXTINF:-1 tvg-logo="https://radcap.ru/apple-touch-icon.png" group-title="classical,symphonic",Radio Caprice - Symphony
-http://79.111.14.76:9079/;
+http://79.111.14.76:9079/listen.pls
 #EXTINF:-1 tvg-logo="https://radcap.ru/apple-touch-icon.png" group-title="thrash metal",Radio Caprice - Thrash Metal
 http://79.120.77.11:9101/
 #EXTINF:-1 tvg-logo="http://radcap.ru/stylegraf/traditionalelectronic1.jpg" group-title="electronic,space,synthesizer",Radio Caprice - Traditional Electronic
@@ -910,9 +910,9 @@ http://79.111.14.76:8002/triphop
 #EXTINF:-1 tvg-logo="http://radcap.ru/apple-touch-icon.png" group-title="rap,underground",Radio Caprice - Underground Rap
 http://79.111.14.76:8000/undergroundrap
 #EXTINF:-1 tvg-logo="http://www.ratiooficial.com/uploads/thumb/96480caprice-80s.png" group-title="trance,uplifting",Radio Caprice - Uplifting Trance
-http://79.111.119.111:9019/;
+http://79.111.119.111:9019/listen.pls
 #EXTINF:-1 tvg-logo="http://www.ratiooficial.com/uploads/thumb/96480caprice-80s.png" group-title="vocal trance",Radio Caprice - Vocal Trance
-http://79.120.39.202:9031/;
+http://79.120.39.202:9031/listen.pls
 #EXTINF:-1 tvg-logo="https://radcap.ru/stylegraf/bard1.jpg" group-title="acoustic,russian pop",Radio Caprice - АВТОРСКАЯ / БАРДОВСКАЯ ПЕСНЯ
 http://79.120.39.202:9021/
 #EXTINF:-1 tvg-logo="http://radcap.ru/apple-touch-icon.png" group-title="caprice,dance,pop",Radio Caprice Dance Pop
@@ -962,7 +962,7 @@ http://fantasyradioru.no-ip.biz:8002/live
 #EXTINF:-1 tvg-logo="" group-title="chiptune",Radio GamePLay
 https://c22.radioboss.fm:18144/GamePlay
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/9/22599.v2.png" group-title="misc",Radio Gora - Oldies
-http://listen.radiogora.ru:8000/oldies128/;
+http://listen.radiogora.ru:8000/oldies128/listen.pls
 #EXTINF:-1 tvg-logo="http://hit.orsk.ru/hit_ico_play.png" group-title="top 40 hits",Radio Hit Orsk 103.7 FM
 http://hit.trkeurasia.ru:8000/hit128
 #EXTINF:-1 tvg-logo="https://radiojazzfm.ru/favicons/apple-touch-icon.png" group-title="classic jazz",Radio Jazz 89.1 - Classic JAZZ
@@ -1066,13 +1066,13 @@ http://listen.radiogora.ru:8000/rednoise128
 #EXTINF:-1 tvg-logo="" group-title="",Radiola
 https://radiola.hostingradio.ru/radiola_eka_64.aac
 #EXTINF:-1 tvg-logo="https://cdn.radiomv.com/de/wp-content/uploads/2016/01/favicon.ico" group-title="christian",RadioMv.com | Russian Christian Radio
-http://142.44.243.11:2202/;
+http://142.44.243.11:2202/listen.pls
 #EXTINF:-1 tvg-logo="https://cdn.radiomv.com/de/wp-content/uploads/2016/01/favicon.ico" group-title="christian",RadioMv.com | Russian Kids (24Kbps)
-http://ru-kh-low.radiomv.co:1210/;
+http://ru-kh-low.radiomv.co:1210/listen.pls
 #EXTINF:-1 tvg-logo="https://cdn.radiomv.com/de/wp-content/uploads/2016/01/favicon.ico" group-title="christian",RadioMv.com | Russian Music (24Kbps)
-http://163.172.137.24:1920/;
+http://163.172.137.24:1920/listen.pls
 #EXTINF:-1 tvg-logo="https://cdn.radiomv.com/de/wp-content/uploads/2016/01/favicon.ico" group-title="bible,christian",RadioMv.com | Russian New Testament (24Kbps)
-http://ru-nt-low.radiomv.co:1212/;
+http://ru-nt-low.radiomv.co:1212/listen.pls
 #EXTINF:-1 tvg-logo="https://cdn.radiomv.com/de/wp-content/uploads/2016/01/favicon.ico" group-title="bible,christian",RadioMv.com | Russian Old Testament (128Kbps)
 https://ice.radiomv.co:8440/russian_old_testament.mp3
 #EXTINF:-1 tvg-logo="http://www.userlogos.org/files/logos/x-b/record.png" group-title="techno",Radiorecord.RU techno
@@ -1508,7 +1508,7 @@ http://93.189.147.117:8000/nostalgia64.aac
 #EXTINF:-1 tvg-logo="" group-title="pop,retro",Ностальгия FM
 http://93.189.147.117:8000/nostalgia256.mp3
 #EXTINF:-1 tvg-logo="" group-title="",Около Джазза
-http://okolojazza.ru/;
+http://okolojazza.ru/listen.pls
 #EXTINF:-1 tvg-logo="" group-title="classical",Омский Благгвестник
 http://segenswelle.de:8000/BG-Omsk
 #EXTINF:-1 tvg-logo="https://radioslovo.net/img/microphone.png" group-title="christian",Открытое Слово

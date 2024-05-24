@@ -14,9 +14,9 @@ http://cmr-hosting.com:8070/stream?type=http&nocache=646624
 #EXTINF:-1 tvg-logo="" group-title="",..:: RADiO LuDNiCA :: Original Croatian Internet Radio ::..
 http://patmos.cdnstream.com:8222/stream?type=http&nocache=120427
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s83931/images/bannerx.jpg?t=636748543016900000" group-title="croatian,pop,rock",Antena Zagreb - Live
-http://live.antenazagreb.hr:8000/;
+http://live.antenazagreb.hr:8000/listen.pls
 #EXTINF:-1 tvg-logo="https://allliveradio.com/wp-content/uploads/2018/12/Antena-Zagreb.png" group-title="christmas music,xmas",Antena Zagreb - Xmas
-http://live.antenazagreb.hr:8015/;
+http://live.antenazagreb.hr:8015/listen.pls
 #EXTINF:-1 tvg-logo="http://www.prvi.hr/static/frontend/assets/favicon/favicon-32x32.png" group-title="",Antena Zagreb Dance
 http://live.antenazagreb.hr:8015/
 #EXTINF:-1 tvg-logo="http://www.prvi.hr/images/Antena/Logos/AntenaZagreb-Logo.png" group-title="",Antena Zagreb Hit
@@ -26,7 +26,7 @@ http://live.antenazagreb.hr:8007/
 #EXTINF:-1 tvg-logo="http://www.prvi.hr/static/frontend/assets/favicon/favicon-32x32.png" group-title="classic rock,zagreb",Antena Zagreb Rock
 http://live.antenazagreb.hr:8019/
 #EXTINF:-1 tvg-logo="http://www.prvi.hr/images/Antena/Logos/AntenaZagreb-Logo.png" group-title="",Antena Zagreb Uživo
-http://live.antenazagreb.hr:8002/;
+http://live.antenazagreb.hr:8002/listen.pls
 #EXTINF:-1 tvg-logo="" group-title="various",Antena ZD
 http://live.antenazadar.hr:9000/stream/
 #EXTINF:-1 tvg-logo="http://nettv.live/uploads/allimg/18/1-1Q2022034190-L.jpg" group-title="",Banovina TV
@@ -34,7 +34,7 @@ https://5b57bb229a2e6.streamlock.net/live/televizija/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://liveonlineradio.net/wp-content/uploads/2016/01/braniteljski-radio-rh-1.jpg" group-title="",Braniteljski radio "Nepokoreni grad"
 http://s3.radio.co/se83499ee0/listen
 #EXTINF:-1 tvg-logo="http://city-radio.hr/wp-content/uploads/2017/01/city-logo2.png" group-title="local music",City-radio 88.6
-http://s8.iqstreaming.com:8058/stream;
+http://s8.iqstreaming.com:8058/streamlisten.pls
 #EXTINF:-1 tvg-logo="" group-title="",Club Music Radio Tambura
 http://cmr-hosting.com:8070/
 #EXTINF:-1 tvg-logo="https://radio.cmc.com.hr/favicon.ico" group-title="",CMC Classic
@@ -96,7 +96,7 @@ http://5.39.71.159:8871/stream
 #EXTINF:-1 tvg-logo="http://mediaprocessor.websimages.com/width/107/crop/0,0,107x107/www.di-radio.com/techno%20ch.jpg" group-title="electronic,progressive house,tech house,techno",Digital Impulse - Techno
 http://orion.shoutca.st:8938/stream
 #EXTINF:-1 tvg-logo="http://imageprocessor.websimages.com/width/146/crop/0,0,146x146/www.di-radio.com/trance%20blue.jpg" group-title="trance",Digital Impulse - Trance
-http://5.39.71.159:8704/;stream;
+http://5.39.71.159:8704/streamlisten.pls
 #EXTINF:-1 tvg-logo="https://www.di-radio.com/vocal%20trance%20selection.jpg" group-title="vocal trance",Digital Impulse - Vocal Trance
 http://orion.shoutca.st:8143/stream
 #EXTINF:-1 tvg-logo="http://mediaprocessor.websimages.com/width/107/crop/0,0,107x107/www.di-radio.com/ektoplazm.png" group-title="psytrance",Digital Impulse Radio - Ektoplazm PsyRadio
@@ -108,7 +108,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/PROGRAM2.mp3
 #EXTINF:-1 tvg-logo="http://www.prvi.hr/images/Enter/enter-zagreb.png" group-title="zagreb",ENTER Zagreb
 http://live.enterzagreb.hr:8023/
 #EXTINF:-1 tvg-logo="https://extrafm.hr/wp-content/uploads/2018/10/default-image.jpg" group-title="folk",Extra FM
-http://streams.extrafm.hr:8110/;
+http://streams.extrafm.hr:8110/listen.pls
 #EXTINF:-1 tvg-logo="" group-title="",GLAS HRVATSKE - HRVATSKI RADIO
 https://playerservices.streamtheworld.com/api/livestream-redirect/VOICEOFCROATIA.mp3
 #EXTINF:-1 tvg-logo="http://prvi.hr/images/GOLD/Gold-fm-logo.png" group-title="oldies",Gold FM
@@ -262,7 +262,7 @@ http://stream.radio92.eu:8000/
 #EXTINF:-1 tvg-logo="https://ca0-cdn.onlineradiobox.com/img/l/3/69333.v26.png" group-title="",Radio Antena
 http://live.antenazadar.hr:9000/;?type=http&nocache=10737
 #EXTINF:-1 tvg-logo="https://www.radio-banovina.hr/popup/images/artists/default.png" group-title="folk",Radio Banovina
-http://stream1.radio-banovina.hr:8008/;
+http://stream1.radio-banovina.hr:8008/listen.pls
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/8c4808_c1262b28e3614abc9485ac5d2a69462b%7emv2.jpg/v1/fill/w_32%2ch_32%2clg_1%2cusm_0.66_1.00_0.01/8c4808_c1262b28e3614abc9485ac5d2a69462b%7emv2.jpg" group-title="",Radio BINA
 http://listen.radioking.com/radio/372715/stream/422872
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/logo/7/84177.v3.png" group-title="folk,local news,pop",Radio Biograd na Moru
@@ -270,17 +270,17 @@ http://144.76.39.214:9521/stream
 #EXTINF:-1 tvg-logo="http://www.manastir-lepavina.org/favicon.ico" group-title="ortodox",Radio Blagovesti
 http://radio.manastir-lepavina.org:8000/
 #EXTINF:-1 tvg-logo="http://radio-borovo.hr/wp-content/uploads/2015/12/top-logo-radio-borovo.png" group-title="folk,local news,pop",Radio Borovo
-http://144.76.172.23:7020/;
+http://144.76.172.23:7020/listen.pls
 #EXTINF:-1 tvg-logo="" group-title="",Radio Brac
 http://s8.iqstreaming.com:8066/stream
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/logo/2/23862.v4.png" group-title="folk,information,local news,pop,rock",Radio Centar Studio Poreč
 http://radiocentar.hr:8282/mp3
 #EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/5uLKDLksVe.png" group-title="dalmatia,hits,pop,regional,split",Radio Dalmacija
-http://shoutcast.pondi.hr:8000/;
+http://shoutcast.pondi.hr:8000/listen.pls
 #EXTINF:-1 tvg-logo="https://www.radio-daruvar.hr/wp-content/uploads/2014/01/favicon.png" group-title="folk,local news,pop",Radio Daruvar
 http://85.17.172.242:8070/
 #EXTINF:-1 tvg-logo="http://www.deejay.hr/wp-content/themes/rdj/img/fav/android-icon-192x192.png" group-title="dance,electronica,pop",Radio Deejay HR
-http://live.deejay.hr:7002/;
+http://live.deejay.hr:7002/listen.pls
 #EXTINF:-1 tvg-logo="" group-title="",Radio Delta 97,0 MHz
 http://185.62.75.24:8010/stream?type=http&nocache=3910
 #EXTINF:-1 tvg-logo="https://radiodelta.hr/wp-content/uploads/2019/01/logo_delta_2018-300x134.png" group-title="folk,local news,pop",Radio Delta Metković
@@ -300,7 +300,7 @@ https://ec2s.crolive.com.hr:8215/stream
 #EXTINF:-1 tvg-logo="" group-title="",Radio Hrvat
 http://213.239.215.181:9036/stream
 #EXTINF:-1 tvg-logo="https://rhzk.hr/wp-content/uploads/2017/10/Radio-hrvatsko-zagorje-krapina234.png" group-title="folk music,local news,pop",Radio Hrvatsko Zagorje Krapina
-http://144.76.172.23:7024/;
+http://144.76.172.23:7024/listen.pls
 #EXTINF:-1 tvg-logo="" group-title="folk,local news,pop",Radio Ilok
 http://178.32.146.187:5172/stream
 #EXTINF:-1 tvg-logo="https://radioimotski.hr/favicon.ico" group-title="pop music",Radio Imotski 107.4 FM
@@ -322,7 +322,7 @@ https://c2.hostingcentar.com/streams/radiokorzo/stream/premium.pls
 #EXTINF:-1 tvg-logo="" group-title="folk,local news,pop",Radio Križevci
 https://s8.iqstreaming.com:8048/stream
 #EXTINF:-1 tvg-logo="http://www.radiolabin.hr/images/favicon.ico" group-title="local,pop",Radio Labin
-http://radiolabin.streamradio.com.hr:9102/;
+http://radiolabin.streamradio.com.hr:9102/listen.pls
 #EXTINF:-1 tvg-logo="http://www.radio-ludbreg.hr/templates/yoo_nano/apple_touch_icon.png" group-title="",Radio Ludbreg
 http://85.25.135.86:23573/
 #EXTINF:-1 tvg-logo="" group-title="folk",Radio Ludnica
@@ -400,7 +400,7 @@ http://radio.novosti.hr:9310/;stream.nsv
 #EXTINF:-1 tvg-logo="https://ca0-cdn.onlineradiobox.com/img/favicon.ico" group-title="",Radio Vragolica - Solin
 http://188.40.66.244:33508/RadioVragolica?type=http&nocache=1
 #EXTINF:-1 tvg-logo="" group-title="croatian pop music",Radio Vrbovec 94.5
-http://c2.hostingcentar.com:9452/;
+http://c2.hostingcentar.com:9452/listen.pls
 #EXTINF:-1 tvg-logo="https://www.radio-zlatar.hr/novosti_slike/korona_1.png" group-title="",Radio Zlatar
 http://144.76.172.23:7059/
 #EXTINF:-1 tvg-logo="http://www.radiostudent.hr//favicon.ico" group-title="pop,rock,zagreb",Radio100.5 Student Zagreb

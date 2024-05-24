@@ -24,7 +24,7 @@ http://stream.dbmedia.se/dbk96
 #EXTINF:-1 tvg-logo="https://eurohitzradio.se/wp-content/uploads/2021/03/cropped-eurohitzradio.png" group-title="club,dance,eurodance,house,progressive house",Eurohitz Radio
 https://s3.radio.co/s84392295f/listen
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s8965/images/logod.png" group-title="",Gold 102,4
-http://gold24.xnk.nu:8080/;
+http://gold24.xnk.nu:8080/listen.pls
 #EXTINF:-1 tvg-logo="http://db.radioline.fr/pictures/radio_5e48b2df7f0fac74e0b6d45f2639c815/logo200.jpg?size=200" group-title="",Göteborgs Närradio 102.6 MHz
 http://lyssna.fnf.nu:8080/gnf102.mp3
 #EXTINF:-1 tvg-logo="http://db.radioline.fr/pictures/radio_5e48b2df7f0fac74e0b6d45f2639c815/logo200.jpg?size=200" group-title="",Göteborgs Närradio 103.1 MHz
@@ -82,7 +82,7 @@ http://radiostreameight.mine.nu:9990/
 #EXTINF:-1 tvg-logo="https://www.radiorivendell.com/site-content/themes/rivendell-2k21/dist/images/icon-196x196.png" group-title="fantasy",Radio Rivendell
 https://stonehold.se/radio/8000/radio.mp3
 #EXTINF:-1 tvg-logo="http://www.radiosandviken.se/favicon.ico" group-title="local radio,music",Radio Sandviken
-http://rssand.se:4027/;
+http://rssand.se:4027/listen.pls
 #EXTINF:-1 tvg-logo="http://www.radiosotenas.se/favicon1.png" group-title="00s,70s,80s,90s,pop,rock,top 40",Radio Sotenäs
 http://sc1.radiosotenas.se/
 #EXTINF:-1 tvg-logo="https://www.radioviking.se///templates/radioviking_2018mars/favicon.ico" group-title="",Radio Viking

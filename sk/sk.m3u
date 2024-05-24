@@ -84,7 +84,7 @@ http://stream.frontinus.sk:8000/frontinus128.mp3
 #EXTINF:-1 tvg-logo="" group-title="music,retro",Rádio Goldies Retro
 http://icecast.radiosity.sk:8000/oldies.mp3
 #EXTINF:-1 tvg-logo="https://jankohrasko.sk/wp-content/uploads/2021/10/cropped-jh-favi-180x180.png" group-title="",Rádio Janko Hraško
-http://78.24.9.110:31088/;
+http://78.24.9.110:31088/listen.pls
 #EXTINF:-1 tvg-logo="https://jankohrasko.sk/wp-content/uploads/2021/10/cropped-jh-favi-180x180.png" group-title="folk",Rádio Janko Hraško
 http://78.24.9.110:31088/
 #EXTINF:-1 tvg-logo="https://radiojupiter.sk/wp-content/uploads/2018/10/radio-jupiter-1.png" group-title="",Rádio Jupiter
@@ -98,7 +98,7 @@ http://stream.ecce.sk:8000/radiokosice-128.mp3
 #EXTINF:-1 tvg-logo="https://www.radia.sk/_radia/loga/nadpis/liptov.webp?v=1" group-title="80's,90's,current hits",Rádio Liptov 106,4
 http://shout.alconet.sk/radioliptov
 #EXTINF:-1 tvg-logo="" group-title="christian",Rádio Logos
-http://radioserver.online:8824/;
+http://radioserver.online:8824/listen.pls
 #EXTINF:-1 tvg-logo="http://lumen.sk/img/logo2.png" group-title="catholic,christian",Rádio Lumen
 http://audio.lumen.sk:8000/live128.mp3
 #EXTINF:-1 tvg-logo="https://www.radiomaria.sk/wp-content/uploads/2018/05/cropped-per-favicon-270x270.jpg" group-title="",Rádio Maria Slovensko

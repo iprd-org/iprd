@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="http://www.popularis.hu/radio/aktiv.png" group-title="pop",Aktív Rádió
 http://aktivradio.hu:8000/aktiv.mp3
 #EXTINF:-1 tvg-logo="http://www.balatonfm.hu///templates/br14/favicon.ico" group-title="pop",Balaton Rádió
-http://91.82.85.41:8200/;
+http://91.82.85.41:8200/listen.pls
 #EXTINF:-1 tvg-logo="http://www.balatonica.hu//themes/2017/assets/ico/favicon.ico" group-title="chillout,lounge",BALATONICA RADIO
 http://balatonica.hu:8000/stream_high
 #EXTINF:-1 tvg-logo="http://operavilag.net/wp-content/uploads/hirmondo-kaleidoszkop/2013/09/24/11921/bartok_radio_thumb.png" group-title="classical,cultural,duna média,jazz,public radio",Bartók Rádió
@@ -11,7 +11,7 @@ http://mr-stream.mediaconnect.hu/4742/mr3hq.mp3
 http://stream.bdpstrock.hu/bdpstrock_192k
 #EXTINF:-1 tvg-logo="https://bdpstrock.hu/assets/img/front/favicon.ico" group-title="rock",BDPST ROCK -  320 kbit/s
 http://stream.bdpstrock.hu/bdpstrock_320k
-#EXTINF:-1 tvg-logo="https://bdpstrock.hu/assets/img/front/favicon.ico" group-title="rock",BDPST ROCK -  96 kbit/s;
+#EXTINF:-1 tvg-logo="https://bdpstrock.hu/assets/img/front/favicon.ico" group-title="rock",BDPST ROCK -  96 kbit/slisten.pls
 http://stream.bdpstrock.hu/bdpstrock_128k
 #EXTINF:-1 tvg-logo="http://www.beatradiohungary.hu/assets/logo/logo.svg" group-title="",Beat
 http://79.172.194.189:9010/live.mp3
@@ -90,7 +90,7 @@ http://stream2.dancewave.online:8080/dance.ogg
 #EXTINF:-1 tvg-logo="http://dancewave.online/dw-logo_s.png" group-title="dance,house,trance",Dance Wave!
 http://stream.dancewave.online:8080/dance.mp3
 #EXTINF:-1 tvg-logo="https://myradiostream.com/station/uploads/logo/f576ba66ca87d279b1d5093843b3d7a48ac53c90.png" group-title="adult album alternative,dance,edm,edm podcast,hits,new releases,pop",DANCEable Radio
-http://176.31.244.83:35944/;
+http://176.31.244.83:35944/listen.pls
 #EXTINF:-1 tvg-logo="http://radjo.hu/wp-content/uploads/2015/04/Danko-Radio-Online.jpg" group-title="duna média,folk,operetta,public radio",Dankó Rádió
 http://mr-stream.mediaconnect.hu/4747/mr7.aac
 #EXTINF:-1 tvg-logo="" group-title="",Danubius
@@ -126,7 +126,7 @@ https://faklyaradio.hu:1443/faklya
 #EXTINF:-1 tvg-logo="" group-title="classical",Fényárnyék
 http://87.98.180.73:9996/;stream
 #EXTINF:-1 tvg-logo="" group-title="alternative,rock,university radio",FM90 Campus Rádió
-http://stream.fm90.hu:8000/;
+http://stream.fm90.hu:8000/listen.pls
 #EXTINF:-1 tvg-logo="https://www.folkradio.hu//favicon.ico" group-title="folk,folk music,folklore",Folkrádio
 https://stream.folkradio.hu/folkradio.mp3
 #EXTINF:-1 tvg-logo="http://www.forrasradio.hu/favicon.ico" group-title="",Forrás Rádió
@@ -134,7 +134,7 @@ http://91.82.85.44:9000/;stream
 #EXTINF:-1 tvg-logo="" group-title="classical",Forrás radio
 http://91.82.85.44:1630/forrasradio.mp3
 #EXTINF:-1 tvg-logo="http://frissfm.hu/favicon/apple-touch-icon.png" group-title="pop music",Friss FM 93.4
-http://stream.frissfm.hu:10050/;
+http://stream.frissfm.hu:10050/listen.pls
 #EXTINF:-1 tvg-logo="http://www.gong.hu/images2/android-icon-192x192.png" group-title="pop",Gong Rádió
 http://stream.gongradio.hu:8000/gong-fm.mp3
 #EXTINF:-1 tvg-logo="" group-title="classical",hbcnews
@@ -232,23 +232,23 @@ http://stream.mexradio.hu:8000/stream
 #EXTINF:-1 tvg-logo="http://www.mezradio.hu/assets/images/mr.ico" group-title="",Méz Rádió - Veszprém FM 103,1 MHz
 http://stream.mezradio.hu:7812/mezfm128.mp3
 #EXTINF:-1 tvg-logo="http://magyarzene.eu/wp-content/uploads/2014/06/MIRADIONK.jpg" group-title="pop,rock",miradionk.hu
-http://92.61.114.191:6030/;
+http://92.61.114.191:6030/listen.pls
 #EXTINF:-1 tvg-logo="" group-title="fresh",Mixradio fresh
 http://adas.adasszerver.hu/live
 #EXTINF:-1 tvg-logo="http://www.popularis.hu/radio/mix.png" group-title="00s,dance",MixRadio Retro
-http://91.227.139.87:8002/;
+http://91.227.139.87:8002/listen.pls
 #EXTINF:-1 tvg-logo="https://myonlineradio.hu/public/uploads/radio_img/momo-radio/fb_cover.png" group-title="children,kids,music",Momó Rádió
 https://stream.diazol.hu:7092/zene.mp3
 #EXTINF:-1 tvg-logo="https://myonlineradio.hu/public/uploads/radio_img/momo-radio/play_250_250.png" group-title="children,fairytales,kids",Momó Rádió Mese
 https://stream.diazol.hu:7092/mese.mp3
 #EXTINF:-1 tvg-logo="http://mustarhaz.hu/wp-content/uploads/8766.jpg" group-title="local radio,non-profit",Mustár Rádió
-http://193.138.125.14:8500/;
+http://193.138.125.14:8500/listen.pls
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hu/archive/8/8e/20120820103558!Mr4-Nemzetis%C3%A9gi.png" group-title="duna média,minority,public radio,talk",Nemzetiségi adások
 http://mr-stream.mediaconnect.hu/4743/mr4.aac
 #EXTINF:-1 tvg-logo="https://nextfm.hu/wp-content/uploads/2021/11/cropped-nextfm70-1-1-180x180.png" group-title="",Next FM
 https://stream.nextfm.hu/radio/8000/nextfmhu.mp3?1590416039
 #EXTINF:-1 tvg-logo="http://m.cdn.blog.hu/mu/musicpress/image/openair-logo2a.jpg" group-title="alternative",Open Air Radio
-http://79.172.209.223:9200/stream;
+http://79.172.209.223:9200/streamlisten.pls
 #EXTINF:-1 tvg-logo="" group-title="",Opera Radio Budapest
 http://onair7.xdevel.com:7126/1/
 #EXTINF:-1 tvg-logo="" group-title="classical",oxigen
@@ -324,13 +324,13 @@ http://stream.radio1pecs.hu:8200/pecs.mp3
 #EXTINF:-1 tvg-logo="http://graph.facebook.com/radio1sopron/picture?type=large" group-title="pop",Rádió 1 Sopron
 http://sopronradio.hu:8000/napradio
 #EXTINF:-1 tvg-logo="http://graph.facebook.com/radio1szombathely/picture?type=large" group-title="",Rádió 1 Szombathely
-http://77.221.39.23:8000/;
+http://77.221.39.23:8000/listen.pls
 #EXTINF:-1 tvg-logo="http://r24.hu/wp-content/uploads/2017/04/logo5_0.jpg" group-title="",Rádió 24
 http://137.74.85.85:7320/hq
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-IX-c5PaKy8A/VYnOJXxzUlI/AAAAAAAAAGQ/mzmfSQG3tAc/s420/r2.png" group-title="",Rádió 7
 http://netradio.radio7.hu:8300/stream.mp3
 #EXTINF:-1 tvg-logo="http://www.radio88.hu/favicon.ico" group-title="",Rádió 88
-http://stream.radio88.hu:8000/;
+http://stream.radio88.hu:8000/listen.pls
 #EXTINF:-1 tvg-logo="http://www.radio88.hu/favicon.ico" group-title="dance",Rádió 88 Club
 http://stream2.radio88.hu:8400/;stream
 #EXTINF:-1 tvg-logo="http://www.radio88.hu/favicon.ico" group-title="hits,retro",Rádió 88 Retro
@@ -344,13 +344,13 @@ http://195.210.29.82:8001/bezs
 #EXTINF:-1 tvg-logo="" group-title="",Rádió Bézs 2
 http://195.210.29.82:8002/bezs2
 #EXTINF:-1 tvg-logo="" group-title="",Rádió Dabas
-http://stream3.virtualisan.net:7040/;
+http://stream3.virtualisan.net:7040/listen.pls
 #EXTINF:-1 tvg-logo="http://efm.hu/wp-content/uploads/2021/09/cropped-ico-180x180.png" group-title="house",Radio E
 http://radioe.net:8080/efm_high
 #EXTINF:-1 tvg-logo="" group-title="classical",Radio face black
-http://ca3.rcast.net:8016/;
+http://ca3.rcast.net:8016/listen.pls
 #EXTINF:-1 tvg-logo="http://www.radiogroove.hu//img/2547_1427_groove.png" group-title="80s,90s,classic hits,pop",Rádió Groove
-http://79.172.194.189:35110/;
+http://79.172.194.189:35110/listen.pls
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/exYQ4PRlQ0IaGoh2TCN-DAOZTOcDSdh3kRFLocs9sFDbiIf_GgsgH7hvIVXb-c6p1JU=s180" group-title="",Rádió Like
 https://cdn-node-44.hififm.hu:8080/stream001.mp3
 #EXTINF:-1 tvg-logo="" group-title="hungarian pop music",Rádió M
@@ -392,7 +392,7 @@ https://stream.diazol.hu:35202/stream
 #EXTINF:-1 tvg-logo="https://myonlineradio.hu/public/uploads/radio_img/rocker-radio/play_250_250.png" group-title="classic rock,hard rock,metal,rok",Rocker Rádió
 http://stream.diazol.hu:35200/stream
 #EXTINF:-1 tvg-logo="http://www.sarvarradio.hu/wp-content/uploads/2017/04/cropped-logo_fb-270x270.jpg" group-title="",Sárvár Rádió
-http://92.61.114.191:9651/;
+http://92.61.114.191:9651/listen.pls
 #EXTINF:-1 tvg-logo="" group-title="classical",Siesta radio
 http://164.68.119.133:8000/siesta.mp3
 #EXTINF:-1 tvg-logo="http://siriusradio.hu/../favicon.ico" group-title="",Sirius Rádió

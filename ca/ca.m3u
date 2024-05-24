@@ -108,9 +108,9 @@ http://streams.calmradio.com:6828/stream
 #EXTINF:-1 tvg-logo="https://i3.radionomy.com/radios/400/c6640d0b-f094-45fb-8de5-83a2af18557d.jpg" group-title="baroque,classical",Calm Radio Baroque
 http://streams.calmradio.com:3328/stream
 #EXTINF:-1 tvg-logo="https://calmradio.com/templates/calmradio/favicons/apple-touch-icon.png" group-title="blues,classic",Calm Radio Blues
-http://streams.calmradio.com:3728/;
+http://streams.calmradio.com:3728/listen.pls
 #EXTINF:-1 tvg-logo="https://calmradio.com/templates/calmradio/favicons/favicon-32x32.png" group-title="brahms,classical",Calm Radio Brahms
-http://streams.calmradio.com:7128/stream/;
+http://streams.calmradio.com:7128/stream/listen.pls
 #EXTINF:-1 tvg-logo="https://calmradio.com/templates/calmradio/favicons/apple-touch-icon.png" group-title="cello,classical",Calm Radio Cello
 http://streams.calmradio.com:4628/stream
 #EXTINF:-1 tvg-logo="https://calmradio.com/templates/calmradio/favicons/apple-touch-icon.png" group-title="baroque,chamber,classical",Calm Radio Chamber Music
@@ -124,7 +124,7 @@ http://streams.calmradio.com:10228/stream
 #EXTINF:-1 tvg-logo="https://static.radio.fr/images/broadcasts/c1/6a/35220/c175.png" group-title="baroque,early,classical",Calm Radio Early Baroque
 http://streams.calmradio.com:14328/stream/1/
 #EXTINF:-1 tvg-logo="https://calmradio.com/images/logo/Calm-LOGO%202015.png" group-title="baroque,classical",Calm Radio Flute
-http://streams.calmradio.com:4828/;
+http://streams.calmradio.com:4828/listen.pls
 #EXTINF:-1 tvg-logo="https://calmradio.com/templates/calmradio/favicons/apple-touch-icon.png" group-title="classical,vocal",Calm Radio Gregorian
 http://streams.calmradio.com:4428/stream
 #EXTINF:-1 tvg-logo="https://calmradio.com/templates/calmradio/favicons/apple-touch-icon.png" group-title="classical,strauss",Calm Radio Johann Strauss II
@@ -206,7 +206,7 @@ http://liveradiocanada.cbc.ca/i/CBCR2_TOR@382863/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.icimusique.ca//Content/_images/icon/ici-musique/asset-icon-apple-touch-60.png" group-title="variety,public",CBUX 90.9 Ici Musique
 https://rcavliveaudio.akamaized.net/hls/live/2006996/M-7BVAN0_VAN/adaptive_128/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://www.celticsongstressradio.torontocast.stream/images/CelticSongstressRadioLogo.png" group-title="celtic,female,voices,folk,irish",Celtic Songstress Radio
-http://hazel.torontocast.com:2920/;
+http://hazel.torontocast.com:2920/listen.pls
 #EXTINF:-1 tvg-logo="https://www.sportsnet.ca/sn_favicon.ico" group-title="sports,news,talk",CFAC Sportsnet 960
 https://rogers-hls.leanstream.co/rogers/cal960.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a2/CFAK_88.3FM_logo.png" group-title="community,university",CFAK 88.3 Universite de Sherbrooke
@@ -226,7 +226,7 @@ http://s2.stationplaylist.com:8110/
 #EXTINF:-1 tvg-logo="http://www.bluewaterradio.ca///templates/shape5_vertex/favicon.ico" group-title="blues,community,country,jazz,oldies,world",CFBW BWR 91.3
 http://s41.myradiostream.com:29922/listen.mp3
 #EXTINF:-1 tvg-logo="https://cfbxsite.files.wordpress.com/2017/07/cropped-screen-shot-2017-07-27-at-10-12-33-pm2.png?w=200" group-title="university,student",CFBX 92.5 The X Thompson Rivers University
-http://198.162.21.84:8002/;
+http://198.162.21.84:8002/listen.pls
 #EXTINF:-1 tvg-logo="http://vocm.com/favicon.ico" group-title="local,news",CFCB 570
 http://newcap.leanstream.co/CFCBAM
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/CFCO-AM_new_2008.jpg" group-title="commercial,country",CFCO Country 92.9/630
@@ -312,7 +312,7 @@ http://ice64.securenetsystems.net/CHMYF1
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/3db9f8_f28c819fe95e4303b62ae35cdf9685d9~mv2.png/v1/fill/w_374,h_190,al_c,usm_0.66_1.00_0.01/3db9f8_f28c819fe95e4303b62ae35cdf9685d9~mv2.png" group-title="adult,contemporary,local,news,multilingual",CFMS 105.9 The Region
 http://s9.voscast.com:8708/stream
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/80/CFMV_96%2C3bleufm_logo.png?download" group-title="adult,contemporary",CFMV 96.3 Bleu FM
-http://xltrax.com:8100/;
+http://xltrax.com:8100/listen.pls
 #EXTINF:-1 tvg-logo="https://cdn.vistaradio.ca/wp-content/themes/presso-child/vista/_img/mynow-icon.png" group-title="new country,country",CFNA 99.7 Country 99
 http://listenlive.vistaradio.ca/CFNA
 #EXTINF:-1 tvg-logo="https://cfnj.net/wp-content/uploads/2020/10/cropped-favicon-cfnj-180x180.png" group-title="music,talk,traditional",CFNJ 99.1
@@ -384,7 +384,7 @@ http://live.leanstream.co/CFWEFM
 #EXTINF:-1 tvg-logo="http://d2x3wmakafwqf5.cloudfront.net/uploads/station/288/home_screen_logo-56afbf945fdd5.jpg" group-title="active,rock",CFWF 104.9 The Wolf
 http://ais-sa1.streamon.fm/7255_64k.aac
 #EXTINF:-1 tvg-logo="https://static1.squarespace.com/static/58a510ccdb29d6a992d21dad/t/5a204514e2c48389be3411a7/1512064285987/small_transparent.png" group-title="community,variety",CFWN Northumberland 89.7
-http://northumberland.serverroom.net:8850/;
+http://northumberland.serverroom.net:8850/listen.pls
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2d/Real_Country_West_Logo.png" group-title="country,new country",CFXE 94.3 Real Country West
 http://newcap.leanstream.co/CFXEFM
 #EXTINF:-1 tvg-logo="http://media.socastsrm.com/wordpress/wp-content/blogs.dir/903/files/2017/11/Move-Nov2017-HeroLogo600x300.png" group-title="rhythmic,contemporary,hits",CFXJ 93.5 The Move
@@ -396,7 +396,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/CFXMFMAAC_SC
 #EXTINF:-1 tvg-logo="http://www.mynorthbaynow.com/wp-content/themes/presso-child/vista/_img/station/CFXN.png" group-title="classic,hits",CFXN 106.3 Moose FM
 http://s1.hotdogradio.com/CFXN
 #EXTINF:-1 tvg-logo="http://radiocfxu.ca/wp-content/uploads/2015/01/1966683_10152286329678308_1876891234_n-320x320.jpg" group-title="university,community",CFXU 93.3 The Fox
-http://141.109.15.225:8000/;
+http://141.109.15.225:8000/listen.pls
 #EXTINF:-1 tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/2293/files/2019/03/967boomherologo.png" group-title="classic,hits",CFXW Boom 96.7
 http://newcap.leanstream.co/CFXWFM
 #EXTINF:-1 tvg-logo="https://www.zoomerradio.ca/favicon.ico" group-title="standards,nostalgia",CFZM 740  
@@ -586,7 +586,7 @@ http://173.193.205.96:7100/stream
 #EXTINF:-1 tvg-logo="http://media.socastsrm.com/uploads/station/760/home_screen_logo-592ef5c500309.jpg" group-title="70s,80s,classic,hits",CHTN 100.3 Ocean 100
 http://newcap.leanstream.co/CHTNFM
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/pWHuXsDLxm.jpg" group-title="community,greek",CHTO 1690
-http://sc8.spacialnet.com:25868/;
+http://sc8.spacialnet.com:25868/listen.pls
 #EXTINF:-1 tvg-logo="https://www.kiss1031.ca/wp-content/uploads/sites/43/2016/04/cropped-kiss1031-512x512-270x270.png" group-title="contemporary,hits",CHTT KISS 103.1
 https://rogers-hls.leanstream.co/rogers/vic1031.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/eac042_745e21371b03466080fd6b723fc874ad%7Emv2.png/v1/fill/w_32%2Ch_32%2Clg_1%2Cusm_0.66_1.00_0.01/eac042_745e21371b03466080fd6b723fc874ad%7Emv2.png" group-title="classic,rock",CHUC Classic Rock 107.9
@@ -606,7 +606,7 @@ http://icecast-chxx.rncm.ca/chxx.mp3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/CHYR_MIX96.7_logo.png" group-title="adult,contemporary",CHYR MIX 96.7
 http://live.leanstream.co/CHYRFM
 #EXTINF:-1 tvg-logo="https://www.radios-quebecoises.com/wp-content/uploads/2020/01/logo-chyz-94-3-fm-en-direct.png" group-title="community,university",CHYZ 94.3 Universite Laval
-http://ecoutez.chyz.ca:8000/;
+http://ecoutez.chyz.ca:8000/listen.pls
 #EXTINF:-1 tvg-logo="http://www.am530.ca/favicon.ico" group-title="multicultural,multilingual",CIAO 530
 http://ice23.securenetsystems.net/CIAO
 #EXTINF:-1 tvg-logo="http://ciaufm.ca/wp-content/uploads/2017/11/cropped-ciau_fm_icon-192x192.png" group-title="community,variety",CIAU 103.1
@@ -618,7 +618,7 @@ http://newcap.leanstream.co/CIBQFM-MP3
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s88818/images/logog.jpg?t=1" group-title="classic,rock",CIBU Classic Rock 94.5
 http://live.leanstream.co/CIBUFM
 #EXTINF:-1 tvg-logo="http://www.smithersradio.com/files/favicon_0.ico" group-title="community,variety",CICK 93.9
-http://usa13.fastcast4u.com:5148/;
+http://usa13.fastcast4u.com:5148/listen.pls
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/25/The_Grand_101_FM.png" group-title="community,variety",CICW 101.1 The Grand
 http://s45.myradiostream.com:8056/listen.mp3
 #EXTINF:-1 tvg-logo="http://whitebearfirstnation.ca/res/img/new-logo.png" group-title="community,indigenous",CIDD 97.7
@@ -742,7 +742,7 @@ https://rogers-hls.leanstream.co/rogers/van969.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s106271/images/logog.png?t=1" group-title="classic,hits,community",CJBB 103.1 The Train
 https://ice10.securenetsystems.net/CJBB
 #EXTINF:-1 tvg-logo="http://radiobellisland.com/images/rbi_logo_big.jpg" group-title="community,variety",CJBI 93.9
-http://ca5.rcast.net:8066/;
+http://ca5.rcast.net:8066/listen.pls
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d9/CJBK_1290_AM.png" group-title="news,talk",CJBK News/Talk 1290
 https://playerservices.streamtheworld.com/api/livestream-redirect/CJBKAMAAC_SC
 #EXTINF:-1 tvg-logo="http://www.cjbq.com/favicon.ico" group-title="country,information,local,news,oldies",CJBQ 800
@@ -814,7 +814,7 @@ http://lweb04.lcaat.ca:8000/91x.mp3
 #EXTINF:-1 tvg-logo="http://www.kootenaycoopradio.com/favicon.ico" group-title="community,variety",CJLY 93.5 Kootenay Coop Radio
 https://relay1.cjly.net/64
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ce/CJMC_100%2C3bleufm_logo.png" group-title="adult,contemporary",CJMC 100.3 Bleu FM
-http://xltrax.com:8010/;
+http://xltrax.com:8010/listen.pls
 #EXTINF:-1 tvg-logo="http://cjme.com/favicon.ico" group-title="news,talk,sport",CJME News/Talk 980
 http://rawlco.leanstream.co/CJMEAM-MP3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/FM_93_Quebec_2012.jpg" group-title="talk,rock",CJMF 93.3 FM93
@@ -836,7 +836,7 @@ https://ais-sa1.streamon.fm/7036_24k.aac/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.news957.com/wp-content/themes/news957/images/favicon.ico" group-title="talk,news",CJNI News 95.7
 https://rogers-hls.leanstream.co/rogers/hal957.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://cjns.ca/favicon.ico" group-title="country,new country",CJNS 102.3
-http://s26.myradiostream.com:10888/;
+http://s26.myradiostream.com:10888/listen.pls
 #EXTINF:-1 tvg-logo="https://www.cjnu.ca/wp-content/uploads/2015/04/logo.png" group-title="community,nostalgia,oldies",CJNU 93.7 Nostalgia Radio
 http://noasrv.caster.fm:10188/stream
 #EXTINF:-1 tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/2450/files/2020/07/playbutton200x200.png" group-title="rhythmic,top 40",CJNW 107.1 Hot 107
@@ -904,7 +904,7 @@ http://ais-sa1.streamon.fm/7237_48k.aac
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/7c/e6/7ce6f0f76d723691cbec0d92f1ee803e.jpg" group-title="multicultural,multilingual",CJVB 1470 Fairchild Radio
 https://5b2959fe11444.streamlock.net/radio/am1470.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/CtGh8t2aaY.png" group-title="adult,hits",CJVD 100.1
-http://xlnetwork.info:8820/;
+http://xlnetwork.info:8820/listen.pls
 #EXTINF:-1 tvg-logo="http://www.cj103radio.com/cj103-gusher-200.jpg" group-title="adult,contemporary,country",CJVM 103.3 CJ-103
 http://dns4.83north.ca:8000/cjvm.mp3
 #EXTINF:-1 tvg-logo="https://static.squarespace.com/universal/default-favicon.ico" group-title="adult,contemporary",CJWA 107.1 JJAM
@@ -1074,7 +1074,7 @@ http://live.leanstream.co/CKNWAM
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/4/17194.v3.png" group-title="country,new country",CKNX 920
 http://live.leanstream.co/CKNXAM
 #EXTINF:-1 tvg-logo="http://coastalradio.ca//wp-content/themes/yoo_avenue_wp/favicon.ico" group-title="adult,contemporary,community",CKOA 89.7 The Coast
-http://198.100.145.187:15204/;
+http://198.100.145.187:15204/listen.pls
 #EXTINF:-1 tvg-logo="https://globalnews.ca/wp-content/uploads/2022/01/GlobalAMRadio_200x200_Square-Logo_680CJOB.png?w=200" group-title="talk,news",CKOB 106.9
 http://cogecomedia.leanstream.co/CKOBFM-MP3
 #EXTINF:-1 tvg-logo="http://www.tsn.ca/content/dam/sports/images/favicon/tsn/apple-touch-icon.png" group-title="sport,talk",CKOC TSN 1150
@@ -1240,7 +1240,7 @@ http://prem2.di.fm/deeporganichouse_hi?b1e8ab696a279ebb68c48cab
 #EXTINF:-1 tvg-logo="https://cdn-images.audioaddict.com/d/3/2/1/7/5/d32175a432f823ce84261c01d4b53f57.jpg" group-title="deep,tech,house,techno",Deep Tech
 http://prem2.di.fm/deeptech_hi?b1e8ab696a279ebb68c48cab
 #EXTINF:-1 tvg-logo="http://www.radiodap.com//images/basic/logo-box.jpg" group-title="desi,dil apna,punjabi,india",Dil Apna Punjabi
-http://my.radiodap.ca:9000/;
+http://my.radiodap.ca:9000/listen.pls
 #EXTINF:-1 tvg-logo="http://djfm.ca/wp-content/uploads/2016/07/logo.png" group-title="dance,electronic,toronto",DJFM.ca
 http://mux.mtl.djfmradio.com/djfm
 #EXTINF:-1 tvg-logo="https://decayfm.com/wp-content/uploads/2018/12/logo-e1512562084180-68-pixels.png" group-title="shoegaze,toronto",DKFM Edge
@@ -1274,9 +1274,9 @@ http://s1.streamaudio.de:8000/forest-green
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/aaded1_7f49eef49e264e729fe3e5825ec355a9~mv2.png" group-title="hard,rock",Freedom Rock Radio
 http://173.208.177.90:9322/;?type=http&nocache=74864
 #EXTINF:-1 tvg-logo="https://www.frequency5fm.com/wp-content/uploads/2023/04/cropped-Frequency5fm-New-Corner-Logo-en-Black.png" group-title="mexican,world",Frequency5FM.com MX-Radio
-http://usa11.fastcast4u.com:5252/;
+http://usa11.fastcast4u.com:5252/listen.pls
 #EXTINF:-1 tvg-logo="https://www.frequency5fm.com/wp-content/uploads/2023/04/cropped-Frequency5fm-New-Corner-Logo-en-Black.png" group-title="pop,hits",Frequency5FM.com
-http://usa8.fastcast4u.com:5861/;
+http://usa8.fastcast4u.com:5861/listen.pls
 #EXTINF:-1 tvg-logo="https://www.streamtastic.com/static/images/stations/frequency_5_fm.jpg" group-title="hits,pop",Frequency5FM Hits
 https://usa8.fastcast4u.com/proxy/frequency5fm?mp=/1
 #EXTINF:-1 tvg-logo="https://www.streamtastic.com/static/images/stations/frequency_5_fm.jpg" group-title="mix,pop",Frequency5FM Mix Radio
@@ -1344,7 +1344,7 @@ https://rcavliveaudio.akamaized.net/hls/live/2006635/P-2QMTL0_MTL/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ici.radio-canada.ca/ohdio/assets/pwa/apple-touch-icon-180x180.png" group-title="news,talk",CBOF 90.7 ICI Radio-Canada Première
 http://cbcmp3.ic.llnwd.net/stream/cbcmp3_P-2OOTT0_OTT
 #EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/f7/5e/131039/1/c300.png" group-title="college,contemporary,hits,top 40",Ignite Radio
-http://142.222.6.62:8000/stream/2/;
+http://142.222.6.62:8000/stream/2/listen.pls
 #EXTINF:-1 tvg-logo="http://i-liveradio.com/wp-content/uploads/2015/06/10708700_1021876921173217_1834748687394242495_o.jpg" group-title="funk,hip hop,jazz",iLive Radio.com
 http://streaming.radio.co/s735df8c1c/listen
 #EXTINF:-1 tvg-logo="https://www.illsoundvibe.com/uploads/4/6/2/9/4629590/new-isvv1-samcloud-colors-jpg-square.jpg" group-title="hip hop,rap,oldies,old,school",Illsoundvibe Radio
@@ -1370,7 +1370,7 @@ https://kathy.torontocast.com:3350/
 #EXTINF:-1 tvg-logo="http://asiadreamradio.torontocast.stream/stations/images/hjpowerplayer/powerplayjpop16300.jpeg" group-title="boysband,hits,hot,j-pop,japanese,idols,jpop",J-Pop Powerplay
 http://kathy.torontocast.com:3560/
 #EXTINF:-1 tvg-logo="https://asiadreamradio.torontocast.stream/stations/en/images/en/ppkawaii_thumb.jpg" group-title="japanese,idols,jpop",J-Pop Powerplay Kawaii
-https://kathy.torontocast.com:3060/;
+https://kathy.torontocast.com:3060/listen.pls
 #EXTINF:-1 tvg-logo="https://asiadreamradio.torontocast.stream/stations/images/hnatsukashiiplayer/natsu50.jpeg" group-title="classic,hits,j-pop,japanese",J-Pop Sakura 懐かしい 
 https://igor.torontocast.com:1710/
 #EXTINF:-1 tvg-logo="https://asiadreamradio.torontocast.stream/stations/en/images/en/jrockpowerplay-2_thumb.jpg" group-title="j-rock,rock,world",J-Rock Powerplay
@@ -1382,7 +1382,7 @@ https://mediacp.myautodj.com:8010/mobile
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/35392d_2b46febad3aa449c965c37168f5c2b03~mv2.png" group-title="caribbean,soca",Jammin Vibez Soca
 https://mediacp.myautodj.com:8014/stream
 #EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/ku7pgjfbk7ms.png" group-title="1930s,1940s,big band,jazz,swing",Jazz Club Bandstand
-https://daniel.torontocast.com:2630/;
+https://daniel.torontocast.com:2630/listen.pls
 #EXTINF:-1 tvg-logo="https://cdn-images.audioaddict.com/f/4/b/3/3/e/f4b33e8cbd9f0b1776e64f17b9c35abd.jpg" group-title="deep,house,jazz",Jazz House
 http://prem2.di.fm/jazzhouse_hi?b1e8ab696a279ebb68c48cab
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/ynnvhksmnvpz.png" group-title="alternative,non-commercial",JB Radio-2 
@@ -1496,7 +1496,7 @@ https://stream.rcast.net/66391
 #EXTINF:-1 tvg-logo="https://www.punkrockradio.ca/favicon.ico" group-title="post-punk,punk",PunkRockRadio.ca
 https://stream.radio.co/s904013bb1/listen
 #EXTINF:-1 tvg-logo="http://www.qcindie.com/wp-content/uploads/2015/11/cropped-favicon1-270x270.png" group-title="alternative,rock,indie",QCIndie.com
-http://23.227.178.146/;
+http://23.227.178.146/listen.pls
 #EXTINF:-1 tvg-logo="https://www.qub.radio/images/IMG_FB.png" group-title="news,political,talk",QUB Radio
 https://playerservices.streamtheworld.com/api/livestream-redirect/QUB_RADIOAAC_SC
 #EXTINF:-1 tvg-logo="http://www.radio42north.com/wp-content/uploads/2017/10/cropped-Radio42North-Logo_white-small-title-270x270.png" group-title="70s,80s,90s,indie,pop,rock",Radio 42° North
@@ -1510,9 +1510,9 @@ http://174.36.206.197:7019/stream
 #EXTINF:-1 tvg-logo="http://radiobellissima.it/wp-content/uploads/2019/03/Logo_Radiobellissima_Nero_Sfondobianco-01-300x300.png" group-title="bellissima,hits,top 40",Radio Bellissima Hits
 http://giorgia.radiobellissima.it:8000/stream
 #EXTINF:-1 tvg-logo="http://radiobellissima.it/favicon.ico" group-title="italian,pop",Radio Bellissima Italia
-http://giorgia.radiobellissima.it:8040/;
+http://giorgia.radiobellissima.it:8040/listen.pls
 #EXTINF:-1 tvg-logo="http://radiobellissima.it/favicon.ico" group-title="latin,world",Radio Bellissima Latina
-http://martina.radiobellissima.it:8060/;
+http://martina.radiobellissima.it:8060/listen.pls
 #EXTINF:-1 tvg-logo="https://radiobellissima.it/wp-content/uploads/2019/05/LOGHI_RELAX_1000px-768x768.jpg" group-title="ambient,relax",Radio Bellissima Relax
 http://62.171.171.202:8030/
 #EXTINF:-1 tvg-logo="http://www.radioquebec.biz/logo-rq-reduit.jpg" group-title="black,metal,hard,rock,talk",Radio Bizzzzz
@@ -1532,13 +1532,13 @@ https://hazel.torontocast.com:3185/stream
 #EXTINF:-1 tvg-logo="http://radiofreepeterborough.ca//sites/radiofreepeterborough.ca/files/favicon_0.ico" group-title="community,variety",Radio Free Peterborough
 http://trentradio.ca:8800/rfp
 #EXTINF:-1 tvg-logo="https://radiogloboitalia.com/wp-content/uploads/2019/12/cropped-globo600-logo-1-180x180.png" group-title="classical,easy listening,international,news",Radio Globo Italia
-http://144.217.76.188:8248/;
+http://144.217.76.188:8248/listen.pls
 #EXTINF:-1 tvg-logo="http://www.radiostreamlive.com/images/logos_radioitaliacanada.png" group-title="italian,pop,rsl",Radio Italia Canada
 https://streaming.radiostreamlive.com/radioitaliacanada_devices
 #EXTINF:-1 tvg-logo="http://www.kalasam.com/images/kalasam1.jpg" group-title="ethnic,tamil",Radio Kalasam.com
 http://173.192.207.51:8084/;stream.mp3
 #EXTINF:-1 tvg-logo="https://radiokonton.files.wordpress.com/2017/01/cropped-radio-konton-icon.jpg?w=270" group-title="electronica,experimental",Radio Konton 90.5
-http://radiokonton.zapto.org:8000/;
+http://radiokonton.zapto.org:8000/listen.pls
 #EXTINF:-1 tvg-logo="https://www.radiomaria.ca/wp-content/uploads/2016/10/rm-favicon.png" group-title="catholic,christian",Radio Maria Canada
 http://dreamsiteradiocp.com:8016/
 #EXTINF:-1 tvg-logo="https://www.radiomaria.ca/wp-content/uploads/2016/10/rm-favicon.png" group-title="catholic,christian,talk",Radio Maria Canada Spanish
@@ -1552,7 +1552,7 @@ https://us10a.serverse.com/proxy/rqi2
 #EXTINF:-1 tvg-logo="https://www.radioregent.com/images/radioregent_web.png" group-title="community,hip hop,reggae",Radio Regent.com
 https://streamer.radio.co/se3e1e3815/low
 #EXTINF:-1 tvg-logo="https://i3.radionomy.com/radios/400/4058aea7-d4f4-4c11-a4b3-1c6dce791477.png" group-title="comedy,persian",Radio Shemroon
-http://192.99.17.12:5919/;
+http://192.99.17.12:5919/listen.pls
 #EXTINF:-1 tvg-logo="https://direct.radiovm.com/wp-content/uploads/2020/03/cropped-logo-192x192.png" group-title="religion,spiritual,talk",Radio VM
 https://s5.radio.co/sec326ff8a/listen
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LIwmneC5inrUCejCQkXv9dJCUxrp4NbbRezr_Kg3EIWTK1q2wcIjbCa-EUIFfhtk6w" group-title="alternative,rock,indie",Radio XY
@@ -1730,7 +1730,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/CFRNAMAAC_SC
 #EXTINF:-1 tvg-logo="http://tsnimages.tsn.ca/ImageProvider/AssetImage?seoId=montreal-690&height=620" group-title="talk,sports",CKGM 690 TSN
 https://playerservices.streamtheworld.com/api/livestream-redirect/CKGMAMAAC.aac
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/33/2c/332caa27ed21041919e6f822fc04a8ac.jpg" group-title="contemporary,christian",CHJJ UCB Canada 90.7
-http://s7.viastreaming.net:8600/;
+http://s7.viastreaming.net:8600/listen.pls
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/80/Umfm_Logo_2006.jpg" group-title="campus,college,community,university",CJUM 101.5 UMFM
 http://live.umfm.com:8000/?DIST=TuneIn&TGT=TuneIn&maxServers=2&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTY0MDEwNTE4OSwiaXNzIjoidGlzcnYifQ.XVHPZYthG4GWjxu3LVpBJDg003zAA2Mn_3HnArwIdeU
 #EXTINF:-1 tvg-logo="https://www.wavesofpower.com/wp-content/uploads/2019/03/Logo_vallamai.png" group-title="christian,tamil",Vallamaiyin Alaikal Waves of Power

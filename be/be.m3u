@@ -2,11 +2,11 @@
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s218406/images/logog.png" group-title="talk,sports,news",American Forces Network 360 Benelux
 https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_BLX_SC
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSzelF4ogs_a6kyoGtn4oJD7imOEQQ-slYt8mdS7xL31KFQ1inbI5_uuv7NkhnVcbd2Rs&usqp=CAU" group-title="top 40,hits",1 Mini 1
-http://centauri.shoutca.st:9021/;
+http://centauri.shoutca.st:9021/listen.pls
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSzelF4ogs_a6kyoGtn4oJD7imOEQQ-slYt8mdS7xL31KFQ1inbI5_uuv7NkhnVcbd2Rs&usqp=CAU" group-title="variety,news,culture",1 Mini 2
-http://centauri.shoutca.st:9064/;
+http://centauri.shoutca.st:9064/listen.pls
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSzelF4ogs_a6kyoGtn4oJD7imOEQQ-slYt8mdS7xL31KFQ1inbI5_uuv7NkhnVcbd2Rs&usqp=CAU" group-title="variety,news,culture",1 Mini 3
-http://centauri.shoutca.st:9060/;
+http://centauri.shoutca.st:9060/listen.pls
 #EXTINF:-1 tvg-logo="https://www.ard-media.de/fileadmin/user_upload/radio/sender_und_kombis/bilder/sender_logo/Neue_Logos/Einzelsender/100-5_hitradio.png" group-title="hits,news,pop,rock",100.5 Das Hitradio
 http://dashitradio-de-hz-fal-stream07-cluster01.radiohost.de/dashitradio_48?listenerrmid=31363430313039353030-34352e37372e36322e313631-3338303430-53747265616d436865636b426f742f302e312e30
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/5/89505.v7.png" group-title="top 40,pop,dance",All 4 Music A4M1
@@ -116,13 +116,13 @@ https://radios.rtbf.be/vivabxl-128.mp3
 #EXTINF:-1 tvg-logo="https://www.static.rtbf.be/news/common/images/radio/logo/1400x1400/lapremiere-1400x1400.png" group-title="chanosn,world,culture",RTBF La Première
 http://radios.rtbf.be/laprem1erebxl-128.mp3
 #EXTINF:-1 tvg-logo="http://www.lazerhothits.eu/images/Lazerhothits_Banner_Small.jpg" group-title="house,oldschool,retro,techno",Lazer Hot Hits
-http://streams.servicehosting.be:3730/;
+http://streams.servicehosting.be:3730/listen.pls
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/xXbflTsPWzGaUR08gsblq4MK2EFGr_I5T3chfTGIxYfn9XaLLS24jSCB6dhlwIFSPxg=w600-h300-pc0xffffff-pd" group-title="pop,rock,hip hop",Louisplayz inc
 http://stream.zeno.fm/my78wz87em0uv?rj-ttl=5&rj-tok=AAABfdrYXpoAhfd8Y87Gzq-lLw
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Logo_of_MED_TV.jpeg" group-title="classical,baroque",Med Muzik
 http://137.74.205.201/medmuzik/MedStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.melodiefm.be/templates/rt_vermilion/favicon.ico" group-title="https://uk.radio.net/images/broadcasts/a3/a5/12361/1/c300.png",Mélodie 101.6
-http://188.165.35.60:8008/;
+http://188.165.35.60:8008/listen.pls
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/e5/97/e59721012fa8b4e392feed8f300b4d93.jpg" group-title="pop,top 40",Métropole Radio 104.5
 http://maxpag.eu:8000/metropole
 #EXTINF:-1 tvg-logo="" group-title="",Mint

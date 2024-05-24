@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://dagoradiosound.info/wp-content/uploads/2019/02/cropped-DRS-LOGO.gif" group-title="pop",Dago Radio
-http://51.75.24.191:8011/;
+http://51.75.24.191:8011/listen.pls
 #EXTINF:-1 tvg-logo="http://www.radioparadisagasy.com/paradisagasy.jpg" group-title="",Paradisagasy
 http://163.172.29.170:10018/paradisagasy
 #EXTINF:-1 tvg-logo="https://ca0-cdn.onlineradiobox.com/img/logo/9/69329.v1.png" group-title="96.6,antananarivo,rdj",Radio des jeunes (RDJ)
@@ -14,7 +14,7 @@ http://178.32.99.187:8001/stream/1/
 #EXTINF:-1 tvg-logo="http://radiovazogasy.com/application/views/themes/rvg_v6/images/favicon.ico" group-title="",Rado VazoGasy
 http://stream.radiovazogasy.com:8001/;stream/1
 #EXTINF:-1 tvg-logo="" group-title="",RNA Madagascar
-http://drs-live-rna.gasy-internet.info:9001/;
+http://drs-live-rna.gasy-internet.info:9001/listen.pls
 #EXTINF:-1 tvg-logo="" group-title="",Taratra
 http://41.188.43.211:8000/taratraradio.mp3
 #EXTINF:-1 tvg-logo="https://ca0-cdn.onlineradiobox.com/img/logo/4/43364.v1.png" group-title="",Tiako be... La radio

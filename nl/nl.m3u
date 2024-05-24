@@ -30,7 +30,7 @@ http://mediacdn.rtvoost.nl/icecast/rtvoost/alles-plat-mp3
 #EXTINF:-1 tvg-logo="" group-title="amsterdam,funk,neo-soul,nu-disco,rnb,soul",Amsterdam Funk Channel
 http://stream.afc.fm:8504/;stream.mp3
 #EXTINF:-1 tvg-logo="http://www.andys80s.com/images/andytape1234.jpg" group-title="80s,new wave",Andy's 80s - The Rarest New Wave 80s Music
-http://lin1.san.fast-serv.com:9844/;
+http://lin1.san.fast-serv.com:9844/listen.pls
 #EXTINF:-1 tvg-logo="" group-title="",arrow bluesbox
 http://stream.arrowbluesbox.nl/bluesboxonline
 #EXTINF:-1 tvg-logo="https://arrowcaz.nl/wp-content/uploads/2019/02/CAZ_logo_white_payoff-2.png" group-title="hits,non-stop",Arrow CAZ!
@@ -44,7 +44,7 @@ http://radioheiloo.no-ip.info:8010/
 #EXTINF:-1 tvg-logo="" group-title="",BeatClassics
 http://stream.deejays.nl/beatclassics.aac
 #EXTINF:-1 tvg-logo="" group-title="classical",Beethoven Channel
-https://beethovenchannel.radioca.st/;
+https://beethovenchannel.radioca.st/listen.pls
 #EXTINF:-1 tvg-logo="" group-title="geleen,lokale omroep,sittard,streekomroep,urmond,westelijke mijnstreek",Bie Os
 https://olon.az.icecast.ebsd.ericsson.net/bieos_mijn_streekomroep
 #EXTINF:-1 tvg-logo="https://www.bigb21.nl/img/favicon.png" group-title="00's,10's,90's,hits",BigB21
@@ -56,11 +56,11 @@ https://23603.live.streamtheworld.com:443/BNR_NIEUWSRADIOAAC.aac?dist=other
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2aBSCDc01nV4FZi8tSyhFf5wzq8oohaSDioweX4t9n_Nm4DCrqw" group-title="alternative,dutch",Bonanza XL
 http://178.19.116.3:8063/bonanza_mp3
 #EXTINF:-1 tvg-logo="https://www.bright.fm/wp-content/uploads/2016/08/cropped-bright.fm-ico-270x270.png" group-title="pop",Bright.FM
-http://str1.hollanddata.eu:8000/;
+http://str1.hollanddata.eu:8000/listen.pls
 #EXTINF:-1 tvg-logo="https://www.bright.fm/wp-content/uploads/2016/08/cropped-bright.fm-ico-270x270.png" group-title="christian",BrightFamilyRadio
-http://str1.hollanddata.eu:8006/;
+http://str1.hollanddata.eu:8006/listen.pls
 #EXTINF:-1 tvg-logo="https://www.bright.fm/wp-content/uploads/2016/08/cropped-bright.fm-ico-270x270.png" group-title="christian,kids",BrightFM Kids
-http://str1.hollanddata.eu:8020/;
+http://str1.hollanddata.eu:8020/listen.pls
 #EXTINF:-1 tvg-logo="http://retro.c-dance.fm/logo.jpg" group-title="dance,house,retro,techno,trance",C-Dance RETRO
 http://s45.myradiostream.com:18304/
 #EXTINF:-1 tvg-logo="" group-title="",Candlelight
@@ -134,7 +134,7 @@ http://62.210.135.86:8000/mp3
 #EXTINF:-1 tvg-logo="" group-title="",DANCE.FM :: The Beat of Amsterdam ::
 https://streams.dancefm.net/mp3-hq
 #EXTINF:-1 tvg-logo="https://myradiostream.com/favicon.ico" group-title="brandnew,classic 90s,dance,disco,edm,edm radioshows,hothits,pop",DANCEableRADIO
-http://176.31.118.194:19580/;
+http://176.31.118.194:19580/listen.pls
 #EXTINF:-1 tvg-logo="http://dancegrooveradio.com/images1/dgrlogo.jpg" group-title="24/7,70s,80s,clubsounds,disco,funk,non-profit radio station,soul",DanceGroove Radio | 32 Kbps aac+
 http://server6.digital-webstream.de:9310/
 #EXTINF:-1 tvg-logo="http://dancegrooveradio.com/images1/dgrlogo.jpg" group-title="",DanceGroove Radio | 64 Kbps aac+
@@ -144,7 +144,7 @@ http://server3.digital-webstream.de:12160/
 #EXTINF:-1 tvg-logo="https://deep.radio/img/favicon.ico" group-title="ambient,dance,deep house,downtempo,edm,house,nu-jazz,progressive,techno",Deep Radio
 https://playerservices.streamtheworld.com/api/livestream-redirect/DEEP_RADIO.mp3
 #EXTINF:-1 tvg-logo="" group-title="delta fm,piraat",Delta Piraat
-http://stream.deltafm.nl:8125/;
+http://stream.deltafm.nl:8125/listen.pls
 #EXTINF:-1 tvg-logo="http://www.deltaradio90.nl/images/img0022.png" group-title="60s,70s,80s,muziek zonder flauwekul",Delta Radio Nijmegen
 http://streamdelta.lokaalradio.nl:9005/
 #EXTINF:-1 tvg-logo="https://denhaagfm.nl//favicon.ico" group-title="dutch,dutch pop,local music,local news,local radio,local talk,pop",Den Haag FM
@@ -188,7 +188,7 @@ http://live.feelgoodradio.eu:8344/stream
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/f13c33_866969d6fd224cf59eb44f47a88fc300.png" group-title="house,soulful house",Freak31
 https://stream.31media.net/freak31
 #EXTINF:-1 tvg-logo="" group-title="dance,house,techno,trance",Freeminded FM
-https://freemindedfm.nl/stream;
+https://freemindedfm.nl/streamlisten.pls
 #EXTINF:-1 tvg-logo="http://www.freezfm.nl/wp-content/themes/freez/images/favicon.ico" group-title="pop,rock",Freez FM
 http://stream.freezfm.nl/freezfm
 #EXTINF:-1 tvg-logo="https://www.funx.nl/favicon.png" group-title="slow jamz",FunX Slow Jamz
@@ -342,7 +342,7 @@ http://stream.kxclassikx.nl/
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s104489/images/logog.png?t=152102" group-title="60s,70s,80s,classic hits",KX Classics
 https://mcp-1.streampanel.nl:8020/kxclassics_mp3
 #EXTINF:-1 tvg-logo="" group-title="l-fm",L-FM 105
-http://stream.l-fm.nl:8002/;
+http://stream.l-fm.nl:8002/listen.pls
 #EXTINF:-1 tvg-logo="https://l1.nl/static/img/logo.svg" group-title="local music,platdüütsch",L1 Plat-eweg
 https://d34pj260kw1xmk.cloudfront.net/icecast/l1/plat-eweg-bb-mp3
 #EXTINF:-1 tvg-logo="https://l1.nl/static/img/social.png" group-title="limburg,lokaal,nieuws",L1 Radio
@@ -384,7 +384,7 @@ http://www.rcgoldserver.de:8963/
 #EXTINF:-1 tvg-logo="http://www.nashvilletv.nl/wp-content/uploads/2016/04/cropped-nashvilletv-logo-favicon-270x270.png" group-title="country",Nashville FM
 http://server-10.stream-server.nl:8300/
 #EXTINF:-1 tvg-logo="http://www.nashvilletv.nl/wp-content/uploads/2016/04/cropped-nashvilletv-logo-favicon-270x270.png" group-title="country",NashvilleFM
-http://server-24.stream-server.nl:8300/;
+http://server-24.stream-server.nl:8300/listen.pls
 #EXTINF:-1 tvg-logo="http://www.nauticradio.net/images/ogimage.png" group-title="320kbps,breakbeat,disco,electronica",Nautic Radio Groningen
 http://stream.nauticradio.net:14260/
 #EXTINF:-1 tvg-logo="http://www.nhradio.nl/favicon.ico" group-title="",NH Radio
@@ -538,7 +538,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R2292843_SC
 #EXTINF:-1 tvg-logo="" group-title="",Pinguin World Music
 https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R2591417_SC
 #EXTINF:-1 tvg-logo="" group-title="church",Pnielkerk Veenendaal 
-http://vps.pniel.nl:7777/;
+http://vps.pniel.nl:7777/listen.pls
 #EXTINF:-1 tvg-logo="https://qmusic.nl/favicon.ico" group-title="christmas music,non-stop",Q Christmas
 https://playerservices.streamtheworld.com/api/livestream-redirect/QMUSICNL_THEMA.mp3
 #EXTINF:-1 tvg-logo="" group-title="pop",Q MUSIC TOP 1000
@@ -584,7 +584,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR16_SC
 #EXTINF:-1 tvg-logo="https://www.538.nl/icons/apple-icon-120x120.png" group-title="",Radio 538 Verrückte Stunde
 https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR21_SC
 #EXTINF:-1 tvg-logo="http://www.radio9oostzaan.nl/favicon.png" group-title="lounge",Radio 9 Oostzaan
-http://caster01.streampakket.com:9350/;
+http://caster01.streampakket.com:9350/listen.pls
 #EXTINF:-1 tvg-logo="https://bangsajawa.nl/wp-content/uploads/2018/01/Logo-Vector-Greyscal.png" group-title="pop",Radio Bangsa Jawa
 https://betelgeuse.dribbcast.com/proxy/abhost?mp=/stream
 #EXTINF:-1 tvg-logo="https://www.radiobloemendaal.nl/img/facebook.png" group-title="christian,church services",Radio Bloemendaal
@@ -620,7 +620,7 @@ http://www.rcgoldserver.de:8270/
 #EXTINF:-1 tvg-logo="https://www.rtvnoord.nl/img/favicons/groningen/apple-touch-icon.png" group-title="nieuws,regio",Radio Noord
 https://media.rtvnoord.nl/icecast/rtvnoord/radio?.pls
 #EXTINF:-1 tvg-logo="http://radionoordvaarder.nl/favicon.ico" group-title="instrumental,new age",Radio Noordvaarder Angel Healing
-http://www1.radionoordvaarder.nl:8000/;
+http://www1.radionoordvaarder.nl:8000/listen.pls
 #EXTINF:-1 tvg-logo="http://www.radionoordvaarder.nl/reiki" group-title="healing,new wave",Radio Noordvaarder Reiki
 http://stream.radionoordvaarder.nl:8050/
 #EXTINF:-1 tvg-logo="" group-title="60s,70s,oldies",Radio Northsea International
@@ -680,7 +680,7 @@ http://ice.cr2.streamzilla.xlcdn.com:8000/sz%3DRCOLiveWebradio%3Daac128
 #EXTINF:-1 tvg-logo="http://rhr.fm/data/img/rhrfm_facebook.jpg" group-title="hardstyle",Real Hardstyle Radio
 https://stream.rhr.fm/
 #EXTINF:-1 tvg-logo="https://reestdalteam.nl/wp-content/uploads/2019/12/cropped-jukebox-180x180.png" group-title="nederlandstalig,piraten,piratenhits,reestdalteam",Reestdalteam
-http://cc6.beheerstream.com:8390/;
+http://cc6.beheerstream.com:8390/listen.pls
 #EXTINF:-1 tvg-logo="https://reformatorischeomroep.nl/favicon.ico" group-title="christelijk",Reformatorische Omroep Radio 1
 https://stream01.sthhost.nl:8003/live
 #EXTINF:-1 tvg-logo="https://reformatorischeomroep.nl/favicon.ico" group-title="christelijk",Reformatorische Omroep Radio 2
@@ -800,7 +800,7 @@ https://audiostreamen.nl/overijssel
 #EXTINF:-1 tvg-logo="http://www.teamfm.nl///templates/radiowave/includes/images/ios/icon-72.png" group-title="",Team FM Twente
 https://audiostreamen.nl/twente
 #EXTINF:-1 tvg-logo="" group-title="classic hits,crooner,entertainer,great american songbook,jazz",The Great American Songbook
-http://tgas.dyndns.org:8001/;
+http://tgas.dyndns.org:8001/listen.pls
 #EXTINF:-1 tvg-logo="https://www.thehitmachine.nl/wp-content/uploads/freshframework/ff_fresh_favicon/favicon_96x96--2018_01_03__08_21_52.png" group-title="hits",The Hit Machine
 http://audiostream.thehitmachine.nl:8000/thmmp3
 #EXTINF:-1 tvg-logo="" group-title="pop",The Oldie Station IceCast aaclus

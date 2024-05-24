@@ -54,7 +54,7 @@ http://rstream.mcot.net:8000/fm107
 #EXTINF:-1 tvg-logo="" group-title="world music",MET107 (HLS)
 http://mcotdigital-w9rpgl.cdn.byteark.com/radiocdn_edge/fm107.stream_aac/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://listenmetro.com/images/bg.png" group-title="thai pop",Metro Radio 90.5 Khon Kaen
-http://radio4.thzhost.com:4114/;
+http://radio4.thzhost.com:4114/listen.pls
 #EXTINF:-1 tvg-logo="" group-title="local music,music",MUN FM
 https://4018.radio2.thzhost.com/;stream.mp3
 #EXTINF:-1 tvg-logo="" group-title="",Music Library Thailand
@@ -68,7 +68,7 @@ http://prdonline.prd.go.th:8200/;stream.mp3
 #EXTINF:-1 tvg-logo="https://fm101talk.com/wp-content/uploads/2020/04/the-reporters.jpg" group-title="news,news talk",Radio Report 1
 http://media.login.in.th:8135/;stream
 #EXTINF:-1 tvg-logo="" group-title="",requestradio
-http://27.254.142.208:8300/;
+http://27.254.142.208:8300/listen.pls
 #EXTINF:-1 tvg-logo="https://www.requestradio.in.th/danceremix/wp-content/uploads/2016/07/icon.png" group-title="dance,remixes",RequestRadio Dance
 https://cast.requestradio.in.th:850//stream/3
 #EXTINF:-1 tvg-logo="https://www.requestradio.in.th/inter/wp-content/uploads/2016/07/icon.png" group-title="world music",RequestRadio Inter
@@ -92,7 +92,7 @@ https://live.thairath.co.th/trtv2/playlist_240p/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.topnews.co.th/wp-content/uploads/2021/01/cropped-topnews-site-logo-3.webp" group-title="hls video,news,politics & current affairs,tv",Top News
 https://live.topnews.co.th/hls/topnews.m3u8
 #EXTINF:-1 tvg-logo="" group-title="hits",Virgin Radio Hitz Bangkok
-http://prdonline.prd.go.th:8206/;
+http://prdonline.prd.go.th:8206/listen.pls
 #EXTINF:-1 tvg-logo="" group-title="local talk,news talk",คลื่นความคิด (HLS)
 https://mcotdigital-9ksau4.cdn.byteark.com/radiocdn_edge/fm965.stream_aac/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.smartbomb.co.th/assets/images/nationradio_logo.png" group-title="news,news talk",มิติข่าว 90.5

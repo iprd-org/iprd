@@ -42,7 +42,7 @@ https://s47.myradiostream.com/:8864/listen.mp3/
 #EXTINF:-1 tvg-logo="" group-title="rock",East FM
 http://listen.eastfm.nz/stream.mp3
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s302357/images/logoq.png" group-title="80s,easy listening",Easy 80s
-http://procyon.shoutca.st:8032/;
+http://procyon.shoutca.st:8032/listen.pls
 #EXTINF:-1 tvg-logo="" group-title="",Gaia FM New Zealand
 http://s2.stationplaylist.com:9000/gaiafm.aac
 #EXTINF:-1 tvg-logo="http://www.galaxyfm.co.nz/favicons/53c7edaf-71ab-432b-9997-1e9a4e27dfa9/favicon-180x180.png" group-title="adult contemporary,community radio,kawerau",Galaxy 107 FM  Kawerau
@@ -70,7 +70,7 @@ http://135.181.78.169:8648/escape
 #EXTINF:-1 tvg-logo="" group-title="",Mushroom FM
 http://135.181.78.169:8648/live
 #EXTINF:-1 tvg-logo="http://www.retrohitradio.co.nz/css/img/icon.png" group-title="80s,retro,retrowave,synthwave",Neo Radio
-http://curiosity.shoutca.st:6383/;
+http://curiosity.shoutca.st:6383/listen.pls
 #EXTINF:-1 tvg-logo="https://www.nznetradio.net.nz/favicon.ico" group-title="pop",New Zealand Net Radio
 http://www.nznetradio.net.nz:8000/stream.mp3
 #EXTINF:-1 tvg-logo="https://www.newstalkzb.co.nz/content/images/interface/icons/newstalkzb/apple-touch-icon-v6.png" group-title="local news,news,news talk,talk",Newstalk ZB Auckland
@@ -122,7 +122,7 @@ http://radionz-ice.streamguys.com/international_aac64
 #EXTINF:-1 tvg-logo="https://mumbrella.com.au/wp-content/uploads/2021/03/Screen-Shot-2021-03-17-at-3.05.53-pm-e1615954009519.png" group-title="",SENZ - New Zealand
 https://sen.streamguys1.com/SENZ-AAC/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static.wixstatic.com/media/02acb2_6cce978449504683b9d9a5b6861b25e3.png/v1/fill/w_32%2Ch_32%2Clg_1%2Cusm_0.66_1.00_0.01/02acb2_6cce978449504683b9d9a5b6861b25e3.png" group-title="ambient,meditation,new age,relax",Sleep Radio
-http://149.56.234.138:8169/;
+http://149.56.234.138:8169/listen.pls
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/941c5c_ce136d26b4cd4c4eb4b8d2faf4332cd4~mv2.png/v1/fill/w_280,h_144,al_c,usm_0.66_1.00_0.01/Smooth%20-%20logo%20with%20new%20white%20slogan%20-%20TP.png" group-title="easy listening",Smooth 105.6 FM
 https://smooth.radioca.st/streams/64kbps
 #EXTINF:-1 tvg-logo="https://s3-ap-southeast-2.amazonaws.com/crowdhubrhemaau/favicons/49/favicon-96x96.png" group-title="christian,rhema",Star
@@ -148,7 +148,7 @@ http://ais-nzme.streamguys1.com/nz_020_aac
 #EXTINF:-1 tvg-logo="http://www.mostfm.co.nz/favicon.ico" group-title="",The Most Fm
 http://gordon.mostfm.com:8000/high
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/be2786_c8805d95b2454642aa4dde7ad1622722%7Emv2_d_3897_3345_s_4_2.jpg" group-title="auckland,community radio,funk,jazz,soul",The Plug 106.9 Auckland
-http://s2.voscast.com:11614/;
+http://s2.voscast.com:11614/listen.pls
 #EXTINF:-1 tvg-logo="https://www.therock.net.nz/home/_jcr_content/image.dynimg.1280.q75.jpg/v1533156780647/ROK-Listen-live-The-Rock-Generic-1100x620.jpg" group-title="",The Rock
 http://tunein-icecast.mediaworks.nz/rock_128kbps
 #EXTINF:-1 tvg-logo="http://www.thesound.co.nz//design/images/icons/favicon.192.png" group-title="classic rock,m3u8",The Sound

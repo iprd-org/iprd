@@ -150,7 +150,7 @@ http://stream.radiorex.fi:8000/radiorex
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Radio_Rock_logo.png/800px-Radio_Rock_logo.png" group-title="",Radio Rock
 https://digitacdn.akamaized.net/hls/live/629243/radiorock/master-128000.m3u8
 #EXTINF:-1 tvg-logo="" group-title="adult contemporary",Radio Sandels
-http://37.187.5.67:8080/;
+http://37.187.5.67:8080/listen.pls
 #EXTINF:-1 tvg-logo="http://www.radiostreamlive.com/images/logos_radiosantaclaus.png" group-title="christmas music,helsinki,rsl",Radio Santa Claus
 https://streaming.radiostreamlive.com/radiosantaclaus_devices
 #EXTINF:-1 tvg-logo="http://www.radiot.fi/img/channel-logos/radio-sun.png?content-checksum=9cf483754ddbe3dc6f78179a82d9ffb0d879a75a" group-title="pop",Radio SUN
@@ -178,7 +178,7 @@ https://server1.toivon.net/proxy/toivon_5_1?mp=/stream
 #EXTINF:-1 tvg-logo="https://www.savonaallot.fi/wp-content/themes/savonaallot/images/logo.png" group-title="",Savon Aallot
 https://cast.savonaallot.fi/savonaallot
 #EXTINF:-1 tvg-logo="http://livetaajuus.fi/media/logos/sea-fm.png" group-title="",Sea fm
-http://s3.myradiostream.com:4976/;
+http://s3.myradiostream.com:4976/listen.pls
 #EXTINF:-1 tvg-logo="http://www.steelfm.ax/wp-content/uploads/2015/03/Steel_FM_logo_480.png" group-title="hits",Steel Fm
 http://ice6.securenetsystems.net/STEELFM
 #EXTINF:-1 tvg-logo="https://static-cdn.sr.se/sida/images/185/3633869_2048_1152.jpg" group-title="finnish,music,news,public radio,sveriges radio",Sveriges Radio - SR Sisuradio

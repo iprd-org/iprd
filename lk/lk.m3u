@@ -2,11 +2,11 @@
 #EXTINF:-1 tvg-logo="https://www.bestcoast.fm/images/logo.png" group-title="music",bestcoast.fm
 http://streams.radio.co/sea5dddd6b/listen
 #EXTINF:-1 tvg-logo="https://www.goldfm.lk//images/icon.png" group-title="oldies,pop",Gold FM 93.0 & 93.2 Colombo
-http://goldfm.asiabroadcasting.stream:7048/;
+http://goldfm.asiabroadcasting.stream:7048/listen.pls
 #EXTINF:-1 tvg-logo="https://zeno.fm/static/icons/apple-icon-120x120.png" group-title="classical",Gospel Music Radio Srilanka 
 http://stream.zeno.fm/emsfpc2m7x8uv?rj-ttl=5&rj-tok=AAABfdq7yegA5IeGSooJVPL8-A
 #EXTINF:-1 tvg-logo="http://www.hirufm.lk/images/favicon.ico" group-title="colombo,sinhalese pop",Hiru FM 96.1 Colombo
-http://hirufm.asiabroadcasting.stream:7018/;
+http://hirufm.asiabroadcasting.stream:7018/listen.pls
 #EXTINF:-1 tvg-logo="https://www.laksara.com/wp-content/uploads/2020/01/laksaralogo.jpg" group-title="",Laksara
 https://eu10b.serverse.com:1936/Laksara/Laksara/chunklist_w2083084714.m3u8
 #EXTINF:-1 tvg-logo="http://lite87.com/sites/55ade734ad0d5fa398000002/theme/images/fevi_2.png" group-title="adult contemporary",Lite87
@@ -28,7 +28,7 @@ http://dammikartmp.tulix.tv/slrc1/slrc1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.shaafm.lk/images/logo_large.jpg" group-title="entertainment,music,news",Shaa FM
 http://209.133.216.3:7073/;stream.mp3
 #EXTINF:-1 tvg-logo="" group-title="entertainment,music,news",Sirasa FM
-http://live.trusl.com:1170/;
+http://live.trusl.com:1170/listen.pls
 #EXTINF:-1 tvg-logo="https://sithafm.lk/img/sitha-symbol-svg.png" group-title="entertainment,music,news",Sitha FM
 http://shaincast.caster.fm:48148/listen.mp3
 #EXTINF:-1 tvg-logo="" group-title="entertainment,state",SLBC -City FM
@@ -50,6 +50,6 @@ http://live.tnlrn.com:8010/live.mp3
 #EXTINF:-1 tvg-logo="" group-title="indian music,jaffna,radio,south indian,sri lanka,tamil,tamil fm,tamil music,tamil songs,tube tamil",Tube Tamil FM Radio டியூப் தமிழ் எஃப்.எம் பண்பலை ரேடியோ
 http://s2.voscast.com:12084/;stream1619441439791/1
 #EXTINF:-1 tvg-logo="http://yfm.lk/wp-content/uploads/2018/04/y1.png" group-title="entertainment,music,news",Y FM
-http://live.trusl.com:1180/;
+http://live.trusl.com:1180/listen.pls
 #EXTINF:-1 tvg-logo="" group-title="welcome to generation yes",Yes FM
 http://live.trusl.com:1150/

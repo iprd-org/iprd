@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYu45c1xUTgzCUF7r5fiFU0DBe0geyiWiRhKpkHhF_Cbtc7JiNthAtbhMJSxEB8hdmK9Q&usqp=CAU" group-title="alternative,classic,rock",BadRock Radio
-http://199.115.117.77:8100/;
+http://199.115.117.77:8100/listen.pls
 #EXTINF:-1 tvg-logo="https://i0.wp.com/radiobg.co.uk/wp-content/uploads/2020/03/RadioBG_London_Logo.jpg?fit=367%2C80&ssl=1" group-title="pop",RadioBG London
 https://live.radiobg.co.uk:8443/live
 #EXTINF:-1 tvg-logo="http://www.radio1rock.bg/theme_assets/radio1rock/images/favicon.png" group-title="rock,classic",Radio 1 Rock 98.3
@@ -56,9 +56,9 @@ http://www.katrafm.com:8000/live
 #EXTINF:-1 tvg-logo="https://www.magic.bg/img/og-image.jpg" group-title="rock,pop,top 40",Magic 92.4/100.2
 https://bss.neterra.tv/rtplive/magicfmradio_live.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://radiomaia.com/wp-content/uploads/2015/08/cropped-maq9-e1430946025479-192x192.png" group-title="hits,hot adult contemporary,local radio",Maya Burgas
-http://rnmediagroup.com:9000/;
+http://rnmediagroup.com:9000/listen.pls
 #EXTINF:-1 tvg-logo="http://radiomaia.com/wp-content/uploads/2015/08/cropped-maq9-e1430946025479-192x192.png" group-title="contemporary,hits,dance,hot,adult",Maya Varna
-http://rnmediagroup.com:10000/;
+http://rnmediagroup.com:10000/listen.pls
 #EXTINF:-1 tvg-logo="https://metrocast.top/favicon.ico" group-title="club,dance,news,talk",Metro DANCE Radio
 https://eu1.reliastream.com/proxy/mdr?mp=/MDR
 #EXTINF:-1 tvg-logo="https://metrocast.top/favicon.ico" group-title="hits,news,pop,talk,top 40",Metro HITS Radio
@@ -102,11 +102,11 @@ http://mpc.mediacp.eu:8744/
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/k4oWM31T_2rXbi-lnJfuA3Dma8jr2yZofNXv2jcnczlqjBJV2HUyJNH2V-J6R-Dslg=w720-h310-rw" group-title="greek,world",Radio Pianica
 https://mpc.mediacp.eu/stream/djmackrandy/stream
 #EXTINF:-1 tvg-logo="http://radio-thebigboss.info/wp-content/uploads/2017/09/cropped-PicsArt_09-07-04.36.32-192x192.jpg" group-title="90s,classic,dance",Radio The Big Boss
-http://79.98.108.172:8022/;
+http://79.98.108.172:8022/listen.pls
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/4/71214.v10.png" group-title="electronic,oldies",Radio Viva 94.5
 http://stream.radioextra-bg.net:8000/viva-eurodance
 #EXTINF:-1 tvg-logo="https://archive.org/download/Eto-choveka/Beinsa.gif" group-title="talk,folk",Radio Beinsa Duno
-http://87.126.166.233:8000/;
+http://87.126.166.233:8000/listen.pls
 #EXTINF:-1 tvg-logo="http://www.radiotangra.com/img/logo_tangra.png" group-title="hard,rock,heavy,metal",Radio Tangra
 http://stream-bg-01.radiotangra.com:8000/Tangra-high
 #EXTINF:-1 tvg-logo="http://media.metacast.eu/pictures/05_2016/1u3XLwvIqfH9hrgS24iT-12813.png" group-title="90s,pop",Test NRJ Sergio IP

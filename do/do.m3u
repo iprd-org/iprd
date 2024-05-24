@@ -22,7 +22,7 @@ https://cloudflare.streamgato.us:3809/live/iutvlive.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",KQ 94.5
 https://radio.yaservers.com:7001/;stream.mp3
 #EXTINF:-1 tvg-logo="http://kq94.net/wp-content/uploads/2016/01/faviconKQ.png" group-title="hiphop,reggaeton",KQ 94.5
-http://radio.yaservers.com:9990/;
+http://radio.yaservers.com:9990/listen.pls
 #EXTINF:-1 tvg-logo="" group-title="merengue",La N 103,5 FM Santiago
 http://rgradio.net:10100/lan103.ogg
 #EXTINF:-1 tvg-logo="http://larocka917.com/favicon.ico" group-title="adult contemporary,alternative,pop,top 40",La Rocka 91.7
@@ -56,11 +56,11 @@ http://audio.domiradio.com:8104/stream
 #EXTINF:-1 tvg-logo="" group-title="community radio,local music,local news",Radio Cimarrona
 http://radiocimarrona.out.airtime.pro:8000/radiocimarrona_a
 #EXTINF:-1 tvg-logo="" group-title="classical",Salsa - Dominicana
-http://radio.domiplay.net:2002/;
+http://radio.domiplay.net:2002/listen.pls
 #EXTINF:-1 tvg-logo="https://i0.wp.com/sermejorradio.net/wp-content/uploads/2017/12/cropped-512-01-1.png?fit=270%2C270" group-title="upbeat",Ser Mejor Radio
 http://ca2.rcast.net:8068/;stream.mp3
 #EXTINF:-1 tvg-logo="" group-title="",Sonido 104 FM 104.3
-http://136.243.55.56:8120/;
+http://136.243.55.56:8120/listen.pls
 #EXTINF:-1 tvg-logo="" group-title="",Sonido Suave
 https://radio4.domint.net:8090/stream
 #EXTINF:-1 tvg-logo="https://super7fm.com/wp-content/uploads/2021/05/logo-png-super-7-fm.png" group-title="",Super 7 fm

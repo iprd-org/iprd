@@ -10,7 +10,7 @@ https://node33.obviousapproach.com:9000/stream
 #EXTINF:-1 tvg-logo="https://api-radio.mbc.net/images/channels/1593070077LogoMBCFM%403x.png" group-title="",MBC FM
 https://mbcfm-radio.mbc.net/mbcfm-radio.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/f47a3e_daf5380428b94d4192f8eaf2f0c59e62~mv2.jpg/v1/fill/w_221,h_221,al_c,lg_1,q_80/f47a3e_daf5380428b94d4192f8eaf2f0c59e62~mv2.webp" group-title="",Mix FM
-http://s2.voscast.com:11376/;
+http://s2.voscast.com:11376/listen.pls
 #EXTINF:-1 tvg-logo="" group-title="classical",Mix FM
 http://s2.voscast.com:11376/live
 #EXTINF:-1 tvg-logo="https://api-radio.mbc.net/images/channels/1568628425Logomood%402x.png" group-title="",MOOD FM
@@ -24,13 +24,13 @@ https://quraanfm-radio.mbc.net/quraanfm-radio.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosunna.com/favicon.ico" group-title="arabic,islam,islamic,religion,religious,talk",RadioSunna
 http://andromeda.shoutca.st:8189/stream
 #EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/xemw8sax5tqq.jpg" group-title="",Rotana FM
-http://curiosity.shoutca.st:6035/;
+http://curiosity.shoutca.st:6035/listen.pls
 #EXTINF:-1 tvg-logo="http://static.radio.net/images/broadcasts/a6/3c/41740/1/c300.png" group-title="classic rock,dharan",Saudi Aramco Studio 1 FM 94.1 Dharan
 http://ice31.securenetsystems.net/STUDIO1
 #EXTINF:-1 tvg-logo="http://static.radio.net/images/broadcasts/1f/a3/41743/1/c175.png" group-title="classical,dharan,jazz,urban",Saudi Aramco Studio 2 FM 101.4 Dharan
 http://ice31.securenetsystems.net/STUDIO2
 #EXTINF:-1 tvg-logo="" group-title="classical",UFM
-http://69.61.26.75:8000/;
+http://69.61.26.75:8000/listen.pls
 #EXTINF:-1 tvg-logo="https://api-radio.mbc.net/images/channels/1597937844LogoWannasah%403x.png" group-title="music",WANASAH
 https://wanasahfm-radio.mbc.net/wanasahfm-radio.m3u8
 #EXTINF:-1 tvg-logo="http://static.radio.net/images/broadcasts/ec/8b/104358/1/c175.png" group-title="",إذاعة السنة

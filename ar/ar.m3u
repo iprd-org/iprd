@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://toay.gob.ar/images/logo.png" group-title="local,traditional",Radio Municipal de Toay 94.3
-http://servidor.ilive.com.ar:9678/;
+http://servidor.ilive.com.ar:9678/listen.pls
 #EXTINF:-1 tvg-logo="http://www.twitradioo.com/favicon.ico" group-title="80s,oldies",@twitradioo
 http://s2.netradiofm.com:6338/
 #EXTINF:-1 tvg-logo="https://www.minutouno.com/css-custom/150/images/favicon/apple-icon-120x120.png" group-title="top 40,pop",Radio Pop 101.5
 https://ny2.stweb.tv/popradio/live32/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/4fe518_e16dd0521a714f5893d301b6f4b32969~mv2.jpg/v1/fill/w_153,h_153,al_c,q_80,usm_0.66_1.00_0.01/4fe518_e16dd0521a714f5893d301b6f4b32969~mv2.webp" group-title="international,latino,rock,salta",33 45 Radio
-http://streaming.aacplusargentina.com:10026/;
+http://streaming.aacplusargentina.com:10026/listen.pls
 #EXTINF:-1 tvg-logo="https://www.radiodos.com.ar/_rv20200701-01/skins/web/responsive/assets/imgs/logos/lados.png" group-title="noticias,locales,news,local",Radio Dos Corrientes 99.3
 http://190.7.17.148:9302/stream
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/fblogo/5/89085.v4.png" group-title="latin,pop",A+ Radio
@@ -34,7 +34,7 @@ https://mdstrm.com/audio/6237761f64b72676f05cf6ab/live.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s227805/images/logog.jpg?t=157773" group-title="latin,world",AM Con Vos 1420
 https://us9.maindigitalstream.com/ssl/7192
 #EXTINF:-1 tvg-logo="https://culturamusical.nyc3.digitaloceanspaces.com/2019/07/AMADEUS91-1-20194.png" group-title="classical,opera",Radio Amadeus 91.1
-https://streamingradiolinks.xyz/8484/;
+https://streamingradiolinks.xyz/8484/listen.pls
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s128690/images/logog.jpg" group-title="pop,modern",Acqua Mar del Plata 102.7
 http://streamall.alsolnet.com:443/acquamdq
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/60/4b/604bfbe0cc3c1c43599430d5eee264dd.jpg" group-title="rock,alternative",Radio Atomika 106.1
@@ -76,7 +76,7 @@ https://18733.live.streamtheworld.com:443/CONTINENTALAAC.aac
 #EXTINF:-1 tvg-logo="http://www.continentalcorrientes.com/images/logo.png" group-title="local,news",Continental Corrientes 97.3
 http://turadioenvivo.com:11017/stream
 #EXTINF:-1 tvg-logo="http://radiocooperativa.com.ar/favicon.ico" group-title="news,talk",Cooperativa AM 770
-http://rcoop.cnwks.ws:8358/;
+http://rcoop.cnwks.ws:8358/listen.pls
 #EXTINF:-1 tvg-logo="https://cosquinrock.fm/web/wp-content/uploads/2020/02/cosquinrockfmlogo.png" group-title="rock,hits",Cosquin Rock FM 90.3
 https://servidor1.hostradios.com:8144/stream?1620608260733
 #EXTINF:-1 tvg-logo="https://cosquinrock.fm/web/wp-content/uploads/2020/02/cosquinrockfmlogo.png" group-title="rock,hits",Cosquín Rock FM 90.3
@@ -86,7 +86,7 @@ http://165.227.209.68:9990/;stream.mp3
 #EXTINF:-1 tvg-logo="http://fmdelta903.com/templates/ja_moviemax/favicon.ico" group-title="dance,news,pop",Delta 90.3
 https://cdn.instream.audio//:9069//stream
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/14/9e/149e3c5c4cde9e00f21520da20ee58f2.jpg" group-title="rock,spanish",Radio Dinamo Salta 100.9
-http://01.solumedia.com.ar:8144/;
+http://01.solumedia.com.ar:8144/listen.pls
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1257148428288737280/hxDl7cSJ_400x400.jpg" group-title="actualidad,debate,economia,noticias,politica,news,politics",El Destape Radio 107.3
 https://ipanel.instream.audio/8004/stream
 #EXTINF:-1 tvg-logo="https://www.emisorapirata.com.ar/wp-content/uploads/2020/09/LogoEP.jpg" group-title="rock,hits",Emisora Pirata
@@ -106,19 +106,19 @@ http://turadioenvivo.com:8430/stream
 #EXTINF:-1 tvg-logo="http://radiofisherton.com.ar/uploads/Multimedia/96/logo.png" group-title="classic,rock,news",Radio Fisherton 89.5
 http://23.111.184.195:8140/radio.mp3
 #EXTINF:-1 tvg-logo="https://www.ellitoral.com/radios/img/radio_horizonte.jpg" group-title="eclectic,rock",Onda Horizonte 94.1
-http://s1.radiosnethosting.com:9816/;
+http://s1.radiosnethosting.com:9816/listen.pls
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/64/29/64293ac649c625f93ce6f97e5f8ab07f.jpg" group-title="colegio,pop,rock",FM 96.1 Radio Colegio José Hernández
-http://78.129.185.84:6721/;
+http://78.129.185.84:6721/listen.pls
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/9rtf1hNMVXk3T9iUaOmZf8pr29CbF1t1Pp0lH_J6B_VAnFY0YvT9UZehFEVRGz8Q" group-title="classic,rock,oldies",Aspen 102.3
 https://us-b4-p-e-ev5-audio.cdn.mdstrm.com/live-audio-aw/60a2745ff943100826374a70?aid=60106eadf34de307dd720e7b&pid=X7NdOrvQmi5rQ3UV1zEyZUjpxnDOQtO7&sid=lUSzOxYxoxt1zpN4BR2z66r8i80LhyOz&uid=5SnpBYdd5KEUYrWVAwL1azHnaK1MKlEX&es=us-b4-p-e-ev5-audio.cdn.mdstrm.com&ote=1640156541575&ot=SpmLdQad5F99NCAdeVRT8g&proto=https&pz=us&cP=128000&awCollectionId=60106eadf34de307dd720e7b&liveId=60a2745ff943100826374a70&propertyName=mediastream-player-aspen-pie
 #EXTINF:-1 tvg-logo="http://www.fmayer.net.ar/wp-content/uploads/2018/08/ayer_blanco.svg" group-title="80s,classic,rock",FM Ayer 98.1
 http://190.113.164.52:8080/ayer
 #EXTINF:-1 tvg-logo="https://fmbariloche.com.ar/wp/wp-content/uploads/2019/10/cropped-Logo-con-borde.png" group-title="pop,spanish",FM Bariloche 89.1
-http://63.247.91.178:12324/stream/;
+http://63.247.91.178:12324/stream/listen.pls
 #EXTINF:-1 tvg-logo="http://www.fmcapitalsalta.com.ar/public/images/favicon.ico" group-title="news,sports,hits",FM Capital Salta 97.7
-http://streaming01.dwservers.net:8700/;
+http://streaming01.dwservers.net:8700/listen.pls
 #EXTINF:-1 tvg-logo="https://lacielo.com.ar/css-custom/304/favicon/apple-icon-120x120.png?v=1" group-title="hits,70s,80s,90s",Cielo 103.5
-http://st.produccionesdha.com:9790/;
+http://st.produccionesdha.com:9790/listen.pls
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/kKV6CsY2y4xm3jrfQIemnScqSi494Qs01ENLwPal9nQR-SjW3FMaOFfx_BPY69epFFI" group-title="rock,pop,reggaeton",Fm Dale 96.1
 http://01.solumedia.com.ar:8238/
 #EXTINF:-1 tvg-logo="https://www.radiofmesperanza.com/imagenes/banner.png" group-title="traditional,folk",FM Esperanza 107.1
@@ -126,11 +126,11 @@ https://streaming.evolucionstreaming.com:10966/stream?icy=http
 #EXTINF:-1 tvg-logo="http://fmfuturo.com.ar/images/logo.png" group-title="campana,folk",FM Futuro 93.1
 http://streaming2.locucionar.com:8682/stream
 #EXTINF:-1 tvg-logo="http://fmintensidad.turadio.com.ar/intensidad.jpg" group-title="news,information",FM Intensidad Cafayate 97.1
-https://audiohd.sonidosenlared.com/proxy/cafayatejorge?mp=/stream/;
+https://audiohd.sonidosenlared.com/proxy/cafayatejorge?mp=/stream/listen.pls
 #EXTINF:-1 tvg-logo="http://www.fmlapatriada.com.ar/wp-content/uploads/2017/10/FM-La-Patriada-Logos-01-300x204.jpg" group-title="rock,spanish",FM La Patriada 102.1
 http://server4.stweb.tv:1935/lapatriada/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.fmlaredonda.com.ar//img/subsitios/favicon_laredonda.png" group-title="sports,talk,news",FM La Redonda 100.3
-http://radio.solumedia.com.ar:8290/;
+http://radio.solumedia.com.ar:8290/listen.pls
 #EXTINF:-1 tvg-logo="https://fmlatribu.com/wp-content/uploads/2019/08/IG_PERFIL-01.png" group-title="alternative,community",FM La Tribu 88.7
 https://vivo.fmlatribu.com/latribu.mp3
 #EXTINF:-1 tvg-logo="https://www.ungs.edu.ar/wp-content/themes/ungs/favicon.png" group-title="general,universidad,university",FM La Uni 91.7
@@ -142,7 +142,7 @@ http://63.247.91.178:12288/stream
 #EXTINF:-1 tvg-logo="http://late931.com.ar/wp-content/uploads/2019/04/cropped-late-favicon-2019-180x180.png" group-title="variety,eclectic",FM Late 93.1
 http://streaming.radiolinksmedia.com:8252/
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/72J36M6cBm.png" group-title="pop,hits",Fm Latina 92.5
-http://streaming.radiosenlinea.com.ar:9640/;
+http://streaming.radiosenlinea.com.ar:9640/listen.pls
 #EXTINF:-1 tvg-logo="https://www.fmmagicaradio.com.ar/wp-content/uploads/2020/07/cropped-512-180x180.png" group-title="pop,latin",RadioMagica 99.9
 https://kappa.radioplayer.com.ar:9116/magica999
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s84937d.png" group-title="rock,talk",FM Masters 101.3
@@ -166,17 +166,17 @@ http://aliasdns.info:8898/live
 #EXTINF:-1 tvg-logo="https://fmrockzarate.com.ar/wp-content/uploads/2020/04/fm-rock-Banner-1-1024x233.jpg" group-title="rock,pop",FM Rock Zarate 103.3
 https://sonic.dattalive.com:10821/stream
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/JQJtZnTrcSq2DfimAIdlhR_nKJe66ik0G1L_U-2gDUt2rhfM-3Hf_hRhCtX13EALbkM" group-title="catholic,religious",FM San Cayetano 102.5
-http://63.247.91.178:12654/stream/;
+http://63.247.91.178:12654/stream/listen.pls
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-DVRhHjqJfSk/VzNt8F_PJQI/AAAAAAAABaA/fNe9mCLVwfcVTXtLMF6npuXfdNeVHSh_ACLcB/s400/Autocopia_de_seguridad_deLOGO%2B9%2Bcolo.jpg" group-title="libertad,folk",FM Sierras Comechingones 107.9
 http://giss.tv:8000/fmsierras.mp3
 #EXTINF:-1 tvg-logo="https://www.fmsignos.com.ar///images/favicon.png" group-title="latin,spanish",FM Signos 92.5
 http://www.fmsignos.com.ar:8009/;stream.mp3
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Q30zp-uThBaElqATJgAUPz2TJUdsSgbektCjNxwwGar9T9RRN6Cku5TPoDjvEr34_P0=w240-h480-rw" group-title="campana,folk",FM Simple 97.3
-http://radio.neonetdigital.com:8022/;
+http://radio.neonetdigital.com:8022/listen.pls
 #EXTINF:-1 tvg-logo="https://fmsur889.com.ar/wp-content/uploads/2015/06/logo-fmsur-header1.png" group-title="sports,talk,news",FM Sur Quilmes 88.9
 http://streamall.alsolnet.com:443/fmsurquilmeshd
 #EXTINF:-1 tvg-logo="http://fmtrujui.com/wp-content/uploads/2018/08/cropped-fmtrujuivivo.gif" group-title="catolica,folklore,comunitaria,variety",FM Trujui 90.1
-http://62.210.129.76:9302/;
+http://62.210.129.76:9302/listen.pls
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/a1/56/a15640c1ee9922c0be02bdcae76e9aed.jpg" group-title="indie,rock",FM Universidad 107.5 UNLP
 http://163.10.186.71:8001/broadwavehigh.mp3
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/_EOgeOiptDCFK9aHvDzvSOhH6Uff2MEwwUh-hYiYFDPtPpM_eXZPClB99xs4kTsoPttX" group-title="rock,pop",FM Universo 95.7
@@ -208,11 +208,11 @@ https://storage.googleapis.com/m-infra.appspot.com/public/webchat/sent.mp3
 #EXTINF:-1 tvg-logo="https://www.phonostar.de/images/auto_created/la_2x4184x184.png" group-title="tango,latin,spanish",La 2x4 FM 92.7
 https://tus.radios.ar/9270/stream
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/0a/bb/0abb5c860527e337edae9425b90c90c0.jpg" group-title="ayacucho,pop,rock",La 95 FM 95.3
-https://sonic.cloudstreaming.eu:10989/;
+https://sonic.cloudstreaming.eu:10989/listen.pls
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s13681/images/logod.png?t=159960" group-title="adult,hits",La 990 Aire de Verdad
 https://playerservices.streamtheworld.com/api/livestream-redirect/AM990AAC.aac
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s13681/images/logod.png?t=159960" group-title="latin,pop",La 990 Aire de Verdad
-http://200.58.106.247:8626/;
+http://200.58.106.247:8626/listen.pls
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/QJ7aIkf946_CWKVCs-KMo5DwWVzHL_SjLRQg7UHt9lP5nDqjM9AvLVO2PSAttPI3t0U" group-title="folk,news,noticias",Radio La Cacharpaya 101.7
 http://streaming01.shockmedia.com.ar:9360/stream
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/cqfpUFGJHbX8uwxbk8xHc8Mk1f3jLwwPMkApfU060BXRFIc4c4TpkYZ_JCbwlH63_ZD_" group-title="carpera,cumbia,salta",La Carperita
@@ -226,7 +226,7 @@ http://01.solumedia.com.ar:8462/stream
 #EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/logo/8/2648.v8.png" group-title="pop,top 40",La Estación FM 107.9 
 http://radio.solumedia.com.ar:8462/stream
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s229795g.png" group-title="adult,hits,contemporary",La Hit 99.5
-http://stm23.veemesoft.com.ar:24308/;
+http://stm23.veemesoft.com.ar:24308/listen.pls
 #EXTINF:-1 tvg-logo="https://www.lapopu.com.ar/img/logo-la-popu.png" group-title="cuarteto,news",La Popu 92.3
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_POPULAR.mp3
 #EXTINF:-1 tvg-logo="http://lapostapergamino.com.ar/wp-content/uploads/2020/12/anigif-300x181.gif" group-title="argentine,la posta,pergamino",La Posta de Pergamino FM 101.7
@@ -244,7 +244,7 @@ http://vivo.fmlatribu.com/latribu.mp3
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/da9735_67fd9b20e6b84df1aba1ebfe4816cd33~mv2.png/v1/fill/w_120,h_120,al_c,q_85,usm_0.66_1.00_0.01/da9735_67fd9b20e6b84df1aba1ebfe4816cd33~mv2.webp" group-title="evangelical,christian,evangelica",La Voz de VCI 104.5
 http://stream.zeno.fm/ke2bvwydmzzuv?rj-ttl=5&rj-tok=AAABfd5hfyMAVqsdF_EAKn10Eg
 #EXTINF:-1 tvg-logo="https://cdn.logfm.com/i/35/35263.webp?d=1700901450" group-title="news,talk,folk,latin",La 105 105.5
-http://miradioenlaweb.com:4994/;
+http://miradioenlaweb.com:4994/listen.pls
 #EXTINF:-1 tvg-logo="https://www.proradios.net/themes/default/images/radios/logo-ar-la105.jpg" group-title="talk,speech",FM La 105.1
 http://190.2.45.2:4994/stream
 #EXTINF:-1 tvg-logo="https://libertaddigital.com.ar/content/favicon/apple-touch-icon-120x120.png" group-title="pop,news,latin",Libertad FM 99.1
@@ -402,7 +402,7 @@ https://cdn.instream.audio/:9135/stream
 #EXTINF:-1 tvg-logo="http://html5player.shockmedia.com.ar/reproductores/img/portadas/7048.png" group-title="bondi,cultural,colectivo,escobar",Radio Activa FM 96.9
 http://streaming01.shockmedia.com.ar:9332/stream
 #EXTINF:-1 tvg-logo="http://www.am690.com.ar//favicon-96x96.png" group-title="world,latin",AM 690 K24
-http://disbaires.com.ar:9041/;
+http://disbaires.com.ar:9041/listen.pls
 #EXTINF:-1 tvg-logo="http://www.radioarenas.com.ar/images/icono.png" group-title="variety,news,talk",Radio Arenas 105.5
 http://162.254.144.196:17848/stream
 #EXTINF:-1 tvg-logo="http://am570radioargentina.com.ar/wp-content/themes/radio/images/logo_570.png" group-title="news,latin",Radio Argentina AM 570
@@ -416,7 +416,7 @@ http://stm3.xcast.com.br:7608/
 #EXTINF:-1 tvg-logo="https://infobrisas.com/favicon.ico" group-title="news,talk",Radio Brisas 98.5
 https://radio.ecolan.com:8443/stream.mp3
 #EXTINF:-1 tvg-logo="http://radiobritannia.com/favicon.ico" group-title="british,rock,britpop,folk,indie,musica britanica,pop,rock,uk",Radio Britannia
-http://01.solumedia.com.ar:8472/stream/;
+http://01.solumedia.com.ar:8472/stream/listen.pls
 #EXTINF:-1 tvg-logo="https://www.radiocantilo.com/live/radio-cantilo-com-live.svg" group-title="rock,pop,jazz",Radio Cantilo 101.9
 http://radio.solumedia.com.ar:7231/stream
 #EXTINF:-1 tvg-logo="https://radiocaput.com/wp-content/uploads/2017/03/cropped-icono-V1-270x270.png" group-title="variety,talk,political",Radio Caput
@@ -434,7 +434,7 @@ https://irrati.radio105.com.ar/1069.opus
 #EXTINF:-1 tvg-logo="http://www.fmpuntadelindio.com.ar/proyecto%20web%20fm%20100.3/logo%20de%20la%20radio.jpg" group-title="comunitaria,español,community",Radio Comunitaria FM Punta del Indio 100.3
 http://streaming.conexionproductora.com.ar:9650/
 #EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/thumb/900/900/cuts_logos/67/ea/67eaf289-9a66-4843-a630-954e093fd4a5.jpg" group-title="comunitaria,español,community",Radio Comunitaria La Quinta Pata 93.9
-http://server3.veemesoft.com.ar:26429/;
+http://server3.veemesoft.com.ar:26429/listen.pls
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/xPhZzrTStYO8qh8UjHdEiGRdLP37euABGkC1MRyKUQbO2UGn9nmiawQ4wcMbat-PAzEPfWaT_Q=s900-c-k-c0x00ffffff-no-rj" group-title="news,pop,rock",Radio Con Vos 89.9
 https://server1.stweb.tv/rcvos/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/cc/42/16132/2/c300.png" group-title="news,noticias,spanish",Radio Continental 590 AM
@@ -442,7 +442,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/CONTINENTALAAC
 #EXTINF:-1 tvg-logo="http://radiocooperativa.com.ar/favicon.ico" group-title="noticias,news,talk",Radio Cooperativa AM 770
 http://rcoop.cnwks.ws:8358/
 #EXTINF:-1 tvg-logo="https://secure.gravatar.com/blavatar/245ef50fb9a6f4621f3f19131f6c959e?s=200&ts=1565456771" group-title="catolica,cristiana",Radio Cristiandad
-http://63.247.91.178:13022/;
+http://63.247.91.178:13022/listen.pls
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-a-eQcJnRIEI/Wgc5t1jmfgI/AAAAAAAAA0A/ZckM_RdKreYIF10uaemoQVRfU4S0aW40gCK4BGAYYCw/s300/cuyum.png" group-title="community,local,news,talk",Radio Cuyum 89.3
 http://comecuco.org:8000/Cuyum
 #EXTINF:-1 tvg-logo="https://www.fmlatina925.com.ar/imagenes/emax.png" group-title="latin,public",Radio DeeJay 92.5
@@ -460,7 +460,7 @@ https://14533.live.streamtheworld.com:443/DISNEY_ARG_BA.mp3
 #EXTINF:-1 tvg-logo="https://www.radioelmundoam1070.com/images/radioelmundo.jpg" group-title="noticias,news,talk",Radio El Mundo AM 1070
 https://streaming.escuchanosonline.com:7118//stream?type=http&nocache=1
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/N4cBd18VkqceWRT3OXtz-D8pDsZ9_nP8WcoKyUR-Z6Kzdtl8KrUPAf6uCev8aegMsg=w526-h296-rw" group-title="variety,family",Radio Escobar 105.1
-http://server4.veemesoft.com.ar:26231/;/;
+http://server4.veemesoft.com.ar:26231//listen.pls
 #EXTINF:-1 tvg-logo="http://www.radioexitoenvivo.com.ar/images/logo.png" group-title="classical,opera,romantic",Radio Exito 94.5
 http://200.58.106.247:8716/;type=mp3
 #EXTINF:-1 tvg-logo="http://www.fmcumbiambera.com/images/icono.png" group-title="cumbia,folk",Radio FM Cumbiambera 88.9
@@ -474,13 +474,13 @@ https://streamer.fmfutura.com.ar/vivo.mp3
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDgnLGmjwgMCxIOU3RhdGlvblByb2ZpbGUYgIDgnNKO0QgMogEEemVubw/image/?keep=w&lu=Sat%20Mar%2020%2016:46:05%20UTC+0000%202021&resize=350x350" group-title="classic,hits,spanish",Radio Garin 106.1
 http://stream.zeno.fm/zw7k9qzuweruv?rj-ttl=5&rj-tok=AAABfd3x_ZIAVp_Yu9-cwfqFjA
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-yJlvwiMFpIk/VdOAgG9kj9I/AAAAAAAACls/zm4r8RJdCO8/s1600/radio-genesis-am-970-buenos-aires-argentina.jpg" group-title="noticias,news,sport",Radio Genesis AM 970
-http://streaming.radiolinksmedia.com:7890/;
+http://streaming.radiolinksmedia.com:7890/listen.pls
 #EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/thumb/900/900/radio_logos/a2/27/a227cff7-03c2-4b00-8561-46fc22491586.jpg" group-title="world,news",Radio Grafica 89.3
 http://radio13.servidorderadio.net:8110/api/v3/widgetsview?id=100&option=big&ssl=1&auto=0
 #EXTINF:-1 tvg-logo="https://thumbs.subefotos.com/634f3edbcae10d0bd98fe2649e4ce896o.jpg" group-title="70s,80s,90s,adult,contemporary,alternative,rock,classic,oldies,pop",Radio Infinity 101.5
 https://sonic.dattalive.com/8192/stream
 #EXTINF:-1 tvg-logo="https://www.radiokermes.com/images/192.png" group-title="community,comunitaria",Radio Kermés 106.1
-http://server.laradio.online:8599/;
+http://server.laradio.online:8599/listen.pls
 #EXTINF:-1 tvg-logo="https://pocholepratti.org/nueva/wp-content/uploads/2018/11/fmlogo.png" group-title="pocho lepratti,rosario,news",Radio La Hormiga 104.3
 https://tupanel.info:8420/stream
 #EXTINF:-1 tvg-logo="https://radiolaluna.com.ar/favicon.ico" group-title="tango,latin,dance",Radio La Luna AM 1140
@@ -510,13 +510,13 @@ http://dreamsiteradiocp.com:8004/stream
 #EXTINF:-1 tvg-logo="https://images-cienradios-arc.s3.amazonaws.com/radiomitre/logo/logo-widget.svg" group-title="news,politics,culture,sports",Radio Mitre 790
 https://buecrplb01.cienradios.com.ar/Mitre790.aac
 #EXTINF:-1 tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1444/500" group-title="deportes,politica,talk",Radio Mitre Bahía Blanca 100.3
-http://217.172.179.57:8050/MitreBahiaBlanca;
+http://217.172.179.57:8050/MitreBahiaBlancalisten.pls
 #EXTINF:-1 tvg-logo="https://images-cienradios-arc.s3.amazonaws.com/radiomitre/logo/logo-widget.svg" group-title="local,news",Radio Mitre 810/97.9
 https://buecrplb01.cienradios.com.ar/Mitre810.aac
 #EXTINF:-1 tvg-logo="https://cdnproxy.turadioinfo.com/media/webp/0/800/100/externos/app_logos/1589657842.png" group-title="dance,80s,90s",Radio Mixer Zone 88.2
 https://essl.turadioinfo.com/8026//;live
 #EXTINF:-1 tvg-logo="http://www.radiomonk.com.ar/img/logo.png" group-title="jazz,bop",Radio Monk
-http://streaming01.shockmedia.com.ar:9858/;
+http://streaming01.shockmedia.com.ar:9858/listen.pls
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Nacional_AM_870_2016.png" group-title="cultura,noticias",Radio Nacional AM 870
 http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad1
 #EXTINF:-1 tvg-logo="http://www.radionacional.com.ar/apple-icon-120x120.png" group-title="politica,publica,politics",Radio Nacional LRA 30 Bariloche
@@ -526,9 +526,9 @@ http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad38
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s112745/images/logog.png?t=158318" group-title="public,pública,rock",Radio Nacional Rock 93.7
 http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad39
 #EXTINF:-1 tvg-logo="https://radionatagala.com/favicon.ico" group-title="spanish,adult,contemporary",Radio Natagalá 94.7
-http://radio02.ferozo.com:8704/;
+http://radio02.ferozo.com:8704/listen.pls
 #EXTINF:-1 tvg-logo="http://radio.netyco.com/logo.php?puerto=8000" group-title="variety,eclectic",Netyco Argentina
-https://radio.netyco.com:18000/;
+https://radio.netyco.com:18000/listen.pls
 #EXTINF:-1 tvg-logo="http://www.radionordeste.com.ar/images/logo.png" group-title="rock,classic,talk",Radio Nordeste 102.7
 http://turadioenvivo.com:11027/stream
 #EXTINF:-1 tvg-logo="https://radionorte.com.ar/wp-content/uploads/2021/07/cropped-04-1-180x180.png" group-title="entretenimiento,noticias",Radio Norte 105.5
@@ -592,11 +592,11 @@ http://163.10.186.70:8002/stream
 #EXTINF:-1 tvg-logo="https://radio.unr.edu.ar/apple-touch-icon.png" group-title="colege,culture,education",Radio UNR 103.3
 https://cdn.instream.audio/:9202/stream
 #EXTINF:-1 tvg-logo="http://vosyla901.com.ar/web/wp-content/uploads/2020/06/logo-web3-1.png" group-title="top 40,pop",Radio Vos Salta 90.1
-http://streaming01.shockmedia.com.ar:9200/;
+http://streaming01.shockmedia.com.ar:9200/listen.pls
 #EXTINF:-1 tvg-logo="http://www.radiofona.com/RDFheader1.png" group-title="noticias,news",Radiofona
 http://200.58.106.247:8619/;stream/1
 #EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000532430988-393e2q-t500x500.jpg" group-title="pop,rock,spanish",Radiofonica 100.7
-http://200.58.106.247:8628/;
+http://200.58.106.247:8628/listen.pls
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/ybnzdyg4avkj.jpg" group-title="electronic,pop,rock",Random Music Radio
 http://stream.zeno.fm/g36m9x0h0wzuv?rj-ttl=5&rj-tok=AAABfd1b8VoADf4cNyGxvz_uqA
 #EXTINF:-1 tvg-logo="https://rebelde740.com.ar/wp-content/uploads/2019/09/logorebelde.png" group-title="talk,news",Rebelde 740 AM
@@ -614,7 +614,7 @@ http://desatec.net:8764/stream/1/
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZSkHRQxpSjIhMk8PZ6Opl0fBDYCeJGfSvx2vSQd=s900-c-k-c0x00ffffff-no-rj" group-title="adult,contemporary,pop,rock",Sensation Radio 107.5
 https://fps2.listen2myradio.com:2199/listen.php?ip=109.169.23.17&port=8203&type=ice&mount=stream
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/60/5d/605db89064dcdbed36bb01a581b04e7d.jpg" group-title="pop,spanish",Si 98.9
-http://server.laradio.online:8202/;
+http://server.laradio.online:8202/listen.pls
 #EXTINF:-1 tvg-logo="https://www.solarderadio.com.ar/icono.ico" group-title="comunitaria,popular,comunitaria",Solar de Radio
 http://184.107.35.153:9096/;stream/;stream.mp3
 #EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000227535065-0sgiwk-t240x240.jpg" group-title="talk,news",T&D Radio
@@ -650,6 +650,6 @@ http://63.247.65.202:8247/stream
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s156342/images/logog.jpg?t=1" group-title="rock,hits",Vorterix 92.1
 http://104.131.4.100:8000/stream
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s156342/images/logog.jpg?t=1" group-title="rock,hits",Vorterix 92.1
-https://radiolatina.live:10992/;
+https://radiolatina.live:10992/listen.pls
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s165637d.png" group-title="hits,rock",Zoe 107.1
 https://streamingraddios.online/proxy/fmzoepat

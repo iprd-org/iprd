@@ -158,7 +158,7 @@ https://rtvc-radio.flumotion.com/rtvc-radio/radio1-high.mp3
 #EXTINF:-1 tvg-logo="https://cdn.capitalradio.es/embed/cfe0ab9a7aeacaf4ae8932d963f17b93885be1552218464/capitalradio.jpg" group-title="business,economy",Capital Radio
 http://capitalradio-live.flumotion.com/capital-radio/capitalradio.mp3
 #EXTINF:-1 tvg-logo="" group-title="just great songs,music",Carrusel FM
-http://server6.20comunicacion.com:8921/;
+http://server6.20comunicacion.com:8921/listen.pls
 #EXTINF:-1 tvg-logo="https://statics.ccma.cat/img/favicons/catinfo-apple-touch-icon-152x152.png" group-title="local news,news,news talk,talk",Catalunya Informació (Catinfo)
 https://shoutcast.ccma.cat/ccma/catalunyainformacioHD.mp3
 #EXTINF:-1 tvg-logo="https://statics.ccma.cat/img/favicons/catmusica-favicon-160x160.png" group-title="classical,classical music",Catalunya Música (CatMúsica)
@@ -276,7 +276,7 @@ http://82.223.28.73:8000/esradioalbacete.mp3
 #EXTINF:-1 tvg-logo="" group-title="información",EsRadio Asturias
 http://server9.emitironline.com:8822/radio
 #EXTINF:-1 tvg-logo="https://www.esradioelche.com/wp-content/uploads/2017/09/esradioelche-logo-63.png" group-title="news",esRadio Elche
-http://ns6.emisionlocal.com:8040/;
+http://ns6.emisionlocal.com:8040/listen.pls
 #EXTINF:-1 tvg-logo="" group-title="news",esRadio Madrid
 http://livestreaming3.esradio.fm/stream64.mp3
 #EXTINF:-1 tvg-logo="" group-title="news",esRadio Malaga
@@ -390,7 +390,7 @@ http://stream.zeno.fm/75beg1td7gruv?rj-ttl=5&rj-tok=AAABfdsObLQAC8TIgMFyRUEODQ
 #EXTINF:-1 tvg-logo="https://kanvas.fm/fav/apple-touch-icon.png" group-title="chillout,rare recordings,variety",kanvas.fm
 https://streamkanvas.es/kanvasfm.mp3
 #EXTINF:-1 tvg-logo="" group-title="christian",KBKY Radio Alfa y Omega 94,1 FM
-http://37.59.41.35:6114/;
+http://37.59.41.35:6114/listen.pls
 #EXTINF:-1 tvg-logo="" group-title="80s,90s,music",Kiss FM
 http://kissfm.kissfmradio.cires21.com/kissfm.mp3
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/9/102759.v2.png" group-title="pop",Kiss Music FM
@@ -480,7 +480,7 @@ http://188.165.131.13:8012/live
 #EXTINF:-1 tvg-logo="http://www.mindaliaradio.com/" group-title="golden oldies,pop,pop rock,positive,soul",Mindalia Madrid
 http://188.165.131.13:8008/live
 #EXTINF:-1 tvg-logo="http://www.mindaliaradio.com/wp-content/uploads/favicon.jpg" group-title="hits,pop,romantic",Mindalia Radio
-http://188.165.131.13:9994/;
+http://188.165.131.13:9994/listen.pls
 #EXTINF:-1 tvg-logo="http://www.mindaliaradio.com/wp-content/uploads/mindalia-radio-voz-cabecera.png" group-title="alternative health,science,talk",Mindalia Radio Voz
 http://188.165.131.13:8010/live
 #EXTINF:-1 tvg-logo="" group-title="international",MISLATA RADIO by Xopo
@@ -496,7 +496,7 @@ http://streaming.enantena.com:8000/montcada128.mp3
 #EXTINF:-1 tvg-logo="https://abadiamontserrat.cat/wp-content/uploads/2019/02/favicon-montserrat-1.png" group-title="christian,montserrat",Montserrat Ràdio
 https://streaming.enacast.com/radioabadiademontserrat96.mp3
 #EXTINF:-1 tvg-logo="http://mortalfm.es/img/logoMortalfm.png" group-title="dance,fm,mortal",MortalFM
-http://server6.20comunicacion.com:8044/;
+http://server6.20comunicacion.com:8044/listen.pls
 #EXTINF:-1 tvg-logo="http://7tvregiondemurcia.es/wp-content/themes/novigoin/images/favicon.png" group-title="",Murcia 7 TV
 http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="oldies",musicBox
@@ -512,17 +512,17 @@ http://s3.sonicabroadcast.com:8750/;.m3u
 #EXTINF:-1 tvg-logo="https://nostalgiafm.es/wp-content/uploads/2018/08/LOGO-VINILO-1024.png" group-title="80s,oldies,pop,rock,spain",Nostalgia FM
 https://server.spainbroadcast.net/8028/stream?ver=717184
 #EXTINF:-1 tvg-logo="https://webradiodirectory.com/wp-content/uploads/2021/01/be1bf1f78c2edc00d0a6af63906c97b4.jpg" group-title="balada en español,classics,hits,musica romantica",Nostalgia FM - Baladas
-http://server.spainbroadcast.net:8004/stream/;
+http://server.spainbroadcast.net:8004/stream/listen.pls
 #EXTINF:-1 tvg-logo="https://webradiodirectory.com/wp-content/uploads/2021/01/be1bf1f78c2edc00d0a6af63906c97b4.jpg" group-title="disco,oldies,spanish",Nostalgia Fm - Disco
-http://server.spainbroadcast.net:8006/stream/;
+http://server.spainbroadcast.net:8006/stream/listen.pls
 #EXTINF:-1 tvg-logo="https://webradiodirectory.com/wp-content/uploads/2021/01/be1bf1f78c2edc00d0a6af63906c97b4.jpg" group-title="latin,latin music,latin pop,musica latina",Nostalgia Fm - Latino
-http://server.spainbroadcast.net:8008/stream/;
+http://server.spainbroadcast.net:8008/stream/listen.pls
 #EXTINF:-1 tvg-logo="https://webradiodirectory.com/wp-content/uploads/2021/01/be1bf1f78c2edc00d0a6af63906c97b4.jpg" group-title="flamenco,flamenquito,oldies,spain",Nostalgia Fm - Lolailo FM
-http://server.spainbroadcast.net:8010/stream/;
+http://server.spainbroadcast.net:8010/stream/listen.pls
 #EXTINF:-1 tvg-logo="https://webradiodirectory.com/wp-content/uploads/2021/01/3b5c3f348746ecf7a8244c9326421dd9.jpg" group-title="oldies,rock",Nostalgia Fm – Rock
-http://server.spainbroadcast.net:8012/stream/;
+http://server.spainbroadcast.net:8012/stream/listen.pls
 #EXTINF:-1 tvg-logo="https://webradiodirectory.com/wp-content/uploads/2021/01/be1bf1f78c2edc00d0a6af63906c97b4.jpg" group-title="60s,70s,golden oldies,oldies,spanish",Nostalgia FM 60s-70s
-http://server.spainbroadcast.net:8014/stream/;
+http://server.spainbroadcast.net:8014/stream/listen.pls
 #EXTINF:-1 tvg-logo="" group-title="hip hop,rap,reggae,underground",NoTypicalRadio - Rap
 https://rap.notypicalradio.com/;?icy=http
 #EXTINF:-1 tvg-logo="" group-title="alternative rock,classic rock,indie rock,nu metal,punk,rock",NoTypicalRadio - Rock
@@ -574,9 +574,9 @@ https://antares.dribbcast.com/proxy/ondamar80?mp=/live
 #EXTINF:-1 tvg-logo="https://openlab.fm//apple-touch-icon.png" group-title="beats,electronica,hip-hop,house,jazz,r&b,soul,techno",OpenLab Radio
 https://ice04.fluidstream.net/openlab.mp3
 #EXTINF:-1 tvg-logo="http://static.radio.es/images/broadcasts/11/0e/2691/c300.png" group-title="",Oro
-http://185.23.192.118:8002/;
+http://185.23.192.118:8002/listen.pls
 #EXTINF:-1 tvg-logo="http://www.dobutsuen-mae.com/ico.png" group-title="anime,japanese,otaku",Otaku MusicRadio
-http://kathy.torontocast.com:2880/;
+http://kathy.torontocast.com:2880/listen.pls
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/905319409992044544/x35XzF3A_200x200.jpg" group-title="pop,rock",Pepe Radio
 http://server10.emitironline.com:8032/
 #EXTINF:-1 tvg-logo="" group-title="international",PETRER RADIO by Xopo
@@ -602,7 +602,7 @@ https://streaming.enacast.com/punt7radiosantceloni128.mp3
 #EXTINF:-1 tvg-logo="" group-title="dance,electronic music,ibiza club",Pure Ibiza Radio
 https://pureibizaradio.clubbingradios.com:9518/PureIbizaRadio
 #EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s48765q.png" group-title="blues,jazz,latin jazz,smooth jazz",Qfm
-http://51.255.235.165:5092/;
+http://51.255.235.165:5092/listen.pls
 #EXTINF:-1 tvg-logo="http://www.rac1.cat/rsc/images/logo.jpg" group-title="news,talk",RAC1
 https://streaming.rac1.cat/
 #EXTINF:-1 tvg-logo="https://www.rac1.cat/rsc/images/logo.jpg" group-title="culture,information,news,sports",RAC1 +1
@@ -634,7 +634,7 @@ http://blimp.streampunk.cc/_stream/almaina.ogg
 #EXTINF:-1 tvg-logo="http://www.radioaltea.com/favicon.ico" group-title="altea",Ràdio Altea
 https://streaming.enacast.com/radioaltea128.mp3
 #EXTINF:-1 tvg-logo="https://www.rtvamistad.net/wp-content/uploads/2018/05/logopaloma_32x32.png" group-title="christian,cristiana",Radio Amistad
-http://srv0410.radiostreaming.es:8026/;
+http://srv0410.radiostreaming.es:8026/listen.pls
 #EXTINF:-1 tvg-logo="http://www.radioandujar.com/favicon.ico" group-title="music,música,news,noticias",Radio Andújar
 http://srv01.redsanmarcos.com:9017/live
 #EXTINF:-1 tvg-logo="" group-title="arbúcies",Ràdio Arbúcies
@@ -706,7 +706,7 @@ http://streaming.enantena.com:8000/radiodesvern128.mp3
 #EXTINF:-1 tvg-logo="" group-title="el vendell",Ràdio el Vendrell
 https://streaming.enacast.com/rtvelvendrell56.mp3
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/30f439_7750d545e0094e35a8621b3be89ce85a~mv2.png/v1/fill/w_290,h_164,al_c,q_85,usm_1.20_1.00_0.01/30f439_7750d545e0094e35a8621b3be89ce85a~mv2.webp" group-title="christian",Radio Elohim 1120
-https://whmsonic.playerfullhd.com:7127/;
+https://whmsonic.playerfullhd.com:7127/listen.pls
 #EXTINF:-1 tvg-logo="http://www.radioespinosamerindades.es/wp-content/uploads/2017/01/cropped-Favicon-192x192.png" group-title="entertainment,music,news,sport,talk",Radio Espinosa Merindades
 http://srv3021.lcinternet.com:8004/stream
 #EXTINF:-1 tvg-logo="http://radioesport914.com/favicon.ico" group-title="live sports,sports news,sports talk",Radio Esport 94.1
@@ -756,11 +756,11 @@ http://94.76.165.97:9830/;stream.mp3
 #EXTINF:-1 tvg-logo="http://www.radiolaselva.cat/radiolaselva/favicon-128.png" group-title="la selva del camp",Ràdio la Selva
 https://streaming.enacast.com/radiolaselva56.mp3
 #EXTINF:-1 tvg-logo="http://pbs.twimg.com/profile_images/3314641273/29d9c5a3cfc96b73e13eba8f727e6909_normal.jpeg" group-title="les preses",Ràdio la Vall
-http://rlv.serverroom.us:6362/;
+http://rlv.serverroom.us:6362/listen.pls
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu_UY_kEBKXHWdD2Yz2-m0ZM2CsX95JD622mET1dyrtOzJdOpq" group-title="music,talk,various",Radio Laredo
 http://212.83.172.164:9960/
 #EXTINF:-1 tvg-logo="https://i2.wp.com/www.radiolesplanes.com/wp-content/uploads/2016/09/logo_sol_net.jpg?fit=218%2C270" group-title="les planes d'hostoles",Ràdio les Planes
-http://s1streamingradio.desafiohosting.com:8053/stream;
+http://s1streamingradio.desafiohosting.com:8053/streamlisten.pls
 #EXTINF:-1 tvg-logo="https://www.radiolibertad.net/images/header-all.gif" group-title="christian,tag",Radio Libertad
 https://ice42.securenetsystems.net/KDAE
 #EXTINF:-1 tvg-logo="http://www.radiolider.com/images/logo.png" group-title="latin music,music",Radio Líder
@@ -796,9 +796,9 @@ http://dreamsiteradiocp.com:8060/;stream.mp3
 #EXTINF:-1 tvg-logo="https://www.radiomarina.com/wp-content/uploads/2020/10/cropped-fav-180x180.png" group-title="blanes,music",Ràdio Marina
 http://streaming.enantena.com:8000/radiomarina128.mp3
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s229422/images/logoq.jpg?t=152881" group-title="60s,70s,80s,adult contemporary,classic hits,rock",Radio Mi Amigo
-http://kepler.shoutca.st:8117/;
+http://kepler.shoutca.st:8117/listen.pls
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s229422/images/logoq.jpg?t=152881" group-title="60s,70s,80s,pop,rock",Radio Mi Amigo International
-https://lion.radioca.st/;
+https://lion.radioca.st/listen.pls
 #EXTINF:-1 tvg-logo="http://www.radiomirage.org.es/favicon.ico" group-title="progressive rock",Radio Mirage
 http://radiomirage.hopto.org:8000/
 #EXTINF:-1 tvg-logo="http://www.radiomolinsderei.cat/radiomolinsderei/favicon-128.png" group-title="molins de rei",Ràdio Molins de Rei
@@ -810,7 +810,7 @@ http://s2streamingradio.desafiohosting.com:8140/;streamm
 #EXTINF:-1 tvg-logo="" group-title="misc",Radio Monòver
 http://s2streamingradio.desafiohosting.com:8140/;stream
 #EXTINF:-1 tvg-logo="http://radio.montornes.cat/recursos/images/logotip.gif?v=1468919259" group-title="montornès del vallès",Ràdio Montornès
-http://188.165.187.84:8008/;
+http://188.165.187.84:8008/listen.pls
 #EXTINF:-1 tvg-logo="https://css2.rtve.es/css/rtve.commons/rtve.header.footer/i/logoRTVE_ffffff.png" group-title="andalucía,news,public radio,spanish",Radio Nacional de España - Andalucía
 https://crtve-ice-edge-2002-fra-eco-cdn.cast.addradio.de/crtve/rne5/sev/mp3/high?_art=dj0yJmlwPTgzLjU1LjE3Ni45MCZpZD1pY3NjeGwtYTM0M3hzNG9iJnQ9MTYxNzE3NjEwNiZzPTc4NjZmMjljI2IyNDNkODExNDcxNzJiNDI0Nzk0ZjNlYWNjYmU2ZGI0
 #EXTINF:-1 tvg-logo="https://img2.rtve.es/a/3893442?w=1600&preview=1550566384066.png" group-title="news,public radio,rne,spanish",Radio Nacional de España - Radio 1 - Andalucía
@@ -882,7 +882,7 @@ http://82.98.177.79:8000/online
 #EXTINF:-1 tvg-logo="http://www.radiosantboi.cat/radiosantboi/favicon-128.png" group-title="barcelona,municipal,variado",Radio Sant Boi
 https://streaming.enacast.com/radiosantboi128.mp3
 #EXTINF:-1 tvg-logo="" group-title="sant feliu de guíxols",Ràdio Sant Feliu
-http://151.236.53.8:8004/;
+http://151.236.53.8:8004/listen.pls
 #EXTINF:-1 tvg-logo="http://www.santsadurni.cat/grafics/radio_escut.png" group-title="sant sadurní d'anoia",Ràdio Sant Sadurní
 http://srv0410.radiostreaming.es:8038/stream
 #EXTINF:-1 tvg-logo="https://www.radio-santec.com/favicon.ico" group-title="christian,religion",Radio Santec - ES
@@ -898,7 +898,7 @@ http://radio.wesped.com:8000/stream
 #EXTINF:-1 tvg-logo="http://www.radiosilenci.cat/radiosilenci/favicon-128.png" group-title="la garriga",Ràdio Silenci
 http://streaming.enacast.com:8000/radiosilenci56.mp3
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/EWFGJ3xU0AI7ueT.jpg" group-title="70s,80s,90s,disco",Radio Star Terrassa
-http://streaming2.elitecomunicacion.es:8202/;
+http://streaming2.elitecomunicacion.es:8202/listen.pls
 #EXTINF:-1 tvg-logo="" group-title="tàrrega",Ràdio Tàrrega
 https://streaming.enacast.com/radiotarrega128.mp3
 #EXTINF:-1 tvg-logo="" group-title="sevilla,tomares",Radio Tomares
@@ -906,7 +906,7 @@ http://stream1.aljamir.com:8174/stream.mp3
 #EXTINF:-1 tvg-logo="" group-title="español,flamenco,pop,spanish pop",Radio Torre del Mar
 http://s7.myradiostream.com:6222/
 #EXTINF:-1 tvg-logo="" group-title="balada en español,flamenco,pop,spanish pop",Radio Torre del Mar 96.5 FM
-http://s7.myradiostream.com:6222/;
+http://s7.myradiostream.com:6222/listen.pls
 #EXTINF:-1 tvg-logo="http://www.radioulldecona.net/radioulldecona/favicon-128.png" group-title="ulldecona",Ràdio Ulldecona
 https://streaming.enacast.com/radioulldecona128.mp3
 #EXTINF:-1 tvg-logo="" group-title="",Radio Universitaria de León
@@ -936,7 +936,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOLEAAC_SC
 #EXTINF:-1 tvg-logo="" group-title="",RadioM7
 http://eu6.fastcast4u.com:5004/live
 #EXTINF:-1 tvg-logo="https://cdn.radiomv.com/de/wp-content/uploads/2016/01/favicon.ico" group-title="christian",RadioMv.com | Spanish (24Kbps)
-http://es-low.radiomv.co:3010/;
+http://es-low.radiomv.co:3010/listen.pls
 #EXTINF:-1 tvg-logo="https://img-static.ivoox.com/index.php?w=145&h=145&url=https://static-1.ivoox.com/canales/0/5/7/4/1641589894750_XXL.jpg?ts=1589895127" group-title="",Radiópolis
 http://streaming.radiopolis.org:8000/stream.mp3
 #EXTINF:-1 tvg-logo="" group-title="rock",radioRock
@@ -944,7 +944,7 @@ http://los2pcs.ddns.net:8004/
 #EXTINF:-1 tvg-logo="" group-title="",Radioteletaxi
 http://radiott-web.streaming-pro.com:6103/radiott.mp3
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/41/82/41826123035cc6902860d205a2fb51b5.jpg" group-title="makina",RadioTop20
-http://sc1.ipip.cz:8012/;
+http://sc1.ipip.cz:8012/listen.pls
 #EXTINF:-1 tvg-logo="" group-title="electronic",radioTrance casa
 http://los2pcs.ddns.net:8005/
 #EXTINF:-1 tvg-logo="http://www.mipetitmadrid.com/web_mipetitmadrid/docs/logo_verde.jpg" group-title="community radio,free radio",RadioVallekas
@@ -1114,12 +1114,12 @@ https://relay.stream.enacast-cloud.com:40235/laveudondaraSD.mp3
 #EXTINF:-1 tvg-logo="" group-title="local radio,music,radioformula",Vía Radio
 https://relay.stream.enacast-cloud.com:40242/viaradioHD.mp3
 #EXTINF:-1 tvg-logo="" group-title="rock",Vinilo FM
-http://server9.emitironline.com:10923/;
+http://server9.emitironline.com:10923/listen.pls
 #EXTINF:-1 tvg-logo="http://static.radio.es/images/broadcasts/aa/56/100161/1/c175.png" group-title="",Where is the After Party?
 http://s3.sonicabroadcast.com:8825/;.m3u
 #EXTINF:-1 tvg-logo="https://xrcb.cat/wp-content/themes/xrcb/favicon.ico" group-title="247,barcelona,community,culture,music,network,podcasts,xarxa",XRCB On Air
 https://icecast.xrcb.cat/main.mp3
 #EXTINF:-1 tvg-logo="" group-title="music,santa cristina d'aro",Xtra FM
-http://stream.internetgirona.com:8000/;
+http://stream.internetgirona.com:8000/listen.pls
 #EXTINF:-1 tvg-logo="" group-title="80s,90s,clubbing,eurodance,trance",Zona Electrónica Urban Revolution
 https://st1.urbanrevolution.es:8443/zonaelectronica

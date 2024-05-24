@@ -10,7 +10,7 @@ https://5b6cade28002a.streamlock.net/alfaomega/smil:alfaomegatv/chunklist_w17937
 #EXTINF:-1 tvg-logo="http://www.antenasatelor.ro/images/logo/AS.png" group-title="information,muzica,viata satului",Antena satelor
 http://89.238.227.6:8042/
 #EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s110764q.png" group-title="local news,top hits",Atlas FM
-http://5.2.168.50:8000/;
+http://5.2.168.50:8000/listen.pls
 #EXTINF:-1 tvg-logo="http://www.autobazaradio.ro/png%20blank3.png" group-title="alternative,indie,rock",autobazaradio
 http://s3.myradiostream.com:7022/listen.m4a
 #EXTINF:-1 tvg-logo="http://www.autobazaradio.ro/png%20blank3.png" group-title="alternative,indie,rock",autobazaradio
@@ -22,9 +22,9 @@ https://blackrhinoradio.out.airtime.pro/blackrhinoradio_a
 #EXTINF:-1 tvg-logo="https://www.chillfm.ro/favicon.ico" group-title="chill,chillout",Chill FM Romania
 http://edge126.rdsnet.ro:84/profm/chillfm.mp3
 #EXTINF:-1 tvg-logo="https://www.city-radio.ro/themes/city/images/favicon-32x32.png" group-title="",City Rádió
-http://live.city-radio.ro:8800/;
+http://live.city-radio.ro:8800/listen.pls
 #EXTINF:-1 tvg-logo="" group-title="alternative,hits,local,pop rock",Civil Rádió
-http://213.164.242.44:8000/;
+http://213.164.242.44:8000/listen.pls
 #EXTINF:-1 tvg-logo="" group-title="club",ClubMix
 http://live.radioclubmix.ro:9999/
 #EXTINF:-1 tvg-logo="http://www.profm.ro/static/theme-repo/apple-touch-icon.png?cache=rel-20211110-23-3" group-title="dance",Dance FM 89.5 Bucharest
@@ -58,7 +58,7 @@ http://online.funfm.ro:8000/funfm.mp3
 #EXTINF:-1 tvg-logo="http://www.radiogangsta.ro///templates/zt_eleo16/favicon.ico" group-title="",Gangsta' Dance
 http://dance.radiogangsta.ro:8800/;stream.nsv
 #EXTINF:-1 tvg-logo="http://www.radioid.eu/logo.php?image=y2z2x253" group-title="90s,eurodance",Gherla FM
-http://89.39.189.52:8000/;
+http://89.39.189.52:8000/listen.pls
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/7/19287.v5.png" group-title="misc",GherlaFM
 http://89.39.189.52:8000/stream
 #EXTINF:-1 tvg-logo="" group-title="chansons françaises,classic rock,love songs,news,oldies,romania,schlager",gofm.ro
@@ -70,7 +70,7 @@ http://fr1.streamhosting.ch/lounge128.mp3
 #EXTINF:-1 tvg-logo="https://66.media.tumblr.com/avatar_69d0b97f040b_128.pnj" group-title="",Half Is Enough
 http://centauri.shoutca.st:8322/stream
 #EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/estthec3jb2b.jpg" group-title="chill,easy listening,lounge,smooth",HarmonyFM
-https://live.gofm.ro:2020/stream/harmonyFM.ro/;
+https://live.gofm.ro:2020/stream/harmonyFM.ro/listen.pls
 #EXTINF:-1 tvg-logo="https://reintregirea.ro/sites/default/files/logo.svg" group-title="religious",https://live.reintregirea.ro
 https://live.reintregirea.ro/
 #EXTINF:-1 tvg-logo="" group-title="",Impact FM
@@ -198,7 +198,7 @@ http://188.165.152.44:9000/
 #EXTINF:-1 tvg-logo="" group-title="christian",Radio Filadelfia Romania (Calitate medie)
 http://asculta.radiofiladelfia.ro:7000/stream_128.mp3
 #EXTINF:-1 tvg-logo="" group-title="christian",Radio Filadelfia Romania (Calitate mica)
-http://asculta.radiofiladelfia.ro:8080/;
+http://asculta.radiofiladelfia.ro:8080/listen.pls
 #EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radio-org-ro/fir.png" group-title="adult contemporary,electronic,pop",Radio FIR
 http://89.36.154.36:8000/listen.mp3
 #EXTINF:-1 tvg-logo="http://marosvasarhelyi.info/wp-content/uploads/2010/10/GAGA4FREKV1.jpg" group-title="pop",Rádió GaGa - Marosvásárhely
@@ -208,7 +208,7 @@ http://188.165.212.154:8020/stream
 #EXTINF:-1 tvg-logo="https://sp-ao.shortpixel.ai/client/q_glossy,ret_img,w_180,h_180/https://radiogmusic.com/wp-content/uploads/2020/04/cropped-fav-icon-180x180.png" group-title="soft music",Radio GMusic Soft'n'lazy
 http://188.165.212.154:8040/stream
 #EXTINF:-1 tvg-logo="http://radiogoldfm.ro/wp-content/uploads/2015/02/favicon1.png" group-title="",Radio Gold FM
-http://80.86.106.110:8002/;
+http://80.86.106.110:8002/listen.pls
 #EXTINF:-1 tvg-logo="" group-title="christian,christian praise&worship",Radio Gosen
 http://ascultaradiogosen.no-ip.org:8125/stream
 #EXTINF:-1 tvg-logo="http://guerrillaradio.ro/images/logo.png" group-title="classic rock,indie,la unica radio con cojones,rock",Radio Guerrilla
@@ -222,7 +222,7 @@ https://nl1.streamingpulse.com/ssl/KPTV
 #EXTINF:-1 tvg-logo="" group-title="",Radio liberty slagare
 http://slagare.radioliberty.ro:1989/
 #EXTINF:-1 tvg-logo="" group-title="folk music",Radio Manele FM
-http://a.fmradiomanele.ro:8054/;
+http://a.fmradiomanele.ro:8054/listen.pls
 #EXTINF:-1 tvg-logo="http://www.radiomaranatavulcan.com/files/kznp-6f7sj0zxnvmz-4rmdi.jpg" group-title="christian",Radio Maranata Vulcan
 http://noasrv.caster.fm:10185/stream
 #EXTINF:-1 tvg-logo="" group-title="",Radio Maria
@@ -232,13 +232,13 @@ http://dreamsiteradiocp2.com:8002/stream
 #EXTINF:-1 tvg-logo="" group-title="catholic,religion",RADIO MARIA ROMANIA HUNG.
 http://dreamsiteradiocp4.com:8026/stream
 #EXTINF:-1 tvg-logo="https://www.radiomedias.ro/favicon.ico" group-title="",Radio Medias
-http://mediasfm.eushells.ro:8082/;
+http://mediasfm.eushells.ro:8082/listen.pls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3Znc8Kf.jpg" group-title="",RADIO MIRAJUL MUZICII
 http://live.radiomiraj.ro:9952/stream
 #EXTINF:-1 tvg-logo="https://radionebunya.ro/images/logov1.png" group-title="",Radio Nebunya
 http://asculta.radionebunya.ro:7575/
 #EXTINF:-1 tvg-logo="https://www.radionoise.ro/favicon.ico" group-title="dance,dj",Radio Noise
-http://live.radionoise.ro:9100/;
+http://live.radionoise.ro:9100/listen.pls
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-o9mwltlrK4k/X-Cqcy_ngII/AAAAAAAAAOg/PQ5dKpixAi0N-7_d49rDBPxib2jJq5pXgCK4BGAYYCw/w800/Nova%2B22%2Bonline.jpg" group-title="dance,jazz,latin,oldies,pop,relax,rock",Radio Nova22
 http://s2.myradiostream.com:4520/listen.m4a
 #EXTINF:-1 tvg-logo="https://www.radiopopular.ro/images/common/logo.png" group-title="",Radio Popular
@@ -250,9 +250,9 @@ http://89.238.227.6:8344/
 #EXTINF:-1 tvg-logo="http://www.radioromance21.ro/favicon.ico" group-title="",RADIO ROMANCE 21.ROMANIA
 http://live.radioromance21.ro:9950/
 #EXTINF:-1 tvg-logo="http://www.romania-actualitati.ro//img/favicon.ico" group-title="folk,news,pop,talk",Radio Romania Actualități
-http://89.238.227.6:8006/;
+http://89.238.227.6:8006/listen.pls
 #EXTINF:-1 tvg-logo="https://www.radiobrasovfm.ro/images/reg_bv-logo.svg" group-title="local news,music,talk",Radio România Brașov
-http://stream2.srr.ro:8210/;
+http://stream2.srr.ro:8210/listen.pls
 #EXTINF:-1 tvg-logo="http://radiocluj.ro/wp-content/uploads/sites/8/2014/08/logo-radio-romania-cluj.png" group-title="romania",Radio România Cluj
 http://89.238.227.6:8384/
 #EXTINF:-1 tvg-logo="https://s0.wp.com/i/blank.jpg" group-title="",Radio Romania Constanta
@@ -264,7 +264,7 @@ http://stream2.srr.ro:8016/
 #EXTINF:-1 tvg-logo="http://radioiasi.ro/wp-content/uploads/sites/6/2014/07/favicon-regionale.png" group-title="local programming,news talk music",Radio România Iași
 http://89.238.227.6:8202/
 #EXTINF:-1 tvg-logo="http://www.rri.ro//img/favicon.ico" group-title="folk,pop",Radio Romania International
-http://stream2.srr.ro:8052/;
+http://stream2.srr.ro:8052/listen.pls
 #EXTINF:-1 tvg-logo="https://www.rri.ro/favicon.ico" group-title="romania,romanian",Radio România Internațional 2
 http://stream2.srr.ro:8062/
 #EXTINF:-1 tvg-logo="https://www.rri.ro/favicon.ico" group-title="romania,romanian",Radio România Internațional 3
@@ -300,7 +300,7 @@ http://stream-rt.radiotransilvania.ro:8000/BaiaMare.mp3
 #EXTINF:-1 tvg-logo="http://radiotransilvania.ro/images/transi/logo-green-large3.png" group-title="adult contemporary,hits,pop,top 40",Radio Transilvania - Cluj Napoca
 http://stream-rt.davacloud.ro:8000/Cluj.mp3
 #EXTINF:-1 tvg-logo="" group-title="top 40",Radio Transilvania Oradea
-http://92.61.114.191:9720/;
+http://92.61.114.191:9720/listen.pls
 #EXTINF:-1 tvg-logo="http://radiotransilvania.ro/images/transi/logo-green-large3.png" group-title="",Radio Transilvania Satu Mare
 http://stream-rt.davacloud.ro:8000/SatuMare.mp3
 #EXTINF:-1 tvg-logo="https://radiotransilvania.ro/images/transi/logo-green.png" group-title="hits,mix pop music",Radio Transilvania Turda

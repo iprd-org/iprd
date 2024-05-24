@@ -56,7 +56,7 @@ http://icecast.err.ee/raadiotallinn.mp3?type=.mp3/;stream.mp3
 #EXTINF:-1 tvg-logo="http://raadio.tre.ee/favicon.ico" group-title="indie,local music,pop",Raadio Tre.ee
 http://sc1.treraadio.ee:8002/tre
 #EXTINF:-1 tvg-logo="http://sooviraadio.net/favicon.ico" group-title="80s,sparse info",Sooviraadio
-http://media.uunox.net:8888/;
+http://media.uunox.net:8888/listen.pls
 #EXTINF:-1 tvg-logo="http://www.sss-radio.ee//favicon.ico" group-title="",SSS-Radio
 http://217.146.76.112:8000/sss-radio
 #EXTINF:-1 tvg-logo="" group-title="religion",Tartu Family Radio

@@ -50,7 +50,7 @@ http://musicbird.leanstream.co/JCB083-MP3
 #EXTINF:-1 tvg-logo="http://www.jcbasimul.com/wordpress/wp-content/uploads/2017/07/higashihiroshima2.jpg" group-title="community radio,enka,japanese,jpop,kayokyoku,talk radio",FM Higashi (FM東広島, JOZZ8AU-FM, 89.7 MHz, Higashihiroshima, Hiroshima)
 http://musicbird.leanstream.co/JCB087-MP3
 #EXTINF:-1 tvg-logo="http://fm.kahoku.net/wp-content/uploads/2017/07/fmkahoku_logo.gif" group-title="enka,japan,japanese,jpop,kayokyoku,talk radio",FM Kahoku 78.7 (FMかほく, JOZZ5AM-FM, 78.7 MHz, Kahoku City, Ishikawa)
-http://radio.kahoku.net:8000/;
+http://radio.kahoku.net:8000/listen.pls
 #EXTINF:-1 tvg-logo="http://www.jcbasimul.com/wordpress/wp-content/uploads/2015/06/bana_big1.png" group-title="community radio,enka,japanese,jpop,kayokyoku,talk radio",FM Karatsu (からつエフエム, JOZZ0BN-FM, 86.8 MHz, Karatsu, Saga)
 http://musicbird.leanstream.co/JCB092-MP3
 #EXTINF:-1 tvg-logo="https://fm-karuizawa.co.jp/wp/wp-content/uploads/2019/05/cropped-logo_512-180x180.png" group-title="",FM KARUIZAWA
@@ -122,9 +122,9 @@ http://musicbird.leanstream.co/JCB071-MP3
 #EXTINF:-1 tvg-logo="" group-title="community radio,enka,japanese,jpop,kayokyoku,talk radio",Ichikawa Urara FM (市川うららFM. JOZZ3AY-FM, 83.0 MHz, Ichikawa, Chiba)
 http://musicbird.leanstream.co/JCB020-MP3
 #EXTINF:-1 tvg-logo="http://asiadreamradio.torontocast.stream/stations/images/hjapanhitsplayer/japanhits.jpg" group-title="hits,j-pop,japanese,top 40",J-Pop All (Asia DREAM Radio)
-http://igor.torontocast.com:1025/;
+http://igor.torontocast.com:1025/listen.pls
 #EXTINF:-1 tvg-logo="http://asiadreamradio.torontocast.stream/stations/images/hnatsukashiiplayer/natsu50.jpeg" group-title="70s,80s,90s,classic hits,hits,j-pop,japanese,top 40",J-Pop Sakura 懐かしい (Asia DREAM Radio)
-http://igor.torontocast.com:1710/;
+http://igor.torontocast.com:1710/listen.pls
 #EXTINF:-1 tvg-logo="" group-title="jpop",J1 Gold (HTTP)
 http://jenny.torontocast.com:8062/
 #EXTINF:-1 tvg-logo="" group-title="",J1 Hits (HTTP)
@@ -170,7 +170,7 @@ http://radio.plaza.one/opus
 #EXTINF:-1 tvg-logo="http://789.fm/favicon.ico" group-title="community radio,enka,japanese,jpop,kayokyoku,talk radio",NOAS FM (エフエムなかつ, JOZZ0AX-FM, 78.9 MHz, Nakatsu, Oita)
 http://musicbird.leanstream.co/JCB089-MP3
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/4c9e72_c1dc15bcafaf402fabc0e85d288f824c.png/v1/fill/w_782,h_782,al_c,q_90,usm_0.66_1.00_0.01/4c9e72_c1dc15bcafaf402fabc0e85d288f824c.webp" group-title="jazz,smooth jazz",Nonstop Casiopea
-http://hyades.shoutca.st:8551/;
+http://hyades.shoutca.st:8551/listen.pls
 #EXTINF:-1 tvg-logo="" group-title="",NOQR A
 https://fms2.uniqueradio.jp/agqr10/aandg1.m3u8
 #EXTINF:-1 tvg-logo="http://www.jcbasimul.com/wordpress/wp-content/uploads/2015/06/logo_player.jpg" group-title="community radio,enka,japanese,jpop,kayokyoku,talk radio",Oranda Radio (エフエムい～じゃん おらんだラジオ, JOZZ2BK-FM, 77.7 MHz, Nagai, Yamagata)
