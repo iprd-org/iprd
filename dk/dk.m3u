@@ -99,51 +99,47 @@ http://stream.radioklitholm.dk:8000/stream
 http://media.limfjordnetradio.dk/limfjord128
 #EXTINF:-1 tvg-logo="http://radiolimfjord.dk/uploads/logo.png" group-title="hits,pop",Radio Limfjord
 http://media.limfjordnetradio.dk/limfjordaac
-#EXTINF:-1 tvg-logo="" group-title="",Radio Nord
-http://netradio.radionord.dk:8000/RadioNord
-#EXTINF:-1 tvg-logo="http://radioplayback.dk/favicon.ico" group-title="",Radio Playback
+#EXTINF:-1 tvg-logo="http://radioplayback.dk/favicon.ico" group-title="hits,oldies,pop",Radio Playback
 http://stream02.radioplayback.dk/stream
-#EXTINF:-1 tvg-logo="http://radioplaybackrock.dk/wp-content/uploads/2019/07/favicon-32x32.png" group-title="alternative rock,aor,hard rock,heavy rock,indie rock,modern rock,pop,punk rock",Radio Playback Rock
+#EXTINF:-1 tvg-logo="http://radioplaybackrock.dk/wp-content/uploads/2019/07/favicon-32x32.png" group-title="alternative,aor,rock",Radio Playback Rock
 http://stream01.radioplayback.dk/live
-#EXTINF:-1 tvg-logo="" group-title="danmark,denmark,midtjylland,midtvestjylland,nordjylland,skive",Radio Skive
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/4b/49/12836/c300.png" group-title="pop,hits",Radio Skive
 http://89.249.7.68/skive
-#EXTINF:-1 tvg-logo="http://radioslr.dk//themes/sn2014_theme/images/favicon.ico" group-title="",Radio SLR
+#EXTINF:-1 tvg-logo="http://radioslr.dk//themes/sn2014_theme/images/favicon.ico" group-title="pop,80s,90s,00s",Radio SLR Ringsted 100.7
 http://stream.wlmm.dk/stream/54/
-#EXTINF:-1 tvg-logo="https://listenapi.s3.amazonaws.com/img/ConfigWebListenBarLogoImageUrl/212.jpg?ver=1490197142" group-title="soft pop",Radio Soft
+#EXTINF:-1 tvg-logo="https://listenapi.s3.amazonaws.com/img/ConfigWebListenBarLogoImageUrl/212.jpg?ver=1490197142" group-title="soft,pop",Radio Soft
 http://edge-bauerdk-03-gos2.sharp-stream.com/radiosoft_dk_mp3?
 #EXTINF:-1 tvg-logo="https://radio4.dk/wp-content/uploads/2019/06/iconx152.png" group-title="news,talk",Radio4
 http://netradio.radio4.dk/radio4
 #EXTINF:-1 tvg-logo="http://www.retro-radio.dk/netradio/templates/mwc_retro_radio/assets/img/logo.png" group-title="oldies,retro",Retro Radio
 http://stream128.retro-radio.dk/retro
-#EXTINF:-1 tvg-logo="http://www.retro-radio.dk/netradio/templates/mwc_retro_radio/assets/img/logo.png" group-title="",Retro-Radio Jul
+#EXTINF:-1 tvg-logo="http://www.retro-radio.dk/netradio/templates/mwc_retro_radio/assets/img/logo.png" group-title="christmas,holiday",Retro-Radio JUL
 http://isstream.kanalplus.fm/TX-1
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/mr2tfth2wvyu.png" group-title="retro",Retro-Radio Millennium
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/mr2tfth2wvyu.png" group-title="pop,90s,hits",Retro-Radio Millennium
 http://tx-2.retro-radio.dk/TX-2
-#EXTINF:-1 tvg-logo="" group-title="",Retro1
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/1a/f7/32370/c300.png" group-title="oldies,hits",Retro Radio
 http://streammp3.retro-radio.dk/retro-mp3
-#EXTINF:-1 tvg-logo="" group-title="classic rock,pop rock,rock",Rockkanalen
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/d5/a9/32987/2/c300.png" group-title="classic,rock,pop",Rockkanalen
 http://stream.kanalplus.fm/kp96
-#EXTINF:-1 tvg-logo="https://skala.fm/wp-content/uploads/2021/08/cropped-favicon-180x180.png" group-title="hits,local radio,music",Skala FM
+#EXTINF:-1 tvg-logo="https://skala.fm/wp-content/uploads/2021/08/cropped-favicon-180x180.png" group-title="pop,hits",Skala FM
 http://webradio.skala.fm/kolding
-#EXTINF:-1 tvg-logo="http://www.sdlr.dk/favicon.ico" group-title="",Syddjurs Lokalradio - Radio Ronde 101.7 FM
+#EXTINF:-1 tvg-logo="http://www.sdlr.dk/favicon.ico" group-title="variety,hits",Radio Ronde 101.7
 http://media.wlmm.dk/djurs
-#EXTINF:-1 tvg-logo="https://tangocopenhagen.radio/wp-content/uploads/2019/03/logo-square-large-2-comp.png" group-title="",Tango Copenhagen Radio
+#EXTINF:-1 tvg-logo="https://tangocopenhagen.radio/wp-content/uploads/2019/03/logo-square-large-2-comp.png" group-title="dance,world,latin",Tango Copenhagen Radio
 https://tangocopenhagen.stream.laut.fm/tangocopenhagen?t302=2021-01-15_18-47-40&uuid=64db9a91-4a6e-4bc8-ba24-26a2fa7f24d0
-#EXTINF:-1 tvg-logo="" group-title="electronic",TechnoBase.FM - AACplus 96k
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/c5/a4/1993/2/c300.png" group-title="electronic,techno",TechnoBase.FM
 http://listener2.aach.tb-group.fm:80/tb-high.aac
-#EXTINF:-1 tvg-logo="" group-title="electronic",TechnoBase.FM - MP3 192k
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/c5/a4/1993/2/c300.png" group-title="electronic,techno",TechnoBase.FM
 http://listener2.mp3.tb-group.fm:80/tb.mp3
-#EXTINF:-1 tvg-logo="http://thelakeradio.com/favicon.ico" group-title="",The Lake Radio
+#EXTINF:-1 tvg-logo="http://thelakeradio.com/favicon.ico" group-title="alternative,chillout",The Lake Radio
 http://hyades.shoutca.st:8627/
-#EXTINF:-1 tvg-logo="https://cdn.radioplay.se/img/original/4c80dac8dc9e9921.png" group-title="pop",The Voice
+#EXTINF:-1 tvg-logo="https://cdn.radioplay.se/img/original/4c80dac8dc9e9921.png" group-title="pop,rock",The Voice
 http://live-bauerdk.sharp-stream.com/voice128.mp3
-#EXTINF:-1 tvg-logo="" group-title="1980s,1990s,hits,vinyl",Vinylhits.dk
+#EXTINF:-1 tvg-logo="https://vinylhits.dk/grafik/vinylhits.dk_logo_center.png" group-title="1980s,1990s,hits,vinyl",VinylHits
 http://stream.vinylhits.dk/vinylmp3
-#EXTINF:-1 tvg-logo="http://www.morevipradio.com/favicon.ico" group-title="christmas music",VIPradio Christmas
+#EXTINF:-1 tvg-logo="http://www.morevipradio.com/favicon.ico" group-title="christmas,weihnachten",VIPradio Christmas
 http://149.56.175.167:5505//;stream.mp3
-#EXTINF:-1 tvg-logo="http://www.webfm.dk//favicon.ico" group-title="pop",WEBFM
-http://stream1.webfm.dk/Webfm
-#EXTINF:-1 tvg-logo="https://www.wmr.dk/logo.png" group-title="world music",WMR - World Music Radio
+#EXTINF:-1 tvg-logo="https://www.wmr.dk/logo.png" group-title="pop,80s,90s",World Music Radio
 https://stream.probroadcast.dk/wmr
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/logo/2/87222.v2.png" group-title="pop,rock",World Music Radio
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/logo/2/87222.v2.png" group-title="pop,80s,90s",World Music Radio
 http://stream.wlmm.dk:8010/wmr
