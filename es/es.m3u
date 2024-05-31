@@ -1,115 +1,103 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000182835428-a1pptb-t500x500.jpg" group-title="catalan,local",Ràdio Puigcerdà 107.9
 https://topradio.uno:8048/stream
-#EXTINF:-1 tvg-logo="https://www.funkycorner.it/FCR300.png" group-title="70s,70s disco,80s,black,black music,disco,funk,funky,motown,music,musica,oldies,p-funk,philadelphia,r&b,r'n'b,rare groove,rnb,soul,the sound of philadelphia",_Funky Corner Radio (Spain)
+#EXTINF:-1 tvg-logo="https://www.funkycorner.it/FCR300.png" group-title="70s,disco,80s",Funky Corner Radio
 https://ais-sa2.cdnstream1.com/2447_96.aac
-#EXTINF:-1 tvg-logo="" group-title="60er,70er,80er,90er,easy listening,lovesongs,oldies,schlager,slow",1 Slow-Radio - laut.fm
+#EXTINF:-1 tvg-logo="https://assets.laut.fm/9670c7c141ede546101df1cdfe18e0b4?t=_640x640" group-title="60er,70er,80er",1 Slow-Radio laut.fm
 https://1slowradio.stream.laut.fm/1_slowradio
-#EXTINF:-1 tvg-logo="https://1000hits80s.eu/wp-content/uploads/2017/10/cropped-1000Hits80s_300x300-270x270.jpg" group-title="70s,80s,90s,italo,italo dance,italo disco,oldies",1000 HITS 80s
+#EXTINF:-1 tvg-logo="https://1000hits80s.eu/wp-content/uploads/2017/10/cropped-1000Hits80s_300x300-270x270.jpg" group-title="70s,80s,90s",1000 HITS 80s
 http://c2.auracast.net:8048/stream
-#EXTINF:-1 tvg-logo="https://estaticos.tdt1.com/canales/logotrece.jpg" group-title="news,noticias",13 TV
-https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/021/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/188px-Logo_TVE-24h.svg.png" group-title="news,noticias",24 h
-https://rtvelivestream-lvlt.rtve.es/24h_dvr.m3u8
-#EXTINF:-1 tvg-logo="https://www.cyltv.es/img/cylTV.svg" group-title="cine,entretenimiento,noticias,series tv",7 RTVCyL
-https://cdnlive.shooowit.net/la7live/channel1.smil/.m3u8
-#EXTINF:-1 tvg-logo="http://7punto7radio.com/wp-content/themes/multinews/apple-touch-icon-precomposed.png" group-title="music,música",7.7 radio
+#EXTINF:-1 tvg-logo="http://7punto7radio.com/wp-content/themes/multinews/apple-touch-icon-precomposed.png" group-title="sports,news,deportes",7.7 Radio
 http://195.154.33.95:8078/stream
-#EXTINF:-1 tvg-logo="https://7tvandalucia.es/elpuerto" group-title="futbol,news,toros",7tv EL PUERTO
-https://d1hk6nekf1x9so.cloudfront.net/out/v1/b87bc0364ac04628bb3c8129a5a0588f/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",88.2  FM CONTROL MUSIC EUROPA
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/0d/08/103076/2/c300.png" group-title="reggae,reggaeton,salsa",88.2 FM Control Music Europa
 http://stream.zeno.fm/41p4wfy92mruv?rj-ttl=5&rj-tok=AAABfd5Pwn8AS0S3OHshDOUrJw
-#EXTINF:-1 tvg-logo="https://files.123inventatuweb.com/88/82/8882037a-27a0-4b0b-a5dd-f8c747a70065.jpg" group-title="",9 radio
+#EXTINF:-1 tvg-logo="https://files.123inventatuweb.com/88/82/8882037a-27a0-4b0b-a5dd-f8c747a70065.jpg" group-title="pop,hits",9 Radio
 http://88.198.10.229:8004/stream
 #EXTINF:-1 tvg-logo="https://apuntmedia.es/favicon.ico" group-title="cultural,noticias",À Punt Ràdio
 http://stream.elxmedia.es:8888/apunt.mp3
-#EXTINF:-1 tvg-logo="http://www.absolutechillout.com/favicon.ico" group-title="",Absolute Chillout
+#EXTINF:-1 tvg-logo="http://www.absolutechillout.com/favicon.ico" group-title="ambient,chillout",Absolute Chillout
 http://edge4.peta.live365.net/b05055_128mp3
-#EXTINF:-1 tvg-logo="https://www.activate.fm/favicon_192x192.jpg" group-title="drill,latin,latin music,latin pop,musica latina,reggaeton,top 40,trap",Activate FM
+#EXTINF:-1 tvg-logo="https://www.activate.fm/favicon_192x192.jpg" group-title="drill,latin,pop",Activate FM
 https://streaming12.elitecomunicacion.es:8085/stream
-#EXTINF:-1 tvg-logo="https://seeded-session-images.scdn.co/v1/img/artist/6D10Q81h90v8BqPd84RNbI/en" group-title="classical",Adagio Radio 2
+#EXTINF:-1 tvg-logo="https://seeded-session-images.scdn.co/v1/img/artist/6D10Q81h90v8BqPd84RNbI/en" group-title="classical,baroque",Adagio Radio 2
 https://streamingv2.shoutcast.com/AdagioRadio
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QQtZJfX/ADA300-X298.jpg" group-title="classical",Adagio Radio HA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QQtZJfX/ADA300-X298.jpg" group-title="classical,baroque",Adagio Radio HA
 http://37.252.124.170:8010/
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/d466c9_91c8e281e4a24260996aaa6009cabd5c~mv2.png/v1/fill/w_320,h_314,al_c,q_85,usm_4.00_1.00_0.00/adagio3.webp" group-title="classical",Adagio Radio HD
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/d466c9_91c8e281e4a24260996aaa6009cabd5c~mv2.png/v1/fill/w_320,h_314,al_c,q_85,usm_4.00_1.00_0.00/adagio3.webp" group-title="classical,baroque",Adagio Radio HD
 https://stream.tunerplay.com/radio/8010/adagioradioHD.mp3
-#EXTINF:-1 tvg-logo="http://www.afneurope.net/portals/100/Images/Rota_Revamped-01.png" group-title="american forces network",AFN 360 Rota
+#EXTINF:-1 tvg-logo="http://www.afneurope.net/portals/100/Images/Rota_Revamped-01.png" group-title="news,variety",AFN Rota 102.5
 https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_RTA_SC
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s162145/images/logog.png" group-title="",Agora Sol Radio
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s162145/images/logog.png" group-title="variety,hits",Agora Sol Radio
 https://cervera.eldialdigital.com:23141/stream
 #EXTINF:-1 tvg-logo="https://www.alcanarradio.cat/alcanarradio/favicon-32.png" group-title="alcanar,montsià",Alcanar Ràdio
 https://relay.stream.enacast-cloud.com:40241/alcanarradioHD.mp3
-#EXTINF:-1 tvg-logo="http://www.alcudia.net/export/sites/default/.galeria/Alcudia-Radio.jpg" group-title="alcúdia",Alcúdia Ràdio
+#EXTINF:-1 tvg-logo="http://www.alcudia.net/export/sites/default/.galeria/Alcudia-Radio.jpg" group-title="pop,hits",Alcúdia Ràdio 94.7
 https://streaming.enacast.com/alcudiaradio128.mp3
-#EXTINF:-1 tvg-logo="" group-title="international",ALDAIA RADIOS
+#EXTINF:-1 tvg-logo="https://ik.imagekit.io/7ftrkrun31/enacast/logos/2020/03/06/icon_aldaia_giEXq6b.jpg?tr=w-256,h-None,fo-auto" group-title="variety,world",Aldaia Radios 89.4
 https://relay.stream.enacast-cloud.com:40223/aldaiaradioHD.mp3
-#EXTINF:-1 tvg-logo="https://www.rtvalhaurinelgrande.com/web/wp-content/uploads/2015/05/cropped-Logo_RTVA-32x32.jpg" group-title="spain,spanish",Alhaurín Radio
+#EXTINF:-1 tvg-logo="https://www.rtvalhaurinelgrande.com/web/wp-content/uploads/2015/05/cropped-Logo_RTVA-32x32.jpg" group-title="classic,hits",Alhaurín Radio 107.0
 https://server8.emitironline.com:18266/radio?1611567018237
-#EXTINF:-1 tvg-logo="http://www.alpicatradio.com/alpicatradio/favicon-128.png" group-title="alpicat",Alpicat Ràdio
+#EXTINF:-1 tvg-logo="http://www.alpicatradio.com/alpicatradio/favicon-128.png" group-title="electro,dance",Alpicat Ràdio 107.9
 https://streaming.enacast.com/alpicatradio128.mp3
-#EXTINF:-1 tvg-logo="" group-title="altafulla",Altafulla Ràdio
+#EXTINF:-1 tvg-logo="https://static.tuneyou.com/images/logos/500_500/22/9122/AltafullaRadio_8.png" group-title="alternative,catalan",Altafulla Ràdio 107.4
 https://streaming.enacast.com/altafulla128.mp3
-#EXTINF:-1 tvg-logo="" group-title="",Amb2FM
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/9/87259.v10.png" group-title="dance,pop,80s",amb2FM
 http://stream.zeno.fm/yv0h81xunwzuv?rj-ttl=5&rj-tok=AAABfd3rShgAimkpLp_7txnFrQ
-#EXTINF:-1 tvg-logo="http://www.amposta.cat/galeria/favicon.ico" group-title="amposta",Amposta Ràdio
+#EXTINF:-1 tvg-logo="http://www.amposta.cat/galeria/favicon.ico" group-title="news,talk",Amposta Ràdio 87.8
 http://endirecte.amposta.cat:8000/radio
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/logo/7/89137.v3.png" group-title="70s,80s,90s,disco,musica romantica,romantic",Antena 2000
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/logo/7/89137.v3.png" group-title="70s,80s,90s",Antena 2000
 https://eu1.fastcast4u.com/proxy/antena2000?mp=/1
 #EXTINF:-1 tvg-logo="https://antenacaro.cat/wp-content/uploads/2021/02/cropped-favicon-180x180.png" group-title="music,roquetes",Antena Caro
 http://streaming.enantena.com:8000/antenacaro128.mp3
-#EXTINF:-1 tvg-logo="http://aragonradio.es/images/logo_og_cards.png" group-title="aragon",Aragón Radio
+#EXTINF:-1 tvg-logo="http://aragonradio.es/images/logo_og_cards.png" group-title="variety,news",Aragón Radio
 https://cartv.streaming.aranova.es/hls/live/aragonradio_huesca.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Arag%C3%B3nTV.svg/300px-Arag%C3%B3nTV.svg.png" group-title="cine,entretenimiento,noticias,series tv",Aragon TV Internacional
-https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
-#EXTINF:-1 tvg-logo="https://www.arraio.eus/Argazkiak/cropped-web-4-192x192.png" group-title="culture,music",Arraio Irratia
+#EXTINF:-1 tvg-logo="https://www.arraio.eus/Argazkiak/cropped-web-4-192x192.png" group-title="culture,basque",Arraio Irratia 99.3
 http://irratia.arraio.eus:9001/irratia.ogg
-#EXTINF:-1 tvg-logo="http://www.astroshow.es/images/astroshowkey-190.webp" group-title="tarot,videncia",AstroShow TV
-http://149.12.64.81:8080/hls/tarotvision.m3u8
-#EXTINF:-1 tvg-logo="http://www.atlantisfm.de///templates/yoo_sun/favicon.ico" group-title="inselradio,urlaubsradio",ATLANTIS FM - Lanzarote - 101,7 MHz
+#EXTINF:-1 tvg-logo="http://www.atlantisfm.de///templates/yoo_sun/favicon.ico" group-title="pop,news,top 40",Atlantis 101.7
 http://radionetz.de:8000/atlantisfm.mp3
-#EXTINF:-1 tvg-logo="https://babyradio.es//images/favicon.ico" group-title="música infantil,radio infantil",Baby Radio España
+#EXTINF:-1 tvg-logo="https://babyradio.es//images/favicon.ico" group-title="infantil,children",Babyradio España
 http://sd396babyradio1.lcinternet.com:8000/stream
-#EXTINF:-1 tvg-logo="" group-title="deep house",Beach Grooves
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAqyfECnChHZlNnuoi9eHv96LbYXrv23_MbQ&s" group-title="house,electro,dj",BeachGrooves Radio
 http://stream.beachgrooves.com:8000/;stream.mp3
-#EXTINF:-1 tvg-logo="" group-title="international",BENICARLO RADIO by Xopo
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeK5iMn1PIiu9BK6IMPNocyc20B2gZc4prLmy2UCe6edXMovQAaALkSweu1AmqsCko3rux3wtSn_YWTYUmhg_TgTnPNMBJ6mW1xAEaWxu7xRNP9M50z2K_9GjT4mq48bIvHkNt1Ji5yMM/s251/zeno+radio+logo.png" group-title="international,variety",Benicarlo Radio by Xopo
 https://streaming.enacast.com/radiobenicarlo128.mp3
-#EXTINF:-1 tvg-logo="" group-title="international",BENIGANIM RADIO by Xopo
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeK5iMn1PIiu9BK6IMPNocyc20B2gZc4prLmy2UCe6edXMovQAaALkSweu1AmqsCko3rux3wtSn_YWTYUmhg_TgTnPNMBJ6mW1xAEaWxu7xRNP9M50z2K_9GjT4mq48bIvHkNt1Ji5yMM/s251/zeno+radio+logo.png" group-title="international,variety",Beniganim Radio by Xopo
 http://5.135.183.124:8133/stream
-#EXTINF:-1 tvg-logo="http://www.bifmradio.com/favicon.ico" group-title="cultura,indie",BI FM
+#EXTINF:-1 tvg-logo="http://www.bifmradio.com/favicon.ico" group-title="cultura,indie",BI FM 92.9
 http://212.83.151.18:36379/
-#EXTINF:-1 tvg-logo="https://www.radio.net/assets/fav/apple-touch-icon.png" group-title="80s,90s,dance,pop",Bikini FM Marina Baja (Benidorm)
+#EXTINF:-1 tvg-logo="https://www.radio.net/assets/fav/apple-touch-icon.png" group-title="80s,90s,dance",Bikini FM Marina Baja
 https://stream.mediasector.es/radio/8030/bikinifm.mp3
-#EXTINF:-1 tvg-logo="http://www.bluemarlinibiza.com/wp-content/themes/bluemarlinibiza/favicon64.png" group-title="chillout,dance,house,lounge",Blue Marlin Ibiza Radio
+#EXTINF:-1 tvg-logo="http://www.bluemarlinibiza.com/wp-content/themes/bluemarlinibiza/favicon64.png" group-title="chillout,dance,house",Blue Marlin Ibiza Radio
 http://s3.sonicabroadcast.com:8635/;listen.mp3
-#EXTINF:-1 tvg-logo="https://www.bluemarlinibiza.com/wp-content/themes/bluemarlinibiza/favicon.ico" group-title="house",Blue Marlin Ibiza Radio
+#EXTINF:-1 tvg-logo="https://www.bluemarlinibiza.com/wp-content/themes/bluemarlinibiza/favicon.ico" group-title="house,chillout,electro",Blue Marlin Ibiza Radio
 http://ice1.viastreaming.net:8635/live
 #EXTINF:-1 tvg-logo="https://www.bnmallorca.com/wp-content/uploads/radio-icon20x20.png" group-title="indie,music",BN Mallorca
 http://91.121.156.27:8008/stream
-#EXTINF:-1 tvg-logo="https://imgproxy.zenomedia.com/insecure/fit/500/500/ce/0/plain/https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQpq6f1AsMCxIOU3RhdGlvblByb2ZpbGUYgICQusL38QgMogEEemVubw/image/%3Fresize=500x500&v=1" group-title="",Bujalance Radio
+#EXTINF:-1 tvg-logo="https://imgproxy.zenomedia.com/insecure/fit/500/500/ce/0/plain/https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQpq6f1AsMCxIOU3RhdGlvblByb2ZpbGUYgICQusL38QgMogEEemVubw/image/%3Fresize=500x500&v=1" group-title="hits,pop",Bujalance Radio
 http://stream.zeno.fm/uu249rn3qzzuv?rj-ttl=5&rj-tok=AAABfdrmPIEAXEnWpcGB4NgXVw
-#EXTINF:-1 tvg-logo="https://d1v6pqrrmmnutj.cloudfront.net/post_square_images/attachments/000/000/821/original/cadena100.png?2015" group-title="pop",Cadena 100
+#EXTINF:-1 tvg-logo="https://d1v6pqrrmmnutj.cloudfront.net/post_square_images/attachments/000/000/821/original/cadena100.png?2015" group-title="pop,rock,hits",Cadena 100
 https://cadena100-cope.flumotion.com/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://d1v6pqrrmmnutj.cloudfront.net/post_square_images/attachments/000/000/821/original/cadena100.png?2015" group-title="music",Cadena 100
+#EXTINF:-1 tvg-logo="https://d1v6pqrrmmnutj.cloudfront.net/post_square_images/attachments/000/000/821/original/cadena100.png?2015" group-title="pop,rock,hits",Cadena 100
 http://cadena100-streamers-mp3.flumotion.com/cope/cadena100.mp3
-#EXTINF:-1 tvg-logo="" group-title="",Cadena Cope
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/9d/bf/14176/2/c300.png" group-title="variety,religious",Cadena COPE
 https://flucast-m02-03.flumotion.com/cope/net1.mp3
-#EXTINF:-1 tvg-logo="https://www.cadenadial.com/wp-content/uploads/2019/09/Avatar_Dial.png" group-title="música en español",Cadena Dial
+#EXTINF:-1 tvg-logo="https://www.cadenadial.com/wp-content/uploads/2019/09/Avatar_Dial.png" group-title="rock,pop,classic",Cadena Dial 91.7
 https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL.mp3
-#EXTINF:-1 tvg-logo="" group-title="",Cadena Mix
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/4d3432_8187ecd48ad74b21b46f0edfdd107d49.gif" group-title="electro,dance,house",Cadena Mix
 http://91.121.77.67:8000/
-#EXTINF:-1 tvg-logo="" group-title="electronic",Cadena Mix FM Cantabria
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/4d3432_8187ecd48ad74b21b46f0edfdd107d49.gif" group-title="electro,dance,house",Cadena Mix FM Cantabria
 https://ns100.emisionlocal.com/proxy/radiomix?mp=/;stream.mp3
-#EXTINF:-1 tvg-logo="https://play.cadenaser.com/bundles/playserweb/img/favicon.ico" group-title="entertainment,news",Cadena SER - Ràdio Barcelona
+#EXTINF:-1 tvg-logo="https://play.cadenaser.com/bundles/playserweb/img/favicon.ico" group-title="entertainment,news",Cadena SER Ràdio Barcelona
 https://25553.live.streamtheworld.com:443/SER_BARCELONA.mp3
-#EXTINF:-1 tvg-logo="https://cadenaser05.epimg.net/favicon.png" group-title="",Cadena Ser - Radio León
+#EXTINF:-1 tvg-logo="https://cadenaser05.epimg.net/favicon.png" group-title="noticias,hablada",Cadena Ser Radio León 92.6
 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_LEON.mp3
-#EXTINF:-1 tvg-logo="https://www.radiomanresa.cat/radiomanresa/favicon-128.png" group-title="cultural news,live,live sports,local news,sports news,talk",Cadena SER - Ràdio Manresa
+#EXTINF:-1 tvg-logo="https://www.radiomanresa.cat/radiomanresa/favicon-128.png" group-title="cultural,news,sports",Cadena SER Ràdio Manresa
 http://streaming.enantena.com:8000/taronjadigital-bages128.mp3
-#EXTINF:-1 tvg-logo="https://cadenaser00.epimg.net/iconos/v1.x/v1.0/promos/promo_og_ser.png" group-title="local news,news,news talk,talk",Cadena SER - Radio Valencia
+#EXTINF:-1 tvg-logo="https://cadenaser00.epimg.net/iconos/v1.x/v1.0/promos/promo_og_ser.png" group-title="news,talk",Cadena SER Radio Valencia
 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_VALENCIA_SC
-#EXTINF:-1 tvg-logo="http://play.cadenaser.com//bundles/playserweb/img/mstile-144x144.png?v3.3" group-title="cultural news,live,news,news talk,spanish,sports news",Cadena SER España
+#EXTINF:-1 tvg-logo="http://play.cadenaser.com//bundles/playserweb/img/mstile-144x144.png?v3.3" group-title="cultural,news,talk",Cadena SER España
 https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER.mp3
-#EXTINF:-1 tvg-logo="https://static.radio.es/images/broadcasts/ad/40/19212/c300.png" group-title="deporte,deportes,news,noticias",Cadena Ser Guadix
+#EXTINF:-1 tvg-logo="https://static.radio.es/images/broadcasts/ad/40/19212/c300.png" group-title="deportes,noticias",Cadena Ser Guadix
 https://25543.live.streamtheworld.com:443/SER_ASO_GUADIXAAC_SC
 #EXTINF:-1 tvg-logo="https://www.radioharo.com/wp-content/uploads/2016/12/cropped-logo2-180x180.png" group-title="local news,news",Cadena Ser Haro Rioja Alta Radio Haro
 http://streaming.capsulaimposible.com:8000/radioharo.mp3
