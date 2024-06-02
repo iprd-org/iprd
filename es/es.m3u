@@ -121,7 +121,7 @@ https://cadena100-cope.flumotion.com/playlist.m3u8
 https://streams.radio.co/se1a320b47/listen
 #EXTINF:-1 tvg-logo="http://db.radioline.fr/pictures/radio_c9567e0caa226f740509d63d126bf37b/logo200.jpg" group-title="ambient,chillout,lounge",Café del Mar HD
 http://stream.zeno.fm/1tmd4t6cxbruv?rj-ttl=5&rj-tok=AAABfdqrfDYA4EuSZ3Y4ZXyWCQ
-#EXTINF:-1 tvg-logo="https://cafemamboibiza.com/radio/templates/yootheme/cache/logo-blanco-5311c3c0.png" group-title="dj,mixes,ibiza",Cafe Mambo Ibiza Radio
+#EXTINF:-1 tvg-logo="https://cafemamboibiza.com/radio/templates/yootheme/cache/logo-blanco-5311c3c0.png" group-title="dj,mixes,techno",Cafe Mambo Ibiza Radio
 http://streamer.radio.co/sd7b28e5f3/listen
 #EXTINF:-1 tvg-logo="http://calafell.tv/favicon.ico" group-title="talk,noticias",Calafell Ràdio 107.9
 http://streaming.enantena.com:8000/calafellradio128.mp3?_=1
@@ -199,116 +199,106 @@ http://wecast-b01-01.flumotion.com/copesedes/sevilla.mp3
 https://wecast-b03-01.flumotion.com/copesedes/valencia.mp3
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSARcApT0NVOkLGH0qvTNfNczOYaZheAb_NWA&s" group-title="top 40,charts,pop",Costa Blanca 89.9
 https://costablancafm.stream:18106/
-#EXTINF:-1 tvg-logo="http://www.costadelmar-radio.com/favicon.ico" group-title="lounge",Costa del Mar
+#EXTINF:-1 tvg-logo="http://www.costadelmar-radio.com/favicon.ico" group-title="lounge,jazz",Costa del Mar
 http://sc-costadelmar.1.fm:10152/
-#EXTINF:-1 tvg-logo="http://www.costadelmar-radio.com/wp-content/uploads/cache/2016/12/RADIO_CDM-LOGO-CHILLLOUT-600/3944392582.jpg" group-title="chill,chillout",Costa Del Mar - Chillout (AAC 96kbps)
+#EXTINF:-1 tvg-logo="http://www.costadelmar-radio.com/wp-content/uploads/cache/2016/12/RADIO_CDM-LOGO-CHILLLOUT-600/3944392582.jpg" group-title="ambient,chillout",Costa Del Mar Chillout
 http://stream.cdm-chillout.com:8020/stream-AAC-Chill
-#EXTINF:-1 tvg-logo="https://cuacfm.org/wp-content/uploads/2015/04/favicon-cuacfm.png" group-title="",CUAC FM
+#EXTINF:-1 tvg-logo="https://cuacfm.org/wp-content/uploads/2015/04/favicon-cuacfm.png" group-title="community,free",CUAC 103.4
 https://streaming.cuacfm.org/cuacfm.ogg
-#EXTINF:-1 tvg-logo="http://www.cugat.cat//apple-touch-icon.png" group-title="sant cugat del vallès",Cugat Ràdio
+#EXTINF:-1 tvg-logo="http://www.cugat.cat//apple-touch-icon.png" group-title="pop,news",Cugat Ràdio 91.5
 http://directe.cugat.cat/directeHQ.mp3
-#EXTINF:-1 tvg-logo="http://www.dancecontrol.net/RADIO/PORTADAS/general.jpg" group-title="dance,electronic,house,progressive house",DanceControl
+#EXTINF:-1 tvg-logo="http://www.dancecontrol.net/RADIO/PORTADAS/general.jpg" group-title="dance,electronic,house",DanceControl
 http://streaming.dancecontrol.net:8000/
-#EXTINF:-1 tvg-logo="http://static.radio.de/images/broadcasts/01/8d/3550/1/c175.png" group-title="",Das Inselradio Mallorca
+#EXTINF:-1 tvg-logo="http://static.radio.de/images/broadcasts/01/8d/3550/1/c175.png" group-title="top 40,charts,pop",Das Inselradio Mallorca
 http://stream.inselradio.com:20800/high.inselradio.mp3
-#EXTINF:-1 tvg-logo="" group-title="",Das Inselradio Mallorca
+#EXTINF:-1 tvg-logo="http://static.radio.de/images/broadcasts/01/8d/3550/1/c175.png" group-title="top 40,charts,pop",Das Inselradio Mallorca
 https://stream.inselradio.com/low.inselradio.mp3
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/9/107459.v2.png" group-title="news,noticias",Decisión Radio
 https://s20.prositel.net:9095/decision-radio
-#EXTINF:-1 tvg-logo="https://www.dieztv.es/imagenes/cabecera.png" group-title="varios",Diez TV
-https://streaming.cloud.innovasur.es/mmj/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",Digital hits
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/0d/d5/40304/1/c300.png" group-title="electro,dance",Digital Hits
 http://digitalhits.frilab.com:8000/digitalhits
-#EXTINF:-1 tvg-logo="https://diversaradioactiva.org/wp-content/uploads/2019/10/cropped-logo-redes2-32x32.jpg" group-title="",Diversia Radio Activa
+#EXTINF:-1 tvg-logo="https://diversaradioactiva.org/wp-content/uploads/2019/10/cropped-logo-redes2-32x32.jpg" group-title="top 40,charts",Diversia Radio Activa
 https://vivo.miradio.in/8120/stream
-#EXTINF:-1 tvg-logo="https://images.zeno.fm/qh7RHfFFsWNrMS0EW2yvL7m6tHGuC1QBPBkXcXtFOyY/rs:fit:500:500/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ1FsODJNaXdnTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ1FoOUh2X0FnTW9nRUVlbVZ1YncvaW1hZ2UvP3Jlc2l6ZT01MDB4NTAw.webp" group-title="",dj mapache
+#EXTINF:-1 tvg-logo="https://images.zeno.fm/qh7RHfFFsWNrMS0EW2yvL7m6tHGuC1QBPBkXcXtFOyY/rs:fit:500:500/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ1FsODJNaXdnTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ1FoOUh2X0FnTW9nRUVlbVZ1YncvaW1hZ2UvP3Jlc2l6ZT01MDB4NTAw.webp" group-title="dance,mixes",DJ Mapache
 http://stream.zeno.fm/tr9qda8tz7zuv?rj-ttl=5&rj-tok=AAABfdt4zxcAjWVSrVMWXzoyyw
-#EXTINF:-1 tvg-logo="https://dublab.es/assets/favicon.png" group-title="",dublab bcn
+#EXTINF:-1 tvg-logo="https://dublab.es/assets/favicon.png" group-title="variety,lgbtqia",dublab BCN
 http://dublabbcn.out.airtime.pro:8000/dublabbcn_a
-#EXTINF:-1 tvg-logo="https://www.efe.com/efe/images/logos/apple-touch-icon.png" group-title="",EFE Radio
-https://tunein-agencia-efe-direct.flumotion.com/tunein/shoutcast.mp3
-#EXTINF:-1 tvg-logo="https://www.eitb.eus/apple-touch-icon.png" group-title="basque music",EITB Euskal Kantak
+#EXTINF:-1 tvg-logo="https://www.eitb.eus/apple-touch-icon.png" group-title="basque,world",EiTB Euskal Kantak
 https://eitb-live-dvr.global.ssl.fastly.net/live-content/eitbeuskalkantak-hls/bitrate_1.m3u8
-#EXTINF:-1 tvg-logo="https://images14.eitb.eus/multimedia/recursos/generales/img_facebook_eitbcom.jpg" group-title="",EITB Irratia
+#EXTINF:-1 tvg-logo="https://images14.eitb.eus/multimedia/recursos/generales/img_facebook_eitbcom.jpg" group-title="talk,world",EiTB Irratia 105.7
 http://mp3-eitb.stream.flumotion.com/eitb/eitbmusika.mp3
-#EXTINF:-1 tvg-logo="http://el9nou.cat/wp-content/themes/el9nou/img/el9fm.svg" group-title="granollers",El 9 FM
+#EXTINF:-1 tvg-logo="http://el9nou.cat/wp-content/themes/el9nou/img/el9fm.svg" group-title="granollers,noticias",El 9 FM
 http://radio.el9fm.cat:8000/stream
-#EXTINF:-1 tvg-logo="https://www.elprat.digital/wp-content/themes/epdigital/images/favicons/apple-touch-icon.png" group-title="community radio,pop,variado",El Prat Radio
+#EXTINF:-1 tvg-logo="https://www.elprat.digital/wp-content/themes/epdigital/images/favicons/apple-touch-icon.png" group-title="community,pop,variado",El Prat Radio
 http://streaming.enantena.com:8000/elpratradio56.mp3
-#EXTINF:-1 tvg-logo="https://linktr.ee/static/apple-icon-120x120.png" group-title="big room,club house,dance,deep house,drum and bass,dubstep,dutch house,edm,electro house,electronic,future house,hardstyle,melbourne bounce,progressive house,remember,tech house,techno,trance,tropical house",ElectroDanceWorld Radio
+#EXTINF:-1 tvg-logo="https://linktr.ee/static/apple-icon-120x120.png" group-title="club,house,dance",ElectroDanceWorld Radio
 http://stream.zeno.fm/s70bvdgqks8uv?rj-ttl=5&rj-tok=AAABfdrMf1UAtY-KISPlrDr7Xw
-#EXTINF:-1 tvg-logo="https://d1ujqdpfgkvqfi.cloudfront.net/favicon-generator/htdocs/favicons/2020-12-30/b80fced5a763333dae733555b6773105.ico.png" group-title="80s,dance,edm,pop",Elite Fm
+#EXTINF:-1 tvg-logo="https://d1ujqdpfgkvqfi.cloudfront.net/favicon-generator/htdocs/favicons/2020-12-30/b80fced5a763333dae733555b6773105.ico.png" group-title="80s,dance,edm",Elite FM
 http://stream.zeno.fm/atsvz45arm0uv?rj-ttl=5&rj-tok=AAABfdqbcQgAJcRRmBTo0RrCFA
-#EXTINF:-1 tvg-logo="https://d1ujqdpfgkvqfi.cloudfront.net/favicon-generator/htdocs/favicons/2020-12-30/b80fced5a763333dae733555b6773105.ico.png" group-title="80s,dance,edm,pop",Elite fm new
+#EXTINF:-1 tvg-logo="https://d1ujqdpfgkvqfi.cloudfront.net/favicon-generator/htdocs/favicons/2020-12-30/b80fced5a763333dae733555b6773105.ico.png" group-title="80s,dance,edm",Elite FM
 http://stream.zeno.fm/atsvz45arm0uv?rj-ttl=5&rj-tok=AAABfd4MNXgAL7wP7-uzPtF16g
-#EXTINF:-1 tvg-logo="https://grupoelixir.es/radio1.png" group-title="electronic",Elixir
+#EXTINF:-1 tvg-logo="https://grupoelixir.es/radio1.png" group-title="electronic,dance",Elixir
 https://radio.grupoelixir.es:9006/stream
-#EXTINF:-1 tvg-logo="" group-title="90.0,caravaca,energia",ENERGIA FM - CARAVACA DE LA CRUZ 90.0
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6xIBUgT5ahn_e3JpV8m6QFyBzqe2nzfNrtQ&s" group-title="dance,hits,pop",Energia 90.0
 http://streaming5.elitecomunicacion.es:8128/caravaca?type=.mp3
-#EXTINF:-1 tvg-logo="https://s.libertaddigital.com/esradio/favicon.ico" group-title="",ES Radio
+#EXTINF:-1 tvg-logo="https://s.libertaddigital.com/esradio/favicon.ico" group-title="talk,news",esRadio 99.1
 https://livestreaming3.esradio.fm/stream64.mp3
-#EXTINF:-1 tvg-logo="" group-title="pop",Esencia Radio
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/fd/2a/38220/1/c300.png" group-title="latin,pop,house",Esencia Radio
 http://stream.zeno.fm/qaxnuxap0rquv?rj-ttl=5&rj-tok=AAABfd38BwoAQn2mi1IL9XcaCg
-#EXTINF:-1 tvg-logo="" group-title="pop",Esencia Radio
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/fd/2a/38220/1/c300.png" group-title="latin,pop,house",Esencia Radio
 http://esenciaradio.ddns.net:8000/directo
-#EXTINF:-1 tvg-logo="" group-title="pop",Esencia Radio Tres Cantos
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1568945091259006978/QOsV9sBm_400x400.jpg" group-title="dance,pop,hits",Esencia Radio Tres Cantos 94.5
 http://stream.zeno.fm/51nrp77pbsquv?rj-ttl=5&rj-tok=AAABfd4veZoA0HRZy-Cqwg32nA
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/logo/4/53784.v14.png" group-title="70s,80s,90s,pop,talk",Esplugues FM
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/logo/4/53784.v14.png" group-title="70s,80s,90s",Esplugues FM
 https://antares.dribbcast.com/proxy/espluguesfm?mp=/stream
-#EXTINF:-1 tvg-logo="" group-title="news,talk",esRadio
+#EXTINF:-1 tvg-logo="https://s.libertaddigital.com/esradio/favicon.ico" group-title="talk,news",esRadio 99.1
 http://livestreaming.esradio.fm/stream64.mp3
-#EXTINF:-1 tvg-logo="https://www.esradioalbacete.es/favicon.ico" group-title="albacete,esradio",esRadio Albacete
+#EXTINF:-1 tvg-logo="https://www.esradioalbacete.es/favicon.ico" group-title="pop,news,talk",esRadio Albacete 102.7
 http://82.223.28.73:8000/esradioalbacete.mp3
-#EXTINF:-1 tvg-logo="" group-title="información",EsRadio Asturias
+#EXTINF:-1 tvg-logo="https://www.radio.es/images/broadcasts/9e/e0/163679/1/c300.png" group-title="talk,top 40,pop",esRadio Asturias 93.2
 http://server9.emitironline.com:8822/radio
-#EXTINF:-1 tvg-logo="https://www.esradioelche.com/wp-content/uploads/2017/09/esradioelche-logo-63.png" group-title="news",esRadio Elche
+#EXTINF:-1 tvg-logo="https://www.esradioelche.com/wp-content/uploads/2017/09/esradioelche-logo-63.png" group-title="news,talk",esRadio Elche
 http://ns6.emisionlocal.com:8040/listen.pls
-#EXTINF:-1 tvg-logo="" group-title="news",esRadio Madrid
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmV39TMcSQSyxbqQHs2NnBgDE141Odleg4rQ&s" group-title="news,talk",esRadio Madrid
 http://livestreaming3.esradio.fm/stream64.mp3
-#EXTINF:-1 tvg-logo="" group-title="news",esRadio Malaga
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/156/esradio-malaga.36f1369c.png" group-title="news",esRadio Malaga 91.3
 https://server.spainbroadcast.net/8032/stream
-#EXTINF:-1 tvg-logo="" group-title="news",esradio Malaga
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/156/esradio-malaga.36f1369c.png" group-title="news",esradio Malaga 91.3
 https://server.spainbroadcast.net/8038/stream
-#EXTINF:-1 tvg-logo="https://www.canal4tenerife.tv/wp-content/uploads/2017/02/LOGO-CANAL-4-azul-80.png" group-title="madrid,magazines,noticias,tenerife",esRadio Tenerife
+#EXTINF:-1 tvg-logo="https://www.canal4tenerife.tv/wp-content/uploads/2017/02/LOGO-CANAL-4-azul-80.png" group-title="magazines,noticias",esRadio Tenerife
 https://panel.soydigital.fm:8008/stream?1624016697144
-#EXTINF:-1 tvg-logo="https://s.libertaddigital.com/esradio/favicon.ico" group-title="news,talk",esRadio_AAC
+#EXTINF:-1 tvg-logo="https://s.libertaddigital.com/esradio/favicon.ico" group-title="news,talk",esRadio
 http://livestreaming9.esradio.fm/aaclive32
-#EXTINF:-1 tvg-logo="http://www.eitb.eus/apple-touch-icon.png" group-title="m3u8,pop",Euskadi irratia
+#EXTINF:-1 tvg-logo="http://www.eitb.eus/apple-touch-icon.png" group-title="news,variety",Euskadi Irratia 97.0
 http://mp3-eitb.stream.flumotion.com/eitb/euskadiirratia.mp3
-#EXTINF:-1 tvg-logo="https://euskalerriairratia.eus//static/img/favicons/fav196.png" group-title="music,news",Euskalerria Irratia
+#EXTINF:-1 tvg-logo="https://euskalerriairratia.eus//static/img/favicons/fav196.png" group-title="news,talk,culture",Euskalerria Irratia 98.3
 http://server4.beatproducciones.com:8014/
-#EXTINF:-1 tvg-logo="" group-title="tarot",Exito Radio
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/msjpqrehfmpw.png" group-title="tarot,talk",Exito Radio
 http://5.135.183.124:9252/stream
 #EXTINF:-1 tvg-logo="https://api.my-radios.com/images/thumb.php?countryCode=ES&name=Flaix_FM.png&size=200" group-title="dance,house,reggaeton",Flaix FM
 https://nodo08-cloud01.streaming-pro.com:8003/flaixfm.aacp
-#EXTINF:-1 tvg-logo="https://flaixbac.cat/icons/icon-192x192.png" group-title="pop",Flaixbac
+#EXTINF:-1 tvg-logo="https://flaixbac.cat/icons/icon-192x192.png" group-title="electro,hits,pop",Flaix BAC
 https://nodo07-cloud01.streaming-pro.com:8005/flaixbac.mp3
-#EXTINF:-1 tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/85/1d/19162/c175.png" group-title="music,música",FM Pozuelo Radio
+#EXTINF:-1 tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/85/1d/19162/c175.png" group-title="oldies,pop,deportes",Pozuelo Radio 91.9
 http://5.135.183.124:8138/stream
-#EXTINF:-1 tvg-logo="https://api.raddios.com/api/radios/1202/image/miniaturamovil" group-title="80s,90s,hits,pop",FORMULA 10 MUSICA
+#EXTINF:-1 tvg-logo="https://api.raddios.com/api/radios/1202/image/miniaturamovil" group-title="80s,90s,hits",Formula 10 Musica
 https://formula10musica.stream.laut.fm/formula10musica
-#EXTINF:-1 tvg-logo="" group-title="dance,electronic,pop",Formula 30
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/87/60/33111/1/c300.png" group-title="dance,electronic,pop",Formula 30
 http://stm1.emiteonline.com:8001/formula30
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-BTWauI1ML7o/XZOklz5WuRI/AAAAAAAAAeA/R8qBxhme8UEELRogqYOhtWG4p0BVhiwVgCK4BGAYYCw/s752/free%2Bancho.jpg" group-title="80's,90's,classic rock,free,free fm,free radio,oldies,pop music,rock",Free FM
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-BTWauI1ML7o/XZOklz5WuRI/AAAAAAAAAeA/R8qBxhme8UEELRogqYOhtWG4p0BVhiwVgCK4BGAYYCw/s752/free%2Bancho.jpg" group-title="80s,90s,rock",Free FM
 https://rocafmadrid.radioca.st/
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-BTWauI1ML7o/XZOklz5WuRI/AAAAAAAAAeA/R8qBxhme8UEELRogqYOhtWG4p0BVhiwVgCK4BGAYYCw/s752/free%2Bancho.jpg" group-title="free fm,free radio,love,love song,love songs,lovesongs",Free FM Love
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-BTWauI1ML7o/XZOklz5WuRI/AAAAAAAAAeA/R8qBxhme8UEELRogqYOhtWG4p0BVhiwVgCK4BGAYYCw/s752/free%2Bancho.jpg" group-title="free,love,variety",Free FM Love
 http://stream.zeno.fm/umsptm6rvy8uv?rj-ttl=5&rj-tok=AAABfd5LPS8AVuY5T27zud2TBg
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-5NFjr9YWzKY/YUoOEhqer7I/AAAAAAAAEao/2pi40mHcMcIAkWv3ujDFCFJzP59IkDKJwCLcBGAsYHQ/s320/free%2B%2Btop%2B512%2Bx%2B512.jpg" group-title="top 100,top40",Free FM Top 100
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-5NFjr9YWzKY/YUoOEhqer7I/AAAAAAAAEao/2pi40mHcMcIAkWv3ujDFCFJzP59IkDKJwCLcBGAsYHQ/s320/free%2B%2Btop%2B512%2Bx%2B512.jpg" group-title="top 100,top 40",Free FM Top 100
 http://stream.zeno.fm/a5h7vfret68uv?rj-ttl=5&rj-tok=AAABfds0R3YAHjMjt7MQibfNAQ
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-BTWauI1ML7o/XZOklz5WuRI/AAAAAAAAAeA/R8qBxhme8UEELRogqYOhtWG4p0BVhiwVgCK4BGAYYCw/s752/free%2Bancho.jpg" group-title="christmas music,free fm,free radio,x-mas,xmas",Free FM X-Mas
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-BTWauI1ML7o/XZOklz5WuRI/AAAAAAAAAeA/R8qBxhme8UEELRogqYOhtWG4p0BVhiwVgCK4BGAYYCw/s752/free%2Bancho.jpg" group-title="christmas,free,xmas",Free FM X-Mas
 http://stream.zeno.fm/h60er015v68uv?rj-ttl=5&rj-tok=AAABfd32tyYA7Wbbw3jXR0sjRA
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/5b7htz.png" group-title="dance,electro house,latin,latin music,latino,reggaeton,urban",Fresh Radio
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/5b7htz.png" group-title="dance,electro,house",Fresh Radio
 http://stream.zeno.fm/gzaf75yevceuv?rj-ttl=5&rj-tok=AAABfdq-8HMATR1mlh8BfLVIqw
-#EXTINF:-1 tvg-logo="" group-title="70s,80s,90s,benidorm,radio,top 40",fresh radio spain
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/oTIeEb2rXPZL7bhDxerdav_leTQNZF-YuQ8EbqiufoeqElyfr5boR78xId1tYbHq8CM" group-title="70s,80s,90s",Fresh Radio
 https://freshrad.radioca.st/stream
-#EXTINF:-1 tvg-logo="http://raw.githubusercontent.com/teamblue65/LOGO/master/GALICIATV.png" group-title="",Galicia America TV
-http://america-crtvg.flumotion.com/crtvg/america_med/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://raw.githubusercontent.com/teamblue65/LOGO/master/GALICIATV.png" group-title="",Galicia Europe TV
-http://europa-crtvg.flumotion.com/crtvg/europa_med/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Gaztea_Spain.svg" group-title="music",Gaztea Irratia
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Gaztea_Spain.svg" group-title="pop,rock,top 40",Gaztea Irratia
 http://mp3-eitb.stream.flumotion.com/eitb/gaztea.mp3
-#EXTINF:-1 tvg-logo="http://nettv.live/uploads/18/1-1Q201220329630.jpg" group-title="",Girona TV
-http://ventdelnord.tv:8080/girona/directe.m3u8
 #EXTINF:-1 tvg-logo="" group-title="international",GODELLA RADIO by Xopo
 https://ns6.emisionlocal.com/proxy/radiogodella?mp=/stream&1639932362191
 #EXTINF:-1 tvg-logo="" group-title="reggaeton,sevilla,spanish",Gozadera FM
