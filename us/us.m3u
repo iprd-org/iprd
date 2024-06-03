@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/c7/64/28865/c300.png" group-title="christian,religious",KBKY Radio Alfa y Omega 94.1
+http://37.59.41.35:6114/listen.pls
 #EXTINF:-1 tvg-logo="https://www.radioworld.com/wp-content/uploads/2023/03/radio-impacto-353x353.jpg" group-title="bachata,baladas,chicha",KGIC-LP Radio Impacto 2 105.5
 http://69.46.24.226:7292/live
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/EZWTeT093Gnj2hNvnaFE1sScd9IJe1TBV_lxNJJbJ9-SAgDTzjbvf8650OqxbaKZFnEe=w526-h296-rw" group-title="ethnic,folk",Bolivia Tierra Querida Folklor
@@ -7,13 +9,13 @@ http://65.60.2.26:6040/stream
 https://streams.radio.co/sa0bf8ec29/listen?sid=1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/KLUX_logo.png" group-title="catholic,easy listening",KLUX 89.5
 http://204.141.167.20:12340/stream
-#EXTINF:-1 tvg-logo="https://100hiphopandrnb.fm/wp-content/uploads/sites/62/logo-lftm-400px.png" group-title="hip hop,R'n'B,soul,urban",100 Hip Hop and RNB.FM
+#EXTINF:-1 tvg-logo="https://100hiphopandrnb.fm/wp-content/uploads/sites/62/logo-lftm-400px.png" group-title="hip hop,r'n'b,soul",100 Hip Hop and RNB.FM
 http://hemnos.cdnstream.com/1914_192
-#EXTINF:-1 tvg-logo="https://ibb.co/Sy1pc25" group-title="hip hop,R'n'B,soul,urban",100 Hip Hop and RNB.FM
+#EXTINF:-1 tvg-logo="https://ibb.co/Sy1pc25" group-title="hip hop,r'n'b,soul",100 Hip Hop and RNB.FM
 https://ice64.securenetsystems.net/LFTM
-#EXTINF:-1 tvg-logo="https://dbs.radioline.fr/pictures/radio_1de34350694e2edf28f2840a98748585/logo200.jpg" group-title="24/7,80,80's,80s,business,news,eighties,international,interviews,live,non-stop,retro,sports,vintage",#HiFi80s
+#EXTINF:-1 tvg-logo="https://dbs.radioline.fr/pictures/radio_1de34350694e2edf28f2840a98748585/logo200.jpg" group-title="80s,business,news",#HiFi80s
 https://playerservices.streamtheworld.com/api/livestream-redirect/SAM03AAC226_SC?hifi80slive
-#EXTINF:-1 tvg-logo="https://011fm.com/wp-content/uploads/2017/08/web-header.png" group-title="ambient,christmas,classical,orchestral",011.FM Holiday Instrumental
+#EXTINF:-1 tvg-logo="https://011fm.com/wp-content/uploads/2017/08/web-header.png" group-title="ambient,christmas,classical",011.FM Holiday Instrumental
 http://listen.011fm.com/stream33
 #EXTINF:-1 tvg-logo="http://static.radio.de/images/broadcasts/f1/8b/109503/1/t175.png" group-title="60s,60's,oldies,hits",011.FM Non Stop 60's
 http://listen.011fm.com:8004/stream03
@@ -21,11 +23,11 @@ http://listen.011fm.com:8004/stream03
 http://sc8.1.fm:7030/
 #EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/61/6f/19858/c300.png" group-title="chill,chillout,lounge",100 Chill Radio
 https://radio1.streamserver.link/radio/8110/100chill-aac
-#EXTINF:-1 tvg-logo="https://100xr.com/favicon.ico" group-title="classic rock,hard rock,metal",100 XR
+#EXTINF:-1 tvg-logo="https://100xr.com/favicon.ico" group-title="classic,rock,metal",100 XR
 http://listen.100xr.com/aac
-#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/WXBT.png" group-title="urban contemporary,hip hop",KRVV 101.1 The Beat
+#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/WXBT.png" group-title="urban,contemporary,hip hop",KRVV 101.1 The Beat
 https://n1fb-e2.revma.ihrhls.com/zc2069?rj-ttl=5&rj-tok=AAABfd3BupcAxYqQR_1UwfUO2g
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/WBIG.jpg" group-title="classic rock,rock",WBIG 100.3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/WBIG.jpg" group-title="classic,rock",WBIG 100.3
 https://n26b-e2.revma.ihrhls.com/zc2505/hls.m3u8?gender=null&companionAds=true&dist=iheart&init_id=8169&rj-tok=AAABfdxG0OMAe2MR6h9rpc9c8w&aw_0_1st.playerid=iHeartRadioWebPlayer&uid=e12ed9af-25e3-44c8-8473-18fe98723481&clientType=web&profileid=1563075259&host=webapp.US&zip=20779&callLetters=WBIG-FM&rj-ttl=5&streamid=2505&pname=OrganicWeb&aw_0_1st.ccaud=&fb_broadcast=0&terminalid=159&at=0&birthYear=null&modTime=1625981235400&aw_0_1st.skey=1625981235&us_privacy=1-N-&devicename=web-desktop&playedFrom=6&age=null&territory=US&stationid=2505
 #EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/100.3 Kiss FM.png" group-title="pop,top 40",KISS 100.3 
 https://n3db-e2.revma.ihrhls.com/zc1629?rj-ttl=5&rj-tok=AAABfd5Q24YAvEPdVXPBkcUuQQ
