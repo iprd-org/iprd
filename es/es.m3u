@@ -1001,61 +1001,53 @@ http://2.139.144.101:8020/2?1508151505
 http://51.255.235.165:5266/
 #EXTINF:-1 tvg-logo="https://www.sw-radio.com///templates/yoo_katana/favicon.ico" group-title="christian,español,spanish",SW-Radio Espanol
 http://segenswelle.de:8000/espanol
-#EXTINF:-1 tvg-logo="https://www.swinglatinosfm.com/images/logo.png" group-title="",Swing latinos FM
+#EXTINF:-1 tvg-logo="https://www.swinglatinosfm.com/images/logo.png" group-title="merengue,reggaeton,latin",Swing Latinos 96.5
 https://eu1.lhdserver.es:9033/stream
-#EXTINF:-1 tvg-logo="" group-title="decades",T-Sound Music
-http://stream.zeno.fm/avthwp8shnruv?rj-ttl=5&rj-tok=AAABfdBgdDoAdotz0bbGMdc_nA
-#EXTINF:-1 tvg-logo="http://www.talkradioeurope.com/favicon.ico" group-title="eclectic,news,sport,talk",Talk Radio Europe
+#EXTINF:-1 tvg-logo="http://www.talkradioeurope.com/favicon.ico" group-title="eclectic,news,deportes",Talk Radio Europe
 http://s3.yesstreaming.net:7014/stream
-#EXTINF:-1 tvg-logo="https://www.taroteame.com/wp-content/uploads/2018/09/cropped-favicon-192x192.png" group-title="astros,horóscopos,tarot,videncia",Taroteame
+#EXTINF:-1 tvg-logo="https://www.taroteame.com/wp-content/uploads/2018/09/cropped-favicon-192x192.png" group-title="astros,horóscopos,tarot",Taroteame
 https://5b45171a7ade6.streamlock.net/taroteame/tarot_web/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://enacast.com/tarragonaradio/apple-touch-icon.png" group-title="tarragona",Tarragona Ràdio
+#EXTINF:-1 tvg-logo="https://enacast.com/tarragonaradio/apple-touch-icon.png" group-title="adult,hits",Tarragona Ràdio 96.7
 https://relay.stream.enacast-cloud.com:40007/tarragona56.mp3
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TDEP.png" group-title="deportes,sports",tdp
-https://rtvelivestream-lvlt.rtve.es/tdp_dvr.m3u8
-#EXTINF:-1 tvg-logo="" group-title="futuro,tarot,videncia",Te doy mi palabra
+#EXTINF:-1 tvg-logo="https://img-static.ivoox.com/index.php?w=145&h=145&url=https://static-2.ivoox.com/canales/3/0/9/5/4171549975903_XXL.jpg" group-title="futuro,tarot,videncia",Te Doy Mi Palabra
 https://server9.emitironline.com:19284/radio
-#EXTINF:-1 tvg-logo="" group-title="futuro,tarot,videncia",Te doy mi palabra radio
-https://server9.emitironline.com:19284/
-#EXTINF:-1 tvg-logo="https://i2.wp.com/www.audiovisual451.com/wp-content/uploads/Telemadrid-1.jpg?w=300&ssl=1" group-title="noticias locales",TeleMadrid TV
-https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8
-#EXTINF:-1 tvg-logo="https://theflow.es/logo.png" group-title="classic hip hop,hip-hop and rap oldies,hiphop,rap,trap",The Flow
+#EXTINF:-1 tvg-logo="https://theflow.es/logo.png" group-title="classic,hip hop,rap",The Flow 104.8
 https://server8.emitironline.com:18738/stream
-#EXTINF:-1 tvg-logo="http://www.titoieta.cat/apple-touch-icon.png" group-title="algaida",Titoieta Ràdio
+#EXTINF:-1 tvg-logo="http://www.titoieta.cat/apple-touch-icon.png" group-title="news,talk",Titoieta Ràdio 107.7
 http://195.154.33.95:8034/stream
-#EXTINF:-1 tvg-logo="https://tko.fm/wp-content/uploads/2021/06/cropped-fav_icon-180x180.png" group-title="",TKO Radio Costa Blanca
+#EXTINF:-1 tvg-logo="https://tko.fm/wp-content/uploads/2021/06/cropped-fav_icon-180x180.png" group-title="adult,hits",TKO Radio Costa Blanca 91.9
 http://centauri.shoutca.st:8300/stream
-#EXTINF:-1 tvg-logo="" group-title="",Top Radio 97.2 FM
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/f9/31/f931b99663dad5d6942e277aae70acab.jpg" group-title="rock,pop,hits",Top Radio 97.2
 https://playerservices.streamtheworld.com/api/livestream-redirect/TOPRADIOAAC_SC
-#EXTINF:-1 tvg-logo="" group-title="catalunya,music",Topcat Radio
+#EXTINF:-1 tvg-logo="https://topcatradio.eu/assets/img/TCR_logo_b+w.png" group-title="catalunya,music",TopCat Radio
 https://radio.elsmussols.net/radio/8010/radio.mp3
-#EXTINF:-1 tvg-logo="http://www.totradio.com//favicon.ico" group-title="horta sud,music",TotRàdio
+#EXTINF:-1 tvg-logo="http://www.totradio.com//favicon.ico" group-title="latin,world",Tot Ràdio 104.1
 http://www.totradio.com:8000/128kbps
-#EXTINF:-1 tvg-logo="" group-title="christian,hebrew",TSHUVAfm.com
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/sgVx3s1b9AKB93bJKsJ4wGqn66PLDKgrcwPipPyMURhN3b9UrKPG6tQU2Qqf0OeOOQ" group-title="christian,hebrew",TSHUVAfm.com
 https://tshuvafmdotcom.radioca.st/;/;stream.mp3
-#EXTINF:-1 tvg-logo="" group-title="international",TURIA RADIO by Xopo
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaOitl7P5RfCzNtjrA-daXP4fMKjPh8l2dJQ&s" group-title="world,variety",Turia Radio by Xopo
 http://streaming.enacast.com:8000/radioturiaHD.mp3
-#EXTINF:-1 tvg-logo="http://www.univerdance.es/s/misc/logo.jpg?t=1618218757" group-title="",UNIVERDANCE
+#EXTINF:-1 tvg-logo="http://www.univerdance.es/s/misc/logo.jpg?t=1618218757" group-title="dance,electronic",UNIVERDANCE
 http://streaming.enantena.com:8000/univerdance128.mp3
-#EXTINF:-1 tvg-logo="" group-title="community radio,easy listening,pop,spanish",Urban con Ñ
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s282671/images/logog.jpg?t=3" group-title="community,easy listening,pop",Urban con Ñ
 https://st1.urbanrevolution.es:8443/hispano
-#EXTINF:-1 tvg-logo="" group-title="international",UTIEL RADIO by Xopo
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq-8YByQ21RvUn1sQJykufVHBeHuia1uO3Hh7h0H_cwvWnMfLx9NGMABXMGWkYPFTDO98&usqp=CAU" group-title="world,variety",Radio Utiel 107.7 by Xopo
 http://217.13.87.162:8000/;stream.mp3
-#EXTINF:-1 tvg-logo="" group-title="creative commons,música,podcast",Vacalloria Radio
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/1/58531.v12.png" group-title="ranchera,salsa,cumbia",Vacalloria Radio
 http://195.154.33.95:8015/live
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/46cJftDXtk-hIlOx1dF9By_K7stBE1LkUDp_ce5D7JBCPWnM4ir34N38emj-AyM8EBo=w300" group-title="learn,learn english,learn language",Vaughan
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/46cJftDXtk-hIlOx1dF9By_K7stBE1LkUDp_ce5D7JBCPWnM4ir34N38emj-AyM8EBo=w300" group-title="english,education",Vaughan
 http://nodo08-cloud01.streaming-pro.com:8057/vaughanradio.mp3
-#EXTINF:-1 tvg-logo="" group-title="international",VEU D'ONDARA RADIO by Xopo
+#EXTINF:-1 tvg-logo="https://laveu.ondara.org/wp-content/uploads/2015/09/LAVEU.jpg" group-title="world,variety",Radio La Veu D'Ondara 107.4 by Xopo
 https://relay.stream.enacast-cloud.com:40235/laveudondaraSD.mp3
-#EXTINF:-1 tvg-logo="" group-title="local radio,music,radioformula",Vía Radio
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQt7lpBJf2-FmVO8MMT4EQNVTcojq_SHdDLg&s" group-title="dance,rock,pop",Vía Radio
 https://relay.stream.enacast-cloud.com:40242/viaradioHD.mp3
-#EXTINF:-1 tvg-logo="" group-title="rock",Vinilo FM
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/2b/ce/120262/1/c300.png" group-title="hits,rock",Vinilo FM
 http://server9.emitironline.com:10923/listen.pls
-#EXTINF:-1 tvg-logo="http://static.radio.es/images/broadcasts/aa/56/100161/1/c175.png" group-title="",Where is the After Party?
+#EXTINF:-1 tvg-logo="http://static.radio.es/images/broadcasts/aa/56/100161/1/c175.png" group-title="house,dance,electro",Where Is The After Party?
 http://s3.sonicabroadcast.com:8825/;.m3u
-#EXTINF:-1 tvg-logo="https://xrcb.cat/wp-content/themes/xrcb/favicon.ico" group-title="247,barcelona,community,culture,music,network,podcasts,xarxa",XRCB On Air
+#EXTINF:-1 tvg-logo="https://xrcb.cat/wp-content/themes/xrcb/favicon.ico" group-title="community,culture,variados",XRCB On Air
 https://icecast.xrcb.cat/main.mp3
-#EXTINF:-1 tvg-logo="" group-title="music,santa cristina d'aro",Xtra FM
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/xcCWOFQSd9WZb7d1_PCj1uDk0IWSFx8s5EnPPCmcemhZpC_gpOEcDMMVNHz-3D-oPw=w240-h480-rw" group-title="hits,pop",XtraFM 92.7
 http://stream.internetgirona.com:8000/listen.pls
-#EXTINF:-1 tvg-logo="" group-title="80s,90s,clubbing,eurodance,trance",Zona Electrónica Urban Revolution
+#EXTINF:-1 tvg-logo="https://kuasark.com/files/stations-logos/zona-electronica-urban-revolution.png" group-title="80s,90s,trance",Zona Electrónica Urban Revolution
 https://st1.urbanrevolution.es:8443/zonaelectronica
