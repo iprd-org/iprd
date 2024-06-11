@@ -1,99 +1,93 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://xb-static.nm-ovp.nelonenmedia.fi/xb/styles/160x90/public/img/cde131cdf940c4bc0ad78a1d775aba1872f4bcca-aitoiskelma_2560x1440.jpg" group-title="",Aito Iskelmä
+#EXTINF:-1 tvg-logo="https://xb-static.nm-ovp.nelonenmedia.fi/xb/styles/160x90/public/img/cde131cdf940c4bc0ad78a1d775aba1872f4bcca-aitoiskelma_2560x1440.jpg" group-title="pop,hits",Aito Iskelmä
 https://digitacdn.akamaized.net/hls/live/629243/aitoiskelma/master-128000.m3u8
-#EXTINF:-1 tvg-logo="" group-title="bitcoin,discussion,economics,talk",bitcoin radio suomenkieli | btcrad.io
+#EXTINF:-1 tvg-logo="https://www.coindesk.com/resizer/W4dOqIAQOYj_9CQl8LUbvIGxAnA=/567x316/filters:quality(80):format(jpg)/cloudfront-us-east-1.images.arcpublishing.com/coindesk/GH5Y22Z5DBAKRDPAE2XUUCIBRY.jpg" group-title="bitcoin,talk,business",Bitcoin Radio Suomenkieli
 https://btcrad.io/fi
-#EXTINF:-1 tvg-logo="https://doubleclap.dance/wp-content/uploads/2020/05/logo.png" group-title="dance,electronic,hardstyle,house,lounge,psytrance,trance",Doubleclap Radio
+#EXTINF:-1 tvg-logo="https://doubleclap.dance/wp-content/uploads/2020/05/logo.png" group-title="dance,electronic,hardstyle",Doubleclap Radio
 https://s3.radio.co/scfd7273b2/listen
-#EXTINF:-1 tvg-logo="http://finestfm.fi/upload/5e10861c127007.32944399.ico" group-title="hits",Finest Fm
+#EXTINF:-1 tvg-logo="http://finestfm.fi/upload/5e10861c127007.32944399.ico" group-title="folk,80s,90s",Finest FM
 http://212.47.220.188:8000/listen.mp3
-#EXTINF:-1 tvg-logo="http://www.radiot.fi/img/channel-logos/fun-tampere.png" group-title="",FUN Tampere
+#EXTINF:-1 tvg-logo="http://www.radiot.fi/img/channel-logos/fun-tampere.png" group-title="country,dance,hip hop",Fun Tampere 89.0
 http://st.downtime.fi/fun.mp3
-#EXTINF:-1 tvg-logo="http://www.radiot.fi/img/channel-logos/groove-fm.png?content-checksum=3fb76ae942a3766e0d35ae2c9080c73e379a7067" group-title="",Groove FM
+#EXTINF:-1 tvg-logo="http://www.radiot.fi/img/channel-logos/groove-fm.png?content-checksum=3fb76ae942a3766e0d35ae2c9080c73e379a7067" group-title="jazz,soul",Groove FM 91.1
 http://digitacdn.akamaized.net/hls/live/629243/groove/master-128000.m3u8
-#EXTINF:-1 tvg-logo="https://www.supla.fi/apple-touch-icon-120x120.png?v=4" group-title="",Groove FM Business
+#EXTINF:-1 tvg-logo="https://www.supla.fi/apple-touch-icon-120x120.png?v=4" group-title="business,talk",Groove FM 98.1
 https://digitacdn.akamaized.net/hls/live/629243/groove/master-128000.m3u8
-#EXTINF:-1 tvg-logo="https://hakkeriradio.fi/assets/img/web_logo.png" group-title="digital,electronic,gaming,talk",Hakkeriradio
+#EXTINF:-1 tvg-logo="https://hakkeriradio.fi/assets/img/web_logo.png" group-title="digital,electronic,gaming",Hakkeriradio
 https://hakkeriradio.fi:8443/stream
-#EXTINF:-1 tvg-logo="https://jouluradio-wp.production.geniem.io/uploads/2018/08/d4ce8c2a-happyholidays.svg" group-title="",Happy Holidays
-https://server2.toivon.net/proxy/toivon_7_2?mp=/stream
-#EXTINF:-1 tvg-logo="https://d2iw5las1rjvep.cloudfront.net/rfm/uploads/rlogo/300/300_1486644345.jpg" group-title="1970s,1980s,70s,80er,80s,classic hits,pop",Helmiradio
+#EXTINF:-1 tvg-logo="https://d2iw5las1rjvep.cloudfront.net/rfm/uploads/rlogo/300/300_1486644345.jpg" group-title="70s,80s,hits,pop",Helmiradio
 https://digitacdn.akamaized.net/hls/live/629243/radiohelmi/master-128000.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Radio-Hitmix.png/300px-Radio-Hitmix.png" group-title="",HitMix
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Radio-Hitmix.png/300px-Radio-Hitmix.png" group-title="90s,00s,hits",HitMix 90.3
 https://digitacdn.akamaized.net/hls/live/629243/hitmix/master-128000.m3u8
-#EXTINF:-1 tvg-logo="https://www.patmos.fi/wp-content/themes/patmos/dist/favicon/apple-icon-120x120.png" group-title="christian",https://www.patmos.fi/radio-patmos/
+#EXTINF:-1 tvg-logo="https://www.patmos.fi/wp-content/themes/patmos/dist/favicon/apple-icon-120x120.png" group-title="christian,religious",Radio Patmos 107.4
 https://s3.yesstreaming.net:9011/radio
-#EXTINF:-1 tvg-logo="" group-title="christmas music,indie",Indiejoulu
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/44/93/44936f48d0dcf8d76aaca48c2f582e92.jpg" group-title="christmas,indie",Jouluradio
 https://server3.toivon.net/proxy/toivon_9_3?mp=/stream
-#EXTINF:-1 tvg-logo="https://www.iskelma.fi/files/meta_images/iskelma-fb-cover.png" group-title="",Iskelmä
+#EXTINF:-1 tvg-logo="https://www.iskelma.fi/files/meta_images/iskelma-fb-cover.png" group-title="pop,hits",Iskelmä
 https://stream.bauermedia.fi/iskelma/iskelma_128.mp3
-#EXTINF:-1 tvg-logo="https://www.iskelma.fi/files/meta_images/iskelma-fb-cover.png" group-title="",Iskelmä - Helsinki
+#EXTINF:-1 tvg-logo="https://www.iskelma.fi/files/meta_images/iskelma-fb-cover.png" group-title="pop,hits",Iskelmä Helsinki
 http://stream.bauermedia.fi/iskelma/hki_64.aac
-#EXTINF:-1 tvg-logo="https://www.iskelma.fi/files/meta_images/iskelma-fb-cover.png" group-title="",Iskelmä - Kotka
+#EXTINF:-1 tvg-logo="https://www.iskelma.fi/files/meta_images/iskelma-fb-cover.png" group-title="pop,hits",Iskelmä Kotka
 http://stream.bauermedia.fi/iskelma/ktk_64.aac
-#EXTINF:-1 tvg-logo="https://www.iskelma.fi/files/meta_images/iskelma-fb-cover.png" group-title="",Iskelmä - Kouvola
+#EXTINF:-1 tvg-logo="https://www.iskelma.fi/files/meta_images/iskelma-fb-cover.png" group-title="pop,hits",Iskelmä Kouvola
 http://stream.bauermedia.fi/iskelma/kvl_64.aac
-#EXTINF:-1 tvg-logo="https://www.iskelma.fi/files/meta_images/iskelma-fb-cover.png" group-title="",Iskelmä - Lahti
+#EXTINF:-1 tvg-logo="https://www.iskelma.fi/files/meta_images/iskelma-fb-cover.png" group-title="pop,hits",Iskelmä Lahti
 http://stream.bauermedia.fi/iskelma/lah_64.aac
-#EXTINF:-1 tvg-logo="https://www.iskelma.fi/files/meta_images/iskelma-fb-cover.png" group-title="",Iskelmä - Lappeenranta
+#EXTINF:-1 tvg-logo="https://www.iskelma.fi/files/meta_images/iskelma-fb-cover.png" group-title="pop,hits",Iskelmä Lappeenranta
 http://stream.bauermedia.fi/iskelma/lpr_64.aac
-#EXTINF:-1 tvg-logo="https://www.iskelma.fi/files/meta_images/iskelma-fb-cover.png" group-title="",Iskelmä - Mikkeli
+#EXTINF:-1 tvg-logo="https://www.iskelma.fi/files/meta_images/iskelma-fb-cover.png" group-title="pop,hits",Iskelmä Mikkeli
 http://stream.bauermedia.fi/iskelma/mli_64.aac
-#EXTINF:-1 tvg-logo="https://www.iskelma.fi/files/meta_images/iskelma-fb-cover.png" group-title="",Iskelmä - Tampere
+#EXTINF:-1 tvg-logo="https://www.iskelma.fi/files/meta_images/iskelma-fb-cover.png" group-title="pop,hits",Iskelmä Tampere
 http://stream.bauermedia.fi/iskelma/tre_64.aac
-#EXTINF:-1 tvg-logo="https://www.iskelma.fi/files/meta_images/iskelma-fb-cover.png" group-title="finnish",Iskelmä Oulu
+#EXTINF:-1 tvg-logo="https://www.iskelma.fi/files/meta_images/iskelma-fb-cover.png" group-title="pop,hits",Iskelmä Oulu
 http://stream.bauermedia.fi/iskelma/oul_64.aac
-#EXTINF:-1 tvg-logo="http://www.jarviradio.fi/wp-content/uploads/2016/11/logo.png" group-title="",Järviradio
+#EXTINF:-1 tvg-logo="http://www.jarviradio.fi/wp-content/uploads/2016/11/logo.png" group-title="20s,30s,40s,oldies",Järviradio
 http://radio2.6net.fi:8000/jarviradio2
-#EXTINF:-1 tvg-logo="https://jouluradio-wp.production.geniem.io/uploads/2018/10/958f57c7-jazzjoulu.svg" group-title="jazz",Jazzjoulu
+#EXTINF:-1 tvg-logo="https://jouluradio-wp.production.geniem.io/uploads/2018/10/958f57c7-jazzjoulu.svg" group-title="jazz,blues",Jazzjoulu
 https://server1.toivon.net/proxy/toivon_8_1?mp=/stream
-#EXTINF:-1 tvg-logo="https://jouluradio-wp.production.geniem.io/uploads/2018/08/596e2968-jouluradiofi.svg" group-title="",Jouluradio
+#EXTINF:-1 tvg-logo="https://jouluradio-wp.production.geniem.io/uploads/2018/08/596e2968-jouluradiofi.svg" group-title="christmas,holidays",Jouluradio 102.4
 https://server1.toivon.net/proxy/toivon_0_1?mp=/stream
-#EXTINF:-1 tvg-logo="https://jouluradio-wp.production.geniem.io/uploads/2018/08/9a35254a-julradion.svg" group-title="",Julradion
+#EXTINF:-1 tvg-logo="https://jouluradio-wp.production.geniem.io/uploads/2018/08/9a35254a-julradion.svg" group-title="swedish,student",Julradion
 https://server2.toivon.net/proxy/toivon_1_2?mp=/stream
-#EXTINF:-1 tvg-logo="http://www.kaaosradio.fi///favicon.png" group-title="electronic,hardcore,techno",Kaaosradio - 24h
+#EXTINF:-1 tvg-logo="http://www.kaaosradio.fi///favicon.png" group-title="electronic,hardcore,techno",Kaaosradio 24h
 http://stream.kaaosradio.fi:8000/stream
-#EXTINF:-1 tvg-logo="http://www.kaaosradio.fi///favicon.png" group-title="chillout,downtempo,electronic",Kaaosradio - 24h Chill
+#EXTINF:-1 tvg-logo="http://www.kaaosradio.fi///favicon.png" group-title="chillout,downtempo,electronic",Kaaosradio 24h Chill
 http://stream.kaaosradio.fi:8000/chill
-#EXTINF:-1 tvg-logo="https://www.kasariradio.fi/files/meta_images/kasari-fb-cover.png" group-title="",Kasari
+#EXTINF:-1 tvg-logo="https://www.kasariradio.fi/files/meta_images/kasari-fb-cover.png" group-title="80s,hits",Kasari
 https://stream.bauermedia.fi/kasari/kasari_64.aac
-#EXTINF:-1 tvg-logo="https://jouluradio-wp.production.geniem.io/uploads/2018/08/cc8ae5ce-kauneimmatjoululaulut.svg" group-title="",Kauneimmat joululaulut
+#EXTINF:-1 tvg-logo="https://jouluradio-wp.production.geniem.io/uploads/2018/08/cc8ae5ce-kauneimmatjoululaulut.svg" group-title="christmas,holidays",Kauneimmat joululaulut
 https://server2.toivon.net/proxy/toivon_2_2?mp=/stream
-#EXTINF:-1 tvg-logo="" group-title="",KISS
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/a5/1c/a51c60a8f0b5f79cc4b55a93f4a5e53b.jpg" group-title="pop,news,top 40",Kiss 104.6
 http://stream.bauermedia.fi/kiss/kiss_64.aac
-#EXTINF:-1 tvg-logo="https://jouluradio-wp.production.geniem.io/uploads/2018/08/6f161d7f-klassinenjoulu.svg" group-title="",Klassinen joulu
-https://server3.toivon.net/proxy/toivon_6_3?mp=/stream
-#EXTINF:-1 tvg-logo="https://komrad.live/details/favicon.ico" group-title="acid,breaks,drum & bass,electronic,garage,hip-hop,house,jungle,rave,techno",komrad
+#EXTINF:-1 tvg-logo="https://komrad.live/details/favicon.ico" group-title="drum'n'bass,electronic,garage",Kom Radio
 https://rad.komrad.live/radio/8000/radio.mp3
 #EXTINF:-1 tvg-logo="https://jouluradio-wp.production.geniem.io/uploads/2018/08/cd5ea2f2-lastenjouluradio.svg" group-title="christmas,joulu",Lasten jouluradio
 https://server1.toivon.net/proxy/toivon_3_1?mp=/stream
-#EXTINF:-1 tvg-logo="https://www.loop.fi/channel/logo-og.png" group-title="",Loop
+#EXTINF:-1 tvg-logo="https://www.loop.fi/channel/logo-og.png" group-title="hits,pop",Loop
 https://digitacdn.akamaized.net/hls/live/629243/loop/master-128000.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",NRJ Suomi
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s14839g.png" group-title="top 40,hits",NRJ Suomi 96.8
 http://stream.bauermedia.fi/nrj/nrj_128.mp3
-#EXTINF:-1 tvg-logo="" group-title="",Pasiradio
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Pasiradio_logo.png" group-title="talk,variety",Pasiradio 91.2
 http://releet.pasiradio.com:8002/main.mp3
 #EXTINF:-1 tvg-logo="https://jouluradio-wp.production.geniem.io/uploads/2018/10/09354ebe-pikkujouluradio.svg" group-title="christmas,joulu",Pikkujouluradio
 https://server2.toivon.net/proxy/toivon_4_2?mp=/stream
-#EXTINF:-1 tvg-logo="" group-title="",Radio 957
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/mPnRGbgBHc.png" group-title="rock,pop,news",Radio 957
 http://stream.bauermedia.fi/radio957/radio957_64.aac
-#EXTINF:-1 tvg-logo="https://www.radioaalto.fi/channel/logo-og.png" group-title="",Radio Aalto
-https://digitacdn.akamaized.net/hls/live/629243/radioaalto/master-128000.m3u8
-#EXTINF:-1 tvg-logo="https://radioplay.fi/tesla/static/favicons/radioplay-fi/apple-touch-icon.png" group-title="hip-hop,r&b,rap",Radio Basso
+#EXTINF:-1 tvg-logo="https://radioplay.fi/tesla/static/favicons/radioplay-fi/apple-touch-icon.png" group-title="hip hop,r'n'b,rap",Radio Basso
 https://stream.bauermedia.fi/basso/bassoradio_64.aac
-#EXTINF:-1 tvg-logo="https://www.radiocity.fi/files/meta_images/radiocity-fb-cover.png" group-title="",Radio City - Kouvola
+#EXTINF:-1 tvg-logo="https://www.radiocity.fi/files/meta_images/radiocity-fb-cover.png" group-title="sports,hits,news",Radio City Kouvola
 http://stream.bauermedia.fi/radiocity/kvl_64.aac
-#EXTINF:-1 tvg-logo="https://www.radiocity.fi/files/meta_images/radiocity-fb-cover.png" group-title="",Radio City - Oulu
+#EXTINF:-1 tvg-logo="https://www.radiocity.fi/files/meta_images/radiocity-fb-cover.png" group-title="sports,hits,news",Radio City Oulu
 http://stream.bauermedia.fi/radiocity/oul_64.aac
-#EXTINF:-1 tvg-logo="https://www.radiocity.fi/files/meta_images/radiocity-fb-cover.png" group-title="",Radio City - Tampere
+#EXTINF:-1 tvg-logo="https://www.radiocity.fi/files/meta_images/radiocity-fb-cover.png" group-title="sports,hits,news",Radio City Tampere
 http://stream.bauermedia.fi/radiocity/tre_64.aac
-#EXTINF:-1 tvg-logo="https://www.radiocity.fi/files/meta_images/radiocity-fb-cover.png" group-title="",Radio City - Turku
+#EXTINF:-1 tvg-logo="https://www.radiocity.fi/files/meta_images/radiocity-fb-cover.png" group-title="sports,hits,news",Radio City Turku
 http://stream.bauermedia.fi/radiocity/tku_64.aac
-#EXTINF:-1 tvg-logo="https://assets.planetradio.co.uk/img/ConfigWebListenBarLogoImageUrl/463.png?ver=1583241345" group-title="classical,classical music",Radio Classic 128kbps
+#EXTINF:-1 tvg-logo="https://assets.planetradio.co.uk/img/ConfigWebListenBarLogoImageUrl/463.png?ver=1583241345" group-title="jazz,folk,classic",Radio Classic 92.2
 https://stream.bauermedia.fi/classic/classic_128.mp3
-#EXTINF:-1 tvg-logo="http://www.radiodei.fi/wp-content/uploads/2016/05/default.png" group-title="",Radio Dei
+#EXTINF:-1 tvg-logo="http://www.radiodei.fi/wp-content/uploads/2016/05/default.png" group-title="talk,christian,gospel",Radio Dei 89.0
 http://isojako.radiodei.fi:8000/yleisohjelma
-#EXTINF:-1 tvg-logo="http://www.radiodei.fi/wp-content/uploads/2016/05/default.png" group-title="",Radio Dei Helsinki
+#EXTINF:-1 tvg-logo="http://www.radiodei.fi/wp-content/uploads/2016/05/default.png" group-title="talk,christian,gospel",Radio Dei Helsinki
 http://isojako.radiodei.fi:8000/helsinki
 #EXTINF:-1 tvg-logo="http://www.radiodei.fi/wp-content/uploads/2016/05/default.png" group-title="",Radio Dei Kemi
 http://isojako.radiodei.fi:8000/tornio
