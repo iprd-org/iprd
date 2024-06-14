@@ -189,31 +189,29 @@ http://yleuni-f.akamaihd.net/i/yleliveradiohd_10@113887/master.m3u8
 http://yleuni-f.akamaihd.net/i/yleliveradiohd_3@113880/master.m3u8
 #EXTINF:-1 tvg-logo="https://images.cdn.yle.fi/f_auto,w_48,h_48,dpr_4.0/v1496664710/yle-areena-app.png" group-title="public,culture,news",YLE Radio Suomi Joensuu 106.9
 http://yleuni-f.akamaihd.net/i/yleliveradiohd_11@113888/master.m3u8
-#EXTINF:-1 tvg-logo="https://yle.fi/favicon.ico?v=2012" group-title="",YLE Radio Suomi - Jyväskylä
+#EXTINF:-1 tvg-logo="https://yle.fi/favicon.ico?v=2012" group-title="news,talk",YLE Radio Suomi Jyväskylä 99.3
 https://yleuni-f.akamaihd.net/i/yleliveradiohd_12@113889/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Ylen_logo.svg/280px-Ylen_logo.svg.png" group-title="",YLE Radio Suomi - Kotka
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Ylen_logo.svg/280px-Ylen_logo.svg.png" group-title="news,talk",YLE Radio Suomi Kotka 96.9
 http://yleuni-f.akamaihd.net/i/yleliveradiohd_16@113893/master.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.yle.fi/f_auto,w_48,h_48,dpr_4.0/v1496664710/yle-areena-app.png" group-title="",Yle Radio Suomi - Pohjanmaa
+#EXTINF:-1 tvg-logo="https://images.cdn.yle.fi/f_auto,w_48,h_48,dpr_4.0/v1496664710/yle-areena-app.png" group-title="news,talk",YLE Radio Suomi Pohjanmaa 94.8
 http://icecast.live.yle.fi/radio/YlePohjanmaa/icecast.audio
-#EXTINF:-1 tvg-logo="https://yle.fi/favicon.ico?v=2012" group-title="",YLE Radio Suomi - Tampere
+#EXTINF:-1 tvg-logo="https://yle.fi/favicon.ico?v=2012" group-title="news,talk",YLE Radio Suomi Tampere 99.9
 https://yleuni-f.akamaihd.net/i/yleliveradiohd_26@113903/index_128_a-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://yle.fi/uutiset/assets/img/touch-icons/120px.png" group-title="",YLE Radio Suomi - Tampere
+#EXTINF:-1 tvg-logo="https://yle.fi/uutiset/assets/img/touch-icons/120px.png" group-title="news,talk",YLE Radio Suomi Tampere 99.9
 https://yleuni-f.akamaihd.net/i/yleliveradiohd_26@113903/master.m3u8
-#EXTINF:-1 tvg-logo="https://yle.fi/favicon.ico?v=2012" group-title="",YLE Radio Suomi - Turku
+#EXTINF:-1 tvg-logo="https://yle.fi/favicon.ico?v=2012" group-title="news,talk",YLE Radio Suomi Turku 94.3
 https://yleuni-f.akamaihd.net/i/yleliveradiohd_27@113904/index_128_a-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://yle.fi/favicon.ico?v=2012" group-title="m3u8,public radio",Yle Radio Suomi Lappeenranta
+#EXTINF:-1 tvg-logo="https://yle.fi/favicon.ico?v=2012" group-title="news,talk",YLE Radio Suomi Lappeenranta 98.5
 https://yleuni-f.akamaihd.net/i/yleliveradiohd_19@113896/index_128_a-p.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.yle.fi/f_auto,w_48,h_48,dpr_4.0/v1496664710/yle-areena-app.png" group-title="",Yle Radio Suomi Rovaniemi
+#EXTINF:-1 tvg-logo="https://images.cdn.yle.fi/f_auto,w_48,h_48,dpr_4.0/v1496664710/yle-areena-app.png" group-title="news,talk",YLE Radio Suomi Rovaniemi 96.7
 https://yleuni-f.akamaihd.net/i/yleliveradiohd_22@113899/index_128_a-p.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Ylen_logo.svg/280px-Ylen_logo.svg.png" group-title="m3u8",YLE Radio Vega
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Ylen_logo.svg/280px-Ylen_logo.svg.png" group-title="world,news",YLE Radio Vega 102.4
 http://yleuni-f.akamaihd.net/i/yleliveradiohd_7@113884/master.m3u8
-#EXTINF:-1 tvg-logo="http://livetaajuus.fi/media/logos/yle-sami-radio.png" group-title="m3u8,public",Yle Sámi Radio
-http://yleuni-f.akamaihd.net/i/yleliveradiohd_33@113910/master.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.yle.fi/image/upload/d_yle-areena.jpg,f_auto,fl_lossy,q_auto:eco/v1574338072/13-30-546-1574338071947.jpg" group-title="local news,news",Yle Vega Österbotten
+#EXTINF:-1 tvg-logo="https://images.cdn.yle.fi/image/upload/d_yle-areena.jpg,f_auto,fl_lossy,q_auto:eco/v1574338072/13-30-546-1574338071947.jpg" group-title="talk,news",YLE Vega Österbotten 101.0
 http://yleuni-f.akamaihd.net/i/yleliveradiohd_31@113908/master.m3u8
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/b/b5/YLE_X3M.png" group-title="eclectic,m3u8",YLE X3M
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/b/b5/YLE_X3M.png" group-title="eclectic,youth",YLE X3M
 http://yleuni-f.akamaihd.net/i/yleliveradiohd_6@113883/master.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.yle.fi/f_auto,w_48,h_48,dpr_4.0/v1496664710/yle-areena-app.png" group-title="eclectic,m3u8",YleX
+#EXTINF:-1 tvg-logo="https://images.cdn.yle.fi/f_auto,w_48,h_48,dpr_4.0/v1496664710/yle-areena-app.png" group-title="eclectic,youth",YLEX
 http://yleuni-f.akamaihd.net/i/yleliveradiohd_2@113879/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.ysariradio.fi/files/meta_images/ysari-fb-cover.png" group-title="",Ysäri
+#EXTINF:-1 tvg-logo="https://www.ysariradio.fi/files/meta_images/ysari-fb-cover.png" group-title="90s,hits",Ysäri
 https://stream.bauermedia.fi/ysari/ysari_64.aac
