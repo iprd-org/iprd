@@ -449,6 +449,8 @@ http://radio.rim952.fr:8002/stream3.mp3
 http://radio.rim952.fr:8001/stream.ogg
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e3/RIM.jpg" group-title="ambient,chillout",Radio Ici et Maintenant !
 http://radio.rim952.fr:8000/stream.mp3
+#EXTINF:-1 tvg-logo="https://pitchoun-medias.fr/upload/players/6461ec372287c0.16060704.png" group-title="music,childrens music",Radio Pitchoun
+https://webradio.tvradio-pitchoun.fr:8443/radiopitchoun.aac
 #EXTINF:-1 tvg-logo="https://idfm98.fr/wp-content/uploads/2022/07/logo-idfm-violet-300x300.png" group-title="community radio,talk",idFM
 http://live.idfm98.fr:8000/idfm
 #EXTINF:-1 tvg-logo="http://www.impactfm.fr/wp-content/uploads/2014/07/favicon.png" group-title="chanson francaise,oldies",Impact FM
