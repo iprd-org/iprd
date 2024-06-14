@@ -1,7 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://radiog6.cz/wp-content/uploads/2021/11/logo-3-1.jpg" group-title="blues,rock",Blues Rock Radio
-https://mpc.mediacp.eu/stream/bluesrock
-#EXTINF:-1 tvg-logo="https://southseasbroadcasting.com/wp-content/uploads/2019/03/32.png" group-title="hot,adult,contemporary,top 40",KKHJ 93.1
-http://ice9.securenetsystems.net/KKHJ
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/62/e0/62e0d954f4d8875ad915198c8de35261.jpg" group-title="easy listening,jazz",KSBS 92.1 CH2 Island Groove
-https://18093.live.streamtheworld.com/SP_R3429070.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R3429070.mp3
