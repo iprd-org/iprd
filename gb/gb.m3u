@@ -315,11 +315,11 @@ http://live-bauer-al.sharp-stream.com/downtown.mp3
 http://icecast.easystream.co.uk:8000/drive105
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE5ebUpkMMcdrXfGrVtttIb8LgNn1holxjHP3ivmEaVHHdhQsPxbTwXyiz1zSunFLQVhg&usqp=CAU" group-title="rock,hits",Driving Songs
 https://hls-prem.planetradio.co.uk/pr_webcast16.aac/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.dubterrain.net/themes/dubterrain/assets/dubterrain/apple-touch-icon.png" group-title="dub,dubstep",DubTerrain
+#EXTINF:-1 tvg-logo="http://www.dubterrain.net/themes/dubterrain/assets/dubterrain/apple-touch-icon.png" group-title="dance,dubstep",DubTerrain
 http://ic2255.c471.fast-serv.com/listen
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/879/ekr-easy-rock-paradise.5e1b2831.png" group-title="classic,rock,soft",Easy Rock Paradise
 http://www.easyrockparadise.com:8300/listen.pls
-#EXTINF:-1 tvg-logo="https://www.edgeradio.co.uk/wp-content/uploads/2020/06/cropped-er-site-icon-180x180.png" group-title="dance,hiphop,hits",Edge Radio
+#EXTINF:-1 tvg-logo="https://www.edgeradio.co.uk/wp-content/uploads/2020/06/cropped-er-site-icon-180x180.png" group-title="dance,hip hop,hits",Edge Radio
 https://s5.radio.co/s813789af2/listen
 #EXTINF:-1 tvg-logo="http://ekrdigital.com/wp-content/themes/ekr-digital-radio/img/icons/rock-radio_72.png" group-title="easy,rock,melodic",EKR Easy Rock Paradise
 http://ekrrockradio2.scs.ms:8200/listen.pls
@@ -343,111 +343,105 @@ http://stream01.erewashsound.com/erewashaac
 https://streaming.exclusive.radio/er/ericclapton/icecast.audio
 #EXTINF:-1 tvg-logo="http://www.eruptionradio.uk/site/wp-content/uploads/2019/12/fav1.jpg" group-title="drum'n'bass,garage",Eruption
 http://streaming01.zfast.co.uk:8116/listen.pls
-#EXTINF:-1 tvg-logo="" group-title="gaming",EVE-Radio
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/5U4Yq2P8Zw.png" group-title="gaming,soundtracks",EVE Radio
 http://stream.evehost.net:8000/listen.pls
-#EXTINF:-1 tvg-logo="https://ewtn.co.uk/wp-content/uploads/2020/06/LogoSlimLight78.png" group-title="catholic,christian,tv",EWTN Great Britain TV
-https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/byyfhl2b/1152/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.nts.live/favicon.ico" group-title="jazz",Expansions | NTS
+#EXTINF:-1 tvg-logo="https://www.nts.live/favicon.ico" group-title="jazz,blues",NTS Expansions
 https://stream-mixtape-geo.ntslive.net/mixtape3
-#EXTINF:-1 tvg-logo="https://mm.aiircdn.com/41/5d385f28046be.png" group-title="",express fm
+#EXTINF:-1 tvg-logo="https://mm.aiircdn.com/41/5d385f28046be.png" group-title="community,top 40",Express FM 93.7
 http://stream.expressfm.com/expressfm.mp3
-#EXTINF:-1 tvg-logo="https://mm.aiircdn.com/41/5d385f28046be.png" group-title="community radio,portsmouth",Express FM 93.7 Portsmouth
+#EXTINF:-1 tvg-logo="https://mm.aiircdn.com/41/5d385f28046be.png" group-title="community,top 40",Express FM 93.7
 http://london-ics01.broadcast.meteoric.net/expressfm.mp3?.mp3
-#EXTINF:-1 tvg-logo="http://www.fantasyradio.co.uk/files/9414/1236/5176/fbthumb.png" group-title="commercial,pop",Fantasy Radio 97.0 - Devizes
+#EXTINF:-1 tvg-logo="http://www.fantasyradio.co.uk/files/9414/1236/5176/fbthumb.png" group-title="hits,pop",Fantasy Radio 97.0
 http://server.fantasyradio.co.uk:8300/;stream/1
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1126732968989356032/gZg6HojG_400x400.jpg" group-title="guitar rock,rock",Feedback Radio
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1126732968989356032/gZg6HojG_400x400.jpg" group-title="guitar,rock",Feedback Radio
 https://streaming02.zfast.co.uk/proxy/feedback?mp=/stream?ver=316427
-#EXTINF:-1 tvg-logo="https://www.nts.live/favicon.ico" group-title="boogie,disco,doo-wop,gospel,soul",Feelings | NTS
+#EXTINF:-1 tvg-logo="https://www.nts.live/favicon.ico" group-title="boogie,disco,doo wop",NTS Feelings
 https://stream-mixtape-geo.ntslive.net/mixtape27
-#EXTINF:-1 tvg-logo="https://www.felixstoweradio.org.uk/wp-content/uploads/2019/07/cropped-felixstowe_logo_hd_hut-180x180.png" group-title="community,community news,community radio,local,local news,local radio,local talk",Felixstowe Radio
+#EXTINF:-1 tvg-logo="https://www.felixstoweradio.org.uk/wp-content/uploads/2019/07/cropped-felixstowe_logo_hd_hut-180x180.png" group-title="community,news,talk",Felixstowe Radio
 https://feed.felixstoweradio.co.uk/FXR?1579127840233
-#EXTINF:-1 tvg-logo="" group-title="community",Fenland Youth Radio
+#EXTINF:-1 tvg-logo="https://lirp.cdn-website.com/546fca48/dms3rep/multi/opt/th-removebg-preview-640w.png" group-title="community,youth",Fenland Youth Radio
 https://streaming.broadcastradio.com:10445/youngtech
-#EXTINF:-1 tvg-logo="https://www.nts.live/favicon.ico" group-title="field recording",Field Recordings | NTS
+#EXTINF:-1 tvg-logo="https://www.nts.live/favicon.ico" group-title="ambient,relax",NTS Field Recordings
 https://stream-mixtape-geo.ntslive.net/mixtape23
-#EXTINF:-1 tvg-logo="" group-title="",First FM 105,1 Oxford
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s166628/images/logog.jpg?t=151688" group-title="pop,news,talk",First FM 105.1
 http://stream.firstfm.uk:8000/first1
-#EXTINF:-1 tvg-logo="https://flexfm.co.uk/favicon.ico" group-title="drum and bass,electronic,house,jungle,techno,uk garage",Flex FM
+#EXTINF:-1 tvg-logo="https://flexfm.co.uk/favicon.ico" group-title="drum'n'bass,electronic,house",Flex FM
 http://142.4.215.64:8116/stream
-#EXTINF:-1 tvg-logo="http://www.forestfm.co.uk/images/layout/header-logo.jpg" group-title="community radio,east dorset,verwood",Forest FM 92.3 - Verwood
+#EXTINF:-1 tvg-logo="http://www.forestfm.co.uk/images/layout/header-logo.jpg" group-title="community,adult,hits",Forest FM 92.3
 http://195.10.228.4:8000/forestfm.mp3
-#EXTINF:-1 tvg-logo="https://planetradio.co.uk/tesla/static/favicons/bcn-1/apple-touch-icon.png" group-title="pop",Forth 1
+#EXTINF:-1 tvg-logo="https://planetradio.co.uk/tesla/static/favicons/bcn-1/apple-touch-icon.png" group-title="pop,hits",Forth 1
 https://stream-al.planetradio.co.uk/forth1.aac?direct=true&listenerid=undefined&amsparams=playerid:BMUK_html5;skey:1547375747;&awparams=loggedin:false;&aw_0_req.gdpr=true
-#EXTINF:-1 tvg-logo="https://foundation.fm/images/favicon/apple-touch-icon.png" group-title="community radio,electronic,hip-hop,indie,jazz",Foundation FM
+#EXTINF:-1 tvg-logo="https://foundation.fm/images/favicon/apple-touch-icon.png" group-title="community,electronic,hip hop",Foundation FM
 https://streamer.radio.co/s0628bdd53/listen
-#EXTINF:-1 tvg-logo="https://planetradio.co.uk/tesla/static/favicons/free/favicon.ico" group-title="freeradio,worcester,worcestershire",Free Radio (Herefordshire & Worcestershire)
+#EXTINF:-1 tvg-logo="https://planetradio.co.uk/tesla/static/favicons/free/favicon.ico" group-title="free,community",Free Radio
 https://stream-al.planetradio.co.uk/freehereford.aac?direct=true&amp;listenerid=2b2084d0cd062dc60cf4c5ff7904eea5&amp;aw_0_1st.bauer_listenerid=2b2084d0cd062dc60cf4c5ff7904eea5&amp;amsparams=playerid:BMUK_html5;skey:1618529376;&amp;aw_0_1st.playerid=BMUK_html5&amp;aw_0_1st.skey=1618529376&amp;aw_0_1st.bauer_loggedin=false&amp;awparams=loggedin:false;&amp;aw_0_req.userConsentV2=CPEt_rXPEt_rXAGABCENBWCsAP_AAAAAAAwIHANf_X_fb3_D-_59_9t0eY1f9_7_v-0zjgeds-8Nyd_X_L8X_2M7vB36pq4KuR4Eu3LBAQdlHOHcTQmQ6IkVqTPsbk2Mr7NKJ7PEilMbe2dYGH9_n9XT_ZKY79_____7__-_____77f__-__3_vp9UgEAAACQyA0ABQAIYATAAuACOAGWANQAdkA-wD8AIwARwApYBVwCtgG8ATEAmwBaIC2AF5gMCAYeAyIBnIDPAGfDABIA2gB4AFiAOqAj0BJwC6AF5ANCEQHwArABcAEMAMgAZYA1ABsgDsAH4AQAAjABSwCngFXANYAdUA-QCGwEOgIvASIAmwBOwCkQFyAMCAYSAw8Bk4DOQGfCAAgBvAF0ANCAboEgqAAIAAXABQAFQAMgAcgA8AEAAIgAYAA0AB5AEMARQAmABPgCqAKwAWAAuABvADmAHoAQgAhoBEAESAI6ASwBLgCaAFKALcAYYAyABlwDUANUAbIA7wB7AD4gH2AfoBAICLgIwARoAjgBKQCggFLAKeAVcAuYBfgDFAGsANoAbgA3gB6AD5AIbAQ6Ai8BIgCYgEygJsATsAocBSICxQFoALYAXIAu8BeYDAgGDAMJAYaAw8BkQDJAGTgMuAZyAz4BpADToGsAayEAQwAOAA8AP4AigBIgDNAG0AOcAdQBAwCDgE_AKGAaIA6oCHwEegJWATaAsIBdAC6gF2gLyAYgAxYBkIDIwGhANGAaUA1MBtwDdA0CUAKwAXABDADIAGWANQAbIA7AB-AEAAIKARgApYBTwCrwFoAWkA1gBvADqgHyAQ2Ah0BFQCLwEiAJsATsApEBcgDAgGEgMPAYwAycBnIDPAGfBgA4BsgDqALoAX0AyMBoQDdBUB0ACgAQwAmABcAEcAMsAagA7AB-AEYAI4AUsAq8BaAFpAN4AkEBMQCbAFNgLYAXIAvMBgQDDwGRAM5AZ4Az4BuQoASANoAeABBQDqgI9AXQAvoBoQDXh0GgABcAFAAVAAyAByAD4AQAAiABdADAAMQAaAA8AB9AEMARQAmABPgCqAKwAWAAuABfADEAGYAN4AcwA9ACEAENAIgAiQBHQCWAJgATQAowBSgCxAFvAMIAwwBkADKAGiANQAbIA3wB3gD2gH2AfoA_wCBwEWARgAjkBKQEqAKCAU8Aq4BYoC0ALSAXMAuoBeQC_AGKAMyAbQA3EB0wHUAPQAhsBDoCIgEVAIvASCAkQBKgCbAE7AKHAU0AqwBYoC0AFrQLYAtkBcAC5AF2gLvAXmAwYBhIDDQGHgMSAYwAx4BkgDJwGVAMuAZyAz4BokDSANJAaWA04BrADYxwEUABEADgAPAAuADkAH4AZAA0AB_AEUAJEAWYAywBmgDaAHOAOoAdgA7gCAAEFgIOAhABEQCbQE-AT8ApYBUAC9AGBANYAbwA44B0gDqgHkAPkAhABD4CPYErASuAmKBMgEygJtAUKApABSYCmAFTAKqAVsArsBZQC1AFxQLoAuoBfQDAgGIAMWAZCAy8BoUDRQNGAaUA00BqYDXgG0gNsAbcQgfAALAAoABkAEQALgAYgBDACYAFUALgAXwAxABmADeAHoARwAsQBhADKAGoAN8Ad8A-wD8AH-ARgAjgBKQCggFDAKeAVeAtAC0gFzAL8AYoAzIBtADqAHoASCAkQBKgCbAFNALFAWiAtaBbAFtALgAXIAu0Bh4DEgGRAMnAZyAzwBnwDRAGkgNLAcAQASgAIAB-AGgAP4AkQBlgDaAHOAOwAeABBQCfAFLALEAbwA6oB2wEPgI9AScAlcBMQCbQFCgKQAUmArYBdAC8gF9AMCAaEA0UBpQDUwG2ANuJQOgAEAALAAoABkADgAIoAYABiADwAIgATAAqgBcAC-AGIAMwAbQBCACGgEQARIAjgBRgClAFuAMIAZQA1QBsgDvAH4ARgAjgBTwCrwFoAWkAuoBigDcAHUAPkAh0BFQCLwEiAJsAWKAtYBbAC7QF5gMPAZEAycBnIDPAGfANIAawA4AkAdAAcABcAEIAOQAyACRAFyAMsAagA2gB3AEAAISAT4AqABvADqgH2AR6AlYBNoCkwFlALoAX0AxYBoQDSgG5FIJYAC4AKAAqABkADkAHwAgABFADAAMQAaAA8gCGAIoATAAngBSACqAFgALgAXwAxABmADmAIQAQ0AiACJAFGAKUAWIAtwBhADKAGiANUAbIA74B9gH6ARYAjABHACUgFBAKGAVcArYBcwC8gG0ANwAegBDoCLwEiAJsATsAocBTQCtgFigLWAWwAuABcgC7QF5gMNAYeAxgBkQDJAGTgMuAZyAzwBn0DSANJgawBrIDYygDUAC4AIQAcgA_ACsAGQANoAjgBIgC5AGWANQAa4A2gBzgDqAHcAPAAgABCQCKgEiAJtAT4BPwClgFiALqAYoA3gB1QDtgHkAP-Aj0BMQCZQE2gKQAUwAqYBXYC0AF0ALyAX0AwIBiwDQgGiANKAabA1IDUwGvAAA.YAAAAAAAAAAA
-#EXTINF:-1 tvg-logo="" group-title="pop",FRESH GOLD RADIO
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s162077/images/logog.png?t=161798" group-title="pop,70s,80s",Fresh Gold Radio
 http://live.rcast.net:8084/;stream.mp3
-#EXTINF:-1 tvg-logo="https://www.freshradiouk.co.uk/wp-content/uploads/favicon.ico" group-title="adult contemporary,adult hits,chillout,dance,house,pop dance",Fresh Radio
+#EXTINF:-1 tvg-logo="https://www.freshradiouk.co.uk/wp-content/uploads/favicon.ico" group-title="adult,contemporary,hits",Fresh Radio
 https://stream.freshradiouk.co.uk/freshradio
-#EXTINF:-1 tvg-logo="http://frome.fm/favicon.ico" group-title="community radio,frome",Frome FM 96.6
+#EXTINF:-1 tvg-logo="http://frome.fm/favicon.ico" group-title="community,youth",Frome FM 96.6
 http://icecast.bargus.co.uk:8001/fromefm.mp3
-#EXTINF:-1 tvg-logo="https://full.fm/wp-content/uploads/2020/08/Polskie-Radio-FullFM-logo-700x300-czarna-obwodka.jpg" group-title="general",Full fm
-http://s2.radio.co/s482ce1755/listen#.mp3
-#EXTINF:-1 tvg-logo="" group-title="disco,funk,funk2disco,radio,station",FUNK2DISCO
+#EXTINF:-1 tvg-logo="https://uk.radio.net/images/broadcasts/02/e6/35404/1/c300.png" group-title="disco,funk",Funk2Disco
 http://funk2disco.stream.laut.fm/funk2disco?t302=2021-12-21_03-42-21&uuid=657dc3bd-466a-4e57-a625-71729bb4f30f
 #EXTINF:-1 tvg-logo="https://laut.fm//assets/touch-icons/favicon-16x16.png" group-title="disco,funk",Funk2Disco
 http://funk2disco.stream.laut.fm/funk2disco?t302=2019-10-08_17-09-47&uuid=242e4734-ae25-4995-bf64-11ae6ab5a169
-#EXTINF:-1 tvg-logo="http://www.funkerfm.uk/favicon.ico" group-title="world music",FUNKERFM
+#EXTINF:-1 tvg-logo="http://www.funkerfm.uk/favicon.ico" group-title="world,variety",Funker FM
 http://167.114.131.90:5968/ffm
-#EXTINF:-1 tvg-logo="" group-title="70s,80s,disco,funk,jazz,rare groove,soul",FunkURadio
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/519839160/FunkURadioLogo_400x400.jpg" group-title="70s,80s,disco",FunkURadio
 https://furfmcou.radioca.st/stream
-#EXTINF:-1 tvg-logo="http://futuredrumz.com/wp-content/uploads/2016/06/13524566_1153792594641554_6599506576294728056_n.jpg" group-title="drumn bass,jungle,neurofunk,techstep",FuturedrumZ
+#EXTINF:-1 tvg-logo="http://futuredrumz.com/wp-content/uploads/2016/06/13524566_1153792594641554_6599506576294728056_n.jpg" group-title="drum'n'bass,jungle,neurofunk",FuturedrumZ
 http://5.39.71.159:8625/stream
-#EXTINF:-1 tvg-logo="" group-title="",Gaydio
+#EXTINF:-1 tvg-logo="https://mmo.aiircdn.com/20/664b74c8921af.png" group-title="dance,house,pop",Gaydio
 http://stream.gaydio.co.uk/gaydionwhq.mp3
-#EXTINF:-1 tvg-logo="https://c.aiircdn.com/favicons/20.ico" group-title="",Gaydio Brighton
+#EXTINF:-1 tvg-logo="https://c.aiircdn.com/favicons/20.ico" group-title="dance,house,pop",Gaydio Brighton
 http://stream.gaydio.co.uk/gaydiosc.mp3
-#EXTINF:-1 tvg-logo="https://planetradio.co.uk/tesla/static/favicons/gem-106/apple-touch-icon.png" group-title="bauer radio,hot adult contemporary",Gem 106
+#EXTINF:-1 tvg-logo="https://planetradio.co.uk/tesla/static/favicons/gem-106/apple-touch-icon.png" group-title="hot,adult,contemporary",Gem 106
 http://live-bauer-al.sharp-stream.com/gem106.mp3
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8rzWPTm9oTwFz3zMiPwyRp8chEqGeJgenw9tyIAsT9g&s" group-title="pop,rock",Get Ready To Rock!
 http://streamer.radio.co/s24ae1285c/listen
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s193288d.png" group-title="classic jazz,jazz",Giants of Jazz Radio
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s193288d.png" group-title="classic,jazz",Giants of Jazz Radio
 http://streaming.radio.co/s297e618a7/listen
-#EXTINF:-1 tvg-logo="http://www.glastonburyfm.co.uk/wp/wp-content/themes/gfm/img/GFM1071.png" group-title="community radio,freeform,glastonbury,indie",Glastonbury FM "GFM" 107.1
+#EXTINF:-1 tvg-logo="http://www.glastonburyfm.co.uk/wp/wp-content/themes/gfm/img/GFM1071.png" group-title="community,freeform,indie",Glastonbury FM 107.1
 http://live.canstream.co.uk:8000/glastonburyfm.mp3
-#EXTINF:-1 tvg-logo="https://mm.aiircdn.com/382/596916dce017a.png" group-title="",GLOSS FM
+#EXTINF:-1 tvg-logo="https://mm.aiircdn.com/382/596916dce017a.png" group-title="top 40,charts,pop",GLOSS FM
 http://s42.myradiostream.com:29400/
-#EXTINF:-1 tvg-logo="" group-title="",Gold
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s45622/images/logog.jpg?t=347" group-title="classic,hits,oldies",Gold 1548
 https://media-ssl.musicradio.com/Gold
-#EXTINF:-1 tvg-logo="https://www.mygoldmusic.co.uk/assets_v4r/gold/img/favicon-196x196.png" group-title="classic hits,national,oldies,public radio,variety",Gold
+#EXTINF:-1 tvg-logo="https://www.mygoldmusic.co.uk/assets_v4r/gold/img/favicon-196x196.png" group-title="classic,hits,oldies",Gold 1548
 https://media-ssl.musicradio.com/GoldMP3
-#EXTINF:-1 tvg-logo="http://www.mygoldmusic.co.uk/assets_v4r/gold/img/favicon-196x196.png" group-title="classic hits,london,oldies",Gold AM 1548 London
+#EXTINF:-1 tvg-logo="http://www.mygoldmusic.co.uk/assets_v4r/gold/img/favicon-196x196.png" group-title="classic,hits,oldies",Gold 1548
 http://media-ice.musicradio.com/GoldMP3
-#EXTINF:-1 tvg-logo="https://www.mygoldmusic.co.uk/assets_v4r/gold/img/favicon-196x196.png" group-title="",Gold London
+#EXTINF:-1 tvg-logo="https://www.mygoldmusic.co.uk/assets_v4r/gold/img/favicon-196x196.png" group-title="classic,hits,oldies",Gold 1548
 https://media-ssl.musicradio.com/Gold?isLoggedIn=false&dax_version=release_2019&dax_player=GlobalPlayer&dax_platform=Web&aisDelivery=streaming&listenerid=1612127423858_0.6253666805372976&aw_0_1st.playerid=GlobalPlayer&aw_0_1st.skey=1612127423&aw_0_req.userConsentV2=CPA5x3uPA5x3uAGABCENBLCgAAAAAAAAAATIAAAAAAAA.YAAAAAAAAAAA
-#EXTINF:-1 tvg-logo="https://goldmine.fm/favicon.ico" group-title="oldies",Goldmine
-http://streamer.radio.co/s5330d9b6a/listen
-#EXTINF:-1 tvg-logo="https://planetradio.co.uk/tesla/static/favicons/greatest-hits/apple-touch-icon.png" group-title="pop",Greatest Hits Bath & South West
+#EXTINF:-1 tvg-logo="https://planetradio.co.uk/tesla/static/favicons/greatest-hits/apple-touch-icon.png" group-title="pop,hits",Greatest Hits Bath and South West
 https://stream-mz.planetradio.co.uk/net2bath.aac
-#EXTINF:-1 tvg-logo="https://planetradio.co.uk/tesla/static/favicons/greatest-hits/apple-touch-icon.png" group-title="hits,worcester",Greatest Hits Radio (Hereford & Worcester)
+#EXTINF:-1 tvg-logo="https://planetradio.co.uk/tesla/static/favicons/greatest-hits/apple-touch-icon.png" group-title="hits,pop",Greatest Hits Radio
 https://stream-mz.planetradio.co.uk/net2worcester.aac?direct=true&amp;listenerid=2b2084d0cd062dc60cf4c5ff7904eea5&amp;aw_0_1st.bauer_listenerid=2b2084d0cd062dc60cf4c5ff7904eea5&amp;amsparams=playerid:BMUK_html5;skey:1618529766;&amp;aw_0_1st.playerid=BMUK_html5&amp;aw_0_1st.skey=1618529766&amp;aw_0_1st.bauer_loggedin=false&amp;awparams=loggedin:false;&amp;aw_0_req.userConsentV2=CPEt_rXPEt_rXAGABCENBWCsAP_AAAAAAAwIHANf_X_fb3_D-_59_9t0eY1f9_7_v-0zjgeds-8Nyd_X_L8X_2M7vB36pq4KuR4Eu3LBAQdlHOHcTQmQ6IkVqTPsbk2Mr7NKJ7PEilMbe2dYGH9_n9XT_ZKY79_____7__-_____77f__-__3_vp9UgEAAACQyA0ABQAIYATAAuACOAGWANQAdkA-wD8AIwARwApYBVwCtgG8ATEAmwBaIC2AF5gMCAYeAyIBnIDPAGfDABIA2gB4AFiAOqAj0BJwC6AF5ANCEQHwArABcAEMAMgAZYA1ABsgDsAH4AQAAjABSwCngFXANYAdUA-QCGwEOgIvASIAmwBOwCkQFyAMCAYSAw8Bk4DOQGfCAAgBvAF0ANCAboEgqAAIAAXABQAFQAMgAcgA8AEAAIgAYAA0AB5AEMARQAmABPgCqAKwAWAAuABvADmAHoAQgAhoBEAESAI6ASwBLgCaAFKALcAYYAyABlwDUANUAbIA7wB7AD4gH2AfoBAICLgIwARoAjgBKQCggFLAKeAVcAuYBfgDFAGsANoAbgA3gB6AD5AIbAQ6Ai8BIgCYgEygJsATsAocBSICxQFoALYAXIAu8BeYDAgGDAMJAYaAw8BkQDJAGTgMuAZyAz4BpADToGsAayEAQwAOAA8AP4AigBIgDNAG0AOcAdQBAwCDgE_AKGAaIA6oCHwEegJWATaAsIBdAC6gF2gLyAYgAxYBkIDIwGhANGAaUA1MBtwDdA0CUAKwAXABDADIAGWANQAbIA7AB-AEAAIKARgApYBTwCrwFoAWkA1gBvADqgHyAQ2Ah0BFQCLwEiAJsATsApEBcgDAgGEgMPAYwAycBnIDPAGfBgA4BsgDqALoAX0AyMBoQDdBUB0ACgAQwAmABcAEcAMsAagA7AB-AEYAI4AUsAq8BaAFpAN4AkEBMQCbAFNgLYAXIAvMBgQDDwGRAM5AZ4Az4BuQoASANoAeABBQDqgI9AXQAvoBoQDXh0GgABcAFAAVAAyAByAD4AQAAiABdADAAMQAaAA8AB9AEMARQAmABPgCqAKwAWAAuABfADEAGYAN4AcwA9ACEAENAIgAiQBHQCWAJgATQAowBSgCxAFvAMIAwwBkADKAGiANQAbIA3wB3gD2gH2AfoA_wCBwEWARgAjkBKQEqAKCAU8Aq4BYoC0ALSAXMAuoBeQC_AGKAMyAbQA3EB0wHUAPQAhsBDoCIgEVAIvASCAkQBKgCbAE7AKHAU0AqwBYoC0AFrQLYAtkBcAC5AF2gLvAXmAwYBhIDDQGHgMSAYwAx4BkgDJwGVAMuAZyAz4BokDSANJAaWA04BrADYxwEUABEADgAPAAuADkAH4AZAA0AB_AEUAJEAWYAywBmgDaAHOAOoAdgA7gCAAEFgIOAhABEQCbQE-AT8ApYBUAC9AGBANYAbwA44B0gDqgHkAPkAhABD4CPYErASuAmKBMgEygJtAUKApABSYCmAFTAKqAVsArsBZQC1AFxQLoAuoBfQDAgGIAMWAZCAy8BoUDRQNGAaUA00BqYDXgG0gNsAbcQgfAALAAoABkAEQALgAYgBDACYAFUALgAXwAxABmADeAHoARwAsQBhADKAGoAN8Ad8A-wD8AH-ARgAjgBKQCggFDAKeAVeAtAC0gFzAL8AYoAzIBtADqAHoASCAkQBKgCbAFNALFAWiAtaBbAFtALgAXIAu0Bh4DEgGRAMnAZyAzwBnwDRAGkgNLAcAQASgAIAB-AGgAP4AkQBlgDaAHOAOwAeABBQCfAFLALEAbwA6oB2wEPgI9AScAlcBMQCbQFCgKQAUmArYBdAC8gF9AMCAaEA0UBpQDUwG2ANuJQOgAEAALAAoABkADgAIoAYABiADwAIgATAAqgBcAC-AGIAMwAbQBCACGgEQARIAjgBRgClAFuAMIAZQA1QBsgDvAH4ARgAjgBTwCrwFoAWkAuoBigDcAHUAPkAh0BFQCLwEiAJsAWKAtYBbAC7QF5gMPAZEAycBnIDPAGfANIAawA4AkAdAAcABcAEIAOQAyACRAFyAMsAagA2gB3AEAAISAT4AqABvADqgH2AR6AlYBNoCkwFlALoAX0AxYBoQDSgG5FIJYAC4AKAAqABkADkAHwAgABFADAAMQAaAA8gCGAIoATAAngBSACqAFgALgAXwAxABmADmAIQAQ0AiACJAFGAKUAWIAtwBhADKAGiANUAbIA74B9gH6ARYAjABHACUgFBAKGAVcArYBcwC8gG0ANwAegBDoCLwEiAJsATsAocBTQCtgFigLWAWwAuABcgC7QF5gMNAYeAxgBkQDJAGTgMuAZyAzwBn0DSANJgawBrIDYygDUAC4AIQAcgA_ACsAGQANoAjgBIgC5AGWANQAa4A2gBzgDqAHcAPAAgABCQCKgEiAJtAT4BPwClgFiALqAYoA3gB1QDtgHkAP-Aj0BMQCZQE2gKQAUwAqYBXYC0AF0ALyAX0AwIBiwDQgGiANKAabA1IDUwGvAAA.YAAAAAAAAAAA
-#EXTINF:-1 tvg-logo="https://planetradio.co.uk/tesla/static/favicons/greatest-hits/apple-touch-icon.png" group-title="",Greatest Hits Radio (Staffordshire and Cheshire)
+#EXTINF:-1 tvg-logo="https://planetradio.co.uk/tesla/static/favicons/greatest-hits/apple-touch-icon.png" group-title="pop,hits",Greatest Hits Radio Staffordshire and Cheshire
 http://stream-mz.planetradio.co.uk/net2stoke.mp3?aw_0_1st.skey=
-#EXTINF:-1 tvg-logo="https://planetradio.co.uk/tesla/static/favicons/greatest-hits/apple-touch-icon.png" group-title="",Greatest Hits Radio (Surrey & East Hants)
+#EXTINF:-1 tvg-logo="https://planetradio.co.uk/tesla/static/favicons/greatest-hits/apple-touch-icon.png" group-title="pop,hits",Greatest Hits Radio Surrey and East Hants
 https://stream-mz.planetradio.co.uk/net2surrey.aac
-#EXTINF:-1 tvg-logo="https://planetradio.co.uk/tesla/static/favicons/greatest-hits/apple-touch-icon.png" group-title="",Greatest hits radio (Sussex)
+#EXTINF:-1 tvg-logo="https://planetradio.co.uk/tesla/static/favicons/greatest-hits/apple-touch-icon.png" group-title="pop,hits",Greatest Hits Radio Sussex
 https://stream-mz.planetradio.co.uk/net2sussex.aac
-#EXTINF:-1 tvg-logo="https://assets.planetradio.co.uk/img/ConfigWebListenBarLogoImageUrl/381.png" group-title="70s,80s,oldies",Greatest Hits Radio (West Norfolk)
+#EXTINF:-1 tvg-logo="https://assets.planetradio.co.uk/img/ConfigWebListenBarLogoImageUrl/381.png" group-title="70s,80s,oldies",Greatest Hits Radio West Norfolk
 https://stream-mz.planetradio.co.uk/net2westnorfolk.mp3
-#EXTINF:-1 tvg-logo="" group-title="classic hits,oldies",Greatest Hits Radio Midlands UK
+#EXTINF:-1 tvg-logo="https://assets.radioplayer.org/826/826583/600/600/lsw4hfl0.png" group-title="classic,hits,oldies",Greatest Hits Radio Midlands
 http://music.ghrmidlands.com:8000/live.mp3
-#EXTINF:-1 tvg-logo="https://assets.planetradio.co.uk/img/ConfigWebListenBarLogoImageUrl/381.png?ver=1545131864" group-title="70s,80s,90s,classic hits,pop music",Greatest Hits Radio South Yorkshire
+#EXTINF:-1 tvg-logo="https://assets.planetradio.co.uk/img/ConfigWebListenBarLogoImageUrl/381.png?ver=1545131864" group-title="70s,80s,90s,hits",Greatest Hits Radio South Yorkshire
 https://stream-mz.planetradio.co.uk/magicam.aac
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/564981_5da0da4ef5af4e06a36b91435bd87691%7emv2_d_1440_1440_s_2.jpg/v1/fill/w_32%2ch_32%2clg_1%2cusm_0.66_1.00_0.01/564981_5da0da4ef5af4e06a36b91435bd87691%7emv2_d_1440_1440_s_2.jpg" group-title="electronic,house",Groove London Radio
 http://eu10.fastcast4u.com/groovelondon
-#EXTINF:-1 tvg-logo="http://www.gulshanradio.co.uk/wp-content/uploads/2016/02/gulshan-slide2.jpg" group-title="music",Gulshan Radio
+#EXTINF:-1 tvg-logo="http://www.gulshanradio.co.uk/wp-content/uploads/2016/02/gulshan-slide2.jpg" group-title="folk,asian",Gulshan Radio 106.9
 http://s6.voscast.com:11324/listen.pls
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/x76nQS7qLT.png" group-title="adult contemporary",Hallam FM
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/x76nQS7qLT.png" group-title="adult,contemporary",Hallam FM
 https://stream-al.planetradio.co.uk/hallam.aac
-#EXTINF:-1 tvg-logo="https://hardrockhellradio.com/wp-content/uploads/2017/01/Jukebox.jpg" group-title="death metal,hard rock,heavy metal,nwobhm",Hard Rock Hell
+#EXTINF:-1 tvg-logo="https://hardrockhellradio.com/wp-content/uploads/2017/01/Jukebox.jpg" group-title="death,metal,rock",Hard Rock Hell
 http://andromeda.shoutca.st:9254/stream
-#EXTINF:-1 tvg-logo="http://www.heart.co.uk/assets_v4r/heart/img/favicon-196x196.png" group-title="oldies,pop,public radio,variety",Heart
+#EXTINF:-1 tvg-logo="http://www.heart.co.uk/assets_v4r/heart/img/favicon-196x196.png" group-title="oldies,pop,public",Heart
 http://media-the.musicradio.com/HeartNorthLancsCumbria
-#EXTINF:-1 tvg-logo="https://www.heart.co.uk/assets_v4r/heart/img/favicon-196x196.png" group-title="70s,national,pop,public radio,variety",Heart 70s
+#EXTINF:-1 tvg-logo="https://www.heart.co.uk/assets_v4r/heart/img/favicon-196x196.png" group-title="70s,hits,pop",Heart 70s
 https://media-ssl.musicradio.com/Heart70sMP3
-#EXTINF:-1 tvg-logo="http://heart.co.uk/assets_v4r/heart/img/favicon-196x196.png" group-title="80s",Heart 80s
+#EXTINF:-1 tvg-logo="http://heart.co.uk/assets_v4r/heart/img/favicon-196x196.png" group-title="80s,hits,pop",Heart 80s
 http://icecast.thisisdax.com/Heart80sMP3
 #EXTINF:-1 tvg-logo="https://www.heart.co.uk/assets_v4r/heart/img/favicon-196x196.png" group-title="80s,national,pop,public radio,variety",Heart 80s
 https://media-ssl.musicradio.com/Heart80sMP3
