@@ -1,29 +1,27 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="georgia,hits,nrj",Energy NRJ Georgia
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrbYmeY8aVNPlRWMpOUWzJ5vvTmIa8zBeCxQ&s" group-title="pop,charts,hits",Energy NRJ 104.7
 http://shaincast.caster.fm:24734/listen.mp3?none
-#EXTINF:-1 tvg-logo="https://fortuna.ge/dist/images/fortuna.png" group-title="",Fortuna
+#EXTINF:-1 tvg-logo="https://fortuna.ge/dist/images/fortuna.png" group-title="adult,hits",Fortuna 106.9
 http://tv.cdn.xsg.ge/cld9-0386/fortuna/tracks-a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://fortuna.ge/dist/images/radio_logos/fortuna_plus_240px.png" group-title="pop",Fortuna+
+#EXTINF:-1 tvg-logo="https://fortuna.ge/dist/images/radio_logos/fortuna_plus_240px.png" group-title="pop,top 40",Fortuna Plus 103.5
 https://tv.cdn.xsg.ge/cld9-0386/fortuna/tracks-a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://1tv.ge/app/themes/wi-theme/favicon.ico" group-title="",Georgia One TV
-http://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/logo/6/43916.png" group-title="folk,news,pop",Hereti FM
 http://iis.ge:8000/hereti.mp3
-#EXTINF:-1 tvg-logo="https://www.marneulifm.ge//images/temp/2017/06/14/91d0264419f7bc69b396106ffac4345e.png" group-title="azeri,fm,georgia,marneuli,marneulifm,radio,radiomarneuli",Marneuli FM
+#EXTINF:-1 tvg-logo="https://www.marneulifm.ge//images/temp/2017/06/14/91d0264419f7bc69b396106ffac4345e.png" group-title="news,talk",Radio Marneuli 96.9
 http://stream.it-solutions.ge:8000/mp3-radiomarneulifm
-#EXTINF:-1 tvg-logo="https://mutantradio.net/wp-content/uploads/2019/10/cropped-gravatar-180x180.jpg" group-title="ambient,electro,electronic,experimental,funk,jazz,jungle,rock,techno",Mutant Radio
+#EXTINF:-1 tvg-logo="https://mutantradio.net/wp-content/uploads/2019/10/cropped-gravatar-180x180.jpg" group-title="ambient,electro,electronic",Mutant Radio
 https://listen.radioking.com/radio/282820/stream/328621
-#EXTINF:-1 tvg-logo="" group-title="classical",Pirveli Radio
+#EXTINF:-1 tvg-logo="https://mytunein.com/images/logos/pirveliradio1064fm.jpg" group-title="pop,news,talk",Pirveli Radio 106.4
 http://178.134.47.58:88/broadwave.mp3
-#EXTINF:-1 tvg-logo="" group-title="classical",Radio Amra
+#EXTINF:-1 tvg-logo="https://images.radiovolna.net/_files/images/stations/7436/tzl85978406b11390255089785_165x165.webp" group-title="pop,folk,contemporary",Radio Amra
 https://streamer.radio.co/s34b5469e0/listen
 #EXTINF:-1 tvg-logo="http://nor.ge/wp-content/themes/radionor/icons/xapple-touch-icon.png.pagespeed.ic.smcyqsvhzp.png" group-title="entertainment,news,talk",Radio NOR
 http://iis.ge:8000/nor.mp3
-#EXTINF:-1 tvg-logo="http://www.palitratv.ge/images/stories/palitratvlogo.png" group-title="pop",Radio Palitra 103.9 FM
+#EXTINF:-1 tvg-logo="http://www.palitratv.ge/images/stories/palitratvlogo.png" group-title="pop,oldies",Radio Palitra 103.9
 http://92.241.82.245:8000/live
-#EXTINF:-1 tvg-logo="" group-title="news,talk",Tbilisi FM 93,5
+#EXTINF:-1 tvg-logo="https://big-radio.net/uploads/posts/2021-01/1611174899_logo-radio-tbilisi-935-fm.png" group-title="news,talk",Tbilisi FM 93.5
 http://iis.ge:8000/radiotbilisi.mp3
-#EXTINF:-1 tvg-logo="http://sknews.ge//favicon.ico" group-title="folk,news,pop,talk",Радио SK
+#EXTINF:-1 tvg-logo="http://sknews.ge//favicon.ico" group-title="folk,news,pop",Radio SK
 http://iis.ge:8000/sk.mp3
-#EXTINF:-1 tvg-logo="http://www.radiodk.ge//images/temp/2016/07/07/1d06c40ed1f368b93c717a1601dc96c9.png" group-title="folk,pop,top 40",რადიო "ძველი ქალაქი Старый город
+#EXTINF:-1 tvg-logo="http://www.radiodk.ge//images/temp/2016/07/07/1d06c40ed1f368b93c717a1601dc96c9.png" group-title="folk,pop,top 40",Radio Old City 107.9
 http://iis.ge:8000/radiodk.mp3

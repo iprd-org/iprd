@@ -1223,7 +1223,7 @@ http://treehouseradio.com:8021/live
 http://radio.truckers.fm/
 #EXTINF:-1 tvg-logo="https://truckstopradio.co.uk/tsr-logo.png" group-title="pop,top 40,variety",Truck Stop Radio
 https://oreo.truckstopradio.co.uk/radio/8000/radio.mp3
-#EXTINF:-1 tvg-logo="http://www.2lr.co.uk/hutbig.gif" group-title="folk,mix,pop,rock",Two Lochs Radio
+#EXTINF:-1 tvg-logo="http://www.2lr.co.uk/hutbig.gif" group-title="folk,mix,pop",Two Lochs Radio
 http://149.255.59.164:8020/stream
 #EXTINF:-1 tvg-logo="https://www.twr.org.uk/wp-content/themes/twr/img/favicon.ico" group-title="christian,religious",TWR
 https://direct.sharp-stream.com/twruk.mp3
@@ -1241,63 +1241,57 @@ http://uk.web-radio.co.uk:8010/stream
 http://37.187.90.201:8014/ukrawbruv.mp3
 #EXTINF:-1 tvg-logo="http://unity101.org/images/logo.png" group-title="asian,bollywood,news",Unity 101 Community Radio 101.1
 http://live.canstream.co.uk:8000/unity24.mp3
-#EXTINF:-1 tvg-logo="http://www.unityradio.fm/wp-content/uploads/2017/02/logo-200.jpg" group-title="",Unity Radio
-http://stream.audiospace.co/unityradio
-#EXTINF:-1 tvg-logo="https://ury.org.uk/favicon-32x32.png" group-title="student radio",University Radio York
+#EXTINF:-1 tvg-logo="https://ury.org.uk/favicon-32x32.png" group-title="college,variety",University Radio York 1350
 https://audio.ury.org.uk/live-high
-#EXTINF:-1 tvg-logo="https://www.unknown.fm/wp-content/themes/twentytwenty-child/icons/favicon.ico" group-title="beats,breakbeat,drum & bass,dubstep,electronic,electronica,house,jungle,techno,trance",Unknown FM
+#EXTINF:-1 tvg-logo="https://www.unknown.fm/wp-content/themes/twentytwenty-child/icons/favicon.ico" group-title="beats,drum'n'bass,dubstep",Unknown FM
 https://unknownfm.radioca.st/live
-#EXTINF:-1 tvg-logo="https://ushimma.co.uk/favicon.ico" group-title="dub reggae,reggae,reggaeton,roots reggae,smooth reggae",Ushimma
+#EXTINF:-1 tvg-logo="https://ushimma.co.uk/favicon.ico" group-title="dub,reggae,reggaeton",Ushimma
 https://gellert.netserveronline.co.uk/radio/8010/play
-#EXTINF:-1 tvg-logo="https://static1.squarespace.com/static/5a7395976957dad12b4ec8e6/t/5a847d3824a694c6e8028827/1538915056096/?format=1500w" group-title="24/7,dj sets,eclectic,swansea,wales",Vandelay Radio
+#EXTINF:-1 tvg-logo="https://static1.squarespace.com/static/5a7395976957dad12b4ec8e6/t/5a847d3824a694c6e8028827/1538915056096/?format=1500w" group-title="24/7,dj,sets",Vandelay Radio
 https://streamer.radio.co/scc0e2e06d/listen
-#EXTINF:-1 tvg-logo="" group-title="variety",Venture Radio
+#EXTINF:-1 tvg-logo="https://www.venturefm.co.uk/wp-content/uploads/2020/06/cropped-venture-fm-logo-browser-window.png" group-title="variety,pop,reggae",Venture Radio
 http://91.121.91.172:8008/
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/08392a_787e7672e8ad418f9c09aa5e0d327932%7emv2.png/v1/fill/w_32%2ch_32%2clg_1%2cusm_0.66_1.00_0.01/08392a_787e7672e8ad418f9c09aa5e0d327932%7emv2.png" group-title="pop music",VEVO Pop (GB)
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/08392a_787e7672e8ad418f9c09aa5e0d327932%7emv2.png/v1/fill/w_32%2ch_32%2clg_1%2cusm_0.66_1.00_0.01/08392a_787e7672e8ad418f9c09aa5e0d327932%7emv2.png" group-title="pop,hits",VEVO Pop
 https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://listenapi.s3.amazonaws.com/img/ConfigWebListenBarLogoImageUrl/49.png" group-title="bauer radio,commercial,hits,humberside,pop,top 40",Viking FM
+#EXTINF:-1 tvg-logo="https://listenapi.s3.amazonaws.com/img/ConfigWebListenBarLogoImageUrl/49.png" group-title="hits,pop,top 40",Viking FM
 http://live-bauer-mz.sharp-stream.com/viking.mp3
-#EXTINF:-1 tvg-logo="https://static.radio.de/images/broadcasts/54/d4/38755/1/c300.png" group-title="",Virgin Radio
+#EXTINF:-1 tvg-logo="https://static.radio.de/images/broadcasts/54/d4/38755/1/c300.png" group-title="top 40,charts,hits",Virgin Radio
 https://radio.virginradio.co.uk/stream?aw_0_1st.platform=vr-web
-#EXTINF:-1 tvg-logo="" group-title="anthems,national",Virgin Radio Anthems
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/pr82zwvpkuch.png" group-title="80s,90s,hits",Virgin Radio Anthems
 https://radio.virginradio.co.uk/stream-anthems
-#EXTINF:-1 tvg-logo="" group-title="chill,chilled,chillout,national",Virgin Radio Chilled
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMWoQgiHiR8tYD2cHxbdP9ButC1kbhJMX8rlmCL7wJEFjXfM2cDcw-zr-ieE-wGB0LlnE&usqp=CAU" group-title="chillout,ambient",Virgin Radio Chilled
 https://radio.virginradio.co.uk/stream-chilled
-#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s307294/images/logog.png?t=1" group-title="",Virgin Radio Chilled
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s307294/images/logog.png?t=1" group-title="chillout,ambient",Virgin Radio Chilled
 https://radio.virginradio.co.uk/stream-chilled?aw_0_1st.platform=vr-web
-#EXTINF:-1 tvg-logo="" group-title="00s,10s,20s,70s,80s,90s,classics,dance,groove,national,rnb",Virgin Radio Groove
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Virgin_Radio_Groove_logo.png" group-title="dance,groove,r'n'b",Virgin Radio Groove
 https://radio.virginradio.co.uk/stream-groove
-#EXTINF:-1 tvg-logo="" group-title="information,news,pop",Virgin Radio UK
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dc/Virgin_Radio_UK_logo.png" group-title="information,news,pop",Virgin Radio UK
 http://radio.virginradio.co.uk/stream
-#EXTINF:-1 tvg-logo="https://vitaradio.co.uk/wp-content/uploads/cache/2018/02/cropped-VITA-Radio-LOGO-Sq-512/2911582404.png" group-title="adult contemporary,classic pop,eighties,just great songs,nineties,seventies",VITA Radio HQ
+#EXTINF:-1 tvg-logo="https://vitaradio.co.uk/wp-content/uploads/cache/2018/02/cropped-VITA-Radio-LOGO-Sq-512/2911582404.png" group-title="adult,contemporary,pop",VITA Radio
 https://streaming.radio.co/sc6afa51d0/listen
-#EXTINF:-1 tvg-logo="http://www.bauermedia.co.uk/bauer-emptor/image/upload/c_fit,h_200,w_300/v1437464964/bauer-emptor-keystone-test/brands/logo/kmiiyi1uqbnhx3b39mqd.png" group-title="bauer radio,hot adult contemporary",Wave 105
+#EXTINF:-1 tvg-logo="http://www.bauermedia.co.uk/bauer-emptor/image/upload/c_fit,h_200,w_300/v1437464964/bauer-emptor-keystone-test/brands/logo/kmiiyi1uqbnhx3b39mqd.png" group-title="hot,adult,contemporary",Wave 105
 http://live-bauer-mz.sharp-stream.com/wave105.mp3
-#EXTINF:-1 tvg-logo="https://zeno.fm/static/icons/apple-icon-120x120.png" group-title="jazz",weemang radio live 
+#EXTINF:-1 tvg-logo="https://zeno.fm/static/icons/apple-icon-120x120.png" group-title="jazz,blues",Weemang Radio 
 http://stream.zeno.fm/uxvfyh8zs98uv?rj-ttl=5&rj-tok=AAABfdz5lp8AlrDR5V-QT9xTAA
-#EXTINF:-1 tvg-logo="" group-title="easy listening,pop",Wey Valley
+#EXTINF:-1 tvg-logo="https://assets.radioplayer.org/826/826122/600/600/ldp070lo.jpeg" group-title="easy listening,pop",Wey Valley 101.1
 http://stream.weyvalleyradio.uk:8000/wey1
-#EXTINF:-1 tvg-logo="" group-title="pop,punk,rock,ska",Weymouth Rocks
+#EXTINF:-1 tvg-logo="https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/10/2/1412261766398/Durdle-Door-on-the-Dorset-014.jpg?width=465&dpr=1&s=none" group-title="pop,punk,rock",Weymouth Rocks
 http://135.181.78.169:8621/med
-#EXTINF:-1 tvg-logo="" group-title="blues,jazz,oldies,pop,rock",WKDfm
-http://comet.shoutca.st:8467/stream
-#EXTINF:-1 tvg-logo="" group-title="",WKDfm Radio
+#EXTINF:-1 tvg-logo="https://www.wkdfm.co.uk/images/wkdfm.png" group-title="blues,jazz,oldies",WKDfm Radio
 http://comet.shoutca.st:8467/listen.pls
-#EXTINF:-1 tvg-logo="http://www.wnbc.london/wp-content/uploads/2017/04/cropped-wnbclogo.png" group-title="mixed,music",WNBC London
-http://centauri.shoutca.st:8032/stream
-#EXTINF:-1 tvg-logo="https://www.wooferradio.com/favicon.ico" group-title="funk,jazz,london,r&b,shack e,soul",Woofer RAdio
+#EXTINF:-1 tvg-logo="https://www.wooferradio.com/favicon.ico" group-title="funk,jazz,r'n'b",Woofer RAdio
 https://s6.voscast.com:7787/stream
-#EXTINF:-1 tvg-logo="https://worldsawakeningradio.com/favicon.ico" group-title="60er,80s,dance,love songs,oldies,pop,rock,talk,variety,various",Worlds Awakening Radio
+#EXTINF:-1 tvg-logo="https://worldsawakeningradio.com/favicon.ico" group-title="60s,80s,dance",Worlds Awakening Radio
 http://station.worldsawakeningradio.com:8000/radio.mp3
-#EXTINF:-1 tvg-logo="http://worldwidefm.net/favicon.ico" group-title="electronica,jazz,world music",Worldwide FM
+#EXTINF:-1 tvg-logo="http://worldwidefm.net/favicon.ico" group-title="electronica,jazz,world",Worldwide FM
 http://worldwidefm.out.airtime.pro:8000/worldwidefm_a
 #EXTINF:-1 tvg-logo="https://2xfsxz394vd5hn5q4qxb878f-wpengine.netdna-ssl.com/wp-content/themes/encompassmarketing/library/images/logoDK.svg" group-title="news,talk",World Radio Network Europe
 http://streaming.edmradio.online:8025/WRN-E
 #EXTINF:-1 tvg-logo="https://2xfsxz394vd5hn5q4qxb878f-wpengine.netdna-ssl.com/wp-content/themes/encompassmarketing/library/images/logoDK.svg" group-title="news,talk",World Radio Network North America
 http://streaming.edmradio.online:8025/NAMAAP
-#EXTINF:-1 tvg-logo="https://wyldwood.org/wp-content/uploads/2021/03/cropped-logo-150x150-1-1-180x180.png" group-title="dark folk,folk,gothic,neofolk,pagan,tribal",Wyldwood Radio
+#EXTINF:-1 tvg-logo="https://wyldwood.org/wp-content/uploads/2021/03/cropped-logo-150x150-1-1-180x180.png" group-title="dark,folk,gothic",Wyldwood Radio
 https://hazel.torontocast.com:2190/stream
-#EXTINF:-1 tvg-logo="https://mmo.aiircdn.com/366/601ec9bad9621.png" group-title="hereford,students,university,university radio,worcester,worcestershire,youth",Youthcomm Radio
+#EXTINF:-1 tvg-logo="https://mmo.aiircdn.com/366/601ec9bad9621.png" group-title="pop,variety,youth",Youthcomm Radio
 http://radio.canstream.co.uk:8039/live.mp3
-#EXTINF:-1 tvg-logo="" group-title="00s,10s,80s,90s,charts,classic rock,pop,rock,soul,top 100",Zonkers Radio
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/db/9c/db9c7e329c6fe3a8b97ffe8962549caf.jpg" group-title="soul,80s,90s",Zonkers Radio
 http://128.199.35.208:8000/radio.mp3?
