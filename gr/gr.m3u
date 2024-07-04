@@ -301,9 +301,9 @@ http://muse.multiserver.gr:8088/;stream/1
 http://93.174.121.193:9996/;stream
 #EXTINF:-1 tvg-logo="http://resources.live24.gr/resources/images/stations/e669f256-9fd7-43cf-b9c8-4c489324e2c2.png" group-title="alternative,jazz,news",City International
 http://radio.lancom.gr:8012/stream5
-#EXTINF:-1 tvg-logo="http://resources.live24.gr/resources/images/stations/77c80a8d-456a-48d1-b20a-16d025dddad2.png" group-title="hiphop,house,techno",City Vibes
+#EXTINF:-1 tvg-logo="http://resources.live24.gr/resources/images/stations/77c80a8d-456a-48d1-b20a-16d025dddad2.png" group-title="hip hop,house,techno",City Vibes
 http://everest.streams.ovh:1350/stream
-#EXTINF:-1 tvg-logo="http://resources.live24.gr/resources/images/stations/b4d9ba95-6e06-4ab0-9838-1983c8784f60.png" group-title="folk,greek,mainstream",Clubaki
+#EXTINF:-1 tvg-logo="http://resources.live24.gr/resources/images/stations/b4d9ba95-6e06-4ab0-9838-1983c8784f60.png" group-title="folk,contemporary",Clubaki
 http://audiohosting.gr/radio/8000/radio.mp3
 #EXTINF:-1 tvg-logo="http://resources.live24.gr/resources/images/stations/4b3062e7-326f-44e7-bfe3-90c0ffd39463.png" group-title="oldies,pop",Coffee
 http://shoutcast.24radio.gr:8036/;s2.mp3
@@ -311,101 +311,93 @@ http://shoutcast.24radio.gr:8036/;s2.mp3
 https://i8.streams.ovh/sc/comfuzio/stream/
 #EXTINF:-1 tvg-logo="https://coni-onair.com/assets/img/basic/logo.png" group-title="80s,90s",Coni On Air
 https://audio-edge-5bkfj.fra.h.radiomast.io/01fc3a97-3029-4f16-aa3e-ef242b042ff5
-#EXTINF:-1 tvg-logo="http://resources.live24.gr/resources/images/stations/7fd0d66a-a56c-4539-9ba5-9727cb6849d3.png" group-title="mainstream,pop",Cool 106.8
+#EXTINF:-1 tvg-logo="http://resources.live24.gr/resources/images/stations/7fd0d66a-a56c-4539-9ba5-9727cb6849d3.png" group-title="contemporary,pop",Cool 106.8
 http://eco.onestreaming.com:8209/listen.pls
-#EXTINF:-1 tvg-logo="http://resources.live24.gr/resources/images/stations/d41f6851-9a5f-4164-93a8-3b8447ca95cd.png" group-title="80s,house,pop,trans",Cool 90.7
+#EXTINF:-1 tvg-logo="http://resources.live24.gr/resources/images/stations/d41f6851-9a5f-4164-93a8-3b8447ca95cd.png" group-title="80s,house,pop",Cool 90.7
 http://solid1.streamupsolutions.com:11004/coolfmnet?type=http&nocache=1258317
-#EXTINF:-1 tvg-logo="http://resources.live24.gr/resources/images/stations/bec6ab25-e799-4958-aae6-6c1fc0dfa0cb.png" group-title="dance,electronic,hiphop,pop,trance",Corfu Dee Jay 97.5
+#EXTINF:-1 tvg-logo="http://resources.live24.gr/resources/images/stations/bec6ab25-e799-4958-aae6-6c1fc0dfa0cb.png" group-title="dance,electronic,hip hop,pop,trance",DeeJay 97.5
 https://sh.onweb.gr:7083/stream?type=http&nocache=35812
-#EXTINF:-1 tvg-logo="" group-title="cosmoradio,kosmoradio",Cosmoradio 95,1
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/hVNMDR51KEV3nDnNgducSRNTPbAMpJMUn6lTO523dpWDoIhPyq8rYxe3AcadhDOsQw" group-title="pop,news,talk",Kosmoradio 95.1
 http://eco.onestreaming.com:8689/
-#EXTINF:-1 tvg-logo="http://resources.live24.gr/resources/images/stations/5f9a0315-6cf3-4b65-832e-cc3a8376dbdb.jpg" group-title="greek,mainstream,pop",Cosmos 103.8
+#EXTINF:-1 tvg-logo="http://resources.live24.gr/resources/images/stations/5f9a0315-6cf3-4b65-832e-cc3a8376dbdb.jpg" group-title="contemporary,pop",Cosmos 103.8
 https://neos.win:48038/stream
-#EXTINF:-1 tvg-logo="http://resources.live24.gr/resources/images/stations/e2014cd6-e921-43ff-9f71-ba7f75212ad0.jpg" group-title="greek,mainstream,pop",Cosmos 93.2
+#EXTINF:-1 tvg-logo="http://resources.live24.gr/resources/images/stations/e2014cd6-e921-43ff-9f71-ba7f75212ad0.jpg" group-title="contemporary,pop",Cosmos 93.2
 https://neos.win:59320/stream
-#EXTINF:-1 tvg-logo="https://www.cosmos995.gr/wp-content/uploads/2016/02/cosmos-fm.png" group-title="greek,traditional",Cosmos 99.5
+#EXTINF:-1 tvg-logo="https://www.cosmos995.gr/wp-content/uploads/2016/02/cosmos-fm.png" group-title="world,traditional",Cosmos 99.5
 http://solid2.streamupsolutions.com:24896/stream
-#EXTINF:-1 tvg-logo="http://resources.live24.gr/resources/images/stations/723d02a5-c4bc-4bcc-8b23-6952800d5bd5.png" group-title="greek,mainstream,pop",Cosmos Zante
+#EXTINF:-1 tvg-logo="http://resources.live24.gr/resources/images/stations/723d02a5-c4bc-4bcc-8b23-6952800d5bd5.png" group-title="contemporary,pop",Cosmos Zante
 https://i4.streams.ovh/sc/radiocosmoszante/stream
-#EXTINF:-1 tvg-logo="http://resources.live24.gr/resources/images/stations/87d78e08-8d89-45f7-b8a4-80a64b581001.jpg" group-title="news,pop,talk",Cosmos Κεφαλονιά
+#EXTINF:-1 tvg-logo="http://resources.live24.gr/resources/images/stations/87d78e08-8d89-45f7-b8a4-80a64b581001.jpg" group-title="news,pop,talk",Cosmos Kefalonia
 http://n11.radiojar.com/0m398p0r36duv?rj-ttl=5&rj-tok=AAABfd2D3J8ANxhI9qQO4Zf21w
-#EXTINF:-1 tvg-logo="" group-title="news",Crash Radio
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/cmq35atbth7e.jpg" group-title="news,talk",Crash Radio
 http://n01.radiojar.com/rbx9n33vdg0uv?rj-ttl=5&rj-tok=AAABfdrJtbQANwSBw47W0k0aHg
-#EXTINF:-1 tvg-logo="http://resources.live24.gr/resources/images/stations/df42087e-9d05-4e50-b899-1bb7e1ba38a7.jpg" group-title="folk,greek,oldies",Creta Planet
+#EXTINF:-1 tvg-logo="http://resources.live24.gr/resources/images/stations/df42087e-9d05-4e50-b899-1bb7e1ba38a7.jpg" group-title="folk,oldies",Creta Planet
 http://s3.onweb.gr:8522/listen.pls
-#EXTINF:-1 tvg-logo="http://nettv.live/uploads/19/1-1Z11R234192T.jpg" group-title="",Creta TV
-https://live.streams.ovh/tvcreta/tvcreta/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.cretetv.gr/wp-content/themes/apollo/images/logos/ktv-og.png" group-title="",Crete TV
-http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="pop",Cult 99.8
+#EXTINF:-1 tvg-logo="https://cdn.e-radio.gr/logos/gr/500/cult998.png" group-title="pop,hits",Cult 99.8
 http://s4.onweb.gr:8876/listen.pls
-#EXTINF:-1 tvg-logo="" group-title="70s,80s,dance,disco",D-Code 96,2
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/zw9nt6a2yjqp.jpeg" group-title="70s,80s,dance",D-Code 96.2
 http://176.31.118.39:13980/
-#EXTINF:-1 tvg-logo="http://dalkas.gr/dalkas.jpg" group-title="greek folk,greek pop",Dalkas FM
+#EXTINF:-1 tvg-logo="http://dalkas.gr/dalkas.jpg" group-title="folk,pop",Dalkas 88.2
 http://dalkas.lalala.gr:8018/;listen.pls
-#EXTINF:-1 tvg-logo="https://onradio.gr/wp-content/uploads/2020/04/deejay_corfu-750x750.jpg" group-title="alternative,club house,dj,pop rock",DeeJay 97.5
+#EXTINF:-1 tvg-logo="https://onradio.gr/wp-content/uploads/2020/04/deejay_corfu-750x750.jpg" group-title="alternative,club,house",DeeJay 97.5
 http://s4.onweb.gr:8470/listen.pls
-#EXTINF:-1 tvg-logo="https://djradio.gr/wp-content/uploads/2016/02/vinyl-lay.png" group-title="hits,top40",DeeJay 97.5 Greece Corfu
+#EXTINF:-1 tvg-logo="https://djradio.gr/wp-content/uploads/2016/02/vinyl-lay.png" group-title="hits,top 40",DeeJay 97.5
 https://sh.onweb.gr:7083/stream
-#EXTINF:-1 tvg-logo="https://djradio.gr/wp-content/uploads/2019/05/djradio-logo-smaller-white-1.png" group-title="pop",DeeJay Radio 97.5 fm Corfu  Greece
-http://s4.onweb.gr:8470/
-#EXTINF:-1 tvg-logo="http://resources.live24.gr/resources/images/stations/af45e7d6-f49c-4cfd-8c4c-8802edab9ba9.png" group-title="folk,greek,traditional",Defi
+#EXTINF:-1 tvg-logo="http://resources.live24.gr/resources/images/stations/af45e7d6-f49c-4cfd-8c4c-8802edab9ba9.png" group-title="folk,traditional",Defi
 http://stream.zeno.fm/aqp69p25e4duv?rj-ttl=5&rj-tok=AAABfd2jN40Aa8IOSIfUtNWpew
-#EXTINF:-1 tvg-logo="http://resources.live24.gr/resources/images/stations/95697753-ee23-42b3-87d9-500a6881632b.jpg" group-title="folk,greek,pop",Derti 105.7
+#EXTINF:-1 tvg-logo="http://resources.live24.gr/resources/images/stations/95697753-ee23-42b3-87d9-500a6881632b.jpg" group-title="folk,pop",Derti 105.7
 http://5.9.17.142:8016/stream
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-GZD49Iqiy2w/YGOkt5ixQvI/AAAAAAAABCs/mP-S_n-CUOwvlyw7Uzu9oAfpsrxgCDaQwCK4BGAYYCw/s1600/Skandalo%2BWeb%2BRadio2.jpg" group-title="greek,mainstream,pop",Derti 107.7
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-GZD49Iqiy2w/YGOkt5ixQvI/AAAAAAAABCs/mP-S_n-CUOwvlyw7Uzu9oAfpsrxgCDaQwCK4BGAYYCw/s1600/Skandalo%2BWeb%2BRadio2.jpg" group-title="contemporary,pop",Derti 107.7
 http://i5.streams.ovh:14008/stream?type=http&nocache=100540
-#EXTINF:-1 tvg-logo="http://live24.gr/resrc/styles/custom-popups/derti/images_v2/logo.jpg" group-title="laika",Derti 98.6
+#EXTINF:-1 tvg-logo="http://live24.gr/resrc/styles/custom-popups/derti/images_v2/logo.jpg" group-title="pop,talk,folk",Derti 98.6
 http://derti.live24.gr/derty1000
-#EXTINF:-1 tvg-logo="https://diasfm.gr/wp-content/uploads/2019/03/diasfmlogo-e1553921594149.png" group-title="crete,greek,traditional",Dias
+#EXTINF:-1 tvg-logo="https://diasfm.gr/wp-content/uploads/2019/03/diasfmlogo-e1553921594149.png" group-title="world,traditional",Dias
 http://i5.streams.ovh:14071/live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OrOvr9I.jpg" group-title="ballads,eclectic",Diesi 101.3
 http://diesi.live24.gr/diesi1013
-#EXTINF:-1 tvg-logo="http://resources.live24.gr/resources/images/stations/eb5ce6c9-c542-487d-9160-1e88cce00a65.jpg" group-title="chillout,disco,lounge,oldies",Disco Cafe
+#EXTINF:-1 tvg-logo="http://resources.live24.gr/resources/images/stations/eb5ce6c9-c542-487d-9160-1e88cce00a65.jpg" group-title="chillout,disco,lounge",Disco Cafe
 https://azuracast.streams.ovh:8260/radio.mp3
-#EXTINF:-1 tvg-logo="" group-title="80s,90s,disco",Disco FM
+#EXTINF:-1 tvg-logo="https://images.zeno.fm/n4XGen2wbr-oHr5OOqZmkDvF5aZwKliDpZxmZrO6PwA/rs:fit:500:500/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSUNJMGZfNnBRc01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSUNJczVudHdBc01vZ0VFZW1WdWJ3L2ltYWdlLz91cGRhdGVkPTE2ODUyNDQ5NjQwMDA.webp" group-title="80s,90s,disco",Disco FM
 http://eco.onestreaming.com:8015/stream
-#EXTINF:-1 tvg-logo="http://resources.live24.gr/resources/images/stations/cde82ef1-c5e0-4b19-919a-cc2c3c2fc491.jpg" group-title="70s,80s,90s,disco,pop",Disco Net
+#EXTINF:-1 tvg-logo="http://resources.live24.gr/resources/images/stations/cde82ef1-c5e0-4b19-919a-cc2c3c2fc491.jpg" group-title="70s,80s,disco",Disco Net
 https://stream1.468.gr/8004/stream
-#EXTINF:-1 tvg-logo="https://zeno.fm/static/icons/apple-icon-120x120.png" group-title="70s disco,80s disco",Disco500
+#EXTINF:-1 tvg-logo="https://zeno.fm/static/icons/apple-icon-120x120.png" group-title="70s,disco,80s",Disco500
 http://stream.zeno.fm/aqe61pyu4yzuv?rj-ttl=5&rj-tok=AAABfd3wC2gAvW_b2mlljvP-wg
-#EXTINF:-1 tvg-logo="http://resources.live24.gr/resources/images/stations/fba90253-6e5b-4f30-aabe-9c3cee10c514.png" group-title="greek,mainstream,pop",Diva 106.1
+#EXTINF:-1 tvg-logo="http://resources.live24.gr/resources/images/stations/fba90253-6e5b-4f30-aabe-9c3cee10c514.png" group-title="world,contemporary,pop",Diva 106.1
 http://divafm.yourstreaming.gr:9996/listen.pls
 #EXTINF:-1 tvg-logo="http://resources.live24.gr/resources/images/stations/11773098-d13f-4b74-900a-2c9464c99a48.jpg" group-title="dance,electronic,pop",Diva 91.6
 http://176.31.120.166:6404/stream
-#EXTINF:-1 tvg-logo="http://resources.live24.gr/resources/images/stations/bc8b833f-27bf-407c-b04c-99a9c616c901.png" group-title="folk,greek,mainstream,oldies",Dj Grigoris 306
+#EXTINF:-1 tvg-logo="http://resources.live24.gr/resources/images/stations/bc8b833f-27bf-407c-b04c-99a9c616c901.png" group-title="folk,world,oldies",DJ Grigoris 306
 http://el1.info:8140/listen.pls
-#EXTINF:-1 tvg-logo="http://resources.live24.gr/resources/images/stations/9d94a224-7087-415f-a0c0-01891e82896f.png" group-title="student radio",DMST
+#EXTINF:-1 tvg-logo="http://resources.live24.gr/resources/images/stations/9d94a224-7087-415f-a0c0-01891e82896f.png" group-title="variety,college",DMST
 http://n13.radiojar.com/opa-radio?rj-ttl=5&rj-tok=AAABfdr5bXoAH3edorDchWM6bg
 #EXTINF:-1 tvg-logo="http://resources.live24.gr/resources/images/stations/cc458011-24c4-4c08-9a6b-045333538621.png" group-title="pop,world",Doc
 http://edge.mixlr.com/channel/lsqsk
-#EXTINF:-1 tvg-logo="" group-title="pop",Dolce
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s102639g.png" group-title="pop,hits",Dolce 89.5
 http://5.9.5.164:8910/stream
-#EXTINF:-1 tvg-logo="http://www.downtunedmag.com/favicon.ico" group-title="doom,psychedelic,stoner rock",Downtuned Radio
+#EXTINF:-1 tvg-logo="http://www.downtunedmag.com/favicon.ico" group-title="doom,psychedelic,rock",Downtuned Radio
 http://37.75.232.152:8008/stream
-#EXTINF:-1 tvg-logo="http://resources.live24.gr/resources/images/stations/588abc05-4da3-420b-bdbb-fed56856fc29.jpg" group-title="greek,mainstream,pop",Dream 88.1
+#EXTINF:-1 tvg-logo="http://resources.live24.gr/resources/images/stations/588abc05-4da3-420b-bdbb-fed56856fc29.jpg" group-title="contemporary,pop",Dream 88.1
 http://i.streams.ovh:9295/stream?type=http&nocache=3626
-#EXTINF:-1 tvg-logo="http://resources.live24.gr/resources/images/stations/19f0a325-a647-4fb7-8204-8adacdbdfdfe.png" group-title="pop",Dream City
+#EXTINF:-1 tvg-logo="http://resources.live24.gr/resources/images/stations/19f0a325-a647-4fb7-8204-8adacdbdfdfe.png" group-title="pop,hits",Dream City
 http://cast.streams.ovh:9362/;stream.mp3
-#EXTINF:-1 tvg-logo="https://dreamfm.gr/wp-content/uploads/2020/03/dream-fm-logo.jpg" group-title="greek,news,pop,talk",Dream Ηράκλειο
+#EXTINF:-1 tvg-logo="https://dreamfm.gr/wp-content/uploads/2020/03/dream-fm-logo.jpg" group-title="news,pop,talk",Dream Herakleio
 https://neos.win:48420/stream
-#EXTINF:-1 tvg-logo="http://resources.live24.gr/resources/images/stations/63f40c36-7dd4-4f42-940a-7d3cb7846924.jpg" group-title="folk,greek,news,pop,talk",DRi
+#EXTINF:-1 tvg-logo="http://resources.live24.gr/resources/images/stations/63f40c36-7dd4-4f42-940a-7d3cb7846924.jpg" group-title="folk,news,pop",DRi
 https://24streams.me/8012/stream
-#EXTINF:-1 tvg-logo="http://cdn.e-radio.gr/logos/gr/big/dromosfm.png" group-title="greek,pop,top 40",Dromos 89.8
+#EXTINF:-1 tvg-logo="http://cdn.e-radio.gr/logos/gr/big/dromosfm.png" group-title="pop,top 40",Dromos 89.8
 http://netradio.live24.gr/dromos898
-#EXTINF:-1 tvg-logo="http://live24.gr/resrc/styles/custom-popups/drs/images/logo.png" group-title="disco,italo disco,pop",DRS 95.3
+#EXTINF:-1 tvg-logo="http://live24.gr/resrc/styles/custom-popups/drs/images/logo.png" group-title="disco,pop,hits",DRS 95.3
 http://drs953.live24.gr/drs953
-#EXTINF:-1 tvg-logo="http://resources.live24.gr/resources/images/stations/e15695f2-9a99-4e7b-9491-dea72c1dfae0.jpg" group-title="rock",Dust
+#EXTINF:-1 tvg-logo="http://resources.live24.gr/resources/images/stations/e15695f2-9a99-4e7b-9491-dea72c1dfae0.jpg" group-title="rock,hits",Dust
 https://eu8.fastcast4u.com/proxy/sotos?mp=/1
 #EXTINF:-1 tvg-logo="http://resources.live24.gr/resources/images/stations/f61a069b-09de-4ffa-8e85-3cf8bf3fd0e7.jpg" group-title="80s,90s,pop",Easy 105.3
 http://s4.onweb.gr:8076/stream?type=http&nocache=104869
-#EXTINF:-1 tvg-logo="" group-title="misc",Easy 97.2
-http://n03.radiojar.com/cthtwxk5yvduv?rj-ttl=5&rj-tok=AAABfd4teMUAOXR75IyZM4TIkQ
-#EXTINF:-1 tvg-logo="http://www.24htv.eu/Portals/45/images/attiki/easy972.png" group-title="alternative,alternative rock,pop,pop rock,rock",Easy FM 972
+#EXTINF:-1 tvg-logo="http://www.24htv.eu/Portals/45/images/attiki/easy972.png" group-title="alternative,rock,pop",Easy 97.2
 https://n13.radiojar.com/cthtwxk5yvduv.mp3?rj-ttl=5&rj-tok=AAABfd2AnFkA8r6u5FqFuw7Y1w
-#EXTINF:-1 tvg-logo="http://resources.live24.gr/resources/images/stations/668d4cec-7e49-499b-b8c2-7e188d7b049f.jpg" group-title="folk,greek,mainstream",Echo
+#EXTINF:-1 tvg-logo="http://resources.live24.gr/resources/images/stations/668d4cec-7e49-499b-b8c2-7e188d7b049f.jpg" group-title="folk,contemporary",Echo
 http://i.streams.ovh:9350/live
-#EXTINF:-1 tvg-logo="http://www.echoes.gr//favicon.ico" group-title="ambient,chillout,greek,lounge",ECHOES.gr NetRadio - Thessaloniki
+#EXTINF:-1 tvg-logo="http://www.echoes.gr//favicon.ico" group-title="ambient,chillout,lounge",ECHOES.gr NetRadio
 http://85.17.75.143/
 #EXTINF:-1 tvg-logo="" group-title="hiphop,pop,rnb,trance",Edit
 http://95.216.72.98:8008/stream
