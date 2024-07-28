@@ -13,16 +13,12 @@ http://www.radio.is:443/80flashback
 http://www.radio.is:443/90flashback
 #EXTINF:-1 tvg-logo="http://flashback.is//img/favicon/flashback.png" group-title="pop,reykjavik",Flashback 91.9 Reykjavik
 http://www.radio.is:443/flashback
-#EXTINF:-1 tvg-logo="http://spilarinn.is/img/thumbnails_small/fmx.png" group-title="classic rock,reykjavik",FMX Klassik 103.9 Reykjavik
-http://vcache1.365net.is/hls-radio/fmx/master.m3u8
 #EXTINF:-1 tvg-logo="http://spilarinn.is/uploads/1487000023233.png" group-title="classic rock,local music,reykjavik",Gull Bylgjan 90.9 Reykjavik
 http://icecast.365net.is:8000/orbGullBylgjan.aac
 #EXTINF:-1 tvg-logo="https://www.onlineradiobin.com/radio-icon/is/iskanninfm1005k100reykjavik.webp" group-title="commercial,contemporary hits,top 40",K100
 https://www.onlineradiobin.com/ajax/live.php?id=60711
 #EXTINF:-1 tvg-logo="http://spilarinn.is/uploads/1486999256323.png" group-title="commercial,contemporary hits,reykjavik,top 40",Kannin FM 100.5 "K100" Reykjavik
 http://www.radio.is:443/kaninnmobile
-#EXTINF:-1 tvg-logo="https://www.kissfm.is/wp-content/uploads/2020/05/cropped-kissfm_favi-180x180.png" group-title="pop,reykjavik",Kiss FM 104.5 Reykjavik
-http://stream.radio.is:443/kiss
 #EXTINF:-1 tvg-logo="http://static.radio.net/images/broadcasts/c6/eb/16434/c175.png" group-title="easy listening,local music",Létt Bylgjan
 http://icecast.365net.is:8000/orbLettBylgjan.aac
 #EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s102576q.png" group-title="religion,reykjavik",Radio Bodun 105.5 Reykjavik
@@ -41,7 +37,5 @@ http://live.trolli.is:8200/listen.pls
 http://icecast.365net.is:8000/orbFmExtra.aac
 #EXTINF:-1 tvg-logo="https://lh4.ggpht.com/iwWwymHV6NjFdRtXszPlt6AtrMZlSBfM2nUOzO5LN_X99cyVF2IClyw80OQovZD0o-V8=w300" group-title="local music,pop,reykjavik",Visir "FM957" 95.7 Reykjavik
 http://icecast.365net.is:8000/orbFm957.aac
-#EXTINF:-1 tvg-logo="" group-title="indie rock",X-id 97.7 FM
-http://vcache1.365net.is/hls-radio/x977/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="local music,rock",X977
 http://icecast.365net.is:8000/orbXid.aac

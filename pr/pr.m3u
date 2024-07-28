@@ -29,8 +29,6 @@ http://68.235.35.243:9031/stream?type=.mp3
 https://livestreamcdn.net:2000/stream/WapaRadio
 #EXTINF:-1 tvg-logo="https://wipr.pr/wp-content/uploads/2020/04/cropped-wipr-logo-mobile-1-180x180.png" group-title="classical,folk,live concert,npr,pubic radio,san juan",WIPR "Allegro 91.3" San Juan
 http://192.254.105.36:8080/broadwavehigh.mp3?src=1
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s30075q.png" group-title="local news,news,sport,talk",WKAQ 580 San Juan
-http://34.83.38.26/univision-wkaqamaac-ibc1?session-id=9ff8390ea727afb641faf74de6c03e04
 #EXTINF:-1 tvg-logo="" group-title="talk",WMSW "Radio Once" 1120 AM Hatillo, PR
 http://server10.servistreaming.com:9004/stream
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s21849q.png" group-title="spanish pop,spanish talk",WPAB 550 PONCE
@@ -45,5 +43,3 @@ http://server7.servistreaming.com:10070/stream
 http://68.235.35.243:9027/;stream.mp3
 #EXTINF:-1 tvg-logo="http://www.vid90.com/images/logo_vid_med.png" group-title="anasco,jazz",WVID 90.3 "Vid 90" Anasco
 http://s3.voscast.com:7720/
-#EXTINF:-1 tvg-logo="http://zeta93.fm/favicon.ico" group-title="salsa",Zeta 93 FM
-https://prod-54-163-55-17.wostreaming.net/sbsystems-wzntfmaac-hlsc1.m3u8?

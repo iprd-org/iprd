@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="folk",100% Krajiški Radio
-http://37.59.28.208:8531/
 #EXTINF:-1 tvg-logo="http://www.radioactive.rs/img/facebook.jpg" group-title="local programming",Active Radio Bečej
 http://active96-naxinacional.streaming.rs:8555/
 #EXTINF:-1 tvg-logo="" group-title="local programming",Ami Naxi Radio Kikinda
@@ -13,16 +11,12 @@ http://antenaradio.org:4560/listen.pls
 https://mastermedia.shoutca.st/proxy/radioasfm?mp=/stream
 #EXTINF:-1 tvg-logo="https://radiobanker.rs/wp-content/uploads/2018/11/cropped-BANKER-radio-LOGO-512px-270x270.png" group-title="",BANKER
 http://banker96-naxinacional.streaming.rs:8540/
-#EXTINF:-1 tvg-logo="http://radiobelacrkva.rs/favicon.ico" group-title="narodna,zabavna",Bela Crkva
-http://belacrkva32.streaming.rs:8140/
 #EXTINF:-1 tvg-logo="" group-title="classical",Belami radio 
 http://92.60.230.200:5040/listen.pls
 #EXTINF:-1 tvg-logo="" group-title="",Beograd 3
 http://138.201.33.203:8000/rts_3
 #EXTINF:-1 tvg-logo="https://beseda.rs/favicon.ico" group-title="ortodox",Beseda
 http://92.61.114.191:9180/stream
-#EXTINF:-1 tvg-logo="" group-title="local programming",Bravo FM
-http://streaming.orion.rs:8030/
 #EXTINF:-1 tvg-logo="http://bumbumradio.rs/wp-content/uploads/2017/06/cropped-logo-100px-192x192.png" group-title="folk",Bum Bum Radio
 http://185.22.144.158:8000/listen.pls
 #EXTINF:-1 tvg-logo="http://www.coolradio.rs/favicon.ico" group-title="folk",Cool Radio
@@ -35,8 +29,6 @@ http://stream.zeno.fm/kcn3b5gfuhruv?rj-ttl=5&rj-tok=AAABfd2VeTYA0AHaAEKimBdcDg
 http://streaming.hitfm.rs/acoustic.mp3
 #EXTINF:-1 tvg-logo="http://static.radio.it/images/broadcasts/b9/54/27658/c175.png" group-title="serbian music",Hit FM Radio Beograd
 http://streaming.hitfm.rs:8000/hit
-#EXTINF:-1 tvg-logo="" group-title="serbian pop music",HitFM
-http://streaming11.tdiradio.com:8000/hit
 #EXTINF:-1 tvg-logo="https://karolina.rs/wp-content/uploads/2019/02/cropped-karolina-social-logo-180x180.png" group-title="lounge,music",Karolina
 http://streaming.karolina.rs:8000/karolina
 #EXTINF:-1 tvg-logo="" group-title="undefined",Laguna
@@ -47,8 +39,6 @@ https://s1.skeletor.rs/lotel
 http://dreamsiteradiocp.com:8014/listen.pls
 #EXTINF:-1 tvg-logo="" group-title="",Moj radio
 http://eu4.fastcast4u.com:5692/
-#EXTINF:-1 tvg-logo="http://www.radio-fan.org/logofan.png" group-title="",Muzički Radio Fan
-http://stream.fanradio.info:9000/
 #EXTINF:-1 tvg-logo="" group-title="folk",Naxi - hype
 https://naxidigital-hype128ssl.streaming.rs:8272/;stream.nsv
 #EXTINF:-1 tvg-logo="https://www.naxi.rs/images/naxi_favicon.ico" group-title="chansons,mediterranean",Naxi Adore
@@ -85,8 +75,6 @@ http://live3.okradio.net:8004/
 http://live7.okradio.net/;*.mp3
 #EXTINF:-1 tvg-logo="http://play.radiostanica.com/static/images/favicon.ico" group-title="",OK Radio Prelo
 http://live.okplus.rs:8050/;*.mp3
-#EXTINF:-1 tvg-logo="" group-title="university radio",Omnibus Youth Radio
-http://46.22.145.218:8000/stream.mp3
 #EXTINF:-1 tvg-logo="" group-title="",Pannon Rádió
 http://breddstream.unrealhosting.hu:4120/listen.pls
 #EXTINF:-1 tvg-logo="http://b92s.net/playradio/images/social.png" group-title="",Play
@@ -103,10 +91,6 @@ https://stream.playradio.rs:8443/soft.mp3
 https://stream.playradio.rs:8443/urban.mp3
 #EXTINF:-1 tvg-logo="https://prviradio.rs/favicon.ico" group-title="",Prvi radio Novi Sad
 https://mastermedia.shoutca.st/proxy/prviradions?mp=/stream
-#EXTINF:-1 tvg-logo="" group-title="folk,local programming",Radio 012 Požarevac
-http://178.32.62.163:8762/
-#EXTINF:-1 tvg-logo="http://radio016.net/favicon.ico" group-title="leskovac 016,radio 016,serbian music",Radio 016 Leskovac
-http://radiostreaming.ninet.rs:8400/stream/1/
 #EXTINF:-1 tvg-logo="https://radio021.rs/favicon.ico" group-title="",Radio 021
 https://radio.dukahosting.com/8006/stream
 #EXTINF:-1 tvg-logo="" group-title="misc",Radio 202
@@ -129,62 +113,24 @@ http://138.201.33.203:8000/rts_1
 http://138.201.33.203:8000/rts_2
 #EXTINF:-1 tvg-logo="http://bucaradio.com/wp-content/uploads/2013/11/favicon.png" group-title="folk",Radio Buca
 http://live.bucaradio.com:8080/listen.pls
-#EXTINF:-1 tvg-logo="" group-title="folk",Radio Cer
-http://stream1.contrateam.com:8040/
-#EXTINF:-1 tvg-logo="" group-title="folk,local music,pop",Radio D
-http://213.239.205.210:6010/
-#EXTINF:-1 tvg-logo="http://www.radiodak.rs/assets/img/elements/favicon.ico" group-title="folk",Radio DAK
-http://85.25.73.243:10150/
-#EXTINF:-1 tvg-logo="http://www.radio-delta.com/forum//favicon.ico" group-title="folk",Radio Delta
-http://185.119.90.9:2047/stream
-#EXTINF:-1 tvg-logo="" group-title="folk",Radio Futog
-http://composite.us.to:8020/
 #EXTINF:-1 tvg-logo="http://www.vlasotince.tv/assets/images/ico/apple-touch-icon-114-precomposed.png" group-title="rock",radio gaga
 http://188.40.95.74:8028/listen.pls
-#EXTINF:-1 tvg-logo="http://www.radio-gold.rs/wp-content/uploads/2015/12/cropped-GOLD-logo-copy-270x270.png" group-title="folk",Radio Gold Braničevo
-http://213.239.205.210:8018/
-#EXTINF:-1 tvg-logo="https://radioin.co.rs/wp-content/uploads/2017/12/cropped-favicon-300x300.png" group-title="local music",Radio IN
-http://inradio96-naxinacional.streaming.rs:8580/
-#EXTINF:-1 tvg-logo="https://radioin.co.rs/wp-content/uploads/2017/12/cropped-favicon-300x300.png" group-title="pop",Radio IN 95.6 FM - Niš
-http://inradio96-naxinacional.streaming.rs:8580/;stream/1
 #EXTINF:-1 tvg-logo="https://www.radioinbeograd.rs/favicon.ico" group-title="folk,music,pop,world music",Radio IN Beograd
 https://radio3-64ssl.streaming.rs:9212/;*.mp3
-#EXTINF:-1 tvg-logo="" group-title="serbian pop music",Radio JAT 90.2
-http://streaming11.tdiradio.com:8000/radiojat
-#EXTINF:-1 tvg-logo="http://www.radiojavor.rs/images/Znak%20Radio%20Javor%20Q.png" group-title="",Radio Javor
-http://javor.streaming.rs:9320/
-#EXTINF:-1 tvg-logo="" group-title="top 40",Radio K4
-http://80.80.160.232:8090/listen.pls
 #EXTINF:-1 tvg-logo="https://karolina.rs/wp-content/uploads/2019/02/cropped-karolina-social-logo-180x180.png" group-title="80s,90s,classic hits",Radio Karolina - Classic hits 80′ 90′
 http://streaming.karolina.rs/classics.mp3
-#EXTINF:-1 tvg-logo="" group-title="folk",Radio Klas
-http://136.243.12.82:9014/
-#EXTINF:-1 tvg-logo="" group-title="",Radio Koliba
-http://radiokoliba.com:19334/stream
 #EXTINF:-1 tvg-logo="http://radiolevac.rs/wp-content/uploads/2019/04/logo150radiolevac.png" group-title="",Radio Levač
 http://213.239.205.210:8046/
-#EXTINF:-1 tvg-logo="" group-title="folk",Radio Ljubav
-http://ljubav.streaming.rs:9340/
 #EXTINF:-1 tvg-logo="http://radiomarija.rs/wp-content/uploads/2015/02/radiomaria2.ico" group-title="catholic,religion,talk",RADIO MARIA SERBIA
 http://dreamsiteradiocp.com:8012/stream
 #EXTINF:-1 tvg-logo="" group-title="catholic,religion,talk",RADIO MARIA SERBIA HUNG
 http://dreamsiteradiocp2.com:8062/stream
 #EXTINF:-1 tvg-logo="" group-title="catholic,religion,talk",RADIO MARIA SERBIA HUNG
 http://dreamsiteradiocp.com:8014/stream
-#EXTINF:-1 tvg-logo="http://www.radiomorava.rs/wp/wp-content/uploads/2015/12/tile_icon.png" group-title="local programming",Radio Morava
-http://159.253.138.218:8020/
-#EXTINF:-1 tvg-logo="http://www.radiomorava.rs/wp/wp-content/uploads/2015/12/tile_icon.png" group-title="folk,local programming",Radio Morava
-http://159.253.138.218/
 #EXTINF:-1 tvg-logo="http://www.nostalgija.rs/favicon.ico" group-title="goldies,oldies",Radio Nostalgija
 http://nostalgie128.streaming.rs:9250/
 #EXTINF:-1 tvg-logo="" group-title="",Radio Nostalgija AAC
 http://nostalgie48.streaming.rs:9270/
-#EXTINF:-1 tvg-logo="http://static.rtv.rs/slike/2011/11/28/rtv-logotip-281x281_281x281.jpg" group-title="features,news,public radio,rtv",Radio Novi Sad 1
-http://79.101.121.123:1935/rns1/prviprogram/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://static.rtv.rs/slike/2011/11/28/rtv-logotip-281x281_281x281.jpg" group-title="public radio,rtv",Radio Novi Sad 2 - Újvidéki Rádió
-http://79.101.121.123:1935/rns2/drugiprogram/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://static.rtv.rs/slike/2011/11/28/rtv-logotip-281x281_281x281.jpg" group-title="public radio,rtv",Radio Novi Sad 3
-http://79.101.121.123:1935/rns3/treciprogram/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://radionovosti.com/wp-content/uploads/2013/04/cd_music2.gif" group-title="music,news",Radio Novosti
 http://www.radionovosti.rs:443/radionovosti56s.mp3
 #EXTINF:-1 tvg-logo="http://www.radiopingvin.com/images/logo-pingvin.jpg" group-title="najvise muzike",Radio Pingvin
@@ -221,8 +167,6 @@ http://185.119.89.63:8000/
 http://n01.radiojar.com/bugesa4nn3quv?download=1&rj-tok=AAABfd097kEAgBGtRRUzXvSDYw&rj-ttl=5
 #EXTINF:-1 tvg-logo="http://studiob.rs/wp-content/uploads/2016/05/favicon-194x194.png" group-title="jazz,news,urban",Radio Studio B
 http://radio.studiob.rs:8004/
-#EXTINF:-1 tvg-logo="http://www.radiosumadinac.org/favicon.ico" group-title="folk",Radio Sumadinac
-http://www.mr-streaming.com:8000/
 #EXTINF:-1 tvg-logo="https://www.infoera.rs/favicon.ico" group-title="local news,popular music",Radio Užice
 http://uzice.yunethosting.net:8000/stream
 #EXTINF:-1 tvg-logo="http://radiovip.org/wp-content/uploads/2016/09/cropped-SquareLogo-270x270.png" group-title="",Radio VIP
@@ -231,8 +175,6 @@ http://vip128.streaming.rs:8110/
 http://5.135.154.69:14870/listen.pls
 #EXTINF:-1 tvg-logo="https://static.parastorage.com/client/pfavico.ico" group-title="",radioaparat
 http://ca3.rcast.net:8060/
-#EXTINF:-1 tvg-logo="http://www.resavski.rs/wp/wp-content/uploads/2016/03/resavski-radio-facebook-graph-api.jpg" group-title="folk",Resavski Radio Despotovac
-http://159.253.138.218:8800/
 #EXTINF:-1 tvg-logo="https://rockradio.rs/wp-content/uploads/2020/06/rock-radio-icon.png" group-title="alternative rock,classic rock,hard rock,rock,serbian music",Rock Radio Belgrade (Рок Радио Београд)
 https://mastermedia.shoutca.st/proxy/rockradio?mp=/stream
 #EXTINF:-1 tvg-logo="https://superfm.rs/wp-content/uploads/2021/03/super-loading-100x100.png" group-title="hits,pop",Super FM
@@ -257,8 +199,6 @@ http://streaming.tdiradio.com:8000/poprnbhits
 http://streaming.tdiradio.com:8000/top40
 #EXTINF:-1 tvg-logo="https://tdiradio.com/wp-content/uploads/2020/07/cropped-tdi-logo-icon1-180x180.png" group-title="dance",TDI Radio - Yu Dance
 http://streaming.tdiradio.com:8000/yudance
-#EXTINF:-1 tvg-logo="http://www.topfm.rs/favicon.ico" group-title="belgrade,dance,top 40",Top FM Radio 106.8 Belgrade
-http://live64.topfm.rs:8000/
 #EXTINF:-1 tvg-logo="https://undergrandradio.dotkomsite.com/" group-title="alternative,blues,funk,hard rock,jazz,metal,post rock,punk,underground",UnderGRAND Radio
 http://stream.zeno.fm/rp1swb5pgzzuv?rj-ttl=5&rj-tok=AAABfd5mFYYA2B6ojoPZDZ0yJw
 #EXTINF:-1 tvg-logo="http://wtfradio.rs/assets/logowtf.png" group-title="hits,pop",WTF Radio

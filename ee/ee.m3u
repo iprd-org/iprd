@@ -15,34 +15,6 @@ https://radio.streemlion.com:2525/stream
 https://streams.radio.co/s053b51423/listen
 #EXTINF:-1 tvg-logo="https://liveonlineradio.net/wp-content/uploads/2015/05/Kuma-Raadio1.jpg" group-title="talk,adult,contemporary",Kuma 101.0
 http://5.39.16.62:8004/tre
-#EXTINF:-1 tvg-logo="http://www.netiraadio.ee/g/netiraadio_apple_touch.png" group-title="nature,ambient,relax",Netiraadio Eesti loodus
-http://www.netiraadio.ee:8000/eestiloodus
-#EXTINF:-1 tvg-logo="http://www.netiraadio.ee/g/netiraadio_apple_touch.png" group-title="folk,world",Netiraadio Folk
-http://www.netiraadio.ee:8000/folgisobrad
-#EXTINF:-1 tvg-logo="http://www.netiraadio.ee/g/netiraadio_apple_touch.png" group-title="pop,oldies",Netiraadio Jaak Joala
-http://www.netiraadio.ee:8000/jaakjoala
-#EXTINF:-1 tvg-logo="http://www.netiraadio.ee/g/netiraadio_apple_touch.png" group-title="jazz,blues",Netiraadio Jazz
-http://www.netiraadio.ee:8000/jazzivarvid
-#EXTINF:-1 tvg-logo="http://www.netiraadio.ee/g/netiraadio_apple_touch.png" group-title="lounge,folk",Netiraadio Jõulud
-http://www.netiraadio.ee:8000/joulud
-#EXTINF:-1 tvg-logo="http://www.netiraadio.ee/g/netiraadio_apple_touch.png" group-title="classical,baroque,opera",Netiraadio Klassika
-http://www.netiraadio.ee:8000/klassika
-#EXTINF:-1 tvg-logo="http://www.netiraadio.ee/g/netiraadio_apple_touch.png" group-title="club,dance",Netiraadio Klubi Biit
-http://www.netiraadio.ee:8000/klubibiit
-#EXTINF:-1 tvg-logo="http://www.netiraadio.ee/g/netiraadio_apple_touch.png" group-title="oldies,hits",Netiraadio Kullafond
-http://www.netiraadio.ee:8000/kuldsedajad
-#EXTINF:-1 tvg-logo="http://www.netiraadio.ee/g/netiraadio_apple_touch.png" group-title="youth,kids",Netiraadio Lastekanal
-http://www.netiraadio.ee:8000/lastekanal
-#EXTINF:-1 tvg-logo="http://www.netiraadio.ee/g/netiraadio_apple_touch.png" group-title="pop,hits",Netiraadio Pop
-http://www.netiraadio.ee:8000/lahepop
-#EXTINF:-1 tvg-logo="http://www.netiraadio.ee/g/netiraadio_apple_touch.png" group-title="rock,pop",Netiraadio Puhas Traat
-http://www.netiraadio.ee:8000/puhastraat
-#EXTINF:-1 tvg-logo="http://netiraadio.ee/g/netiraadio_apple_touch.png" group-title="oldies,hits",Netiraadio Retro
-http://www.netiraadio.ee:8000/retro
-#EXTINF:-1 tvg-logo="http://www.netiraadio.ee/g/netiraadio_apple_touch.png" group-title="pop,easy listening",Netiraadio Sinu Hetked
-http://www.netiraadio.ee:8000/sinuhetked
-#EXTINF:-1 tvg-logo="http://www.netiraadio.ee/g/netiraadio_apple_touch.png" group-title="rock,metal",Netiraadio Tumedad Lood
-http://www.netiraadio.ee:8000/tumedadlood
 #EXTINF:-1 tvg-logo="http://www.nommeraadio.ee/images/favicon.ico" group-title="culture,talk",Nõmme Raadio
 http://149.210.138.12:8000/nommeraadio
 #EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/94/63/123730/2/c300.png" group-title="adult,contemporary,hits",Raadio Relax FM
@@ -57,11 +29,7 @@ http://sc1.treraadio.ee:8002/tre
 http://media.uunox.net:8888/listen.pls
 #EXTINF:-1 tvg-logo="http://www.sss-radio.ee//favicon.ico" group-title="finnish,pop",SSS-Radio 93.7
 http://217.146.76.112:8000/sss-radio
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s10094g.png" group-title="christian,religion",Tartu Family Radio 1035
-http://worker.pereraadio.ee:8000/
 #EXTINF:-1 tvg-logo="http://www.pereraadio.ee/uus/images/banners/top3/sagedus2.jpg" group-title="talk,christian",Tartu Pereraadio 89.0
 http://bee.pereraadio.ee:8000/
 #EXTINF:-1 tvg-logo="http://vikerraadio.err.ee//Content/favicon/uudised.jpg" group-title="variety,news",Vikerraadio 104.1
 http://icecast.err.ee/vikerraadio.mp3
-#EXTINF:-1 tvg-logo="http://www.xltrax.ee/wp-content/uploads/2014/04/favicon-144.png" group-title="dance,pop,club",XLT Radio Estonia
-http://174.142.215.249:8300/;stream.mp3

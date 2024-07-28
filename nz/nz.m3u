@@ -3,8 +3,6 @@
 http://125.236.204.178:8001/listen.mp3
 #EXTINF:-1 tvg-logo="http://8k.nz/favicon.ico" group-title="community radio,eclectic,freeform,indie",8K.NZ
 http://radio8k.out.airtime.pro:8000/radio8k_a
-#EXTINF:-1 tvg-logo="http://95bfm.com/sites/default/files/favicon.ico" group-title="alternative,auckland,community radio,indie",95bFM Auckland
-http://streams.95bfm.com/stream112
 #EXTINF:-1 tvg-logo="" group-title="alternative,indie",Andhow fm
 https://us4.internet-radio.com/proxy/andhowfm?mp=/stream
 #EXTINF:-1 tvg-logo="http://www.auckland80s.com/uploads/1/1/9/0/119036082/android_orig.png" group-title="80s",Auckland 80s
@@ -33,46 +31,24 @@ https://live.accessmedia.nz/Coast.stream_aac/playlist.m3u8
 https://live.accessmedia.nz/Coast.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.thecoast.net.nz/content/images/interface/icons/coast/apple-touch-icon-iphone-retina-120x120.png" group-title="",Coast FM
 https://ais-nzme.streamguys1.com/nz_011/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s266458g.png" group-title="",Coast FM 96.5 Westport - New Zealand
-http://37.59.37.6:12364/;nocache=1625478274?0.931107896726214
 #EXTINF:-1 tvg-logo="" group-title="community radio,local news",Compass FM
 http://stream.compassfm.org.nz:8000/Compass_FM_104.9
 #EXTINF:-1 tvg-logo="https://cfm.co.nz/wp-content/uploads/2019/09/CFM-header-logo.png?x22446" group-title="",Coromandel FM
 https://s47.myradiostream.com/:8864/listen.mp3/
 #EXTINF:-1 tvg-logo="" group-title="rock",East FM
 http://listen.eastfm.nz/stream.mp3
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s302357/images/logoq.png" group-title="80s,easy listening",Easy 80s
-http://procyon.shoutca.st:8032/listen.pls
 #EXTINF:-1 tvg-logo="" group-title="",Gaia FM New Zealand
 http://s2.stationplaylist.com:9000/gaiafm.aac
 #EXTINF:-1 tvg-logo="http://www.galaxyfm.co.nz/favicons/53c7edaf-71ab-432b-9997-1e9a4e27dfa9/favicon-180x180.png" group-title="adult contemporary,community radio,kawerau",Galaxy 107 FM  Kawerau
 http://s39.myradiostream.com:14858/;listen.mp3
-#EXTINF:-1 tvg-logo="https://www.georgefm.co.nz//design/images/icons/favicon.ico" group-title="dance,electro",George FM
-https://livestream.mediaworks.nz/radio_origin/george_[QTN]_128kbps/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.gold.co.nz/Assets/dist/interface/open-graph/09448_Gold_Announce_FB_WebShare.jpg" group-title="",GOLD 105.4 Auckland - New Zealand
 http://ais-nzme.streamguys1.com/nz_015_aac
 #EXTINF:-1 tvg-logo="https://www.gold.co.nz/Assets/dist/interface/favicons/favicon-16x16.png" group-title="classic hits,classic rock,rock",Gold AM nz
 https://ais-nzme.streamguys1.com/nz_016/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="horror punk",Horror Punk Radio
-http://procyon.shoutca.st:8428/stream
 #EXTINF:-1 tvg-logo="https://s3-ap-southeast-2.amazonaws.com/crowdhubrhemaau/favicons/1/favicon-96x96.png" group-title="christian,gospel",LifeFM
 http://rhema-radio.streamguys1.com/rhema-lifefm.mp3
-#EXTINF:-1 tvg-logo="https://www.magic.co.nz/design/clientlibs/assets/magic/imgs/ui/logo-desktop.svg" group-title="classic hits,music,oldies",Magic Music
-https://livestream.mediaworks.nz/radio_origin/magic_128kbps/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.mixonline.co.nz//content/images/interface/icons/Easymix/apple-touch-icon-iphone-60x60.png" group-title="",Mix
 https://ais-nzme.streamguys1.com/nz_012/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.centralchallenge.co.nz/wp-content/uploads/2018/04/More-FM.png" group-title="",MORE 92.8FM Nelson NZ
-https://tunein-icecast.mediaworks.nz/more_nelson_128kbps
-#EXTINF:-1 tvg-logo="https://www.morefm.co.nz//design/images/icons/favicon.192.png" group-title="",More FM
-http://livestream.mediaworks.nz/radio_origin/more_128kbps/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",Mushroom Escape
-http://135.181.78.169:8648/escape
-#EXTINF:-1 tvg-logo="" group-title="",Mushroom FM
-http://135.181.78.169:8648/live
-#EXTINF:-1 tvg-logo="http://www.retrohitradio.co.nz/css/img/icon.png" group-title="80s,retro,retrowave,synthwave",Neo Radio
-http://curiosity.shoutca.st:6383/listen.pls
-#EXTINF:-1 tvg-logo="https://www.nznetradio.net.nz/favicon.ico" group-title="pop",New Zealand Net Radio
-http://www.nznetradio.net.nz:8000/stream.mp3
 #EXTINF:-1 tvg-logo="https://www.newstalkzb.co.nz/content/images/interface/icons/newstalkzb/apple-touch-icon-v6.png" group-title="local news,news,news talk,talk",Newstalk ZB Auckland
 https://ais-nzme.streamguys1.com/nz_002_aac
 #EXTINF:-1 tvg-logo="https://www.newstalkzb.co.nz/content/images/interface/icons/newstalkzb/apple-touch-icon-v6.png" group-title="local news,news,news talk",Newstalk ZB Christchurch
@@ -85,14 +61,10 @@ http://icecast.groundtruth.co.nz:8000/paekakfm.mp3
 http://live.accessmedia.nz/plains.stream_aac/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7t0qrcsFhyKWaLGNqiApczhy3t-_a5dekN1E2WsDs7atggrklnQ30wP7y2xlUqZqV8xo&usqp=CAU" group-title="",Radio A - Nelson NZ
 https://listen.radioking.com/radio/106324/stream/145267
-#EXTINF:-1 tvg-logo="https://www.radiodunedin.co.nz//media/1045/favicon.png" group-title="",Radio Dunedin
-https://livestream.mediaworks.nz/radio_origin/Radio_Dunedin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.hauraki.co.nz//content/images/interface/icons/Hauraki/apple-touch-icon-ipad-76x76.png" group-title="",Radio Hauraki
 https://ais-nzme.streamguys1.com/nz_009_aac
 #EXTINF:-1 tvg-logo="https://www.radionz.co.nz/brand-images/rnz-sky-sq.jpg" group-title="",Radio New Zealand Concert
 http://radionz-ice.streamguys.com/Concert_aac128
-#EXTINF:-1 tvg-logo="http://www.r1.co.nz/images/favicons/favicon-32x32.png" group-title="university radio",Radio One 91FM in Dunedin
-http://stream.r1.co.nz:8090/r1-high.mp3
 #EXTINF:-1 tvg-logo="https://www.radiorockfm.co.nz/favicon.ico" group-title="hard rock,rock",Radio Rock FM
 http://www.radiorockfm.co.nz:8000/listenlive
 #EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/brand/icon_192x192.png" group-title="music",Radio Spice (Auckland, New Zealand)
@@ -101,8 +73,6 @@ http://stream9.broadcast.co.nz:8000/radiospicewebsiteaudio.mp3
 http://ais-nzme.streamguys1.com/nz_116_aac
 #EXTINF:-1 tvg-logo="https://waateanews.com/wp-content/uploads/2021/04/cropped-profile-180x180.png" group-title="news",Radio Waatea
 http://apple.irirangi.net:8000/I_Waatea.aac
-#EXTINF:-1 tvg-logo="" group-title="community radio,student radio",RadioActive 88.6 FM
-http://37.59.28.208:8640/radioactivefm
 #EXTINF:-1 tvg-logo="" group-title="alternative",RadioActive.FM 88.6
 https://radio123-gecko.radioca.st/radioactivefm
 #EXTINF:-1 tvg-logo="https://s3-ap-southeast-2.amazonaws.com/crowdhubrhemaau/favicons/48/favicon-96x96.png" group-title="christian",Rhema
@@ -127,40 +97,18 @@ http://149.56.234.138:8169/listen.pls
 https://smooth.radioca.st/streams/64kbps
 #EXTINF:-1 tvg-logo="https://s3-ap-southeast-2.amazonaws.com/crowdhubrhemaau/favicons/49/favicon-96x96.png" group-title="christian,rhema",Star
 http://rhema-radio.streamguys1.com/rhema-star.mp3
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s248139g.png" group-title="",THE BREEZE 97.6 Nelson - NZ
-https://tunein-icecast.mediaworks.nz/breeze_nelson_128kbps
-#EXTINF:-1 tvg-logo="https://www.thebreeze.co.nz/design/images/icons/favicon.120.png" group-title="easy listening",The Breeze Auckland
-http://tunein-icecast.mediaworks.nz/breeze_128kbps
-#EXTINF:-1 tvg-logo="https://www.thebreeze.co.nz/design/images/icons/favicon.120.png" group-title="",The Breeze Wellington
-https://tunein-icecast.mediaworks.nz/breeze_wellington_128kbps
-#EXTINF:-1 tvg-logo="http://thecheese.co.nz/wp-content/themes/atahualpa/images/favicon/fff-music.ico" group-title="80s,90s,today",The Cheese
-http://thecheese.ddns.net:8000/
-#EXTINF:-1 tvg-logo="https://thecheese.co.nz/favicon.ico" group-title="pop",The Cheese (lossless)
-http://thecheese.ddns.net:8004/stream
-#EXTINF:-1 tvg-logo="https://www.theedge.co.nz/design/images/icons/favicon.192.png" group-title="",The Edge NZL
-https://livestream.mediaworks.nz/radio_origin/edge_128kbps/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://theflea.co.nz/wp-content/themes/blognews/images/logo.gif" group-title="community radio",The Flea FM 88.2
-http://49.50.246.42:8020/
 #EXTINF:-1 tvg-logo="https://thegenerator.co.nz/wp-content/uploads/2018/11/the_generator_head_trans_v2.jpg" group-title="classic rock,hard rock,heavy metal,rock",The Generator
 https://s1.myradiostream.com/:14268/;?type=http&nocache=1608640718?0.7458407789862892
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn4LdOtGjhvPHSWXlxHYIxncAbXPe-PHBgb_Rbi76Lw998DkxrA1kbQTJ5yfyNM3QYs8M&usqp=CAU" group-title="",The Hits 89.6 Nelson - New Zealand
 http://ais-nzme.streamguys1.com/nz_020_aac
 #EXTINF:-1 tvg-logo="http://www.mostfm.co.nz/favicon.ico" group-title="",The Most Fm
 http://gordon.mostfm.com:8000/high
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/be2786_c8805d95b2454642aa4dde7ad1622722%7Emv2_d_3897_3345_s_4_2.jpg" group-title="auckland,community radio,funk,jazz,soul",The Plug 106.9 Auckland
-http://s2.voscast.com:11614/listen.pls
-#EXTINF:-1 tvg-logo="https://www.therock.net.nz/home/_jcr_content/image.dynimg.1280.q75.jpg/v1533156780647/ROK-Listen-live-The-Rock-Generic-1100x620.jpg" group-title="",The Rock
-http://tunein-icecast.mediaworks.nz/rock_128kbps
-#EXTINF:-1 tvg-logo="http://www.thesound.co.nz//design/images/icons/favicon.192.png" group-title="classic rock,m3u8",The Sound
-http://livestream.mediaworks.nz/radio_origin/sound_128kbps/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsradio.net/favicon.ico" group-title="christian,smooth jazz",Wandering Sheep Radio - Christian Smooth Jazz
 http://radio.wanderingsheep.tv:8021/christianjazz
 #EXTINF:-1 tvg-logo="https://wsradio.net/favicon.ico" group-title="christian,praise,worship",Wandering Sheep Radio - Hope Alive
 http://radio.wanderingsheep.tv:8012/hopealive
 #EXTINF:-1 tvg-logo="http://wsradio.net/wp-content/uploads/2014/07/gordonsheep1.ico" group-title="christian,smooth jazz",Wandering Sheep Radio - Jazz Cafe
 http://radio.wanderingsheep.tv:8000/jazzcafe
-#EXTINF:-1 tvg-logo="http://www.worldfm.co.nz/WorldFMt.jpg" group-title="world music,world news",World FM (New Zealand)
-http://worldfm.radio:8882/worldfmhd.aac
 #EXTINF:-1 tvg-logo="http://xs80s.com/img/XS80s-PP.png" group-title="",XS80s
 http://s1.myradiostream.com:12508/listen.mp3
 #EXTINF:-1 tvg-logo="" group-title="",ZM

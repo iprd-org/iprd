@@ -13,8 +13,6 @@ https://asima.out.airtime.pro/asima_a
 http://asima.out.airtime.pro:8000/asima_a
 #EXTINF:-1 tvg-logo="https://bissanfm.com/wp-content/uploads/2019/10/bissan.png" group-title="",Bissan
 https://usa6.fastcast4u.com/proxy/tgmuqeqj?mp=/listen.pls
-#EXTINF:-1 tvg-logo="http://www.fusefmsouria.com/assets/img/logo.png" group-title="",Fuse Radio
-http://192.99.17.12:4986/;stream.mp3
 #EXTINF:-1 tvg-logo="https://nasaem.fm/wp-content/uploads/2019/12/cropped-Logo22-1-192x192.png" group-title="",Nasaem Syria Radio
 http://stream.zeno.fm/2qds7p2nerruv?rj-ttl=5&rj-tok=AAABfd0P5jEAmfO0CcBv-cDBtw
 #EXTINF:-1 tvg-logo="http://cdn.onlineradiobox.com/img/logo/0/74160.png" group-title="",Ninar Radio
@@ -29,14 +27,8 @@ http://radioliveb.rtv.gov.sy:8002/RadioCham
 http://188.247.86.66/RadioFann/Audio128/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.rozana.fm/assets/website/logos/logo-white-0d8ef6802d894fd0cf65a55d7ecee2f4d368ab6f2896e78c3221b026f7c96fd5.png" group-title="",Rozana
 http://stream.zeno.fm/n4d3nq4258quv?rj-ttl=5&rj-tok=AAABfd5s38sA1tDIQlnhhbynsA
-#EXTINF:-1 tvg-logo="" group-title="",sham fm
-http://66.248.205.204:8400/stream
-#EXTINF:-1 tvg-logo="" group-title="",Sham FM
-https://radioshamfm.grtvstream.com:8400/listen.pls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eR8QSEt.png" group-title="",Souryana
 http://radioliveb.rtv.gov.sy:8008/RadioSouryana
-#EXTINF:-1 tvg-logo="http://swaida.com/radio/template/ylogo.jpg" group-title="",Swaida
-http://swaida.com:9996/listen.pls
 #EXTINF:-1 tvg-logo="https://melodysyria.com/wp-content/uploads/2018/02/cropped-logo-2222-180x180.png" group-title="",Syria Melody Radio
 http://streaming.inet.sy:8000/melodyfm
 #EXTINF:-1 tvg-logo="" group-title="",Syria Satellite TV
@@ -45,7 +37,5 @@ http://www.elahmad.com/tv/m3u8/adtv.m3u8?v=2
 http://192.99.170.8:5470/;/;stream.mp3
 #EXTINF:-1 tvg-logo="" group-title="",Zenobia Radio
 http://radioliveb.rtv.gov.sy:8002/RadioZenobia
-#EXTINF:-1 tvg-logo="" group-title="news",راديو الكل
-http://livecast.radioalkul.com:8080/;?type=http&nocache=361
 #EXTINF:-1 tvg-logo="" group-title="classical",قديم FM
 http://usa6.fastcast4u.com:5109/live

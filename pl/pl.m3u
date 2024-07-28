@@ -11,22 +11,12 @@ https://stream.open.fm/3
 http://5.201.13.191/live
 #EXTINF:-1 tvg-logo="https://radiokampus.fm/logo192.png" group-title="blues,brit pop,country music,jazz,metal,polish,rock,world music",Akademickie Radio Kampus
 http://193.0.98.66:8005/listen.pls
-#EXTINF:-1 tvg-logo="http://radioluz.pwr.edu.pl/favicon.ico" group-title="rock",Akademickie Radio Luz
-http://156.17.39.65:8000/luzhifi.mp3
 #EXTINF:-1 tvg-logo="" group-title="christian",Aniol Beskidów
 http://media.aniolbeskidow.pl:22000/aniolbeskidow
 #EXTINF:-1 tvg-logo="" group-title="metal,rock",Antyradio
 https://n-4-2.dcs.redcdn.pl/sc/o2/Eurozet/live/antyradio.livx?audio=5
 #EXTINF:-1 tvg-logo="" group-title="",Antyradio Warszawa
 http://an03.cdn.eurozet.pl/ant-waw.mp3?redirected=03
-#EXTINF:-1 tvg-logo="" group-title="",ArtRadio Bogatynia
-http://91.232.4.33:7096/
-#EXTINF:-1 tvg-logo="" group-title="",Bezpieczna podroz
-http://4stream.pl:18546/listen.pls
-#EXTINF:-1 tvg-logo="http://www.radioblue.fm/favicon.ico" group-title="",Blue FM Poznan
-http://stream5.radioagora.pl:8004/
-#EXTINF:-1 tvg-logo="" group-title="christian contemporary",CCM
-http://primary.moodyradiostream.org/radioccm
 #EXTINF:-1 tvg-logo="https://gfx.chillizet.pl/design/chillizet/src/images/favicon/apple-touch-icon.png" group-title="",Chilli Zet
 https://ch02.cdn.eurozet.pl/chi-net.mp3?redirected=02
 #EXTINF:-1 tvg-logo="https://gfx.chillizet.pl/design/chillizet/src/images/favicon/apple-touch-icon.png" group-title="",Chilli ZET Deep
@@ -49,10 +39,6 @@ https://n10.rcs.revma.com/cvswvmyewzzuv?rj-ttl=5&rj-tok=AAABfd5gD58AFN-lYsW9ZaEt
 https://s3.slotex.pl/shoutcast/7354/stream
 #EXTINF:-1 tvg-logo="https://discoparty.pl/wp-content/uploads/2020/11/cropped-logotyp-1-180x180.png" group-title="",DISCOPARTY.PL - Kanał disco
 https://s1.slotex.pl/shoutcast/7432/stream
-#EXTINF:-1 tvg-logo="" group-title="",DiscoPlaneta.eu
-http://s1.slotex.pl:7384/stream/1/listen.pls
-#EXTINF:-1 tvg-logo="" group-title="news",Dobre Radio 
-https://dobre.out.airtime.pro/dobre_a
 #EXTINF:-1 tvg-logo="" group-title="",Eden Fm
 http://s1.slotex.pl:7402/
 #EXTINF:-1 tvg-logo="" group-title="",EL-Stacja
@@ -67,42 +53,18 @@ https://radio.stream.smcdn.pl/icradio-p/2170-1.aac/playlist.m3u8
 https://radio.stream.smcdn.pl/icradio-p/2440-1.aac/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.eska.pl/media/eska/desktop/images/logo-eska.svg" group-title="pop",Eska Koszalin
 https://radio.stream.smcdn.pl/icradio-p/2270-1.aac/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="eska poznań poznan",Eska Poznań
-http://waw01-02.ic.smcdn.pl:8000/2140-1.mp3
-#EXTINF:-1 tvg-logo="https://www.eskarock.pl/media/eskarock/desktop/images/logo.svg" group-title="eska,eskago,rock",Eska ROCK
-https://ext03.ic.smcdn.pl/5380-1.aac
-#EXTINF:-1 tvg-logo="" group-title="classical",Eska Tarnów
-http://waw01-02.ic.smcdn.pl:8000/2160-1.mp3
-#EXTINF:-1 tvg-logo="" group-title="electronic",Eska Warszawa
-http://waw01-01.ic.smcdn.pl:8000/2380-1.aac
 #EXTINF:-1 tvg-logo="https://www.eska.pl/favicon.ico" group-title="dance,pop",Eska Wrocław
 https://radio.stream.smcdn.pl/icradio-p/2180-1.aac/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.eskago.pl/html/img/fb.jpg" group-title="disco,eska,eskago,impreza,party",eskaGO.pl - IMPREZA - Disco Party
-http://ext03.ic.smcdn.pl:8000/6180-1.mp3
-#EXTINF:-1 tvg-logo="https://www.eskago.pl/html/img/fb.jpg" group-title="eska,eskago",eskaGO.pl - Kraków
-http://ext03.ic.smcdn.pl:8000/2070-1.mp3
-#EXTINF:-1 tvg-logo="https://www.eskago.pl/html/img/fb.jpg" group-title="discopolo,eska,eskago,top40",eskaGO.pl - LISTY PRZEBOJÓW - Disco Polo Top 40
-http://ext03.ic.smcdn.pl:8000/6040-1.mp3
-#EXTINF:-1 tvg-logo="https://www.eskago.pl/html/img/fb.jpg" group-title="eska,eskago,relaks,rock",eskaGO.pl - RELAKS - Rock Relaks
-http://ext03.ic.smcdn.pl:8000/6010-1.mp3
-#EXTINF:-1 tvg-logo="https://www.eskago.pl/html/img/fb.jpg" group-title="",eskaGO.pl - Starachowice
-http://ext03.ic.smcdn.pl:8000/2400-1.mp3
-#EXTINF:-1 tvg-logo="https://www.eskago.pl/html/img/fb.jpg" group-title="eska,eskago",eskaGO.pl - Warszawa
-http://ext03.ic.smcdn.pl:8000/2380-1.mp3
 #EXTINF:-1 tvg-logo="https://www.radioexpress.pl/images/fb_avatar_express.jpg" group-title="",Express FM
 https://n12a-eu.rcs.revma.com/yx6cub73kwzuv?rj-ttl=5&rj-tok=AAABfd3x7XIAb2LiTEhRSXI1Gg
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/1/84141.v5.png" group-title="pop",Flash FM
 http://91.201.235.225:8017/stream/listen.pls
-#EXTINF:-1 tvg-logo="" group-title="folk",Folk Kielce
-http://gra.radio.kielce.pl:8000/frmp3
 #EXTINF:-1 tvg-logo="https://radioftb.net/wp-content/uploads/2020/11/appstore.png" group-title="",FTB Flash FM
 http://play.radioftb.net:8008/stream
 #EXTINF:-1 tvg-logo="http://nadaje.pro/cache/imgs/squareStylist-128-00000000-3f7a1b85.png" group-title="",Gdynia Radio
 http://51.255.8.139:8064/stream
 #EXTINF:-1 tvg-logo="" group-title="christian praise&worship,praise and worship,religia,religion,religious,worship",Głos Nadziei
 https://ssl-1.radiohost.pl:9548/index
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/4/102174.v1.png" group-title="misc",Goldstacja.FM
-http://s1.slotex.pl:7326/listen.pls
 #EXTINF:-1 tvg-logo="https://halo-radio.appyourself.net/images/appTopImage/21cbd2b4-2ccf-4cb3-a5a5-252cde4a7af3.png" group-title="halo.radio,haloradio",Halo.Radio
 https://s3.radio.co/s6b9e36d1c/listen
 #EXTINF:-1 tvg-logo="http://open.fm/logo/200x200/24" group-title="hip-hop,hiphop,polish",Hip-Hop PL - Open FM
@@ -135,16 +97,8 @@ http://4stream.pl:18322/;?nocache=1618962538
 http://4stream.pl:18410/listen.pls
 #EXTINF:-1 tvg-logo="" group-title="",InterStacja - Oldies
 http://4stream.pl:18290/listen.pls
-#EXTINF:-1 tvg-logo="" group-title="italo disco,italo disco new generation",ItaloNewGeneration
-http://s1.slotex.pl:7468/stream/1/listen.pls
-#EXTINF:-1 tvg-logo="" group-title="",JKS Radio Jolanda
-http://s1.slotex.pl:7962/listen.pls
 #EXTINF:-1 tvg-logo="http://jumpradio.net/favicon.png" group-title="electronic",JUMP Radio
 http://radioo.eu:9900/
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s236659/images/logog.png?t=155663" group-title="pop,rock",Junction Poland
-http://www.junctionpoland.com:8000/aac-128
-#EXTINF:-1 tvg-logo="" group-title="",Kacik Rodzinny
-http://sc1.readycast.org:8516/;.mp3
 #EXTINF:-1 tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/77/a4/124709/1/c175.png" group-title="ambient,comunity,techno",Kapitał
 https://radiokapitalpl.out.airtime.pro/radiokapitalpl_a
 #EXTINF:-1 tvg-logo="https://krdp.fm/wp-content/uploads/2021/02/cropped-cropped-logo_-1-180x180.png" group-title="pop",Katolickie Radio Diecezji Plockiej
@@ -161,12 +115,8 @@ https://listen.radioking.com/radio/274180/stream/320404
 http://stream2.technologicznie.net/konin.fm
 #EXTINF:-1 tvg-logo="http://nettv.live/uploads/19/1-1Z205205451c6.jpg" group-title="",Kujawy TV
 http://stream.kujawy.info:8080/live/broadcast.m3u8
-#EXTINF:-1 tvg-logo="http://www.lapdanceradio.eu/favicon.ico" group-title="",LapDanceRadio
-http://server.lapdanceradio.eu:8000/stream
 #EXTINF:-1 tvg-logo="" group-title="local news",Leliwa
 https://streaming.g-news.pl/radio/8050/leliwa
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s291382q.png" group-title="",Lem FM
-http://lemfm.radiokitstream.org/lemfm.mp3
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s103210/images/logoq.png" group-title="",MC Radio
 http://stream4.nadaje.com:8624/mcradio
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/3/79763.v4.png" group-title="electronic",Mega Radio
@@ -175,122 +125,12 @@ https://n05a-eu.rcs.revma.com/q18ty3qhwzzuv?rj-ttl=5&rj-tok=AAABfdxNvKwAQvtPAwS1
 https://ml02.cdn.eurozet.pl/MELACO.mp3?redirected=02
 #EXTINF:-1 tvg-logo="" group-title="",Metal Live Radio
 http://51.255.8.139:8738/stream
-#EXTINF:-1 tvg-logo="http://www.minimalmix.com/favicon.ico" group-title="dub,electro,minimal,techno",Minimal Mix Radio
-http://5.39.71.159:8750/
 #EXTINF:-1 tvg-logo="http://player.mittendrin.pl/themes/mittendrinrwd2/img/radio-altneu.jpg" group-title="german beats,german pop,pop,rock",Mittendrin ALT!NEU Radio der deutschen Minderheit
 http://s1.slotex.pl:7430/stream
 #EXTINF:-1 tvg-logo="http://www.modules.pl/templates/default/images/logo.png" group-title="amiga,c64,chiptune,retro games,tracked",ModFM
 http://radio.modules.pl:8500/listen.pls
-#EXTINF:-1 tvg-logo="" group-title="aac,artist",Moje Polskie Genesis aac
-http://stream3.polskieradio.pl:8574/
-#EXTINF:-1 tvg-logo="" group-title="",MojePolskieRadio - Archeologia
-http://stream3.polskieradio.pl:8114/
-#EXTINF:-1 tvg-logo="" group-title="",MojePolskieRadio - Ballady
-http://stream3.polskieradio.pl:8074/
-#EXTINF:-1 tvg-logo="" group-title="",MojePolskieRadio - Bohaterowie Naszych Lektur
-http://stream3.polskieradio.pl:8084/
-#EXTINF:-1 tvg-logo="" group-title="",MojePolskieRadio - Classic Rock
-http://stream3.polskieradio.pl:8060/
-#EXTINF:-1 tvg-logo="" group-title="",MojePolskieRadio - Czworka
-http://stream3.polskieradio.pl:8906/
-#EXTINF:-1 tvg-logo="" group-title="",MojePolskieRadio - Genesis
-http://stream3.polskieradio.pl:8174/
-#EXTINF:-1 tvg-logo="" group-title="",MojePolskieRadio - Historia najnowsza - Polska
-http://stream3.polskieradio.pl:8082/
-#EXTINF:-1 tvg-logo="" group-title="",MojePolskieRadio - Historia Zwiazku Radzieckiego
-http://stream3.polskieradio.pl:8112/
-#EXTINF:-1 tvg-logo="" group-title="",MojePolskieRadio - Jan Pawel II w Radiach Wolnosci
-http://stream3.polskieradio.pl:8180/
-#EXTINF:-1 tvg-logo="" group-title="",MojePolskieRadio - Jedynka
-http://stream3.polskieradio.pl:8900/
-#EXTINF:-1 tvg-logo="" group-title="",MojePolskieRadio - Klasycy rocka
-http://stream3.polskieradio.pl:8166/
-#EXTINF:-1 tvg-logo="" group-title="",MojePolskieRadio - Koncerty w Trojce
-http://stream3.polskieradio.pl:8010/
-#EXTINF:-1 tvg-logo="" group-title="classical",MojePolskieRadio - Konkurs Chopinowski
-http://stream3.polskieradio.pl:8022/
-#EXTINF:-1 tvg-logo="" group-title="",MojePolskieRadio - Kosmos
-http://stream3.polskieradio.pl:8008/
-#EXTINF:-1 tvg-logo="" group-title="sounds of nature",MojePolskieRadio - Las
-http://stream3.polskieradio.pl:8128/
-#EXTINF:-1 tvg-logo="" group-title="",MojePolskieRadio - Mijaja lata zostaja piosenki
-http://stream3.polskieradio.pl:8168/
-#EXTINF:-1 tvg-logo="" group-title="",MojePolskieRadio - Minimax
-http://stream3.polskieradio.pl:8046/
-#EXTINF:-1 tvg-logo="" group-title="",MojePolskieRadio - Muzyka zrodel
-http://stream3.polskieradio.pl:8158/
-#EXTINF:-1 tvg-logo="" group-title="",MojePolskieRadio - Najpiekniejsze polskie piosenki
-http://stream3.polskieradio.pl:8020/
-#EXTINF:-1 tvg-logo="" group-title="",MojePolskieRadio - Nostalgia
-http://stream3.polskieradio.pl:8118/
-#EXTINF:-1 tvg-logo="" group-title="",MojePolskieRadio - Nowa Tradycja
-http://stream3.polskieradio.pl:8146/
-#EXTINF:-1 tvg-logo="" group-title="",MojePolskieRadio - Pink Floyd
-http://stream3.polskieradio.pl:8070/
-#EXTINF:-1 tvg-logo="" group-title="",MojePolskieRadio - Piosenki Niezaleznych
-http://stream3.polskieradio.pl:8178/
-#EXTINF:-1 tvg-logo="" group-title="",MojePolskieRadio - Polski top Wszech Czasow
-http://stream3.polskieradio.pl:8156/
-#EXTINF:-1 tvg-logo="" group-title="",MojePolskieRadio - PolskieRadio24
-http://stream3.polskieradio.pl:8080/
-#EXTINF:-1 tvg-logo="" group-title="",MojePolskieRadio - Potrojne Pasmo Przenoszenia
-http://stream3.polskieradio.pl:8138/
-#EXTINF:-1 tvg-logo="" group-title="",MojePolskieRadio - Prog Rock
-http://stream3.polskieradio.pl:8062/
-#EXTINF:-1 tvg-logo="" group-title="",MojePolskieRadio - Program alternatywny
-http://stream3.polskieradio.pl:8134/
-#EXTINF:-1 tvg-logo="" group-title="",MojePolskieRadio - Przeboje Lata z Radiem
-http://stream3.polskieradio.pl:8026/
-#EXTINF:-1 tvg-logo="" group-title="",MojePolskieRadio - Przeboje PRL
-http://stream3.polskieradio.pl:8066/
-#EXTINF:-1 tvg-logo="" group-title="",MojePolskieRadio - Przezyjmy to jeszcze raz
-http://stream3.polskieradio.pl:8106/
-#EXTINF:-1 tvg-logo="" group-title="",MojePolskieRadio - Radio Dzieciom
-http://stream3.polskieradio.pl:8916/
-#EXTINF:-1 tvg-logo="" group-title="",MojePolskieRadio - Radio Freud
-http://stream3.polskieradio.pl:8004/
-#EXTINF:-1 tvg-logo="" group-title="",MojePolskieRadio - Reportaz w Trojce
-http://stream3.polskieradio.pl:8012/
-#EXTINF:-1 tvg-logo="" group-title="",MojePolskieRadio - Slynne glosy i wielkie interpretacje
-http://stream3.polskieradio.pl:8160/
-#EXTINF:-1 tvg-logo="" group-title="",MojePolskieRadio - Spotkanie z mistrzem
-http://stream3.polskieradio.pl:8104/
-#EXTINF:-1 tvg-logo="" group-title="",MojePolskieRadio - Strefa rokendrola wolna od angola
-http://stream3.polskieradio.pl:8176/
-#EXTINF:-1 tvg-logo="" group-title="",MojePolskieRadio - Studio Reportazu
-http://stream3.polskieradio.pl:8108/
-#EXTINF:-1 tvg-logo="" group-title="",MojePolskieRadio - Szanty
-http://stream3.polskieradio.pl:8120/
-#EXTINF:-1 tvg-logo="" group-title="jazz",MojePolskieRadio - W jazzowym klimacie
-http://stream3.polskieradio.pl:8024/
-#EXTINF:-1 tvg-logo="" group-title="",MojePolskieRadio - Wieczor odkrywcow
-http://stream3.polskieradio.pl:8102/
-#EXTINF:-1 tvg-logo="" group-title="",MojePolskieRadio - Wojciech Mann i Marek Niedzwiecki
-http://stream3.polskieradio.pl:8018/
-#EXTINF:-1 tvg-logo="" group-title="",MojePolskieRadio - Wywiady Marka Niedzwieckiego
-http://stream3.polskieradio.pl:8016/
-#EXTINF:-1 tvg-logo="" group-title="",MojePolskieRadio - Z archiwum Radia Wolna Europa
-http://stream3.polskieradio.pl:8088/
-#EXTINF:-1 tvg-logo="" group-title="",MojePolskieRadio - Z dziejow Armii Krajowej
-http://stream3.polskieradio.pl:8054/
-#EXTINF:-1 tvg-logo="" group-title="",MojePolskieRadio - Za kulisami bezpieki i partii
-http://stream3.polskieradio.pl:8092/
-#EXTINF:-1 tvg-logo="" group-title="",MojePolskieRadio - Zabawy z jezykiem
-http://stream3.polskieradio.pl:8000/
-#EXTINF:-1 tvg-logo="" group-title="",MojePolskieRadio - Zapiski ze wspolczesnosci
-http://stream3.polskieradio.pl:8006/
-#EXTINF:-1 tvg-logo="" group-title="",MojePolskieRadio - РАДИО ПОЛЬША
-http://stream3.polskieradio.pl:8914/
 #EXTINF:-1 tvg-logo="http://muzo.fm/favicon-96x96.png" group-title="classic rock; alternative rock",Muzo FM
 https://n15a-eu.rcs.revma.com/1nnezw8qz7zuv?rj-ttl=5&rj-tok=AAABfd5qZwwADPuKsTSpWU2-LQ
-#EXTINF:-1 tvg-logo="" group-title="edm,pop",Muzyczne Radio
-http://stream3.nadaje.com:9900/;stream/1
-#EXTINF:-1 tvg-logo="" group-title="edm,pop",Muzyczne Radio
-http://stream3.nadaje.com:9000/;stream/1
-#EXTINF:-1 tvg-logo="https://muzyczneradio.pl/assets/583dad4b/favicon.ico" group-title="dance,pop",Muzyczne Radio - Best of
-https://stream3.nadaje.com:8601/
-#EXTINF:-1 tvg-logo="" group-title="chillout,lounge,smooth lounge",Muzyczne Radio - Relax
-https://stream3.nadaje.com:8593/
 #EXTINF:-1 tvg-logo="https://nasze.fm/loga/NRlogokwadrat.jpg" group-title="pop,rock,pop",Nasze Radio 104,7 FM
 https://online.nasze.fm:8443/stream
 #EXTINF:-1 tvg-logo="https://nasze.fm/loga/NRNlogokwadrat.png" group-title="oldies",Nasze Radio 92,1 FM... nostalgicznie
@@ -299,10 +139,6 @@ https://online.nasze.fm:9443/stream
 https://n14a-eu.rcs.revma.com/fq577gymev8uv?rj-ttl=5&rj-tok=AAABfdyAYloAz7-8RCnxvRDc6g
 #EXTINF:-1 tvg-logo="" group-title="hiphop",newonce.radio
 https://streamer.radio.co/s93b51ccc1/listen
-#EXTINF:-1 tvg-logo="http://niepoprawneradio.pl/favicon.ico" group-title="",Niepopraewne Radio PL
-http://87.117.193.10:8060/
-#EXTINF:-1 tvg-logo="" group-title="",Niepoprawne Radio PL
-http://87.117.193.13/listen.pls
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s290346g.png" group-title="",Nocne Radio
 http://144.91.112.88:8000/live
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/7/1627.v1.png" group-title="electronic",NOISE fm
@@ -547,8 +383,6 @@ http://stream.open.fm/110
 http://s1.slotex.pl:7074/stream
 #EXTINF:-1 tvg-logo="https://www.paranormalium.pl" group-title="talk",Paranormalium
 http://shoutcast.paranormalium.pl:8000/5
-#EXTINF:-1 tvg-logo="" group-title="pop",park
-http://sluchaj1.radiopark.biz.pl:8048/
 #EXTINF:-1 tvg-logo="" group-title="house",Planeta FM
 https://pa02.cdn.eurozet.pl/pla-net.mp3?redirected=02
 #EXTINF:-1 tvg-logo="http://www.planetafm.pl/favicon.ico" group-title="pop",PLANETA TRANCE
@@ -557,68 +391,28 @@ http://pl01.cdn.eurozet.pl/PLATRA.mp3
 https://pl04.cdn.eurozet.pl/plu-gdn.mp3?redirected=04
 #EXTINF:-1 tvg-logo="https://bi.im-g.pl/im/8/26025/m26025658.png" group-title="",Pogoda Wrocław
 https://pl-play.adtonos.com/8102/radio-pogoda-wrocaw?cache=1598128880
-#EXTINF:-1 tvg-logo="" group-title="pop,public,rock",Polen - Polskie Radio - Archeologia
-http://mp3.polskieradio.pl:8114/
-#EXTINF:-1 tvg-logo="" group-title="pop,public,rock",Polen - Polskie Radio - Ballady
-http://mp3.polskieradio.pl:8074/
-#EXTINF:-1 tvg-logo="" group-title="polka",Polka Jammer Station
-http://199.58.161.66/
 #EXTINF:-1 tvg-logo="" group-title="chopin,classical",Polskie Radio - Chopin (Radio Chopin) (AAC+)
 http://stream3.polskieradio.pl:8960/listen.pls
-#EXTINF:-1 tvg-logo="http://moje.polskieradio.pl/_img/kanaly/pr4.jpg" group-title="",Polskie Radio - Czwórka
-http://stream3.polskieradio.pl:8906/;stream
 #EXTINF:-1 tvg-logo="" group-title="alternative",Polskie Radio - Czwórka (Program 4) (AAC+)
 http://stream3.polskieradio.pl:8956/listen.pls
-#EXTINF:-1 tvg-logo="" group-title="folk",Polskie Radio - Muzyka źródeł
-http://mp3.polskieradio.pl:8158/
-#EXTINF:-1 tvg-logo="http://moje.polskieradio.pl/_img/logoPr.gif" group-title="jazz",Polskie Radio - Niezły Jazz
-http://stream3.polskieradio.pl:8184/
-#EXTINF:-1 tvg-logo="http://static.prsa.pl/images/20363502-dee8-4661-b007-2f2935423b25.jpg" group-title="information,polskieradio,public radio",Polskie Radio 24
-http://stream3.polskieradio.pl:8080/;.mp3
-#EXTINF:-1 tvg-logo="" group-title="children,polskieradio,public radio",Polskie Radio Bajki Samograjki
-http://stream3.polskieradio.pl:8052/;stream
 #EXTINF:-1 tvg-logo="http://www.radio.bialystok.pl//favicon.ico" group-title="polskieradio,public radio",Polskie Radio Bialystok
 http://stream4.nadaje.com:15476/radiobialystok
-#EXTINF:-1 tvg-logo="https://www.polskieradio.pl/11,PR-dla-Zagranicy/favicon.ico" group-title="polskieradio,public radio",Polskie Radio Dla Zagranicy
-http://stream3.polskieradio.pl:8908/
-#EXTINF:-1 tvg-logo="http://www.polskieradio.pl/favicon.ico" group-title="polskieradio,public radio",Polskie Radio Jedynka
-http://mp3.polskieradio.pl:8900/;.mp3
-#EXTINF:-1 tvg-logo="https://www.polskieradio.pl/favicon.ico" group-title="",Polskie Radio Jedynka AAC
-http://stream3.polskieradio.pl:8950/;.mp3
 #EXTINF:-1 tvg-logo="http://www.radio.katowice.pl/logo.png" group-title="polskieradio,public radio",Polskie Radio Katowice
 http://stream4.nadaje.com:9212/radiokatowice
-#EXTINF:-1 tvg-logo="https://radiokierowcow.pl/images/favicon.png" group-title="drive,polish,public radio",Polskie Radio Kierowców
-http://stream85.polskieradio.pl/omniaaxe/rdk.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://radiokierowcow.pl/images/favicon.png" group-title="classic rock,middle of the road,polish rock,pop,pop rock",Polskie Radio Kierowców
-http://stream3.polskieradio.pl:8918/
 #EXTINF:-1 tvg-logo="https://radiokierowcow.pl/images/favicon.png" group-title="classic rock,polish rock,pop rock",Polskie Radio Kierowców
 http://stream3.polskieradio.pl:8918/listen.pls
-#EXTINF:-1 tvg-logo="" group-title="nature",Polskie Radio LAS
-http://mp3.polskieradio.pl:8128/
 #EXTINF:-1 tvg-logo="http://radiopoznan.fm//favicon/favicon-96x96.png" group-title="",Polskie Radio Poznań
 http://stream4.nadaje.com:8578/poznan
-#EXTINF:-1 tvg-logo="http://moje.polskieradio.pl/_img/kanaly/pr1.jpg" group-title="polskieradio,public radio",Polskie Radio Program 1
-http://mp3.polskieradio.pl:8900/
-#EXTINF:-1 tvg-logo="http://moje.polskieradio.pl/_img/kanaly/pr2.jpg" group-title="polskieradio,public radio",Polskie Radio Program 2
-http://stream3.polskieradio.pl:8952/;.mp3
 #EXTINF:-1 tvg-logo="http://moje.polskieradio.pl/_img/kanaly/pr3.jpg" group-title="polskieradio,public radio",Polskie Radio Program 3 (OGG)
 http://41.dktr.pl:8000/trojka.ogg
 #EXTINF:-1 tvg-logo="http://www.rdc.pl/wp-content/uploads/2015/03/logo_RDC_PR-600x400.jpg" group-title="polskieradio,public radio",Polskie Radio RDC - Radio Dla Ciebie
 http://stream2.nadaje.com:11140/rdc
 #EXTINF:-1 tvg-logo="http://moje.polskieradio.pl/_img/kanaly/136.jpg" group-title="",Polskie Radio Rytm (AAC+)
 http://stream3.polskieradio.pl:8594/listen.pls
-#EXTINF:-1 tvg-logo="https://www.polskieradio.pl/favicon.ico" group-title="polskieradio",Polskie Radio Trojka AAC
-http://stream3.polskieradio.pl:8954/;.mp3
-#EXTINF:-1 tvg-logo="http://moje.polskieradio.pl/_img/kanaly/36p.jpg" group-title="",PR - Pink Floyd
-http://mp3.polskieradio.pl:8070/
-#EXTINF:-1 tvg-logo="" group-title="nature",PR LAS ACC
-http://mp3.polskieradio.pl:8528/
 #EXTINF:-1 tvg-logo="" group-title="",PR24
 https://stream15.polskieradio.pl/pr24/pr24.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://open.fm/logo/200x200/104" group-title="music,rock,work",Praca Rock - Open FM
 https://stream.open.fm/104
-#EXTINF:-1 tvg-logo="http://www.proradio.pl///templates/it_blackwhite2/favicon.ico" group-title="alternative rock,art rock,post-rock,progressive rock,rock",Pro-Radio
-http://radiointernetowe.net:7802/
 #EXTINF:-1 tvg-logo="https://radio357.pl/_nuxt/icons/icon_64x64.07a6c0.png" group-title="",R357
 https://radio357.s3.eu-central-1.amazonaws.com/stream/29ce0221-3d37-47d9-97b9-559cfad16ed3.m3u8
 #EXTINF:-1 tvg-logo="" group-title="musical",radio
@@ -657,8 +451,6 @@ https://listen.radioaktywne.pl:8443/raogg
 http://proxima.shoutca.st:9045/stream
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s154005q.png" group-title="anime,soundtracks",Radio Anime24
 http://91.232.4.33:7028/listen.pls
-#EXTINF:-1 tvg-logo="" group-title="",Radio Avant
-http://sc1.readycast.org:8030/
 #EXTINF:-1 tvg-logo="" group-title="",Radio Baobab
 http://stream.radiobaobab.pl:8000/radiobaobab.mp3
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/7/1427.v4.png" group-title="misc",Radio Bielsko
@@ -667,26 +459,16 @@ https://n10a-eu.rcs.revma.com/062uq3z3kwzuv?rj-ttl=5&rj-tok=AAABfdomgNoAB-xY2RmX
 https://n08.rcs.revma.com/062uq3z3kwzuv?rj-ttl=5&rj-tok=AAABfd5LSQAAm7l7Iw352arEDw
 #EXTINF:-1 tvg-logo="https://droid4you.panelradiowy.pl//images/appleicon72.png" group-title="",Radio BIGBBS
 http://91.121.91.156:8000/
-#EXTINF:-1 tvg-logo="http://www.radiobogoria.pl//favicon.ico" group-title="rock",Radio Bogoria
-http://91.232.4.22:8888/
 #EXTINF:-1 tvg-logo="https://static.radiobonton.pl/data/wysiwig/images/ffhjfgjfj.png" group-title="chełm,local radio,poland,polish,pop",Radio BonTon
 https://streaming.inten.pl:8020/bonton.mp3
 #EXTINF:-1 tvg-logo="" group-title="",Radio Brylant
 http://s1.slotex.pl:7212/
-#EXTINF:-1 tvg-logo="" group-title="",Radio Bursztynek
-http://s2.panelradiowy.pl:10036/listen.pls
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/72077e_c2f2b579decb4019a539ec3938914e65~mv2.png/v1/crop/x_34,y_34,w_332,h_332/fill/w_259,h_259,al_c,q_85,usm_0.66_1.00_0.01/Etsy%20Profile%20Image.webp" group-title="bzium,disco,funny",Radio Bzium
-http://s1.slotex.pl:7124/listen.pls
 #EXTINF:-1 tvg-logo="" group-title="country",Radio Centrum
 http://shot4.inten.pl:8888/rcfm.mp3
 #EXTINF:-1 tvg-logo="https://i1.wp.com/centrum.fm/wp-content/uploads/2012/12/radio_centrum_logo_czarne_01.jpg?fit=1121%2C771&ssl=1" group-title="poland,polish,rock",Radio Centrum Lublin
 https://radio.centrum.fm/live
-#EXTINF:-1 tvg-logo="http://radiocentrum.pl/wp-content/uploads/2015/08/cropped-ico1-32x32.png" group-title="",Radio Centrum Rzeszow
-http://62.93.41.27:8000/;stream/1
 #EXTINF:-1 tvg-logo="https://site-862783.mozfiles.com/files/862783/radio_cenzura.jpg?1575871467" group-title="",Radio Cenzura
 http://91.121.222.81:8234/stream1
-#EXTINF:-1 tvg-logo="" group-title="classical",Radio Chopin
-http://stream3.polskieradio.pl:8910/
 #EXTINF:-1 tvg-logo="Http://radiochrystusakrola.pl/radio_play/LOGO%20400x400.png" group-title="catholic,christian",Radio Chrystusa Króla
 http://4stream.pl:18044/
 #EXTINF:-1 tvg-logo="https://radiochrzescijanin.pl/obrazki/2015/11/radio113.png" group-title="christian,jesus",Radio Chrzescijanin - 2
@@ -703,46 +485,20 @@ http://s1.slotex.pl:7172/
 http://s1.cmp3.eu:8555/listen.pls
 #EXTINF:-1 tvg-logo="http://radiodanielka.pl/wp-content/uploads/2021/03/cropped-ikona-1-192x192.png" group-title="aktorska,cabaret,folk,kabaret,poetry,poezja,polish,szanty",Radio Danielka
 http://s3.slotex.pl:7088/
-#EXTINF:-1 tvg-logo="http://www.radioderf.info/images/fav_rd.ico" group-title="",Radio derf Bluesrock
-http://178.19.96.111:8013/
-#EXTINF:-1 tvg-logo="http://www.radioderf.info/images/fav_rd.ico" group-title="blues,country blues,delta blues",Radio Derf Delta Blues
-http://178.19.96.111:8007/
-#EXTINF:-1 tvg-logo="http://www.radioderf.info/images/fav_rd.ico" group-title="jazz",Radio Derf Jazz
-http://178.19.96.111:8005/
-#EXTINF:-1 tvg-logo="" group-title="blues",Radio Derf Polski blues
-http://178.19.96.111:8026/
-#EXTINF:-1 tvg-logo="http://www.radioderf.info/images/fav_rd.ico" group-title="northern soul,poland,soul",Radio Derf Soul
-http://178.19.96.111:8018/
 #EXTINF:-1 tvg-logo="https://www.radiodht.com/favicon.ico" group-title="dance,discopolo,eurodance,handsup,trance",Radio DHT (kanał drugi)
 https://radiodht.com/stream_second/
 #EXTINF:-1 tvg-logo="https://www.radiodht.com/favicon.ico" group-title="aaa,alternative,eclectic,oldies,pop,rock,various",Radio DHT (kanał główny)
 https://radiodht.com/stream_main/
 #EXTINF:-1 tvg-logo="" group-title="70,70s,80,80s,90,90s,disco,disco polo",Radio Disco-Dance
 https://radiodd.cloud/radio/8000/radio.mp3
-#EXTINF:-1 tvg-logo="http://www.doxa.fm/favicon.ico" group-title="misc",Radio DOXA
-http://shot.inten.pl:10000/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rDyQUD5.png" group-title="polskieradio",Radio Dwójka (AAC)
-http://mp3.polskieradio.pl:8952/
-#EXTINF:-1 tvg-logo="http://www.polskieradio.pl/favicon.ico" group-title="polskieradio",Radio Dwójka (MP3)
-http://mp3.polskieradio.pl:8902/
 #EXTINF:-1 tvg-logo="" group-title="local radio",Radio Elka Glogow
 http://live.elka.pl:8000/miedziowe
 #EXTINF:-1 tvg-logo="" group-title="local news,local radio,poland,polish,pop,top 40",Radio Elka Leszno
 http://live.elka.pl:8000/elka.fm
 #EXTINF:-1 tvg-logo="" group-title="local news,local radio,polish,polska,polskie radio,polskieradio",Radio Elka Miedziowe
 http://live.elka.pl:8000/miedziowe.pl
-#EXTINF:-1 tvg-logo="" group-title="catholic",Radio eM
-http://194.181.177.253:8000/
-#EXTINF:-1 tvg-logo="http://radioem.pl/static/themes/radioem/favicon.ico" group-title="pop",Radio eM Kielce
-http://78.46.170.230:8000/
 #EXTINF:-1 tvg-logo="https://radioemaus.pl/app/uploads/2019/11/cropped-avatar-180x180.png" group-title="christian",Radio Emaus
 http://stream.radioemaus.pl:8000/oggstream
-#EXTINF:-1 tvg-logo="https://www.eska.pl/favicon.ico" group-title="64kbps,aac",Radio Eska - Kraków
-http://waw01-02.ic.smcdn.pl:8000/2070-1.aac
-#EXTINF:-1 tvg-logo="https://www.eska.pl/media/eska/desktop/images/logo-eska.svg" group-title="",Radio Eska - Łódź
-http://waw01-01.ic.smcdn.pl:8000/2100-1.mp3
-#EXTINF:-1 tvg-logo="" group-title="",Radio Eska - Płock
-http://waw01-02.ic.smcdn.pl:8000/2250-1.mp3
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/2/1422.v3.png" group-title="pop",Radio Express
 https://n15a-eu.rcs.revma.com/yx6cub73kwzuv?rj-ttl=5&rj-tok=AAABfdxNstEA876DKJ6YMZ0nIg
 #EXTINF:-1 tvg-logo="" group-title="",Radio FAMA
@@ -787,14 +543,8 @@ http://stream02.radiogorzow.pl:10115/
 http://31.192.216.7:8000/radio_gra
 #EXTINF:-1 tvg-logo="http://wegemaluch.pl/images/icons/media/logo_horyzont.png" group-title="chillout,downtempo,lounge,nu-jazz",Radio Horyzont
 http://s1.slotex.pl:7328/stream/1/
-#EXTINF:-1 tvg-logo="" group-title="70's,80's,90's,local news,local radio,poland,polish,pop,rock",Radio I
-http://izydor.tv:8888/
 #EXTINF:-1 tvg-logo="https://www.radioimperium.pl/favicon.ico" group-title="gliwice",Radio Imperium
 https://stream.radioimperium.pl:8443/stream
-#EXTINF:-1 tvg-logo="" group-title="gliwice",Radio Imperium Gliwice
-http://91.193.208.8:8000/
-#EXTINF:-1 tvg-logo="http://www.radioitalo4you.net/images/favicons/apple-touch-icon-120x120.png" group-title="italo disco",Radio Italo4you
-http://s6.radiohost.pl:8080/
 #EXTINF:-1 tvg-logo="https://radioitalo4you.net/images/logo.png" group-title="",Radio Italo4you 256kbps
 http://s0.radiohost.pl:8018/stream
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s98663q.png" group-title="",Radio Italo4you 64kbps
@@ -807,10 +557,6 @@ http://radio.italodance.pl:7694/;stream.nsv
 http://neo80s.italodance.pl:7750/
 #EXTINF:-1 tvg-logo="" group-title="",Radio Jard
 http://online.jard.pl:8744/jard1
-#EXTINF:-1 tvg-logo="http://www.radiojasnagora.pl/images/favicons/apple-touch-icon.png" group-title="religion",Radio Jasna Gora
-http://online.radiojasnagora.pl:8000/rjg
-#EXTINF:-1 tvg-logo="http://www.polskieradio.pl/favicon.ico" group-title="polskieradio",Radio Jedynka
-http://mp3.polskieradio.pl:8950/
 #EXTINF:-1 tvg-logo="http://www.radiojura.com.pl//favicon.ico" group-title="pop",Radio Jura
 http://streams.radiojura.com.pl:8000/jura_128kbps_stereo.mp3
 #EXTINF:-1 tvg-logo="" group-title="",Radio Jutrzenka
@@ -821,8 +567,6 @@ http://193.0.98.66:8005/
 http://91.232.4.33:8358/stream
 #EXTINF:-1 tvg-logo="http://www.radiokaszebe.pl//favicon.ico" group-title="",Radio Kaszebe
 http://stream3.nadaje.com:8048/
-#EXTINF:-1 tvg-logo="http://www.radio.kielce.pl///apple-icon.png" group-title="kielce,local news,regional radio",Radio Kielce
-http://gra.radio.kielce.pl:8000/rk2
 #EXTINF:-1 tvg-logo="https://www.radiokolobrzeg.pl/wp-content/uploads/2021/02/cropped-fav-copy-180x180.png" group-title="",Radio Kolobrzeg
 http://graj.radiokolobrzeg.pl:8000/
 #EXTINF:-1 tvg-logo="http://www.radio.koszalin.pl//favicon.ico" group-title="regional",Radio Koszalin
@@ -861,16 +605,10 @@ http://stream3.nadaje.com:9022/
 http://s1.slotex.pl:7780/
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/4/1784.v4.png" group-title="pop",Radio Manhattan
 http://s1.slotex.pl:7780/stream
-#EXTINF:-1 tvg-logo="http://www.radiomaniak.xaa.pl/images/favicon.ico" group-title="",Radio Maniak FM
-http://s1.slotex.pl:7396/
 #EXTINF:-1 tvg-logo="http://www.radiomaryja.pl/wp-content/uploads/2015/01/logo_fb.jpg" group-title="",Radio Maryja
 http://198.50.238.178:5946/stream
-#EXTINF:-1 tvg-logo="https://radiomaxitalo.com/favicon.ico" group-title="italo dance,italo disco",Radio Max Italo - New Generation
-https://ruby.torontocast.com:1525/stream#.mp3?ver=425798
 #EXTINF:-1 tvg-logo="" group-title="pop",Radio Mbox
 https://s1.slotex.pl/shoutcast/7462/stream
-#EXTINF:-1 tvg-logo="https://i1.wp.com/www.radiomirage.net/wp-content/uploads/2017/06/cropped-r.mirage-1.png?fit=180%2c180&#038;ssl=1" group-title="80s,90s,italo dance,italo disco",Radio Mirage
-http://s0.radiohost.pl:9709/listen.pls
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.radiomirage.net/wp-content/uploads/2017/06/cropped-r.mirage-1.png?fit=180%2c180&#038;ssl=1" group-title="euro disco,eurodance",Radio Mirage - Euro Dance
 http://s0.radiohost.pl:9569/listen.pls
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.radiomirage.net/wp-content/uploads/2017/06/cropped-r.mirage-1.png?fit=180%2c180&#038;ssl=1" group-title="",Radio Mirage - Italo Dance
@@ -883,14 +621,10 @@ https://ssl-1.radiohost.pl:7214/stream?ver=661798
 http://91.232.4.33:7214/Stream1
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.radiomirage.net/wp-content/uploads/2017/06/cropped-r.mirage-1.png?fit=180%2c180&#038;ssl=1" group-title="",Radio Mirage - Space
 https://ssl-1.radiohost.pl:9563/stream?ver=987766
-#EXTINF:-1 tvg-logo="https://radionadzieja.pl/wp-content/uploads/2021/01/cropped-cropped-ikona-1-180x180.png" group-title="",Radio Nadzieja Łomża
-http://streaming01.technologicznie.net:8000/listen.pls
 #EXTINF:-1 tvg-logo="" group-title="",Radio Nakło
 http://sluchaj2.107i5.fm:10750/
 #EXTINF:-1 tvg-logo="https://i1.wp.com/radioniepokalanow.pl/wp-content/uploads/2019/07/cropped-10359521_935362439830611_7037695156798127756_n.jpg?fit=180%2c180" group-title="religion",Radio Niepokalanow
 http://88.199.169.10:7600/rn.mp3
-#EXTINF:-1 tvg-logo="http://www.radiononame.eu//favicon.ico" group-title="disco",Radio NoName
-http://91.232.4.33:8270/live/
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/wbgedyurkGNMqjZxkBYgpaxld7hOCLKtG0uggMJlNVRwMhaSHRnTm7wrUcTkmyCnlCwk=s180" group-title="64 kbps,aac+",Radio Nowy Świat
 https://n13a-eu.rcs.revma.com/5ws0kfn1x1zuv?rj-ttl=5&rj-tok=AAABfd185bAAzm0ydyIW9ILpQA
 #EXTINF:-1 tvg-logo="https://nowyswiat.online/wp-content/uploads/2020/09/fala.png" group-title="misc",Radio Nowy Świat
@@ -905,14 +639,10 @@ https://go-audio.toya.net.pl/63214
 https://stream.open.fm/368
 #EXTINF:-1 tvg-logo="" group-title="",Radio Nuta
 https://n04a-eu.rcs.revma.com/0004tehdxzzuv?rj-ttl=5&rj-tok=AAABfd2F4rsAIahhjCymnktJsA
-#EXTINF:-1 tvg-logo="" group-title="",Radio Nysa FM
-http://stream2.nadaje.com:8066/
 #EXTINF:-1 tvg-logo="https://radiooceandusz.panelradiowy.pl//images/appleicon72.png" group-title="",Radio Ocean Dusz
 http://s1.slotex.pl:7022/
 #EXTINF:-1 tvg-logo="http://www.radiooko.pl//favicon.ico" group-title="pop",Radio OKO
 http://stream2.nadaje.com:8094/
-#EXTINF:-1 tvg-logo="http://www.ro.com.pl//favicon.ico" group-title="regional",Radio Olsztyn
-http://213.73.25.178:7066/
 #EXTINF:-1 tvg-logo="" group-title="misc",radio ony
 http://n14.rcs.revma.com/yxv344rra2zuv?rj-ttl=5&rj-tok=AAABfd3NJ20ApZ6DbKI_wtrt9g
 #EXTINF:-1 tvg-logo="" group-title="dance,disco polo,pop,regional,regional radio",Radio Opatów
@@ -945,8 +675,6 @@ http://s1.slotex.pl:7050/stream/1/;?type=http
 http://stream4.nadaje.com:15274/live
 #EXTINF:-1 tvg-logo="https://ilustracje.paranormalium.pl/favicon-apple-touch-icon.png" group-title="",Radio Paranormalium
 http://paranormalium.waw.pl/radio/8040/radio.mp3
-#EXTINF:-1 tvg-logo="http://www.radiopark.com.pl//favicon.ico" group-title="pop",Radio Park FM
-http://sluchaj.radiopark.com.pl:8048/
 #EXTINF:-1 tvg-logo="http://www.radiopasja.pl/apple-touch-icon.png" group-title="",Radio Pasja
 http://91.232.4.33:8049/
 #EXTINF:-1 tvg-logo="http://www.radiopasja.pl/apple-touch-icon.png" group-title="chillout",Radio Pasja - Chillout
@@ -971,44 +699,16 @@ http://91.232.4.33:8102/
 http://91.232.4.33:8102/stream2
 #EXTINF:-1 tvg-logo="http://www.radiopasja.pl/apple-touch-icon.png" group-title="",Radio Pasja 128kb/s
 http://91.232.4.33:8049/stream2
-#EXTINF:-1 tvg-logo="" group-title="",Radio Pasta
-http://polysix.pl:8000/radio-pasta
 #EXTINF:-1 tvg-logo="https://radiopiekary.pl/wp-content/uploads/2020/06/cropped-preloader-180x180.png" group-title="news,pop",Radio Piekary
 https://stream.radiopiekary.pl/
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s102336q.png" group-title="",Radio Pielgrzym English
-http://shoutcast.com.pl:9448/
-#EXTINF:-1 tvg-logo="" group-title="",Radio Pielgrzym Kazania
-http://radiointernetowe.net:9450/
 #EXTINF:-1 tvg-logo="" group-title="",Radio PiK
 http://stream.radiopik.pl:9004/
 #EXTINF:-1 tvg-logo="" group-title="piotrków trybunalski",Radio Piotrków
 http://stream.zeno.fm/vtt303z7n0quv?rj-ttl=5&rj-tok=AAABfdrpQAsAJzREm03ZAGmipA
-#EXTINF:-1 tvg-logo="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmyradioonline.pl%2Fpublic%2Fuploads%2Fradio_img%2Fradio-plus%2Ffb_cover.jpg&imgrefurl=https%3A%2F%2Fmyradioonline.pl%2Fradio-plus&tbnid=t01lPa3fSdA3fM&vet=12ahUKEwjmuPu018zxAhUS_CoKHfw8Dj4QMygBegUIARCdAQ..i&docid=ewI89N863ZxEUM&w=720&h=374&q=radio%20plus%20krak%C3%B3w&client=opera&ved=2ahUKEwjmuPu018zxAhUS_CoKHfw8Dj4QMygBegUIARCdAQ" group-title="",Radio Plus 106.1 Kraków
-https://ext03.ic.smcdn.pl/4070-1.mp3
-#EXTINF:-1 tvg-logo="" group-title="",Radio Plus 97.2 Legnica
-http://stream.plus.legnica.pl:8000/radioplus
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/3/87083.v3.png" group-title="misc",Radio Plus Lublin
-https://ext03.ic.smcdn.pl/4130-1.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pl/images/broadcasts/b8/ac/13261/c300.png" group-title="talk & speech",Radio Plus Radom
-http://78.46.170.230:8040/
-#EXTINF:-1 tvg-logo="" group-title="płock",Radio Płock FM
-http://radia2.inten.pl:8006/
-#EXTINF:-1 tvg-logo="https://radioplonsk.pl/apple-touch-icon.png" group-title="",Radio Płońsk
-http://stream.radioplonsk.pl:9360/
 #EXTINF:-1 tvg-logo="" group-title="",Radio Pogoda
 http://stream5.radioagora.pl/tuba38-1.mp3
 #EXTINF:-1 tvg-logo="https://radiopogoda.pl" group-title="local news,oldies",Radio Pogoda Poznań
 http://stream10.radioagora.pl/tuba138-1.mp3
-#EXTINF:-1 tvg-logo="" group-title="disco",Radio Polo 1
-http://91.121.139.101:8000/
-#EXTINF:-1 tvg-logo="" group-title="disco",Radio Polo 2
-http://91.121.139.101:9000/
-#EXTINF:-1 tvg-logo="" group-title="",Radio Polska Live!
-http://radia2.inten.pl:8006/listen.pls
-#EXTINF:-1 tvg-logo="" group-title="",Radio Polska Live! - Boombox
-http://radia2.inten.pl:8014/listen.pls
-#EXTINF:-1 tvg-logo="http://radiopraga.pl//favicon.ico" group-title="",Radio Praga
-http://4stream.pl:18060/
 #EXTINF:-1 tvg-logo="http://panelradiowy.pl/images/playfacebook.png" group-title="pop music",Radio Prestige
 https://s3.slotex.pl/shoutcast/7524/stream?nocache=1625577136
 #EXTINF:-1 tvg-logo="https://radioprestige.panelradiowy.pl/images/logos/72043-39.png" group-title="",Radio Prestige
@@ -1019,8 +719,6 @@ https://n13a-eu.rcs.revma.com/prfmwmwy768uv?rj-ttl=5&rj-tok=AAABfd4Ym_kAsXgw3M55
 https://stream.profeto.pl/stream.mp3
 #EXTINF:-1 tvg-logo="" group-title="",Radio Puzzle
 http://s1.slotex.pl:7572/
-#EXTINF:-1 tvg-logo="" group-title="",Radio Q
-http://37.130.30.166:8020/;stream.mp3
 #EXTINF:-1 tvg-logo="" group-title="",Radio Racja
 http://air.racyja.com:8000/aacp128
 #EXTINF:-1 tvg-logo="http://www.radioram.pl/img/layout/logo.png" group-title="",Radio RAM
@@ -1033,8 +731,6 @@ https://stream3.nadaje.com:8007/radom2
 http://stream2.nadaje.com:8108/
 #EXTINF:-1 tvg-logo="" group-title="ciechanów,rekord",Radio Rekord Mazowsze
 http://stream6.nadaje.com:8086/ciechanow
-#EXTINF:-1 tvg-logo="" group-title="pop",Radio Relax
-https://s2.slotex.pl/shoutcast/10028/stream
 #EXTINF:-1 tvg-logo="http://www.rm80.pl//favicon.ico" group-title="dance,pop",Radio RM80
 http://91.232.4.33:9011/stream
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/4/1474.v5.png" group-title="decades",Radio RMF - 2000
@@ -1051,8 +747,6 @@ https://rs201-krk.rmfstream.pl/RMF24
 http://sluchaj.radiorodzina.pl/RadioRodzinaWroclawLIVE.mp3
 #EXTINF:-1 tvg-logo="" group-title="catholic,religion",Radio Różaniec
 http://51.255.235.165:5696/stream
-#EXTINF:-1 tvg-logo="" group-title="",Radio Rumcajs
-http://sc1.readycast.org:8546/
 #EXTINF:-1 tvg-logo="https://radio.rzeszow.pl/favicon.ico" group-title="",Radio Rzeszów
 https://streaming.g-news.pl:8040/rzeszow
 #EXTINF:-1 tvg-logo="https://radio.sierpc.pl/favicon.ico" group-title="",Radio Sierpc
@@ -1063,16 +757,12 @@ http://s1.slotex.pl:7926/
 http://91.232.4.33:8240/stream
 #EXTINF:-1 tvg-logo="https://www.radiosok.pl/favicon.ico" group-title="music,muzyka,radio sok,sulęcin,sulęciński ośrodek kultury",Radio SOK Sulecin
 https://s3.slotex.pl/shoutcast/7230/stream?sid=1
-#EXTINF:-1 tvg-logo="" group-title="",Radio Spin
-http://79.137.68.157:8080/stream
 #EXTINF:-1 tvg-logo="http://spioch.cba.pl/favicon.ico" group-title="",Radio Spioch
 http://s1.slotex.pl:7138/
 #EXTINF:-1 tvg-logo="https://twojeradio.fm/twojeradio2018/pliki/2020/02/cropped-twojeradio-logo-32x32.png" group-title="pop",Radio Stargard 90,3 FM - Twoje pierwsze radio
 http://51.77.59.65:8100/stream.mp3
 #EXTINF:-1 tvg-logo="" group-title="classical",Radio Starogard
 https://n07a-eu.rcs.revma.com/5wegfyrra2zuv?rj-ttl=5&rj-tok=AAABfdsNBwQA3IABapQquVkh6w
-#EXTINF:-1 tvg-logo="" group-title="",Radio Stars
-http://s1.slotex.pl:7288/listen.pls
 #EXTINF:-1 tvg-logo="" group-title="pop",Radio SUD
 http://stream2.nadaje.com:8012/
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/7/1327.v3.png" group-title="misc",Radio Świnoujście
@@ -1089,10 +779,6 @@ http://195.191.180.5:8000/live
 http://s1.slotex.pl:7310/listen.pls
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/3/1893.v4.png" group-title="decades",Radio TOP80
 https://top80.pl:8000/listen.mp3
-#EXTINF:-1 tvg-logo="https://radiotpi.pl/wp-content/uploads/2020/12/cropped-favicon-2-180x180.png" group-title="",Radio TPI
-https://s2.slotex.pl/shoutcast/10002/stream
-#EXTINF:-1 tvg-logo="http://www.radiounderground.org/favicon.ico" group-title="",Radio Underground
-http://s2.panelradiowy.pl:10070/
 #EXTINF:-1 tvg-logo="" group-title="",Radio UWM FM
 http://213.184.18.156:8000/
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/5/1425.v5.png" group-title="pop",Radio Vanessa
@@ -1101,14 +787,10 @@ http://s1.slotex.pl:7358/listen.pls
 http://s1.slotex.pl:7106/
 #EXTINF:-1 tvg-logo="" group-title="",Radio Victoria
 http://stream.v4.radiovictoria.pl:8176/listen.pls
-#EXTINF:-1 tvg-logo="" group-title="",Radio VoxFm
-http://waw01-01.ic.smcdn.pl:8000/3990-1.aac
 #EXTINF:-1 tvg-logo="http://www.radiowarszawa.com.pl/wp-content/uploads/2016/09/logo_radio_warszawa-300x241.png" group-title="",Radio Warszawa 106.2
 http://streaming01.technologicznie.net:8765/radio_warszawa.mp3
 #EXTINF:-1 tvg-logo="http://weekendfm.pl/#/favicon.ico" group-title="",Radio Weekend FM
 http://stream.weekendfm.pl:8000/weekendfm_najlepsza.aac
-#EXTINF:-1 tvg-logo="http://wesole-slonzoki.eu//favicon.ico" group-title="",Radio Wesole Slonzoki
-http://s1.radiohost.pl:8126/
 #EXTINF:-1 tvg-logo="" group-title="",Radio Wnet
 http://audio.radiownet.pl:8000/stream
 #EXTINF:-1 tvg-logo="http://www.prw.pl//favicon.ico" group-title="rock",Radio Wroclaw
@@ -1127,14 +809,10 @@ https://zt04.cdn.eurozet.pl/ZET200.mp3
 https://zg03.cdn.eurozet.pl/ZGLITA.mp3?redirected=03
 #EXTINF:-1 tvg-logo="" group-title="r&b/urban",Radio ZET Alternatywa
 https://zt04.cdn.eurozet.pl/ZETALT.mp3
-#EXTINF:-1 tvg-logo="http://rzg.pl/favicon.ico" group-title="",Radio Zielona Góra 97.1
-http://stream02.rzg.pl:10117/
 #EXTINF:-1 tvg-logo="https://www.radiozw.com.pl/wp-content/uploads/2019/04/favicon-160x160.png" group-title="",Radio Ziemii Wieluńskiej
 https://stream2.nadaje.com:8023/;stream
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/0/1300.v5.png" group-title="misc",Radio Zlote Przeboje
 https://pl2-play.adtonos.com/zote-przeboje
-#EXTINF:-1 tvg-logo="http://bi.gazeta.pl/im/4/20595/m20595834,ICONZPFAV.png" group-title="",Radio Zlote Przeboje
-http://stream5.radioagora.pl:8000/listen.pls
 #EXTINF:-1 tvg-logo="https://open.fm/cover/208x208/46007f00000100000000000000005ad5ac1005ce99700000" group-title="music",Radio Złote Przeboje
 https://stream.open.fm/201
 #EXTINF:-1 tvg-logo="http://www.radioznin.fm//favicon.ico" group-title="world music",Radio Znin FM
@@ -1147,8 +825,6 @@ http://s1.slotex.pl:7178/listen.xtl?sid=1
 http://stream.radio7.pl:443/radio7.mp3
 #EXTINF:-1 tvg-logo="" group-title="jazz",RadioJazz.fm
 https://radiojazz.out.airtime.pro/radiojazz_a
-#EXTINF:-1 tvg-logo="https://i1.wp.com/www.radiomirage.net/wp-content/uploads/2017/06/cropped-r.mirage-1.png?fit=180%2c180&#038;ssl=1" group-title="disco polo,italo dance,italo disco,new generation,pop rock",Radiomirage
-http://91.232.4.33:9709/stream
 #EXTINF:-1 tvg-logo="http://radioparty.pl//favicon.ico" group-title="",Radioparty.pl
 http://s7.radioparty.pl:8000/
 #EXTINF:-1 tvg-logo="https://radioparty.pl//favicon.ico" group-title="dance,vixa",Radioparty.pl ACC+
@@ -1175,8 +851,6 @@ https://s4.radio.co/s8c7d5e4e1/listen
 https://stream.open.fm/375
 #EXTINF:-1 tvg-logo="" group-title="",Radiospin
 http://s01.toksyna.fm:8100/
-#EXTINF:-1 tvg-logo="" group-title="",RadioTP
-http://radiotp.pl:8058/stream
 #EXTINF:-1 tvg-logo="" group-title="pop",REKORD CIECHANOW
 https://stream6.nadaje.com:8087/ciechanow
 #EXTINF:-1 tvg-logo="" group-title="dance,disco polo,pop,regional radio",Rekord Radio Świętokrzyskie
@@ -1399,8 +1073,6 @@ http://31.192.216.10/WPRACY
 http://31.192.216.10/WPRACYF
 #EXTINF:-1 tvg-logo="http://www.rmfon.pl/i/logos/100x100/rmf3.png" group-title="pop rock",RMF3 Pop Rock
 http://195.150.20.8/RMF3
-#EXTINF:-1 tvg-logo="http://static.fm.tuba.pl/stations/_img/rock-radio_512.png" group-title="rock",Rock Radio
-http://stream5.radioagora.pl:8006/
 #EXTINF:-1 tvg-logo="" group-title="avant-garde,classic rock,progressive rock,psychedelic",Rockserwis.fm
 http://stream9.nadaje.com:8002/live
 #EXTINF:-1 tvg-logo="https://rockserwis.fm/static/rsfm.png" group-title="",rockserwis.fm (ACC+)
@@ -1413,12 +1085,6 @@ https://rs103-krk-cyfronet.rmfstream.pl/sizeer_fm
 http://s1.slotex.pl:7294/
 #EXTINF:-1 tvg-logo="" group-title="",Slonsky Radio
 http://h2866159.stratoserver.net:8000
-#EXTINF:-1 tvg-logo="https://smoothjazz.com.pl/wp-content/uploads/2018/10/cropped-sj-1-180x180.png" group-title="smooth jazz",Smooth Jazz
-http://stream18.shoutcastsolutions.com:8227/
-#EXTINF:-1 tvg-logo="https://smoothjazz.com.pl/wp-content/uploads/2018/10/cropped-sj-5-100x95.png" group-title="smooth jazz",SmoothJazz.com.pl [AAC+]
-http://stream14.shoutcastsolutions.com:8057/64stream
-#EXTINF:-1 tvg-logo="http://smoothjazz.com.pl/img/sj.jpg" group-title="",SmoothJazz.com.pl Radio
-http://stream14.shoutcastsolutions.com:8057/256stream
 #EXTINF:-1 tvg-logo="http://panelradiowy.pl/favicon.ico" group-title="",SoundFM
 http://s1.slotex.pl:7494/
 #EXTINF:-1 tvg-logo="http://zak.lodz.pl/favicon.ico" group-title="alternative",Studenckie Radio ZAK
@@ -1427,8 +1093,6 @@ http://lodz.radio.pionier.net.pl:8000/radiozak.ogg
 http://212.51.209.188/sr_zak.ogg
 #EXTINF:-1 tvg-logo="https://www.super.fm/storage/app/uploads/public/5f8/6f3/983/5f86f3983122e636480233.png" group-title="pop",Super FM
 http://stream.super.fm:8000/superfm.mp3
-#EXTINF:-1 tvg-logo="https://www.tokfm.pl/favicon.ico" group-title="poland",Tok FM 64k OGG
-http://wroclaw.radio.pionier.net.pl:8000/pl/radiotok3.ogg
 #EXTINF:-1 tvg-logo="https://static.im-g.pl/im/6/7455/m7455556.gif" group-title="",TokFM
 https://radiostream.pl/tuba10-1.mp3
 #EXTINF:-1 tvg-logo="" group-title="",Toksyna FM
@@ -1449,32 +1113,18 @@ https://stream.open.fm/95
 https://stream.open.fm/152
 #EXTINF:-1 tvg-logo="http://www.trendyradio.pl//favicon.ico" group-title="",Trendy Radio
 http://stream.trendyradio.pl:8000/h
-#EXTINF:-1 tvg-logo="http://moje.polskieradio.pl/_img/kanaly/pr3.jpg" group-title="",Trojka
-http://stream3.polskieradio.pl:8904/
-#EXTINF:-1 tvg-logo="" group-title="",Trójka online (ogg)
-http://w.dktr.pl:8000/trojka3.ogg
-#EXTINF:-1 tvg-logo="https://twojapolskastacja.pl/static/img/favicon/apple-touch-icon.png" group-title="",Twoja polska stacja
-http://sluchaj.twojapolskastacja.pl:8068/
 #EXTINF:-1 tvg-logo="" group-title="",Twoje Radio Lipsko
 http://s1.slotex.pl:7298/
 #EXTINF:-1 tvg-logo="https://twojeradio.fm/twojeradio2018/pliki/2020/02/twojeradio-logo.png" group-title="",Twoje Radio Szczecin
 http://51.77.59.65:8000/stream.ogg
-#EXTINF:-1 tvg-logo="http://tyflopodcast.net/favicon.ico" group-title="accessibility,blind,disability,podcast,technology",Tyfloradio
-http://178.32.159.193:8000/listen.pls
 #EXTINF:-1 tvg-logo="https://ujot.fm/wp-content/uploads/2020/09/cropped-ujotfm-180x180.png" group-title="news,rock",UJOT FM
 https://stream.ujot.fm/
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/9/1289.v15.png" group-title="pop",Vox FM
 https://radio.stream.smcdn.pl/icradio-p/3990-1.aac/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.waszeradiofm.pl/apple-touch-icon.png" group-title="",Wasze Radio FM
 https://sluchaj.link:5443/wasze
-#EXTINF:-1 tvg-logo="http://www.radiowawa.pl/rw-content/rw-img/2019/wawa_pl.png" group-title="",WAWA
-https://waw01-03.ic.smcdn.pl/1380-1.aac
-#EXTINF:-1 tvg-logo="http://www.radiowawa.pl/rw-content/rw-img/2019/wawa_pl.png" group-title="",Wawa Warszawa
-http://ext03.ic.smcdn.pl/1380-1.aac
 #EXTINF:-1 tvg-logo="https://weszlo.fm/wp-content/uploads/2018/02/favicon-fm-1.png" group-title="",Weszlo FM
 http://radio.weszlo.fm/s7d70a7895/listen
-#EXTINF:-1 tvg-logo="" group-title="",Wieczor-odkrywcow
-http://mp3.polskieradio.pl:8102/
 #EXTINF:-1 tvg-logo="https://wnet.fm/wp-content/themes/wnet/images/logo-wnet-desktop.png" group-title="",Wnet.fm
 https://media.wnet.fm/wnet.fm
 #EXTINF:-1 tvg-logo="https://open.fm/logo/55x55/367" group-title="information,music,pop,talk",WP Radio

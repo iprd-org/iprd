@@ -3,12 +3,8 @@
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_el_hoceima/hls_snrt_radio/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.radioaswat.ma/favicon.ico" group-title="",ASWAT
 http://broadcast.ice.infomaniak.ch/aswat-high.mp3
-#EXTINF:-1 tvg-logo="http://www.atlanticradio.ma/images/icon-logo.png" group-title="maroc",Atlantic Radio
-http://68.168.117.130:8000/
 #EXTINF:-1 tvg-logo="" group-title="classical",bldi
 http://beldifm.hf.ma/radio/8000/radio.mp3
-#EXTINF:-1 tvg-logo="https://capradio.ma/my_content/uploads/2019/12/cropped-logo-180x180.png" group-title="classical",capradio
-http://eu8.fastcast4u.com:5548/;stream/1
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b4939a_818d27ab393a40d7af4b9cc45fc25ce8~mv2.png/v1/fill/w_140,h_140,al_c,usm_0.66_1.00_0.01/b4939a_818d27ab393a40d7af4b9cc45fc25ce8~mv2.png" group-title="live,mix",Chada FM
 https://chadafm.ice.infomaniak.ch/chadafm-high.mp3
 #EXTINF:-1 tvg-logo="http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_chaine_inter/hls_snrt_radio/index.m3u8" group-title="",Chaine inter
@@ -61,8 +57,6 @@ http://medinafm.ice.infomaniak.ch/medinafm-64.mp3?.mp3
 http://medradio-maroc.ice.infomaniak.ch/medradio-maroc-64.mp3?.mp3
 #EXTINF:-1 tvg-logo="http://www.medi1.com/favicon.ico" group-title="",Mefi1 tarab
 http://live.medi1.com/Tarab
-#EXTINF:-1 tvg-logo="https://www.mfmradio.ma/wp-content/themes/mfmradio/assets/img/favicon-32x32.png" group-title="local music,local news,local radio,news",mfm radio
-https://streamer.eagrpservices.com/audio/mfmradio.ogg
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/674924427029663744/tIyc2q3_.png" group-title="electronic,jazz,world music",Ness Radio
 http://radio.nessradio.net:8000/nessradio.mp3
 #EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/urbanhit/images/favicon.vnd.microsoft.icon" group-title="",Only rai

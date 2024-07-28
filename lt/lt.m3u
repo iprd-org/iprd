@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="rock,uab radiocentras",Classic Rock FM
-http://stream2.rockfm.lt/crf128.mp3
 #EXTINF:-1 tvg-logo="https://www.ziniuradijas.lt//favicon/mstile-150x150.png" group-title="classic rock,jazz,lounge,smooth jazz",Easy FM
 https://netradio.ziniur.lt/easyfm.mp3
 #EXTINF:-1 tvg-logo="http://www.europeanhitradio.lt/favicon.ico" group-title="ehr,pop,uab radiola",European Hit Radio
@@ -9,8 +7,6 @@ http://82.135.234.195:8000/ehr.mp3
 http://82.135.234.195:8000/ehr.aac
 #EXTINF:-1 tvg-logo="http://extrafm.lt/favicon.ico" group-title="uab interbanga",EXTRA FM
 http://82.135.234.195:8000/extrafm.mp3
-#EXTINF:-1 tvg-logo="http://fuzz-radijas.lt/ikonos/fuzz_ikona.ico" group-title="alternative rock,black metal,death metal,doom metal,gothic rock,heavy metal,industrial metal,metalcore,nu metal,power metal,progressive rock,speed metal",FUZZ Radijas
-http://185.5.55.179:8080/;stream.mp3?1570880494069
 #EXTINF:-1 tvg-logo="http://www.gerasfm.lt/wp-content/uploads/2018/07/cropped-gerasfm-192x192.png" group-title="geras fm,geras fm vilnius,uab geruda",Geras FM
 http://82.135.234.195:8000/gerasfm.mp3
 #EXTINF:-1 tvg-logo="http://goldfm.lt/wp-content/uploads/2016/04/10889_1666613556944414_6985451634773847121_n-e1460114650430.png" group-title="gold fm,gold fm radijas,laisvoji banga,uab laisvoji banga",Gold FM
@@ -39,8 +35,6 @@ http://radio.m-1.fm/m1plius/mp3
 http://klausyk.manofm.lt:8000/Icecast2
 #EXTINF:-1 tvg-logo="" group-title="",MANO FM LT
 http://stream.manofm.lt/listen?
-#EXTINF:-1 tvg-logo="" group-title="hare krishna,soul,transcendental",Mantra Radio
-http://stream.mantraradio.eu:14041/stream
 #EXTINF:-1 tvg-logo="" group-title="",Mažeikių Aidas
 http://maidas.kli.lt:8000/admin.mp3
 #EXTINF:-1 tvg-logo="" group-title="university radio",Neringa FM
@@ -63,8 +57,6 @@ http://82.135.234.195:8000/pukas2.aac
 http://82.135.234.195:8000/pukas2.mp3
 #EXTINF:-1 tvg-logo="" group-title="rock",RA - 8
 http://stream.zeno.fm/aae76827qtzuv?rj-ttl=5&rj-tok=AAABfdnrK8UACZzrwikrHdqCKg
-#EXTINF:-1 tvg-logo="https://rc.lt/img/rc.png" group-title="electronic,pop",Radiocentras
-http://stream2.rc.lt/rc128.mp3
 #EXTINF:-1 tvg-logo="" group-title="dance",Remix RA
 http://stream.zeno.fm/46tdskm12tzuv?rj-ttl=5&rj-tok=AAABfd36lQAAqYV2budh7UPsLA
 #EXTINF:-1 tvg-logo="" group-title="alternative rock,classic rock,gothic rock,hard rock,heavy metal",Rock radio
@@ -91,5 +83,3 @@ http://91.211.246.42:8000/XXL-FM
 http://netradio.ziniur.lt:8000/ziniur.mp3
 #EXTINF:-1 tvg-logo="http://www.ziniuradijas.lt//favicon.ico" group-title="",Žinių radijas [64 kbps MP3]
 http://netradio.ziniur.lt/ziniur_64.mp3
-#EXTINF:-1 tvg-logo="https://zipfm.lt/wp-content/uploads/2019/08/cropped-zip-web-180x180.png" group-title="uab radiocentras,zip fm,zip fm lietuva,zip fm vilnius",ZIP FM
-http://stream2.zipfm.lt/zipfm128.mp3

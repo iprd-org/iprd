@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://www.1fm.no/img/logo.gif" group-title="",1FM Molde
-http://5.153.107.45:2016/high.aac
 #EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=https://5000bergen.no/" group-title="hits,local,pop",5000 Bergen
 https://streamer.radio.co/sd17fc9620/listen
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/logo/1/77071.v16.png" group-title="big band,blues,jazz,swing",Arctic Outpost Radio
@@ -9,8 +7,6 @@ https://radio.streemlion.com:3715/stream
 https://p11.p4groupaudio.com/P11_MM
 #EXTINF:-1 tvg-logo="https://historyradio.org/wp-content/uploads/2020/08/cropped-favicon-hist-180x180.png" group-title="educational,history,literature,old time radio,radio drama,talk",historyradio.org
 http://n03.radiojar.com/6bmecgg3wd5tv?rj-ttl=5&rj-tok=AAABfdrz9xUAvhfzV6YI7frArw
-#EXTINF:-1 tvg-logo="http://www.jaerradioen.no/content/favicons/favicon128-blank.png" group-title="",JærRadioen
-http://stream.jaerradiogruppen.no:8018/listen.pls
 #EXTINF:-1 tvg-logo="https://assets.planetradio.co.uk/img/ConfigWebListenBarLogoImageUrl/171.jpg" group-title="",KISS
 https://live-bauerno.sharp-stream.com/kiss_no_mp3
 #EXTINF:-1 tvg-logo="" group-title="pop",Kiss Dance
@@ -183,14 +179,10 @@ http://5866.cloudrad.io:8018/northernstar.mp3
 http://stream.radionova.no/mp3
 #EXTINF:-1 tvg-logo="http://radiorandsfjord.no/wp/wp-content/uploads/2016/06/randsfjord600x315.jpg" group-title="",Radio Randsfjord
 http://stream.radiorandsfjord.no/randsfjord128.mp3
-#EXTINF:-1 tvg-logo="https://radiorevolt.no//favicons/apple-touch-icon.png" group-title="higher education,non-commercial,student",Radio Revolt - Studentradioen i Trondheim
-http://streamer.radiorevolt.no:8000/revolt
 #EXTINF:-1 tvg-logo="" group-title="",Radio Rock
 http://edge-bauerno-05-gos2.sharp-stream.com/radiorock_no_hq?
 #EXTINF:-1 tvg-logo="https://radioplay.no/tesla/static/favicons/radioplay-no/apple-touch-icon.png" group-title="rock",Radio Rock
 https://live-bauerno.sharp-stream.com/radiorock_no_mp3
-#EXTINF:-1 tvg-logo="http://www.radiotonsberg.no/images/radio-logo.png" group-title="",Radio Tønsberg
-http://stream.jaerradiogruppen.no:8004/
 #EXTINF:-1 tvg-logo="https://listenapi.s3.amazonaws.com/img/ConfigWebListenBarLogoImageUrl/169.jpg?ver=1490605143" group-title="strørste,tidenes,vinyl",Radio Vinyl
 http://live-bauerno.sharp-stream.com/vinyl_no_hq
 #EXTINF:-1 tvg-logo="https://radioplay.no/tesla/static/favicons/radioplay-no/apple-touch-icon.png" group-title="",Radio-Topp 40
@@ -205,9 +197,5 @@ https://stream.radiorakel.no/fm993.mp3
 https://nettradio.radiobo.com/radiobo-high
 #EXTINF:-1 tvg-logo="" group-title="club,club house,edm,hot hits,house",Sound Of Scandinavia
 https://itnerden.no/radio/8000/sos?1605353732
-#EXTINF:-1 tvg-logo="https://www.thebeat.no/wp-content/uploads/2017/09/cropped-The-Beat-logo-screen-270x270.png" group-title="",The Beat
-http://stream.thebeat.no/beat128.mp3
 #EXTINF:-1 tvg-logo="https://radioplay.no/tesla/static/favicons/radioplay-no/apple-touch-icon.png" group-title="",Topp 40
 http://live-bauerno.sharp-stream.com/top40_no_mp3
-#EXTINF:-1 tvg-logo="http://www.valdresradio.com/favicon-194x194.png" group-title="",Valdres Radio
-http://stream.east.no:8000/valdres.mp3

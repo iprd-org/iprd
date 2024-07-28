@@ -1,14 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://103fm.maariv.co.il/images/ic_launcher.png" group-title="",103FM 
-https://acdn.streamgates.net/103fm
-#EXTINF:-1 tvg-logo="" group-title="news",1e radio
-https://acdn.streamgates.net/891fm
 #EXTINF:-1 tvg-logo="" group-title="ilstations",90FM
 http://90.cdnwz.net/90fm
 #EXTINF:-1 tvg-logo="https://91fm.co.il/wp-content/themes/bootstrap-basic/img/radio.png" group-title="",91FM רדיו
 http://91fm.streamgates.net/Lev91Fm
-#EXTINF:-1 tvg-logo="http://eco99fm.maariv.co.il/images/Eco99-FBimage.jpg" group-title="",ECO 99 FM
-http://cp19-103fm.livecdn.biz/99fm
 #EXTINF:-1 tvg-logo="" group-title="",Galei Zahal
 http://glzwizzlv.bynetcdn.com/glz_mp3
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/logo/8/11388.png" group-title="",Geula FM
@@ -19,8 +13,6 @@ https://glzwizzlv.bynetcdn.com/glglz_mp3?awCollectionId=misc&awEpisodeId=glglz
 https://playerservices.streamtheworld.com/api/livestream-redirect/SAM03AAC81_SC
 #EXTINF:-1 tvg-logo="https://www.i24news.tv/images/favicon.png" group-title="news",i24 news
 https://bcsecurelivehls-i.akamaihd.net/hls/live/1008862/207397166001/master_radio.m3u8
-#EXTINF:-1 tvg-logo="" group-title="college,college radio",IDC International Radio
-https://1062onair.idc.ac.il/idc123.mp3
 #EXTINF:-1 tvg-logo="" group-title="",Jewish Music Stream
 https://stream.jewishmusicstream.com:8000/
 #EXTINF:-1 tvg-logo="http://jointil.com/broadcast/images/joint.radio330X330.png" group-title="full-on,psytrance",Joint Radio Beat
@@ -53,60 +45,6 @@ http://kanliveicy.media.kan.org.il/icy/kantarbut_mp3
 http://kanliveicy.media.kan.org.il/icy/kankolhamusica_mp3
 #EXTINF:-1 tvg-logo="https://kanweb.blob.core.windows.net/download/pictures/Logo_Color4_img__1.png" group-title="adult contemporary,alternative,classic rock,progressive rock,world music",Kan.org.il-88FM
 https://kanlivep2event-i.akamaihd.net/hls/live/749623/749623/kan88_mp3/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="religious",Kol Hai Music - Kcm FM Live 10 Jerusalem
-http://kcm.ecast.co.il:8090/10
-#EXTINF:-1 tvg-logo="" group-title="religious",Kol Hai Music - Kcm FM Live 11 Jerusalem
-http://kcm.ecast.co.il:8090/11
-#EXTINF:-1 tvg-logo="" group-title="religious",Kol Hai Music - Kcm FM Live 12 Jerusalem
-http://kcm.ecast.co.il:8090/12
-#EXTINF:-1 tvg-logo="" group-title="religious",Kol Hai Music - Kcm FM Live 13 Jerusalem
-http://kcm.ecast.co.il:8090/13
-#EXTINF:-1 tvg-logo="" group-title="religious",Kol Hai Music - Kcm FM Live 14 Jerusalem
-http://kcm.ecast.co.il:8090/14
-#EXTINF:-1 tvg-logo="" group-title="religious",Kol Hai Music - Kcm FM Live 15 Jerusalem
-http://kcm.ecast.co.il:8090/15
-#EXTINF:-1 tvg-logo="" group-title="religious",Kol Hai Music - Kcm FM Live 16 Jerusalem
-http://kcm.ecast.co.il:8090/16
-#EXTINF:-1 tvg-logo="" group-title="religious",Kol Hai Music - Kcm FM Live 17 Jerusalem
-http://kcm.ecast.co.il:8090/17
-#EXTINF:-1 tvg-logo="" group-title="religious",Kol Hai Music - Kcm FM Live 18 Jerusalem
-http://kcm.ecast.co.il:8090/18
-#EXTINF:-1 tvg-logo="" group-title="religious",Kol Hai Music - Kcm FM Live 19 Jerusalem
-http://kcm.ecast.co.il:8090/19
-#EXTINF:-1 tvg-logo="" group-title="religious",Kol Hai Music - Kcm FM Live 2 Jerusalem
-http://kcm.ecast.co.il:8090/2
-#EXTINF:-1 tvg-logo="" group-title="religious",Kol Hai Music - Kcm FM Live 20 Jerusalem
-http://kcm.ecast.co.il:8090/20
-#EXTINF:-1 tvg-logo="" group-title="religious",Kol Hai Music - Kcm FM Live 21 Jerusalem
-http://kcm.ecast.co.il:8090/21
-#EXTINF:-1 tvg-logo="" group-title="religious",Kol Hai Music - Kcm FM Live 24 Jerusalem
-http://kcm.ecast.co.il:8090/24
-#EXTINF:-1 tvg-logo="" group-title="religious",Kol Hai Music - Kcm FM Live 25 Jerusalem
-http://kcm.ecast.co.il:8090/25
-#EXTINF:-1 tvg-logo="" group-title="religious",Kol Hai Music - Kcm FM Live 26 Jerusalem
-http://kcm.ecast.co.il:8090/26
-#EXTINF:-1 tvg-logo="" group-title="religious",Kol Hai Music - Kcm FM Live 27 Jerusalem
-http://kcm.ecast.co.il:8090/27
-#EXTINF:-1 tvg-logo="" group-title="religious",Kol Hai Music - Kcm FM Live 28 Jerusalem
-http://kcm.ecast.co.il:8090/28
-#EXTINF:-1 tvg-logo="" group-title="religious",Kol Hai Music - Kcm FM Live 29 Jerusalem
-http://kcm.ecast.co.il:8090/29
-#EXTINF:-1 tvg-logo="" group-title="religious",Kol Hai Music - Kcm FM Live 3 Jerusalem
-http://kcm.ecast.co.il:8090/3
-#EXTINF:-1 tvg-logo="" group-title="religious",Kol Hai Music - Kcm FM Live 4 Jerusalem
-http://kcm.ecast.co.il:8090/4
-#EXTINF:-1 tvg-logo="" group-title="religious",Kol Hai Music - Kcm FM Live 5 Jerusalem
-http://kcm.ecast.co.il:8090/5
-#EXTINF:-1 tvg-logo="" group-title="religious",Kol Hai Music - Kcm FM Live 6 Jerusalem
-http://kcm.ecast.co.il:8090/6
-#EXTINF:-1 tvg-logo="" group-title="religious",Kol Hai Music - Kcm FM Live 7 Jerusalem
-http://kcm.ecast.co.il:8090/k7
-#EXTINF:-1 tvg-logo="" group-title="religious",Kol Hai Music - Kcm FM Live 8 Jerusalem
-http://kcm.ecast.co.il:8090/8
-#EXTINF:-1 tvg-logo="" group-title="religious",Kol Hai Music - Kcm FM Live 9 Jerusalem
-http://kcm.ecast.co.il:8090/9
-#EXTINF:-1 tvg-logo="http://www.96fm.co.il/images/icon175x175.png" group-title="pop",Kol Rega
-http://radio.96fm.co.il:8000/96fm
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s163950/images/logoq.png?t=636420" group-title="",kzradio
 http://kzradio.livecast.co.il/kzradio_aac/
 #EXTINF:-1 tvg-logo="http://www.fm1.co.il/images/stations/nostal.png" group-title="israeli pop oldies",Nostalgia
@@ -125,10 +63,6 @@ http://kanliveicy.media.kan.org.il/icy/kanreka_mp3
 https://kanlivep2event-i.akamaihd.net/hls/live/749624/749624/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Teder FL
 https://radio.streamgates.net/stream/teder
-#EXTINF:-1 tvg-logo="https://up2dance.com/favicon.ico" group-title="",Up2Dance
-http://icecast.yaniv.tv/up2dance
-#EXTINF:-1 tvg-logo="" group-title="international",YAM FM
-https://yamfm.mediacast.co.il/yamfm
 #EXTINF:-1 tvg-logo="https://radio1064.co.il/images/favicon/apple-touch-icon.png" group-title="",Лучшее Радио
 http://live.cdnwz.net/thebest
 #EXTINF:-1 tvg-logo="http://img.bizportal.co.il/giflib/news/logo99_615_111015.jpg" group-title="ilstations",אקו eco 99fm
@@ -137,8 +71,6 @@ http://eco-live.mediacast.co.il/99fm_aac?hash=1559501510715.m4a
 http://glzwizzlv.bynetcdn.com/glglz_mp3
 #EXTINF:-1 tvg-logo="" group-title="news",גלצ
 http://glzwizzlv.bynetcdn.com/glz_mp3?awCollectionId=misc&awEpisodeId=glz
-#EXTINF:-1 tvg-logo="http://1062fm.co.il/he/wp-content/admin-folder/pictures/site-menu_idc-logo.png" group-title="ilstations",הבינתחומי - HabeinTchomi
-http://194.153.101.160:8000/idc123.mp3
 #EXTINF:-1 tvg-logo="https://www.kzradio.net/wp-content/uploads/2018/11/kzlogo.jpg" group-title="ilstations",הקצה - Hakatze
 http://kzradio.mediacast.co.il/kzradio_live/kzradio/icecast.audio
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s14195q.png" group-title="ilstations",ירושלים - Jerusalem
@@ -149,14 +81,8 @@ http://kanliveicy01.bynetcdn.com/icy/kanbet_mp3
 https://kanliveicy.media.kan.org.il/icy/749629_mp3
 #EXTINF:-1 tvg-logo="http://www.770tv.org/images/mevaser_logo.jpg" group-title="ilstations,דתי",מבשר טוב - Mevaser Tov
 http://770tv.no-ip.org:7777/;stream/1
-#EXTINF:-1 tvg-logo="https://static.rlive.co.il/storage/uploads/stations/hW8pW64guN1HWpos9rPg0aCCnX2ugFYjRydVjqf3.png" group-title="ilstations",מנטה - Menta
-http://212.150.101.39:8888/;stream/1
 #EXTINF:-1 tvg-logo="https://www.mizrahit.fm/wp-content/uploads/2020/01/598b81d64d30323525df9723911751f8.png" group-title="ilstations,oriental,מזרחי",נושמים מזרחית - Noshmim Mizrahit
 https://mzr.mediacast.co.il/mzradio
-#EXTINF:-1 tvg-logo="https://www.radio2000.co.il//themes/MGZ/images/logo.png" group-title="ilstations,דתי",ערוץ 2000 Arutz
-http://jradio.ilcast.com:8030/
-#EXTINF:-1 tvg-logo="https://dyjvnjd6yl5jx.cloudfront.net/wp-content/uploads/2018/12/NEW-Logo-%D1%81%D0%B8%D0%BD%D0%B8%D0%B9-PSD-small-1.png" group-title="ilstations",פריוויה - ПЕРВОЕ РАДИО
-http://891fm.streamgates.net/891Fm
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/46/Bnei_Baruch.png" group-title="ilstations",קבלה לעם אנגלית - Kabbalah eng
 http://icecast.kab.tv/live1-eng-574bcfd5.mp3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/46/Bnei_Baruch.png" group-title="ilstations",קבלה לעם עברית - Kabbalah heb
@@ -171,8 +97,6 @@ http://kb.cdnwz.net/kol_barama
 http://1053.cdnwz.net/galil
 #EXTINF:-1 tvg-logo="https://www.fm102.co.il/assets/img/fm102.png" group-title="ilstations",קול הים האדום אילת - Kol Hayam Haadom
 http://eilat.cdnwz.net/102fm
-#EXTINF:-1 tvg-logo="https://kolhanegev.sapir.ac.il/wp-content/uploads/2020/04/newlogoup.png" group-title="ilstations",קול הנגב - Kol Hanegev
-http://ice.sapir.ac.il:8000/stream.mp3
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/cbf57a_82d58bf0f55940b8b288c481497d43c7~mv2.png/v1/crop/x_54,y_238,w_1861,h_624/fill/w_376,h_124,al_c,q_85,usm_0.66_1.00_0.01/kol.webp" group-title="ilstations",קול השפלה - Kol Hashfela
 http://1036kh.cdnwz.net/1036kh
 #EXTINF:-1 tvg-logo="https://www.93fm.co.il/wp-content/uploads/2016/08/%D7%9C%D7%95%D7%92%D7%95-160x100c.png" group-title="israel,orthodox,דתי",קול חי - Kol Chai
@@ -187,20 +111,8 @@ https://radio.streamgates.net/stream/kbmusic
 http://krh.cdnwz.net/1036
 #EXTINF:-1 tvg-logo="https://radio-dante.mozello.co.il/" group-title="",רדיו דנטה
 https://hoth.alonhosting.com/8000/listen.pls
-#EXTINF:-1 tvg-logo="http://www.radiodarom.co.il/wp-content/uploads/2018/08/%D7%A8%D7%93%D7%99%D7%95-%D7%93%D7%A8%D7%95%D7%9D-%D7%9C%D7%95%D7%92%D7%95-%D7%9C%D7%90%D7%AA%D7%A8.png" group-title="ilstations",רדיו דרום - Radio Darom
-https://audio-darom.ecast.co.il/darom97fm
 #EXTINF:-1 tvg-logo="http://www.995.co.il/wp-content/uploads/2016/12/995-logo.jpg" group-title="haifa,hebrew,ilstations,israeli pop,pop",רדיו חמאש - Radio Hamesh
 http://995.livecdn.biz:8000/995fm
-#EXTINF:-1 tvg-logo="https://radio-yasoo.com/design/img/logo.png" group-title="ilstations",רדיו יאסו - Radio Yasoo
-http://radio-yasoo.ath.cx:7500/
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/61b12e_24cc9e2c7eb549749f4794a4b95f725c~mv2.png/v1/crop/x_0,y_2,w_3202,h_950/fill/w_197,h_59,al_c,q_85,usm_0.66_1.00_0.01/LOGO.webp" group-title="ilstations,religious,דתי",רדיו ישראל - Radio Israel
-http://jradio.ilcast.com:8025/;?type=http&nocache=8219
-#EXTINF:-1 tvg-logo="" group-title="ilstations,מזרחי",רדיו מזרחית - Radio Mizrachit
-https://rdm.mediacast.co.il:7777/radiom
-#EXTINF:-1 tvg-logo="" group-title="60's -90's music,80's,hits 70's",רדיו עסקים
-http://israelivoice.co.il:8042/
-#EXTINF:-1 tvg-logo="" group-title="isst",רדיוס Radius 100FM
-http://100fm.streamgates.net/Radios100Fm
 #EXTINF:-1 tvg-logo="https://102fm.co.il/img/images/logo-top-menu.jpg" group-title="hebrew,ilstations,israeli pop,pop,tel aviv",תל אביב Tel Aviv 102FM
 http://102.livecdn.biz/102fm_aac
 #EXTINF:-1 tvg-logo="https://s.ashams.com/static/css/images/logo-header.png" group-title="ilstations",اذاعة الشمس - A-Shams

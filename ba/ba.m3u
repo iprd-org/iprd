@@ -11,20 +11,10 @@ http://big1.bigportal.ba:8100/big1
 http://domacica.bigportal.ba:8100/domacica
 #EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s70058q.png" group-title="traditional,pop,world",Big Radio 2
 http://big2.bigportal.ba:8100/big2
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s103312g.png" group-title="folk,traditional,classic",Radio Čaršija
-http://carsija.topstream.net:19406/
 #EXTINF:-1 tvg-logo="https://www.uzivoradio.net/wp-content/uploads/2011/08/college-banja-luka.jpg" group-title="college,variety,pop",College Radio Banja Luka 87.6
 http://198.178.123.8:8600/;*.mp3
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s157858d.png" group-title="news,talk,variety",Dub Radio 96.7
-http://sc4.streamingpulse.net:8028/
-#EXTINF:-1 tvg-logo="https://www.radiostanica.com/static/images/logos/2697_logo1481938854.jpg" group-title="folk,pop",HIT Radio Brčko
-http://51.254.61.148:8152/;autostart=1
 #EXTINF:-1 tvg-logo="https://www.internet-radio-gvm.com/images/Web/gvm_novi_logo.png" group-title="pop,rock,hip hop",Internet Radio GVM
 http://178.33.135.246:5726/arabellavie
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rdytCkZ/radio-kakanj.png" group-title="folk,culture",Radio Kakanj 87.9
-http://163.172.47.181:8067/
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDLCYg2hzU6qxy-BJBdWRdhzZq0zUtmnNkDw98so_3H3iunPznPCB1OX49m30yYaz8oYM&usqp=CAU" group-title="variety,folk",Kalman Radio 91.5
-http://163.172.47.181:8203/
 #EXTINF:-1 tvg-logo="https://www.kupreskiradio.com/favicon.ico" group-title="pop,top 40",Kupreški Radio
 http://178.209.2.100:10000/live.mp3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2cmLAze.png" group-title="pop,news,talk",Narodni Radio 105.2
@@ -39,14 +29,8 @@ http://188.40.62.20:8090/?DIST=TuneIn&TGT=TuneIn&maxServers=2&partnertok=eyJhbGc
 http://stream.rtvbn.com:8522/;.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/84/ad/12631/c300.png" group-title="information,news",Radio Brcko District
 http://91.191.0.45:8000/
-#EXTINF:-1 tvg-logo="http://www.uzivoradio.com/favicon.ico" group-title="rock,folk",Radio Feral 100.4
-http://185.50.56.3/;stream.nsv
-#EXTINF:-1 tvg-logo="http://kameleon.ba/favicon.ico" group-title="top 40,adult,contemporary",Radio Kameleon 102.7
-http://188.40.62.20:8006/stream?type=http
 #EXTINF:-1 tvg-logo="https://www.radiomarija.ba///favicon.ico" group-title="catholic,religion",Radio Maria Bosnia
 http://dreamsiteradiocp.com:8034/stream
-#EXTINF:-1 tvg-logo="https://www.balkanradiostanice.com/radio-stanice-logo/radio-plus-posu%C5%A1je-815-bih-320.jpg" group-title="rock,pop,oldies",Radio Plus 90.3
-http://136.243.144.93:9306/
 #EXTINF:-1 tvg-logo="https://www.phonostar.de/images/auto_created/Radio_Posusje3184x184.png" group-title="dance,rock,blues",Radio Posušje 102.9
 http://136.243.144.93:9994/
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxV_g3qfuvavKXYkbP_ML2KqGmiJQuriKv4dNg0QIaka2B-wWGjOjAzOmjhXrVv3L7_sw&usqp=CAU" group-title="information,local,news,talk,public,serbian",Radio Republike Srpske

@@ -1,32 +1,18 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://www.bestcoast.fm/images/logo.png" group-title="music",bestcoast.fm
 http://streams.radio.co/sea5dddd6b/listen
-#EXTINF:-1 tvg-logo="https://www.goldfm.lk//images/icon.png" group-title="oldies,pop",Gold FM 93.0 & 93.2 Colombo
-http://goldfm.asiabroadcasting.stream:7048/listen.pls
 #EXTINF:-1 tvg-logo="https://zeno.fm/static/icons/apple-icon-120x120.png" group-title="classical",Gospel Music Radio Srilanka 
 http://stream.zeno.fm/emsfpc2m7x8uv?rj-ttl=5&rj-tok=AAABfdq7yegA5IeGSooJVPL8-A
-#EXTINF:-1 tvg-logo="http://www.hirufm.lk/images/favicon.ico" group-title="colombo,sinhalese pop",Hiru FM 96.1 Colombo
-http://hirufm.asiabroadcasting.stream:7018/listen.pls
-#EXTINF:-1 tvg-logo="https://www.laksara.com/wp-content/uploads/2020/01/laksaralogo.jpg" group-title="",Laksara
-https://eu10b.serverse.com:1936/Laksara/Laksara/chunklist_w2083084714.m3u8
-#EXTINF:-1 tvg-logo="http://lite87.com/sites/55ade734ad0d5fa398000002/theme/images/fevi_2.png" group-title="adult contemporary",Lite87
-http://live.tnlrn.com:8020/live.mp3
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/e7265a_b17eddec1c964182bbc148b00fce84bc~mv2.png/v1/fill/w_95,h_71,al_c,q_85,usm_0.66_1.00_0.01/e7265a_b17eddec1c964182bbc148b00fce84bc~mv2.webp" group-title="christian,jesus,tamil,world",Lord Radio
 https://lordsradio.radioca.st/stream
-#EXTINF:-1 tvg-logo="http://nethfm.lk/wp-content/themes/nethfm/images/logo.png" group-title="entertainment,music,news",Neth FM
-http://69.46.24.226:7669/stream
 #EXTINF:-1 tvg-logo="" group-title="",Nethra TV
 http://dammikartmp.tulix.tv/slrc3/slrc3/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.srilankanrecords.com/uploads/7/3/4/9/73490959/published/400dpilogo.jpeg?1486261500" group-title="music",Parani Gee
 http://151.80.42.191:8288/stream
-#EXTINF:-1 tvg-logo="" group-title="only the golden classics",Real Radio
-http://s3.voscast.com:8406/;stream1580528883830/1
 #EXTINF:-1 tvg-logo="http://redfm.lk/red107.8.jpg" group-title="90's and more!,the best of 80's",Red FM
 http://shaincast.caster.fm:47830/listen.mp3
 #EXTINF:-1 tvg-logo="http://nettv.live/uploads/19/1-1Z129145KWE.jpg" group-title="",Rupavahini TV
 http://dammikartmp.tulix.tv/slrc1/slrc1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.shaafm.lk/images/logo_large.jpg" group-title="entertainment,music,news",Shaa FM
-http://209.133.216.3:7073/;stream.mp3
 #EXTINF:-1 tvg-logo="" group-title="entertainment,music,news",Sirasa FM
 http://live.trusl.com:1170/listen.pls
 #EXTINF:-1 tvg-logo="https://sithafm.lk/img/sitha-symbol-svg.png" group-title="entertainment,music,news",Sitha FM
@@ -41,12 +27,6 @@ http://220.247.227.6:8000/Snsstream
 http://220.247.227.6:8000/Scomstream
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/SLBC-Logo.jpg" group-title="malayalam,slbc",SLBC Asia Service
 http://220.247.227.6:8000/Asiastream
-#EXTINF:-1 tvg-logo="http://www.sooriyanfm.lk/images/favicon.ico" group-title="colombo,srilanka,tamil,tamil music",Sooriyan FM
-http://209.133.216.3:7071/
-#EXTINF:-1 tvg-logo="https://www.sunfm.lk/assets/images/liveradio/logo.png" group-title="english,sri lanka,sun fm",Sun FM
-http://209.133.216.3:7058/;stream.mp3
-#EXTINF:-1 tvg-logo="http://tnlradio.com/sites/5833dbc3470afb8109000003/theme/images/favicon.ico" group-title="entertainment,music",TNL Radio
-http://live.tnlrn.com:8010/live.mp3
 #EXTINF:-1 tvg-logo="" group-title="indian music,jaffna,radio,south indian,sri lanka,tamil,tamil fm,tamil music,tamil songs,tube tamil",Tube Tamil FM Radio டியூப் தமிழ் எஃப்.எம் பண்பலை ரேடியோ
 http://s2.voscast.com:12084/;stream1619441439791/1
 #EXTINF:-1 tvg-logo="http://yfm.lk/wp-content/uploads/2018/04/y1.png" group-title="entertainment,music,news",Y FM

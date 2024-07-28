@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://bay.com.mt/wp-content/uploads/2016/12/cropped-bayicon-500x280.png" group-title="",89.7FM Bay Radio Malta
-http://178.32.161.194:8022/;stream.mp3
 #EXTINF:-1 tvg-logo="" group-title="music,talk",Calypso Radio
 https://s4.radio.co/sf3aa4c25a/listen
 #EXTINF:-1 tvg-logo="https://um.edu.mt/media/um/images/umcrest.png" group-title="university radio",Campus FM
@@ -23,7 +21,3 @@ http://dreamsiteradiocp.com:8102/
 http://dreamsiteradiocp.com:8102/stream
 #EXTINF:-1 tvg-logo="" group-title="",Vibe FM
 https://s9.voscast.com:7825/1
-#EXTINF:-1 tvg-logo="http://www.xfm.com.mt/assets/img/fav/apple-icon-120x120.png" group-title="music",XFM
-http://162.252.85.85:7866/
-#EXTINF:-1 tvg-logo="http://www.xfm.com.mt/assets/img/fav/apple-icon-120x120.png" group-title="",XFM
-http://s10.voscast.com:7866/

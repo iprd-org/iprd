@@ -1,16 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="", 97fm Rádio Clube de Pombal
-http://radioclubepombal.no-ip.biz:8081/stream
 #EXTINF:-1 tvg-logo="https://www.wix.com/favicon.ico" group-title="jazz fusion,nu-jazz,smooth jazz",4Drive Jazz
 http://radio.streemlion.com:1150/stream
 #EXTINF:-1 tvg-logo="" group-title="",91FM
 https://sp0.redeaudio.com/9878/stream
 #EXTINF:-1 tvg-logo="http://us0-cdn.onlineradiobox.com/img/logo/9/20179.png" group-title="latin,latino,world music",ABC Portugal
 http://centova.radio.com.pt:8547/listen.pls
-#EXTINF:-1 tvg-logo="" group-title="",Algarve FM
-http://213.239.218.99:7128/stream.mp3
-#EXTINF:-1 tvg-logo="http://www.tvtuga.com/wp-content/uploads/2015/10/alive-fm.jpg" group-title="local music",Alive FM
-http://centova.radio.com.pt:9468/listen.pls
 #EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s81734q.png" group-title="pop,top 40",Alvor FM
 http://centova.radio.com.pt:8469/listen.pls
 #EXTINF:-1 tvg-logo="" group-title="talk & speech",Antena 1
@@ -47,14 +41,6 @@ https://audio-edge-5bkfj.fra.h.radiomast.io/ec065d59-f358-48c9-a288-4efc797e5860
 http://stream2.bbnradio.org:8000/portuguese
 #EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s206397q.png" group-title="80s,top 40",Canal FM
 http://centova.radio.com.pt:9466/listen.pls
-#EXTINF:-1 tvg-logo="http://cidade.iol.pt/favicon.ico" group-title="",Cidade FM
-http://media3.mcr.iol.pt/livefm/cidade.mp3/icecast.audio
-#EXTINF:-1 tvg-logo="https://cidade.iol.pt/images/logo_CIDADE_2020.png" group-title="128 kbit/s,aac",Cidade FM
-https://media1.mcr.iol.pt/livefm/cidade/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cidade.iol.pt/favicon.ico" group-title="hip-hop,hiphop",Cidade Hip Hop
-https://media1.mcr.iol.pt/wrcidade/cidhiphop.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s288798q.png" group-title="pop,popular",CristalMix
-http://185.32.188.17:8017/stream?type=.mp3
 #EXTINF:-1 tvg-logo="http://static.radio.de/images/broadcasts/8c/2f/18038/c175.png" group-title="electro,house,trance",Deep in Radio
 http://s3.viastreaming.net:8525/
 #EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s83912q.png" group-title="local music,news,variety",Diana FM
@@ -73,8 +59,6 @@ http://digitalfm.dynu.com:8000/digitalfm64
 http://185.32.188.17:8003/stream
 #EXTINF:-1 tvg-logo="http://www.radiofutura.pt/favicon.ico" group-title="",FUTURA - Rádio de Autor
 https://s4.radio.co/s7e7b6c165/listen
-#EXTINF:-1 tvg-logo="https://golo.fm/wp-content/uploads/2020/09/cropped-fav-180x180.png" group-title="sport",Golo FM
-http://play.golo.fm:8020/
 #EXTINF:-1 tvg-logo="https://cdn.apkmonk.com/logos/com.goodbarber.hiperfm2_150x150.png" group-title="electro,pop,top 40",Hiper FM
 http://195.23.85.126:9500/listen.pls
 #EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s104511q.png" group-title="local music",Horizonte FM
@@ -85,16 +69,6 @@ https://centova.radio.com.pt/proxy/564?mp=/stream
 http://centova.radio.com.pt:8529/listen.pls
 #EXTINF:-1 tvg-logo="" group-title="alternative rock,indie,indie rock,pop",Jams and Kooks
 http://stream.zeno.fm/0vqtrtyzg4duv?rj-ttl=5&rj-tok=AAABfdpkNfoAL-TTjXX9HfB2Ig
-#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s81782q.png" group-title="algarve,pop,top 40",Kiss FM Algarve
-http://213.239.218.99:7027/stream.mp3
-#EXTINF:-1 tvg-logo="http://raw.githubusercontent.com/teamblue65/LOGO/master/KURIAKOSCINE.png" group-title="",Kuriakos Cine TV
-http://c2.manasat.com:1935/kcine/kcine3/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://raw.githubusercontent.com/teamblue65/LOGO/master/KURIAKOSKIDS.png" group-title="",Kuriakos Kids TV
-http://c2.manasat.com:1935/kkids/kkids3/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://raw.githubusercontent.com/teamblue65/LOGO/master/KURIAKOSTV.png" group-title="",Kuriakos TV
-http://195.22.11.11:1935/ktv/ktv1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://m80.iol.pt//favicon.ico" group-title="oldies",M80 Radio
-http://media3.mcr.iol.pt/livefm/m80.mp3/icecast.audio
 #EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s6745q.png" group-title="pop,top 40",Mega Hits
 https://playerservices.streamtheworld.com/api/livestream-redirect/MEGA_HITS_SC
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/55a451_d5807c3dfbb34cc78a7a3236d420423c~mv2.png" group-title="classic rock,hard rock,metal,pop,progressive rock",MRR Manitu Rock Radio
@@ -105,8 +79,6 @@ https://sp0.redeaudio.com/8028/stream/
 https://d1ay03r3mc1yh.cloudfront.net/live_aac_64
 #EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSKuvt2fcJo-jnokx8ovXXFeI2RMjiWAiJUf_FePFhcHszLKKu6" group-title="dance,electronic,house",ORBITAL
 http://centova.radios.pt:8401/;listen.pls
-#EXTINF:-1 tvg-logo="https://www.oxigenio.fm/wp-content/uploads/2019/02/oxigenio_facebook.jpg" group-title="",Oxigénio 102.6
-https://proic1.evspt.com/oxigenio_aac
 #EXTINF:-1 tvg-logo="" group-title="",Posto Emissor do Funchal (Canal 1 - OM)
 http://centova.radio.com.pt:9422/
 #EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s84071q.png" group-title="local music,news,talk",Posto Emissor do Funchal FM
@@ -115,8 +87,6 @@ http://centova.radio.com.pt:9426/listen.pls
 https://centova.radio.com.pt/proxy/422?mp=/stream
 #EXTINF:-1 tvg-logo="https://www.celsoazevedo.com/files/android/p/f/2020/11/pef.png" group-title="madeira,portugal,portuguese",Posto Emissor do Funchal OM
 http://centova.radio.com.pt:9422/stream
-#EXTINF:-1 tvg-logo="https://radarlisboa.fm/wp-content/uploads/2016/02/icone_teste-1.png" group-title="alternative,indie,rock",RADAR 97.8 FM
-https://proic1.evspt.com/radar_aac
 #EXTINF:-1 tvg-logo="" group-title="",Rádio 5
 https://radios.justweb.pt/8042/stream
 #EXTINF:-1 tvg-logo="http://www.radio94fm.pt/favicon.ico" group-title="",Radio 94 FM
@@ -141,8 +111,6 @@ http://centova.radio.com.pt:8483/listen.pls
 http://centova.radio.com.pt:8563/listen.pls
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-a3OCnT3rQp8/AAAAAAAAAAI/AAAAAAAAAAA/0UQq6AV8WHw/s100-c-k-no-rj-c0xffffff/photo.jpg" group-title="local music,world music",Rádio Borba
 http://centova.radios.pt:9578/listen.pls
-#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s82191q.png" group-title="adult contemporary,fado,world music",Rádio Botaréu
-http://213.239.218.99:7022/
 #EXTINF:-1 tvg-logo="https://www.radiocampanario.com/templates/rcampanario/favicon.ico" group-title="local news,pop music",Rádio Campanário
 https://centova.radio.com.pt/proxy/425?mp=/stream
 #EXTINF:-1 tvg-logo="http://www.cantinhodamadeira.pt///images/faviconcm.ico" group-title="local music,local radio",Radio Cantinho da Madeira
@@ -157,8 +125,6 @@ http://centova.radio.com.pt:8521/listen.pls
 http://centova.radio.com.pt:9462/listen.pls
 #EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s83595q.png" group-title="adult contemporary,local music,world music",Rádio Castrense
 http://centova.radio.com.pt:8431/listen.pls
-#EXTINF:-1 tvg-logo="http://static.radio.de/images/broadcasts/90/16/19050/c175.png" group-title="local music,pop,sport,talk",Rádio Cidade de Tomar
-http://193.164.131.215:9306/;stream.mp3
 #EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s82196q.png" group-title="local music",Rádio Cidade Hoje
 http://centova.radio.com.pt:8119/listen.pls
 #EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s9924q.png" group-title="local music,talk,world music",Rádio Cister
@@ -171,18 +137,12 @@ http://centova.radio.com.pt:9544/listen.pls
 http://176.9.43.216:8135/stream
 #EXTINF:-1 tvg-logo="http://www.radios.pt/wp-content/uploads/2015/09/IconeRCG_NOVO_2.png" group-title="adult contemporary,jazz,local music",Rádio Clube de Grândola
 https://centova.radio.com.pt/proxy/474?mp=/stream
-#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s83788q.png" group-title="local music,world music",Rádio Clube de Monsanto
-http://centova.radio.com.pt:9424/listen.pls
 #EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s84110q.png" group-title="adult contemporary,pop,top 40",Rádio Clube de Penafiel
 http://centova.radio.com.pt:9476/listen.pls
 #EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s83945q.png" group-title="gospel,news,variety",Rádio Clube de Sintra
 http://centova.radio.com.pt:8445/listen.pls
 #EXTINF:-1 tvg-logo="http://static.radio.pt/images/broadcasts/6d/95/35660/1/c175.png" group-title="charts,hits,local music,top 40",Rádio Clube Madeira
 http://radiosmadeira.net:8020/;stream.mp3
-#EXTINF:-1 tvg-logo="https://radiocomercial.iol.pt/images/svg/logoRC_black.svg" group-title="128kbit,aac",Rádio Comercial
-https://media1.mcr.iol.pt/livefm/comercial/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://radiocomercial.iol.pt//favicon.ico" group-title="",Radio Comercial_
-http://media3.mcr.iol.pt/livefm/comercial.mp3/icecast.audio
 #EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s11079q.png" group-title="latin,local music",Rádio Condestável
 http://centova.radio.com.pt:8427/listen.pls
 #EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s1360q.png" group-title="local music,talk,variety",Rádio Cova da Beira
@@ -191,18 +151,8 @@ http://centova.radio.com.pt:8467/listen.pls
 http://centova.radio.com.pt:8551/listen.pls
 #EXTINF:-1 tvg-logo="http://www.radios.pt/wp-content/uploads/2015/09/RE-LOGO1.jpg" group-title="local music,world music",Rádio Elmo
 http://centova.radio.com.pt:8463/listen.pls
-#EXTINF:-1 tvg-logo="http://www.radioelvas.com/favicon.ico" group-title="culture,hits,news",Rádio Elvas
-http://radios.dotsi.pt:8025/stream
 #EXTINF:-1 tvg-logo="https://www.radiofadodecoimbra.pt/img/1_2.jpg" group-title="fado",Radio Fado de Coimbra
 https://nl.digitalrm.pt:8048/stream
-#EXTINF:-1 tvg-logo="" group-title="dance,party",RADIO FAUSTEX DANCE
-http://109.169.23.123:8073/
-#EXTINF:-1 tvg-logo="https://radiofaustexinstrumental.listen2myshow.com/assets/images/uploads/user_620728840/radio_673206571/logo_banner/logo/1069127213.png" group-title="classical,instrumental,jazz",RADIO FAUSTEX INSTRUMENTAL
-http://78.129.139.48:8084/
-#EXTINF:-1 tvg-logo="https://radiofaustexmemories.listen2myshow.com/assets/images/uploads/user_620728840/radio_359903512/logo_banner/logo/1014396915.png" group-title="oldies",RADIO FAUSTEX MEMORIES
-http://109.169.23.123:8025/
-#EXTINF:-1 tvg-logo="https://radiofaustexsoft.listen2myshow.com/assets/images/uploads/user_620728840/radio_569919745/logo_banner/logo/459716084.png" group-title="concentration,meditation,relax",RADIO FAUSTEX SOFT
-http://109.169.23.123:8939/
 #EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s84093q.png" group-title="adult contemporary,fado,local music,pop,top 40",Rádio Felgueiras
 http://centova.radio.com.pt:8459/listen.pls
 #EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s84111q.png" group-title="adult contemporary,local music",Rádio Festival do Norte
@@ -213,22 +163,14 @@ http://centova.radios.pt:8559/stream
 http://centova.radio.com.pt:9440/listen.pls
 #EXTINF:-1 tvg-logo="http://www.radios.pt/wp-content/uploads/2015/09/Granada-Fm-logotipo.jpg" group-title="local music,news,talk",Rádio Granada FM
 http://centova.radio.com.pt:8549/listen.pls
-#EXTINF:-1 tvg-logo="https://www.radioguadiana.pt/imagens/logo.jpg" group-title="guadiana,vila-real",Radio Guadiana FM
-http://95.217.75.38:9844/stream
 #EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s1653q.png" group-title="house,top 40,world music",Rádio Horizonte Algarve
 http://centova.radio.com.pt:9458/listen.pls
 #EXTINF:-1 tvg-logo="http://www.radiolagoa.pt/wp-content/uploads/2014/02/logo2-Oficial-limpo.png" group-title="local music",Rádio Lagoa
 http://centova.radio.com.pt:9488/listen.pls
-#EXTINF:-1 tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/7f/4e/36289/c175.png" group-title="hits,local news",Rádio Lajes
-http://213.239.218.99:7152/stream/1/
 #EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s84216q.png" group-title="world music",Rádio Limite
 http://centova.radio.com.pt:9408/listen.pls
 #EXTINF:-1 tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/42/78/103539/1/c175.png" group-title="community radio,dj,podcasts",Rádio Lisboa
 http://radiolisboa.ddns.net:8080/stream/1/
-#EXTINF:-1 tvg-logo="" group-title="",Rádio Liz
-http://213.239.218.99:7110/stream.mp3
-#EXTINF:-1 tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/8a/42/18048/c175.png" group-title="amateur radio,electro,hits",Rádio Lusitânia CB
-http://rlcbdance.no-ip.org:8092/
 #EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s25146q.png" group-title="jazz",Rádio Marginal
 http://centova.radio.com.pt:8499/listen.pls
 #EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s81786q.png" group-title="adult contemporary,pop,rock,top 40",Rádio MEO Music
@@ -245,16 +187,8 @@ http://stream.zeno.fm/e309x44vwd0uv?rj-ttl=5&rj-tok=AAABfd5qY58Ad-U_5tuAediDHQ
 http://109.71.41.6:8020/live
 #EXTINF:-1 tvg-logo="http://www.radiomontalegre.net/RM.jpg" group-title="local music,pop,top 40",Rádio Montalegre
 http://centova.radio.com.pt:9566/listen.pls
-#EXTINF:-1 tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/79/00/29566/1/c175.png" group-title="hits,portuguese music",Rádio Montemuro
-http://46.105.172.166:9304/listen.pls
-#EXTINF:-1 tvg-logo="http://static.radio.de/images/broadcasts/b0/9d/29600/c175.png" group-title="classic hits,pop,rock,top 40",Rádio Next
-http://46.105.172.166:8072/
-#EXTINF:-1 tvg-logo="https://i0.wp.com/radionoar.pt/wp-content/uploads/2019/07/Logo_RadioNoAr.png?fit=480%2C480&ssl=1" group-title="popular music",Rádio NoAr
-http://5.189.189.245:8024/listen.pls
 #EXTINF:-1 tvg-logo="" group-title="popular music",Rádio NoAr
 https://radios.justweb.pt/8034/stream
-#EXTINF:-1 tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/38/b6/125182/1/c175.png" group-title="80s,90s,oldies",Rádio Nostalgia Elvas
-http://stm6.srvstm.com:6162/stream/1/
 #EXTINF:-1 tvg-logo="http://www.radionova.fm/favicon.ico" group-title="culture,news,pop",Radio Nova
 http://centova.radios.pt:9528/
 #EXTINF:-1 tvg-logo="http://www.radionova.fm/w/img/radionova_logo-cores.png" group-title="",Rádio Nova 98.9 FM
@@ -271,12 +205,8 @@ http://centova.radio.com.pt:9524/listen.pls
 http://centova.radio.com.pt:8407/listen.pls
 #EXTINF:-1 tvg-logo="https://www.orbital.pt/icon.png" group-title="",radio orbital 
 https://centova.radio.com.pt/proxy/401?mp=/stream
-#EXTINF:-1 tvg-logo="" group-title="local music,news,sport,talk",Rádio Pernes
-http://213.239.218.99:7068/stream.mp3
 #EXTINF:-1 tvg-logo="http://www.radiopico.com/fx/logo_radiopico_2012.png" group-title="",Rádio Pico
 http://centova.radios.pt:9420/stream
-#EXTINF:-1 tvg-logo="" group-title="",Rádio Placard
-http://213.239.218.99:7098/stream.mp3
 #EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s82364q.png" group-title="local music,pop,talkshow",Rádio Planície 92.8 Moura
 http://109.71.41.6:8026/stream
 #EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s84209q.png" group-title="adult contemporary,local music",Rádio Popular Afifense
@@ -291,18 +221,12 @@ http://stream2.radioquantica.com:8000/stream
 http://centova.radio.com.pt:8445/stream
 #EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s83556q.png" group-title="fado,folklore,local music",Rádio Regional de Arouca
 http://centova.radio.com.pt:8485/listen.pls
-#EXTINF:-1 tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/ac/6e/29627/1/c175.png" group-title="70s,80s,90s",Rádio Remember FM
-http://176.9.43.216:8449/stream/1/
 #EXTINF:-1 tvg-logo="https://rrsite-images.azureedge.net/favicon/apple-touch-icon.png" group-title="national news",Rádio Renascença
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RENASCENCA_SC
 #EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s84308q.png" group-title="local music,news,talk",Rádio Riba-Távora
 http://centova.radio.com.pt:9542/listen.pls
 #EXTINF:-1 tvg-logo="https://www.guimaraesdigital.com/images/site/logo_menu_canvas.png" group-title="music",Radio Santiago Guimaraes
 http://eu6.fastcast4u.com:5002/stream
-#EXTINF:-1 tvg-logo="https://www.radiosensacoes.com/templates/haven/favicon.ico" group-title="pop",Rádio Sensações
-http://62.210.178.71:8000/stream
-#EXTINF:-1 tvg-logo="https://radiosines.sapo.pt/assets/dist/img/favicons/apple-icon-120x120.png" group-title="",Radio Sines
-https://ssl.evsportugal.net:7166/stream?type=http&nocache=19794
 #EXTINF:-1 tvg-logo="https://radiotagide.pt/widgets/logos/logo_rt_tocar_mediaon4.png" group-title="oldies",Rádio Tágide
 https://radiotag.radioca.st/stream
 #EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s171052q.png" group-title="local music,pop,top 40",Rádio Terra Nova
@@ -317,14 +241,8 @@ http://centova.radios.pt:9508/stream
 http://centova.radio.com.pt:9482/listen.pls
 #EXTINF:-1 tvg-logo="http://www.radios.pt/wp-content/uploads/2015/08/Logotipo-Vidigueira.jpg" group-title="local music,world music",Rádio Vidigueira
 http://centova.radio.com.pt:8567/listen.pls
-#EXTINF:-1 tvg-logo="http://radiovinho.pt/images/favicon.gif" group-title="international",Rádio Vinho
-http://luisinsk.ddns.net:8000/stream
-#EXTINF:-1 tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/51/33/18054/1/c175.png" group-title="hits,local news",Rádio Vizela
-https://proxy-audio.ptisp.com:8100/stream
 #EXTINF:-1 tvg-logo="http://www.vozdaplanicie.pt/assets/dist/img/favicons/apple-icon-120x120.png" group-title="local music,news",Rádio Voz da Planície
 https://centova.radio.com.pt/proxy/441?mp=/stream
-#EXTINF:-1 tvg-logo="http://www.radios.pt/wp-content/uploads/2015/09/RVA-Logo-fundo-transparente-copy.png" group-title="local music,news,sport",Rádio Voz de Alenquer
-http://centova.radio.com.pt:8479/listen.pls
 #EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s84189q.png" group-title="local music,news,pop,talk,top 40",Rádio Voz do Sorraia
 http://centova.radio.com.pt:8511/listen.pls
 #EXTINF:-1 tvg-logo="https://radioxlfm.pt/wp-content/uploads/2020/07/cropped-favicon-novo-192x192.png" group-title="oldies,pop",Rádio XL
@@ -333,22 +251,12 @@ https://radios.justweb.pt/8002/stream
 http://radiocast.rtp.pt/zigzag80a.mp3
 #EXTINF:-1 tvg-logo="" group-title="hip hop,portugal,tuga",Rap/Hip Hop
 http://185.32.188.17:8097/stream
-#EXTINF:-1 tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/10/41/18993/1/c175.png" group-title="hits,local news,news",RCI Net 105.5 FM
-http://213.239.218.99:7032/stream/1/
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s25214d.png" group-title="african music,local music,news,podcast",RDP África
 http://radiocast.rtp.pt/rdpafrica80a.mp3
 #EXTINF:-1 tvg-logo="https://img0.rtp.pt/rdpinternacional/images/apple-touch-icon.png-120x120.png" group-title="",RDP Internacional
 http://radiocast.rtp.pt/rdpint80a.mp3
-#EXTINF:-1 tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/b4/47/36700/c300.png" group-title="dance music,deep house,deep techno,electro house,house,techno",RES FM
-https://sp0.redeaudio.com:7016/
-#EXTINF:-1 tvg-logo="" group-title="",Res.FM
-http://95.217.75.38:9320/listen.pls
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/RFM.svg" group-title="64kbps",RFM
 https://playerservices.streamtheworld.com/api/livestream-redirect/RFMAAC.aac
-#EXTINF:-1 tvg-logo="http://static.radio.de/images/broadcasts/49/3c/29601/c175.png" group-title="dance,dj,mix",RLCB Dance
-http://rlcbdance.no-ip.org:8431/
-#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s16298q.png" group-title="local music,news,world music",RNA Montemor
-http://radios.dotsi.pt:8023/stream
 #EXTINF:-1 tvg-logo="http://www.rua.pt/wp-content/uploads/2013/03/RUA_4cores_positivo4.jpg" group-title="universitária",RUA Rádio Universitária do Algarve
 https://centova.radio.com.pt/proxy/536?mp=/stream
 #EXTINF:-1 tvg-logo="https://ruc.pt/favicon-32x32.png" group-title="alternative,student radio,university radio",RUC Rádio Universidade de Coimbra
@@ -359,8 +267,6 @@ http://centova.radio.com.pt:8435/
 http://hyades.shoutca.st:8270/stream/1/
 #EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s82204q.png" group-title="local music,world music",Singa FM
 http://centova.radio.com.pt:8487/listen.pls
-#EXTINF:-1 tvg-logo="https://www.superfm.com/favicon.ico" group-title="classic rock,rock",Super FM
-http://95.217.75.38:9962/;&13202692901&duration=99999&id=scplayer&autostart=true
 #EXTINF:-1 tvg-logo="http://www.radios.pt/wp-content/uploads/2015/08/Tejo-Radio-Jornal.jpg" group-title="news,world music",Tejo Rádio Jornal
 http://centova.radio.com.pt:8531/listen.pls
 #EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s83751q.png" group-title="local,pop,talk,top 40",Terra Quente FM
@@ -373,8 +279,6 @@ http://centova.radio.com.pt:8545/listen.pls
 http://live.top80.fm:8086/
 #EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s107330q.png" group-title="adult contemporary,world music",Torres Novas FM
 http://centova.radio.com.pt:8475/listen.pls
-#EXTINF:-1 tvg-logo="https://www.tsf.pt/common/images/favicons/mstile-310x150.png" group-title="news,sports",TSF
-http://directo.tsf.pt:8181/tsfdirecto.aac
 #EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s110774t.png" group-title="local music,local news",TSF Rádio Açores
 http://centova.radio.com.pt:8243/listen.pls
 #EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s163045q.png" group-title="adult contemporary,local news",TSF Rádio Madeira
@@ -385,9 +289,5 @@ http://tsfdirecto.tsf.pt/tsfdirecto.mp3
 http://centova.radio.com.pt:9506/listen.pls
 #EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s16496q.png" group-title="local music,student,talk,world music",Universidade FM
 http://centova.radio.com.pt:8405/listen.pls
-#EXTINF:-1 tvg-logo="" group-title="misc",valor
-http://148.251.180.161/8108/stream
 #EXTINF:-1 tvg-logo="" group-title="",VFM 94.6
 http://cast.redewt.net:9141/live
-#EXTINF:-1 tvg-logo="" group-title="",Vodafone FM
-http://media3.mcr.iol.pt/livefm/vodafone.mp3/icecast.audio

@@ -1,24 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://www.20ftradio.net/favicon.ico" group-title="ambient,eclectic,electronic,electronica,independent,library music,soundtracks",20ft Radio
 https://c18.radioboss.fm:18146/stream
-#EXTINF:-1 tvg-logo="https://aristocrats.fm/icon114.png" group-title="",Aristocrats.fm.
-http://air.aristocrats.fm:8000/live2
-#EXTINF:-1 tvg-logo="" group-title="",ATR TV
-http://stream.atr.ua/atr/live/index.m3u8
-#EXTINF:-1 tvg-logo="http://bibliowave.if.ua/wp-content/uploads/2019/11/cropped-unnamed.png" group-title="chill,chillout,classical,house,talk",BiblioWave - музика для читання
-http://62.122.205.35:8000/radio.mp3
 #EXTINF:-1 tvg-logo="https://brokenbeats.net/unknown_track.png" group-title="atmospheric,downtempo,drum and bass",Brokenbeats
 https://stream.brokenbeats.net/tune
 #EXTINF:-1 tvg-logo="" group-title="mashup,pop",Bumble
 http://live.bumblebeefm.ru:8000/radio
-#EXTINF:-1 tvg-logo="" group-title="alternative,indie,music",Cardiowave
-http://91.206.30.79:8000/CW256
-#EXTINF:-1 tvg-logo="https://pp.userapi.com/c840534/v840534982/29f7/Vm-SZt1fm7w.jpg" group-title="deep house,deep techno,house,tech house,techno",Deep Pulse Radio
-http://wp6150.ddns.mksat.net:8000/stream.mp3
 #EXTINF:-1 tvg-logo="" group-title="dance",DJFM
 https://cast.brg.ua/djfm96.aacp
-#EXTINF:-1 tvg-logo="" group-title="dance,folk,pop,rock,top 40,ukrainian",E!UA Radio
-http://eradio.cc.colocall.com:8000/eradio
 #EXTINF:-1 tvg-logo="https://www.galychyna.fm/wp-content/uploads/2017/12/favicon.png" group-title="",FM Галичина
 https://stream320.galychyna.fm/live
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s198479d.png" group-title="alternative,hard rock,pop rock,punk,rock,ska",Fresh Rock
@@ -33,10 +21,6 @@ http://online.hitfm.ua/HitFM
 http://195.95.206.17/HitFM
 #EXTINF:-1 tvg-logo="http://holos.fm/webplayer/img/coverart.png" group-title="holos,holos svobody,svoboda,голос,голос свободи,народне,національне,нація,свобода,україна,україномовне",Holos.FM
 http://holos.fm:8000/holos
-#EXTINF:-1 tvg-logo="https://twitter.com/jamfmkyiv/profile_image?size=original" group-title="music,news,rock",Jam FM (Ukraine) - 128kb/s
-http://cast.jamfm.com.ua/jamfm
-#EXTINF:-1 tvg-logo="" group-title="",JamFm Ukraine
-http://cast.radiogroup.com.ua:8000/jamfm
 #EXTINF:-1 tvg-logo="https://www.radiojazz.ua/static/img/RadioJAZZ_1200x630.jpg" group-title="music",Jazz FM 104.6
 http://online.radiojazz.ua/RadioJazz
 #EXTINF:-1 tvg-logo="http://keksfm.kiev.ua/wp-content/uploads/2018/02/logo-KEXXX-FM-KEKS-FM-%D0%9A%D0%B5%D0%BA%D1%81-%D0%A4%D0%9C-%D1%80%D1%83%D1%81-RED-LIGHT_150_80.png" group-title="dance radio online,keks fm,keks online,kexxx,kexxx fm,kiss fm ukraine,radio kexxx,кисс фм украина",KEXXX FM Ukraine
@@ -61,8 +45,6 @@ http://cast.loungefm.com.ua/acoustic128?1410329161003.mp3
 http://cast.loungefm.com.ua/chillout128?1410329190824.mp3
 #EXTINF:-1 tvg-logo="http://loungefm.com.ua/img/icon-144x144.png" group-title="chillout,lounge",Lounge FM - Terrace
 http://cast.loungefm.com.ua/terrace128?1410329080738.mp3
-#EXTINF:-1 tvg-logo="https://loungefm.com.ua/img/icon-144x144.png" group-title="music",Lounge FM 106.0
-https://cast.radiogroup.com.ua/loungefm
 #EXTINF:-1 tvg-logo="http://www.lux.fm/favicons/apple-touch-icon.png" group-title="ukrainian",Lux FM
 http://icecast.luxnet.ua/lux
 #EXTINF:-1 tvg-logo="" group-title="lviv,львівська хвиля",Lviv Wave Radio
@@ -77,12 +59,6 @@ https://radio-stream-0.obozrevatel.com/depechemode128.mp3
 https://radio-stream-0.obozrevatel.com/rock-n-roll128.mp3
 #EXTINF:-1 tvg-logo="http://www.myradio.com.ua/assets/img/apple-touch-icon-120x120.png" group-title="soundtracks",MyRadio Music of films
 https://radio-stream-0.obozrevatel.com/kino128.mp3
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s157621q.png" group-title="trip hop",myRadio.ua Trip-Hop
-https://radio-stream-2.obozrevatel.com/trip-hop128.mp3
-#EXTINF:-1 tvg-logo="" group-title="",NRJ Ukraine
-http://cast.nrj.in.ua/nrj
-#EXTINF:-1 tvg-logo="http://perec.fm/favicon.ico" group-title="humor,mix,music",perec fm
-http://195.234.215.150:8080/radio-stilnoe
 #EXTINF:-1 tvg-logo="" group-title="pop music",Power Кременчуг
 http://radio.moa.org.ua/power
 #EXTINF:-1 tvg-logo="" group-title="",Pulzus Rádió
@@ -97,14 +73,8 @@ http://91.203.4.121:8000/stream160
 https://a1.radioheart.ru:9008/radio-metal
 #EXTINF:-1 tvg-logo="" group-title="alternative,metal",Radio Metal - First Metal Radio in Ukraine!
 https://a1.radioheart.ru:8008/radio-metal
-#EXTINF:-1 tvg-logo="" group-title="variety",Radio Meydan
-http://stream.meydan.fm:8800/meydanhigh.mp3
 #EXTINF:-1 tvg-logo="http://www.radio-n.com/favicon.ico" group-title="music,news",Radio Nezalezhnist'
 http://82.207.109.117:8000/
-#EXTINF:-1 tvg-logo="https://radio.obozrevatel.com/assets/img/apple-touch-icon-120x120.png" group-title="",Radio Oboz: reggae ska rocksteady
-https://radio-stream-1.obozrevatel.com/funkreggi128.mp3
-#EXTINF:-1 tvg-logo="https://radio.obozrevatel.com/ukr/all/" group-title="new age",Radio Obozrevatel New Age
-https://radio-stream-2.obozrevatel.com/new-age128.ogg
 #EXTINF:-1 tvg-logo="https://radio.obozrevatel.com/assets/img/apple-touch-icon-120x120.png" group-title="metal,thrash,thrash metal",Radio Obozrevatel Thrash Metal
 https://radio-stream-2.obozrevatel.com/Trash_Metal128.mp3
 #EXTINF:-1 tvg-logo="" group-title="ukrainian",Radio Rocks
@@ -121,12 +91,8 @@ http://online.radioroks.ua/RadioROKS_NewRock_HD
 http://online.radioroks.ua/RadioROKS_Ukr_HD
 #EXTINF:-1 tvg-logo="http://radioskovoroda.com/favicon.png?v=7ab70b6" group-title="skovoroda,мандрівне,онлайн-радіо,сковорода,україномовне",Radio Skovoroda
 http://stream.radioskovoroda.com:8000/radioskovoroda
-#EXTINF:-1 tvg-logo="https://radiom.ua/assets/templates/rmnew/img/logo.png" group-title="",RadioM
-http://stream.radiom.ua:8020/mp3_high
 #EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/yefHwktXGz.png" group-title="70s,80s,90s,nostalgia,pop",Retro FM (Ukraine) - 128kb/s
 http://cast.retro.ua/retro
-#EXTINF:-1 tvg-logo="" group-title="",RetroSonic FM
-http://retrosonic.pp.ua:8000/mix.ogg
 #EXTINF:-1 tvg-logo="" group-title="rock",Rock Ballads
 http://online.radioroks.ua/RadioROKS_Ballads
 #EXTINF:-1 tvg-logo="https://mjoy.ua/radio/rzk/favicons/apple-touch-icon-120x120.png" group-title="alternative,rock",RZK
@@ -135,12 +101,8 @@ http://stream.mjoy.ua:8000/rzk-aac
 http://air.volna.top/SFM
 #EXTINF:-1 tvg-logo="https://static.radio.de/images/broadcasts/30/9e/35472/1/c175.png" group-title="ambient,chillout,meditation,new age,relax",Seven Rays - 7rays
 http://7rays.stream.laut.fm/7rays
-#EXTINF:-1 tvg-logo="" group-title="music .folk .rock .pop .talk .news",SVOBODA.FM
-http://radio.svoboda.fm:5555/128.mp3
 #EXTINF:-1 tvg-logo="https://fex.net/ru/s/r8blb3c" group-title="best music for you",TRANCE IS STAR RADIO
 https://listen7.myradio24.com/tisradio
-#EXTINF:-1 tvg-logo="" group-title="ad",tvoye radio
-http://91.200.114.254:8048/
 #EXTINF:-1 tvg-logo="" group-title="news,talks",UA: Radio Ukraine International – UR4
 http://radio.nrcu.gov.ua:8000/ur4-mp3
 #EXTINF:-1 tvg-logo="https://kazky.suspilne.media/img/favicon-32x32.png" group-title="kids",UA: Казки
@@ -167,20 +129,12 @@ http://radio.nrcu.gov.ua:8000/ur1-kh-mp3
 https://radio.nrcu.gov.ua:8443/kazka-mp3
 #EXTINF:-1 tvg-logo="" group-title="",Ukraine 112 TV
 http://app.live.112.events/hls/112hd_mid/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="pop",Versiya FM 101.6 - Ужгород
-http://213.174.8.35:8002/listen.pls
-#EXTINF:-1 tvg-logo="" group-title="pop",Versiya FM 101.6 - Ужгород
-http://213.174.8.35:8002/
 #EXTINF:-1 tvg-logo="http://zakarpattyafm.com.ua/wp-content/themes/zakfm/ico.png" group-title="pop",Zakarpattya FM 101.9
 http://195.234.148.51:8000/stream
-#EXTINF:-1 tvg-logo="https://radioclub.ua/thumb/og_image_600x315_station/properies/2016/91/7f/580f14136cdf5_auto.png" group-title="music",Авто Радіо 107.4
-https://cast.radiogroup.com.ua/avtoradio
 #EXTINF:-1 tvg-logo="https://radioclub.ua/thumb/og_image_600x315_station/properies/2016/91/7f/580f14136cdf5_auto.png" group-title="",Авторадио Украина
 http://cast.avtoradio.ua/avtoradio
 #EXTINF:-1 tvg-logo="https://www.armyfm.com.ua/templates/site/img/logo.png" group-title="music",Армія FM 94.6
 http://212.26.132.129:8000/ArmyFM
-#EXTINF:-1 tvg-logo="https://radioslovo.net/img/microphone.png" group-title="christian",Відкрите Слово
-https://rs.radioslovo.net:5000/radio?1619349727870
 #EXTINF:-1 tvg-logo="" group-title="",Всесвітня служба радіомовлення України. (128 кбіт/с)
 http://radio.ukr.radio:8000/ur4-mp3-m
 #EXTINF:-1 tvg-logo="" group-title="",Всесвітня служба радіомовлення України. (16 кбіт/с)
@@ -191,12 +145,8 @@ http://radio.ukr.radio:8000/ur4-mp3
 http://radio.ukr.radio:8000/rui-aacplus-l
 #EXTINF:-1 tvg-logo="https://hromadskeradio.org/sites/all/themes/karelia/favicon.png" group-title="news",Громадське радіо / Hromadske radio
 http://91.218.212.67:8000/stream
-#EXTINF:-1 tvg-logo="https://radioclub.ua/thumb/og_image_600x315_station/properies/2017/e4/bb/59b8fbb05632f_dzhem2.png" group-title="music",Джем FM 95.6
-https://cast.radiogroup.com.ua/jamfm
 #EXTINF:-1 tvg-logo="http://zakarpattyafm.com.ua/wp-content/themes/zakfm/ico.png" group-title="adult contemporary",Закарпаття FM
 http://195.234.148.51:8000/listen.pls
-#EXTINF:-1 tvg-logo="https://i2.wp.com/z-polus.info/wp-content/uploads/2020/12/cropped-zah_polus_white.png?fit=180%2c180&#038;ssl=1" group-title="ivano-frankivsk,ukrainian,україномовне,івано-франківськ",Західний полюс
-http://online.1043.com.ua:8000/1043fm
 #EXTINF:-1 tvg-logo="" group-title="",Золочів ІМ
 http://complex.in.ua/gorohiv
 #EXTINF:-1 tvg-logo="https://www.kanalblagodati.org/images/01main/2017/21-SIDE-A.jpg" group-title="",Канал Благодаті
@@ -229,14 +179,10 @@ https://radio-stream-0.obozrevatel.com/pesni-vysockogo128.ogg
 http://91.218.212.84:8000/radionv.mp3
 #EXTINF:-1 tvg-logo="https://radiopyatnica.com.ua/images/favicon.ico" group-title="",Радио Пятница
 http://cast.radiopyatnica.com.ua/radiopyatnica
-#EXTINF:-1 tvg-logo="https://sun9-38.userapi.com/c857136/v857136595/120958/pzdhn_09P8k.jpg" group-title="news,pop",Радио Столица (Донецк)
-http://eu2.radioboss.fm:8080/stream.m3u
 #EXTINF:-1 tvg-logo="http://europaplus.kiev.ua/europa-box/2019/11/europa-upd-logo-1-400x400.png" group-title="music",Радіо Europa Plus 107.0
 http://217.20.173.105:8100/live
 #EXTINF:-1 tvg-logo="" group-title="music",Радіо Nostalgie 99.0
 http://icecastlv.luxnet.ua/nostalgi
-#EXTINF:-1 tvg-logo="" group-title="music",Радіо NRJ 92.8
-https://cast.radiogroup.com.ua/nrj
 #EXTINF:-1 tvg-logo="https://www.radiorelax.ua/static/img/Relax_logo_1200x630.png" group-title="music",Радіо Relax 101.5
 http://online.radiorelax.ua/RadioRelax
 #EXTINF:-1 tvg-logo="https://www.radioroks.ua/static/img/RadioROKS_logo_1200x630.png" group-title="music",Радіо ROKS 103.6
@@ -247,8 +193,6 @@ http://radio.ukr.radio:8000/zwave-mp3-m
 http://radio.ukr.radio:8000/zwave-mp3
 #EXTINF:-1 tvg-logo="" group-title="",Радіо Житомирська хвиля (24 год/добу) (48 кбітс/с)
 http://radio.ukr.radio:8000/zwave-aacplus
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/3/75473.v5.png" group-title="",Радіо Ізюм
-http://93.183.216.155:8000/live
 #EXTINF:-1 tvg-logo="http://www.nrcu.gov.ua/images/stat-page/big/sp_1550735966_5c6e5a5e8e837.jpg" group-title="talk",Радіо Культура 97.6
 http://radio.ukr.radio:8000/ur3-mp3-m
 #EXTINF:-1 tvg-logo="" group-title="",Радіо Культура. (16 кбіт/с)
@@ -273,10 +217,6 @@ http://radio.ukr.radio:8000/ur2-mp3
 http://radio.ukr.radio:8000/ur2-aacplus-l
 #EXTINF:-1 tvg-logo="https://radiotrek.rv.ua/tpl/images/icons/apple-touch-icon.png" group-title="",Радіо Трек
 http://online2.radiotrek.rv.ua:8000/AAC+_64
-#EXTINF:-1 tvg-logo="https://radioclub.ua/thumb/og_image_600x315_station/properies/2018/66/e2/5b114ef722758_580f13c6a4214_retro.png" group-title="music",Ретро FM 92.4
-https://cast.radiogroup.com.ua/retro
-#EXTINF:-1 tvg-logo="https://static.rusradio.ua/rusradio/img/main_site/site_logo.png" group-title="music",Русское Радио Україна 98.5
-http://online.rusradio.ua/RusRadio
 #EXTINF:-1 tvg-logo="" group-title="",Тиса-FM. (128 кбіт/с)
 http://radio.ukr.radio:8000/tysafm-mp3-m
 #EXTINF:-1 tvg-logo="" group-title="",Тиса-FM. (192 кбіт/с)

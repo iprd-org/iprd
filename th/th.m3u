@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://www.103likefm.com/wp-content/uploads/2019/11/cropped-103LikeFav-192x192.png" group-title="local music,variety",103 Like FM
 https://radio10.plathong.net/7064/;stream.mp3
-#EXTINF:-1 tvg-logo="http://www.fmone1035.com/wp-content/uploads/2017/03/favicon_fm.png" group-title="easy listening,local music",103.5 FM One
-http://fmone.plathong.net:7010/;stream
 #EXTINF:-1 tvg-logo="" group-title="",90 rakthai
 http://radio11.plathong.net:8896/;stream.mp3
 #EXTINF:-1 tvg-logo="" group-title="live sports,sports news,sports talk",99 Active Radio (HLS)
@@ -17,30 +15,16 @@ https://rsas.bkk.fm/radio
 http://112.121.151.133:8109/live
 #EXTINF:-1 tvg-logo="" group-title="",Channel 7 TV
 http://bcovlive-a.akamaihd.net/2d37038b355f4ea6a6b0d46993dc285c/ap-southeast-1/5282994675001/profile_3/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="easy listening",Chill FM Online
-http://real3.atimemedia.com/live/chill.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.coolism.net/theme/images/2020/logo_cool2020.png" group-title="",Cool fahrenheit
 https://coolism-web.cdn.byteark.com/;stream/1
 #EXTINF:-1 tvg-logo="http://www.coolism.net/theme/images/2020/logo_cool2020.png" group-title="",Cool fahrenheit
 https://coolism-web3rd.cdn.byteark.com/stream/1/
 #EXTINF:-1 tvg-logo="" group-title="campus radio,university,various",CU Radio
 https://media.curadio.chula.ac.th/live/liveradio128/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.dltv.ac.th/themes/default/assets/css/favicons/apple-icon-120x120.png" group-title="dltv,thai",Distance Learning TV-1 new
-http://dltv-live-edge.catcdn.cloud/dltv01.m3u8
-#EXTINF:-1 tvg-logo="http://www.dmc.tv//images/icons/favicon.ico" group-title="",DMC TV
-http://dmc072.net:443/
-#EXTINF:-1 tvg-logo="" group-title="local music,music variety,variety",EFM 104.5
-http://real3.atimemedia.com/live/efm.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="easy listening,talk",GreenWave 106.5
-http://real5.atimemedia.com/live/green.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://hitz955.becteroradio.com/assets/images/logo-top.png" group-title="",Hitz955
-https://wzorigin.becteroradio.com/Hitz/Hitz-Listen-Med/chunklist_w301961432.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Huahin Radio Thailand
 https://inter1.plathong.net/7008/;stream.mp3
 #EXTINF:-1 tvg-logo="http://www.isanfm.com/images/isanfm.png" group-title="pop",Isan FM 98
 http://radio11.plathong.net:8900/stream.mp3
-#EXTINF:-1 tvg-logo="http://www.js100.com/asset/site/images/favicon.png" group-title="traffic,volunteer",JS100
-http://live11.netdesignhost.com/pacificlive/pacificlive/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="dance,house,rnb,trance",KISS FM PATTAYA
 http://s1.thailandstreaming.net:8020/kiss.mp3
 #EXTINF:-1 tvg-logo="" group-title="news,news talk",MCOT News Network
@@ -57,14 +41,10 @@ http://mcotdigital-w9rpgl.cdn.byteark.com/radiocdn_edge/fm107.stream_aac/playlis
 http://radio4.thzhost.com:4114/listen.pls
 #EXTINF:-1 tvg-logo="" group-title="local music,music",MUN FM
 https://4018.radio2.thzhost.com/;stream.mp3
-#EXTINF:-1 tvg-logo="" group-title="",Music Library Thailand
-http://112.121.150.133:9114/
 #EXTINF:-1 tvg-logo="" group-title="hls video,local government,regional,tv",NBT Central (Low)
 https://thainews.prd.go.th/lv/live/ch9_L.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Ployradio Thailand
 https://radio14.plathong.net/7134/;stream.mp3
-#EXTINF:-1 tvg-logo="" group-title="foreign program,news",PRD Radio Thailand (Foreign Program)
-http://prdonline.prd.go.th:8200/;stream.mp3
 #EXTINF:-1 tvg-logo="https://fm101talk.com/wp-content/uploads/2020/04/the-reporters.jpg" group-title="news,news talk",Radio Report 1
 http://media.login.in.th:8135/;stream
 #EXTINF:-1 tvg-logo="" group-title="",requestradio
@@ -85,34 +65,16 @@ http://112.121.151.133:8152/live
 http://c1.hostpleng.cloud:8046/live
 #EXTINF:-1 tvg-logo="http://www.thaipbs.or.th/images/logo/home_logo.jpg" group-title="",Thai PBS TV
 http://thaipbs-live.cdn.byteark.com/live-en/playlist_720p/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.thairath.co.th/assets/2017/img/logo-thairath.png" group-title="",Thairath TV
-http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.thairath.co.th/assets/2017/img/logo-tv.png" group-title="hls video,tv",Thairath TV (Low 240p)
-https://live.thairath.co.th/trtv2/playlist_240p/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.topnews.co.th/wp-content/uploads/2021/01/cropped-topnews-site-logo-3.webp" group-title="hls video,news,politics & current affairs,tv",Top News
 https://live.topnews.co.th/hls/topnews.m3u8
-#EXTINF:-1 tvg-logo="" group-title="hits",Virgin Radio Hitz Bangkok
-http://prdonline.prd.go.th:8206/listen.pls
 #EXTINF:-1 tvg-logo="" group-title="local talk,news talk",คลื่นความคิด (HLS)
 https://mcotdigital-9ksau4.cdn.byteark.com/radiocdn_edge/fm965.stream_aac/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.smartbomb.co.th/assets/images/nationradio_logo.png" group-title="news,news talk",มิติข่าว 90.5
 http://live3.smartbomb.co.th:8624/;stream.mp3
 #EXTINF:-1 tvg-logo="http://ltmfm95.mcot.net///{{image}}" group-title="folk music,local music",ลูกทุ่งมหานคร (HLS)
 http://mcotdigital-1wevsb.cdn.byteark.com/radiocdn_edge/fm95.stream_aac/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="country",ลูกทุ่งเน็ตเวิร์ก
-https://media.login.in.th:8443/smilehost/8200
-#EXTINF:-1 tvg-logo="" group-title="news",สวท.พะเยา
-http://prdonline.prd.go.th:8124/;stream.mp3
-#EXTINF:-1 tvg-logo="" group-title="",สวท.สุราษฎร์ธานี A.M.1215 KHz
-http://prdonline.prd.go.th:8202/
-#EXTINF:-1 tvg-logo="" group-title="",สวท.สุราษฎร์ธานี F.M.89.75 MHz
-http://prdonline.prd.go.th:9000/
-#EXTINF:-1 tvg-logo="" group-title="",สวท.สุราษฎร์ธานี F.M.95.50 MHz
-http://prdonline.prd.go.th:9070/
 #EXTINF:-1 tvg-logo="http://fm91bkk.com/" group-title="traffic,volunteer",สวพ.91
 http://122.155.16.48:8955/;stream.mp3
-#EXTINF:-1 tvg-logo="" group-title="",เครือข่ายวิทยุฯ เพื่อเด็ก เยาวชน และครอบครัว
-http://prdonline.prd.go.th:8210/;stream.mp3
 #EXTINF:-1 tvg-logo="" group-title="",เพลงลูกทุ่ง Looktung Eingdoi Station
 http://radio14.plathong.net:7126/;stream.mp3
 #EXTINF:-1 tvg-logo="https://www.lannaradio.com/favicon.ico" group-title="country,hits 90's,indie,looktung,thailanna,top 40",ไทยลานนาเรดิโอ FM 106.5 จังหวัดตาก

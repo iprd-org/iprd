@@ -9,16 +9,8 @@ http://centauri.shoutca.st:9064/listen.pls
 http://centauri.shoutca.st:9060/listen.pls
 #EXTINF:-1 tvg-logo="https://www.ard-media.de/fileadmin/user_upload/radio/sender_und_kombis/bilder/sender_logo/Neue_Logos/Einzelsender/100-5_hitradio.png" group-title="hits,news,pop,rock",100.5 Das Hitradio
 http://dashitradio-de-hz-fal-stream07-cluster01.radiohost.de/dashitradio_48?listenerrmid=31363430313039353030-34352e37372e36322e313631-3338303430-53747265616d436865636b426f742f302e312e30
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/5/89505.v7.png" group-title="top 40,pop,dance",All 4 Music A4M1
-http://ruby.torontocast.com:1040/stream
-#EXTINF:-1 tvg-logo="https://www.all4music.zone/apple-icon-120x120.png" group-title="live,remixes",All 4 Music A4M4
-http://ruby.torontocast.com:1310/stream
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/rhw8rfrYgmA/hqdefault.jpg" group-title="traditional,folk",All 4 Music A4M2
-https://ruby.torontocast.com:1095/stream
 #EXTINF:-1 tvg-logo="http://antipode.be/favicon.ico" group-title="rock,pop",Radio Antipode 94.1/107.3
 https://streaming.antipode.be/antipode.mp3
-#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000058230587-mtsgmn-t240x240.jpg" group-title="pop,soul,top 40",Antwerpen 105.4
-http://streams.lazernet.be:2710/
 #EXTINF:-1 tvg-logo="http://www.arabel.fm/wp-content/uploads/logo.jpg" group-title="pop,news,talk,arabic,berbér",AraBel 106.8
 http://arabelfm.ice.infomaniak.ch/arabelprodcastfm.mp3
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/6/88346.v7.png" group-title="folk,community,variety",ARL Radio
@@ -63,12 +55,6 @@ http://live.radiostudio.be/enjoyfm
 http://www.clubfmserver.be:8000/family.mp3
 #EXTINF:-1 tvg-logo="https://groover-images.s3.eu-west-3.amazonaws.com/prod/influencer/0.flash-fm/profile_picture/200_200" group-title="80s,chanson,pop",Flash 88.4
 http://flashfm.ice.infomaniak.ch/flashfm-128
-#EXTINF:-1 tvg-logo="https://www.fmgoud.be/uploads/3/9/6/3/3963899/download-200_orig.png" group-title="80s,90s,pop",FM Goud
-http://stream01.level27.be:8008/
-#EXTINF:-1 tvg-logo="https://www.fmgoud.be/favicon.ico" group-title="80s,90s,pop",FM Goud Kempen 100.4
-https://server3.radio-streams.net:18019/stream
-#EXTINF:-1 tvg-logo="https://www.fmgoud.be/favicon.ico" group-title="80s,90s,pop",FM Goud Plus
-http://stream01.level27.be:8010/
 #EXTINF:-1 tvg-logo="https://focusfantastic.com/wp-content/uploads/2020/10/focus-fantastic-80s-music.png" group-title="oldies,hits",Focus Fantastic
 http://sonic.magicdragon.nl:8002/stream
 #EXTINF:-1 tvg-logo="http://frequenceplus.be/images/favicon_000.png" group-title="hits,news",Fréquence Plus Andenne 106.6
@@ -79,14 +65,10 @@ http://funradiobe.ice.infomaniak.ch/funradiobe-high
 http://s43.myradiostream.com:18192/
 #EXTINF:-1 tvg-logo="http://www.goldfm.be/favicon.ico" group-title="pop,news,talk",Gold 106.1
 http://stream.goldfm.be:1061/station.mp3
-#EXTINF:-1 tvg-logo="https://www.goldiesradio.be///templates/urbanlife/favicon.ico" group-title="oldies,hits",Goldies Radio
-http://178.32.62.167:8565/
 #EXTINF:-1 tvg-logo="https://www.halloweenradio.net/images/channel_atmosphere.png" group-title="ambient,halloween",Halloween Radio Atmosphere
 http://radio1.streamserver.link/radio/8040/hra-aac
 #EXTINF:-1 tvg-logo="https://www.halloweenradio.net/images/channel_main.png" group-title="halloween,ambient",Halloween Radio Main
 http://radio1.streamserver.link/radio/8000/hrm-aac
-#EXTINF:-1 tvg-logo="http://www.harmonyradio.be//w/1/files/images/favicon.ico" group-title="chansons françaises,pop",Harmony Radio
-http://server1.harmonyradio.be:8052/
 #EXTINF:-1 tvg-logo="http://www.impact-fm.be/images/logoImpactfm.jpg" group-title="local,top 40",Impact 106.9
 http://impactfm.ice.infomaniak.ch/impactfm-64.aac
 #EXTINF:-1 tvg-logo="https://instrumentalsforever.eu/favicon.ico" group-title="big band,easy listening,instrumental",Instrumentals Forever
@@ -177,12 +159,8 @@ http://streamingp.shoutcast.com/nostaplus-mp3
 https://25583.live.streamtheworld.com:443/NRJBELGIE.mp3?dist=radiobrowser
 #EXTINF:-1 tvg-logo="https://www.nrj.be/build/images/favicon.ico" group-title="contemporary,hits,pop,top 40",NRJ Belgique
 https://streamingp.shoutcast.com/NRJ
-#EXTINF:-1 tvg-logo="https://www.oilsjtmjoezik.be/_nuxt/icons/icon_64x64.06d1c4.png" group-title="dance,oldies",Oilsjt Mjoezik
-https://goeiedag.radiostudio.be/oilsjt
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/7d/3d/7d3dc5e3784b243d77a9cf0b374c706f.jpg" group-title="euro,hits,top 40",Pep's Radio
 https://behofm.ice.infomaniak.ch/behofm.mp3
-#EXTINF:-1 tvg-logo="https://www.proxiradio.net/images/favicon.ico" group-title="80s,90s",Proxi Radio
-https://flux.proxiradio.be/proxi.mp3
 #EXTINF:-1 tvg-logo="http://is1.mzstatic.com/image/thumb/Purple128/v4/d5/2b/2f/d52b2ffe-cc10-1dec-1cf6-f6811949b5ed/source/512x512bb.jpg" group-title="pop,oldies,dutch",Radio 1
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO1_128.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/a4/d3/4486/c300.png" group-title="pop,dutch",Radio 2 Antwerpen
@@ -193,10 +171,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_2_LIMBUR
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_2_OOSTVL_128.mp3
 #EXTINF:-1 tvg-logo="http://be.radioonline.fm/images/Radio-2-Vlaams-Brabant.png" group-title="pop,dutch",Radio 2 Vlaams-Brabant
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_2_VLAAMSBR_128.mp3
-#EXTINF:-1 tvg-logo="http://www.radio700.de/images/general/logo.png" group-title="80s,oldies,schlager",Radio 700
-http://streamserver.funkhaus.info:8000/radio700-aacplus
-#EXTINF:-1 tvg-logo="http://www.radio700.de/images/general/logo.png" group-title="80s,oldies,schlager",Radio 700
-http://streamserver.funkhaus.info/;stream.nsv
 #EXTINF:-1 tvg-logo="http://www.radioairlibre.be/bbpub.JPG" group-title="alternative,news",Radio Air Libre 87.7
 http://streaming.domainepublic.net:8000/radioairlibre.ogg
 #EXTINF:-1 tvg-logo="https://thumbnailer.mixcloud.com/unsafe/164x164/profile/1/3/1/7/c781-7872-420c-9c0e-fddf59d61b33" group-title="70s,80s,90s,oldies,hits",Radio AKTIEF! 105.2
@@ -217,10 +191,6 @@ http://streams.movemedia.eu:8530/
 http://rcf.streamakaci.com/rcfbe.mp3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/ce/Radiocontact.gif" group-title="70s,chanson",Radio Contact 102.2/102.0/104.7
 http://audiostream.rtl.be/contactfr
-#EXTINF:-1 tvg-logo="http://academie.equinoxenamur.be/wp-content/uploads/2016/09/Logo-Equinoxe-2015-300x92.png" group-title="electro,dance",Radio Equinoxe 106.4
-http://live.equinoxenamur.be:8000/Equinoxe.mp3
-#EXTINF:-1 tvg-logo="https://i3.radionomy.com/radios/400/1838cbdf-8bd6-41bf-8bc6-5d32dcd738de.jpg" group-title="90s,eurodance",Radio Eurodance Classic
-http://hazel.torontocast.com:1310/stream
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/60AXWUvIjY7qkiYG8JaCVkXTXFmLnKbenDT6L_5V28bdf3_hmi2vOGCGhj9PNrktNrl9lXCFJeN842EiE6sdBxyOqLFdXr55eY0WZYWHnPv7__IIDyswJyd94Ys08A28Bg" group-title="pop,hits",Radio Expres 105.4
 http://www.clubfmserver.be:8000/expres.mp3
 #EXTINF:-1 tvg-logo="http://www.radiofg.be/favicon.ico" group-title="dance,techno",Radio FG 98.2
@@ -235,8 +205,6 @@ https://str01.fluidstream.net/ric.mp3
 http://radiojudaica.ice.infomaniak.ch/radiojudaica-128.mp3?_=1
 #EXTINF:-1 tvg-logo="https://www.rlvw.be/favicon.ico" group-title="pop,hits,rock",Radio Land Van Waas 106.4
 http://stream.rlvw.be:8480/stream
-#EXTINF:-1 tvg-logo="https://file1.hpage.com/006361/64/bilder/rme-logo-15075.gif" group-title="pop,rock,german",Radio Magic Europ
-http://stream17.shoutcastsolutions.com:8059/
 #EXTINF:-1 tvg-logo="http://www.radiomaria.be/wp-content/uploads/2018/07/stemma_ogo_400x400.jpg" group-title="catholic,christian,religious,talk",Radio Maria 90.0
 http://stream.radiomaria.be:8000/RadioMaria-96
 #EXTINF:-1 tvg-logo="http://www.radiomaria.be/wp-content/uploads/2018/07/stemma_ogo_400x400.jpg" group-title="catholic,christian,religious,talk",Radio Maria 90.0
@@ -251,14 +219,10 @@ http://radiomusicsambre.ice.infomaniak.ch/radiomusicsambre-128.mp3
 http://roa1062fm.ice.infomaniak.ch/roa1062fm-128.mp3
 #EXTINF:-1 tvg-logo="http://www.radiopallieter.eu/favicon.ico" group-title="oldies,hits",Radio Pallieter 106.4
 http://s39.myradiostream.com:14494/listen.mp3
-#EXTINF:-1 tvg-logo="http://www.radiopaloma.com/wp-content/uploads/2016/06/radiotower.png" group-title="pop,folk",Radio Paloma 106.0
-http://84.80.98.187:8000/paloma106
 #EXTINF:-1 tvg-logo="https://www.radiopanik.org/static/img/logo-panik-500-invert.png" group-title="alternative,rock",Radio Panik 105.4
 https://streaming.domainepublic.net/radiopanik.ogg
 #EXTINF:-1 tvg-logo="http://www.radioplusgent.be/images/logo.png" group-title="70s,80s,90s,disco,funk",Radio Plus Gent 107.7
 http://live.radiostudio.be/plus
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s238940q.png" group-title="sports,italian,culture",Radio Prima 107.4
-http://37.187.114.62:8002/live
 #EXTINF:-1 tvg-logo="http://www.radioquartz.be/wp-content/uploads/2014/02/Quartzlogo.png" group-title="rock,pop",Radio Quartz 93.9
 http://manager2.streaming-ingenierie.fr:8026/;stream.mp3
 #EXTINF:-1 tvg-logo="https://craxx.be/wp-content/uploads/2020/05/salamandre.png" group-title="rock,oldies,chanson",Radio Salamandre ASBL 107.9
@@ -269,8 +233,6 @@ http://stream2.radiostad.org:8344/
 http://studiooneasbl.ice.infomaniak.ch/studiooneasbl-128.mp3
 #EXTINF:-1 tvg-logo="https://www.radiosud.be/assets/img/logo-radio-sud-beau-canton.png" group-title="dance,electronic",Sud Radio 105.0
 http://streaming.domainepublic.net:8000/radiosud.ogg
-#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/0e/f3/36722/1/c300.png" group-title="pop,dutch",Radio Superstar 107.7
-http://178.32.62.163:8411/stream
 #EXTINF:-1 tvg-logo="http://www.radiotamara.be/favicon.ico" group-title="70s,80s,90s,hits,oldies",Radio Tamara
 http://audiostreamen.nl:8006/
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s10358/images/logoq.jpg?t=152396" group-title="pop,hits",Radio Tequila 105.1
@@ -283,8 +245,6 @@ http://rcf.streamakaci.com/rcfliege.mp3
 http://rcf.streamakaci.com/rcfsudbe.mp3
 #EXTINF:-1 tvg-logo="https://www.radiosingjaal.be/favicon.ico" group-title="pop,rock,classical",Retro Radio Singjaal
 http://ice.cr1.streamzilla.xlcdn.com:8000/sz=radiosingjaal=radiostream
-#EXTINF:-1 tvg-logo="https://www.rgrfm.be/rgr-dance" group-title="electro,pop",RGR fm 107.7
-https://igor.torontocast.com/rgrdance
 #EXTINF:-1 tvg-logo="http://www.roxx.be/img/logo.png" group-title="top 40,pop",ROXX
 http://www.clubfmserver.be:8000/roxx.mp3
 #EXTINF:-1 tvg-logo="https://www.static.rtbf.be/news/common/images/radio/logo/1400x1400/classic21-1400x1400.png" group-title="pop,rock",RTBF Classic 21
@@ -347,16 +307,12 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/STUDIO_BRUSSEL
 http://icecast-servers.vrtcdn.be/stubru_tijdloze-high.mp3
 #EXTINF:-1 tvg-logo="https://hainaut.sudradio.net/wp-content/themes/SudRadio-2020/assets/img/SudRadioBEL.png" group-title="pop,rock",Sud Radio
 http://sudradio.ice.infomaniak.ch/sudradio-96.aac
-#EXTINF:-1 tvg-logo="https://www.theword.radio/xapple-touch-icon.png.pagespeed.ic.qzf9zu_jwh.png" group-title="dj,sets,underground",The Word Magazine Radio
-http://thewordradio.out.airtime.pro:8000/thewordradio_a
 #EXTINF:-1 tvg-logo="https://www.topradio.be/favicons/favicon-96x96.png" group-title="dance,electronic",TOPradio 99.4
 https://25643.live.streamtheworld.com:443/TOPRETRO.mp3
 #EXTINF:-1 tvg-logo="https://www.topradio.be/favicons/favicon-96x96.png" group-title="dance,electronic",TOPradio 99.4
 https://22603.live.streamtheworld.com:443/TOP_RADIO.mp3
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoZVpC0feNkpO9nFoK9Bl5na_HWf7WJ_7-6AVvOT-aKpkxNRluBCc7z5ldWPDHwQSIJr0&usqp=CAU" group-title="dance,edm",TOPradio one world
 https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_DAB.mp3
-#EXTINF:-1 tvg-logo="https://www.canardfolk.be/favicon.ico" group-title="folk,traditional",TradCan
-https://eu2-centova.serverse.com/proxy/wiupfvnu?mp=/TradCan
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s48146g.png" group-title="dance,top 40",Trendy fm
 http://stream.trendyfm.be/
 #EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/d3/5a/9479/1/c300.png" group-title="hip hop,R'n'B,rap",ULTRASON
@@ -367,10 +323,6 @@ http://urgentstream.radiostudio.be:8000/live
 http://stream.vbro.be:9400/evergreen
 #EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/db/a1/4692/c300.png" group-title="pop,dutch",VBRO Radio
 http://stream.vbro.be:9100/vbro
-#EXTINF:-1 tvg-logo="http://www.versuzradio.com/wp-content/uploads/2016/08/versuz-radio-logo.jpg" group-title="dance,house",Versuz Radio
-http://versuzradio.live-streams.nl/live
-#EXTINF:-1 tvg-logo="https://vlaamsewonderjaren.be/wp-content/uploads/2018/11/cropped-vlaamse-wonderjaren-logo-transparant-192x192.png" group-title="folk,oldies",Vlaamse Wonderjaren
-http://fred.torontocast.com:1050/stream
 #EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/VRT_NWS" group-title="news,talk",VRT NWS
 http://progressive-audio.lwc.vrtcdn.be/content/fixed/11_11niws-snip_lo.mp3
 #EXTINF:-1 tvg-logo="http://vrt.be/favicon.ico" group-title="talk,news",VRT Radio 1 94.2
@@ -401,8 +353,6 @@ http://icecast-servers.vrtcdn.be/stubru_bruut-high.mp3
 http://stream05.warm.fm:9002/warm
 #EXTINF:-1 tvg-logo="https://i.ibb.co/khs8V7M/willyfavicon.png" group-title="rock,pop,electronic",Willy
 https://icecast-qmusicbe-cdp.triple-it.nl/willy.aac
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/ba7116_bd0a146638b84dc289c26934a5e610d9.jpg/v1/fill/w_32%2Ch_32%2Clg_1%2Cusm_0.66_1.00_0.01/ba7116_bd0a146638b84dc289c26934a5e610d9.jpg" group-title="00s,80s,90s,alternative,depeche mode,dm,electronic,new wave,pop,rock",www.depechemode.be Radio
-http://eu2.radioboss.fm:8124/stream
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOZr7Z6HZ5A27xtbJ51iPQFMex_bD2iJHpzlCNBdNKY_QxPuMIzLn0XSCb5MfunT7meeQ&usqp=CAU" group-title="lounge,chillout",Zen FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/TOPZEN.mp3
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/66/fe/66fe6fb22c9442318963e7c3ef73f652.jpg" group-title="60s,70s,oldies",Zoe 104.9/107.9

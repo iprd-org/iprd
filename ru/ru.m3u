@@ -1,14 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/2e/a0/29188/2/c300.png" group-title="deep,альтернатив,андеграунд,инди,легкая,ремикс,спокойная,электроника",1.FM Gorilla.fm
-https://str1.pcradio.ru/one_gorilla-med
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/fc4uel8ESlEENZsOL0r0TYC9gU1-SgEOfTfNoP_lTpWaZjPZeTdNv-ZrkyQ_3LMOkA" group-title="dance,hits,pop",Авторадио
 http://play.global.audio/avtoradio.opus
-#EXTINF:-1 tvg-logo="" group-title="dubstep,edm,trap", Trap Radio
-http://radio-nice.ru:4290/radio
 #EXTINF:-1 tvg-logo="https://cdn0.relax-fm.ru/design/images/img_for_design/header/main-logo.png" group-title="",-=- Relax-FM -=-
 http://ic4.101.ru:8000/stream/air/aac/64/200
-#EXTINF:-1 tvg-logo="https://radioslovo.net/img/microphone.png" group-title="christian",«Открытое Слово»
-https://rs.radioslovo.net:4395/radio?1619347398976
 #EXTINF:-1 tvg-logo="" group-title="",*RelaxFM*
 http://live.kuznetsovsk.net:8000/relaxfm
 #EXTINF:-1 tvg-logo="https://dpi4fupzvxbqq.cloudfront.net/rfm/uploads/rlogo/300/300_1601366911.png" group-title="classical",101 ru enigmatic 
@@ -77,18 +71,12 @@ http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
 http://amoris.sknt.ru/goa.mp3
 #EXTINF:-1 tvg-logo="http://anima.sknt.ru/player_play.png" group-title="electronic,music,russia,saint-petersburg,trance",Anima Amoris [Trance]
 http://anima.sknt.ru/trance.mp3
-#EXTINF:-1 tvg-logo="" group-title="ambient,deep,electronic",Anima Amoris Ambient
-http://amoris.sknt.ru:8014/listen.pls
 #EXTINF:-1 tvg-logo="http://anima.sknt.ru/player_play.png" group-title="bible,religion",Anima Amoris Bible
 https://amoris.sknt.ru/bible.mp3
 #EXTINF:-1 tvg-logo="http://anima.sknt.ru/player_play.png" group-title="",Anima Amoris Deep Tech House
 https://amoris.sknt.ru/deeptech.mp3
-#EXTINF:-1 tvg-logo="http://anima.sknt.ru/player_play.png" group-title="bass,drum and bass,electronic",Anima Amoris Drum and Bass
-http://amoris.sknt.ru:8008/listen.pls
 #EXTINF:-1 tvg-logo="http://anima.sknt.ru/player_play.png" group-title="",Anima Amoris Dub Step
 https://amoris.sknt.ru/dubstep.mp3
-#EXTINF:-1 tvg-logo="" group-title="ambient,chillout,deep,deep house,electronic,techno",Anima Amoris Dub Techno
-http://amoris.sknt.ru:8000/listen.pls
 #EXTINF:-1 tvg-logo="" group-title="dub,mix,techno",Anima Amoris Dub Techno Mix
 http://amoris.sknt.ru/dubtechnomix.mp3
 #EXTINF:-1 tvg-logo="http://anima.sknt.ru/player_play.png" group-title="",Anima Amoris Electro
@@ -109,8 +97,6 @@ https://listen2.myradio24.com/2236
 https://listen5.myradio24.com/ataman
 #EXTINF:-1 tvg-logo="" group-title="atmospheric,breakbeat,breaks,multilingual,progressive",Atm.Fm
 http://station-sound.ru:8000/pt-2
-#EXTINF:-1 tvg-logo="" group-title="relax",Atmosfera
-http://185.53.169.117:8000/320
 #EXTINF:-1 tvg-logo="https://radioserpukhov.ru/favicon.ico" group-title="local news,pop,pop music,russian,russian pop,traffic",Avtoradio 105.5 FM Serpukhov
 http://77.73.90.46:1055/avtoradio
 #EXTINF:-1 tvg-logo="" group-title="big beat",BadBeatRadio
@@ -125,18 +111,12 @@ https://listen2.myradio24.com/8286
 https://pub0302.101.ru:8443/stream/trust/mp3/128/220
 #EXTINF:-1 tvg-logo="" group-title="bass,dance,drum & bass,electronic,jungle",Big Tunes Radio - Bass
 https://bigtunesradio.com:8000/bass.mp3
-#EXTINF:-1 tvg-logo="" group-title="dance,electronic,house",Big Tunes Radio - House
-https://bigtunesradio.com:8000/house.mp3
 #EXTINF:-1 tvg-logo="" group-title="disco,hiphop,house,oldschool",Big Tunes Radio - Oldschool
 https://bigtunesradio.com:8000/oldschool.mp3
-#EXTINF:-1 tvg-logo="" group-title="dance,electronic,trance",Big Tunes Radio - Trance
-https://bigtunesradio.com:8000/trance.mp3
 #EXTINF:-1 tvg-logo="" group-title="alternative,alternative rock,big band,nice,noise,rock,russia,russian rock,siberia,streaming",BigNoise
 http://radio.bignoise.club:8000/nonstop
 #EXTINF:-1 tvg-logo="http://borneo.ru/loal.jpg" group-title="",Borneo
 http://live.borneo.ru:8888/128
-#EXTINF:-1 tvg-logo="" group-title="electronic",brightbass
-http://brightbass.com:6235/
 #EXTINF:-1 tvg-logo="http://btuner.ru/bitrix/templates/btuner/images/btuner-player-logo.png" group-title="btuner,club house,deep house,disco funk,disco soul,italo disco,nu disco",bTuner
 http://radio.btuner.ru:8000/live.ogg
 #EXTINF:-1 tvg-logo="https://www.bfm.ru/apple-touch-icon.png" group-title="economics,information,news,talk",Business FM
@@ -151,8 +131,6 @@ http://79.111.119.111:8002/surfrock
 http://79.120.77.11:8000/dancepop
 #EXTINF:-1 tvg-logo="" group-title="",caprice indian folk
 http://79.111.14.76:8002/indianfolk
-#EXTINF:-1 tvg-logo="" group-title="",Caprise Eurodance
-http://79.120.39.202:9003/
 #EXTINF:-1 tvg-logo="" group-title="",CHANSON
 http://chanson.hostingradio.ru:8041/chanson128.mp3?md5=2eMCvcYXPx0fjyorGnLWuw&e=1545675080
 #EXTINF:-1 tvg-logo="" group-title="",chanson
@@ -161,14 +139,10 @@ http://chanson.hostingradio.ru:8041/chanson256.mp3?md5=oVvCwE7WBb8Y7wl1S_2xCQ&e=
 http://online.kometa.fm:8000/live
 #EXTINF:-1 tvg-logo="" group-title="chill,chillhop,chillout",ChillHop радио
 http://media-the.musicradio.com/ChillMP3
-#EXTINF:-1 tvg-logo="" group-title="church",Church
-http://c16.radioboss.fm:8238/stream
 #EXTINF:-1 tvg-logo="" group-title="classical",Clarinet, oboe, bassoon
 http://213.141.131.10:8002/clarinet
 #EXTINF:-1 tvg-logo="http://radcap.ru/stylegraf/classavant.jpg" group-title="avant-garde,classical",Classical avant-garde - Radio Caprice
 http://213.141.131.10:8004/classavant
-#EXTINF:-1 tvg-logo="" group-title="",Club Re:noize
-http://stream.clubrenoize.com:9001/
 #EXTINF:-1 tvg-logo="https://comedy-radio.ru//favicon.ico" group-title="comedy,humor,pop,sketches",Comedy Radio new link
 http://ic6.101.ru:8000/stream/air/aac/64/202
 #EXTINF:-1 tvg-logo="https://f4.bcbits.com/img/a4066750194_2.jpg" group-title="deathcore,djent,mathcore,metal,metalcore,post-hardcore",CORE Radio!
@@ -183,14 +157,10 @@ https://air.broadcastinggroup.ro/Dancefloor_m
 https://stream.deep1.ru/deep1mp3
 #EXTINF:-1 tvg-logo="https://deep1.ru/wp-content/uploads/2020/05/deepone_2000_2000.jpg" group-title="",Deep One
 https://stream.deep1.ru/deep1aac
-#EXTINF:-1 tvg-logo="http://dendy-collection.ru/favicon.ico" group-title="chiptune,nintendo,retro games,video game,video game music,videogame music",Dendy Collection
-https://s01.radio-tochka.com:4485/radio
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/90/f7/1a/90f71a87-096d-b3c1-c284-873b2eaf1a25/mza_4771468106753631555.jpg/1200x630wp.png" group-title="podcast,talking",DevZen Podcast
 https://live.devzen.ru/stream?type=.mp3
 #EXTINF:-1 tvg-logo="https://dfm.ru//uploads/favicon.png" group-title="dfm",DFM
 https://dfm.hostingradio.ru/dfm96.aacp?0.28225617725168517
-#EXTINF:-1 tvg-logo="https://dfmnn.ru/assets/template/images/favicons/apple-icon-120x120.png" group-title="",DFM Nizhny Novgorod 94.7 FM
-http://176.67.240.10:8000/DFM-NN(128)?param=n
 #EXTINF:-1 tvg-logo="" group-title="dance",DFM RUSSIAN DANCE
 https://dfm-dfmrusdance.hostingradio.ru/dfmrusdance96.aacp?0.9987259013359274
 #EXTINF:-1 tvg-logo="https://dfm.ru//uploads/favicon.png" group-title="trap",DFM Trap
@@ -199,8 +169,6 @@ https://dfm-dfmtrap.hostingradio.ru/dfmtrap96.aacp
 https://dfm-disc90.hostingradio.ru/disc9096.aacp
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/USSR_COA_1936.png" group-title="communism,коммунизм",Dharma1937
 http://dharma1937.fm:7777/live
-#EXTINF:-1 tvg-logo="http://dimfm.ru//assets/9f336308/favicon/ms-icon-144x144.png" group-title="pop",DIM FM
-http://stream3.radio-21.ru:8080/Dimfm-128-Ulyanovsk
 #EXTINF:-1 tvg-logo="https://101.ru/touch-icon-ipad.png" group-title="soft",Discoteca 80
 https://pub0302.101.ru:8443/stream/pro/aac/64/1?
 #EXTINF:-1 tvg-logo="http://www.discovertrance.com/favicon.ico" group-title="uplifting",Discover Trance Radio
@@ -227,18 +195,8 @@ http://c6.radioboss.fm:8097/stream
 http://c6.radioboss.fm:8096/stream
 #EXTINF:-1 tvg-logo="https://dorognoe.ru/thumb/channel_logo_250x200/2017/6d/5d/591ec2b806674_main.png" group-title="",Dorozhnoye Radio Nizhny Novgorod 105.4 FM
 https://hls-01-dorognoe.emgsound.ru/15/128/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dropthebass.ru/favicon.ico" group-title="bass,breakbeat,breaks,drum and bass,dubstep,electronic,garage,hardcore,st. petersburg,trap",DROP THE BASS
-http://icecast.dropthebass.ru:8000/stream
-#EXTINF:-1 tvg-logo="https://dnbfm.ru/wp-content/uploads/2015/11/cropped-dnbfm-270x270.png" group-title="drum and bass",Drum and Bass Sexy
-http://dist.mixset.co.uk:8000/192.mp3?1537700416
-#EXTINF:-1 tvg-logo="http://dubstep-light.info/static/icons/production/apple-touch-icon.png" group-title="chill,chillout,dubstep,electronic,light,techno,trance",Dubstep Light Radio
-http://dubstep-light.info:8000/dubsteplight.mp3
-#EXTINF:-1 tvg-logo="" group-title="dnb,drum&bass,dubstep,edm",DubStep Radio
-http://radio-nice.ru:8230/stream
 #EXTINF:-1 tvg-logo="https://radio.dwgradio.net/ru/wp-content/uploads/2018/03/cropped-DWGradio-Favicon-270x270.png" group-title="christian",DWG Radio ru
 https://server32349.streamplus.de/;stream.mp3
-#EXTINF:-1 tvg-logo="https://echo.msk.ru/i/icons/apple-icon-120x120.png" group-title="",Echo Moskva HD
-https://echomsk.hostingradio.ru/echom64.aacp
 #EXTINF:-1 tvg-logo="http://101.ru/favicon.ico" group-title="",Enigma
 https://pub0302.101.ru:8443/stream/pro/aac/64/175
 #EXTINF:-1 tvg-logo="http://enigmatic.su/images/Enigmatic3mdl.jpg" group-title="ambient,atmospheric,chillout,easy listening,lounge,new age",Enigmatic 3 - Magnetic Chillout
@@ -285,42 +243,24 @@ http://everhoof.ru:8000/320
 http://music.garagefm.ru:8005/Garagefm128
 #EXTINF:-1 tvg-logo="" group-title="gay",Gay Moscow Radio
 http://s3.radioheart.ru:8027/gaymoscowradio
-#EXTINF:-1 tvg-logo="http://animeradio.su/favicon.ico" group-title="anime",Ghost Anime Radio
-http://animeradio.su:8000/listen.pls
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s179753q.png" group-title="dance,electro,variate",GIKRadio
-http://77.120.162.12:8000/live320
-#EXTINF:-1 tvg-logo="" group-title="audiobooks",Gimadut Radio Book
-http://gimadut.ddns.net:8000/book
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Gmfyhp50/4e-Xr-Nj-FPNn-Y.jpg" group-title="dance,edm,electronic",Global Dance Radio
 http://free.radioheart.ru:8000/RH20472
 #EXTINF:-1 tvg-logo="" group-title="ambient",Graal Future
 http://graalradio.com:8123/future
 #EXTINF:-1 tvg-logo="https://graalradio.com/img/no-logo.png" group-title="ambient,deep ambient,future house",Graal Radio Highway
 http://graalradio.com:8123/highway
-#EXTINF:-1 tvg-logo="https://ds1.graalradio.com/storage/img/channel/1e/82/e7/1e82e795a221f7c0f172381df7c4de36.jpg" group-title="chillout,downtempo,lounge",Graal Radio Sensual
-https://graalradio.com:8124/sensual
 #EXTINF:-1 tvg-logo="https://graalradio.com/favicon.ico" group-title="atmospheric,breaks",Graal Radio Stream Soace - Atmo Breaks
 http://graalradio.com:8123/space
 #EXTINF:-1 tvg-logo="" group-title="",grad-petrov 73.1 FM St. Petersburg
 http://www.grad-petrov.ru:8093/mp3-40
-#EXTINF:-1 tvg-logo="http://hardrockfm.ru/favicon.png" group-title="80's,hair metal,hard rock",Hard Rock FM
-http://stream.hardrockfm.ru:8100/hardrockfm-320.mp3
-#EXTINF:-1 tvg-logo="http://havenfm.ru/static/favicon/favicon.ico" group-title="dance,podcasts,rock,talk & speech",HavenFM
-https://fr.havenband.ru/stream
 #EXTINF:-1 tvg-logo="http://havenfm.ru/static/favicon/android-chrome-192x192.png" group-title="music,podcast,rock,stream,talk & speech",HavenFM OGG
 http://fr-havenfm.karamush.ru:8000/stream.ogg
-#EXTINF:-1 tvg-logo="https://vk.link/images/icons/favicons/fav_logo_2x.ico?6" group-title="handsup! rave oldscool 90s 00s 10s trance techno",HDR [Hard Dance Radio]
-http://hdr.asuscomm.com:8000/hard_dance
 #EXTINF:-1 tvg-logo="http://images.vfl.ru/ii/1569058477/4cd49b08/27933909.jpg" group-title="hiphop",HIP HOP RADIO
 https://tntradio.hostingradio.ru:8027/hhr128.mp3
-#EXTINF:-1 tvg-logo="" group-title="club,dance,elektro,pop,top,хит дэнс",Hit Dance Moskow
-http://live.hitdance.ru:8000/hitd_320
 #EXTINF:-1 tvg-logo="http://hitfm.ru//uploads/favicon.ico" group-title="dance,pop",HIT FM
 https://hitfm.hostingradio.ru/hitfm96.aacp
 #EXTINF:-1 tvg-logo="" group-title="",Hitradio Center Megamix
 http://212.30.80.195:8066/stream
-#EXTINF:-1 tvg-logo="https://static.radio.net/images/broadcasts/f9/8e/36574/1/c300.png" group-title="",Horoshee radio
-http://radio.horoshee.fm:8000/mp3?0473761c
 #EXTINF:-1 tvg-logo="http://radio-imagination.ru/favicon.ico" group-title="",Imagination
 http://217.70.28.155:8004/radio320
 #EXTINF:-1 tvg-logo="http://radio-imagination.ru/favicon.ico" group-title="imagination",imagination
@@ -337,20 +277,10 @@ https://radio.kamchatkalive.ru:8103/chillout
 http://home.kamchatkalive.ru:8000/rock
 #EXTINF:-1 tvg-logo="http://keksfm.kiev.ua/wp-content/uploads/2017/08/cropped-keks_cr222-270x270.png" group-title="кекс фм,кекс фм владивосток,радио владивосток,слушать онлайн владивосток",KEXXX FM
 http://listen6.myradio24.com:9000/5390
-#EXTINF:-1 tvg-logo="http://keygen-fm.ru/pereezd.png" group-title="chiptune,keygen",KEYGEN FM
-http://95.143.216.164:8082/
-#EXTINF:-1 tvg-logo="http://keygen-fm.ru/pereezd.png" group-title="chiptune,keygen",KEYGEN FM (ACC)
-http://95.143.216.164:8080/
-#EXTINF:-1 tvg-logo="http://keygen-fm.ru/pereezd.png" group-title="chiptune,keygen",KEYGEN FM (OGG)
-http://stream.keygen-fm.ru:8042/live.ogg
-#EXTINF:-1 tvg-logo="" group-title="classical",KIDS HITS
-http://92.255.229.74:8888/listen.pls
 #EXTINF:-1 tvg-logo="http://kir98.no-ip.org/favicon.ico" group-title="kir98,pop,post-rock,rock,russian pop,russian rock",Kir98 Radio station
 http://kir98.no-ip.org/aac
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/40remerm32svcux/klubb.png" group-title="dance,dj,electronic,house,jumpstyle,klubb,lubava,promo,promodj,pump,wapmahka,клуб,клубная,танцевальная,танцевальный",Klubb
 http://radio.promodj.com/klubb-192
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/9/80149.v2.png" group-title="pop",LightRadio
-https://lightradio.radiostream.pro/mp3
 #EXTINF:-1 tvg-logo="https://www.likefm.ru/design/images/logo/logo-small.png" group-title="",Like FM Moscow, Russia
 http://pub0302.101.ru:8000/stream/air/aac/64/219
 #EXTINF:-1 tvg-logo="http://images.vfl.ru/ii/1607979920/fbcd4c33/32662814.png" group-title="chillhop,easy listening,electronic,lofi",LoFi World
@@ -371,18 +301,12 @@ http://icecast.gtrk22.ru:8000/mayak22
 https://icecast-vgtrk.cdnvideo.ru/mayakfm_mp3_128kbps
 #EXTINF:-1 tvg-logo="" group-title="",MCM
 https://webradio.mcm.fm:10443/hit128
-#EXTINF:-1 tvg-logo="" group-title="",MDS
-http://ice.planeset.ru:8000/mds_voice.mp3
 #EXTINF:-1 tvg-logo="" group-title="",Mega Radio
 http://stream.megaradio.pro/MegaRadio48
 #EXTINF:-1 tvg-logo="http://megapolisfm.ru/favicon.png" group-title="dance music",Megapolis FM 89.5
 https://fed.fmplay.ru:8000/megapolis-48.aac
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s185320q.png" group-title="soulful house",Melon Radio Soulful
-https://relay5.melonradio.com:9001/soulful
 #EXTINF:-1 tvg-logo="" group-title="dance,electronic,hits,pop,radio,russian",Metaradio
 http://s2.metaradio.ru/mradio.rbi1
-#EXTINF:-1 tvg-logo="http://images.vfl.ru/ii/1638698041/eb6f007d/36965277.gif" group-title="various",MGN RADIO
-https://stream.gtf.club:8035/stream
 #EXTINF:-1 tvg-logo="http://mir24.tv//images/favicon.ico" group-title="",MIR 24 TV
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://nettv.live/uploads/19/1-1Z129140345227.jpg" group-title="",MIR Premium TV
@@ -431,8 +355,6 @@ https://hitster.hostingradio.ru:8010/nrjufa128.mp3
 https://a2.radioheart.ru:9003/nuiradio
 #EXTINF:-1 tvg-logo="" group-title="",NyanServer Radio
 http://station.waveradio.org/nyan.mp3
-#EXTINF:-1 tvg-logo="http://static.wixstatic.com/media/3489e0_4d3c6b6f280b4bf4a522cac2ee4c38b4.png/v1/fill/w_32%2Ch_32%2Clg_1%2Cusm_0.66_1.00_0.01/3489e0_4d3c6b6f280b4bf4a522cac2ee4c38b4.png" group-title="chillout,relaxing",Ocean Radio Chilled
-http://philae.shoutca.st:8446/stream
 #EXTINF:-1 tvg-logo="http://orgasma.fm//img/favicon/new/apple-touch-icon.png" group-title="",Orgasma sloboda
 http://listen2.orgasma.fm/sloboda
 #EXTINF:-1 tvg-logo="http://orthodox-chants.ru/2.png" group-title="orthodox",Orthodox Chants
@@ -447,8 +369,6 @@ http://stream.zeno.fm/uad2cu946qzuv?rj-ttl=5&rj-tok=AAABfdxRlCsA3fGkBe2SImMiMA
 http://stream.zeno.fm/seedhh4zetzuv?rj-ttl=5&rj-tok=AAABfdy8bYsAY5zMWVsnRZnqZw
 #EXTINF:-1 tvg-logo="http://anothermusicproject.com/.selector.gif" group-title="classical,instrumental,piano",Piano Di Notte
 http://radio.anothermusicproject.com:8000/pianodinotte
-#EXTINF:-1 tvg-logo="" group-title="hits",Power FM Murmansk
-https://radio-node-4.dline-media.com/powerhit128
 #EXTINF:-1 tvg-logo="https://cdn.promodj.com/legacy/i/favicon/favicon_180.png" group-title="beat,dubstep",PromoDJ - Dubstep
 http://radio.promodj.com/dubstep-192
 #EXTINF:-1 tvg-logo="http://funkyimg.com/i/2DrkD.jpg" group-title="pop,pop dance",PromoDJ - Pop
@@ -469,8 +389,6 @@ http://radio.promodj.com/toonu-192
 http://radio.promodj.com/top100
 #EXTINF:-1 tvg-logo="http://cdn.promodj.com/legacy/i/pdj_logo_310x310.png" group-title="",Promodj Top100
 http://radio.promodj.com/top100-192
-#EXTINF:-1 tvg-logo="http://nettv.live/uploads/19/1-1Z12H30Z1437.jpg" group-title="",Prosveshenie TV
-https://cdn-01.bonus-tv.ru:8090/prosveschenie_edge/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b85647_a8ee374598314700bbfa683e228ee338~mv2.png" group-title="",Pump
 https://radiorecord.hostingradio.ru/pump96.aacp
 #EXTINF:-1 tvg-logo="http://radcap.ru/apple-touch-icon.png" group-title="hardrock,radcap",radcap
@@ -487,24 +405,12 @@ http://listen.42fm.ru:8000/stealkill-8.0.ogg
 http://europaplus.hostingradio.ru:8014/radiosept320.mp3
 #EXTINF:-1 tvg-logo="" group-title="",Radio 7 Nizhny Novgorod 100.0 FM
 http://online2.gkvr.ru:8000/radio7_nno_64.aac
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/4/61654.v5.png" group-title="decades",Radio 80 Russia
-http://radio80.ru:7777/;?1506192616425
-#EXTINF:-1 tvg-logo="http://radio80.ru/favicon.ico" group-title="",Radio 80 Russia
-http://radio80.ru:7777/
-#EXTINF:-1 tvg-logo="" group-title="",Radio Anonymous
-http://anon.fm:8000/radio
 #EXTINF:-1 tvg-logo="http://www.radio-betelgeuse.com/b2/wp-content/uploads/2015/09/radioman2.gif" group-title="music,space",Radio Betelgeuse / Радио Бетельгейзе
 http://sat.radio-betelgeuse.com:8000/live
-#EXTINF:-1 tvg-logo="" group-title="rock",Radio CAFE
-http://s03.radio-tochka.com:6045/;stream.nsv
 #EXTINF:-1 tvg-logo="http://radcap.ru/stylegraf/baroque2.jpg" group-title="baroque,classical",radio caprice
 http://79.111.14.76:8000/baroque
-#EXTINF:-1 tvg-logo="http://radcap.ru/favicon.ico" group-title="abstract,abstract hip-hop,hiphop",Radio Caprice - Abstract Hip-hop
-http://79.111.14.76:9093/;stream/1
 #EXTINF:-1 tvg-logo="http://radcap.ru/apple-touch-icon.png" group-title="acoustic,acoustic guitar,guitar",Radio Caprice - Acoustic Guitar
 http://79.120.39.202:8002/acousticguitar
-#EXTINF:-1 tvg-logo="http://www.ratiooficial.com/uploads/thumb/96480caprice-80s.png" group-title="alternative country,americana,bluestate country,cow punk,insurgent country,no depression",Radio Caprice - Alt Country
-http://79.111.119.111:9103/
 #EXTINF:-1 tvg-logo="http://radcap.ru/stylegraf/americana1.jpg" group-title="americana,country,roots rock",Radio Caprice - Americana / American Roots
 http://213.141.131.10:8002/americana
 #EXTINF:-1 tvg-logo="http://radcap.ru/graf2/rclogo.png" group-title="aor,hard rock,rock",Radio Caprice - AOR / Melodic Hard Rock
@@ -513,8 +419,6 @@ http://79.111.14.76:8002/aor
 http://79.120.39.202:8002/artrock
 #EXTINF:-1 tvg-logo="http://radcap.ru/stylegraf/artrock2.jpg" group-title="art rock,rock",Radio Caprice - Art Rock
 http://79.120.39.202:8000/artrock
-#EXTINF:-1 tvg-logo="http://radcap.ru/apple-touch-icon.png" group-title="atmospheric black metal,dark ambient,dungeon synth",Radio Caprice - Atmospheric/Ambient Black Metal
-http://79.120.39.202:9093/
 #EXTINF:-1 tvg-logo="http://radcap.ru/graf2/rclogo.png" group-title="avant-garde,avant-garde jazz,free jazz,improvisation,radcap",Radio Caprice - Avant-Garde Jazz / Free Improvisation [1]
 http://79.111.119.111:8002/avantgardejazz
 #EXTINF:-1 tvg-logo="http://radcap.ru/graf2/rclogo.png" group-title="avant-garde,avant-garde jazz,free jazz,improvisation,radcap",Radio Caprice - Avant-Garde Jazz / Free Improvisation [2]
@@ -527,16 +431,10 @@ http://213.141.131.10:8002/balearichouse
 http://213.141.131.10:8000/balearichouse
 #EXTINF:-1 tvg-logo="http://radcap.ru/graf2/rclogo.png" group-title="balearic beat,balearic house,electronic,radcap",Radio Caprice - Balearic House / Balearic Beat [3]
 http://213.141.131.10:8004/balearichouse
-#EXTINF:-1 tvg-logo="" group-title="misc",Radio Caprice - Ballroom Dance
-http://79.111.14.76:9089/
 #EXTINF:-1 tvg-logo="http://radcap.ru/graf2/rclogo.png" group-title="jazz. bebop",Radio Caprice - Bebop / Be-bop / Bop
 http://79.111.14.76:8002/bebop
-#EXTINF:-1 tvg-logo="https://radcap.ru/apple-touch-icon.png" group-title="black metal",Radio Caprice - Black Metal
-http://79.120.77.11:9003/
 #EXTINF:-1 tvg-logo="http://radcap.ru/graf2/rclogo.png" group-title="bossa nova,jazz",Radio Caprice - Bossa Nova
 http://79.111.14.76:8002/bossanova
-#EXTINF:-1 tvg-logo="http://www.radcap.ru/apple-touch-icon.png" group-title="big beat,breakbeat",Radio Caprice - Breakbeat
-http://79.120.39.202:9051/
 #EXTINF:-1 tvg-logo="http://radcap.ru/graf2/rclogo.png" group-title="broken beat,bruk,electronic,radcap",Radio Caprice - Broken Beat / Bruk [1]
 http://79.120.77.11:8002/brokenbeat
 #EXTINF:-1 tvg-logo="http://radcap.ru/graf2/rclogo.png" group-title="broken beat,bruk,electronic,radcap",Radio Caprice - Broken Beat / Bruk [2]
@@ -557,8 +455,6 @@ http://79.120.39.202:8002/chamberjazz
 http://79.111.14.76:8002/chicagoblues
 #EXTINF:-1 tvg-logo="http://www.radcap.ru/apple-touch-icon.png" group-title="",Radio Caprice - Chicago blues
 http://79.111.14.76:8000/chicagoblues
-#EXTINF:-1 tvg-logo="https://radcap.ru/apple-touch-icon.png" group-title="chillout",Radio Caprice - Chill Out
-http://79.111.14.76:9067/
 #EXTINF:-1 tvg-logo="http://radcap.ru/graf2/rclogo.png" group-title="classic rock,rock",Radio Caprice - Classic Rock / Rock
 http://79.120.77.11:8002/rock
 #EXTINF:-1 tvg-logo="http://radcap.ru/stylegraf/baroque2.jpg" group-title="baroque,classical",Radio Caprice - Classical Baroque
@@ -567,8 +463,6 @@ http://79.111.14.76:8002/baroque
 http://79.120.39.202:9069/listen.pls
 #EXTINF:-1 tvg-logo="http://www.radcap.ru/graf2/radcaplogo.png" group-title="",Radio Caprice - Classical Symphonic Music
 http://79.120.77.11:8002/classical
-#EXTINF:-1 tvg-logo="http://radcap.ru//favicon.ico" group-title="soundtrack,video game",Radio Caprice - Computer / Video Game Music (Ost / Score / Soundrack)
-http://79.120.39.202:9139/
 #EXTINF:-1 tvg-logo="http://radcap.ru/graf2/rclogo.png" group-title="classical,contemporary classical",Radio Caprice - Contemporary Classical
 http://79.111.119.111:8002/contclass
 #EXTINF:-1 tvg-logo="http://radcap.ru/graf2/rclogo.png" group-title="contemporary jazz,jazz",Radio Caprice - Contemporary Jazz
@@ -579,24 +473,12 @@ http://79.120.39.202:8002/cooljazz
 http://79.120.39.202:9085/listen.pls
 #EXTINF:-1 tvg-logo="http://radcap.ru/graf2/rclogo.png" group-title="crossover prog,progressive",Radio Caprice - Crossover Prog
 http://79.111.14.76:8002/crossoverprog
-#EXTINF:-1 tvg-logo="http://radcap.ru/apple-touch-icon.png" group-title="crust,punk",Radio Caprice - Crust Punk
-http://79.120.39.202:9123/
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/2/59362.v12.png" group-title="pop",Radio Caprice - Dance Pop
 http://79.120.77.11:8002/dancepop
-#EXTINF:-1 tvg-logo="http://www.ratiooficial.com/uploads/thumb/96480caprice-80s.png" group-title="dark folk,neo folk",Radio Caprice - Dark / Neo / Apocalyptic Folk
-http://79.111.119.111:9053/
 #EXTINF:-1 tvg-logo="https://radcap.ru/apple-touch-icon.png" group-title="aggrotech,dark,dark electro,music",Radio Caprice - Dark Electro / Aggrotech
 http://79.120.39.202:8002/darkelectro
-#EXTINF:-1 tvg-logo="http://radcap.ru/stylegraf/darkjazz5.jpg" group-title="ambient jazz,dark,doom,funeral,noir",Radio Caprice - Dark Jazz
-http://79.120.39.202:9137/
 #EXTINF:-1 tvg-logo="http://radcap.ru/apple-touch-icon.png" group-title="darkpsy",Radio Caprice - Dark Psytrance
 http://79.111.119.111:9057/listen.pls
-#EXTINF:-1 tvg-logo="http://www.radcap.ru/favicon.ico" group-title="darktechno,electronic,techno",Radio Caprice - Dark Techno
-http://79.111.14.76:9139/
-#EXTINF:-1 tvg-logo="http://www.ratiooficial.com/uploads/thumb/96480caprice-80s.png" group-title="death-doom metal",Radio Caprice - Death Doom Metal
-http://79.120.39.202:9007/
-#EXTINF:-1 tvg-logo="http://www.ratiooficial.com/uploads/thumb/96480caprice-80s.png" group-title="death metal",Radio Caprice - Death Metal
-http://79.120.77.11:9083/
 #EXTINF:-1 tvg-logo="https://radcap.ru/apple-touch-icon.png" group-title="black metal",Radio Caprice - Depressive Black Metal
 http://79.111.119.111:9011/listen.pls
 #EXTINF:-1 tvg-logo="http://radcap.ru/graf2/rclogo.png" group-title="dixieland,jazz",Radio Caprice - Dixieland
@@ -609,8 +491,6 @@ http://79.120.77.11:8000/downtempo
 http://79.120.77.11:8004/downtempo
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/5/89625.v3.png" group-title="electronic",Radio Caprice - Dream Trance
 http://79.120.39.202:8002/dreamtrance
-#EXTINF:-1 tvg-logo="http://radcap.ru/apple-touch-icon.png" group-title="dream dance",Radio Caprice - Dream Trance
-http://79.120.39.202:9029/
 #EXTINF:-1 tvg-logo="https://radcap.ru/apple-touch-icon.png" group-title="ambient,drone",Radio Caprice - Drone Ambient
 http://79.111.119.111:9135/listen.pls
 #EXTINF:-1 tvg-logo="http://radcap.ru/graf2/rclogo.png" group-title="drum & bass,drum 'n' bass,drum and bass,electronic,radcap",Radio Caprice - Drum 'n' Bass [1]
@@ -619,8 +499,6 @@ http://79.111.14.76:8002/drumbass
 http://79.111.14.76:8000/drumbass
 #EXTINF:-1 tvg-logo="http://radcap.ru/graf2/rclogo.png" group-title="drum & bass,drum 'n' bass,drum and bass,electronic,radcap",Radio Caprice - Drum 'n' Bass [3]
 http://79.111.14.76:8004/drumbass
-#EXTINF:-1 tvg-logo="http://www.ratiooficial.com/uploads/thumb/96480caprice-80s.png" group-title="dub,roots reggae",Radio Caprice - Dub
-http://79.111.14.76:9029/
 #EXTINF:-1 tvg-logo="http://radcap.ru/graf2/rclogo.png" group-title="dub techno,electronic,radcap",Radio Caprice - Dub Techno [1]
 http://79.120.39.202:8002/dubtechno
 #EXTINF:-1 tvg-logo="http://radcap.ru/graf2/rclogo.png" group-title="dub techno,electronic,radcap",Radio Caprice - Dub Techno [2]
@@ -637,8 +515,6 @@ http://79.111.119.111:8002/electro
 http://79.111.119.111:8000/electro
 #EXTINF:-1 tvg-logo="http://radcap.ru/graf2/rclogo.png" group-title="electro,electro funk,electronic,radcap",Radio Caprice - Electro / Electro Funk [3]
 http://79.111.119.111:8004/electro
-#EXTINF:-1 tvg-logo="http://www.ratiooficial.com/uploads/thumb/96480caprice-80s.png" group-title="electro,house",Radio Caprice - Electro House
-http://79.111.14.76:9075/
 #EXTINF:-1 tvg-logo="http://radcap.ru/apple-touch-icon.png" group-title="electro,electro techno,electronic,techno",Radio Caprice - Electro Techno [1]
 http://213.141.131.10:8002/electrotechno
 #EXTINF:-1 tvg-logo="http://radcap.ru/graf2/rclogo.png" group-title="electro,electro techno,electronic,techno",Radio Caprice - Electro Techno [2]
@@ -653,8 +529,6 @@ http://79.120.39.202:8000/electroclash
 http://79.120.39.202:8004/electroclash
 #EXTINF:-1 tvg-logo="http://radcap.ru/stylegraf/ero3.jpg" group-title="chill,deep,downtempo,jazz,sensual,smooth",Radio Caprice - Erotic
 http://79.120.39.202:8000/erotic
-#EXTINF:-1 tvg-logo="http://www.ratiooficial.com/uploads/thumb/96480caprice-80s.png" group-title="dance,electronic,eurobeat,hi-nrg,italo disco",Radio Caprice - Eurobeat/Hi-NRG
-http://79.120.39.202:9159/
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/5/59355.v14.png" group-title="electronic",Radio Caprice - Eurodance
 http://79.120.39.202:8002/eurodance
 #EXTINF:-1 tvg-logo="http://radcap.ru/graf2/rclogo.png" group-title="electronic,techno",Radio Caprice - Experimental Techno [1]
@@ -671,8 +545,6 @@ http://79.111.14.76:9101/listen.pls
 http://79.111.14.76:8002/folkrock
 #EXTINF:-1 tvg-logo="http://radcap.ru/graf2/rclogo.png" group-title="free jazz,jazz",Radio Caprice - Free Jazz
 http://79.111.14.76:8002/freejazz
-#EXTINF:-1 tvg-logo="http://radcap.ru/apple-touch-icon.png" group-title="full-on",Radio Caprice - Full-on
-http://79.111.14.76:9019/
 #EXTINF:-1 tvg-logo="http://radcap.ru/graf2/rclogo.png" group-title="chillstep,deep,future garage,post dubstep,radcap",Radio Caprice - Future Garage / Chillstep / Deep / Post Dubstep
 http://79.120.39.202:8002/futuregarage
 #EXTINF:-1 tvg-logo="http://radcap.ru/graf2/rclogo.png" group-title="electronic,glitch,glitch-hop,radcap",Radio Caprice - Glitch / Glitch-Hop [1]
@@ -681,26 +553,18 @@ http://79.111.14.76:8002/glitch
 http://79.111.14.76:8000/glitch
 #EXTINF:-1 tvg-logo="http://radcap.ru/graf2/rclogo.png" group-title="electronic,glitch,glitch-hop,radcap",Radio Caprice - Glitch / Glitch-Hop [3]
 http://79.111.14.76:8004/glitch
-#EXTINF:-1 tvg-logo="http://www.ratiooficial.com/uploads/thumb/96480caprice-80s.png" group-title="goa",Radio Caprice - Goa trance
-http://79.120.39.202:9105/
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/5/62055.v16.png" group-title="rock",Radio Caprice - Gothic Metal
 http://79.120.77.11:8002/gothicmetal
 #EXTINF:-1 tvg-logo="http://radcap.ru/graf2/radcaplogo-hor.png" group-title="caprice,grunge,russia,seattle sound",Radio Caprice - Grunge
 http://79.120.39.202:8000/grunge
 #EXTINF:-1 tvg-logo="http://radcap.ru/graf2/rclogo.png" group-title="guitar jazz,jazz",Radio Caprice - Guitar Jazz
 http://79.120.77.11:8002/guitarjazz
-#EXTINF:-1 tvg-logo="http://radcap.ru/apple-touch-icon.png" group-title="jazz,organ,pop",Radio Caprice - Hammond Organ
-http://79.120.39.202:9079/
 #EXTINF:-1 tvg-logo="http://radcap.ru/favicon.ico" group-title="bebop,hard bop,jazz",Radio Caprice - Hard Bob
 http://79.111.14.76:8000/hardbop
 #EXTINF:-1 tvg-logo="http://radcap.ru/stylegraf/hardbop2.jpg" group-title="bebop,hard bop,jazz",Radio Caprice - Hard Bop
 http://79.111.14.76:8002/hardbop
-#EXTINF:-1 tvg-logo="https://radcap.ru/apple-touch-icon.png" group-title="blues,harmonica",Radio Caprice - Harmonica Blues
-http://79.120.39.202:9081/
 #EXTINF:-1 tvg-logo="http://radcap.ru/graf2/radcaplogo.png" group-title="classical,harp,instrumental",Radio Caprice - Harp
 http://213.141.131.10:8000/harp
-#EXTINF:-1 tvg-logo="http://radcap.ru/favicon.ico" group-title="hip-hop,hiphop",Radio Caprice - Hip-hop
-http://79.120.77.11:9067/;stream/1
 #EXTINF:-1 tvg-logo="http://radcap.ru/graf2/rclogo.png" group-title="electronic,illbient",Radio Caprice - Illbient [1]
 http://213.141.131.10:8002/illbient
 #EXTINF:-1 tvg-logo="http://radcap.ru/graf2/rclogo.png" group-title="electronic,illbient",Radio Caprice - Illbient [2]
@@ -725,8 +589,6 @@ http://79.120.77.11:8002/instrumental
 http://79.120.77.11:8000/instrumental
 #EXTINF:-1 tvg-logo="http://radcap.ru/stylegraf/instrumentalrock.jpg" group-title="guitar rock,instrumental,instrumental rock,rock",Radio Caprice - Instrumental Rock
 http://79.120.39.202:8002/instrumentalrock
-#EXTINF:-1 tvg-logo="http://www.ratiooficial.com/uploads/thumb/96480caprice-80s.png" group-title="instrumental rock",Radio Caprice - Instrumental Rock
-http://79.120.39.202:9077/
 #EXTINF:-1 tvg-logo="http://radcap.ru/graf2/radcaplogo-hor.png" group-title="",Radio Caprice - Jazz / Fusion Metal
 http://213.141.131.10:8002/jazzmetal
 #EXTINF:-1 tvg-logo="http://www.ratiooficial.com/uploads/thumb/96480caprice-80s.png" group-title="fusion,jazz",Radio Caprice - Jazz Fusion
@@ -801,8 +663,6 @@ http://79.111.14.76:8000/numetal
 http://213.141.131.10:8002/oldschoolhiphop
 #EXTINF:-1 tvg-logo="http://radcap.ru/favicon.ico" group-title="",Radio Caprice - Organ Music
 http://79.120.77.11:8002/organ
-#EXTINF:-1 tvg-logo="http://radcap.ru/apple-touch-icon.png" group-title="choral,orthodox",Radio Caprice - Orthodox
-http://79.111.14.76:9127/
 #EXTINF:-1 tvg-logo="http://radcap.ru/favicon.ico" group-title="",Radio Caprice - Orthodox Spiritual Music
 http://79.111.14.76:8002/orthodox
 #EXTINF:-1 tvg-logo="http://radcap.ru/graf2/rclogo.png" group-title="piano",Radio Caprice - Piano
@@ -813,62 +673,36 @@ http://79.111.119.111:8002/pianojazz
 http://79.120.77.11:8002/popballads
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/7/61837.v16.png" group-title="rock",Radio Caprice - Pop rock / soft rock / power pop
 http://79.120.77.11:8002/poprock
-#EXTINF:-1 tvg-logo="http://www.ratiooficial.com/uploads/thumb/96480caprice-80s.png" group-title="post grunge",Radio Caprice - Post Grunge
-http://79.111.119.111:9073/
-#EXTINF:-1 tvg-logo="http://radcap.ru/stylegraf/postpunk.jpg" group-title="",Radio Caprice - Post-Punk
-http://79.120.39.202:9071/
 #EXTINF:-1 tvg-logo="http://radcap.ru/stylegraf/postrock4.jpg" group-title="post-rock",Radio Caprice - Post-rock
 http://79.111.14.76:8004/postrock
-#EXTINF:-1 tvg-logo="http://www.ratiooficial.com/uploads/thumb/96480caprice-80s.png" group-title="metal,power metal",Radio Caprice - Power Metal
-http://79.120.77.11:9099/
 #EXTINF:-1 tvg-logo="http://radcap.ru/graf2/radcaplogo.png" group-title="progressive folk,progressive rock",Radio Caprice - Progressive Folk
 http://213.141.131.10:8000/progfolk
-#EXTINF:-1 tvg-logo="http://www.ratiooficial.com/uploads/thumb/96480caprice-80s.png" group-title="electronic,house,progressive house",Radio Caprice - Progressive House
-http://79.111.119.111:9021/
 #EXTINF:-1 tvg-logo="http://radcap.ru/graf2/rclogo.png" group-title="metal,progressive,progressive metal",Radio Caprice - Progressive Metal
 http://79.120.77.11:8002/progmetal
 #EXTINF:-1 tvg-logo="http://www.ratiooficial.com/uploads/thumb/96480caprice-80s.png" group-title="metal,progressive",Radio Caprice - Progressive Metal
 http://79.120.77.11:8000/progmetal
-#EXTINF:-1 tvg-logo="http://radcap.ru/stylegraf/progrock2.jpg" group-title="prog rock,progressive,progressive rock,rock",Radio Caprice - Progressive Rock
-http://79.111.119.111:9121/
 #EXTINF:-1 tvg-logo="http://www.radcap.ru/apple-touch-icon.png" group-title="progressive trance",Radio Caprice - Progressive Trance
 http://79.120.39.202:9025/listen.pls
 #EXTINF:-1 tvg-logo="http://radcap.ru/apple-touch-icon.png" group-title="psybient",Radio Caprice - Psybient
 http://79.111.14.76:9023/listen.pls
 #EXTINF:-1 tvg-logo="http://radcap.ru/graf2/radcaplogo.png" group-title="psychedelic folk",Radio Caprice - Psychedelic Folk
 http://213.141.131.10:8000/psychfolk
-#EXTINF:-1 tvg-logo="http://www.ratiooficial.com/uploads/thumb/96480caprice-80s.png" group-title="psychedelic rock",Radio Caprice - Psychedelic Rock
-http://79.111.119.111:9027/
 #EXTINF:-1 tvg-logo="http://radcap.ru/graf2/radcaplogo-hor.png" group-title="psychobilly",Radio Caprice - PSYCHOBILLY
 http://79.111.119.111:8002/psychobilly
-#EXTINF:-1 tvg-logo="http://www.radcap.ru/apple-touch-icon.png" group-title="punk",Radio Caprice - Punk
-http://79.120.77.11:9045/
 #EXTINF:-1 tvg-logo="http://radcap.ru/apple-touch-icon.png" group-title="",Radio Caprice - Punk Post-Hardcore (128k)
 http://79.111.119.111:8000/posthardcore
 #EXTINF:-1 tvg-logo="http://radcap.ru/apple-touch-icon.png" group-title="",Radio Caprice - Punk Post-Hardcore Emo/Screamo
 http://79.111.119.111:8000/screamoemo
 #EXTINF:-1 tvg-logo="http://www.ratiooficial.com/uploads/thumb/96480caprice-80s.png" group-title="rapcore",Radio Caprice - Rapcore
 http://79.120.39.202:9043/listen.pls
-#EXTINF:-1 tvg-logo="http://radcap.ru/stylegraf/relax2.jpg" group-title="meditation,relax,relaxation",Radio Caprice - Relaxation Music
-http://79.120.39.202:9109/
 #EXTINF:-1 tvg-logo="http://radcap.ru/graf2/radcaplogo.png" group-title="classical",Radio Caprice - Renaissance Music
 http://213.141.131.10:8000/renaissance
-#EXTINF:-1 tvg-logo="http://www.ratiooficial.com/uploads/thumb/96480caprice-80s.png" group-title="80s,electronic,retrowave,synthwave",Radio Caprice - Retrowave
-http://79.120.39.202:9125/
-#EXTINF:-1 tvg-logo="http://www.radcap.ru/apple-touch-icon.png" group-title="rock ballads",Radio Caprice - Rock Ballads
-http://79.120.77.11:9059/;stream.aac
-#EXTINF:-1 tvg-logo="http://radcap.ru/apple-touch-icon.png" group-title="dub,reggae,roots reggae",Radio Caprice - Roots Reggae
-http://79.111.119.111:9047/
 #EXTINF:-1 tvg-logo="http://www.radcap.ru/apple-touch-icon.png" group-title="folk",Radio Caprice - Russian Folk
 http://79.120.77.11:9057/listen.pls
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/9/59359.v13.png" group-title="decades",Radio Caprice - Russian Pop music 80-90's
 http://79.120.77.11:8002/80ru
-#EXTINF:-1 tvg-logo="http://www.ratiooficial.com/uploads/thumb/96480caprice-80s.png" group-title="rock,russian rock",Radio Caprice - Russian Rock
-http://79.120.77.11:9029/
 #EXTINF:-1 tvg-logo="" group-title="classical",Radio Caprice - Saxophone
 http://79.120.77.11:8000/saxophone?
-#EXTINF:-1 tvg-logo="http://www.ratiooficial.com/uploads/thumb/96480caprice-80s.png" group-title="ska",Radio Caprice - Ska
-http://79.111.119.111:9043/
 #EXTINF:-1 tvg-logo="http://radcap.ru/graf2/rclogo.png" group-title="jazz,smooth jazz",Radio Caprice - Smooth Jazz
 http://79.120.39.202:8002/smoothjazz
 #EXTINF:-1 tvg-logo="http://radcap.ru/graf2/radcaplogo.png" group-title="classical",Radio Caprice - Sonatas
@@ -879,12 +713,6 @@ http://79.111.119.111:8000/spacemusic
 http://79.111.119.111:8000/spacerock
 #EXTINF:-1 tvg-logo="http://radcap.ru/apple-touch-icon.png" group-title="",Radio Caprice - Speedmetal
 http://79.111.119.111:8000/speedmetal
-#EXTINF:-1 tvg-logo="http://radcap.ru/favicon.ico" group-title="caprice,metal,rock,russia,stoner",Radio Caprice - Stoner Metal
-http://79.120.77.11:9089/
-#EXTINF:-1 tvg-logo="http://radcap.ru/favicon.ico" group-title="caprice,rock,russia,stoner,stoner rock",Radio Caprice - Stoner Rock
-http://79.111.119.111:9025/
-#EXTINF:-1 tvg-logo="http://www.ratiooficial.com/uploads/thumb/96480caprice-80s.png" group-title="classical,strings",Radio Caprice - Strings
-http://79.120.39.202:9133/
 #EXTINF:-1 tvg-logo="http://www.ratiooficial.com/uploads/thumb/96480caprice-80s.png" group-title="suomisaundi",Radio Caprice - Suomisaundi / Freeform Psytrance
 http://79.120.77.11:9147/listen.pls
 #EXTINF:-1 tvg-logo="http://radcap.ru/graf2/rclogo.png" group-title="electronic,freeform psytrance,radcap,spugedelic trance,suomisaundi",Radio Caprice - Suomisaundi / Freeform Psytrance / Spugedelic Trance [2]
@@ -901,8 +729,6 @@ http://213.141.131.10:8002/symphogoth
 http://79.120.39.202:8002/symphorock
 #EXTINF:-1 tvg-logo="https://radcap.ru/apple-touch-icon.png" group-title="classical,symphonic",Radio Caprice - Symphony
 http://79.111.14.76:9079/listen.pls
-#EXTINF:-1 tvg-logo="https://radcap.ru/apple-touch-icon.png" group-title="thrash metal",Radio Caprice - Thrash Metal
-http://79.120.77.11:9101/
 #EXTINF:-1 tvg-logo="http://radcap.ru/stylegraf/traditionalelectronic1.jpg" group-title="electronic,space,synthesizer",Radio Caprice - Traditional Electronic
 http://79.111.14.76:8002/tradelectronic
 #EXTINF:-1 tvg-logo="http://radcap.ru/apple-touch-icon.png" group-title="downtempo,trip hop",RADIO CAPRICE - TRIP-HOP
@@ -913,18 +739,10 @@ http://79.111.14.76:8000/undergroundrap
 http://79.111.119.111:9019/listen.pls
 #EXTINF:-1 tvg-logo="http://www.ratiooficial.com/uploads/thumb/96480caprice-80s.png" group-title="vocal trance",Radio Caprice - Vocal Trance
 http://79.120.39.202:9031/listen.pls
-#EXTINF:-1 tvg-logo="https://radcap.ru/stylegraf/bard1.jpg" group-title="acoustic,russian pop",Radio Caprice - АВТОРСКАЯ / БАРДОВСКАЯ ПЕСНЯ
-http://79.120.39.202:9021/
-#EXTINF:-1 tvg-logo="http://radcap.ru/apple-touch-icon.png" group-title="caprice,dance,pop",Radio Caprice Dance Pop
-http://79.120.77.11:9053/
 #EXTINF:-1 tvg-logo="http://radcap.ru/index.html" group-title="dark techno,techno",radio caprice dark Techno HQ
 http://79.111.14.76:8000/darktechno
-#EXTINF:-1 tvg-logo="http://radcap.ru/apple-touch-icon.png" group-title="classical music",Radio Caprice Heavy blues
-http://79.120.77.11:9119/
 #EXTINF:-1 tvg-logo="http://radcap.ru/apple-touch-icon.png" group-title="electronic,indie electronic,indie music,new rave",Radio Caprice Indie Electronic
 http://79.111.119.111:8002/indieelectronic
-#EXTINF:-1 tvg-logo="http://radcap.ru/stylegraf/ritamb.jpg" group-title="ambient,drone,industrial",Radio Caprice Industrial/Dark/Ritual Ambient
-http://79.120.39.202:9095/
 #EXTINF:-1 tvg-logo="http://radcap.ru/stylegraf/ritamb.jpg" group-title="ambient,drone,industrial",Radio Caprice Industrial/Dark/Ritual Ambient
 http://79.120.39.202:8002/darkambient
 #EXTINF:-1 tvg-logo="http://radcap.ru/apple-touch-icon.png" group-title="jazz",Radio Caprice Jazz Modern Creative
@@ -937,10 +755,6 @@ http://213.141.131.10:8000/minimalism
 http://79.111.14.76:8004/nwobhm
 #EXTINF:-1 tvg-logo="http://radcap.ru/apple-touch-icon.png" group-title="80's metal,hard rock,nwobhm",Radio Caprice NWOBHM
 http://79.111.14.76:8000/nwobhm
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s161521q.png" group-title="classical organ music",Radio Caprice Organ (Classic)
-http://79.120.77.11:9051/
-#EXTINF:-1 tvg-logo="http://www.radcap.ru/apple-touch-icon.png" group-title="trip hop",Radio Caprice TripHop
-http://79.111.14.76:9013/
 #EXTINF:-1 tvg-logo="http://radcap.ru/favicon.ico" group-title="dark house,witch house",Radio Caprice WITCH HOUSE
 http://79.120.77.11:8002/witchhouse
 #EXTINF:-1 tvg-logo="http://www.chocoradio.ru/favicon.ico" group-title="",Radio Chocolate
@@ -951,12 +765,6 @@ http://jfm1.hostingradio.ru:14536/pcstream.mp3
 http://radiodeluxe.hostingradio.ru:8027/radiodeluxe.mp3
 #EXTINF:-1 tvg-logo="http://top-radio.ru/favicon.ico" group-title="dance",Radio DFM Ufa 91.5 FM
 http://92.50.177.134:8000/dfm_ufa
-#EXTINF:-1 tvg-logo="https://disney.ru/assets/v2/apple_icons/120x120-14fe480d607e9837503907cb37f17d37994962e72c2beffb40fb77a36d66bb57.png" group-title="teen pop",Radio Disney Russia
-http://disney2.streamr.ru:8060/disney
-#EXTINF:-1 tvg-logo="https://files.everypony.ru/radio/blog/2016/08/rer_logo_twitt.png" group-title="brony,fan music,mlp,my little pony,my little pony: friendship is magic",Radio Everypony.ru
-http://radio.alterpony.ru/320
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/9/94989.v5.png" group-title="rock",Radio Extasy | Power Metal
-https://pl.extasy.es
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s63710q.png" group-title="fantasy,talk",Radio Fantastika
 http://fantasyradioru.no-ip.biz:8002/live
 #EXTINF:-1 tvg-logo="" group-title="chiptune",Radio GamePLay
@@ -987,8 +795,6 @@ http://online.gtrkchita.ru:8100/mayak128
 http://online.gtrkchita.ru:8100/mayak32
 #EXTINF:-1 tvg-logo="http://www.radiomayak.ru/i/apple-touch-icon.png" group-title="news talk music",Radio Mayak - MP3 64kb/s
 http://online.gtrkchita.ru:8100/mayak64
-#EXTINF:-1 tvg-logo="http://www.tv-karelia.ru/img/logo-square.png" group-title="",Radio Mayak Karelia 107.9 FM
-http://212.109.14.73:8585/mayakkarelia.mp3
 #EXTINF:-1 tvg-logo="http://vestinn.ru/local/templates/new_template/images/favicon_100x100.png" group-title="",Radio Mayak Nizhny Novgorod
 http://icecast.vgtrk.cdnvideo.ru/mayak_nn
 #EXTINF:-1 tvg-logo="http://images.vfl.ru/ii/1592121703/e07d1f2f/30802196.png" group-title="chillhouse,dance,house,lounge,nu jazz",Radio Monte Carlo 105.9 FM
@@ -997,10 +803,6 @@ https://icecast227.ptspb.ru:8443/monte
 http://montecarlo.hostingradio.ru/golfcup96.aacp
 #EXTINF:-1 tvg-logo="http://radionami.com/favicon.ico" group-title="anime",Radio Nami
 http://5.9.2.139:8000/any-anime.ru
-#EXTINF:-1 tvg-logo="" group-title="folk",Radio NSS
-http://aska.ru-hoster.com:8096/hight
-#EXTINF:-1 tvg-logo="https://iradio52.su/wp-content/uploads/2019/01/APGTFsz-768x666.jpeg" group-title="folk",Radio NSS 64
-http://aska.ru-hoster.com:8096/stream
 #EXTINF:-1 tvg-logo="http://radioobraz.ru/include/apple-touch-icon.png" group-title="",Radio Obraz 98.0 FM
 http://213.177.106.78:8000/
 #EXTINF:-1 tvg-logo="https://www.radiorecord.ru/logo300-300.jpg" group-title="music,news",Radio record - Main Channel
@@ -1027,18 +829,10 @@ https://radiorecord.hostingradio.ru/liquidfunk96.aacp
 https://radiorecord.hostingradio.ru/lofi96.aacp
 #EXTINF:-1 tvg-logo="https://guzei.com/online_radio/logo300/14354.jpg" group-title="",Radio Record Nizhny Novgorod 100.9 FM
 http://online2.gkvr.ru:8000/record_nno_64.aac
-#EXTINF:-1 tvg-logo="https://pea.fm/uploads/posts/radiorecorduplifting.png" group-title="",Radio Record Uplifting
-https://str.pcradio.ru/record_uplift-hi
 #EXTINF:-1 tvg-logo="https://online-red.com/images/radio-logo/record-vip-house.png" group-title="",Radio Record VIP House
 https://radiorecord.hostingradio.ru/vip96.aacp
-#EXTINF:-1 tvg-logo="http://tv-karelia.ru/favicon.ico" group-title="",Radio Rossii Karelia 102.2 FM
-http://212.109.14.73:8585/radiokarelia.mp3
-#EXTINF:-1 tvg-logo="" group-title="pop,russian,russian shanson,shanson",Radio Shanson 101.5 FM Serpukhov
-http://185.6.124.103:8000/example1.ogg
 #EXTINF:-1 tvg-logo="" group-title="",Radio Shanson Nizhny Novgorod 106.9 FM
 http://online2.gkvr.ru:8000/chanson_nno_64.aac
-#EXTINF:-1 tvg-logo="https://cdnnmundo1.img.sputniknews.com/i/favicon/favicon-120x120.png" group-title="",Radio Sputnik
-https://riavoice.gcdn.co/voicespa
 #EXTINF:-1 tvg-logo="https://fmtourist.com/templates/radiowave/includes/images/ios/icon@2x.png" group-title="dance,hot hits,pop music,r&b/urban,travel",Radio Tourist
 http://n11.radiojar.com/av2rrf6547zuv?rj-ttl=5&rj-tok=AAABfdqXZF0AiQoI5mOoog2h0g
 #EXTINF:-1 tvg-logo="https://radioultra.ru/favicons/apple-touch-icon.png" group-title="alternative,alternative rock,rock",Radio Ultra
@@ -1067,20 +861,12 @@ http://listen.radiogora.ru:8000/rednoise128
 https://radiola.hostingradio.ru/radiola_eka_64.aac
 #EXTINF:-1 tvg-logo="https://cdn.radiomv.com/de/wp-content/uploads/2016/01/favicon.ico" group-title="christian",RadioMv.com | Russian Christian Radio
 http://142.44.243.11:2202/listen.pls
-#EXTINF:-1 tvg-logo="https://cdn.radiomv.com/de/wp-content/uploads/2016/01/favicon.ico" group-title="christian",RadioMv.com | Russian Kids (24Kbps)
-http://ru-kh-low.radiomv.co:1210/listen.pls
-#EXTINF:-1 tvg-logo="https://cdn.radiomv.com/de/wp-content/uploads/2016/01/favicon.ico" group-title="christian",RadioMv.com | Russian Music (24Kbps)
-http://163.172.137.24:1920/listen.pls
-#EXTINF:-1 tvg-logo="https://cdn.radiomv.com/de/wp-content/uploads/2016/01/favicon.ico" group-title="bible,christian",RadioMv.com | Russian New Testament (24Kbps)
-http://ru-nt-low.radiomv.co:1212/listen.pls
 #EXTINF:-1 tvg-logo="https://cdn.radiomv.com/de/wp-content/uploads/2016/01/favicon.ico" group-title="bible,christian",RadioMv.com | Russian Old Testament (128Kbps)
 https://ice.radiomv.co:8440/russian_old_testament.mp3
 #EXTINF:-1 tvg-logo="http://www.userlogos.org/files/logos/x-b/record.png" group-title="techno",Radiorecord.RU techno
 https://hls-01-radiorecord.hostingradio.ru/record-techno/96/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://radonezh.ru/sites/default/files/favicon.ico" group-title="",Radonezh
 http://icecast.radonezh.cdnvideo.ru:8000/rad128
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QtN4dq6v/2858-the-radio-ru-anefz9o.png" group-title="dance",RED FM
-http://www.icecast.redfm.ru:8000/REDFM192
 #EXTINF:-1 tvg-logo="https://relax-fm.ru/design/images/img_for_design/main/favicon.png" group-title="life",Relax FM
 https://pub0302.101.ru:8443/stream/air/aac/64/200
 #EXTINF:-1 tvg-logo="https://relax-fm.ru/design/images/img_for_design/main/favicon.png" group-title="latino",Relax FM Latino
@@ -1091,8 +877,6 @@ http://relaxfm72.ru:8000/stream
 http://188.164.138.46:8010/retrofm
 #EXTINF:-1 tvg-logo="" group-title="",Retro FM 80s
 http://hls-01-retro80.emgsound.ru/2/128/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CK3GLLV/Untitled.png" group-title="darkwave,retrowave,synthwave",Retrowave One
-http://85.234.59.191:8000/stream
 #EXTINF:-1 tvg-logo="" group-title="dnb,house,idm,mixed,techno",reVoice
 http://revoice.ru:8000/ocean.mp3
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/apple-touch-icon-120x120.png" group-title="russian rock",Rock FM
@@ -1129,8 +913,6 @@ http://193.33.170.218:8000/RoyalLounge
 http://193.33.170.218:8000/RoyaLove
 #EXTINF:-1 tvg-logo="https://royalradio.ru/images/logo_big2.png" group-title="",Royal Radio 96.8FM
 https://c22.radioboss.fm/stream/186
-#EXTINF:-1 tvg-logo="https://royalradio.ru/images/logo_big2.png" group-title="",Royal Radio Retro
-https://retro.royalmusic.keenetic.pro/
 #EXTINF:-1 tvg-logo="http://tubvideo.ru/_nw/1/32964362.jpg" group-title="hard,heavy,metal,rock,royal,royalradio.ru,рок",Royal Rock
 http://193.33.170.218:8000/RoyalRock
 #EXTINF:-1 tvg-logo="http://tubvideo.ru/_nw/1/32964362.jpg" group-title="club,dance,deep,dj,djs,electronic,royal,royalradio.ru,techno,trance,vocal,вокал,клуб,танцевальная,техно,транс",Royal Trance
@@ -1141,22 +923,12 @@ http://193.33.170.218:8000/RoyalTrap
 http://193.33.170.218:8000/RoyalPopsa
 #EXTINF:-1 tvg-logo="" group-title="rock",RTFM.fm
 http://stream.rtfm.fm/aac256
-#EXTINF:-1 tvg-logo="" group-title="electro,idm,nu garage,techno",rtm sound system
-http://rtmfm.ru:8000/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/302px-Russia-today-logo.svg.png" group-title="current events,news,russia,talk,world news",Russia Today (Audio Only)
-https://rt-glb.gcdn.co/live/rtnews/playlist_64Kb.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/302px-Russia-today-logo.svg.png" group-title="news,russia,talk,tv,world news",Russia Today TV
-https://rt-glb.gcdn.co/live/rtnews/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.sermon-online.de/res/sermon_234_60.gif" group-title="bibel,bible,christian,religion,religious",Russian Bible
-http://radio.sermon-online.com:8000/russian-bible
 #EXTINF:-1 tvg-logo="" group-title="",russian radio golden gramophone
 http://rr-zolotoigrammofon.hostingradio.ru/zolotoigrammofon96.aacp
 #EXTINF:-1 tvg-logo="" group-title="",russkoe radio
 http://rusradio.hostingradio.ru/rusradio96.aacp
 #EXTINF:-1 tvg-logo="https://guzei.com/online_radio/logo300/108.jpg" group-title="",Russkoye Radio Nizhny Novgorod 102.9 FM
 http://online2.gkvr.ru:8000/rusradio_nno_64.aac
-#EXTINF:-1 tvg-logo="http://sanfm.ru/favicon.ico" group-title="drum and bass",San FM
-http://sanfm.ru:8000/drum
 #EXTINF:-1 tvg-logo="http://radio.rikt.ru/radio-ys-small.png" group-title="",Second Shadow of The Yellow Submarine I
 http://radio.rikt.ru:8000/ys-radio
 #EXTINF:-1 tvg-logo="http://nettv.live/uploads/19/1-1Z129130G0193.jpg" group-title="",Shanson TV
@@ -1167,40 +939,12 @@ http://silverrain.hostingradio.ru/silver64.aac
 http://jfm1.hostingradio.ru:14536/sjstream.mp3
 #EXTINF:-1 tvg-logo="http://soulplay.ru/favicon.ico" group-title="",soulplay.ru
 http://s1.radioheart.ru:8018/live
-#EXTINF:-1 tvg-logo="https://static10.tgstat.ru/channels/_0/da/da2a94c2af06fc37d65db474fabbda52.jpg" group-title="deep house,disco house,soulful house",Sounpark Deep
-http://95.213.237.115:8000/sp320
 #EXTINF:-1 tvg-logo="https://sovietwave.su/assets/sprites/icon-android.png" group-title="chillout,electronic,lounge,retro electronica,retrowave,soviet",Sovietwave
 http://station.waveradio.org/soviet.mp3
 #EXTINF:-1 tvg-logo="https://newsovietwave.com/assets/images/soviet-scifi-25601440-200x113.jpeg" group-title="chill synthwave,soviet,sovietwave,synth,wave",Sovietwave Radio
 https://listen5.myradio24.com/sovietwave
 #EXTINF:-1 tvg-logo="http://nettv.live/uploads/19/1-1Z12912433L17.jpg" group-title="",Soyuz TV
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",Sputnik 
-http://audio2.video.ria.ru/voicerus
-#EXTINF:-1 tvg-logo="https://cdnn1.img.sputniknews.com/i/favicon/favicon-120x120.png" group-title="european,news",Sputnik Europe
-https://riavoice.gcdn.co/voiceeng
-#EXTINF:-1 tvg-logo="https://cdnn1.img.sputniknews.com/i/favicon/favicon-120x120.png" group-title="european,news",Sputnik Europe (high)
-https://riavoice.gcdn.co/voiceenghi
-#EXTINF:-1 tvg-logo="https://cdnnarabic1.img.sputniknews.com/i/favicon/icon_144x144.png" group-title="news,talk",Sputnik News Arabic
-http://audio1.video.ria.ru/voicearb
-#EXTINF:-1 tvg-logo="https://cdnn11.img.sputnik.by/i/favicon/favicon-120x120.png" group-title="duplicate sputnik news russia",Sputnik News Belarussian
-https://riavoice.gcdn.co/voicerus
-#EXTINF:-1 tvg-logo="https://cdnn1.img.sputniknews.com/i/favicon/favicon-120x120.png" group-title="news,talk",Sputnik News Chinese
-http://audio1.video.ria.ru/voicechi
-#EXTINF:-1 tvg-logo="https://cdnn1.img.sputniknews.com/i/favicon/favicon-120x120.png" group-title="news,talk",Sputnik News English (Europe)
-http://audio1.video.ria.ru/voiceeng
-#EXTINF:-1 tvg-logo="https://cdnn1.img.sputniknews.com/i/favicon/favicon-120x120.png" group-title="news,talk",Sputnik News English (USA)
-http://audio1.video.ria.ru/voiceusa
-#EXTINF:-1 tvg-logo="" group-title="news,talk",Sputnik News German
-http://audio1.video.ria.ru/voiceger
-#EXTINF:-1 tvg-logo="https://cdnn21.img.ria.ru//i/favicons/radiosputnik/apple-touch-icon-120x120.png" group-title="news,talk",Sputnik News Russian
-http://audio1.video.ria.ru/voicerus
-#EXTINF:-1 tvg-logo="https://cdnn1.img.rs.sputniknews.com/i/favicon/favicon-120x120.png" group-title="news,talk",Sputnik News Serbian
-http://audio1.video.ria.ru/voicesrb
-#EXTINF:-1 tvg-logo="https://cdnnmundo1.img.sputniknews.com/i/favicon/favicon-120x120.png" group-title="news,talk",Sputnik News Spanish
-http://audio1.video.ria.ru/voicespa
-#EXTINF:-1 tvg-logo="https://cdnntr1.img.sputniknews.com/i/favicon/favicon-120x120.png" group-title="news,talk",Sputnik News Turkish
-http://audio1.video.ria.ru/voicestm
 #EXTINF:-1 tvg-logo="https://www.spynetstation.com/SNS.jpg" group-title="bright side,drum and bass,liquid",Spynet Station (Bright)
 https://s2.spynetstation.com/
 #EXTINF:-1 tvg-logo="" group-title="studio21",STUDIO 21
@@ -1213,12 +957,8 @@ http://www.segenswelle.de:8000/russisch
 http://segenswelle.de:8000/russ
 #EXTINF:-1 tvg-logo="https://radio.syg.ma/icons/apple-icon-120x120.png" group-title="experimental",syg.ma
 https://radio.syg.ma/audio
-#EXTINF:-1 tvg-logo="" group-title="new wave,synth,synthesizer,synthwave",Synthradio
-http://195.91.220.35:8005/live192
 #EXTINF:-1 tvg-logo="https://teos.fm/" group-title="religion",teos.fm
 http://stream.teos.fm:8004/mp3_hq
-#EXTINF:-1 tvg-logo="http://radio.paindealers.org/favicon.ico" group-title="alternative,drum and bass,electronic,neurofunk,psychedelic,rock",The Pain Radio
-http://radio.paindealers.org:7777/
 #EXTINF:-1 tvg-logo="http://nettv.live/uploads/19/1-1Z12H2403Y18.jpg" group-title="",Three Angels TV
 http://hls.tv.3angels.ru/stream/HQ.m3u8
 #EXTINF:-1 tvg-logo="https://tntmusic.ru/static/img/fb.jpg" group-title="dance,hits,pop",THT Music Radio
@@ -1229,12 +969,8 @@ http://109.105.59.27:8000/tcr192
 http://62.192.226.178:8001/stream.ogg
 #EXTINF:-1 tvg-logo="http://ugra-tv.ru/local/templates/ugra-tv/img/ico/logo.jpg" group-title="",Ugra TV
 http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/chunklist_b7192000.m3u8
-#EXTINF:-1 tvg-logo="" group-title="pop,rock",ultima.fm
-http://hls.ultima.fm:8000/ultima/laradio.mp3
 #EXTINF:-1 tvg-logo="http://top-radio.ru/assets/image/radio/180/ultra.jpg" group-title="рок",ULTRA
 http://nashe1.hostingradio.ru/ultra-256
-#EXTINF:-1 tvg-logo="http://static.radio.net/images/broadcasts/c0/58/16980/c175.png" group-title="local news",VBC Radio
-http://air.radiovbc.ru:8000/Radio256
 #EXTINF:-1 tvg-logo="" group-title="interview,vedic",Veda Radio
 http://listen.vedaradio.fm:8000/veryhigh
 #EXTINF:-1 tvg-logo="http://verdure.net//static/images/leaf_64.png" group-title="deep ambient,idm",Verdure Station
@@ -1247,22 +983,10 @@ http://icecast.vgtrk.cdnvideo.ru/vestifm_nn
 http://listen.radiotower.su:8000/vigilante_2084_320
 #EXTINF:-1 tvg-logo="" group-title="90s,pop dance,public radio,russia,vladivostok",vladivostok-fm
 http://vladfm.com:8000/vfm
-#EXTINF:-1 tvg-logo="http://www.vmeste-rf.tv/local/templates/main/tpl/img/favicon-32x32.png" group-title="",Vmeste RF TV
-http://cdn-01.bonus-tv.ru:8080/vmesterf/index.m3u8
 #EXTINF:-1 tvg-logo="https://catched.com/og-img-200x200.png" group-title="christian,tv",VO TV  Russian
 http://votv.pp.ua/hls/online-ru-hotbird-high/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.vostok.fm/public/img/logo.png" group-title="",VostokFM-MSK
 https://ru3.amgradio.ru/RuWave48
-#EXTINF:-1 tvg-logo="http://radio.wasteland.su/favicon.ico" group-title="fallout,retro,retro games",Wasteland Radio
-http://wasteland.su:8080/radio.aac
-#EXTINF:-1 tvg-logo="http://radio.wasteland.su/favicon.ico" group-title="fallout,retro,retro games",Wasteland Radio (128 kbps)
-http://wasteland.su:8080/radio
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s277840q.png" group-title="animation,anime,j-pop,ost,trance,trance progressive,trance uplifting",Wave Anime Radio
-https://otsu.s04.radio-tochka.com:4265/mount
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s277840q.png" group-title="animation,anime,j-pop,ost,trance,trance progressive,trance uplifting",Wave Anime Radio
-https://otsu.s04.radio-tochka.com:5465/mount
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s277840q.png" group-title="animation,anime,j-pop,ost,trance,trance progressive,trance uplifting",Wave Anime Radio
-https://otsu.s04.radio-tochka.com:5475/mount
 #EXTINF:-1 tvg-logo="http://www.radiogrom.com/paint_new/logo_big/vsemirnaya_radioset.jpg" group-title="international,talk",WRN Rus
 http://shoutcast.wrn.org:8025/WRN-R
 #EXTINF:-1 tvg-logo="http://yogaradio.fm///templates/newradio/favicon.ico" group-title="vedic,yoga",Yoga Radio
@@ -1291,12 +1015,8 @@ https://zaycevfm.cdnvideo.ru/ZaycevFM_zaychata_256.mp3
 https://zaycevfm.cdnvideo.ru/ZaycevFM_rurock_256.mp3
 #EXTINF:-1 tvg-logo="http://radio.4nmn.com/zmlogo500.png" group-title="",Zero Music
 http://62.210.24.124:8442/zero
-#EXTINF:-1 tvg-logo="" group-title="alternative,club,electro,rock",Zero Music Radio
-http://radio.4nmn.com:3333/live
 #EXTINF:-1 tvg-logo="" group-title="pop music",Zhara FM Жара ФМ
 https://live1.zharafm.ru/internet
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JdYdHMH/64340-eightbit2.jpg" group-title="dark ambient,dungeon synth,martial,martial industrial",ZIKKURAT-RADIO
-http://46.105.180.202:8077/stream
 #EXTINF:-1 tvg-logo="http://radcap.ru/stylegraf/zydeco2.jpg" group-title="cajun,creole,zydeco",Zydeco / Cajun / Creole Music - Radio Caprice
 http://213.141.131.10:8002/zydeco
 #EXTINF:-1 tvg-logo="https://www.avtoradio.ru/design/images/site-design/avtoradio-logo200x200.jpg" group-title="",Авторадио - FM 90.3 - Москва
@@ -1313,8 +1033,6 @@ https://radiosolo.ru/radio/p29/icecast.audio
 http://ic6.101.ru:8000/stream/trust/mp3/128/20
 #EXTINF:-1 tvg-logo="" group-title="pop",Арис Кумертау
 http://195.191.78.200:8080/mp
-#EXTINF:-1 tvg-logo="" group-title="",Атмосфера
-http://185.53.169.128:8000/192
 #EXTINF:-1 tvg-logo="https://bash.news/images/favicon/apple-touch-icon-120x120-precomposed.png" group-title="bashkir,cultural news,folk,instrumental,live,opera,symphonic,talk",Ашҡаҙар
 http://radio.mediacdn.ru/ashkadar.mp3
 #EXTINF:-1 tvg-logo="http://balticplus.ru/wp-content/themes/diez__template_balticplus/apple-icon-120x120.png" group-title="adult contemporary,news,pop,soft rock",Балтик Плюс
@@ -1323,8 +1041,6 @@ http://bp.koenig.ru:8000/Baltic_Plus_mp3_128.mp3
 https://a7.radioheart.ru:9010/RH4465
 #EXTINF:-1 tvg-logo="http://radiogenerator.ru/upload/iblock/631/heart_fm_barnaul.png" group-title="altaiy,altaiyskiy,barnaul,fm,heart,сердце",Барнаул HeartFM
 http://icecast.gtrk22.ru:8000/HFMhigh
-#EXTINF:-1 tvg-logo="https://online-red.ru/images/genre/pop200/altay-200.png" group-title="altaiy,chemal,fm,алтай,барнаул,горный,чемал",Барнаул АлтайФМ
-http://193.233.155.253:8000/radio
 #EXTINF:-1 tvg-logo="https://altaiforel.ru/images/vesti22_quad.png?crc=422115040" group-title="22,altaiy,barnaul,gtrk,vesti,алтай,барнаул,вести,гтрк",Барнаул Вести
 http://icecast.gtrk22.ru:8000/vesti22
 #EXTINF:-1 tvg-logo="http://demo.altaikdm.ru/uploads/_pages/8766/radio.png" group-title="22,barnaul,gtrk,russia,алтай,барнаул,гтрк,россия",Барнаул Россия
@@ -1377,12 +1093,8 @@ http://2beregafm.ru:8100/ber_FM.ogg
 http://deti.volna.top/Deti
 #EXTINF:-1 tvg-logo="" group-title="classical",ДЕТСКОЕ РАДИО [DETSKOE RADIO BABY FM
 http://a5.radioheart.ru:8012/nonstop
-#EXTINF:-1 tvg-logo="" group-title="pop",Детское Христианское Радио
-http://live.detskoeradio.org/radio.mp3
 #EXTINF:-1 tvg-logo="https://radio90s.ru/pictures4/MegaHit.jpg" group-title="",Дискач 90s Мегахит ДНР
 http://radio90s.stream.laut.fm/radio90s?t302=2021-12-21_18-28-08&uuid=f6bc5f6b-40b9-4a6b-81ee-a054f3511a73
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/6/100556.v13.png" group-title="misc",Диско-радио SOVA
-https://stream.gtf.club:1145/stream
 #EXTINF:-1 tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/c34932ae363a2b1386c0136d403a2274.png" group-title="80s,90s,russian",Дискотека СССР
 http://pub0302.101.ru:8000/stream/pro/aac/64/144?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6IjUuMTguMjQ4Ljk4IiwidXNlcmFnZW50IjoiTW96aWxsYVwvNS4wIChYMTE7IExpbnV4IHg4Nl82NDsgcnY6ODIuMCkgR2Vja29cLzIwMTAwMTAxIEZpcmVmb3hcLzgyLjAiLCJ1aWRfY2hhbm5lbCI6IjE0NCIsInR5cGVfY2hhbm5lbCI6ImNoYW5uZWwiLCJleHAiOjE2MDU5NjQ1MTZ9.Ln1wEJ8cHHzK_Ea6Zr8J8acdny0R9ShZ_KUKVf6TmQA
 #EXTINF:-1 tvg-logo="https://www.prfm.ru/logo/dorozhnoe-logo.png" group-title="dorojnoe",Дорожное радио
@@ -1395,8 +1107,6 @@ https://hls-01-dorognoe-rock.emgsound.ru/18/96/playlist.m3u8
 http://dorognoe.hostingradio.ru:8000/dorognoe
 #EXTINF:-1 tvg-logo="" group-title="pop",Дорожное радио НН
 https://dorognoe.hostingradio.ru/dorognoe_acc
-#EXTINF:-1 tvg-logo="" group-title="",Другая Астрахань
-http://89.179.72.53:8070/live
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/40rffa6vlxj7acl/residance.png" group-title="+,club,dance,europa,house,https://europaplus.ru/,plus,resi,residance,wapmahka,европа,клуб,клубная,плюс",Европа + ResiDance
 http://emg02.hostingradio.ru/ep-residance128.mp3
 #EXTINF:-1 tvg-logo="https://radiomap.eu/2015/images/icon-120.png" group-title="поп",Европа плюс
@@ -1435,12 +1145,8 @@ http://falcon.shoutca.st:8166/stream
 https://icecast-trc33.cdnvideo.ru/stream
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ru/2/28/Iskatel-logo-colors.png" group-title="",Искатель
 http://iskatel.hostingradio.ru:8015/iskatel-128.mp3
-#EXTINF:-1 tvg-logo="" group-title="shanson",Кабриолет
-http://setmedia.ru:8000/high3
 #EXTINF:-1 tvg-logo="http://kalina.fm//images/favicon.png" group-title="авторская песня,русский шансон",Калина Красная
 http://icecast-studio21.cdnvideo.ru/KalynaK_1a
-#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000481484085-3hskmi-t500x500.jpg" group-title="news,talk,алтай,алтайский,барнаул,новости",Катунь FM
-https://live.katun24.ru:8082/kfm_radio/tracks-a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://top-radio.ru/assets/image/radio/180/keksfm.png" group-title="kekc,keks",КЕКС FM
 http://emg02.hostingradio.ru/keksfm64.aac
 #EXTINF:-1 tvg-logo="http://im4.kommersant.ru/ContentFlex/images/apple-touch-icon-76x76.png" group-title="news",комерсант (Kommersant FM) 93.6 Moscow
@@ -1449,12 +1155,6 @@ http://kommersant77.hostingradio.ru:8016/kommersant64.mp3
 http://kommersant77.hostingradio.ru:8016/kommersant128.mp3
 #EXTINF:-1 tvg-logo="http://kunelradio.ru/wp-content/uploads/2019/01/cropped-Logo7-192x192.jpg" group-title="folk,live,music,news,pop,talk,tatar",Күңел радиосы
 http://live.kunelradio.ru:8000/128.mp3
-#EXTINF:-1 tvg-logo="http://litradio.ru/img/logo_big_new2.gif" group-title="аудиокниги",Литературное радио
-http://79.137.234.183:8005/;stream.mp3
-#EXTINF:-1 tvg-logo="http://litradio.ru/img/logo_big_new2.gif" group-title="аудиокниги",Литературное радио
-http://79.137.234.183:8000/;stream.mp3
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/1/96661.v5.png" group-title="misc",Любимые хиты
-https://a9.radioheart.ru:9037/RH48997
 #EXTINF:-1 tvg-logo="http://mariafm.ru/sites/default/files/favicon.png" group-title="",Мария FM
 http://mariafm.ru:8000/maria-fm.mp3
 #EXTINF:-1 tvg-logo="https://belfm.ru/favicon.ico" group-title="marusya,marusya fm - new russian hits!,маруся",Маруся FM
@@ -1463,8 +1163,6 @@ http://radio-holding.ru:9000/marusya_aac_64
 http://212.75.194.94:8000/KemMayakFM
 #EXTINF:-1 tvg-logo="" group-title="fantastic,fantasy,mds,science fiction,мдс,модель для сборки,фантастика",МДС
 http://stream.kazancity.net:8000/27-mds
-#EXTINF:-1 tvg-logo="http://images.vfl.ru/ii/1546418224/62367eef/24795440.png" group-title="80s,90s,pop",Милицейская Волна
-http://radio.mvd.ru:8000/mv128.mp3
 #EXTINF:-1 tvg-logo="" group-title="pop",Милицейская волна НН
 https://radiomv.hostingradio.ru:80/radiomv128.mp3
 #EXTINF:-1 tvg-logo="http://radiomir.fm/favicon/apple-touch-icon.png" group-title="",мир (Radio Mir)
@@ -1475,10 +1173,6 @@ http://mirbelogorya.ru:8008/nonstop2
 http://mds-station.com:8000/mds
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/WtL846GB/3g-NV7-Cj4tc.jpg" group-title="2000s,90s,pop",МЭТР GOLDEN HITS
 http://178.208.82.95:8000/MGH
-#EXTINF:-1 tvg-logo="" group-title="talk & speech",Народное Славянское Радио
-https://slavradio.org:8443/nsr/1
-#EXTINF:-1 tvg-logo="" group-title="misc",Народное Славянское Радио муз. канал
-https://slavradio.org:8443/nsr/3
 #EXTINF:-1 tvg-logo="https://guzei.com/online_radio/logo300/9294.jpg" group-title="folk,news,talk",Национальное Радио Чувашии / Chuvash National Radio
 http://icecast.ntrk21.ru:8000/nacradio
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/%D0%9D%D0%90%D0%A8%D0%95_%D0%A0%D0%90%D0%94%D0%98%D0%9E.jpg" group-title="рок,этно",Наше Радио
@@ -1511,10 +1205,6 @@ http://93.189.147.117:8000/nostalgia256.mp3
 http://okolojazza.ru/listen.pls
 #EXTINF:-1 tvg-logo="" group-title="classical",Омский Благгвестник
 http://segenswelle.de:8000/BG-Omsk
-#EXTINF:-1 tvg-logo="https://radioslovo.net/img/microphone.png" group-title="christian",Открытое Слово
-https://rs.radioslovo.net:4145/stream?1619440063877
-#EXTINF:-1 tvg-logo="https://radioslovo.net/img/microphone.png" group-title="christian,instrumental",Открытое Слово
-https://rs.radioslovo.net:4275/stream?1619440624532
 #EXTINF:-1 tvg-logo="http://pifm.ru/img/ico/96%D1%8596.png" group-title="dance",Пи FM
 http://cdn.pifm.ru/mp3
 #EXTINF:-1 tvg-logo="http://static.radiopiligrim.ru/imagestemplate/mobile-icons/apple-touch-icon-precomposed120.png" group-title="pop",Пилигрим
@@ -1523,20 +1213,8 @@ http://radiopiligrim.ru:8000/live
 http://radiopiligrim.ru:8000/bible
 #EXTINF:-1 tvg-logo="http://static.radiopiligrim.ru/imagestemplate/mobile-icons/apple-touch-icon-precomposed120.png" group-title="pop",Пилигрим. Музыка
 http://radiopiligrim.ru:8000/none-stop
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/1/21951.v8.png" group-title="pop",Пионер FM
-https://radio-node-2.dline-media.com/ppr128.mp3
-#EXTINF:-1 tvg-logo="" group-title="",Пионер FM
-https://radio-node-6.dline-media.com/ppr128.mp3
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/2/21952.v5.png" group-title="electronic",Пионер FM DANCE 9.0
-https://radio-node-2.dline-media.com/ppr_90.mp3
-#EXTINF:-1 tvg-logo="" group-title="90s,dance",Пионер FM Dance9.0
-https://radio-node-5.dline-media.com/ppr_90.mp3
-#EXTINF:-1 tvg-logo="" group-title="90s,russian pop",Пионер FM Russian Wave
-https://radio-node-5.dline-media.com/ru-wave.mp3
 #EXTINF:-1 tvg-logo="" group-title="piter",Питер FM - Санкт-Петербург 100.9 МГц
 http://icecast-piterfm.cdnvideo.ru/piterfm
-#EXTINF:-1 tvg-logo="http://pobedafm.ru/images/favicon270.png?v=1.09" group-title="",Победа FM
-http://193.107.103.41:1696/pobeda
 #EXTINF:-1 tvg-logo="http://2017.vrox.org/wp-content/uploads/2016/08/24.jpg" group-title="",Прим24 📺🎼🎞️💌🇷🇺
 http://flussonic-vsaas2.podryad.net/prim24/index.m3u8
 #EXTINF:-1 tvg-logo="http://primvolna.ru/gallery_gen/2eeae6677cc98f991e05eea21396bbd1_660x300.png" group-title="pop",Приморская Волна 90.0 FM
@@ -1547,16 +1225,12 @@ https://listen1.myradio24.com/8317
 http://188.40.109.122:8000/ices1
 #EXTINF:-1 tvg-logo="https://warthunder.ru/favicon.ico" group-title="gaijin network ltd.,music,news,stream,talk,war thunder",Радио «Ulitka» WarThunder
 http://air.radioulitka.ru:8000/ulitka_128
-#EXTINF:-1 tvg-logo="http://vocaltrance.fm/src/icon.png" group-title="",Радио «Vocal Trance»
-http://vocaltrance.ru:8000/vocaltrance
 #EXTINF:-1 tvg-logo="https://www.kp.ru/favicon.ico" group-title="moscow,music,news,russia,talk",Радио «Комсомольская Правда» | КП Россия
 http://kpradio.hostingradio.ru:8000/russia.radiokp128.mp3
 #EXTINF:-1 tvg-logo="" group-title="chuvash,russian",Радио «Таван»
 http://icecast.ntrk21.ru:8000/tavan
 #EXTINF:-1 tvg-logo="" group-title="news,talk",Радио 1 - Первое Подмосковное
 http://cdn.radio1.news:8000/rtvp_mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9mwKgkR/0famsg4k9f-E.jpg" group-title="pop",Радио 101.8
-https://top.radiosolo.ru/radio/r1018penza/icecast.audio
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tC6CPhfq/500-W-750x750.png" group-title="pop,rock,sports",Радио 19-22
 http://onair.radio1922.ru:8000/192.mp3
 #EXTINF:-1 tvg-logo="http://radiogenerator.ru/upload/iblock/5f4/radio_40_kaluga.jpg" group-title="rock,talk",Радио 40 Калуга
@@ -1585,10 +1259,6 @@ https://maximum.hostingradio.ru/maximum128.mp3
 https://nashe2.hostingradio.ru/ultra-128.mp3
 #EXTINF:-1 tvg-logo="" group-title="pop",радио Актан
 http://195.191.78.200:8081/mp
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFNGr4RP/tseqt-On-BQQ4.jpg" group-title="jazz",Радио Афродита Jazz
-http://icecast-xtvmedia.ml:8000/radioafrodita_jazz.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFNGr4RP/tseqt-On-BQQ4.jpg" group-title="rock",Радио Афродита Rock
-http://icecast-xtvmedia.ml:8000/radioafrodita_rock.mp3
 #EXTINF:-1 tvg-logo="" group-title="international",Радио Бодрость
 http://81.94.140.20:8000/
 #EXTINF:-1 tvg-logo="http://www.radiovanya.ru/favicon.ico" group-title="pop",РАДИО ВАНЯ
@@ -1611,14 +1281,8 @@ http://air.radioday.fm/mp3
 http://jazz.streamr.ru/jazz-128.mp3
 #EXTINF:-1 tvg-logo="" group-title="classical",РАДИО ДЛЯ ВЗРОСЛЫХ
 http://listen6.myradio24.com:9000/alex542888
-#EXTINF:-1 tvg-logo="http://www.radiozvezda.ru///assets/favicon/apple-touch-icon.png" group-title="moscow,music,news,russia,star,zvezda,аудиокниги,звезда,музыка,новости,радиоспектакли",Радио Звезда
-http://89.208.99.16:8088/zvezda_128
-#EXTINF:-1 tvg-logo="https://www.radiobells.com/stations/zenit.jpg" group-title="fc zenit,pop,rock,sport",Радио Зенит
-http://variant.fm:8000/ZENIT-192
 #EXTINF:-1 tvg-logo="http://karl.volna.top//apple-touch-icon.png" group-title="",Радио Карл
 http://air.volna.top/Karl
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SK3mJqXB/Gmx-BNY6x-Yo-M.jpg" group-title="hits",Радио Кассета / Cassette Radio
-https://radio-node-6.dline-media.com/kasseta.mp3
 #EXTINF:-1 tvg-logo="https://volna.top/pls/cover/logoradiocafe.png" group-title="amg,chillout,easy,gold,instrumental,pop,relax",РАДИО КАФЕ - Radio CAFE
 http://cafe.volna.top/Cafe
 #EXTINF:-1 tvg-logo="http://radioclassicfm.ru/favicon.ico" group-title="classical",Радио Классик Classic Gold
@@ -1637,32 +1301,20 @@ http://icecast.vgtrk.cdnvideo.ru/kulturafm_mp3_192kbps
 http://ic7.101.ru:8000/v12_1?
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/6/71476.v3.png" group-title="pop",Радио Лисица
 https://a7.radioheart.ru:8005/RH24945
-#EXTINF:-1 tvg-logo="" group-title="pop,r'n'b,rock",Радио Маккирус
-http://radio.vaviloff.net:8000/makkirus
 #EXTINF:-1 tvg-logo="http://www.radiomaria.ru/favicon.ico" group-title="religion",Радио Мария
 http://dreamsiteradiocp4.com:8002/
 #EXTINF:-1 tvg-logo="http://www.radiomayak.ru/i/apple-touch-icon.png" group-title="music,news,talk",Радио Маяк (Radio Mayak)
 http://icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_192kbps
 #EXTINF:-1 tvg-logo="https://www.radio-megapolis.ru/apple-touch-icon-114x114.png" group-title="",Радио МЕГАПОЛИС
 http://online.radio-megapolis.ru:8000/megapolis
-#EXTINF:-1 tvg-logo="http://radiometro.ru/favicon.ico" group-title="",Радио МЕТРО 102,4
-http://stream.radiometro.ru:8230/
 #EXTINF:-1 tvg-logo="" group-title="",Радио Монте Карло
 https://montecarlo.hostingradio.ru/montecarlo128.mp3
 #EXTINF:-1 tvg-logo="" group-title="",Радио Монте Карло Песни оЛюбви
 https://mc-pesniolyubvi.hostingradio.ru/pesniolyubvi96.aacp?95a0
 #EXTINF:-1 tvg-logo="https://montecarlo.ru//uploads/favicon.png" group-title="classic hits",Радио Монте-Карло
 https://mc-mcgold.hostingradio.ru/mcgold96.aacp
-#EXTINF:-1 tvg-logo="http://1tvcrimea.ru//assets/images/stream_sea_soc.png" group-title="",Радио Море (Radio Sea), Симферополь
-http://sea.1tvcrimea.ru:9003/stream_sea.mp3
-#EXTINF:-1 tvg-logo="http://radiomyata.ru/apple-touch-icon.png" group-title="",Радио Мята
-https://radio-node-5.dline-media.com/myata
-#EXTINF:-1 tvg-logo="http://radio-nashestvie.ru/favicon.ico" group-title="rock,russian rock",Радио Нашествие
-http://320kbps.radio-nashestvie.ru:9000/9857
 #EXTINF:-1 tvg-logo="https://nlradio.net/wp-content/uploads/2019/11/NLradio-Web-PEPSI-logo-SMALL.png" group-title="christian",Радио Новая Жизнь
 https://nlradio.stream/hifi
-#EXTINF:-1 tvg-logo="" group-title="музыка,новости,разговор",Радио Ногинска
-http://radio-noginska.ru:8000/radio_mount.mp3
 #EXTINF:-1 tvg-logo="https://sun9-27.userapi.com/impf/c841322/v841322516/5f256/VE9h-yZqVmE.jpg?size=478x477&quality=96&sign=7e93962ff9959abc16c587e11ff34a34&type=album" group-title="70s,80s,90s,nostalgie",Радио Ностальжи Россия
 https://listen7.myradio24.com/alexx333
 #EXTINF:-1 tvg-logo="" group-title="classical",Радио Образ НН
@@ -1681,10 +1333,6 @@ http://listen.radiopassazh.ru/aac-48
 https://www.5-tv.ru/radio.mp3
 #EXTINF:-1 tvg-logo="https://www.radiobells.com/stations/radiopeterburg.jpg" group-title="music,talk,various",Радио Петербург (AAC)
 https://www.5-tv.ru/radio.aac
-#EXTINF:-1 tvg-logo="http://popova.li/apple-touch-icon.png?v=kpv4an808w" group-title="",Радио Попова
-http://94.250.253.107:8079/live
-#EXTINF:-1 tvg-logo="http://27trk.ru//apple-icon-114x114.png" group-title="news,pop",Радио Прокопьевск 107,4
-http://radioserver.27trk.ru:8000/prokopievsk.mp3
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/1/77891.v9.png" group-title="decades",Радио Рекорд - 80's Dance
 https://hls-01-radiorecord.hostingradio.ru/record-1980/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/6/22466.v14.png" group-title="electronic",Радио Рекорд - Dancecore
@@ -1823,8 +1471,6 @@ http://radiorecord.hostingradio.ru/sd9096.aacp
 http://retroclub.hostingradio.ru/retroclub128.aacp
 #EXTINF:-1 tvg-logo="http://radiord.ru/favicon.svg" group-title="cheboksary,federal radiochanel,music,news,road,russia,sport",Радио Родных Дорог
 http://stream1.radiord.ru:8000/live96.aac
-#EXTINF:-1 tvg-logo="https://www.radioromantika.ru/favicon.ico" group-title="chillout,covers,pop,relax",Радио Романтика
-https://ic4.101.ru:8050/v4_1
 #EXTINF:-1 tvg-logo="" group-title="",Радио России
 http://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_192kbps
 #EXTINF:-1 tvg-logo="https://online-red.com/images/radio-logo/Radio-Russia.png" group-title="music,news,talk",Радио России (AAC)
@@ -1839,22 +1485,10 @@ http://radio.gtrk-kaluga.ru/russiafm_kaluga
 http://icecast.vgtrk.cdnvideo.ru/russiafm_nn
 #EXTINF:-1 tvg-logo="https://cdn-st1.rtr-vesti.ru/vh/pictures/xw/129/840/7.jpg" group-title="music,news,talk",Радио России Приморье
 http://mp3.vestiprim.ru:8000/Radio128
-#EXTINF:-1 tvg-logo="https://cdn-st1.rtr-vesti.ru/vh/pictures/xw/129/840/7.jpg" group-title="music,news,talk",Радио России Татарстан
-http://94.180.249.163:8000/tatar64kbps.mp3
-#EXTINF:-1 tvg-logo="https://cdn-st1.rtr-vesti.ru/vh/pictures/xw/129/840/7.jpg" group-title="music,news,talk",Радио России Томск
-http://www.tvtomsk.ru:8000/russia
-#EXTINF:-1 tvg-logo="https://cdn-st1.rtr-vesti.ru/vh/pictures/xw/129/840/7.jpg" group-title="music,news,talk",Радио России Уфа
-http://109.233.169.131:8000/radio_rrb
 #EXTINF:-1 tvg-logo="https://cdn-st1.rtr-vesti.ru/vh/pictures/xw/129/840/7.jpg" group-title="music,news,talk",Радио России Хабаровск
 http://188.93.129.110:8085/vestikhv
-#EXTINF:-1 tvg-logo="https://cdn-st1.rtr-vesti.ru/vh/pictures/xw/129/840/7.jpg" group-title="music,news,talk",Радио России Челябинск
-http://radiorusd.cheltv.ru/stream
 #EXTINF:-1 tvg-logo="https://cdn-st1.rtr-vesti.ru/vh/pictures/xw/129/840/7.jpg" group-title="music,news,talk",Радио России Чита
 http://online.gtrkchita.ru:8100/radiorus64
-#EXTINF:-1 tvg-logo="https://cdn-st1.rtr-vesti.ru/vh/pictures/xw/129/840/7.jpg" group-title="music,news,talk",Радио России Якутск
-http://gtrksakha.ru:12345/test.mp3
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/9/149.v6.png" group-title="pop",Радио Русские Песни
-https://listen.rusongs.ru/ru-aac-64
 #EXTINF:-1 tvg-logo="http://rusongs.ru/images/logo_rusongs.png" group-title="russian pop",Радио Русские Песни
 http://listen.rusongs.ru/ru-mp3-128
 #EXTINF:-1 tvg-logo="https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png" group-title="",Радио Самара-Максимум
@@ -1979,8 +1613,6 @@ https://ru2.volna.top/RuWave48
 http://rock.volna.top/RusRock
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/8/248.v10.png" group-title="misc",Русское Радио
 https://rusradio.hostingradio.ru/rusradio96.aacp
-#EXTINF:-1 tvg-logo="http://www.radiobells.com/stations/rusradiorodnie00.jpg" group-title="00s,2000s,russian pop,нулевые,поп-музыка",Русское Радио: Родные Нулевые
-https://rr-rodnye00.hostingradio.ru/rodnye0096.aacp
 #EXTINF:-1 tvg-logo="http://www.radiobells.com/stations/rusradiorock.jpg" group-title="russian rock,русский рок",Русское Радио: Русский Рок
 https://icecast01.hostingradio.ru:80/russkijrok96.aacp
 #EXTINF:-1 tvg-logo="http://capitalfm.moscow/img/favicon.ico" group-title="pop music",Сapital fm
@@ -2013,8 +1645,6 @@ http://195.91.237.50:8000/music128
 http://icecast.stranafm.cdnvideo.ru/stranafm
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJwc5zxHVV4IQyugajmXL6oshvSbNNilAgbrdA=s900-c-k-c0xffffffff-no-rj-mo" group-title="pop",Такси ФМ
 http://online-1.gkvr.ru:8000/taxi_kaz_64.aac
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_tatarradio.jpg" group-title="",Татар радиосы (Tatar Radiosi)
-http://stream.tatarradio.ru:2068/;stream/1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/66yHZ0Rv/tatarstan-avazy.png" group-title="folk,talk",Татарстан Авазы
 http://listen6.myradio24.com:9000/gtrk
 #EXTINF:-1 tvg-logo="" group-title="hiphop,pop,techno",Типичное FM
@@ -2025,8 +1655,6 @@ https://radio.sarov.info/radio/8010/clever-radio
 http://i-radio.info:8020/radio
 #EXTINF:-1 tvg-logo="https://volna.top/pls/cover/logohypefm.png" group-title="amg,chr,pop,russian,top40",ХАЙП FM - HYPE FM
 http://hfm.volna.top/HypeFM
-#EXTINF:-1 tvg-logo="" group-title="",Хакасия ФМ
-https://tvrts.ru:8443/kh.mp3
 #EXTINF:-1 tvg-logo="http://www.4duk.ru/favicon.ico" group-title="",Чипльдук
 http://radio.4duk.ru/4duk128.mp3
 #EXTINF:-1 tvg-logo="https://www.eff.org/files/Button_Russian_white.png" group-title="russia,russian,shanson,без,русский,цензуры,шансон",Шансон без цензуры

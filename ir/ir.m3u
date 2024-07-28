@@ -5,22 +5,12 @@ http://www.radiofaaz.com:8000/radiofaaz
 https://live.presstv.ir/audio/hispantvradio_360p/chunklist_w1787324820.m3u8
 #EXTINF:-1 tvg-logo="http://www.sedaye-iran.com/images/emblems/iranonair.jpg" group-title="",Iran On Air
 http://ice41.securenetsystems.net/KIRN
-#EXTINF:-1 tvg-logo="http://radio.iranseda.ir/ImagesDynamic?c=radio-Ava" group-title="ava,religion,tehran",IRIB Radio Ava - رادیو آوا
-http://altcdn.iranseda.ir:1935/channel-live/smil:r-ava/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.sedaye-iran.com/images/emblems/radio_farhang.jpg" group-title="culture,farhang,iran,irib,persian,public radio,tehran",IRIB Radio Farhang
 http://headend1.iranseda.ir/liveHLS/radio-farhang.m3u8
-#EXTINF:-1 tvg-logo="" group-title="fars,farsi,irib,shiraz",IRIB Radio Fars - رادیو فارس
-http://altcdn.iranseda.ir:1935/channel-live/smil:r-fars/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.oonternet.com/_panel/upload/content/oonternet-8883943415280.jpeg" group-title="current affairs,iran,public radio",IRIB Radio Iran - رادیو ایران
 http://s1.cdn1.iranseda.ir:1935/liveedge/radio-iran/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lendx.files.wordpress.com/2015/10/radio-varzesh.png" group-title="iran,irib,persian,public radio,sport,tehran,varzesh",IRIB Radio Varzesh
 http://headend1.iranseda.ir/liveHLS/radio-varzesh.m3u8
-#EXTINF:-1 tvg-logo="" group-title="folk",madar
-https://madarradio.com/madar128
-#EXTINF:-1 tvg-logo="" group-title="",Mazandaran
-http://cdn1.live.irib.ir:1935/channel-live/smil:r-sari/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://radionamayesh.ir" group-title="",Namayesh
-http://cdn1.live.irib.ir:1935/channel-live/smil:r-namayesh/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh5.googleusercontent.com/proxy/25PMsUBa3Z6So8cdvAyZT7_93NyV26cJNuTTDY4xk6aJU1lcKPByf2C7o2HbrGrv-QxPvbI3dio2D39zYlgi1v6nLg" group-title="classical",parsa
 http://parsa.icdndhcp.com:18000/stream
 #EXTINF:-1 tvg-logo="https://www.presstv.ir/custom/images/icon.png" group-title="news",PressTv Audio
@@ -37,12 +27,6 @@ http://ic2326.c1261.fast-serv.com/rm128
 http://stream.zeno.fm/39gsar7zetzuv?rj-ttl=5&rj-tok=AAABfdrmiHYArm_-IY3SEdWSlQ
 #EXTINF:-1 tvg-logo="" group-title="",Radio Sarcheshme
 http://sarcheshmeh.icdndhcp.com:18452/stream
-#EXTINF:-1 tvg-logo="http://radiosalamat.ir" group-title="",Salamat
-http://cdn1.live.irib.ir:1935/channel-live/smil:r-salamat/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="classical",stockholmian
-http://217.210.9.84:8000/listen.pls
-#EXTINF:-1 tvg-logo="http://radiotehran.ir" group-title="",Tehran
-http://cdn1.live.irib.ir:1935/channel-live/smil:r-tehran/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.radiofarda.com/content/responsive/rfe/img/webapp/ico-128x128.png" group-title="",ایران‎  Radio Liberty (Iran) (official stream)
 https://n0e.radiojar.com/cp13r2cpn3quv?rj-ttl=5&rj-tok=AAABfdoP3f0A3_pEJEyFPFvLPA
 #EXTINF:-1 tvg-logo="https://sepehr.irib.ir/uploads/channel/payam.png" group-title="radio payam,رادیو پیام",رادیو پیام

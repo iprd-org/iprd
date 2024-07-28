@@ -1,14 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://www.bbfm.sk/images/apple-icon-114x114.png" group-title="00s,10s,20s,80s,90s,pop music",BB FM rádio
 http://stream.bbfm.sk/bbfm128.mp3
-#EXTINF:-1 tvg-logo="http://www.bestfm.sk/wp-content/themes/bestfm/img/logo-bestfm-top.png" group-title="classic hits,news",Best FM
-http://stream.bestfm.sk/128.mp3
 #EXTINF:-1 tvg-logo="http://www.dobreradio.sk/favicon.ico" group-title="",Dobré rádio
 http://stream.dobreradio.sk:8813/dobreradio.mp3
 #EXTINF:-1 tvg-logo="" group-title="classical",Duflo Radio
 http://stream.zeno.fm/kxwhyvz2fm0uv?rj-ttl=5&rj-tok=AAABfdrEouwA3DdC9bDUWbKdQw
-#EXTINF:-1 tvg-logo="" group-title="",FitFamilyRádio
-https://radioserver.online:9803/ffr.mp3
 #EXTINF:-1 tvg-logo="https://www.radia.sk/_radia/loga/nadpis/fresh.webp?v=1" group-title="new music,various",FRESH rádio
 https://icecast2.radionet.sk/freshradio.sk
 #EXTINF:-1 tvg-logo="http://cdn.funradio.sk/img/logo/apple-icon-120x120.png?v=2021-02-23-2126" group-title="pop",Fun Radio
@@ -25,16 +21,8 @@ https://stream.funradio.sk:8000/xmas128.mp3
 http://88.212.34.18:8050/mp3midband
 #EXTINF:-1 tvg-logo="" group-title="electronic",House Radio
 http://stream.zeno.fm/qm8e21gta18uv?rj-ttl=5&rj-tok=AAABfdvyOXkASL4InT8mct97Tg
-#EXTINF:-1 tvg-logo="" group-title="",infovojna
-http://stream.infovojna.sk:8000/live128
-#EXTINF:-1 tvg-logo="https://www.radia.sk/_radia/loga/nadpis/infovojna.webp?v=1" group-title="talk",Infovojna
-http://stream.infovojna.sk:8000/live
-#EXTINF:-1 tvg-logo="" group-title="conspiracy theories,talk",Infovojna
-http://live.infovojna.sk:8000/live
 #EXTINF:-1 tvg-logo="" group-title="",Infovojna
 http://159.69.219.5:8010/aac
-#EXTINF:-1 tvg-logo="" group-title="talk & speech",Infovojna16
-http://live.infovojna.sk:8000/live16
 #EXTINF:-1 tvg-logo="https://www.irock.sk/favicon.ico" group-title="",iRock
 https://radioserver.online:9927/irockHQ.mp3
 #EXTINF:-1 tvg-logo="https://plus.joj.sk/favicon.ico" group-title="general,movies,show",JOJ PLUS
@@ -81,22 +69,12 @@ https://stream.expres.sk/128.mp3
 https://icecast.stv.livebox.sk/fm_128.mp3
 #EXTINF:-1 tvg-logo="http://frontinus.sk/favicon.ico" group-title="pop",Rádio Frontinus
 http://stream.frontinus.sk:8000/frontinus128.mp3
-#EXTINF:-1 tvg-logo="" group-title="music,retro",Rádio Goldies Retro
-http://icecast.radiosity.sk:8000/oldies.mp3
 #EXTINF:-1 tvg-logo="https://jankohrasko.sk/wp-content/uploads/2021/10/cropped-jh-favi-180x180.png" group-title="",Rádio Janko Hraško
 http://78.24.9.110:31088/listen.pls
-#EXTINF:-1 tvg-logo="https://jankohrasko.sk/wp-content/uploads/2021/10/cropped-jh-favi-180x180.png" group-title="folk",Rádio Janko Hraško
-http://78.24.9.110:31088/
 #EXTINF:-1 tvg-logo="https://radiojupiter.sk/wp-content/uploads/2018/10/radio-jupiter-1.png" group-title="",Rádio Jupiter
 http://stream.radiojupiter.sk:8000/jupiter_64.aac
-#EXTINF:-1 tvg-logo="https://www.radia.sk/_radia/loga/app/kiks.webp?v=1" group-title="dance",Rádio KIKS
-https://stream.radiokiks.sk/kiks_hq.mp3
-#EXTINF:-1 tvg-logo="https://www.radia.sk/_radia/loga/nadpis/kiks-rock.webp?v=1" group-title="classic rock oldies,rock,rock classics",Rádio KIKS Rock
-https://stream.radiokiks.sk/kiks_rock.mp3
 #EXTINF:-1 tvg-logo="https://www.radiokosice.sk/assets/radio-ke.png" group-title="košice,local,news,pop,rock",Rádio Košice
 http://stream.ecce.sk:8000/radiokosice-128.mp3
-#EXTINF:-1 tvg-logo="https://www.radia.sk/_radia/loga/nadpis/liptov.webp?v=1" group-title="80's,90's,current hits",Rádio Liptov 106,4
-http://shout.alconet.sk/radioliptov
 #EXTINF:-1 tvg-logo="" group-title="christian",Rádio Logos
 http://radioserver.online:8824/listen.pls
 #EXTINF:-1 tvg-logo="http://lumen.sk/img/logo2.png" group-title="catholic,christian",Rádio Lumen
@@ -111,16 +89,10 @@ https://listen.radioking.com/radio/276343/stream/321988
 https://extra.mediacp.eu/stream/RadioParada,o.z.
 #EXTINF:-1 tvg-logo="https://www.radiopiestany.sk/wp-content/uploads/2020/06/radiopiestany-favicon.png" group-title="local news,local radio",Rádio Piešťany
 http://live.radiopiestany.sk:8000/live.mp3
-#EXTINF:-1 tvg-logo="http://rebeca.sk/wp-content/uploads/2015/04/logo_radio_rebeca.png" group-title="pop,top 40",Rádio Rebeca
-http://allnet.radionet.sk:8000/radiorebeca.mp3
 #EXTINF:-1 tvg-logo="https://www.radiorocksv.eu/favicon.ico" group-title="",Rádio Rock SV
 https://s2.myradiostream.com/:4870/listen.mp3
-#EXTINF:-1 tvg-logo="https://radiosirava.sk/wp-content/uploads/2019/10/favicon.120png.png" group-title="",Rádio Šírava
-http://radioserver.online:8804/;stream/1
 #EXTINF:-1 tvg-logo="https://radiosity.sk/wp-content/uploads/2021/12/cropped-favicon_radio_sity-180x180.png" group-title="",Rádio SiTy
 http://icecast.radiosity.sk:443/hq1.mp3
-#EXTINF:-1 tvg-logo="https://www.radia.sk/_radia/loga/nadpis/sity.webp?v=1" group-title="top 40",Radio SiTy
-http://icecast.radiosity.sk:8000/hq.mp3
 #EXTINF:-1 tvg-logo="https://www.rtvs.sk/media/images/rtvs-logo.svg" group-title="",Radio Slovensko
 https://icecast.stv.livebox.sk/slovensko_128.mp3
 #EXTINF:-1 tvg-logo="https://www.radia.sk/_radia/loga/nadpis/the-end.webp?v=1" group-title="alternative",Rádio THE END
@@ -133,8 +105,6 @@ http://stream.sepia.sk:8000/viva128.mp3
 http://stream.radiovlna.sk/vlna-hi.mp3
 #EXTINF:-1 tvg-logo="https://cloudia.cms.radioservices.sk/r120x120/763b847a-051e-4252-9c04-7e4da78b88c6.png" group-title="christmas,pop",Rádio Vlna - Vianočný stream
 https://stream.radiovlna.sk/xmas-hi.mp3
-#EXTINF:-1 tvg-logo="http://radiolokal.sk/favicon.ico" group-title="90s,eurodance,slovakia",RádioLokál
-http://mpc.mediacp.eu:8065/
 #EXTINF:-1 tvg-logo="" group-title="classical",Repete
 http://stream.rusyn.fm/rusyny-low.mp3
 #EXTINF:-1 tvg-logo="https://www.radia.sk/_radia/loga/coverflow/rusyn-fm.png" group-title="ethnic,folklore",RusynFM
@@ -143,12 +113,8 @@ http://stream.rusyn.fm/rusyny.mp3
 http://stream.skyradio.sk:8000/sky128
 #EXTINF:-1 tvg-logo="" group-title="",Sllobodný vysielač
 http://159.69.219.5:8010//aac
-#EXTINF:-1 tvg-logo="https://slobodnyvysielac.sk/wp-content/uploads/2015/10/fav.png" group-title="",Slobodny vysielač
-http://78.47.79.190:8004/
 #EXTINF:-1 tvg-logo="https://a3a9n4i2.stackpathcdn.com/wp-content/uploads/2015/10/cropped-fav-150x150.png" group-title="",Slobodný vysielač
 http://159.69.219.5:8010/mp3
-#EXTINF:-1 tvg-logo="https://slobodnyvysielac.sk/wp-content/uploads/2015/10/fav.png" group-title="",Slobodny vysielač
-http://78.47.79.190:8002/
 #EXTINF:-1 tvg-logo="https://www.rtvs.sk/media/images/radiostations/radio_slovensko.png" group-title="news,public radio,rtvs,talk",SRo1 Rádio Slovensko
 http://live.slovakradio.sk:8000/Slovensko_128.mp3
 #EXTINF:-1 tvg-logo="" group-title="",SRo1 Rádio Slovensko (256k)

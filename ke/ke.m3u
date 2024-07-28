@@ -1,18 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://truthfm.org/wp-content/uploads/2020/07/cropped-tru-1-180x180.png" group-title="world,talk",Truth 90.7
-http://uk1-vn.mixstream.net:10104/;stream.mp3
-#EXTINF:-1 tvg-logo="http://www.bibliahusema.org/wp-content/uploads/2020/02/logobhb.png" group-title="biblia,christian",Biblia Husema Fm
-http://uk1-vn.mixstream.net:10108/;stream.mp3
-#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radio-or-ke/capital.png" group-title="",Capital Kenya
-https://icecast2.getstreamhosting.com:8050/stream.mp3
 #EXTINF:-1 tvg-logo="http://nettv.live/uploads/19/1-1Z1231A3022W.jpg" group-title="",Citizen TV
 http://ind50-lh.akamaihd.net/i/ind50_citizen@71729/index_1200_av-p.m3u8
-#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s78058/images/logoq.jpg" group-title="dancehall,hiphop,rnb,soul",Homeboyz Radio
-http://91.121.165.88:8116/stream
 #EXTINF:-1 tvg-logo="https://www.hopemediakenya.org/wp-content/uploads/2021/01/favicon-96x96-1.png" group-title="",Hope FM
 http://stream.zeno.fm/d8wnae102zquv?rj-ttl=5&rj-tok=AAABfd36pI8AQVso03GkosZ8WQ
-#EXTINF:-1 tvg-logo="" group-title="",Hot 96
-http://35.154.154.231:1935/hot96fm/hot96fm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/brand/icon_192x192.png" group-title="",Inooro fm
 http://radio.citizentv.co.ke/inoorofm/inoorofm/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://nettv.live/uploads/19/1-1Z123192151212.jpg" group-title="",Inooro TV
@@ -39,7 +29,5 @@ https://streamingv2.shoutcast.com/nrg-radio-ke
 http://stream.zeno.fm/2kcm5f3mga0uv?rj-ttl=5&rj-tok=AAABfdqDeVAAobAqCNPbte9vew
 #EXTINF:-1 tvg-logo="https://radiokaya.co.ke/wp-content/uploads/2019/02/cropped-SiteIdentity-192x192.png" group-title="jazz,local news,local talk,talk radio,tarab",Radio Kaya
 http://usa9-vn.mixstream.net:8084/listen.pls
-#EXTINF:-1 tvg-logo="http://www.radiomaria.co.ke/favicon.ico" group-title="catholic,christian,radio maria,talk",RADIO MARIA KENYA
-http://dreamsiteradiocp.com:8108/stream
 #EXTINF:-1 tvg-logo="http://punchlineafricatv.com/wp-content/uploads/2020/06/cropped-PATV-Logo-TRANSPARENT-1-192x192.png" group-title="african music,news,pop",RadioPunchline Africa
 https://s2.radio.co/se4988efc3/listen

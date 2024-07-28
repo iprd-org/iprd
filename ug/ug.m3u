@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://saltmedia.ug/templates/gk_evonews/images/touch-device.png" group-title="christian,gospel",107.0 Salt FM
-http://uk6.internet-radio.com:8358/stream
-#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radio-co-ug/kfm.png" group-title="",93.3 KFM
-http://81.199.17.49:8000/stream
-#EXTINF:-1 tvg-logo="http://www.radiocity.ug/wp-content/uploads/2019/12/logo-1.png" group-title="entertainment,kampala,music,news,uganda",97fm Radio City
-http://162.244.80.106:10853/stream
 #EXTINF:-1 tvg-logo="http://www.akaboozi.com/wp-content/uploads/2019/08/logo_aka.png" group-title="news,talk",Akaboozi FM 87.9
 http://162.244.80.52:8732/stream.mp3
 #EXTINF:-1 tvg-logo="" group-title="",Capital FM
@@ -13,8 +7,6 @@ http://5229.cloudrad.io:8316/listen.pls
 http://s5.voscast.com:9908/EYOBUJJAJJA
 #EXTINF:-1 tvg-logo="https://www.galaxyfm.co.ug/wp-content/uploads/2018/01/Galaxy-FM-Logo.png" group-title="",Galaxy FM 100.2
 https://streamingv2.shoutcast.com/galaxy-fm-1002
-#EXTINF:-1 tvg-logo="" group-title="",Open Gate FM 103.2
-http://stream.ykbcloud.com:8208/stream
 #EXTINF:-1 tvg-logo="https://www.powerfm.co.ug/wp-content/uploads/2019/05/logo.jpg" group-title="",POWER FM 104.1  
 https://securestreams5.autopo.st:1941/stream
 #EXTINF:-1 tvg-logo="http://www.radiomaria.ug/wp-content/uploads/2017/12/cropped-per-favicon-270x270.jpg" group-title="catholic,religion,talk",RADIO MARIA UGANDA
@@ -29,5 +21,3 @@ https://c14.radioboss.fm:18223/stream?1615807421100=
 http://s44.myradiostream.com:8138/stream
 #EXTINF:-1 tvg-logo="https://ugandabaptistradio.com/favicon.ico" group-title="christian",Uganda Baptist Radio
 https://shout2.brnstream.com/proxy/ugandaradio?mp=/stream
-#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radio-co-ug/xfm.png" group-title="",XFM 94.8
-http://radio.visiongroup.co.ug:8000/xfm
