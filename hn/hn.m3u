@@ -1,37 +1,37 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="70s,80s,90s,tegucigalpa",94 SU FM 94.1 Tegucigalpa
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/0jmNzhtlElQF8TjIPOroekO4RY9BHXOlZ5JYyT5C9FkpkG5t-s_WiKmBkAwoC9uvrsQz=w240-h480-rw" group-title="70s,80s,90s",94 SU 94.1
 http://ice42.securenetsystems.net/94SUFM
 #EXTINF:-1 tvg-logo="http://congafm.com/img/logos/conga_logo_small.png" group-title="ranchera,san pedro sula",Conga FM 103.7 San Pedro Sula
 http://tupropiaradio.net:8002/listen.pls
-#EXTINF:-1 tvg-logo="http://dcr103.net/dcr/wp-content/uploads/2018/05/cropped-PAG-WEB-192x192.png" group-title="christian music,radio cristiana",DCR Difusora Cristiana de Radio 103.1 FM
+#EXTINF:-1 tvg-logo="http://dcr103.net/dcr/wp-content/uploads/2018/05/cropped-PAG-WEB-192x192.png" group-title="cristiana,religious",DCR Difusora Cristiana de Radio 103.1
 http://stream.playerlive.info:8165/
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJy8CaEVwRAZN4dYfbIjyiWAazRZGS2-M6Nh2YCL_Q=s176-c-k-c0xffffffff-no-rj-mo" group-title="exa,exa fm,la estación exacta,la estación naranja,latin music,latin pop,musica,musica latina,musica latinoamericana,música,música en español,música pop,música urbana,ponte exa,pop,pop dance,pop music,pop rock",Exa FM Honduras
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJy8CaEVwRAZN4dYfbIjyiWAazRZGS2-M6Nh2YCL_Q=s176-c-k-c0xffffffff-no-rj-mo" group-title="latin,pop,urbana",Exa FM 
 https://stream.zeno.fm/fy0fhgp937zuv?rj-ttl=5&rj-tok=AAABfd2E54kAMkL09UddJTV-OQ
-#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/i/284161661430-0-1/s-l250/p.jpg" group-title="",GD Dubai
+#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/i/284161661430-0-1/s-l250/p.jpg" group-title="variety,talk",GD Dubai
 https://streaming.exclusive.radio/er/gratefuldead/icecast.audio
-#EXTINF:-1 tvg-logo="http://www.panamericanafm.com/favicon.ico" group-title="noticias,tegucigalpa",HRYW 95.9 Radio Panamericana - Tegucigalpa
+#EXTINF:-1 tvg-logo="http://www.panamericanafm.com/favicon.ico" group-title="noticias,talk",HRYW 95.9 Radio Panamericana
 http://online.radiodifusion.net:1935/panam-hn/panam.stream/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radios-hn/radio-activa.png" group-title="",Radio Activa Honduras
 https://stream.zeno.fm/6n7fp9t2pceuv?rj-ttl=5&rj-tok=AAABfd5WegoAbik5EPKiufFHDQ
-#EXTINF:-1 tvg-logo="" group-title="noticias,tegucigalpa",Radio America  94.7 Tegucigalpa
+#EXTINF:-1 tvg-logo="https://static.tuneyou.com/images/logos/500_500/24/5724/RadioAmerica94.7FM.jpg" group-title="noticias,talk",Radio America 94.7
 https://playerservices.streamtheworld.com/api/livestream-redirect/AMERICA_SC
-#EXTINF:-1 tvg-logo="" group-title="information,news,talk radio",Radio HRN La Voz de Honduras
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/IINsjEBcQaLtPKLyqv7wiTqW97TNAo47ViSEgNOcBwstQj-nb6OlohwEotDs-kZV_ne7" group-title="information,news,talk",Radio HRN
 https://ice42.securenetsystems.net/HRN
-#EXTINF:-1 tvg-logo="http://www.americamultimedios.net/images/04.png" group-title="baladas,musica romantica",Radio Moderna
+#EXTINF:-1 tvg-logo="http://www.americamultimedios.net/images/04.png" group-title="baladas,romantica",Radio Moderna
 https://playerservices.streamtheworld.com/api/livestream-redirect/MODERNAAAC_SC
-#EXTINF:-1 tvg-logo="http://radiow107.com/images/ic.png" group-title="reggaeton,tegucigalpa",Radio W107 107.3 Tegucigalpa
+#EXTINF:-1 tvg-logo="http://radiow107.com/images/ic.png" group-title="reggaeton,latin",Radio W107 107.3
 http://ic.streann.com:8000/w107
 #EXTINF:-1 tvg-logo="https://www.emisorasunidas.net/images/rnp.png" group-title="pop",ROCK N' POP
 https://ice42.securenetsystems.net/ROCKNPOP
-#EXTINF:-1 tvg-logo="http://www.stereoceiba.net/images/logo.png" group-title="80s,90s,la ceiba,latin music,sports news",Stereo Ceiba 99.9 - La Ceiba
+#EXTINF:-1 tvg-logo="http://www.stereoceiba.net/images/logo.png" group-title="80s,90s,latin",Stereo Ceiba 99.9
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_CEIBAAAC_SC
-#EXTINF:-1 tvg-logo="http://stereoexitos.hn/favicon.ico" group-title="tegucigalpa,variedad",Stereo Exitos 88.1 Tegucigalpa
+#EXTINF:-1 tvg-logo="http://stereoexitos.hn/favicon.ico" group-title="hits,variedad",Stereo Exitos 88.1
 http://ice42.securenetsystems.net/EXITOS
-#EXTINF:-1 tvg-logo="" group-title="pop,tegucigalpa,top 40",Suave FM 102.5 Tegucigalpa
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/12/e9/12e9e4e9cd944490638460381d3bc1ff.jpg" group-title="pop,top 40",Suave 102.5
 http://ice42.securenetsystems.net/SUAVE
-#EXTINF:-1 tvg-logo="http://www.super100hn.net//favicon.ico" group-title="adult contemporary",Super 100 Tegucigalpa 100.1
+#EXTINF:-1 tvg-logo="http://www.super100hn.net//favicon.ico" group-title="adult,contemporary",Super 100 100.1
 https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER100_SC
-#EXTINF:-1 tvg-logo="https://www.emisorasunidas.net/images/vox.png" group-title="pop",VOX FM
+#EXTINF:-1 tvg-logo="https://www.emisorasunidas.net/images/vox.png" group-title="pop,hits",VOX FM
 https://ice42.securenetsystems.net/VOXFM
-#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s121221q.png" group-title="pop,top 40",XY 90.5 FM Tegucigalpa
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s121221q.png" group-title="pop,top 40",XY 90.5
 http://ice42.securenetsystems.net/XY905
