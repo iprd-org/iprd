@@ -99,115 +99,105 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KNINAAC_SC
 https://playerservices.streamtheworld.com/api/livestream-redirect/OSIJEKAAC_SC
 #EXTINF:-1 tvg-logo="https://liveonlineradio.net/wp-content/uploads/2014/04/Radio-Pula.jpg" group-title="rock,pop,news",HRT Radio Pula 96.4
 https://playerservices.streamtheworld.com/api/livestream-redirect/PULAAAC_SC
-#EXTINF:-1 tvg-logo="" group-title="hrt,public radio,rijeka",HRT Radio Rijeka
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1lxEL4tE77saSgknGEB_3iFX2thSGUi3UxA&s" group-title="rock,pop,news",HRT Radio Rijeka 104.7
 https://playerservices.streamtheworld.com/api/livestream-redirect/RIJEKAAAC_SC
-#EXTINF:-1 tvg-logo="" group-title="",HRT Radio Sljeme
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s25503/images/logog.jpg" group-title="rock,pop,news",HRT Radio Sljeme 88.1
 https://playerservices.streamtheworld.com/api/livestream-redirect/SLJEMEAAC_SC
-#EXTINF:-1 tvg-logo="" group-title="hrt,public radio,split",HRT Radio Split
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/0b/f0/12650/1/c300.png" group-title="rock,pop,news",HRT Radio Split 101.1
 https://playerservices.streamtheworld.com/api/livestream-redirect/SPLITAAC_SC
-#EXTINF:-1 tvg-logo="" group-title="",HRT Radio Zadar
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGV0fUMfzYrOGycr1f8cyoKiwdJsxsT1ms9Q&s" group-title="",HRT Radio Zadar 101.8
 https://playerservices.streamtheworld.com/api/livestream-redirect/ZADARAAC_SC
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hr/c/cd/Hkr.jpg" group-title="chatolic,christian,croatia,hkr,katolički,kršćanski",Hrvatski Katolički Radio
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hr/c/cd/Hkr.jpg" group-title="catholic,christian,katolički",Hrvatski Katolički Radio
 https://stream.hkr.hr/hkr.mp3
-#EXTINF:-1 tvg-logo="https://radio.hrt.hr/static/img/favicon.png" group-title="",Hrvatski Radio - Drugi Program
+#EXTINF:-1 tvg-logo="https://radio.hrt.hr/static/img/favicon.png" group-title="news,talk",Hrvatski Radio Drugi Program
 https://playerservices.streamtheworld.com/api/livestream-redirect/PROGRAM2.mp3
-#EXTINF:-1 tvg-logo="https://radio.hrt.hr/static/img/favicon.png" group-title="news talk",Hrvatski Radio - Govorni Program
+#EXTINF:-1 tvg-logo="https://radio.hrt.hr/static/img/favicon.png" group-title="news,talk",Hrvatski Radio Govorni Program
 https://playerservices.streamtheworld.com/api/livestream-redirect/HR_TALK.mp3
-#EXTINF:-1 tvg-logo="https://radio.hrt.hr/data/channel/000007_3a097e24185c217a4d8d.jpg" group-title="",Hrvatski Radio - Knin
+#EXTINF:-1 tvg-logo="https://radio.hrt.hr/data/channel/000007_3a097e24185c217a4d8d.jpg" group-title="rock,pop,news",Hrvatski Radio Knin
 https://playerservices.streamtheworld.com/api/livestream-redirect/KNIN.mp3
-#EXTINF:-1 tvg-logo="https://radio.hrt.hr/static/img/favicon.png" group-title="",Hrvatski Radio - Split
+#EXTINF:-1 tvg-logo="https://radio.hrt.hr/static/img/favicon.png" group-title="rock,pop,news",Hrvatski Radio Split
 https://playerservices.streamtheworld.com/api/livestream-redirect/SPLIT.mp3
-#EXTINF:-1 tvg-logo="https://radio.hrt.hr/static/img/favicon.png" group-title="",Hrvatski Radio - Treci Program
+#EXTINF:-1 tvg-logo="https://radio.hrt.hr/static/img/favicon.png" group-title="rock,pop,news",Hrvatski Radio Treci
 https://playerservices.streamtheworld.com/api/livestream-redirect/PROGRAM3.mp3
-#EXTINF:-1 tvg-logo="https://karlovacki.hr/wp-content/uploads/2018/11/favicon-300x300.png" group-title="folk music,local news,pop",Hrvatski radio Karlovac
+#EXTINF:-1 tvg-logo="https://karlovacki.hr/wp-content/uploads/2018/11/favicon-300x300.png" group-title="folk,news,pop",Hrvatski Radio Karlovac
 http://s8.iqstreaming.com:8002/
-#EXTINF:-1 tvg-logo="http://www.hrv.hr/templates/sj_worldnews/favicon.ico" group-title="folk,local news,pop",Hrvatski radio Vukovar
+#EXTINF:-1 tvg-logo="http://www.hrv.hr/templates/sj_worldnews/favicon.ico" group-title="folk,news,pop",Hrvatski Radio Vukovar
 http://live.hrv.hr:8000/hrv
-#EXTINF:-1 tvg-logo="https://clubmusic-1.com/favicon.ico" group-title="",https://clubmusic-1.com/
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3YlHbGOrmXZZvr4IrfNIqhZgdrBLJYXfJ6g&s" group-title="soft,pop,ballads",Club Music Radio
 http://cmr-hosting.com:8050/stream?type=http&nocache=5796
-#EXTINF:-1 tvg-logo="https://jazzradio.hr/wp-content/uploads/2021/11/logo2x-gold.png " group-title="cool jazz,jazz,vocal jazz",Jazzradio.hr - All the colors of jazz
+#EXTINF:-1 tvg-logo="https://jazzradio.hr/wp-content/uploads/2021/11/logo2x-gold.png" group-title="cool,jazz,vocal",Jazzradio.hr
 https://s5.radio.co/s5daa92f3a/listen
-#EXTINF:-1 tvg-logo="https://www.jugoton.com/img/core-img/favicon.ico" group-title="",Jugoton HIT Radio - Wien/Bec - Vas i nas Radio
-http://s8.iqstreaming.com:8060/;stream/1
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/apple-touch-icon-120x120.png" group-title="hrvatska,laganini,public radio",Laganini FM
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/apple-touch-icon-120x120.png" group-title="world,public",Laganini FM
 http://194.145.208.251:8000/start/lfmzg
-#EXTINF:-1 tvg-logo="https://ca0-cdn.onlineradiobox.com/img/l/6/24376.v7.png" group-title="",Laganini FM - Rijeka
+#EXTINF:-1 tvg-logo="https://ca0-cdn.onlineradiobox.com/img/l/6/24376.v7.png" group-title="lounge,relax,smooth",Laganini FM
 http://194.145.208.251:8004/stream?type=http&nocache=149
-#EXTINF:-1 tvg-logo="https://www.radio.at/images/broadcasts/d6/cf/38549/1/c300.png" group-title="laganini,lounge,relaxing,smooth",Laganini FM Rijeka
+#EXTINF:-1 tvg-logo="https://www.radio.at/images/broadcasts/d6/cf/38549/1/c300.png" group-title="lounge,relax,smooth",Laganini FM
 http://194.145.208.251:8004/start/lfmri
-#EXTINF:-1 tvg-logo="" group-title="",Naxi House
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk5ClrdlRtdfwIpFf5ZpjkIQgtE19J3JZIEA&s" group-title="house,pop,top 40",Naxi House
 http://naxidigital-house128.streaming.rs:8000/
-#EXTINF:-1 tvg-logo="https://www.bika.net/image-w160/novi-radio-zadar-logo-266-1296558320.png" group-title="hits,news,oldies,pop,rock",Novi Radio Zadar
+#EXTINF:-1 tvg-logo="https://www.bika.net/image-w160/novi-radio-zadar-logo-266-1296558320.png" group-title="hits,news,oldies",Novi Radio Zadar
 http://s8.iqstreaming.com:8022/stream
-#EXTINF:-1 tvg-logo="https://www.ori.hr/images/logo.png" group-title="",Obiteljski Radio Ivanić
+#EXTINF:-1 tvg-logo="https://www.ori.hr/images/logo.png" group-title="rock,pop,news",Obiteljski Radio Ivanić 99.4
 http://s8.iqstreaming.com:8080/stream
-#EXTINF:-1 tvg-logo="" group-title="misc",Online Radio Extra Kneginec
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-z1PqR9pDvxIgVi_F5Ny18WL4NFtRSj_4Ew&s" group-title="rock,pop,news",Online Radio Extra Kneginec
 http://stream.zeno.fm/c4kvver9bm8uv?rj-ttl=5&rj-tok=AAABfdnh7j8AUAeFSYYDBdnfvQ
-#EXTINF:-1 tvg-logo="" group-title="folk",Online Radio Kneginec
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-z1PqR9pDvxIgVi_F5Ny18WL4NFtRSj_4Ew&s" group-title="rock,pop,news",Online Radio Kneginec
 http://stream.zeno.fm/yetzdv442k8uv?rj-ttl=5&rj-tok=AAABfdpe3d0As4N4D5eSnkuwtQ
-#EXTINF:-1 tvg-logo="" group-title="croatian,hits,pop,rock",Otvoreni Live
+#EXTINF:-1 tvg-logo="https://ca.radio.net/images/broadcasts/93/fc/12654/1/c300.png" group-title="world,hits,pop",Otvoreni Live
 http://otvoreni.hr/media-player/create-playlist.php?stream=8807&type=pls
-#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/a3/b8/31/a3b831bf-7b97-923b-bb40-81a941cb6743/source/512x512bb.jpg" group-title="croatia,croatian,hrvatska,pop,pop rock",Otvoreni LIVE
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/a3/b8/31/a3b831bf-7b97-923b-bb40-81a941cb6743/source/512x512bb.jpg" group-title="world,hrvatska,pop",Otvoreni Live
 https://stream.otvoreni.hr/stream48
-#EXTINF:-1 tvg-logo="http://www.otvoreni.hr/ea/wp-content/uploads/2020/10/Otvoreni_logoxbijelix380.jpg" group-title="croatian,easy listening,news,pop,rock,zagreb",Otvoreni Radio
+#EXTINF:-1 tvg-logo="http://www.otvoreni.hr/ea/wp-content/uploads/2020/10/Otvoreni_logoxbijelix380.jpg" group-title="world,easy listening,news",Otvoreni Radio
 https://stream.otvoreni.hr/otvoreni
-#EXTINF:-1 tvg-logo="https://www.phonostar.de/images/auto_created/Otvoreni_Radio2184x184.png" group-title="chill,chillout",Otvoreni Radio - Chill
+#EXTINF:-1 tvg-logo="https://www.phonostar.de/images/auto_created/Otvoreni_Radio2184x184.png" group-title="ambient,chillout",Otvoreni Radio Chill
 https://stream.otvoreni.hr/chill
-#EXTINF:-1 tvg-logo="" group-title="fitness",Otvoreni Radio - Fitness
+#EXTINF:-1 tvg-logo="https://kuasark.com/files/stations-logos/otvoreni-radio-fitness-hr-36920.png" group-title="fitness,energy,ambient",Otvoreni Radio Fitness
 https://stream.otvoreni.hr/fitness
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/7GF9uqVfOXStFXPZPuTBbYvD-HGk4TOgXw_xnbqOIDk13Ai_mQhUubMX1swofaNBkh8" group-title="christmas music,xmas",Otvoreni Radio - Ho Ho
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/7GF9uqVfOXStFXPZPuTBbYvD-HGk4TOgXw_xnbqOIDk13Ai_mQhUubMX1swofaNBkh8" group-title="christmas,xmas",Otvoreni Radio Ho Ho
 https://stream.otvoreni.hr/hoho
-#EXTINF:-1 tvg-logo="https://www.phonostar.de/images/auto_created/Otvoreni_Radio2184x184.png" group-title="hits,hot hits",Otvoreni Radio - Hot
+#EXTINF:-1 tvg-logo="https://www.phonostar.de/images/auto_created/Otvoreni_Radio2184x184.png" group-title="hits,hot,pop",Otvoreni Radio Hot
 https://stream.otvoreni.hr/hot
-#EXTINF:-1 tvg-logo="https://www.phonostar.de/images/auto_created/Otvoreni_Radio2184x184.png" group-title="love songs",Otvoreni Radio - Love
+#EXTINF:-1 tvg-logo="https://www.phonostar.de/images/auto_created/Otvoreni_Radio2184x184.png" group-title="ballads,oldies,hits",Otvoreni Radio Love
 https://stream.otvoreni.hr/love
-#EXTINF:-1 tvg-logo="https://www.phonostar.de/images/auto_created/Otvoreni_Radio2184x184.png" group-title="pop",Otvoreni radio - Uživo
+#EXTINF:-1 tvg-logo="https://www.phonostar.de/images/auto_created/Otvoreni_Radio2184x184.png" group-title="pop,hits",Otvoreni Radio Uživo
 http://stream.otvoreni.hr/otvoreni
-#EXTINF:-1 tvg-logo="" group-title="",Otvoreni Radio (Ho-Ho)
-http://stream.otvoreni.hr/hoho
-#EXTINF:-1 tvg-logo="" group-title="",Otvoreni Radio Chill
-http://stream.otvoreni.hr/chill
-#EXTINF:-1 tvg-logo="" group-title="",Otvoreni Radio Fitness
-http://stream.otvoreni.hr/fitness
-#EXTINF:-1 tvg-logo="" group-title="",Petrinjski radio
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/42sxkS8MdZISeENhyV5_6O2Od2xvjWIFdYskwfVrG8punGS1rjcHNhnWdgVe_vE2AjpI=w240-h480-rw" group-title="rock,pop",Petrinjski Radio 106.9
 http://s8.iqstreaming.com:8062/
-#EXTINF:-1 tvg-logo="https://www.pitomi.hr/93-5-mhz/wp-content/uploads/2020/02/favicon.ico" group-title="folk,local news,pop",Pitomi Radio
+#EXTINF:-1 tvg-logo="https://www.pitomi.hr/93-5-mhz/wp-content/uploads/2020/02/favicon.ico" group-title="folk,news,pop",Pitomi Radio
 http://194.145.208.251:8022/stream?1580651040750.mp3
-#EXTINF:-1 tvg-logo="https://www.poslovnifm.com/wp-content/uploads/2019/01/favicon.png" group-title="",Poslovni FM
+#EXTINF:-1 tvg-logo="https://www.poslovnifm.com/wp-content/uploads/2019/01/favicon.png" group-title="business,talk",Poslovni FM
 https://ec2s.crolive.com.hr:2665/stream
-#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/brand/icon_192x192.png" group-title="",PRVI PROGRAM - HRVATSKI RADIO
-https://playerservices.streamtheworld.com/api/livestream-redirect/PROGRAM1.mp3
-#EXTINF:-1 tvg-logo="http://www.057info.hr/favicon.ico" group-title="",Radio 057
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/brand/icon_192x192.png" group-title="news,talk",Hrvatski Radio Prvi
+ https://playerservices.streamtheworld.com/api/livestream-redirect/PROGRAM1.mp3
+#EXTINF:-1 tvg-logo="http://www.057info.hr/favicon.ico" group-title="world,pop",Radio 057
 http://streaming.zadar.net:8000/radio057
-#EXTINF:-1 tvg-logo="http://radio101.hr/wp-content/uploads/2017/07/cropped-Untitled-design-1-192x192.png" group-title="",Radio 101
+#EXTINF:-1 tvg-logo="http://radio101.hr/wp-content/uploads/2017/07/cropped-Untitled-design-1-192x192.png" group-title="alternative,contemporary,news",Radio 101
 http://live.radio101.hr:9531/stream.mp3
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/logo/7/47297.v2.png" group-title="folk,local news,pop",Radio 92 FM
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/logo/7/47297.v2.png" group-title="folk,news,pop",Radio 92 FM
 http://stream.radio92.eu:8000/
-#EXTINF:-1 tvg-logo="https://ca0-cdn.onlineradiobox.com/img/l/3/69333.v26.png" group-title="",Radio Antena
+#EXTINF:-1 tvg-logo="https://ca0-cdn.onlineradiobox.com/img/l/3/69333.v26.png" group-title="top 40,charts,world",Radio Antena
 http://live.antenazadar.hr:9000/;?type=http&nocache=10737
-#EXTINF:-1 tvg-logo="https://www.radio-banovina.hr/popup/images/artists/default.png" group-title="folk",Radio Banovina
+#EXTINF:-1 tvg-logo="https://www.radio-banovina.hr/popup/images/artists/default.png" group-title="folk,pop",Radio Banovina
 http://stream1.radio-banovina.hr:8008/listen.pls
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/8c4808_c1262b28e3614abc9485ac5d2a69462b%7emv2.jpg/v1/fill/w_32%2ch_32%2clg_1%2cusm_0.66_1.00_0.01/8c4808_c1262b28e3614abc9485ac5d2a69462b%7emv2.jpg" group-title="",Radio BINA
-http://listen.radioking.com/radio/372715/stream/422872
-#EXTINF:-1 tvg-logo="http://www.manastir-lepavina.org/favicon.ico" group-title="ortodox",Radio Blagovesti
+#EXTINF:-1 tvg-logo="http://www.manastir-lepavina.org/favicon.ico" group-title="orthodox,religious",Radio Blagovesti
 http://radio.manastir-lepavina.org:8000/
-#EXTINF:-1 tvg-logo="" group-title="",Radio Brac
+#EXTINF:-1 tvg-logo="https://static.tuneyou.com/images/logos/500_500/59/359/RadioBrac_4.png" group-title="pop,hits",Radio Brac
 http://s8.iqstreaming.com:8066/stream
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/logo/2/23862.v4.png" group-title="folk,information,local news,pop,rock",Radio Centar Studio Poreč
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/logo/2/23862.v4.png" group-title="folk,news,pop",Radio Centar Studio Poreč
 http://radiocentar.hr:8282/mp3
-#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/5uLKDLksVe.png" group-title="dalmatia,hits,pop,regional,split",Radio Dalmacija
+#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/5uLKDLksVe.png" group-title="hits,pop,world",Radio Dalmacija
 http://shoutcast.pondi.hr:8000/listen.pls
 #EXTINF:-1 tvg-logo="http://www.deejay.hr/wp-content/themes/rdj/img/fav/android-icon-192x192.png" group-title="dance,electronica,pop",Radio Deejay HR
 http://live.deejay.hr:7002/listen.pls
-#EXTINF:-1 tvg-logo="" group-title="",Radio DJ Grga
+#EXTINF:-1 tvg-logo="https://djgrga-radio.com/wp-content/uploads/2017/01/DJGrga-slider-logo-1.png" group-title="dj,dance",Radio DJ Grga
 http://cmr-hosting.com:8430/stream?type=http&nocache=343
-#EXTINF:-1 tvg-logo="https://radio.hrt.hr/static/img/favicon.png" group-title="",RADIO DUBROVNIK
+#EXTINF:-1 tvg-logo="https://radio.hrt.hr/static/img/favicon.png" group-title="world,variety",Radio Dubrovnik
 https://playerservices.streamtheworld.com/api/livestream-redirect/DUBROVNIK.mp3
-#EXTINF:-1 tvg-logo="http://mcp1.mydataknox.com:8012/stream" group-title="",Radio Eurostar Umag
+#EXTINF:-1 tvg-logo="http://mcp1.mydataknox.com:8012/stream" group-title="pop,news,talk",Radio Eurostar Umag
 http://mcp1.mydataknox.com:8012/stream
-#EXTINF:-1 tvg-logo="" group-title="folk,local news,pop",Radio Gorski kotar
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGEPUvKzE0kv6LqeYZNj-lh5UqWmyQ3YY58A&s" group-title="folk,news,pop",Radio Gorski Kotar
 http://144.76.39.214:9500/stream.mp3
-#EXTINF:-1 tvg-logo="http://www.grubisnopolje.hr/media/image/gradske-tvrtke/radio-grubisno-polje/radio-logo.jpg" group-title="folk,local news,pop",Radio Grubišno Polje
+#EXTINF:-1 tvg-logo="http://www.grubisnopolje.hr/media/image/gradske-tvrtke/radio-grubisno-polje/radio-logo.jpg" group-title="folk,news,pop",Radio Grubišno Polje
 https://ec2s.crolive.com.hr:8215/stream
 #EXTINF:-1 tvg-logo="" group-title="",Radio Hrvat
 http://213.239.215.181:9036/stream
