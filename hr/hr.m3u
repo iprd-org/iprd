@@ -199,93 +199,91 @@ http://mcp1.mydataknox.com:8012/stream
 http://144.76.39.214:9500/stream.mp3
 #EXTINF:-1 tvg-logo="http://www.grubisnopolje.hr/media/image/gradske-tvrtke/radio-grubisno-polje/radio-logo.jpg" group-title="folk,news,pop",Radio Grubišno Polje
 https://ec2s.crolive.com.hr:8215/stream
-#EXTINF:-1 tvg-logo="" group-title="",Radio Hrvat
+#EXTINF:-1 tvg-logo="https://www.radio.fr/images/broadcasts/50/fb/117075/1/c300.png" group-title="folk,world",Radio Hrvat
 http://213.239.215.181:9036/stream
-#EXTINF:-1 tvg-logo="https://radioimotski.hr/favicon.ico" group-title="pop music",Radio Imotski 107.4 FM
+#EXTINF:-1 tvg-logo="https://radioimotski.hr/favicon.ico" group-title="pop,hits",Radio Imotski 107.4
 http://radioimotski.radioca.st/stream
-#EXTINF:-1 tvg-logo="https://www.radio-jaska.hr/wp-content/uploads/fbrfg/favicon-32x32.png?v=eE53zgBdb8" group-title="folk music,local news,pop",Radio Jaska
+#EXTINF:-1 tvg-logo="https://www.radio-jaska.hr/wp-content/uploads/fbrfg/favicon-32x32.png?v=eE53zgBdb8" group-title="folk,news,pop",Radio Jaska
 https://uk1.streamingpulse.com/ssl/RadioJaska
-#EXTINF:-1 tvg-logo="https://radio.hrt.hr/static/img/favicon.png" group-title="",RADIO KNIN
+#EXTINF:-1 tvg-logo="https://radio.hrt.hr/static/img/favicon.png" group-title="hits,pop,world",Radio Knin
 https://playerservices.streamtheworld.com/api/livestream-redirect/KNIN.mp3
-#EXTINF:-1 tvg-logo="http://www.radio-koprivnica.hr/favicon.ico" group-title="",Radio Koprivnica
+#EXTINF:-1 tvg-logo="http://www.radio-koprivnica.hr/favicon.ico" group-title="news,variety",Radio Koprivnica 91.7
 http://194.152.206.205:8000/
-#EXTINF:-1 tvg-logo="http://radiokorzo.hr/favicon.ico" group-title="alternative,indie rock,local news,pop,punk",Radio Korzo
+#EXTINF:-1 tvg-logo="http://radiokorzo.hr/favicon.ico" group-title="alternative,indie,rock",Radio Korzo
 https://c2.hostingcentar.com/streams/radiokorzo/stream/premium.pls
-#EXTINF:-1 tvg-logo="" group-title="folk,local news,pop",Radio Križevci
+#EXTINF:-1 tvg-logo="https://mediadaily.biz/wp-content/uploads/2022/05/radio-krizevci.jpg" group-title="folk,news,pop",Radio Križevci 96.6
 https://s8.iqstreaming.com:8048/stream
-#EXTINF:-1 tvg-logo="" group-title="folk",Radio Ludnica
+#EXTINF:-1 tvg-logo="https://static.tuneyou.com/images/logos/500_500/60/6260/RadioLudnica_5.jpg" group-title="folk,world",Radio Ludnica
 http://192.111.140.6:8222/
-#EXTINF:-1 tvg-logo="https://www.radio-m.hr/templates/j51_scarlett/favicon.ico" group-title="",Radio M 90,1 MHz
+#EXTINF:-1 tvg-logo="https://www.radio-m.hr/templates/j51_scarlett/favicon.ico" group-title="pop,news,talk",Radio M 90.1
 http://radiomvelaluka.ddns.net:8000/stream
-#EXTINF:-1 tvg-logo="https://www.radiomarija.hr/templates/t3_bs3_blank/favicon.ico" group-title="",RADIO MARIA
+#EXTINF:-1 tvg-logo="https://www.radiomarija.hr/templates/t3_bs3_blank/favicon.ico" group-title="catolica,christian,religious",Radio Maria
 http://dreamsiteradiocp.com:8026/stream?type=http&nocache=215
-#EXTINF:-1 tvg-logo="" group-title="catholic,catolica,christian,katholik,katoliška,religion,religious,talk",RADIO MARIA CROATIA
+#EXTINF:-1 tvg-logo="https://www.radiomarija.hr/templates/t3_bs3_blank/favicon.ico" group-title="catolica,christian,religious",Radio Maria
 http://dreamsiteradiocp4.com:8080/stream
-#EXTINF:-1 tvg-logo="" group-title="catholic",Radio Marija
-http://dreamsiteradiocp4.com:8080/
-#EXTINF:-1 tvg-logo="http://www.rmb.hr/wp-content/themes/metro-pro/images/favicon.ico" group-title="folk music,local news,pop",Radio Marija Bistrica
+#EXTINF:-1 tvg-logo="http://www.rmb.hr/wp-content/themes/metro-pro/images/favicon.ico" group-title="folk,news,pop",Radio Marija Bistrica
 http://178.218.163.171:8024/stream
-#EXTINF:-1 tvg-logo="https://www.radio-martin.hr/favicon.ico" group-title="",Radio Martin
+#EXTINF:-1 tvg-logo="https://www.radio-martin.hr/favicon.ico" group-title="world,pop,top 40",Radio Martin
 http://genf196.server4you.de:8585/
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/ios_favicon.png" group-title="",Radio Media Servis
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/ios_favicon.png" group-title="pop,news,talk",Radio Media Servis
 http://live.mediaservis.hr:8084/stream?type=http&nocache=557757
-#EXTINF:-1 tvg-logo="https://radiong.hr/wp-content/uploads/2015/10/cropped-logo-180x180.png" group-title="folk,local news,pop",Radio Nova Gradiška
+#EXTINF:-1 tvg-logo="https://radiong.hr/wp-content/uploads/2015/10/cropped-logo-180x180.png" group-title="folk,news,pop",Radio Nova Gradiška
 http://comet.shoutca.st:8050/
-#EXTINF:-1 tvg-logo="http://www.radionovska.hr//favicon.ico" group-title="",Radio Novska
+#EXTINF:-1 tvg-logo="http://www.radionovska.hr//favicon.ico" group-title="pop,sports,top 40",Radio Novska
 http://genf196.server4you.de:8686/
-#EXTINF:-1 tvg-logo="https://www.radioorahovica.com/logo/logo.png" group-title="news",Radio Orahovica
+#EXTINF:-1 tvg-logo="https://www.radioorahovica.com/logo/logo.png" group-title="news,talk",Radio Orahovica 95.7
 https://ec2s.crolive.com.hr:2595/stream
-#EXTINF:-1 tvg-logo="https://ca0-cdn.onlineradiobox.com/img/l/0/47310.v2.png" group-title="",Radio Otocac
+#EXTINF:-1 tvg-logo="https://ca0-cdn.onlineradiobox.com/img/l/0/47310.v2.png" group-title="pop,news,talk",Radio Otocac
 http://s8.iqstreaming.com:8024/stream
 #EXTINF:-1 tvg-logo="https://radioposavina.com/favicon.ico" group-title="pop,top 40",Radio Posavina
 http://cmr-hosting.com:8500/;stream.mp3
-#EXTINF:-1 tvg-logo="https://www.radioploce.hr/wp-content/themes/rpp/apple-touch-icon.png" group-title="",Radio Ploce 64,5 MHz
+#EXTINF:-1 tvg-logo="https://www.radioploce.hr/wp-content/themes/rpp/apple-touch-icon.png" group-title="news,talk",Radio Ploce 64.5
 http://178.218.163.171:8010/ploce
-#EXTINF:-1 tvg-logo="http://www.radioprkos.hr/images/header-logo.png" group-title="folk,local news,pop",Radio Prkos
+#EXTINF:-1 tvg-logo="http://www.radioprkos.hr/images/header-logo.png" group-title="folk,news,pop",Radio Prkos
 http://eu7.fastcast4u.com:6124/stream
-#EXTINF:-1 tvg-logo="http://quirinusportal.com/favicon.ico" group-title="",Radio Quirinus 91.7
+#EXTINF:-1 tvg-logo="http://quirinusportal.com/favicon.ico" group-title="pop,news,talk",Radio Quirinus 91.7
 http://s8.iqstreaming.com:8064/stream
-#EXTINF:-1 tvg-logo="https://www.radio-roza.org/images/rr_favicon.png" group-title="",Radio Roza
+#EXTINF:-1 tvg-logo="https://www.radio-roza.org/images/rr_favicon.png" group-title="community,variety",Radio Roza
 http://stream.radio-roza.org/live.mp3
-#EXTINF:-1 tvg-logo="http://www.radiosamobor.hr/cms/wp-content/uploads/2014/06/favicon.ico" group-title="folk,local news,pop",Radio Samobor
+#EXTINF:-1 tvg-logo="http://www.radiosamobor.hr/cms/wp-content/uploads/2014/06/favicon.ico" group-title="folk,news,pop",Radio Samobor
 http://185.150.235.162/
-#EXTINF:-1 tvg-logo="" group-title="local news,pop rock",Radio Slavonija
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/47/a7/8317/c300.png" group-title="news,pop,rock",Radio Slavonija
 http://s8.iqstreaming.com:8026/stream
-#EXTINF:-1 tvg-logo="https://www.radio.net/assets/fav/apple-touch-icon.png" group-title="",RADIO SPLIT - HRVATSKI RADIO
+#EXTINF:-1 tvg-logo="https://www.radio.net/assets/fav/apple-touch-icon.png" group-title="hits,pop",Radio Split
 https://playerservices.streamtheworld.com/api/livestream-redirect/SPLIT.mp3
-#EXTINF:-1 tvg-logo="https://radio-stubica.hr/wp-content/uploads/2020/11/radiostubicafavicon.png" group-title="folklore,pop music",Radio stubica
+#EXTINF:-1 tvg-logo="https://radio-stubica.hr/wp-content/uploads/2020/11/radiostubicafavicon.png" group-title="folk,pop",Radio Stubica
 http://radiostubica.hc.hr:7006/stream
-#EXTINF:-1 tvg-logo="http://www.radiostudent.hr/wp-content/uploads/2014/03/radiostudent_logo.jpg" group-title="hrvatska,student,student radio",Radio Student
+#EXTINF:-1 tvg-logo="http://www.radiostudent.hr/wp-content/uploads/2014/03/radiostudent_logo.jpg" group-title="world,college",Radio Student
 http://161.53.122.184:8000/AAC128.aac
-#EXTINF:-1 tvg-logo="http://www.uzivoradio.com/thumbnails/fb-thumb.gif" group-title="helth,world music",Radio Sunce
+#EXTINF:-1 tvg-logo="http://www.uzivoradio.com/thumbnails/fb-thumb.gif" group-title="relax,world",Radio Sunce
 http://shoutcast.pondi.hr:8002/;*.mp3
-#EXTINF:-1 tvg-logo="" group-title="electronic",Radio Techno Dance Kneginec
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuUUzMD28qDEEbK1tRWezd4lKzeSkFxmReJA&s" group-title="electronic,dance",Radio Techno Dance
 http://stream.zeno.fm/8d2pyzm5wp8uv?rj-ttl=5&rj-tok=AAABfd0phy8AWRspuI-L0VD51w
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/logo/1/24081.v7.png" group-title="folk,local news,pop",Radio Vinkovci
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/logo/1/24081.v7.png" group-title="folk,news,pop",Radio Vinkovci
 http://radio.novosti.hr:9310/;stream.nsv
-#EXTINF:-1 tvg-logo="" group-title="croatian pop music",Radio Vrbovec 94.5
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLN6AoGAm609MBP3OWrd7Q8vfANb0J8q5uf2UOu6yCDzciGCF7xJRexIqFayRCNijsA9w&usqp=CAU" group-title="world,pop",Radio Vrbovec 94.5
 http://c2.hostingcentar.com:9452/listen.pls
-#EXTINF:-1 tvg-logo="http://www.radiostudent.hr//favicon.ico" group-title="pop,rock,zagreb",Radio100.5 Student Zagreb
+#EXTINF:-1 tvg-logo="http://www.radiostudent.hr//favicon.ico" group-title="pop,rock",Radio 100.5 Student
 http://161.53.122.184:8000/aacPlus48.aac
-#EXTINF:-1 tvg-logo="http://radio101.hr/wp-content/uploads/2017/07/cropped-Untitled-design-1-270x270.png" group-title="local news,news,pop,pop rock,rock",Radio101
+#EXTINF:-1 tvg-logo="http://radio101.hr/wp-content/uploads/2017/07/cropped-Untitled-design-1-270x270.png" group-title="news,pop,rock",Radio101
 http://live.radio101.hr:9531/
-#EXTINF:-1 tvg-logo="https://www.slavonskiradio.hr/wp-content/uploads/2019/02/krug-logo-slavonski-transparent.png" group-title="hits,pop,rock,slavonija,various",Slavonski Radio
+#EXTINF:-1 tvg-logo="https://www.slavonskiradio.hr/wp-content/uploads/2019/02/krug-logo-slavonski-transparent.png" group-title="hits,pop,rock",Slavonski Radio
 https://ec2s.crolive.com.hr:8035/stream
-#EXTINF:-1 tvg-logo="https://www.soundsetragusa.hr/sites/all/themes/ragusa/logo.png" group-title="dubrovnik,pop,rock",Soundset Ragusa
+#EXTINF:-1 tvg-logo="https://www.soundsetragusa.hr/sites/all/themes/ragusa/logo.png" group-title="pop,rock",Soundset Ragusa
 http://178.218.163.171:8012/stream
-#EXTINF:-1 tvg-logo="http://radio.etfos.hr/wp-content/uploads/2015/02/favicon.ico" group-title="education,information,local news,pop,rock",Studentski radio UNIOS
+#EXTINF:-1 tvg-logo="http://radio.etfos.hr/wp-content/uploads/2015/02/favicon.ico" group-title="education,news,pop",Studentski Radio Unios
 http://radio.unios.hr:8000/stream.mp3
-#EXTINF:-1 tvg-logo="https://mcp1.mydataknox.com:2000/system/theme/Material/images/favicon.ico" group-title="folk music,local news,pop",Super Radio
+#EXTINF:-1 tvg-logo="https://mcp1.mydataknox.com:2000/system/theme/Material/images/favicon.ico" group-title="folk,news,pop",Super Radio
 http://mcp1.mydataknox.com:8010/stream
-#EXTINF:-1 tvg-logo="https://topradio.hr/wp-content/uploads/2020/06/cropped-TOP-RADIO-favicon-1-32x32.png" group-title="",Top Radio
+#EXTINF:-1 tvg-logo="https://topradio.hr/wp-content/uploads/2020/06/cropped-TOP-RADIO-favicon-1-32x32.png" group-title="oldies,hits,rock",Top Radio
 https://c5.hostingcentar.com/streams/topradio/
-#EXTINF:-1 tvg-logo="" group-title="classic hits,classic rock,news talk,rock",Top Radio
+#EXTINF:-1 tvg-logo="https://topradio.hr/wp-content/uploads/2020/06/cropped-TOP-RADIO-favicon-1-32x32.png" group-title="oldies,hits,rock",Top Radio
 http://c5.hostingcentar.com:8000/streams/topradio/
-#EXTINF:-1 tvg-logo="" group-title="",Tvoj Feel Good radio ! Otvoreni
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPa_lM9AZT9sJ-aXCx_o3B6go5JO_EnjXtFw&s" group-title="sports,news,pop",Otvoreni 103.3
 https://stream2.otvoreni.hr/otvoreni
-#EXTINF:-1 tvg-logo="" group-title="split,ultra stacion",ULTRA Split
+#EXTINF:-1 tvg-logo="https://ultrasplit.hr/wp-content/uploads/2018/06/logo-novi-pravokutni-e1625474521859-690x302.jpeg" group-title="pop,world",Ultra
 http://c5.hostingcentar.com:8061/stream
-#EXTINF:-1 tvg-logo="https://www.yammat.fm/wp-content/themes/yammat/src/img/favicon/120x120.png" group-title="",Yammat FM
+#EXTINF:-1 tvg-logo="https://www.yammat.fm/wp-content/themes/yammat/src/img/favicon/120x120.png" group-title="top 40,pop,rock",Yammat 102.5
 https://streaming.radio.co/s5ad4b474a/listen
 #EXTINF:-1 tvg-logo="https://zfm.hr/wp-content/uploads/2020/01/LOGO-2019-MINI.png" group-title="80s,pop",ZFM
 https://ec2s.crolive.com.hr:7015/stream
