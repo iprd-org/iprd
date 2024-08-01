@@ -1,75 +1,75 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://www.popularis.hu/radio/aktiv.png" group-title="pop",Aktív Rádió
+#EXTINF:-1 tvg-logo="http://www.popularis.hu/radio/aktiv.png" group-title="adult,contemporary,pop",Aktív Rádió 92.2
 http://aktivradio.hu:8000/aktiv.mp3
-#EXTINF:-1 tvg-logo="http://www.balatonfm.hu///templates/br14/favicon.ico" group-title="pop",Balaton Rádió
+#EXTINF:-1 tvg-logo="http://www.balatonfm.hu///templates/br14/favicon.ico" group-title="pop,top 40",Balaton Rádió 88.7
 http://91.82.85.41:8200/listen.pls
-#EXTINF:-1 tvg-logo="http://www.balatonica.hu//themes/2017/assets/ico/favicon.ico" group-title="chillout,lounge",BALATONICA RADIO
+#EXTINF:-1 tvg-logo="http://www.balatonica.hu//themes/2017/assets/ico/favicon.ico" group-title="chillout,lounge",Balatonica Radio
 http://balatonica.hu:8000/stream_high
-#EXTINF:-1 tvg-logo="http://operavilag.net/wp-content/uploads/hirmondo-kaleidoszkop/2013/09/24/11921/bartok_radio_thumb.png" group-title="classical,cultural,duna média,jazz,public radio",Bartók Rádió
+#EXTINF:-1 tvg-logo="http://operavilag.net/wp-content/uploads/hirmondo-kaleidoszkop/2013/09/24/11921/bartok_radio_thumb.png" group-title="classical,cultural,jazz",Bartók Rádió
 http://mr-stream.mediaconnect.hu/4742/mr3hq.mp3
-#EXTINF:-1 tvg-logo="https://bdpstrock.hu/assets/img/front/favicon.ico" group-title="rock",BDPST ROCK -  192 kbit/s
+#EXTINF:-1 tvg-logo="https://bdpstrock.hu/assets/img/front/favicon.ico" group-title="rock,hits",BDPST ROCK
 http://stream.bdpstrock.hu/bdpstrock_192k
-#EXTINF:-1 tvg-logo="https://bdpstrock.hu/assets/img/front/favicon.ico" group-title="rock",BDPST ROCK -  320 kbit/s
+#EXTINF:-1 tvg-logo="https://bdpstrock.hu/assets/img/front/favicon.ico" group-title="rock,hits",BDPST ROCK
 http://stream.bdpstrock.hu/bdpstrock_320k
-#EXTINF:-1 tvg-logo="https://bdpstrock.hu/assets/img/front/favicon.ico" group-title="rock",BDPST ROCK -  96 kbit/slisten.pls
+#EXTINF:-1 tvg-logo="https://bdpstrock.hu/assets/img/front/favicon.ico" group-title="rock,hits",BDPST ROCK
 http://stream.bdpstrock.hu/bdpstrock_128k
 #EXTINF:-1 tvg-logo="http://www.popularis.hu/radio/radio-fm-95.png" group-title="pop,rock",Best FM
 http://stream.webthings.hu:8000/fm95-x-128.mp3
-#EXTINF:-1 tvg-logo="" group-title="",Bithang Yoo Rádió
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/2/78492.v6.png" group-title="variety,news",Bithang Yoo Rádió
 http://stream.diazol.hu:35160/live.mp3
 #EXTINF:-1 tvg-logo="https://www.buddhafm.hu/wp-content/uploads/2021/07/cropped-android-chrome-512x512-1-180x180.png" group-title="buddhism,religion,spirituality",Buddha FM
 http://libretime.buddhafm.hu:4000/buddhafm
-#EXTINF:-1 tvg-logo="" group-title="",Callisto
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/02/45/1467/c300.png" group-title="hits,80s,90s",Callisto
 http://188.165.11.30:4500/live.mp3
-#EXTINF:-1 tvg-logo="http://sos.civilradio.hu/wp-content/uploads/dynamik-gen/theme/images/civil-foot.png" group-title="community radio",Civil Rádió
+#EXTINF:-1 tvg-logo="http://sos.civilradio.hu/wp-content/uploads/dynamik-gen/theme/images/civil-foot.png" group-title="community,variety",Civil Rádió
 http://civilradio.hu:8000/;stream
-#EXTINF:-1 tvg-logo="" group-title="pop,university radio",Cool FM
+#EXTINF:-1 tvg-logo="https://onlinestream.live/logos/5386.png" group-title="pop,university",Cool FM
 http://mediagw.e-tiger.net/stream/cfmhq
-#EXTINF:-1 tvg-logo="" group-title="classic hits,university radio",Cool FM - Goldie'S
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s288308/images/logog.png?t=1653525921000" group-title="hits,university",Cool FM Goldies
 http://mediagw.e-tiger.net:8000/stream/goldhq
-#EXTINF:-1 tvg-logo="" group-title="alternative,pop,university radio",Cool FM - kultX
+#EXTINF:-1 tvg-logo="https://zeno.fm/radio/coolfm-kultx-online/" group-title="alternative,pop,university",Cool FM kultX
 http://mediagw.e-tiger.net/stream/krehq
-#EXTINF:-1 tvg-logo="" group-title="dance,university radio",Cool FM - Xbeat
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s169655/images/logog.png?t=1653527051000" group-title="dance,university",Cool FM Xbeat
 http://mediagw.e-tiger.net/stream/xbeathq
-#EXTINF:-1 tvg-logo="https://coolfm.hu/radio/wp-content/uploads/2021/01/rock.jpg" group-title="classic rock,rock",COOLFM (Classic) Rock
+#EXTINF:-1 tvg-logo="https://coolfm.hu/radio/wp-content/uploads/2021/01/rock.jpg" group-title="oldies,rock",COOLFM Classic Rock
 https://mediagw.e-tiger.net/stream/zc10
-#EXTINF:-1 tvg-logo="https://coolfm.hu/radio/wp-content/uploads/2021/01/2000s.jpg" group-title="00s,2000s,top hits",COOLFM 2000-es évek
+#EXTINF:-1 tvg-logo="https://coolfm.hu/radio/wp-content/uploads/2021/01/2000s.jpg" group-title="00s,2000s,hits",COOLFM 2000-es évek
 https://mediagw.e-tiger.net/stream/zc03
-#EXTINF:-1 tvg-logo="https://coolfm.hu/radio/wp-content/uploads/2021/01/2010s.jpg" group-title="10s,2010s,top hits",COOLFM 2010-es évek
+#EXTINF:-1 tvg-logo="https://coolfm.hu/radio/wp-content/uploads/2021/01/2010s.jpg" group-title="10s,2010s,hits",COOLFM 2010-es évek
 https://mediagw.e-tiger.net/stream/zc02
-#EXTINF:-1 tvg-logo="https://coolfm.hu/radio/wp-content/uploads/2021/01/90s.jpg" group-title="1990s,90s,top hits",COOLFM 90-es évek
+#EXTINF:-1 tvg-logo="https://coolfm.hu/radio/wp-content/uploads/2021/01/90s.jpg" group-title="1990s,90s,hits",COOLFM 90-es évek
 https://mediagw.e-tiger.net/stream/zc05
-#EXTINF:-1 tvg-logo="https://coolfm.hu/radio/wp-content/uploads/2021/01/acoustic.jpg" group-title="acoustic,guitar,guitar rock",COOLFM Acoustic
+#EXTINF:-1 tvg-logo="https://coolfm.hu/radio/wp-content/uploads/2021/01/acoustic.jpg" group-title="acoustic,guitar,rock",COOLFM Acoustic
 https://mediagw.e-tiger.net/stream/zc12
-#EXTINF:-1 tvg-logo="https://coolfm.hu/radio/wp-content/uploads/2021/01/best-hits-ever.jpg" group-title="top charts,top hits,top40",COOLFM Best Hits EVER
+#EXTINF:-1 tvg-logo="https://coolfm.hu/radio/wp-content/uploads/2021/01/best-hits-ever.jpg" group-title="top 40,hits",COOLFM Best Hits EVER
 https://mediagw.e-tiger.net/stream/zc11
-#EXTINF:-1 tvg-logo="https://coolfm.hu/radio/wp-content/uploads/2021/01/bside.jpg" group-title="alternative,alternative rock,indie",COOLFM Bside/Alternative
+#EXTINF:-1 tvg-logo="https://coolfm.hu/radio/wp-content/uploads/2021/01/bside.jpg" group-title="alternative,rock,indie",COOLFM Bside/Alternative
 https://mediagw.e-tiger.net/stream/zc16
-#EXTINF:-1 tvg-logo="https://coolfm.hu/radio/wp-content/uploads/2021/01/chill.jpg" group-title="chillout,lounge music,relax",COOLFM Chill
+#EXTINF:-1 tvg-logo="https://coolfm.hu/radio/wp-content/uploads/2021/01/chill.jpg" group-title="chillout,lounge,relax",COOLFM Chill
 https://mediagw.e-tiger.net/stream/zc24
 #EXTINF:-1 tvg-logo="https://coolfm.hu/radio/wp-content/uploads/2021/01/funky.jpg" group-title="funky,soul",COOLFM Funky&Soul
 https://mediagw.e-tiger.net/stream/zc25
-#EXTINF:-1 tvg-logo="https://coolfm.hu/radio/wp-content/uploads/2021/01/hazai-kedvencek.jpg" group-title="all-time favourites,hungarian pop music,top",COOLFM Hazai Kedvencek
+#EXTINF:-1 tvg-logo="https://coolfm.hu/radio/wp-content/uploads/2021/01/hazai-kedvencek.jpg" group-title="favourites,world,pop",COOLFM Hazai Kedvencek
 https://mediagw.e-tiger.net/stream/zc19
-#EXTINF:-1 tvg-logo="https://coolfm.hu/radio/wp-content/uploads/2021/01/jazz.jpg" group-title="jazz,smooth jazz",COOLFM Jazz
+#EXTINF:-1 tvg-logo="https://coolfm.hu/radio/wp-content/uploads/2021/01/jazz.jpg" group-title="jazz,smooth",COOLFM Jazz
 https://mediagw.e-tiger.net/stream/zc13
-#EXTINF:-1 tvg-logo="https://coolfm.hu/radio/wp-content/uploads/2021/01/christmas.jpg" group-title="christmas music,holiday",COOLFM Karácsonyi Dalok
+#EXTINF:-1 tvg-logo="https://coolfm.hu/radio/wp-content/uploads/2021/01/christmas.jpg" group-title="christmas,holiday",COOLFM Karácsonyi Dalok
 https://mediagw.e-tiger.net/stream/zc27
-#EXTINF:-1 tvg-logo="https://coolfm.hu/radio/wp-content/uploads/2021/01/love-songs.jpg" group-title="love songs,romantic music,smooth",COOLFM Love Songs
+#EXTINF:-1 tvg-logo="https://coolfm.hu/radio/wp-content/uploads/2021/01/love-songs.jpg" group-title="ballads,romantic,smooth",COOLFM Love Songs
 https://mediagw.e-tiger.net/stream/zc21
 #EXTINF:-1 tvg-logo="https://coolfm.hu/radio/wp-content/uploads/2021/01/summer-hits.jpg" group-title="hits,party,summer",COOLFM Nyári Slágerek
 https://mediagw.e-tiger.net/stream/zc09
-#EXTINF:-1 tvg-logo="https://coolfm.hu/radio/wp-content/uploads/2021/01/party.jpeg" group-title="party hits,partymix,top hits",COOLFM Party
+#EXTINF:-1 tvg-logo="https://coolfm.hu/radio/wp-content/uploads/2021/01/party.jpeg" group-title="party,mixes,hits",COOLFM Party
 https://mediagw.e-tiger.net/stream/zc18
-#EXTINF:-1 tvg-logo="https://coolfm.hu/radio/wp-content/uploads/2021/01/sport.jpg" group-title="fitness music,running,workout",COOLFM Sportoláshoz
+#EXTINF:-1 tvg-logo="https://coolfm.hu/radio/wp-content/uploads/2021/01/sport.jpg" group-title="fitness,running,workout",COOLFM Sportoláshoz
 https://mediagw.e-tiger.net/stream/zc20
-#EXTINF:-1 tvg-logo="https://coolfm.hu/radio/wp-content/uploads/2021/01/world-music.jpg" group-title="world music",COOLFM World Music
+#EXTINF:-1 tvg-logo="https://coolfm.hu/radio/wp-content/uploads/2021/01/world-music.jpg" group-title="world,variety",COOLFM World Music
 https://mediagw.e-tiger.net/stream/zc26
-#EXTINF:-1 tvg-logo="https://coolfm.hu/radio/wp-content/uploads/2021/01/youtube.jpg" group-title="hot adult contemporary,top hits,young adults",COOLFM YouTube HOT HITS!
+#EXTINF:-1 tvg-logo="https://coolfm.hu/radio/wp-content/uploads/2021/01/youtube.jpg" group-title="adult,contemporary,hits",COOLFM YouTube HOT HITS!
 https://mediagw.e-tiger.net/stream/zc22
-#EXTINF:-1 tvg-logo="" group-title="classical",coronita fm
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7kbwKSpGtVgTwTF-Zf1fXb98NcKqTBitJCw&s" group-title="classical,baroque",Coronita FM
 http://stream.zeno.fm/ktzdc7rf7f0uv?rj-ttl=5&rj-tok=AAABfd3cUKkA68ybm8hvcdRJVg
-#EXTINF:-1 tvg-logo="https://www.csillagpontradio.hu/sites/www.csillagpontradio.hu/themes/cspr_bootstrap/logo.png" group-title="local radio",Csillagpont Rádió
+#EXTINF:-1 tvg-logo="https://www.csillagpontradio.hu/sites/www.csillagpontradio.hu/themes/cspr_bootstrap/logo.png" group-title="talk,adult,contemporary",Csillagpont Rádió 94.0
 http://streamer1.borsodweb.hu:48000/csillagpont
 #EXTINF:-1 tvg-logo="http://retro.dancewave.online/dw-logo_s.png" group-title="90s,eurodance",Dance Wave Retro!
 http://stream.dancewave.online:8080/retrodance.mp3
@@ -77,17 +77,17 @@ http://stream.dancewave.online:8080/retrodance.mp3
 http://stream2.dancewave.online:8080/dance.ogg
 #EXTINF:-1 tvg-logo="http://dancewave.online/dw-logo_s.png" group-title="dance,house,trance",Dance Wave!
 http://stream.dancewave.online:8080/dance.mp3
-#EXTINF:-1 tvg-logo="https://myradiostream.com/station/uploads/logo/f576ba66ca87d279b1d5093843b3d7a48ac53c90.png" group-title="adult album alternative,dance,edm,edm podcast,hits,new releases,pop",DANCEable Radio
+#EXTINF:-1 tvg-logo="https://myradiostream.com/station/uploads/logo/f576ba66ca87d279b1d5093843b3d7a48ac53c90.png" group-title="adult,alternative,dance",DANCEable Radio
 http://176.31.244.83:35944/listen.pls
-#EXTINF:-1 tvg-logo="http://radjo.hu/wp-content/uploads/2015/04/Danko-Radio-Online.jpg" group-title="duna média,folk,operetta,public radio",Dankó Rádió
+#EXTINF:-1 tvg-logo="http://radjo.hu/wp-content/uploads/2015/04/Danko-Radio-Online.jpg" group-title="folk,operetta,public",Dankó Rádió
 http://mr-stream.mediaconnect.hu/4747/mr7.aac
-#EXTINF:-1 tvg-logo="" group-title="",Danubius
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ryU4uW58pPU1mIpsOqyH4gD-x1pwa3XDyS9UetN71fqg-lQjbPCkN1MHxXsTVBx6dxw=w600-h300-pc0xffffff-pd" group-title="pop,retro,hits",Danubius Rádió
 https://stream.danubiusradio.hu/danubius_320k
-#EXTINF:-1 tvg-logo="" group-title="classical",Danubius radio
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ryU4uW58pPU1mIpsOqyH4gD-x1pwa3XDyS9UetN71fqg-lQjbPCkN1MHxXsTVBx6dxw=w600-h300-pc0xffffff-pd" group-title="pop,retro,hits",Danubius Rádió
 https://s01.diazol.hu:35002/live.mp3
-#EXTINF:-1 tvg-logo="" group-title="pop",Danubius Rádió
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ryU4uW58pPU1mIpsOqyH4gD-x1pwa3XDyS9UetN71fqg-lQjbPCkN1MHxXsTVBx6dxw=w600-h300-pc0xffffff-pd" group-title="pop,retro,hits",Danubius Rádió
 http://stream.danubiusradio.hu/danubius_128k
-#EXTINF:-1 tvg-logo="" group-title="classical",DEEPHOUSE
+#EXTINF:-1 tvg-logo="https://myonlineradio.hu/public/uploads/radio_img/dance-music/play_250_250.webp" group-title="dance,edm,electronic",Deep House
 https://stream1.rdstrm.com/deep-house-radio-dance-music.mp3
 #EXTINF:-1 tvg-logo="" group-title="classical",disco diamond 2
 http://discodiamond.radioca.st/stream
