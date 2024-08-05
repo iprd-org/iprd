@@ -1,111 +1,103 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/0/82050.v3.png" group-title="media kristen",Akurat FM Solo
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/0/82050.v3.png" group-title="christian,gospel",Akurat Radio
 http://c1.siar.us:9350/stream
-#EXTINF:-1 tvg-logo="http://radioamoeba.com/wp-content/uploads/2018/07/cropped-logo-amoeba-bangka2-32x32.png" group-title="islam,salafiyyah,sunnah",AMOEBA FM
+#EXTINF:-1 tvg-logo="http://radioamoeba.com/wp-content/uploads/2018/07/cropped-logo-amoeba-bangka2-32x32.png" group-title="islam,salafiyyah,sunnah",Amoeba FM
 http://live.syaria.net:9300/
-#EXTINF:-1 tvg-logo="https://www.andikafm.com/images/header/header_new_1.jpg" group-title="",Andika FM Kediri
+#EXTINF:-1 tvg-logo="https://www.andikafm.com/images/header/header_new_1.jpg" group-title="news,talk",Radio Andika Kediri 105.7
 http://andikafm.onlivestreaming.net:1057/stream
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/2/93182.v3.png" group-title="media kristen",Bahtera Yudha FM Surabaya
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/2/93182.v3.png" group-title="christian,gospel",Bahtera Yudha 96.4
 http://streaming.bahterayudhafm.com:8050/;rojer.mp3
-#EXTINF:-1 tvg-logo="" group-title="islamic,radio muslim,sunnah",Bass FM 93.2 Salatiga
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/116243734.jpg" group-title="islamic,religious",Bass FM 93.2
 http://live.bassfm.id/
-#EXTINF:-1 tvg-logo="https://balaibudayaminomartani.files.wordpress.com/2018/04/cropped-logo-bbm-kecil.png?w=192" group-title="culture,gamelan,indonesian,javanese,local",BBMFM
+#EXTINF:-1 tvg-logo="https://balaibudayaminomartani.files.wordpress.com/2018/04/cropped-logo-bbm-kecil.png?w=192" group-title="culture,javanese,local",BBMFM
 http://stream.zeno.fm/kchb1gp3a1duv?rj-ttl=5&rj-tok=AAABfdqaq8EAEbp5G1E3gMoGUQ
-#EXTINF:-1 tvg-logo="" group-title="",Berita Satu News TV
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
-#EXTINF:-1 tvg-logo="https://bravaradio.com/wp-content/uploads/2014/12/favicon.png" group-title="",Brava Radio 103.8 FM Jakarta
+#EXTINF:-1 tvg-logo="https://bravaradio.com/wp-content/uploads/2014/12/favicon.png" group-title="world,pop",Brava Radio 103.8
 http://n0d.radiojar.com/5k7t0rq3bnzuv?rj-ttl=5&rj-tok=AAABfd5bx5MAylDyNtwd1vgEJg
-#EXTINF:-1 tvg-logo="https://spotlight.radiopublic.com/images/thumbnail?url=https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fproduction%2Fpodcast_uploaded%2F1770458%2F1770458-1557210470855-897d45509e5dc.jpg" group-title="",Cirebon radio 89.2
+#EXTINF:-1 tvg-logo="https://spotlight.radiopublic.com/images/thumbnail?url=https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fproduction%2Fpodcast_uploaded%2F1770458%2F1770458-1557210470855-897d45509e5dc.jpg" group-title="news,talk,hits",Cirebon Radio 89.2
 https://ssg.streamingmurah.com:8585/stream
-#EXTINF:-1 tvg-logo="https://cdn.cnnindonesia.com/cnnid/mobile/images/logo__cnn.png?v=10.2.7" group-title="news",CNN Indonesia
-https://live.cnnindonesia.com/livecnn/smil:cnntv/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo_cnn_fav.png" group-title="",CNN Indonesia TV
-http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w275412545_b384000_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://cosmopolitanfm.com/wp-content/uploads/2016/01/cosmopolitan_FM.png" group-title="family",Cosmopolitan
+#EXTINF:-1 tvg-logo="https://cosmopolitanfm.com/wp-content/uploads/2016/01/cosmopolitan_FM.png" group-title="contemporary,hits",Cosmopolitan 90.4
 https://n0d.radiojar.com/u7d8heq3bnzuv?rj-ttl=5&rj-tok=AAABfd2YdcoAsBw0h0yq2_vhZA
-#EXTINF:-1 tvg-logo="https://cosmopolitanfm.com/wp-content/uploads/2014/12/favicon.png" group-title="",Cosmopolitan 90.4 FM Jakarta
+#EXTINF:-1 tvg-logo="https://cosmopolitanfm.com/wp-content/uploads/2014/12/favicon.png" group-title="contemporary,hits",Cosmopolitan 90.4
 http://n05.radiojar.com/u7d8heq3bnzuv?rj-ttl=5&rj-tok=AAABfd31oeUAFtc75ZZMd7YwZA
-#EXTINF:-1 tvg-logo="https://cosmopolitanfm.com/wp-content/uploads/2016/01/cosmopolitan_FM.png" group-title="family",Cosmopolitan FM
+#EXTINF:-1 tvg-logo="https://cosmopolitanfm.com/wp-content/uploads/2016/01/cosmopolitan_FM.png" group-title="contemporary,hits",Cosmopolitan 90.4
 https://n10.radiojar.com/u7d8heq3bnzuv?rj-ttl=5&rj-tok=AAABfd2LlNsAENAhC2cPb3q_lw
-#EXTINF:-1 tvg-logo="" group-title="misc",Denger.in
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/81/26/8126ceb047f344037030f0ec795d265e.png" group-title="variety,pop,top 40",DMI Radio
 http://stream.denger.in:8888/dmi
-#EXTINF:-1 tvg-logo="http://elshaddaifm.com/styles/images/elshaddaifm.jpg" group-title="media kristen",EL SHADDAI FM SOLO
+#EXTINF:-1 tvg-logo="http://elshaddaifm.com/styles/images/elshaddaifm.jpg" group-title="christian,religious",El Shaddai
 http://shaddai.onlivestreaming.net:9130/live
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-34W3zxwUV3s/Xxt4aEddUII/AAAAAAAAbRk/z5KItZoR5TQThJmJ0MMXBd_g82GtC4_owCLcBGAsYHQ/s320/firza%2BRadio.png" group-title="madina",Firza Radio Madina
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-34W3zxwUV3s/Xxt4aEddUII/AAAAAAAAbRk/z5KItZoR5TQThJmJ0MMXBd_g82GtC4_owCLcBGAsYHQ/s320/firza%2BRadio.png" group-title="80s,pop,hits",Firza Radio Madina
 http://stream.zeno.fm/p63ug1un92quv?rj-ttl=5&rj-tok=AAABfdqkmIgA_v4Xv6ucWb6fNg
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-34W3zxwUV3s/Xxt4aEddUII/AAAAAAAAbRk/z5KItZoR5TQThJmJ0MMXBd_g82GtC4_owCLcBGAsYHQ/s320/firza%2BRadio.png" group-title="kampinang,muarasipongi",Firza Radio Medan
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-34W3zxwUV3s/Xxt4aEddUII/AAAAAAAAbRk/z5KItZoR5TQThJmJ0MMXBd_g82GtC4_owCLcBGAsYHQ/s320/firza%2BRadio.png" group-title="80s,pop,hits",Firza Radio Medan
 http://stream.zeno.fm/15cpxvzd4reuv?rj-ttl=5&rj-tok=AAABfd5s56QAd9g4SudVoHOllg
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-34W3zxwUV3s/Xxt4aEddUII/AAAAAAAAbRk/z5KItZoR5TQThJmJ0MMXBd_g82GtC4_owCLcBGAsYHQ/s320/firza%2BRadio.png" group-title="firza,urang awak",Firza Radio Padang
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-34W3zxwUV3s/Xxt4aEddUII/AAAAAAAAbRk/z5KItZoR5TQThJmJ0MMXBd_g82GtC4_owCLcBGAsYHQ/s320/firza%2BRadio.png" group-title="80s,pop,hits",Firza Radio Padang
 http://stream.zeno.fm/bwff5w3gtkeuv?rj-ttl=5&rj-tok=AAABfdp_EIEAZ1fQ_gs0zzX2Iw
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-34W3zxwUV3s/Xxt4aEddUII/AAAAAAAAbRk/z5KItZoR5TQThJmJ0MMXBd_g82GtC4_owCLcBGAsYHQ/s320/firza%2BRadio.png" group-title="salak sibakkua,tapanuli selatan",Firza Radio Tapsel
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-34W3zxwUV3s/Xxt4aEddUII/AAAAAAAAbRk/z5KItZoR5TQThJmJ0MMXBd_g82GtC4_owCLcBGAsYHQ/s320/firza%2BRadio.png" group-title="80s,pop,hits",Firza Radio Tapsel
 http://stream.zeno.fm/1rb7t4uh55quv?rj-ttl=5&rj-tok=AAABfd5o_swAnW9OuzaX-aCusA
-#EXTINF:-1 tvg-logo="" group-title="",GAJAHMADA FM SEMARANG
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShIS-ak74AiUf_wtzcont2wZCdlclicr63gnVis0qyk7kIGbxjG5yCBtW3cFkvdOaQsBg&usqp=CAU" group-title="variety,talk",Radio Gajahmada 102.4
 http://gajahmada.i.streaming.id:8000/live
-#EXTINF:-1 tvg-logo="" group-title="local music,local news",Gamasi
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiljYAWIz5djUWSapXDTBAApJtsGnPAaUn4HMjNoY8uprh7l-W_5Rd4DlhhzTRYq8kHGV_2I0_eK44u-AJYHj_-rdV4AH6eReBqyRoxYnX3Ao-9oWhCdsiOtwNnMhVL_rmguGmiRWQ2oad/w250-h170-c/gamasi-fm-makassar.png" group-title="world,news",Radio Gamasi 105.9
 http://s3.vinhostmedia.com:9504/listen.pls
-#EXTINF:-1 tvg-logo="https://gracealone.id/wp-content/uploads/2019/10/logo-114x114.png" group-title="media kristen",GRACE ALONE MINISTRY SURABAYA
+#EXTINF:-1 tvg-logo="https://gracealone.id/wp-content/uploads/2019/10/logo-114x114.png" group-title="religious,christian",Grace Alone Ministry
 http://u.klikhost.net:8000/gracealone
-#EXTINF:-1 tvg-logo="https://hardrockfm.com/wp-content/uploads/2015/03/favicon.png" group-title="",Hardrock 87.6 FM Jakarta
+#EXTINF:-1 tvg-logo="https://hardrockfm.com/wp-content/uploads/2015/03/favicon.png" group-title="alternative,rock",Hardrock 87.6
 http://n13.radiojar.com/7csmg90fuqruv?rj-ttl=5&rj-tok=AAABfdqLPswAPjTKZ0lb_d7-uw
-#EXTINF:-1 tvg-logo="https://hardrockfm.com/wp-content/uploads/2015/03/favicon.png" group-title="",HardRock FM Bandung
+#EXTINF:-1 tvg-logo="https://hardrockfm.com/wp-content/uploads/2015/03/favicon.png" group-title="rock,indie",Hard Rock 87.7 FM Bandung
 http://n04.radiojar.com/fnex9bkswk8uv?rj-ttl=5&rj-tok=AAABfds8vLUACCjcCHYKAxFG9g
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/5/20665.v1.png" group-title="media kristen",Harmoni FM Blitar
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/5/20665.v1.png" group-title="religious,christian",Harmoni FM
 http://cbnradio.streamguys1.com/praise-128K
-#EXTINF:-1 tvg-logo="https://heartline.co.id/favicon.ico" group-title="media kristen",Heartline FM Bali
+#EXTINF:-1 tvg-logo="https://heartline.co.id/favicon.ico" group-title="religious,christian",Heartline FM 
 http://202.129.186.43:7028/listen.pls
-#EXTINF:-1 tvg-logo="" group-title="indonesia,pop",I-Radio Jakarta
+#EXTINF:-1 tvg-logo="https://iradiofm.com/wp-content/uploads/2022/06/IRADIO-LOGO-BAWAH-2022-WEB.png" group-title="world,pop",iRadio 101.4
 http://n07.radiojar.com/4ywdgup3bnzuv?rj-ttl=5&rj-tok=AAABfdrf4YYAa0vvUeFJyu3Dqw
-#EXTINF:-1 tvg-logo="" group-title="international",Ihsan Radio
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIzewlV72TnEQpArJvE2un4friLsvhp76FNhohWYT4P_-kVdOQ_hDfCyAV2GsJfxvFAws&usqp=CAU" group-title="world,religious",Radio Ihsaan 102.1 
 http://stream.zeno.fm/m6rp25eu44zuv?rj-ttl=5&rj-tok=AAABfd4UO-kAa6Y8PkMrKzTMEQ
-#EXTINF:-1 tvg-logo="" group-title="media kristen",IMC Broadcasting
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/50/ab/18/50ab1847-b966-6202-bd8d-f28356c20c44/source/512x512bb.jpg" group-title="religious,christian",IMC Broadcasting
 http://server.jvhost.net:8021/live
-#EXTINF:-1 tvg-logo="" group-title="rock",Iradio FM
+#EXTINF:-1 tvg-logo="https://iradiofm.com/wp-content/uploads/2022/06/IRADIO-LOGO-BAWAH-2022-WEB.png" group-title="world,pop",iRadio 101.4
 http://n11.radiojar.com/4ywdgup3bnzuv?rj-ttl=5&rj-tok=AAABfd34z5EAmDC_E3d990qKqg
-#EXTINF:-1 tvg-logo="" group-title="",ISTANA FM TERNATE
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_YolEfOVj20Vl1hMgJ8_NYEiKvoTVYWhacg&s" group-title="pop,news",Istana FM Ternate 101.0
 http://svara-stream.radioddns.net:8000/ternate_istanafm_stereo
-#EXTINF:-1 tvg-logo="" group-title="",Kampus Universitas TV
-http://103.30.1.14:8080/hls/live.m3u8
-#EXTINF:-1 tvg-logo="https://kbr.id/layouts/site/assets/img/Favicon.png" group-title="berita,news",KBR68H
+#EXTINF:-1 tvg-logo="https://kbr.id/layouts/site/assets/img/Favicon.png" group-title=talk,news",KBR68H
 http://pu.klikhost.com:8056/kbr
-#EXTINF:-1 tvg-logo="https://drive.google.com/file/d/1wumILLC0PqEcwvvDspQpWOYNs4L5-Kyn/view?usp=drivesdk" group-title="ikip padang",KIARA FM IKIP PADANG
+#EXTINF:-1 tvg-logo="https://drive.google.com/file/d/1wumILLC0PqEcwvvDspQpWOYNs4L5-Kyn/view?usp=drivesdk" group-title="pop,acoustic",Kiara FM
 http://stream.zeno.fm/cxaednz7hkeuv?rj-ttl=5&rj-tok=AAABfd17tRUATE4wMYV4qAN2Uw
-#EXTINF:-1 tvg-logo="http://kisifm.com/favicon.ico" group-title="",KISI 93.4 FM
+#EXTINF:-1 tvg-logo="http://kisifm.com/favicon.ico" group-title="top 40,hits",KISI 93.4
 http://live.kisifm.com:9340/kisifm
-#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/ge8r7sh3m7aq.png" group-title="lodiko mulo",Lodiko Mulo
+#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/ge8r7sh3m7aq.png" group-title="80s,contemporary,alternative",LODIKO Mulo
 http://stream.zeno.fm/ddx81xecx5quv?rj-ttl=5&rj-tok=AAABfd5mKZYAtuLtIp7jkq05DQ
-#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/ge8r7sh3m7aq.png" group-title="tanah ulu,urak muarasipongi",Lodiko MuLo Komi
+#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/ge8r7sh3m7aq.png" group-title="80s,alternative,contemporary",LODIKO MuLo Komi
 http://listen6.myradio24.com:9000/27342
-#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/ge8r7sh3m7aq.png" group-title="urang awak",Lodiko Sodonyo
+#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/ge8r7sh3m7aq.png" group-title="pop,world",Lodiko SODONYO
 http://stream.zeno.fm/zsz8pkararzuv?rj-ttl=5&rj-tok=AAABfd4b5eAAC0jUdfK_ON_7Xg
-#EXTINF:-1 tvg-logo="https://imgproxy.zenomedia.com/insecure/fit/380/380/ce/0/plain/https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDAvPPZ_QoMCxIOU3RhdGlvblByb2ZpbGUYgICAgODajQoMogEEemVubw/image/%3Fresize=380x380&v=1" group-title="sma kotanopan",Lopo PAR 85
+#EXTINF:-1 tvg-logo="https://imgproxy.zenomedia.com/insecure/fit/380/380/ce/0/plain/https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDAvPPZ_QoMCxIOU3RhdGlvblByb2ZpbGUYgICAgODajQoMogEEemVubw/image/%3Fresize=380x380&v=1" group-title="rock,pop,jazz",Lopo PAR 85
 http://stream.zeno.fm/rc612hrdukeuv?rj-ttl=5&rj-tok=AAABfd42megAfn-ML02jFhU-Sg
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s89873d.png" group-title="media kristen",MAESTRO FM BANDUNG
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s89873d.png" group-title="talk,oldies,variety",Maestro 92.5
 http://maestro.skyline.net.id:10925/radio.maestro
-#EXTINF:-1 tvg-logo="http://www.motionradiofm.com/img/fav_motion.png" group-title="hot adult contemporary",Motion 97.5 FM
+#EXTINF:-1 tvg-logo="http://www.motionradiofm.com/img/fav_motion.png" group-title="adult,contemporary",Motion 97.5
 http://103.226.246.245/kompas-motionjakarta
-#EXTINF:-1 tvg-logo="http://mtafm.com/v3/wp-content/uploads/2015/05/cropped-cropped-s136872d.png" group-title="radio muslim",MTA FM
+#EXTINF:-1 tvg-logo="http://mtafm.com/v3/wp-content/uploads/2015/05/cropped-cropped-s136872d.png" group-title="islam,religious",MTA
 http://radio.mtafm.com:1079/listen.pls
-#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/fgdvsznhtpte.jpg" group-title="kampinang,urak tanah ulu",Muarasipongi
+#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/fgdvsznhtpte.jpg" group-title="90s,alternative,pop",Muarasipongi
 http://stream.zeno.fm/eus8arb1mkeuv?rj-ttl=5&rj-tok=AAABfd3fBr4AR6Fe0IzFg1NYjA
-#EXTINF:-1 tvg-logo="https://www.nagaswarafm.com/logoradio/nagaswara-radio-digital-80px-box.png" group-title="dance,dangdut",NAGASWARA DanceDhut
+#EXTINF:-1 tvg-logo="https://www.nagaswarafm.com/logoradio/nagaswara-radio-digital-80px-box.png" group-title="dance,world",NAGASWARA DanceDhut
 https://live.nagaswarafm.com:9200/stream
-#EXTINF:-1 tvg-logo="https://www.nagaswarafm.com/wp-content/uploads/2018/07/logo-nagaswara-fm-segiempat-.png" group-title="commercial-free,indonesian,pop",Nagaswara FM Bogor
+#EXTINF:-1 tvg-logo="https://www.nagaswarafm.com/wp-content/uploads/2018/07/logo-nagaswara-fm-segiempat-.png" group-title="world,pop",Nagaswara FM
 http://bogor.nagaswarafm.com:8088/stream
-#EXTINF:-1 tvg-logo="https://www.nagaswarafm.com/logoradio/nagaswara-radio-digital-80px-box.png" group-title="pop,rock",NAGASWARA Pop
+#EXTINF:-1 tvg-logo="https://www.nagaswarafm.com/logoradio/nagaswara-radio-digital-80px-box.png" group-title="pop,rock",Nagaswara Pop
 https://live.nagaswarafm.com:9100/stream
-#EXTINF:-1 tvg-logo="https://www.nagaswarafm.com/logoradio/nagaswara-radio-digital-80px-box.png" group-title="hits,pop,top 40",NAGASWARA RADIOTEMEN
+#EXTINF:-1 tvg-logo="https://www.nagaswarafm.com/logoradio/nagaswara-radio-digital-80px-box.png" group-title="hits,pop,top 40",Nagaswara Radiotemen
 https://live.nagaswarafm.com:9900/stream
-#EXTINF:-1 tvg-logo="http://bandung.ozradio.id/wp-content/uploads/2021/09/cropped-oz-logo-512-180x180.png" group-title="",Oz Radio Bandung
+#EXTINF:-1 tvg-logo="http://bandung.ozradio.id/wp-content/uploads/2021/09/cropped-oz-logo-512-180x180.png" group-title="world,top 40,pop",Oz Radio
 http://s3.vinhostmedia.com:1031/
-#EXTINF:-1 tvg-logo="https://live.pramborsfm.com/asset/images/favicon.ico" group-title="music,world music",PramborsFM
+#EXTINF:-1 tvg-logo="https://live.pramborsfm.com/asset/images/favicon.ico" group-title="hits,world",Prambors FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/PRAMBORS_FM.mp3
-#EXTINF:-1 tvg-logo="https://www.radiokristen.net/public/uploads/1553131434.png" group-title="media kristen",Radio Citra Buana (RCB) FM Banyuwangi
+#EXTINF:-1 tvg-logo="https://www.radiokristen.net/public/uploads/1553131434.png" group-title="religious,christian",Radio Citra Buana 107.7
 https://i.klikhost.com/8152/;radio.mp3
-#EXTINF:-1 tvg-logo="http://darushsholihin.com/wp-content/uploads/2014/09/cropped-logo_DS_512-270x270.png" group-title="islam,salaf,sunnah",Radio DSFM
+#EXTINF:-1 tvg-logo="http://darushsholihin.com/wp-content/uploads/2014/09/cropped-logo_DS_512-270x270.png" group-title="islam,religious",Radio DSFM
 http://play.xajist.com:8186/stream
-#EXTINF:-1 tvg-logo="https://radiogentara.com/images/rg-fav.png" group-title="rock",Radio Gentara
+#EXTINF:-1 tvg-logo="https://radiogentara.com/images/rg-fav.png" group-title="rock,hits",Radio Gentara
 https://sukmben.radiogentara.com:8081/gentara64
-#EXTINF:-1 tvg-logo="https://www.hangmedia.co.id/images/hanglogo1.png" group-title="islam,salafy,sunnah",Radio Hang FM
+#EXTINF:-1 tvg-logo="https://www.hangmedia.co.id/images/hanglogo1.png" group-title="islam,variety",Radio Hang 106.0
 http://185.47.62.52:8000/
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/8/75278.v4.png" group-title="international",Radio Kanca Tani ( Konco Tani )
 http://r5.siar.us:8711/stream
