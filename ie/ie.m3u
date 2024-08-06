@@ -1,43 +1,43 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.dublincityfm.ie/wp-content/media/2018/12/logo2.png" group-title="",103.2 Dublin City FM
+#EXTINF:-1 tvg-logo="https://www.dublincityfm.ie/wp-content/media/2018/12/logo2.png" group-title="pop,news,talk",Dublin City 103.2
 https://stream.btsstream.com:8012/dcfm
-#EXTINF:-1 tvg-logo="" group-title="alternative,alternative rock,indie rock",8radio
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1743252036840251392/LKHXoun8_400x400.jpg" group-title="alternative,rock,indie",8radio
 https://edge4.audioxi.com/8RADIO
-#EXTINF:-1 tvg-logo="https://www.ceol.fm/apple-touch-icon.png" group-title="folk music,irish,traditional",ceol.fm ENERGETIC
+#EXTINF:-1 tvg-logo="https://www.ceol.fm/apple-touch-icon.png" group-title="folk,world,celtic",ceol.fm Energetic
 http://ceol.fm:8000/energetic.mp3
-#EXTINF:-1 tvg-logo="https://www.ceol.fm/apple-touch-icon.png" group-title="folk music,irish music,traditional",ceol.fm FIDDLE
+#EXTINF:-1 tvg-logo="https://www.ceol.fm/apple-touch-icon.png" group-title="folk,celtic,instrumental",ceol.fm Fiddle
 http://ceol.fm:8000/fiddle.mp3
-#EXTINF:-1 tvg-logo="https://www.ceol.fm/apple-touch-icon.png" group-title="folk,irish music,traditional",ceol.fm LIVE
+#EXTINF:-1 tvg-logo="https://www.ceol.fm/apple-touch-icon.png" group-title="folk,celtic,live",ceol.fm Live
 http://ceol.fm:8000/live.mp3
-#EXTINF:-1 tvg-logo="https://www.ceol.fm/apple-touch-icon.png" group-title="folk music,irish,traditional",ceol.fm SONGS
+#EXTINF:-1 tvg-logo="https://www.ceol.fm/apple-touch-icon.png" group-title="folk,celtic,world",ceol.fm Songs
 http://ceol.fm:8000/songs.mp3
-#EXTINF:-1 tvg-logo="https://www.ceol.fm/apple-touch-icon.png" group-title="folk music,irish,traditional",ceol.fm SOOTHING
+#EXTINF:-1 tvg-logo="https://www.ceol.fm/apple-touch-icon.png" group-title="folk,celtic,relax",ceol.fm Soothing
 http://ceol.fm:8000/soothing.mp3
-#EXTINF:-1 tvg-logo="https://www.ceol.fm/apple-touch-icon.png" group-title="folk music,irish,traditional",ceol.fm SOOTHING (alt.2)
+#EXTINF:-1 tvg-logo="https://www.ceol.fm/apple-touch-icon.png" group-title="folk,celtic,relax",ceol.fm Soothing (alt.2)
 http://ceol.fm:8000/live?hash=1546858309100
 #EXTINF:-1 tvg-logo="https://christmasfm.com/wp-content/uploads/cropped-cfm-hat-512x512-1-180x180.png" group-title="carols,christmas,classical",Christmas FM Classical & Carols
 https://christmasfm.cdnstream1.com/2549_64.aac
-#EXTINF:-1 tvg-logo="https://christmasfm.com/wp-content/uploads/cropped-cfm-hat-512x512-1-180x180.png" group-title="christmas",Christmas FM Ireland
+#EXTINF:-1 tvg-logo="https://christmasfm.com/wp-content/uploads/cropped-cfm-hat-512x512-1-180x180.png" group-title="christmas,holiday",Christmas FM Ireland
 http://ice31.securenetsystems.net/XMASFM2?type=.mp3
-#EXTINF:-1 tvg-logo="" group-title="90s,dance,electronic,house",Classic Dance Hitz
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/419/classic-dance-hitz.e081cc0b.png" group-title="90s,dance,electronic",Classic Dance Hitz
 http://streams.radio.co/s7a933605c/listen
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/da966a_f481c5b94e8c4747ad03b3a14a4c7d9d~mv2.jpg" group-title="deep house",DeepHouse Radio Station
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/da966a_f481c5b94e8c4747ad03b3a14a4c7d9d~mv2.jpg" group-title="deep,house",DeepHouse Radio Station
 https://deephouseradio.radioca.st/;?1606103293673
-#EXTINF:-1 tvg-logo="http://listen.dublindigitalradio.com/static/defaultArtistImage.png" group-title="community radio,dj sets,independent,non-profit",Dublin Digital Radio
+#EXTINF:-1 tvg-logo="http://listen.dublindigitalradio.com/static/defaultArtistImage.png" group-title="community,dj,non-profit",Dublin Digital Radio
 http://dublindigitalradio.out.airtime.pro:8000/dublindigitalradio_a
-#EXTINF:-1 tvg-logo="https://dublinsouthfm.ie/wp-content/uploads/2021/10/DSFM_Favicon-removebg-preview-300x300.png" group-title="community radio",Dublin South FM
+#EXTINF:-1 tvg-logo="https://dublinsouthfm.ie/wp-content/uploads/2021/10/DSFM_Favicon-removebg-preview-300x300.png" group-title="community,variety",Dublin South FM
 https://dublinsouthfm.radioca.st/live
-#EXTINF:-1 tvg-logo="https://www.98fm.com/favicon.ico?v=11" group-title="contemporary hits,news,pop,talk",Dublin's 98FM
+#EXTINF:-1 tvg-logo="https://www.98fm.com/favicon.ico?v=11" group-title="contemporary,hits,news",98FM
 https://stream.audioxi.com/98
-#EXTINF:-1 tvg-logo="https://mm.aiircdn.com/620/5d9f214ccc05f.png" group-title="pop",Dublin's FM104
+#EXTINF:-1 tvg-logo="https://mm.aiircdn.com/620/5d9f214ccc05f.png" group-title="pop,hits",FM104
 https://wg.cdn.tibus.net/fm104MP3128
-#EXTINF:-1 tvg-logo="http://www.liveradio.ie/files/images/101415/resized/140x134c/dundalk_fm.jpg" group-title="community,local,variety",Dundalk FM
+#EXTINF:-1 tvg-logo="http://www.liveradio.ie/files/images/101415/resized/140x134c/dundalk_fm.jpg" group-title="community,variety",Dundalk FM
 http://80.249.249.245:8000/;?1485109331489
-#EXTINF:-1 tvg-logo="" group-title="",East Coast FM Wicklow
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/37/Eastcoastfm.png" group-title="hip hop,pop",East Coast FM
 http://sirius.shoutca.st:8461/
-#EXTINF:-1 tvg-logo="https://galwaybayfm.ie/wp-content/uploads/2019/01/gbfm2web.png" group-title="galway,ireland,local",Galway Bay FM
+#EXTINF:-1 tvg-logo="https://galwaybayfm.ie/wp-content/uploads/2019/01/gbfm2web.png" group-title="pop,top 40,charts",Galway Bay 95.8 FM
 https://wg.cdn.tibus.net/galwaybay.mp3
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/bshano/image/upload/c_scale,f_auto,w_146/v1622811170/webradio/stations/headwax-radio.webp" group-title="",Head Wax Radio
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/bshano/image/upload/c_scale,f_auto,w_146/v1622811170/webradio/stations/headwax-radio.webp" group-title="jazz,blues",Head Wax Radio
 https://headwaxradio.radioca.st/stream
 #EXTINF:-1 tvg-logo="http://www.liveradio.ie/files/images/110066/resized/140x134c/heartbeat_fm.jpg" group-title="easy listening",Heartbeat FM
 http://cast5.magicstreams.gr:8010/stream
