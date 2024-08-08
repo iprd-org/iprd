@@ -1,105 +1,103 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="ilstations",90FM
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nUggBc0mlaxeZX9bi0mqwwbZXeNpVzjiv9wBpYouBb2_5sgwIruEFoPavSyfxblD2Uw" group-title="news,contemporary,hits",Radio 90 FM
 http://90.cdnwz.net/90fm
-#EXTINF:-1 tvg-logo="https://91fm.co.il/wp-content/themes/bootstrap-basic/img/radio.png" group-title="",91FM רדיו
+#EXTINF:-1 tvg-logo="https://91fm.co.il/wp-content/themes/bootstrap-basic/img/radio.png" group-title="pop,hits",91 FM Radio
 http://91fm.streamgates.net/Lev91Fm
-#EXTINF:-1 tvg-logo="" group-title="",Galei Zahal
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s24906g.png" group-title="talk,news",Galei Zahal 102.3
 http://glzwizzlv.bynetcdn.com/glz_mp3
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/logo/8/11388.png" group-title="",Geula FM
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/logo/8/11388.png" group-title="pop,talk,folk",Geula FM
 http://live.geula.fm:8010/
-#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/34/ee/34ee4ed52c07ad09122cbe047a7c0bfd.jpg" group-title="",Glglz
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/34/ee/34ee4ed52c07ad09122cbe047a7c0bfd.jpg" group-title="pop,rock,news",Galgalatz
 https://glzwizzlv.bynetcdn.com/glglz_mp3?awCollectionId=misc&awEpisodeId=glglz
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/52afc6_909d4edf5a104f2f9caaa938aeb8de11~mv2_d_3514_2480_s_4_2.jpg/v1/fill/w_282,h_200,al_c,q_80,usm_0.66_1.00_0.01/logo-page-002.webp" group-title="70s,israeli pop,israeli pop oldies,music,rock",HaTahana - Radio Binyamina
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/52afc6_909d4edf5a104f2f9caaa938aeb8de11~mv2_d_3514_2480_s_4_2.jpg/v1/fill/w_282,h_200,al_c,q_80,usm_0.66_1.00_0.01/logo-page-002.webp" group-title="70s,pop,oldies",Radio Binyamina
 https://playerservices.streamtheworld.com/api/livestream-redirect/SAM03AAC81_SC
-#EXTINF:-1 tvg-logo="https://www.i24news.tv/images/favicon.png" group-title="news",i24 news
+#EXTINF:-1 tvg-logo="https://www.i24news.tv/images/favicon.png" group-title="news,talk",i24 News
 https://bcsecurelivehls-i.akamaihd.net/hls/live/1008862/207397166001/master_radio.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",Jewish Music Stream
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s140612g.png" group-title="folk,hebrew",Jewish Music Stream
 https://stream.jewishmusicstream.com:8000/
 #EXTINF:-1 tvg-logo="http://jointil.com/broadcast/images/joint.radio330X330.png" group-title="full-on,psytrance",Joint Radio Beat
 http://star.jointil.net/proxy/jrn_beat?mp=/stream
-#EXTINF:-1 tvg-logo="http://jointil.com/broadcast/images/joint.radio330X330.png" group-title="60s,70s,blues,chicagoblues,classic rock,pop rock,rock",Joint Radio Blues
+#EXTINF:-1 tvg-logo="http://jointil.com/broadcast/images/joint.radio330X330.png" group-title="60s,70s,blues",Joint Radio Blues
 http://star.jointil.net/proxy/jrn_blues?mp=/stream
-#EXTINF:-1 tvg-logo="http://jointil.com/broadcast/images/joint.radio330X330.png" group-title="dub reggae,reggae,reggaeton,roots reggae,smooth reggae",Joint Radio Reggae
+#EXTINF:-1 tvg-logo="http://jointil.com/broadcast/images/joint.radio330X330.png" group-title="dub,reggae,reggaeton",Joint Radio Reggae
 http://star.jointil.net/proxy/jrn_reggae?mp=/stream
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/46/Bnei_Baruch.png" group-title="cabale,kabbalah,kabbale",Kabbalah Fr
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/46/Bnei_Baruch.png" group-title="cabale,kabbalah,kabbale",Kabbalah
 http://icecast.kab.tv/live1-spa-574bcfd5.mp3
-#EXTINF:-1 tvg-logo="https://kanweb.blob.core.windows.net/download/pictures/Station_Share_Image4_img_.jpg" group-title="",KAN 88
+#EXTINF:-1 tvg-logo="https://kanweb.blob.core.windows.net/download/pictures/Station_Share_Image4_img_.jpg" group-title="variety,hits",Kan 88
 http://kanliveicy.media.kan.org.il/icy/749623_mp3?providername=tunein
-#EXTINF:-1 tvg-logo="https://www.rlive.co.il/storage/uploads/stations/Q4IUO2dHHBgUhGxvj5jvCiOGOPedRATh0yvbuzeU.png" group-title="",Kan Gimel
+#EXTINF:-1 tvg-logo="https://www.rlive.co.il/storage/uploads/stations/Q4IUO2dHHBgUhGxvj5jvCiOGOPedRATh0yvbuzeU.png" group-title="world,hebrew",Kan Gimel 97.8
 http://kanliveicy01.bynetcdn.com/icy/kangimmel_mp3
-#EXTINF:-1 tvg-logo="https://kanweb.blob.core.windows.net/download/pictures/Logo_Color9_img_.png" group-title="gimel,hebrew,israel",KAN gimel
+#EXTINF:-1 tvg-logo="https://kanweb.blob.core.windows.net/download/pictures/Logo_Color9_img_.png" group-title="world,hebrew",Kan Gimel 97.8
 https://kanlivep2event-i.akamaihd.net/hls/live/749625/749625/master.m3u8
-#EXTINF:-1 tvg-logo="https://kanweb.blob.core.windows.net/download/pictures/Logo_Color9_img_.png" group-title="",KAN gimel (real)
+#EXTINF:-1 tvg-logo="https://kanweb.blob.core.windows.net/download/pictures/Logo_Color9_img_.png" group-title="world,hebrew",Kan Gimel 97.8
 http://kanliveicy.media.kan.org.il/icy/749625_mp3
-#EXTINF:-1 tvg-logo="https://kanweb.blob.core.windows.net/download/pictures/Station_Share_Image4_img_.jpg" group-title="public radio",Kan Israel 88 FM
+#EXTINF:-1 tvg-logo="https://kanweb.blob.core.windows.net/download/pictures/Station_Share_Image4_img_.jpg" group-title="news,talk",Kan 88.0
 http://kanliveicy.media.kan.org.il/icy/kan88_mp3
-#EXTINF:-1 tvg-logo="https://kanweb.blob.core.windows.net/download/pictures/Station_Share_Image3_img__2.jpg" group-title="public radio,talk",Kan Israel Bet 95.5 FM
+#EXTINF:-1 tvg-logo="https://kanweb.blob.core.windows.net/download/pictures/Station_Share_Image3_img__2.jpg" group-title="news,talk",Kan Bet 95.5
 http://kanliveicy.media.kan.org.il/icy/kanbet_mp3
-#EXTINF:-1 tvg-logo="http://www.kan.org.il/images/logo_ogImageKan.jpg" group-title="public radio",Kan Israel Farsi
+#EXTINF:-1 tvg-logo="http://www.kan.org.il/images/logo_ogImageKan.jpg" group-title="rock,hits,farsi",Kan Israel Farsi
 http://kanliveicy.media.kan.org.il/icy/voisfarsi_mp3
-#EXTINF:-1 tvg-logo="https://kanweb.blob.core.windows.net/download/pictures/Station_Share_Image6_img__2.jpg" group-title="jewish community,religious",Kan Israel Reshet Moreshet 92.5 FM
+#EXTINF:-1 tvg-logo="https://kanweb.blob.core.windows.net/download/pictures/Station_Share_Image6_img__2.jpg" group-title="community,religious",Kan Moreshet 92.5
 http://kanliveicy.media.kan.org.il/icy/kanmoreshet_mp3
-#EXTINF:-1 tvg-logo="https://kanweb.blob.core.windows.net/download/pictures/Station_Share_Image5_img__2.jpg" group-title="public radio",Kan Israel Tarbut
+#EXTINF:-1 tvg-logo="https://kanweb.blob.core.windows.net/download/pictures/Station_Share_Image5_img__2.jpg" group-title="culture,public",Kan Tarbut 98.4
 http://kanliveicy.media.kan.org.il/icy/kantarbut_mp3
-#EXTINF:-1 tvg-logo="https://www.kan.org.il/images/logo_ogImageKan.jpg" group-title="classical music",Kan Kol HaMusica
+#EXTINF:-1 tvg-logo="https://www.kan.org.il/images/logo_ogImageKan.jpg" group-title="classical,baroque",Kan Kol HaMusica
 http://kanliveicy.media.kan.org.il/icy/kankolhamusica_mp3
-#EXTINF:-1 tvg-logo="https://kanweb.blob.core.windows.net/download/pictures/Logo_Color4_img__1.png" group-title="adult contemporary,alternative,classic rock,progressive rock,world music",Kan.org.il-88FM
+#EXTINF:-1 tvg-logo="https://kanweb.blob.core.windows.net/download/pictures/Logo_Color4_img__1.png" group-title="adult,contemporary,alternative",Kan.org.il-88FM
 https://kanlivep2event-i.akamaihd.net/hls/live/749623/749623/kan88_mp3/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s163950/images/logoq.png?t=636420" group-title="",kzradio
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s163950/images/logoq.png?t=636420" group-title="alternative,rock",KZRadio
 http://kzradio.livecast.co.il/kzradio_aac/
-#EXTINF:-1 tvg-logo="http://www.fm1.co.il/images/stations/nostal.png" group-title="israeli pop oldies",Nostalgia
+#EXTINF:-1 tvg-logo="http://www.fm1.co.il/images/stations/nostal.png" group-title="pop,oldies",Nostalgia
 http://194.213.4.197:8000/listen.pls
-#EXTINF:-1 tvg-logo="https://www.oneforisrael.org/wp-content/uploads/2019/11/agape-logo-white.jpg" group-title="agape,christian,christian praise&worship,hebrew,israel,israeli pop,jesus,messianic,public radio,yeshua",Radio Agape Israel
+#EXTINF:-1 tvg-logo="https://www.oneforisrael.org/wp-content/uploads/2019/11/agape-logo-white.jpg" group-title="agape,christian,praise",Radio Agape
 https://s3.radio.co/s43b65d791/listen
-#EXTINF:-1 tvg-logo="http://www.isr-radio.com/wp-content/uploads/2012/08/373645_127174283963945_734336389_n1.jpg" group-title="israel,israeli pop",Radio Haifa
+#EXTINF:-1 tvg-logo="http://www.isr-radio.com/wp-content/uploads/2012/08/373645_127174283963945_734336389_n1.jpg" group-title="adult,hits",Radio Haifa 107.5
 https://102.livecdn.biz/radiohaifa
-#EXTINF:-1 tvg-logo="https://www.google.com/imgres?imgurl=https://play-lh.googleusercontent.com/jWnNoq3pnXBF_gcsyzJ1AUz9gQ6qjHQP2hE05LW81GAatv848XUEsVd-BDIGNHg-lJc&imgrefurl=https://play.google.com/store/apps/details?id%3Dil.co.radioran%26hl%3Den_US%26gl%3DUS&h=512&w=512&tbnid=COZPgSPt_uubYM&q=radio+ran+iran+logo&tbnh=225&tbnw=225&iact=rc&usg=AI4_-kQTpX6FvM3zq6n9AZaCL-pHCj2WGw&vet=1&docid=HG03uJ9rfDrJhM&itg=1&tbm=isch&client=ms-opera-mini-android&sa=X&ved=2ahUKEwiO5a6Kv4P0AhWSCOwKHQy4BioQrQN6BAgTEAE" group-title="",Radio Ran
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/tK4HUYkFhdyMInKVOh8z1AnwBEA7M5LjXyf9EkgEJQkM78dgJnzF3YHQKCsMfB_P4Mc=w240-h480-rw" group-title="persian,variety",Radio Ran
 http://185.80.220.12:8047/live
-#EXTINF:-1 tvg-logo="https://digital.100fm.co.il/logo192.png" group-title="workout",Radios 100FM
+#EXTINF:-1 tvg-logo="https://digital.100fm.co.il/logo192.png" group-title="top 40,pop",Radios 100fm 100.0
 http://gb25.streamgates.net/radios-audio/100Workout/icecast.audio
-#EXTINF:-1 tvg-logo="" group-title="news",reka
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/eb/6b/eb6b8048d840b0a2e13fe0057052cef0.png" group-title="news,talk",Kan Reka 100.3
 http://kanliveicy.media.kan.org.il/icy/kanreka_mp3
-#EXTINF:-1 tvg-logo="https://kanweb.blob.core.windows.net/download/pictures/Station_Share_Image3_img__2.jpg" group-title="news,news talk",Reshet Bet
+#EXTINF:-1 tvg-logo="https://kanweb.blob.core.windows.net/download/pictures/Station_Share_Image3_img__2.jpg" group-title="news,talk",Reshet Bet
 https://kanlivep2event-i.akamaihd.net/hls/live/749624/749624/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",Teder FL
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLbLpYjRarB9PeDfg1b50LBBsPQNBrW9s2k6URm8kMZ-GqlmmEs77Wv1H4gzQqySrt2u8&usqp=CAU" group-title="dj,dubstep",Teder
 https://radio.streamgates.net/stream/teder
-#EXTINF:-1 tvg-logo="https://radio1064.co.il/images/favicon/apple-touch-icon.png" group-title="",Лучшее Радио
+#EXTINF:-1 tvg-logo="https://radio1064.co.il/images/favicon/apple-touch-icon.png" group-title="pop,news,talk",Luchsheye Radio 106.4
 http://live.cdnwz.net/thebest
-#EXTINF:-1 tvg-logo="http://img.bizportal.co.il/giflib/news/logo99_615_111015.jpg" group-title="ilstations",אקו eco 99fm
+#EXTINF:-1 tvg-logo="http://img.bizportal.co.il/giflib/news/logo99_615_111015.jpg" group-title="pop,top 40,charts",Eco 99fm
 http://eco-live.mediacast.co.il/99fm_aac?hash=1559501510715.m4a
-#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/34/ee/34ee4ed52c07ad09122cbe047a7c0bfd.jpg" group-title="ilstations",גלגלצ - Glglz
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/34/ee/34ee4ed52c07ad09122cbe047a7c0bfd.jpg" group-title="pop,rock,news",Galgalatz
 http://glzwizzlv.bynetcdn.com/glglz_mp3
-#EXTINF:-1 tvg-logo="" group-title="news",גלצ
-http://glzwizzlv.bynetcdn.com/glz_mp3?awCollectionId=misc&awEpisodeId=glz
-#EXTINF:-1 tvg-logo="https://www.kzradio.net/wp-content/uploads/2018/11/kzlogo.jpg" group-title="ilstations",הקצה - Hakatze
+#EXTINF:-1 tvg-logo="https://www.kzradio.net/wp-content/uploads/2018/11/kzlogo.jpg" group-title="alternative,underground",The Edge Hakatze
 http://kzradio.mediacast.co.il/kzradio_live/kzradio/icecast.audio
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s14195q.png" group-title="ilstations",ירושלים - Jerusalem
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s14195q.png" group-title="news,talk",Radio Yerushalaim 101.0
 http://101.cdnwz.net/101fm
-#EXTINF:-1 tvg-logo="https://kanweb.blob.core.windows.net/download/pictures/Logo_Color3_img_.png" group-title="ilstations",כאן ב - Kan Bet
+#EXTINF:-1 tvg-logo="https://kanweb.blob.core.windows.net/download/pictures/Logo_Color3_img_.png" group-title="news,talk",Kan Bet 95.5
 http://kanliveicy01.bynetcdn.com/icy/kanbet_mp3
-#EXTINF:-1 tvg-logo="https://s1.dmcdn.net/l/SigfM1Wdfx4te8wfG/320x240" group-title="israel,orthodox,דתי",כאן מורשת - Kan Moreshet
+#EXTINF:-1 tvg-logo="https://s1.dmcdn.net/l/SigfM1Wdfx4te8wfG/320x240" group-title="jewish,orthodox",Kan Moreshet 92.5
 https://kanliveicy.media.kan.org.il/icy/749629_mp3
-#EXTINF:-1 tvg-logo="http://www.770tv.org/images/mevaser_logo.jpg" group-title="ilstations,דתי",מבשר טוב - Mevaser Tov
+#EXTINF:-1 tvg-logo="http://www.770tv.org/images/mevaser_logo.jpg" group-title="religious,jewish",Radio Mevaser Tov 770
 http://770tv.no-ip.org:7777/;stream/1
-#EXTINF:-1 tvg-logo="https://www.mizrahit.fm/wp-content/uploads/2020/01/598b81d64d30323525df9723911751f8.png" group-title="ilstations,oriental,מזרחי",נושמים מזרחית - Noshmim Mizrahit
+#EXTINF:-1 tvg-logo="https://www.mizrahit.fm/wp-content/uploads/2020/01/598b81d64d30323525df9723911751f8.png" group-title="pop,talk",Noshmim Mizrahit
 https://mzr.mediacast.co.il/mzradio
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/46/Bnei_Baruch.png" group-title="ilstations",קבלה לעם אנגלית - Kabbalah eng
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/46/Bnei_Baruch.png" group-title="jewish,religious,english",Radio Kabbalah English
 http://icecast.kab.tv/live1-eng-574bcfd5.mp3
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/46/Bnei_Baruch.png" group-title="ilstations",קבלה לעם עברית - Kabbalah heb
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/46/Bnei_Baruch.png" group-title="jewish,religious,hebrew",Radio Kabbalah Hebrew
 http://icecast.kab.tv/live1-heb-574bcfd5.mp3
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/46/Bnei_Baruch.png" group-title="ilstations",קבלה לעם צרפתית - Kabbalah fre
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/46/Bnei_Baruch.png" group-title="jewish,religious,french",Radio Kabbalah French
 http://icecast.kab.tv/live1-fre-574bcfd5.mp3
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/46/Bnei_Baruch.png" group-title="ilstations",קבלה לעם רוסית - Kabbalah rus
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/46/Bnei_Baruch.png" group-title="jewish,religious,russian",Radio Kabbalah Russian
 http://icecast.kab.tv/live1-rus-574bcfd5.mp3
-#EXTINF:-1 tvg-logo="http://kol-barama.co.il/wp-content/uploads/2019/11/%D7%A7%D7%95%D7%9C-%D7%91%D7%A8%D7%9E%D7%94-%D7%94%D7%A8%D7%A6%D7%94.png" group-title="ilstations,דתי",קול ברמה - Kol Barama
+#EXTINF:-1 tvg-logo="http://kol-barama.co.il/wp-content/uploads/2019/11/%D7%A7%D7%95%D7%9C-%D7%91%D7%A8%D7%9E%D7%94-%D7%94%D7%A8%D7%A6%D7%94.png" group-title="talk,news",Kol-BaRama 92.1
 http://kb.cdnwz.net/kol_barama
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/399f03_0a3afddd3076485794d07c6f323764ab.png/v1/fill/w_94,h_76,al_c,q_85,usm_0.66_1.00_0.01/399f03_0a3afddd3076485794d07c6f323764ab.webp" group-title="ilstations",קול הגליל העליון - Kol Hagalil Haelyon
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/399f03_0a3afddd3076485794d07c6f323764ab.png/v1/fill/w_94,h_76,al_c,q_85,usm_0.66_1.00_0.01/399f03_0a3afddd3076485794d07c6f323764ab.webp" group-title="pop,folk",Radio Kol Hagalil Haelyon 105.3
 http://1053.cdnwz.net/galil
-#EXTINF:-1 tvg-logo="https://www.fm102.co.il/assets/img/fm102.png" group-title="ilstations",קול הים האדום אילת - Kol Hayam Haadom
+#EXTINF:-1 tvg-logo="https://www.fm102.co.il/assets/img/fm102.png" group-title="pop,top 40,contemporary",Kol Hayam Haadom 102.0
 http://eilat.cdnwz.net/102fm
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/cbf57a_82d58bf0f55940b8b288c481497d43c7~mv2.png/v1/crop/x_54,y_238,w_1861,h_624/fill/w_376,h_124,al_c,q_85,usm_0.66_1.00_0.01/kol.webp" group-title="ilstations",קול השפלה - Kol Hashfela
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/cbf57a_82d58bf0f55940b8b288c481497d43c7~mv2.png/v1/crop/x_54,y_238,w_1861,h_624/fill/w_376,h_124,al_c,q_85,usm_0.66_1.00_0.01/kol.webp" group-title="pop,talk",Radio Kol Hashfela 103.6
 http://1036kh.cdnwz.net/1036kh
-#EXTINF:-1 tvg-logo="https://www.93fm.co.il/wp-content/uploads/2016/08/%D7%9C%D7%95%D7%92%D7%95-160x100c.png" group-title="israel,orthodox,דתי",קול חי - Kol Chai
+#EXTINF:-1 tvg-logo="https://www.93fm.co.il/wp-content/uploads/2016/08/%D7%9C%D7%95%D7%92%D7%95-160x100c.png" group-title="news,talk,folk",Radio Kol Chai 93.0
 https://media2.93fm.co.il/live-new
 #EXTINF:-1 tvg-logo="https://kcm.fm/static/images/logo.svg" group-title="israel,orthodox,דתי",קול חי מיוזיק - Kol Chai Music
 https://media2.93fm.co.il/livemusic
