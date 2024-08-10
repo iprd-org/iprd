@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/toonami/images/0/0f/Toonami_aftermath_logo.png/revision/latest?cb=20121120205018" group-title="ambient,soundtrack,anime",Toonami Aftermath Radio
+http://api.toonamiaftermath.com:3000/radio/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://bashde.org/favicon.ico" group-title="armenian,christian,religious",Bashde
 https://streams.radio.co/sa0bf8ec29/listen?sid=1
 #EXTINF:-1 tvg-logo="https://100hiphopandrnb.fm/wp-content/uploads/sites/62/logo-lftm-400px.png" group-title="hip hop,r'n'b,soul",100 Hip Hop and RNB.FM
