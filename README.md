@@ -14,3 +14,9 @@ To do so, please create an issue containing the radio you would like to add.
 Carefully read the required points as they'll help us target the appropriate playlist for your stream.
 
 The higher the radio quality is, the better the sound experience will be (lossless > compressed).
+
+# Future plans
+
+- [ ] Properly identify the radios and their groups, for easier maintenance.
+- [ ] Scripts to create "one" playlist (can be enhanced over further discussions) containing all the radios.
+- [ ] Radio database.
