@@ -1,9 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="erbil,music,news",Kurdistan 24 Radio
-http://edge.mixlr.com/channel/ajqeg
-#EXTINF:-1 tvg-logo="http://static.radio.fr/images/broadcasts/76/1c/35493/c300.png" group-title="",Monte Carlo Doualiya
-http://live02.mc-doualiya.com/mc-doualiya.mp3
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/5CVHg0W4ILqKKZTIdCAWHg_XLfjJhAOKVMgg6ezWbj1wzMkjkfQek7haGn8D9Bvs5V45=w300" group-title="",Radio Sawa
-http://n12.radiojar.com/t9h51xwr92quv?rj-ttl=5&rj-tok=AAABfdpdnyMAEJtmDsiJjGepwg
-#EXTINF:-1 tvg-logo="http://nettv.live/uploads/19/1-1Z121105031229.jpg" group-title="",Rudaw TV
-http://svs.itworkscdn.net/rudawlive/rudawlive.smil/chunklist_b2000000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/K24logo.png" group-title="news,talk,kurdish",Kurdistan 24 Radio
+https://streams.radiomast.io/04b1ce4c-24f2-4172-b756-065832ef78bf?cachebuster=1885364415580368.8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/Logo_de_Radio_Al-Salam.png" group-title="kurdish,syrian,variety",Radio Al-Salam 94.3
+http://178.32.146.187:5117/stream
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/MQfVmp8rZmwUqRmjKuEGpoH97osMMZ6Xv9L9pziTkoCD89NxYjvotipvcXW2fSxICK4" group-title="arabic,variety",Hawa Dijlah
+https://listen.radioking.com/radio/96766/stream/136030
