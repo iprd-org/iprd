@@ -119,12 +119,6 @@ http://beaubfm2.ice.infomaniak.ch/beaubfm2-96.mp3
 http://beurfm.ice.infomaniak.ch/beurfm-high.mp3
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/iBz3Vv6TSmmL158kfxWwvkhsluT1eDBmIo3fD4_Y3iNsUfKg_0iZt058cV_ApmEoZQ" group-title="rnb,world,rhythm,blues",Beur FM
 http://beurfm.ice.infomaniak.ch/beurfm-high.aac
-#EXTINF:-1 tvg-logo="https://i3.radionomy.com/radios/400/e9f92890-11fb-4bf8-bcc6-04cd4759e809.png" group-title="finance,information,news",BFM
-https://audio.bfmtv.com/bfmradio_128.mp3
-#EXTINF:-1 tvg-logo="http://static.radio.fr/images/broadcasts/b1/97/1441/1/c300.png" group-title="finance,information,news",BFM Business
-https://audio.bfmtv.com/bfmbusiness_128.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.fr/images/broadcasts/76/27/105095/3/c300.png" group-title="information,news",BFM radio
-https://audio.bfmtv.com/bfmradio_128.mp3
 #EXTINF:-1 tvg-logo="https://radio-esperance.net/../0_ico/apple-touch-icon-57x57.png" group-title="christian,religious",Bible Esperance
 http://esperance.streamakaci.com/parole-de-dieu.mp3
 #EXTINF:-1 tvg-logo="http://www.bide-et-musique.com/favicon.ico" group-title="pop,oldies",Bide et Musique
@@ -169,8 +163,6 @@ http://vdl.stream-lat.org:8000/voixdulat_mp3
 https://icecast.libre-a-toi.org:8444/voixdulat_mp3
 #EXTINF:-1 tvg-logo="http://celticrootsradio.com/images/celtic_roots.gif" group-title="celtic,music",Celtic Roots Radio
 http://51.255.235.165:5340/
-#EXTINF:-1 tvg-logo="https://images.lesindesradios.fr/fit-in/300x2000/filters:format(webp)/radios/champagnefm/radiostream/chHQL0maML/vignette_GE0oGotCSM.png" group-title="pop,hits",Champagne FM Reims
-https://reims.ice.infomaniak.ch/reims-128.mp3
 #EXTINF:-1 tvg-logo="http://chaos-radio.fr/assets/icons/icon-128x128.png" group-title="music,web radio",Chaos Radio
 http://5.135.177.61:8000/;stream/1
 #EXTINF:-1 tvg-logo="https://www.radio.fr/images/broadcasts/38/dd/103311/1/c300.png" group-title="hits,musique seulement",Chic Radio Hits
@@ -285,24 +277,14 @@ http://stream.radios-arra.fr:8000/fmevangile66
 http://start-forum.ice.infomaniak.ch/start-forum-high.mp3
 #EXTINF:-1 tvg-logo="https://rfpp.net/IMG/siteon0.jpg?1640007286" group-title="pop,rock",Radio FPP
 http://radio.toile-libre.org:8000/fpp.mp3
-#EXTINF:-1 tvg-logo="http://ecouter.lesindesradios.fr/logos/orange27.png" group-title="musique du monde,oriental,culture",FranceMaghreb2 
-http://francemaghreb.ice.infomaniak.ch/francemaghreb-high.mp3
 #EXTINF:-1 tvg-logo="http://ecouter.lesindesradios.fr/logos/orange27.png" group-title="musique du monde,oriental,culture",FranceMaghreb2 Province
 http://francemaghreb2.ice.infomaniak.ch/francemaghreb2-high.mp3
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/200px-FRANCE_24_logo.svg.png" group-title="news,talk",France24 Arabic
-http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/nmexem5l9wht.jpg" group-title="classical,baroque",FranceClassique Easy
-https://icecast.radiofrance.fr/francemusiqueeasyclassique-midfi.mp3?ID=76zqey582k
 #EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/ab/de/3551/1/c300.png" group-title="pop,public,rock",Frankreich Radio Contact FM
 http://audiostream.rtl.be/contactfr192
 #EXTINF:-1 tvg-logo="https://s3.eu-central-1.wasabisys.com/monbucket4/2021/03/cropped-cropped-colombe-180x180-1-180x180.png" group-title="outre-mer,pop,world",Free Dom 2
 http://freedomice.streamakaci.com/freedom2.mp3
-#EXTINF:-1 tvg-logo="https://www.frequence3.com/favicon.ico" group-title="christmas,pop,traditional,noel",Fréquence3 Xmas
-http://ice.stream.frequence3.net/xmas-128.mp3
 #EXTINF:-1 tvg-logo="https://dbs.radioline.fr/pictures/radio_cfec67bb76d8a2855a148091ab92a17d/logo200.jpg" group-title="ardeche,france,radio associative",Fréquence 7
 https://live.aurafm.org:7443/Frequence7
-#EXTINF:-1 tvg-logo="http://www.frequencek.net/wpp/wp-content/uploads/2010/11/logofk_favicon.jpg" group-title="funk,electro",Fréquence K
-http://frequencek.ice.infomaniak.ch/frequencek-64.aac
 #EXTINF:-1 tvg-logo="http://www.frequencek.net/wpp/wp-content/uploads/2010/11/logofk_favicon.jpg" group-title="funk,electro",Fréquence K
 http://frequencek.ice.infomaniak.ch/frequencek-128.mp3
 #EXTINF:-1 tvg-logo="https://www.frequenceluz.com/themes/custom/waldo/img/logoheader_minified.svg" group-title="alternative,music,pop,world music",Frequence Luz
@@ -361,8 +343,6 @@ http://80.82.229.202/graffiti.mp3
 http://grandsudfm.ice.infomaniak.ch/grandsudfm-128.mp3
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/z2jj7saehb8j.jpg" group-title="community radio,news,variety",Grimaldi FM
 http://manager2.streaming-ingenierie.fr:8058/listen.pls
-#EXTINF:-1 tvg-logo="http://www.h2oradio.fr/favicon.ico" group-title="annecy,haute-savoie,lac d'annecy,montagne",H2O
-http://vps443190.ovh.net:8000/h2oradio.mp3
 #EXTINF:-1 tvg-logo="http://www.helenefm.com/wordpress/wp-content/uploads/2013/11/favicon.jpg" group-title="country,pop",Hélène FM
 http://helenefm.ice.infomaniak.ch/helenefm-high.mp3
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/79/f6/79f6336b32fea8b878453c3a9716f956.jpg" group-title="ambient,deep house,downtempo,electronica,here4ears,indie,new wave,nu-disco,pascal dumont,skyline,synthpop",here4ears
