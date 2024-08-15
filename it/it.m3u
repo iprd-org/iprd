@@ -1,46 +1,43 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.retetoscanaclassica.it/wp-content/themes/rtc/assets/content/img/iconefav/apple-icon-114x114.png" group-title="classical",
-#EXTINF:-1 tvg-logo="https://us7.streamingpulse.com/1018/tmp/images/default.jpg" group-title="", Radio Rouge Italy
+#EXTINF:-1 tvg-logo="https://www.retetoscanaclassica.it/wp-content/themes/rtc/assets/content/img/iconefav/apple-icon-114x114.png" group-title="classical,baroque",Rete Toscana Classica
+https://nr12.newradio.it:8744/stream
+#EXTINF:-1 tvg-logo="https://us7.streamingpulse.com/1018/tmp/images/default.jpg" group-title="rock,world,dance",Radio Rouge 99.3
 https://nl1.streamingpulse.com/ssl/radiorougeitaly
-#EXTINF:-1 tvg-logo="https://antennaweb.it/images/logos/radioantennapetrignano.png" group-title="assisi,firenze,gubbio,italian,mp3,napoli,perugia,petrignano,pop,radio,rock,roma,umbria,venezia,web",_Antenna Web Assisi
+#EXTINF:-1 tvg-logo="https://antennaweb.it/images/logos/radioantennapetrignano.png" group-title="pop,radio,rock",Antenna Web Assisi
 https://italiavera.radioca.st/stream?type=http&nocache=296
-#EXTINF:-1 tvg-logo="https://www.radioenergy.to/favicon.ico" group-title="70s,80s,90s,classic hits,classic rock,disco,funk,oldies,pop,pop rock,rock,soul",_Radio Energy Classic (Italy)
+#EXTINF:-1 tvg-logo="https://www.radioenergy.to/favicon.ico" group-title="70s,80s,90s",Radio Energy Classic
 https://gmusto3.radioca.st/stream
-#EXTINF:-1 tvg-logo="" group-title="news",'RADIO E'
-https://onair7.xdevel.com/proxy/xautocloud_xh2r_1512?mp=/;1/
-#EXTINF:-1 tvg-logo="https://funky.radio/wp-content/uploads/2021/04/7080discofunk_logo_128.png" group-title="1970s,1980s,70's,70er,70s,70s disco,80,80's,80er,80s,boogie",70 80 Disco Funk ModernSoul e Boogie
+#EXTINF:-1 tvg-logo="https://funky.radio/wp-content/uploads/2021/04/7080discofunk_logo_128.png" group-title="70s,80s,disco",70 80 Disco Funk ModernSoul e Boogie
 https://discofunk.streamingmedia.it/play
-#EXTINF:-1 tvg-logo="" group-title="320 kbps,70,70 80 hits,70 80 hits hq,70 music,70-80,70-80 hits,80,80 music,high quality audio,hq",70 80 Hits HQ
+#EXTINF:-1 tvg-logo="https://api.my-radios.com/images/thumb.php?countryCode=IT&name=29911-919072.png&size=200" group-title="70s,80s,hits",70 80 Hits HQ
 https://nr8.newradio.it:19574/stream
-#EXTINF:-1 tvg-logo="" group-title="70s,80s,classic hits",70/80 Non Stop
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/I-jzxE00qYU/hqdefault.jpg?v=663e4fd5" group-title="70s,80s,hits",70/80 Non Stop
 http://shoutcast3.streamingmedia.it:3038/listen.pls
-#EXTINF:-1 tvg-logo="https://www.90danceradio.com/immagini/Logo%2090danceradio%20500x500.png" group-title="90s,dance,eurodance,verona",90 Dance Radio
+#EXTINF:-1 tvg-logo="https://www.90danceradio.com/immagini/Logo%2090danceradio%20500x500.png" group-title="90s,dance,dance",90 Dance Radio
 https://nrf1.newradio.it:9934/stream
-#EXTINF:-1 tvg-logo="" group-title="92100,92100 radio,novantaduecento,top40",92100 - Radio Station
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/119353466.jpeg" group-title="pop,top 40",92100 
 https://sr10.inmystream.it:18039/stream;.mp3
-#EXTINF:-1 tvg-logo="http://www.afneurope.net/portals/100/Images/Aviano_AFN360Revamped-01.png" group-title="american forces network,aviano,news,pop,talk,top 40,urban",AFN 360 Aviano
+#EXTINF:-1 tvg-logo="http://www.afneurope.net/portals/100/Images/Aviano_AFN360Revamped-01.png" group-title="news,pop,talk",AFN 360 Aviano
 https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_AVN_SC
-#EXTINF:-1 tvg-logo="http://www.afneurope.net/portals/100/Images/Naples_AFN360Revamped-01.png" group-title="american forces network,napoli,news,pop,talk,top 40,urban",AFN 360 Naples
+#EXTINF:-1 tvg-logo="http://www.afneurope.net/portals/100/Images/Naples_AFN360Revamped-01.png" group-title="news,pop,talk",AFN 360 Naples
 https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_NAP_SC
-#EXTINF:-1 tvg-logo="http://www.afneurope.net/portals/100/Images/Sigonella_Revamped-01.png" group-title="american forces network,catania,news,pop,talk,top 40,urban",AFN 360 Sigonella
+#EXTINF:-1 tvg-logo="http://www.afneurope.net/portals/100/Images/Sigonella_Revamped-01.png" group-title="news,pop,talk",AFN 360 Sigonella
 https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_SIG_SC
-#EXTINF:-1 tvg-logo="http://www.afneurope.net/portals/100/Images/Vicenza_AFN360Revamped-01.png" group-title="american forces network,news,pop,talk,top 40,urban,vicenza",AFN 360 Vicenza
+#EXTINF:-1 tvg-logo="http://www.afneurope.net/portals/100/Images/Vicenza_AFN360Revamped-01.png" group-title="news,pop,talk",AFN 360 Vicenza
 https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_VIC_SC
-#EXTINF:-1 tvg-logo="http://www.afriradio.it/favicon.ico" group-title="african music,news,reggae,verona,world music",AfriRadio
+#EXTINF:-1 tvg-logo="http://www.afriradio.it/favicon.ico" group-title="news,reggae,world",AfriRadio
 http://s6.mediastreaming.it:9056/;stream.mp3
-#EXTINF:-1 tvg-logo="" group-title="commuovenity radio music",AFRO FM DE LOUGA
-http://stream.zeno.fm/5xtwt7zxr0quv?rj-ttl=5&rj-tok=AAABfd5OTmEAJnbbEUWumY70gw
-#EXTINF:-1 tvg-logo="https://alwaysradio.it/wp-content/uploads/2021/06/cropped-bianco-logo-180x180.png" group-title="dance,hardcore,hardstyle,house,reggaeton,techno",Always Radio
+#EXTINF:-1 tvg-logo="https://alwaysradio.it/wp-content/uploads/2021/06/cropped-bianco-logo-180x180.png" group-title="dance,hardcore,hardstyle",Always Radio
 https://nr9.newradio.it/proxy/mritor01?mp=/ascolta
-#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/8b/5e/8b5ec10decf33621fcb663bc67d8bf83.jpg" group-title="adult contemporary,lite",Antenna 1 FM 107.1 Roma
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/8b/5e/8b5ec10decf33621fcb663bc67d8bf83.jpg" group-title="contemporary,pop,top 40",Antenna 1 107.1
 http://a1-it.newradio.it/stream
-#EXTINF:-1 tvg-logo="http://www.antenna1.fm/favicon.ico" group-title="adult contemporary,hits,pop,soft adult contemporary",Antenna 1 Roma (107.1 MHz FM)
+#EXTINF:-1 tvg-logo="http://www.antenna1.fm/favicon.ico" group-title="contemporary,pop,top 40",Antenna 1 107.1
 http://s3.mediastreaming.it:7568/listen.pls
-#EXTINF:-1 tvg-logo="" group-title="top 40",Antenna Febea
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/xfflym7ec8fj.png" group-title="top 40,talk",Antenna Febea
 http://94.23.67.172:9249/stream
-#EXTINF:-1 tvg-logo="http://www.antennaiblea.it//sites/all/themes/rt_moxy_d6/favicon.ico" group-title="70s,80s,adult contemporary,blues,dance,funky,jazz,pop,rock,scicli",Antenna Iblea Broadcasting
+#EXTINF:-1 tvg-logo="http://www.antennaiblea.it//sites/all/themes/rt_moxy_d6/favicon.ico" group-title="70s,80s,contemporary",Antenna Iblea
 http://dreamsiteradiocp3.com:8038/stream
-#EXTINF:-1 tvg-logo="" group-title="local programming,siena",Antenna Radio Esse
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s63608/images/logog.png?t=157893" group-title="community,sports",Antenna Radio Esse 93.5
 http://s8.mediastreaming.it:9058/;stream.mp3
 #EXTINF:-1 tvg-logo="" group-title="dance,edm,electronic,house,techno,torino,trance",Apple Radio Dance
 http://s2.radioapple.eu:8000/stream
