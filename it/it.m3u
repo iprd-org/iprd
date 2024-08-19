@@ -239,115 +239,107 @@ https://stream6.xdevel.com/audio3s975809-440/stream/icecast.audio
 https://stream7.xdevel.com/audio2s975809-436/stream/icecast.audio
 #EXTINF:-1 tvg-logo="http://www.lifegate.it/app/uploads/share1.png" group-title="alternative,rock,jazz",LifeGate Radio
 https://stream6.xdevel.com/audio0s975809-425/stream/icecast.audio
-#EXTINF:-1 tvg-logo="https://www.lifegate.it/app/uploads/share1.png" group-title="music",LifeGate Radio HD
+#EXTINF:-1 tvg-logo="https://www.lifegate.it/app/uploads/share1.png" group-title="alternative,rock,jazz",LifeGate Radio HD
 https://stream3.xdevel.com/audio1s975809-429/stream/icecast.audio
 #EXTINF:-1 tvg-logo="http://www.lolliradio.net/wp-content/uploads/2016/02/logo_dance-150x150.jpg" group-title="dance,house",Lolli Radio Dance
 https://stream.lolliradio.net/lolli_dance.mp3
-#EXTINF:-1 tvg-logo="http://www.lolliradio.net/wp-content/uploads/2016/02/logo_happy-150x150.jpg" group-title="world music",Lolli Radio Happy Station
+#EXTINF:-1 tvg-logo="http://www.lolliradio.net/wp-content/uploads/2016/02/logo_happy-150x150.jpg" group-title="world,relax",Lolli Radio Happy Station
 https://stream.lolliradio.net/lolli_happy.mp3
 #EXTINF:-1 tvg-logo="http://www.lolliradio.net/wp-content/uploads/2016/02/logo_hits-150x150.jpg" group-title="hits,top 40",Lolli Radio Hits
 https://stream.lolliradio.net/lolli_hits.mp3
-#EXTINF:-1 tvg-logo="http://www.lolliradio.net/wp-content/uploads/2016/02/logo_italia-150x150.jpg" group-title="italian pop",Lolli Radio Italia
+#EXTINF:-1 tvg-logo="http://www.lolliradio.net/wp-content/uploads/2016/02/logo_italia-150x150.jpg" group-title="italo,world,pop",Lolli Radio Italia
 https://stream.lolliradio.net/lolli_italia.mp3
-#EXTINF:-1 tvg-logo="http://www.lolliradio.net/wp-content/uploads/2016/02/logo_oldies-150x150.jpg" group-title="oldies",Lolli Radio Oldies
+#EXTINF:-1 tvg-logo="http://www.lolliradio.net/wp-content/uploads/2016/02/logo_oldies-150x150.jpg" group-title="oldies,hits",Lolli Radio Oldies
 http://stream.lolliradio.net/lolli_oldies.mp3
-#EXTINF:-1 tvg-logo="http://www.lolliradio.net/wp-content/uploads/2016/02/logo_soft-150x150.jpg" group-title="soft adult contemporary",Lolli Radio Soft
+#EXTINF:-1 tvg-logo="http://www.lolliradio.net/wp-content/uploads/2016/02/logo_soft-150x150.jpg" group-title="soft,contemporary",Lolli Radio Soft
 https://stream.lolliradio.net/lolli_soft.mp3
-#EXTINF:-1 tvg-logo="" group-title="",Lolli Radio Soft
-http://stream.lolliradio.net/lolli_soft.mp3
-#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s91822q.png" group-title="canosa di puglia,love songs,soft adult contemporary,soft music",Love FM
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s91822q.png" group-title="ballads,soft,contemporary",Love FM
 http://rh.fluidstream.eu/lovefm.mp3
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/cb9577_8a24a831640c4d879b23cb8c8fbe1609%7emv2.png/v1/fill/w_32%2ch_32%2clg_1%2cusm_0.66_1.00_0.01/cb9577_8a24a831640c4d879b23cb8c8fbe1609%7emv2.png" group-title="70s,80s,roma",M100
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/cb9577_8a24a831640c4d879b23cb8c8fbe1609%7emv2.png/v1/fill/w_32%2ch_32%2clg_1%2cusm_0.66_1.00_0.01/cb9577_8a24a831640c4d879b23cb8c8fbe1609%7emv2.png" group-title="70s,80s,world",M100
 http://94.23.65.199/m100-64
-#EXTINF:-1 tvg-logo="https://www.m2o.it/wp-content/themes/network-m2o/img/logo_m2o.png" group-title="dance,house,l'espresso,pop,techno",m2o
-http://radiom2o-lh.akamaihd.net/i/RadioM2o_Live_1@42518/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.m2o.it/wp-content/themes/network-m2o/favicon.ico" group-title="",M2O italia radio
+#EXTINF:-1 tvg-logo="https://www.m2o.it/wp-content/themes/network-m2o/favicon.ico" group-title="dance,house,pop",m2o
 https://radiom2o-lh.akamaihd.net/i/RadioM2o_Live_1@42518/master.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.gelestatic.it/m2o/sites/2/2017/05/221710-thumb-full-grande.jpg" group-title="dance,dancehall,italian,italy,tv",m2o TV Italia
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
-#EXTINF:-1 tvg-logo="http://www.radiomach5.it/pl/rete1/assets/img/favicon-96x96.png" group-title="folk,latin,world music",Mach 5 - Due
+#EXTINF:-1 tvg-logo="http://www.radiomach5.it/pl/rete1/assets/img/favicon-96x96.png" group-title="folk,latin,world",Mach 5 Due
 http://sr4.inmystream.info:8183/;stream.mp3
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s92235q.png" group-title="busseto,dance,hits,pop",Malvisi Network
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s92235q.png" group-title="busseto,dance,hits",Malvisi Network
 http://onair20.xdevel.com:8062/;stream.mp3
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/d/db/Mazda_logo_1.jpg/550px-Mazda_logo_1.jpg" group-title="electronica,hiphop,instore radio,pop,recco,top 40",Mazda Zoom-Zoom Radio
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/d/db/Mazda_logo_1.jpg/550px-Mazda_logo_1.jpg" group-title="electronica,hip hop,pop",Mazda Zoom-Zoom Radio
 http://n12.radiojar.com/0tw3swmqwbwtv?rj-ttl=5&rj-tok=AAABfd4FUVgA7kQnF0H3iGjMEg
-#EXTINF:-1 tvg-logo="" group-title="lounge,talk",Media Hotel Radio
+#EXTINF:-1 tvg-logo="https://www.mediahotelradio.com/wp-content/uploads/2018/09/icon-logo.jpg" group-title="lounge,talk",Media Hotel Radio
 http://nr11.newradio.it:9306/stream
-#EXTINF:-1 tvg-logo="https://www.milanolounge.net/wp-content/uploads/Milano-Lounge-Radio-300x300.jpg" group-title="chillout,deep house,electronic,lounge",Milano Lounge Radio
+#EXTINF:-1 tvg-logo="https://www.milanolounge.net/wp-content/uploads/Milano-Lounge-Radio-300x300.jpg" group-title="chillout,deep,house",Milano Lounge Radio
 https://centova.wlservices.org/proxy/pufepstm?mp=/stream
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s95295q.png" group-title="modena,pop",Modena Radio City
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s95295q.png" group-title="world,pop",Modena Radio City
 http://onair18.xdevel.com:8230/;stream.aac
-#EXTINF:-1 tvg-logo="http://www.mondadoristore.it/images/logoFB.gif" group-title="instore radio,mediaset,milano",Mondadori Store Radio
+#EXTINF:-1 tvg-logo="http://www.mondadoristore.it/images/logoFB.gif" group-title="world,hits",Mondadori Store Radio
 http://icecast.unitedradio.it/mondadori
-#EXTINF:-1 tvg-logo="http://www.mondoradio.net/2/wp-content/uploads/2013/03/favicon.jpg" group-title="misc",Mondoradio Tuttifrutti
+#EXTINF:-1 tvg-logo="http://www.mondoradio.net/2/wp-content/uploads/2013/03/favicon.jpg" group-title="top 40,pop,rock",Mondoradio Tuttifrutti 88.6
 http://sr2.inmystream.info:8052/stream
-#EXTINF:-1 tvg-logo="" group-title="pop rock",MS Hit Radio
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/40021933.png" group-title="pop,rock",MS Hit Radio
 https://mshit-radio.stream.laut.fm/mshit-radio?ref=radiode&t302=2020-10-27_18-44-16&uuid=df04811c-7724-4496-89b7-cd02544437ed
-#EXTINF:-1 tvg-logo="http://www.multiradio.it/favicon.ico" group-title="adult contemporary,top 40",Multiradio
+#EXTINF:-1 tvg-logo="http://www.multiradio.it/favicon.ico" group-title="adult,contemporary,top 40",Multiradio
 http://212.7.194.63:9094/listen.pls
-#EXTINF:-1 tvg-logo="http://www.105.net/resizer/112/112/true/1496130706062.png--.png" group-title="mediaset,pop",MUSIC STAR Elisa
+#EXTINF:-1 tvg-logo="http://www.105.net/resizer/112/112/true/1496130706062.png--.png" group-title="world,pop",Music Star Elisa
 http://icy.unitedradio.it/Elisa.mp3
-#EXTINF:-1 tvg-logo="http://www.unitedmusic.it/favicon_6.ico?v=1558694480000" group-title="mediaset,pop",MUSIC STAR George Michael
+#EXTINF:-1 tvg-logo="http://www.unitedmusic.it/favicon_6.ico?v=1558694480000" group-title="hits,pop",Music Star George Michael
 http://icy.unitedradio.it/MusicStarPrince.mp3
-#EXTINF:-1 tvg-logo="http://www.unitedmusic.it/favicon_6.ico?v=1558694480000" group-title="mediaset,pop,soul",MUSIC STAR Giorgia
+#EXTINF:-1 tvg-logo="http://www.unitedmusic.it/favicon_6.ico?v=1558694480000" group-title="pop,soul",Music Star Giorgia
 http://edge.radiomontecarlo.net/rmcweb013
-#EXTINF:-1 tvg-logo="http://www.unitedmusic.it/favicon_6.ico?v=1558694480000" group-title="mediaset,pop",MUSIC STAR Jovanotti
+#EXTINF:-1 tvg-logo="http://www.unitedmusic.it/favicon_6.ico?v=1558694480000" group-title="world,pop",Music Star Jovanotti
 http://icy.unitedradio.it/Jovanotti.mp3
-#EXTINF:-1 tvg-logo="http://www.unitedmusic.it/favicon_6.ico?v=1558694480000" group-title="mediaset,pop rock",MUSIC STAR Ligabue
+#EXTINF:-1 tvg-logo="http://www.unitedmusic.it/favicon_6.ico?v=1558694480000" group-title="pop,rock",Music Star Ligabue
 http://icy.unitedradio.it/Ligabue.mp3
-#EXTINF:-1 tvg-logo="http://www.unitedmusic.it/favicon_6.ico?v=1558694480000" group-title="mediaset,pop",MUSIC STAR Mina
+#EXTINF:-1 tvg-logo="http://www.unitedmusic.it/favicon_6.ico?v=1558694480000" group-title="hits,pop",Music Star Mina
 http://edge.radiomontecarlo.net/rmcweb014
-#EXTINF:-1 tvg-logo="http://www.unitedmusic.it/favicon_6.ico?v=1558694480000" group-title="blues,mediaset,pop",MUSIC STAR Pino Daniele
+#EXTINF:-1 tvg-logo="http://www.unitedmusic.it/favicon_6.ico?v=1558694480000" group-title="blues,pop",Music Star Pino Daniele
 http://icy.unitedradio.it/Daniele.mp3
-#EXTINF:-1 tvg-logo="https://www.virginradio.it/upload/1545409166532.png" group-title="mediaset,rock",MUSIC STAR Queen
+#EXTINF:-1 tvg-logo="https://www.virginradio.it/upload/1545409166532.png" group-title="hits,rock",Music Star Queen
 http://icecast.unitedradio.it/Virgin_05.mp3
-#EXTINF:-1 tvg-logo="http://www.105.net/resizer/100/100/true/1488988805186.png--music_star_renato_carosone.png" group-title="easy listening,folk,mediaset",MUSIC STAR Renato Carosone
+#EXTINF:-1 tvg-logo="http://www.105.net/resizer/100/100/true/1488988805186.png--music_star_renato_carosone.png" group-title="easy listening,folk",Music Star Renato Carosone
 http://icy.unitedradio.it/RenatoCarosone.mp3
-#EXTINF:-1 tvg-logo="http://www.virginradio.it/resizer/152/152/true/1523959715237.png--.png" group-title="classic rock,mediaset",MUSIC STAR Roger Waters - Pink Floyd
+#EXTINF:-1 tvg-logo="http://www.virginradio.it/resizer/152/152/true/1523959715237.png--.png" group-title="rock,progressive",Music Star Pink Floyd
 http://icy.unitedradio.it/VirginRogerWaters.mp3
-#EXTINF:-1 tvg-logo="http://www.unitedmusic.it/favicon_6.ico?v=1558694480000" group-title="mediaset,rock",MUSIC STAR Rolling Stones
+#EXTINF:-1 tvg-logo="http://www.unitedmusic.it/favicon_6.ico?v=1558694480000" group-title="oldies,rock",Music Star Rolling Stones
 http://icy.unitedradio.it/VirginSpecialEvent.mp3
-#EXTINF:-1 tvg-logo="http://www.unitedmusic.it/favicon_6.ico?v=1558694480000" group-title="mediaset,pop",MUSIC STAR Tiziano Ferro
+#EXTINF:-1 tvg-logo="http://www.unitedmusic.it/favicon_6.ico?v=1558694480000" group-title="italo,pop",Music Star Tiziano Ferro
 http://icy.unitedradio.it/Ferro.mp3
-#EXTINF:-1 tvg-logo="http://www.unitedmusic.it/favicon_6.ico?v=1558694480000" group-title="mediaset,pop rock",MUSIC STAR Vasco
+#EXTINF:-1 tvg-logo="http://www.unitedmusic.it/favicon_6.ico?v=1558694480000" group-title="pop,rock",Music Star Vasco
 http://icy.unitedradio.it/Vasco.mp3
-#EXTINF:-1 tvg-logo="http://www.unitedmusic.it/favicon_6.ico?v=1558694480000" group-title="blues,mediaset,soul",MUSIC STAR Zucchero
+#EXTINF:-1 tvg-logo="http://www.unitedmusic.it/favicon_6.ico?v=1558694480000" group-title="blues,soul",Music Star Zucchero
 http://icy.unitedradio.it/Zucchero.mp3
-#EXTINF:-1 tvg-logo="https://www.musicajazz.it/wp-content/uploads/mj.png" group-title="blues,jazz,milano",Musica Jazz Radio
+#EXTINF:-1 tvg-logo="https://www.musicajazz.it/wp-content/uploads/mj.png" group-title="blues,jazz",Musica Jazz Radio
 http://ice03.fluidstream.net/mjr.aac
-#EXTINF:-1 tvg-logo="" group-title="70,70 80 hits,70 hits,80,80 hits,greatest hits,hq,milano,nbc,nbc milano,top 40,we play again",NBC Milano
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/cStwyMha3EYzwXsEMC3I0ZA3MIUx_YfXho1RrAzUTqUr4hQQCkUAdZldZVx65FMEzwQ=w240-h480-rw" group-title="70s,80s,hits",NBC Milano
 https://nr7.newradio.it:19350/stream
-#EXTINF:-1 tvg-logo="https://www.neuradio.it/wp-content/uploads/2019/06/favicon-02.png" group-title="afrobeats,alternative,ambient,arts,beats,black,breakbeat,cinema,culture,dub,electronic,electropop,experimental,funk,house,indie pop,indie rock,jazz,local news,minimal,minimal wave,music,new wave,news,nu-jazz,post-punk,post-rock,reggae,soul,synth,synthwave,world,worldbeat",NEU RADIO
+#EXTINF:-1 tvg-logo="https://www.neuradio.it/wp-content/uploads/2019/06/favicon-02.png" group-title="afrobeats,alternative,ambient",Neu Radio
 https://nr9.newradio.it/proxy/ebaruffa?mp=/stream
-#EXTINF:-1 tvg-logo="https://newhitsradio.streamingmedia.it/newhitsradiologo_512.png" group-title="hits,new hits",NEW HITS RADIO Italia
+#EXTINF:-1 tvg-logo="https://newhitsradio.streamingmedia.it/newhitsradiologo_512.png" group-title="hits,contemporary",New Hits Radio
 https://newhitsradio.streamingmedia.it/play
-#EXTINF:-1 tvg-logo="https://newradionetwork.com/wp-content/uploads/2021/05/cropped-logonrnnew-1-180x180.png" group-title="",New Radio Network
+#EXTINF:-1 tvg-logo="https://newradionetwork.com/wp-content/uploads/2021/05/cropped-logonrnnew-1-180x180.png" group-title="sports,news,hits",New Radio Network
 http://nr5.newradio.it:8683/stream
-#EXTINF:-1 tvg-logo="" group-title="features,milano,news",Nexus-IBA Italian Radio Relay Service
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4sc7qTC81nRwfEl-0vSale1GfwB7-hzYPrg&s" group-title="culture,news",Nexus-IBA
 http://mp3.nexus.org:8000/irn.mp3
 #EXTINF:-1 tvg-logo="http://www.novaradio.info/wp-content/uploads/2014/10/novaradio-logo-quadrato-web-large.gif" group-title="indie,talk",Novaradio Città Futura
 http://streaming.novaradio.info:8000/live.mp3
-#EXTINF:-1 tvg-logo="" group-title="music,news,sora,sport",Nuova Rete
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s95360g.png" group-title="variety,news,sports",Nuova Rete
 http://nr5.newradio.it:8623/;streaming.aac
-#EXTINF:-1 tvg-logo="" group-title="accessibilità,ciechi,non vedenti,podcast,tecnologia",NvRadio
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s245052/images/logoq.jpg" group-title="accessibilità,ciechi,tecnologia",NvRadio
 http://www.nv-radio.it:8000/stream
-#EXTINF:-1 tvg-logo="https://www.ol3radio.it/templates/rt_zenith/custom/images/ascolta-ol3radio.jpg" group-title="afrobeats,cumbia,dance,disco funk,house,italo dance anni 90,latino,reggaeton",OL3 Radio
+#EXTINF:-1 tvg-logo="https://www.ol3radio.it/templates/rt_zenith/custom/images/ascolta-ol3radio.jpg" group-title="afrobeats,cumbia,dance",OL3 Radio
 https://5c389faa13be3.streamlock.net:9553/ol3radio/ol3radio/chunklist_w1717825683.m3u8
-#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/b5rmepuwneyd.png" group-title="",One Dance
+#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/b5rmepuwneyd.png" group-title="dance,pop,hits",One Dance
 http://ice10.fluidstream.net/rn1_2.mp3
-#EXTINF:-1 tvg-logo="https://onedance.fm/favicon.ico" group-title="dance,reggaeton",One Dance
+#EXTINF:-1 tvg-logo="https://onedance.fm/favicon.ico" group-title="dance,pop,hits",One Dance
 https://ice04.fluidstream.net/rn1_2.aac
-#EXTINF:-1 tvg-logo="https://oneshot.buraglio.it/img/OneShotRadio.svg" group-title="pop",OneShot Radio
+#EXTINF:-1 tvg-logo="https://oneshot.buraglio.it/img/OneShotRadio.svg" group-title="pop,hits",OneShot Radio
 http://buraglio.it:8000/oneshot
-#EXTINF:-1 tvg-logo="" group-title="entertainment,music,news,rescaldina",Oradio
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s295805/images/logog.png?t=157121" group-title="electronic,news,rescaldina",ORadio
 http://5.135.39.189:8120/stream
-#EXTINF:-1 tvg-logo="https://www.passioninside.net/wp-content/uploads/2020/10/cropped-icona_passion2020-180x180.png" group-title="",Passion Inside Radio
+#EXTINF:-1 tvg-logo="https://www.passioninside.net/wp-content/uploads/2020/10/cropped-icona_passion2020-180x180.png" group-title="60s,70s,80s,hits",Passion Inside Radio
 http://n0d.radiojar.com/wksgarp8w74tv?rj-ttl=5&rj-tok=AAABfdrihogAWgYxCKU4FsHECA
-#EXTINF:-1 tvg-logo="" group-title="electronic",Passion Insider Radio
-http://n0d.radiojar.com/wksgarp8w74tv?rj-ttl=5&rj-tok=AAABfd5Y5aMAHF-WAtvY2iaRBQ
-#EXTINF:-1 tvg-logo="http://www.pennymarket.it/favicon.ico" group-title="instore radio,milano",Penny FM
+#EXTINF:-1 tvg-logo="http://www.pennymarket.it/favicon.ico" group-title="health,news,sports",Penny FM
 http://listen.radiomax.technology/penny-italy
-#EXTINF:-1 tvg-logo="https://www.pfarrei-kaltern.it/cache/img-struct-logo-de.png" group-title="christian,katholic,katholik,religion,religious",Pfarrradio Kaltern-Caldaro
+#EXTINF:-1 tvg-logo="https://www.pfarrei-kaltern.it/cache/img-struct-logo-de.png" group-title="christian,katholik,religious",Pfarrradio Kaltern-Caldaro
 https://radiocast.cloud/radio/8110/radio.mp3?1603457029
 #EXTINF:-1 tvg-logo="" group-title="",Pizzica e Dintoni
 http://nr8.newradio.it:9217/stream
