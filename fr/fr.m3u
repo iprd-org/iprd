@@ -537,12 +537,6 @@ http://listen.radioking.com/radio/66448/stream/104095
 http://listen.radioking.com/radio/40990/stream/77503
 #EXTINF:-1 tvg-logo="https://mradio.fr/media/option/logo.png" group-title="paris,chanson francaise",M Radio Nouvelle Scène
 http://mfmwr-005.ice.infomaniak.ch/mfmwr-005.mp3
-#EXTINF:-1 tvg-logo="http://www.mistralfm.fr/upload/5b3f2b9be12f43.34166908.ico" group-title="chanson francaise,pop",Mistral FM
-HTTP://icepe8.infomaniak.ch:80/mistralfm-high.mp3
-#EXTINF:-1 tvg-logo="http://www.mistralfm.com/upload/52d7bd22c7f545.12490394.ico" group-title="chason francaise,pop",Mistral FM Marseille
-http://mistralfmaubagne.ice.infomaniak.ch/mistralfmaubagne-128.mp3
-#EXTINF:-1 tvg-logo="http://www.mistralfm.com/upload/52d7bd22c7f545.12490394.ico" group-title="top 40,pop",Mistral FM Toulon
-http://mistralfm.ice.infomaniak.ch/mistralfm-high.mp3
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a2a637_a106707b7de84241b800c2269660b8ab~mv2.png/v1/fill/w_171,h_153,al_c,usm_0.66_1.00_0.01/a2a637_a106707b7de84241b800c2269660b8ab~mv2.png" group-title="latin,hits",MIXX FM
 http://mixxfmfr.ice.infomaniak.ch/mixxfmfr-192.mp3
 #EXTINF:-1 tvg-logo="https://modular-station.com/app/themes/modular-station/dist/images/modular-station-192_3bcbc4e6.png" group-title="ambient,electronic,experimental,modular synthesis,soundscape,techno",Modular-Station
@@ -579,10 +573,6 @@ http://listen.radioking.com/radio/605/stream/2195
 http://listen.radioking.com/radio/119437/stream/158899
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DHSyDlxXkAAZJzE.jpg" group-title="anime,japanese music,jpop,jrock",Nihon no Oto
 http://stream1.nihon-no-oto.com/nihonogg
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/p1295144/images/logod.png?t=163353" group-title="classical,electro",Radio Nova Danse
-https://nova-dance.ice.infomaniak.ch/nova-dance-128
-#EXTINF:-1 tvg-logo="https://www.radio.fr/images/broadcasts/d3/07/24596/1/c300.png" group-title="eclectic,pop",Nova Lyon
-http://nova-lyon.ice.infomaniak.ch/nova-lyon-128.mp3?_=1
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/ywYGsbsSZX.pngdestroyed?" group-title="dance,mix",Radio NTI
 http://streaming.radionti.com/nti-128.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/78/be/10680/3/c300.png" group-title="rock,pop",Océane FM
