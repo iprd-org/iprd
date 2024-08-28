@@ -679,10 +679,6 @@ https://casper.radioca.st/listen.pls
 http://philae.shoutca.st:8459/
 #EXTINF:-1 tvg-logo="http://s05.flagcounter.com/count/ak/bg_ffffff/txt_000000/border_cccccc/columns_2/maxflags_8/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" group-title="bhangra,bollywood,pakistani",Radio Central 24
 http://philae.shoutca.st:8459/stream
-#EXTINF:-1 tvg-logo="https://listenapi.s3.amazonaws.com/img/ConfigWebListenBarLogoImageUrl/40.png" group-title="hits,pop,top 40",Radio City
-http://live-bauer-al.sharp-stream.com/city.mp3
-#EXTINF:-1 tvg-logo="https://planetradio.co.uk/tesla/static/favicons/greatest-hits/apple-touch-icon.png" group-title="pop,hits,oldies",Radio City 2
-http://live-bauer-mz.sharp-stream.com/magic1548.mp3
 #EXTINF:-1 tvg-logo="https://www.radiocrimson.com/wp-content/uploads/2019/01/RC_favicon.png" group-title="rock,indie,alternative",Radio Crimson
 https://n09.radiojar.com/44pkchxr8mruv?rj-ttl=5&rj-tok=AAABfdwk1-AAGRsISk0whS_RHA
 #EXTINF:-1 tvg-logo="https://i1.wp.com/radioearn.org/wp-content/uploads/2021/06/cropped-RE_Support2_FillBlack_Large.png" group-title="pop,soul,jazz",Radio Earn
@@ -691,9 +687,9 @@ https://teamradioearn.radioca.st./stream
 https://playoutonestreaming.com/proxy/essex?mp=/stream
 #EXTINF:-1 tvg-logo="https://www.herewego.rocks/wp-content/uploads/2020/09/cropped-AppIcon_2020-32x32.png" group-title="magyar,world",Radio HereWeGo
 http://178.238.212.164:4500/live.mp3
-#EXTINF:-1 tvg-logo="http://radiojackie.com/rj.gif" group-title="oldies,pop,rock",Radio Jackie 107.8
+#EXTINF:-1 tvg-logo="http://radiojackie.com/rj.gif" group-title="oldies,pop,rock",Radio Jackie 107.8 128Kbps AAC
 http://media.radiojackie.com/redirector/frontend.m3u8
-#EXTINF:-1 tvg-logo="http://radiojackie.com/rj.gif" group-title="oldies,pop,rock",Radio Jackie 107.8
+#EXTINF:-1 tvg-logo="http://radiojackie.com/rj.gif" group-title="oldies,pop,rock",Radio Jackie 107.8 320Kbps AAC
 http://media.radiojackie.com:5873/
 #EXTINF:-1 tvg-logo="http://radiolemans.0157.org/audios/rs1logo.png" group-title="motorsport,sport,talk",Radio Le Mans RS1
 http://edge-event-04-thn.sharp-stream.com/radioshow.mp3
@@ -859,6 +855,8 @@ http://37.59.47.192:8212/
 http://247house.fm:9500/stream#.mp3
 #EXTINF:-1 tvg-logo="https://uk.radio.net/images/broadcasts/e9/79/131447/1/c300.png" group-title="breaks,drum'n'bass,dubstep",Subtle Radio
 https://subtle.out.airtime.pro/subtle_a?_=1
+#EXTINF:-1 tvg-logo="https://streetsoundsradio.com/images/ssr-240.png" group-title="70s,80s,pop,soul",Street Sounds Radio
+https://streaming.broadcastradio.com:10525/streetsd
 #EXTINF:-1 tvg-logo="https://sun-fm.com/favicon.ico" group-title="pop,news,talk",Sun 103.4 FM
 http://edge-ads-03-gos2.sharp-stream.com/sunfmi.aac
 #EXTINF:-1 tvg-logo="http://mm.aiircdn.com/215/279207.png" group-title="bollywood,news,variety",Sunrise Radio 963
@@ -983,6 +981,8 @@ http://worldwidefm.out.airtime.pro:8000/worldwidefm_a
 http://streaming.edmradio.online:8025/WRN-E
 #EXTINF:-1 tvg-logo="https://2xfsxz394vd5hn5q4qxb878f-wpengine.netdna-ssl.com/wp-content/themes/encompassmarketing/library/images/logoDK.svg" group-title="news,talk",World Radio Network North America
 http://streaming.edmradio.online:8025/NAMAAP
+#EXTINF:-1 tvg-logo="https://api.broadcast.radio/api/image/86b65c6d-5845-4e02-b471-029686d54446.jpg?g=center&w=600&h=600&c=true" group-title="news,talk,pop",Wythenshawe FM 97.2FM South Manchester
+https://streaming.broadcastradio.com:11925/wfmcr
 #EXTINF:-1 tvg-logo="https://mmo.aiircdn.com/366/601ec9bad9621.png" group-title="pop,variety,youth",Youthcomm Radio
 http://radio.canstream.co.uk:8039/live.mp3
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/db/9c/db9c7e329c6fe3a8b97ffe8962549caf.jpg" group-title="soul,80s,90s",Zonkers Radio
