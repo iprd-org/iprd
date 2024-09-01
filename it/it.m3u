@@ -1413,123 +1413,115 @@ http://www.radiophonica.com:8100/radiophonica.mp3
 http://stream.radiorizzonti.com/orizzonti
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s164215g.png" group-title="variety,pop",Radio Stella Piemonte
 http://94.23.67.172:9315/
-#EXTINF:-1 tvg-logo="https://www.radio.net/300/rairadiodue.png?version=9c8fc30dfbab96c3aa4d8a36acc4434e" group-title="pop,hits",RAI Radio 2
+#EXTINF:-1 tvg-logo="https://www.radio.net/300/rairadiodue.png?version=9c8fc30dfbab96c3aa4d8a36acc4434e" group-title="pop,hits",Rai Radio 2
 https://icestreaming.rai.it/2.mp3
-#EXTINF:-1 tvg-logo="http://www.raibz.rai.it//it/touch/large.png" group-title="public,talk,hits",RAI Alto Adige
+#EXTINF:-1 tvg-logo="http://www.raibz.rai.it//it/touch/large.png" group-title="public,talk,hits",Rai Alto Adige
 http://radiobzlive.rai.it/RAI_AltoAdige
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/3/31/Rai_FVG.jpg" group-title="public,talk",RAI Friuli Venezia Giulia
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/3/31/Rai_FVG.jpg" group-title="public,talk",Rai Friuli Venezia Giulia
 http://b2.httpstream2.rai.it/venezia1_audioH24.isml/QualityLevels(128000)/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/d/dc/Rai_Furlanija_Julijska_krajina_logo.png" group-title="public,slovenian,world",RAI FJK
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/d/dc/Rai_Furlanija_Julijska_krajina_logo.png" group-title="public,slovenian,world",Rai FJK
 http://b2.httpstream2.rai.it/gr_sloveno.isml/QualityLevels(128000)/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/e/ee/Rai_Parliamento_%282015-%29.png/revision/latest?cb=20161009023006" group-title="politics,talk",RAI Gr Parlamento
+#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/e/ee/Rai_Parliamento_%282015-%29.png/revision/latest?cb=20161009023006" group-title="politics,talk",Rai Gr Parlamento
 http://icestreaming.rai.it/7.mp3
-#EXTINF:-1 tvg-logo="" group-title="",Rai Isoradio
+#EXTINF:-1 tvg-logo="https://ca.radio.net/300/raiisoradio.png?version=4288ff68ad307900455ee97b2f12f216" group-title="traffic,talk",Rai Isoradio
 https://isoradioest-live.akamaized.net/hls/live/2032602/isoradioest/isoradioest/playlist.m3u8?auth=daEcidOcgbdbtdycfaacpczdMaratbaauby-bHWuNH-c0-ImrwxFq&aifp=V001
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/c/ce/Rai_IsoRadio.svg/revision/latest?cb=20160928143027" group-title="public radio,rai",Rai Isoradio
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/c/ce/Rai_IsoRadio.svg/revision/latest?cb=20160928143027" group-title="traffic,talk",Rai Isoradio
 http://icestreaming.rai.it/6.mp3
-#EXTINF:-1 tvg-logo="https://www.raiplay.it/dl/rai/images/favicon.gif" group-title="",Rai News
-https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_1800/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="news,public radio,rai",Rai Radio 1
+#EXTINF:-1 tvg-logo="https://ca.radio.net/300/rairadiouno.jpeg?version=15ca269562d5e19b53012afdf5495cd3" group-title="news,talk",Rai Radio 1
 http://icestreaming.rai.it/1.mp3
-#EXTINF:-1 tvg-logo="https://www.raiplayradio.it//dl/components/img/raiplayradio-logo-app.png?20171218124118" group-title="pop,public radio,rai,sport",Rai Radio 1 Sport
+#EXTINF:-1 tvg-logo="https://www.raiplayradio.it//dl/components/img/raiplayradio-logo-app.png?20171218124118" group-title="pop,public,sport",Rai Radio 1 Sport
 http://icestreaming.rai.it/13.mp3
-#EXTINF:-1 tvg-logo="" group-title="public radio,rai",Rai Radio 2
+#EXTINF:-1 tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84164a5e3737b2596001ea8c17" group-title="pop,hits",Rai Radio 2
 http://icestreaming.rai.it/2.mp3
-#EXTINF:-1 tvg-logo="http://db.radioline.fr/pictures/radio_bac81bc62f776c6dbc4f71704143df87/logo200.jpg?size=200" group-title="classical,culture,public radio,rai",Rai Radio 3
+#EXTINF:-1 tvg-logo="http://db.radioline.fr/pictures/radio_bac81bc62f776c6dbc4f71704143df87/logo200.jpg?size=200" group-title="classical,culture",Rai Radio 3
 http://icestreaming.rai.it/3.mp3
-#EXTINF:-1 tvg-logo="https://www.raiplayradio.it/dl/components/img/radio/loghi/radioclassica.svg" group-title="classical,public radio,rai",Rai Radio Classica (AAC 128kbps)
+#EXTINF:-1 tvg-logo="https://www.raiplayradio.it/dl/components/img/radio/loghi/radioclassica.svg" group-title="classical,public",Rai Radio Classica
 https://radiotreclassica-live.akamaized.net/hls/live/2032595/radiotreclassica/radiotreclassica/playlist.m3u8?auth=daEdhdwbUa7czaNdRcObUbSard1b9c6afbs-bHWH_x-c0-HmtvxEw&aifp=V001
-#EXTINF:-1 tvg-logo="https://www.raiplayradio.it//dl/components/img/raiplayradio-logo-app.png?20171218124118" group-title="classical,classical music,rai",Rai Radio Classica Filodiffusione
+#EXTINF:-1 tvg-logo="https://www.raiplayradio.it//dl/components/img/raiplayradio-logo-app.png?20171218124118" group-title="classical,baroque",Rai Radio Classica Filodiffusione
 http://icestreaming.rai.it/5.mp3
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Rai_Radio_Kids_logo.svg/2000px-Rai_Radio_Kids_logo.svg.png" group-title="children,kids,public radio,rai",Rai Radio Kids
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Rai_Radio_Kids_logo.svg/2000px-Rai_Radio_Kids_logo.svg.png" group-title="kids,public",Rai Radio Kids
 http://icestreaming.rai.it/11.mp3
-#EXTINF:-1 tvg-logo="" group-title="public radio,rai",Rai Radio Live
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s132645/images/logog.jpg?t=636390" group-title="rock,pop,variety",Rai Radio Live
 http://icestreaming.rai.it/10.mp3
-#EXTINF:-1 tvg-logo="" group-title="public radio,rai",Rai Radio Techetè
+#EXTINF:-1 tvg-logo="https://www.raiplaysound.it/cropgd/1200x630/dl/img/2021/12/09/1639051279337_radio-techete_600x6001.png" group-title="public,oldies",Rai Radio Techetè
 http://icestreaming.rai.it/9.mp3
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s25592/images/logoq.jpg" group-title="",Rai Radio Tutta Italiana
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s25592/images/logoq.jpg" group-title="world,folk",Rai Radio Tutta Italiana
 http://icestreaming.rai.it/4.mp3
-#EXTINF:-1 tvg-logo="http://www.raibz.rai.it//de/touch/large.png" group-title="ladin,public radio,rai,regional service",Rai Südtirol
+#EXTINF:-1 tvg-logo="http://www.raibz.rai.it//de/touch/large.png" group-title="german,public",Rai Südtirol
 http://radiobzlive.rai.it/RAIBZ_Livestream
-#EXTINF:-1 tvg-logo="http://raibz.rai.it/it/touch/square.png" group-title="",Rai Südtirol (TV)
-http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.raiplay.it/dl/rai/images/favicon.gif" group-title="",RaiNews
-https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_2400/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",RaiNews
-https://zh2-5-hls7-live.zahs.tv/CH_rainews/m.m3u8?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCNSDGJCDCQJTGYZTMNJRGE2UELJRIM2TSMSGIMZDSMZUGA3DSRBGMRZG2PLIMRRXAORNGETG2YLYOJQXIZJ5GUYDAMBGONUWOPJRGJPWIMBVGY3WGNBVGFRDEM3GGJTDGNRXGQYWENRTMZSWCYJVMUYDIYRGOVZWK4S7NFSD253JNRWWCYJ2HJ3WS3DNMFQSM5R5GA
-#EXTINF:-1 tvg-logo="http://www.rampower.it/wp-content/uploads/logo-RAM-800x468px.jpg" group-title="classic hits,contemporary hits",RAM Power
+#EXTINF:-1 tvg-logo="http://www.rampower.it/wp-content/uploads/logo-RAM-800x468px.jpg" group-title="hits,contemporary",RAM Power
 https://icstream.rds.radio/RAM256
-#EXTINF:-1 tvg-logo="http://www.abruzzo.fm/frinquellogo.gif" group-title="classic hits",Ratio Frinquello
+#EXTINF:-1 tvg-logo="http://www.abruzzo.fm/frinquellogo.gif" group-title="oldies,hits",Ratio Frinquello
 http://49.12.129.103:8046/stream
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s124677q.png" group-title="grosseto,misc",RBC Radio Barbanella City
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s124677q.png" group-title="world,folk",RBC Radio
 http://c1.server89.com:8038/1
-#EXTINF:-1 tvg-logo="http://www.rcn101.it/favicon.ico" group-title="adult contemporary,quattromiglia",RCN 101 (Radio Cosenza Nord)
+#EXTINF:-1 tvg-logo="http://www.rcn101.it/favicon.ico" group-title="contemporary,gospel",RCN 101
 http://onair15.xdevel.com:8866/;stream.mp3
-#EXTINF:-1 tvg-logo="http://players.fluidstream.it/RCSMelody/images/cover_default.jpg" group-title="italian pop,napoli,rcs network",RCS Melody
+#EXTINF:-1 tvg-logo="http://players.fluidstream.it/RCSMelody/images/cover_default.jpg" group-title="italo,pop",RCS Melody
 http://ice09.fluidstream.net/fluid9120.aac
-#EXTINF:-1 tvg-logo="http://players.fluidstream.it/RCSNapoli/images/cover_default.jpg" group-title="adult contemporary,napoli,rcs network,talk",RCS Napoli
+#EXTINF:-1 tvg-logo="http://players.fluidstream.it/RCSNapoli/images/cover_default.jpg" group-title="contemporary,talk",RCS Napoli
 http://ice12.fluidstream.net/fluid1201.mp3
-#EXTINF:-1 tvg-logo="http://players.fluidstream.it/RCS/images/cover_default.jpg" group-title="adult contemporary,napoli,rcs network,talk",RCS Radio Camaldoli Stereo
+#EXTINF:-1 tvg-logo="http://players.fluidstream.it/RCS/images/cover_default.jpg" group-title="contemporary,talk",RCS Radio Camaldoli Stereo
 http://ice09.fluidstream.net/fluid9114.aac
-#EXTINF:-1 tvg-logo="" group-title="napoli,oldies,rcs network",RCS Story
+#EXTINF:-1 tvg-logo="https://www.radio.fr/images/broadcasts/ed/5d/40620/1/c300.png" group-title="oldies,50s,60s",RCS Story
 http://ice09.fluidstream.net/fluid9116.aac
-#EXTINF:-1 tvg-logo="https://www.rcvradio.it/wp-content/uploads/2020/01/logo-R.C.V.-radio.png" group-title="",RCV Radio
+#EXTINF:-1 tvg-logo="https://www.rcvradio.it/wp-content/uploads/2020/01/logo-R.C.V.-radio.png" group-title="pop,top 40,contemporary",RCV Radio 99.7
 http://nr4.newradio.it:9412/stream
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bJ0K92cD/logo-rdr.jpg" group-title="music,napoli,talk",RDR Rainbow Diversamente Radio
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bJ0K92cD/logo-rdr.jpg" group-title="top 40,talk",RDR Rainbow Diversamente Radio
 https://rdrtv.radioca.st/stream
-#EXTINF:-1 tvg-logo="http://inostrilocali.altervista.org/loghiRadio/rds.jpg" group-title="",RDS
+#EXTINF:-1 tvg-logo="http://inostrilocali.altervista.org/loghiRadio/rds.jpg" group-title="hits,top 40,charts",RDS
 https://icstream.rds.radio/rds64k
-#EXTINF:-1 tvg-logo="http://www.rds.it/wp-content/uploads/2015/03/placeholder_fb.png" group-title="adult contemporary,pop",RDS Radio Dimensione Suono
+#EXTINF:-1 tvg-logo="http://www.rds.it/wp-content/uploads/2015/03/placeholder_fb.png" group-title="contemporary,pop",RDS Radio Dimensione Suono
 https://icstream.rds.radio/rds
 #EXTINF:-1 tvg-logo="http://www.rdsrelax.it/images/RDSRelax_3.png" group-title="easy listening,relax",RDS Relax
 https://stream.rds.radio/audio/rdsrelax.stream_aac/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s305394/images/logoq.jpg" group-title="classic hits,easy listening",Regional Radio
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s305394/images/logoq.jpg" group-title="hits,easy listening",Regional Radio
 http://lyra.shoutca.st:8593/stream
-#EXTINF:-1 tvg-logo="https://repubblicrock.altervista.org/wp-content/uploads/2019/11/REPUBBLIC-ROCK-RADIO.jpg" group-title="",Repubblic Rock Radio
+#EXTINF:-1 tvg-logo="https://repubblicrock.altervista.org/wp-content/uploads/2019/11/REPUBBLIC-ROCK-RADIO.jpg" group-title="rock,hits",Repubblic Rock Radio
 https://repubblicrockradio.stream.laut.fm/repubblicrockradio?ref=web-app&start_time=1632920059398&t302=2021-09-29_14-54-19&uuid=58cf1184-76b2-4e9c-bd17-1b7b88500313
-#EXTINF:-1 tvg-logo="http://www.rete104.it/img/mela_small_B_120x105.jpg" group-title="pop",Rete 104
+#EXTINF:-1 tvg-logo="http://www.rete104.it/img/mela_small_B_120x105.jpg" group-title="pop,contemporary",Rete 104
 http://sr3.inmystream.info:8231/stream
-#EXTINF:-1 tvg-logo="https://www.rete94.it/wp-content/uploads/2018/11/cropped-rete-94-nero-180x180.png" group-title="agrigento,local news,pop",Rete 94
+#EXTINF:-1 tvg-logo="https://www.rete94.it/wp-content/uploads/2018/11/cropped-rete-94-nero-180x180.png" group-title="news,pop",Rete 94
 http://dreamsiteradiocp3.com:8110/stream
-#EXTINF:-1 tvg-logo="http://www.retekappa.it/images/rete_kappa_2.jpg" group-title="top 40",Rete Kappa Top 100
+#EXTINF:-1 tvg-logo="http://www.retekappa.it/images/rete_kappa_2.jpg" group-title="top 40,pop",Rete Kappa Top 100
 http://94.23.67.172:9375/stream
-#EXTINF:-1 tvg-logo="" group-title="acicastello,pop",Rete Radio Network
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/41311910.jpg" group-title="sports,top 40",Rete Radio Network
 http://s3.shoutitaly.com:8038/;stream.mp3
-#EXTINF:-1 tvg-logo="http://www.ritmo80.it/favicon.ico" group-title="80s",Ritmo 80
+#EXTINF:-1 tvg-logo="http://www.ritmo80.it/favicon.ico" group-title="80s,hits",Ritmo 80
 http://ice02.fluidstream.net/ritmo80.aac
-#EXTINF:-1 tvg-logo="http://www.rlb.it/radio/wp-content/uploads/2016/09/favico.png" group-title="electronica,pop,rende,rock",RLB Radioattiva
+#EXTINF:-1 tvg-logo="http://www.rlb.it/radio/wp-content/uploads/2016/09/favico.png" group-title="electronica,pop,rock",RLB Radioattiva
 http://nr5.newradio.it:8767/stream.mp3
-#EXTINF:-1 tvg-logo="http://rlv.it/pagine/Sfondi/Logotop.jpg" group-title="adult contemporary,levanto",RLV Radio Levanto Val di Vara
+#EXTINF:-1 tvg-logo="http://rlv.it/pagine/Sfondi/Logotop.jpg" group-title="contemporary,hits",RLV Radio Levanto Val di Vara
 http://onair15.xdevel.com:8430/;stream.mp3
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s188414d.png" group-title="chillout,deep house,lounge,salerno",RMA Salerno
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s188414d.png" group-title="chillout,deep,house",RMA Salerno
 http://kemoniastreaming2.net:8034/stream
-#EXTINF:-1 tvg-logo="http://www.radiomontecarlo.net/resizer/112/112/true/1474622887378.jpg--.jpg" group-title="80s,mediaset",RMC 80
+#EXTINF:-1 tvg-logo="http://www.radiomontecarlo.net/resizer/112/112/true/1474622887378.jpg--.jpg" group-title="80s,hits",RMC 80
 http://edge.radiomontecarlo.net/rmcweb008
-#EXTINF:-1 tvg-logo="http://www.radiomontecarlo.net/resizer/112/112/true/1474622866065.jpg--.jpg" group-title="90s,mediaset",RMC 90
+#EXTINF:-1 tvg-logo="http://www.radiomontecarlo.net/resizer/112/112/true/1474622866065.jpg--.jpg" group-title="90s,hits",RMC 90
 http://edge.radiomontecarlo.net/rmcweb009
-#EXTINF:-1 tvg-logo="http://www.radiomontecarlo.net/resizer/112/112/true/1426264437047.jpg--.jpg" group-title="mediaset,mood",RMC Buddha-Bar
+#EXTINF:-1 tvg-logo="http://www.radiomontecarlo.net/resizer/112/112/true/1426264437047.jpg--.jpg" group-title="relax,ambient",RMC Buddha-Bar
 http://edge.radiomontecarlo.net/rmcweb002
-#EXTINF:-1 tvg-logo="https://www.radiomontecarlo.net/upload/1552399244159.jpg" group-title="disco,funk,mediaset",RMC Disco Funk
+#EXTINF:-1 tvg-logo="https://www.radiomontecarlo.net/upload/1552399244159.jpg" group-title="disco,funk",RMC Disco Funk
 http://edge.radiomontecarlo.net/rmcweb025
-#EXTINF:-1 tvg-logo="http://www.radiomontecarlo.net/resizer/112/112/true/1474622748537.jpg--.jpg" group-title="mediaset,pop",RMC Duets
+#EXTINF:-1 tvg-logo="http://www.radiomontecarlo.net/resizer/112/112/true/1474622748537.jpg--.jpg" group-title="hits,pop",RMC Duets
 http://edge.radiomontecarlo.net/rmcweb003
-#EXTINF:-1 tvg-logo="http://www.radiomontecarlo.net/resizer/112/112/true/1484661965530.jpg--.jpg" group-title="classic hits,hits,mediaset",RMC Great Artists
+#EXTINF:-1 tvg-logo="http://www.radiomontecarlo.net/resizer/112/112/true/1484661965530.jpg--.jpg" group-title="oldies,hits",RMC Great Artists
 http://edge.radiomontecarlo.net/rmcweb007
-#EXTINF:-1 tvg-logo="http://www.radiomontecarlo.net/resizer/112/112/true/1474622773424.jpg--.jpg" group-title="hits,mediaset",RMC Hits
+#EXTINF:-1 tvg-logo="http://www.radiomontecarlo.net/resizer/112/112/true/1474622773424.jpg--.jpg" group-title="hits,oldies",RMC Hits
 http://edge.radiomontecarlo.net/rmcweb001
-#EXTINF:-1 tvg-logo="http://www.radiomontecarlo.net/resizer/112/112/true/1474622909566.jpg--.jpg" group-title="italian,italian pop,mediaset",RMC Italia
+#EXTINF:-1 tvg-logo="http://www.radiomontecarlo.net/resizer/112/112/true/1474622909566.jpg--.jpg" group-title="italo,pop,world",RMC Italia
 http://edge.radiomontecarlo.net/rmcweb005
-#EXTINF:-1 tvg-logo="http://www.radiomontecarlo.net/resizer/112/112/true/1474622823469.jpg--.jpg" group-title="mediaset,pop",RMC Kay Kay
+#EXTINF:-1 tvg-logo="http://www.radiomontecarlo.net/resizer/112/112/true/1474622823469.jpg--.jpg" group-title="rock,pop,top 40",RMC Radio Kay Kay
 http://edge.radiomontecarlo.net/rmcweb004
-#EXTINF:-1 tvg-logo="http://www.radiomontecarlo.net/resizer/112/112/true/1474622939528.jpg--.jpg" group-title="love songs,mediaset,soft adult contemporary,soft music",RMC Love Songs
+#EXTINF:-1 tvg-logo="http://www.radiomontecarlo.net/resizer/112/112/true/1474622939528.jpg--.jpg" group-title="ballads,contemporary,soft",RMC Love Songs
 http://edge.radiomontecarlo.net/rmcweb006
-#EXTINF:-1 tvg-logo="http://www.radiomontecarlo.net/resizer/112/112/true/1480437358041.jpg--.jpg" group-title="chillout,latin jazz,lounge,mediaset,soul",RMC Marine
+#EXTINF:-1 tvg-logo="http://www.radiomontecarlo.net/resizer/112/112/true/1480437358041.jpg--.jpg" group-title="chillout,latin,jazz",RMC Marine
 http://edge.radiomontecarlo.net/rmcweb010
-#EXTINF:-1 tvg-logo="http://www.radiomontecarlo.net/resizer/112/112/true/1474622960513.jpg--.jpg" group-title="00s,hits,mediaset",RMC New Classics
+#EXTINF:-1 tvg-logo="http://www.radiomontecarlo.net/resizer/112/112/true/1474622960513.jpg--.jpg" group-title="00s,hits",RMC New Classics
 http://edge.radiomontecarlo.net/rmcweb011
-#EXTINF:-1 tvg-logo="http://www.radiomontecarlo.net/resizer/112/112/true/1474622984263.jpg--.jpg" group-title="fusion,mediaset,nu-jazz,world music",RMC Nights Story
+#EXTINF:-1 tvg-logo="http://www.radiomontecarlo.net/resizer/112/112/true/1474622984263.jpg--.jpg" group-title="fusion,jazz,world",RMC Nights Story
 http://edge.radiomontecarlo.net/rmcweb012
-#EXTINF:-1 tvg-logo="http://www.radiomontecarlo.net/resizer/80/80/true/1522335538453.jpg--.jpg" group-title="disco,mediaset,party",RMC Party
+#EXTINF:-1 tvg-logo="http://www.radiomontecarlo.net/resizer/80/80/true/1522335538453.jpg--.jpg" group-title="disco,party",RMC Party
 http://edge.radiomontecarlo.net/rmcweb018
 #EXTINF:-1 tvg-logo="http://www.radiomontecarlo.net/resizer/112/112/true/1474623016703.jpg--.jpg" group-title="adult contemporary,mediaset,pop",RMC Radio Monte Carlo
 http://icecast.unitedradio.it/RMC.mp3
