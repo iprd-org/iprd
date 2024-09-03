@@ -1623,23 +1623,23 @@ http://icy.unitedradio.it/SubasioPerUnOraDAmore.mp3
 http://ice.creacast.com/sudtirol1a
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-S-n4JeC_rh6mgTSRkb_6eB_k-4ryhNVdQQ&s" group-title="funk,r'n'b,jazz",Sweet'n'Sour Radio
 http://sweetnsour.stream.laut.fm/sweetnsour?t302=2021-12-21_17-38-09&uuid=34100c9d-14ca-4ccc-a967-697ce3214236
-#EXTINF:-1 tvg-logo="https://tangopasionradio.com/wp-content/uploads/2020/09/cropped-logo-180x180.png" group-title="tango",Tango Pasión Radio
+#EXTINF:-1 tvg-logo="https://tangopasionradio.com/wp-content/uploads/2020/09/cropped-logo-180x180.png" group-title="tango,dance",Tango Pasión Radio
 http://nr11.newradio.it:9180/stream
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s92374q.png" group-title="pop,savigliano",Tele Radio Savigliano
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s92374q.png" group-title="pop,hits",Tele Radio Savigliano
 http://stream15.top-ix.org/radiotrs
-#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s17518q.png" group-title="roma,sport,talk",Tele Radio Stereo
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s17518q.png" group-title="sports,talk",Tele Radio Stereo
 http://trsw.inmystream.info:8068/;stream.mp3
-#EXTINF:-1 tvg-logo="http://www.radiovallecamonica.it/wp-content/uploads/2018/01/1980_Adesivo_-300x300.jpg" group-title="boario terme,italian pop",Tele Radio Valle Camonica
+#EXTINF:-1 tvg-logo="http://www.radiovallecamonica.it/wp-content/uploads/2018/01/1980_Adesivo_-300x300.jpg" group-title="world,pop",Tele Radio Valle Camonica
 http://onair20.xdevel.com:8320/stream
-#EXTINF:-1 tvg-logo="http://www.teleradioveneta.com/TRV_LOGO_RIL.ico" group-title="conco,pop",Tele Radio Veneta
+#EXTINF:-1 tvg-logo="http://www.teleradioveneta.com/TRV_LOGO_RIL.ico" group-title="world,pop",TRV
 http://onair18.xdevel.com:8428/;stream.mp3
-#EXTINF:-1 tvg-logo="https://teleradio1.com/wp-content/uploads/2021/01/TeleRadioLogo3.png" group-title="canzoni,disco,euro-pop,italo,italo-disco,italo-pop,schlager,worl-music",TeleRadio1
+#EXTINF:-1 tvg-logo="https://teleradio1.com/wp-content/uploads/2021/01/TeleRadioLogo3.png" group-title="disco,pop,italo",TeleRadio1
 http://teleradio1.stream.laut.fm/teleradio1?t302=2021-12-21_03-23-37&uuid=b8fd45b7-54b5-4c87-8c2c-ec2d80a2b023
-#EXTINF:-1 tvg-logo="" group-title="",The Space Cinema Radio
+#EXTINF:-1 tvg-logo="https://www.radiojar.com/content/stations/ag1zfnJhZGlvamFyY29tcjILEgpBdXRoQ2xpZW50GICAoN_J580IDAsSDlN0YXRpb25Qcm9maWxlGICAgOCs15UKDKIBA2Rldg/image/?lu=Sun%20Feb%2005%2012:29:15%20UTC+0000%202023" group-title="talk,variety",The Space Cinema Radio
 http://n0e.radiojar.com/6e0rteguc7duv?rj-ttl=5&rj-tok=AAABfdsCXL0ADV_nCP0qeuv8oA
-#EXTINF:-1 tvg-logo="" group-title="",TMW Radio
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/70/83/39289/4/c300.png" group-title="talk,sports",TMW Radio
 https://stream.tmwradio.com/tmw.aac
-#EXTINF:-1 tvg-logo="http://www.todaydanceradio.com/_media/img/thumb/tdr-today-dance-radio-icon.png" group-title="dance,disco,funky,top 40",Today Dance Radio
+#EXTINF:-1 tvg-logo="http://www.todaydanceradio.com/_media/img/thumb/tdr-today-dance-radio-icon.png" group-title="dance,disco,funky",Today Dance Radio
 http://protostar.shoutca.st:8390/listen.pls
 #EXTINF:-1 tvg-logo="https://tonicnet.it/wp-content/uploads/2020/06/cropped-logo-tonic-180x180.png" group-title="electronica,pop,top 40",Tonic Fitness Radio Ascoli Piceno
 http://radioserver-professional.it:8000/radio-008
@@ -1661,83 +1661,73 @@ http://radioserver-professional.it:8000/radio-010
 http://radioserver-professional.it:8000/radio-011
 #EXTINF:-1 tvg-logo="https://tonicnet.it/wp-content/uploads/2020/06/cropped-logo-tonic-180x180.png" group-title="electronica,pop,top 40",Tonic Fitness Radio Torino Collegno
 http://radioserver-professional.it:8000/radio-003
-#EXTINF:-1 tvg-logo="https://www.topitaliaradio.it/wp-content/uploads/2018/06/cropped-Logo-Tir_2018_-270x270.gif" group-title="aosta,pop,top 40",Top Italia Radio
+#EXTINF:-1 tvg-logo="https://www.topitaliaradio.it/wp-content/uploads/2018/06/cropped-Logo-Tir_2018_-270x270.gif" group-title="pop,top 40",Top Italia Radio
 http://streaming.cst98.com:8000/tir.mp3
-#EXTINF:-1 tvg-logo="https://toradio.it/wp-content/uploads/2017/01/600x600-370x370.png" group-title="news,pop,talk,top 40,torino",TOradio
+#EXTINF:-1 tvg-logo="https://toradio.it/wp-content/uploads/2017/01/600x600-370x370.png" group-title="news,pop,talk",TOradio
 https://nr5.newradio.it/proxy/fsrls?mp=/stream
-#EXTINF:-1 tvg-logo="https://www.totalradio.it/wp-content/uploads/2021/02/cropped-icona_totalradio-180x180.png" group-title="dance music",Total Radio
-https://icy.unitedradio.it/um123.mp3
-#EXTINF:-1 tvg-logo="https://www.reteitalianaculturapopolare.org/templates/tmpl_ff_bootstrap/images/logo-rete-italiana-cultura-popolare.gif" group-title="cultural,italian pop",Tradi Radio
+#EXTINF:-1 tvg-logo="https://www.reteitalianaculturapopolare.org/templates/tmpl_ff_bootstrap/images/logo-rete-italiana-cultura-popolare.gif" group-title="culture,pop",Tradi Radio
 http://stream15.top-ix.org/radiorete
-#EXTINF:-1 tvg-logo="http://www.unitedmusic.it/favicon_6.ico?v=1558694480000" group-title="christmas music,mediaset",Traditional Christmas
+#EXTINF:-1 tvg-logo="http://www.unitedmusic.it/favicon_6.ico?v=1558694480000" group-title="christmas,holiday",Traditional Christmas
 http://icecast.unitedradio.it/um033.mp3
-#EXTINF:-1 tvg-logo="http://www.radiotrm.com/wp-content/uploads/2017/01/TRM-logo-40-anni-OK-1.png" group-title="italian pop",Trasmissioni Radio Malvaglio
+#EXTINF:-1 tvg-logo="http://www.radiotrm.com/wp-content/uploads/2017/01/TRM-logo-40-anni-OK-1.png" group-title="world,pop",Trasmissioni Radio Malvaglio
 http://sr3.inmystream.info:8095/stream
-#EXTINF:-1 tvg-logo="https://www.radiotrc.net/wp-content/uploads/2018/09/Logo-Radio-TRC-positivo.jpg" group-title="bronte,pop,top 40",TRC - Tele Radio Ciclope
+#EXTINF:-1 tvg-logo="https://www.radiotrc.net/wp-content/uploads/2018/09/Logo-Radio-TRC-positivo.jpg" group-title="pop,top 40",TRC
 http://onair15.xdevel.com:9070/listen.pls
-#EXTINF:-1 tvg-logo="http://www.tvrs.it/favicon.ico" group-title="",TVRS TV
-http://wms.shared.streamshow.it/tvrs/tvrs/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.umbriaradio.it/favicon.ico" group-title="music,news,sport",Umbria Radio
+#EXTINF:-1 tvg-logo="http://www.umbriaradio.it/favicon.ico" group-title="news,sports",Umbria Radio
 http://213.136.90.169:8065/
-#EXTINF:-1 tvg-logo="" group-title="multicultural,onlus,roma,save the children,student radio",UndeRadio
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/ea/dc/eadc8fcf310455a2aab026112b641919.jpg" group-title="culture,student",UndeRadio
 http://nr5.newradio.it:8524/stream
-#EXTINF:-1 tvg-logo="https://www.unitedmusic.com/favicon_6.ico?v=1558694480000" group-title="music non stop,musica italiana",United Music Italia 2000
+#EXTINF:-1 tvg-logo="https://www.unitedmusic.com/favicon_6.ico?v=1558694480000" group-title="world,hits",United Music Italia 2000
 https://icy.unitedradio.it/um013.mp3
-#EXTINF:-1 tvg-logo="https://files.botsin.space/accounts/avatars/000/210/127/original/0b5f63ad159b5785.png" group-title="copyleft,creative commons,free software,open source,royaltyfree",Unitoo LiveRadio
+#EXTINF:-1 tvg-logo="https://files.botsin.space/accounts/avatars/000/210/127/original/0b5f63ad159b5785.png" group-title="copyleft,variety",Unitoo LiveRadio
 https://radio.unitoo.it/radio/8000/radio.mp3
-#EXTINF:-1 tvg-logo="https://www.inmystream.app/player/venetoradio/tmp/images/default.jpg" group-title="pop",Veneto Radio
+#EXTINF:-1 tvg-logo="https://www.inmystream.app/player/venetoradio/tmp/images/default.jpg" group-title="pop,world",Veneto Radio
 https://sr11.inmystream.it/proxy/paolo1?mp=/stream
-#EXTINF:-1 tvg-logo="https://www.veniceclassicradio.eu/test/html5/image/a.png" group-title="classical",Venice Classic Radio *LIVE
-http://116.202.241.212:8020/
-#EXTINF:-1 tvg-logo="" group-title="classical",Venice Classic Radio *LIVE
+#EXTINF:-1 tvg-logo="https://www.veniceclassicradio.eu/test/html5/image/a.png" group-title="classical,baroque",Venice Classic Radio
 http://116.202.241.212:8020/stream
-#EXTINF:-1 tvg-logo="http://www.veronica.it/templates/radiowave/includes/images/ios/icon@2x.png" group-title="adult contemporary,pesaro",Veronica My Radio
+#EXTINF:-1 tvg-logo="http://www.veronica.it/templates/radiowave/includes/images/ios/icon@2x.png" group-title="contemporary,hits",Veronica My Radio
 http://sphera.fluidstream.eu/rpd.mp3?FLID=8
-#EXTINF:-1 tvg-logo="https://www.vibrafm.it/logo.jpg" group-title="caribbean rhythm,electrolatino,reggaeton",Vibra FM
+#EXTINF:-1 tvg-logo="https://www.vibrafm.it/logo.jpg" group-title="world,electro,reggaeton",Vibra FM
 http://ice02.fluidstream.net/playstudio.mp3
-#EXTINF:-1 tvg-logo="http://www.virginradio.it/upload/1464618443020.png" group-title="classic rock,mediaset",Virgin Radio Classic Rock
+#EXTINF:-1 tvg-logo="http://www.virginradio.it/upload/1464618443020.png" group-title="rock,hits",Virgin Radio Classic Rock
 http://icy.unitedradio.it/VirginRockClassics.mp3
-#EXTINF:-1 tvg-logo="http://www.virginradio.it/upload/1464618389085.png" group-title="hard rock,mediaset",Virgin Radio Hard Rock
+#EXTINF:-1 tvg-logo="http://www.virginradio.it/upload/1464618389085.png" group-title="hard,rock",Virgin Radio Hard Rock
 http://icy.unitedradio.it/VirginHardRock.mp3
-#EXTINF:-1 tvg-logo="http://www.virginradio.it/upload/1429513004299.png" group-title="mediaset,pop rock",Virgin Radio Italia
+#EXTINF:-1 tvg-logo="http://www.virginradio.it/upload/1429513004299.png" group-title="pop,rock",Virgin Radio Italia
 http://icecast.unitedradio.it/Virgin.mp3
-#EXTINF:-1 tvg-logo="http://www.virginradio.it/upload/1464617965673.png" group-title="70s,classic rock,mediaset",Virgin Radio Rock '70
+#EXTINF:-1 tvg-logo="http://www.virginradio.it/upload/1464617965673.png" group-title="70s,rock",Virgin Radio Rock '70
 http://icy.unitedradio.it/VirginRock70.mp3
-#EXTINF:-1 tvg-logo="http://www.virginradio.it/upload/1464618006747.png" group-title="80s,classic rock,mediaset",Virgin Radio Rock '80
+#EXTINF:-1 tvg-logo="http://www.virginradio.it/upload/1464618006747.png" group-title="80s,rock",Virgin Radio Rock '80
 http://icy.unitedradio.it/VirginRock80.mp3
-#EXTINF:-1 tvg-logo="https://www.virginradio.it/upload/1547217562829.png" group-title="90s,classic rock,mediaset",Virgin Radio Rock '90
+#EXTINF:-1 tvg-logo="https://www.virginradio.it/upload/1547217562829.png" group-title="90s,rock",Virgin Radio Rock '90
 http://icy.unitedradio.it/Virgin_03.mp3
-#EXTINF:-1 tvg-logo="https://www.virginradio.it/upload/1547215881793.png" group-title="00s,mediaset,rock",Virgin Radio Rock 2K
+#EXTINF:-1 tvg-logo="https://www.virginradio.it/upload/1547215881793.png" group-title="00s,rock",Virgin Radio Rock 2K
 http://icy.unitedradio.it/Virgin_02.mp3
-#EXTINF:-1 tvg-logo="http://www.virginradio.it/upload/1464618466177.png" group-title="alternative rock,mediaset",Virgin Radio Rock Alternative
+#EXTINF:-1 tvg-logo="http://www.virginradio.it/upload/1464618466177.png" group-title="alternative,rock",Virgin Radio Rock Alternative
 http://icy.unitedradio.it/VirginRockAlternative.mp3
-#EXTINF:-1 tvg-logo="https://www.virginradio.it/upload/1555428080159.png" group-title="ballads,mediaset",Virgin Radio Rock Ballads
+#EXTINF:-1 tvg-logo="https://www.virginradio.it/upload/1555428080159.png" group-title="ballads,hits",Virgin Radio Rock Ballads
 http://icy.unitedradio.it/Virgin_06.mp3
-#EXTINF:-1 tvg-logo="http://www.virginradio.it/upload/1464618491053.png" group-title="hits,mediaset,rock",Virgin Radio Rock Hits
+#EXTINF:-1 tvg-logo="http://www.virginradio.it/upload/1464618491053.png" group-title="hits,rock",Virgin Radio Rock Hits
 http://icy.unitedradio.it/VirginRockHits.mp3
-#EXTINF:-1 tvg-logo="http://www.virginradio.it/upload/1464618512503.png" group-title="mediaset,pop rock",Virgin Radio Rock Party
+#EXTINF:-1 tvg-logo="http://www.virginradio.it/upload/1464618512503.png" group-title="pop,rock",Virgin Radio Rock Party
 http://icy.unitedradio.it/VirginRockParty.mp3
-#EXTINF:-1 tvg-logo="http://www.dabliuradio.it/logo.png" group-title="palermo,variety",W - DabliuRadio
+#EXTINF:-1 tvg-logo="http://www.dabliuradio.it/logo.png" group-title="pop,news,talk",Dabliu Radio 88.8
 http://sr10.inmystream.info:8114/listen.pls
-#EXTINF:-1 tvg-logo="https://www.webpieveradio.it/favicon.ico" group-title="a tu per tu live,a tutto ballo,cool music seduction,dal lambro al missisipi,discontinuo,electrovibes,entertainment,gb dj mix,il replicante,mondo bongo,music,musica reale,pandorando,pieve emanuele,radio virtuale,talk,tra una cosa e l'altra",Web Pieve Radio
+#EXTINF:-1 tvg-logo="https://www.webpieveradio.it/favicon.ico" group-title="electrovibes,dj,pandorando",Web Pieve Radio
 http://eu1.fastcast4u.com/proxy/webpieve?mp=/1
-#EXTINF:-1 tvg-logo="" group-title="hits,talk",Web Radio 5.9
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShwaovEiz0_wAH_rVSkYWd-_iKfmt-OuRjPw&s" group-title="hits,talk",Web Radio 5.9
 http://5.135.39.189:8106/stream
 #EXTINF:-1 tvg-logo="https://weblivetv.it/wp-content/uploads/2021/01/logo-radio-ufficiale.png" group-title="podcast,talk",WebLive Radio
 https://weblivetv.radioca.st/stream
-#EXTINF:-1 tvg-logo="" group-title="classic italian pop,italian pop,italian programming",webradionetwork
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/17/4b/39288/1/c300.png" group-title="pop,italo,world",WebRadioNetwork
 http://sr2.webradionetwork.eu:8000/listen.pls
-#EXTINF:-1 tvg-logo="" group-title="adult contemporary",WebRadioNetwork
-http://sr2.webradionetwork.eu:8000/stream
-#EXTINF:-1 tvg-logo="https://www.whiteradio.it/themes/img/logo-white-radio.jpg" group-title="misc,prato",White Radio
+#EXTINF:-1 tvg-logo="https://www.whiteradio.it/themes/img/logo-white-radio.jpg" group-title="hits,world",White Radio
 http://streaming.gheri.it:8020/listen.pls
-#EXTINF:-1 tvg-logo="https://liveonlineradio.net/wp-content/uploads/2020/03/wrn-web-radio-italia-100x47.jpg" group-title="",WRN - Web Radio Network
-http://sr2.webradionetwork.eu:8000/
-#EXTINF:-1 tvg-logo="https://www.105.net/resizer/380/380/true/1480523220519.png--.png" group-title="christmas music,mediaset",XMas Radio
+#EXTINF:-1 tvg-logo="https://www.105.net/resizer/380/380/true/1480523220519.png--.png" group-title="christmas,holidays",XMas Radio
 https://icecast.unitedradio.it/um025.mp3
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/f60a4e_b7f3afaa2c934220bc084de410ee4c38~mv2_d_1957_1944_s_2.png/v1/fill/w_453,h_448,al_c,usm_0.66_1.00_0.01/f60a4e_b7f3afaa2c934220bc084de410ee4c38~mv2_d_1957_1944_s_2.png" group-title="brit pop,dance,san donà di piave",YES! Radio Dance
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/f60a4e_b7f3afaa2c934220bc084de410ee4c38~mv2_d_1957_1944_s_2.png/v1/fill/w_453,h_448,al_c,usm_0.66_1.00_0.01/f60a4e_b7f3afaa2c934220bc084de410ee4c38~mv2_d_1957_1944_s_2.png" group-title="pop,dance,world",YES! Radio Dance
 http://91.121.118.99:8082/stream
-#EXTINF:-1 tvg-logo="https://www.youngradio.it/nuovosito/wp-content/uploads/2019/03/cropped-favicon-1-95x95-180x180.png" group-title="breakbeat,entertainment,hiphop,indie,pop,top 40,usmate velate",Young Radio
+#EXTINF:-1 tvg-logo="https://www.youngradio.it/nuovosito/wp-content/uploads/2019/03/cropped-favicon-1-95x95-180x180.png" group-title="hip hop,indie,pop",Young Radio
 http://178.32.138.88:8050/;stream.mp3
-#EXTINF:-1 tvg-logo="" group-title="pop",Zeta
+#EXTINF:-1 tvg-logo="https://www.radio.net/300/zeta.png?version=5e40fe23c9741b7f7c84cb999de4c6ab" group-title="pop,talk,hits",Radio Zeta 102.7
 https://rtl-radio-stream-thron.akamaized.net/live/radio3/radio3/chunklist.m3u8
