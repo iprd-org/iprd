@@ -1,65 +1,61 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://bbn1.bbnradio.org/favicon.ico" group-title="christian",BBN Japanese
+#EXTINF:-1 tvg-logo="https://bbn1.bbnradio.org/favicon.ico" group-title="christian,religious",BBN Japanese
 https://bbnjapanese-lh.akamaihd.net/i/BibleBroadcasting_Japaneseios@87760/master.m3u8
-#EXTINF:-1 tvg-logo="https://bigbradio.net/sites/default/files/logo-transparent-sm.png" group-title="music,pop",Big B Radio - Jpop
+#EXTINF:-1 tvg-logo="https://bigbradio.net/sites/default/files/logo-transparent-sm.png" group-title="music,pop",Big B Radio 
 https://antares.dribbcast.com/proxy/jpop?mp=/s
-#EXTINF:-1 tvg-logo="https://fmchappy.jp/web/wp-content/uploads/2018/12/hedder_logo.png" group-title="",Fm Chappy
+#EXTINF:-1 tvg-logo="https://fmchappy.jp/web/wp-content/uploads/2018/12/hedder_logo.png" group-title="news,talk,community",FM Chappy 77.7
 https://fsn-ais-relay1.leanstream.co/musicbird/JCB019.stream
-#EXTINF:-1 tvg-logo="http://fm.kahoku.net/wp-content/uploads/2017/07/fmkahoku_logo.gif" group-title="enka,japan,japanese,jpop,kayokyoku,talk radio",FM Kahoku 78.7 (FMかほく, JOZZ5AM-FM, 78.7 MHz, Kahoku City, Ishikawa)
+#EXTINF:-1 tvg-logo="http://fm.kahoku.net/wp-content/uploads/2017/07/fmkahoku_logo.gif" group-title="enka,jpop,talk",FM Kahoku 78.7
 http://radio.kahoku.net:8000/listen.pls
-#EXTINF:-1 tvg-logo="https://bjapan.jp/p201201bj1.jpg" group-title="christian,japan,japanese",Friendship Radio
+#EXTINF:-1 tvg-logo="https://bjapan.jp/p201201bj1.jpg" group-title="christian,religious",Friendship Radio
 http://198.7.59.28:8028/stream
 #EXTINF:-1 tvg-logo="https://gensokyoradio.net/favicon.ico" group-title="anime,touhou",Gensokyo Radio
 https://stream.gensokyoradio.net/3/
-#EXTINF:-1 tvg-logo="https://www.hitsujikai-radio.com/uploads/1/0/8/5/10859804/tunein-squarelogo-1518516858774_orig.png" group-title="christian",Hitsujikai Radio
+#EXTINF:-1 tvg-logo="https://www.hitsujikai-radio.com/uploads/1/0/8/5/10859804/tunein-squarelogo-1518516858774_orig.png" group-title="christian,religious",Hitsujikai Radio
 http://streaming.radio.co/se4a8e6a93/listen
-#EXTINF:-1 tvg-logo="" group-title="jpop",J1 Gold (HTTP)
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s296850/images/logog.png?t=1" group-title="jpop,world",J1 Gold 
 http://jenny.torontocast.com:8062/
-#EXTINF:-1 tvg-logo="" group-title="",J1 Hits (HTTP)
+#EXTINF:-1 tvg-logo="https://mmo.aiircdn.com/387/5e763a347e800.png" group-title="jpop,world",J1 Hits
 http://jenny.torontocast.com:8056/
-#EXTINF:-1 tvg-logo="" group-title="jpop",J1 XTRA (HTTP)
+#EXTINF:-1 tvg-logo="https://mmo.aiircdn.com/387/5e76abc69417c.png" group-title="jpop,world",J1 Xtra
 http://jenny.torontocast.com:8058/
-#EXTINF:-1 tvg-logo="https://asiadreamradio.torontocast.stream/stations/en/images/en/JazzSakuraLogo512jp.png" group-title="japanese,japanese music,jazz",Jazz Sakura (asia dream radio)
+#EXTINF:-1 tvg-logo="https://asiadreamradio.torontocast.stream/stations/en/images/en/JazzSakuraLogo512jp.png" group-title="ambient,world,jazz",Jazz Sakura
 http://kathy.torontocast.com:3330/stream/1/?esPlayer&cb=82181.mp3
-#EXTINF:-1 tvg-logo="" group-title="",Kishiwada Radio
+#EXTINF:-1 tvg-logo="https://ca.radio.net/images/broadcasts/85/31/15223/c300.png" group-title="pop,world",Radio Kishiwada 79.7
 http://61.89.201.27:8000/radikishi.mp3
-#EXTINF:-1 tvg-logo="https://listen.moe//favicon.ico" group-title="jpop",Listen.Moe JPop Vorbis
+#EXTINF:-1 tvg-logo="https://listen.moe//favicon.ico" group-title="jpop,world",LISTEN.moe
 https://listen.moe/stream
-#EXTINF:-1 tvg-logo="https://static.parastorage.com/client/pfavico.ico" group-title="deep house,techno",Moon Mission Recordings
+#EXTINF:-1 tvg-logo="https://static.parastorage.com/client/pfavico.ico" group-title="deep,house,techno",Moon Mission Recordings
 http://uk5.internet-radio.com:8306/
-#EXTINF:-1 tvg-logo="http://nettv.live/uploads/allimg/19/1-1912251G3550-L.jpg" group-title="",NHK Chinese Vision TV
-http://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www3.nhk.or.jp//nhkworld/common/site_images/nw_webapp.ico" group-title="news",NHK WORLD RADIO JAPAN
+#EXTINF:-1 tvg-logo="https://www3.nhk.or.jp//nhkworld/common/site_images/nw_webapp.ico" group-title="news,talk",NHK World Radio
 http://nhkworld.webcdn.stream.ne.jp/www11/radiojapan/all/263949/live_s.m3u8
-#EXTINF:-1 tvg-logo="https://www3.nhk.or.jp/nhkworld/common/site_images/nw_webapp_152x152.png" group-title="world news",NHK World Radio Japan - Japanese
+#EXTINF:-1 tvg-logo="https://www3.nhk.or.jp/nhkworld/common/site_images/nw_webapp_152x152.png" group-title="talk,news",NHK World Radio (Japanese)
 https://nhkworld.webcdn.stream.ne.jp/www11/radiojapan/all/263943/live_s.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",NHK World TV
-http://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_2M.m3u8
-#EXTINF:-1 tvg-logo="https://www.nhk.or.jp/nhk-600x600.png" group-title="news",NHK华语·韩语广播
+#EXTINF:-1 tvg-logo="https://www.nhk.or.jp/nhk-600x600.png" group-title="news,talk,chinese",NHK Chinese Language
 https://nhkworld.webcdn.stream.ne.jp/www11/radiojapan/all/263945/live_s.m3u8
-#EXTINF:-1 tvg-logo="https://www3.nhk.or.jp/nhkworld/common/assets/parts/images/logo_world.svg" group-title="culture,news",NHK国际广播（华语时间12:00）
+#EXTINF:-1 tvg-logo="https://www3.nhk.or.jp/nhkworld/common/assets/parts/images/logo_world.svg" group-title="culture,news,world",NHK International Broadcast
 https://nhkwlive-radio.akamaized.net/hls/live/2032383/radio-rs4/index_06.m3u8
-#EXTINF:-1 tvg-logo="https://www3.nhk.or.jp/nhkworld/common/assets/parts/images/logo_world.svg" group-title="culture,international,news,world",NHK国际广播（华语时间19:30、20:30、21:30、22:30）
+#EXTINF:-1 tvg-logo="https://www3.nhk.or.jp/nhkworld/common/assets/parts/images/logo_world.svg" group-title="culture,news,world",NHK International Broadcast
 https://nhkwlive-radio.akamaized.net/hls/live/2032381/radio-rs1/index_03.m3u8
-#EXTINF:-1 tvg-logo="https://plaza.one//img/icons/mstile-144x144.png?v=7knqx0aR5k" group-title="aesthetic,chillwave,futurefunk,lofi,vaporwave",Nightwave Plaza Opus 64
+#EXTINF:-1 tvg-logo="https://plaza.one//img/icons/mstile-144x144.png?v=7knqx0aR5k" group-title="aesthetic,chillwave,futurefunk",Nightwave Plaza Opus 64
 http://radio.plaza.one/opus_64
-#EXTINF:-1 tvg-logo="https://external-preview.redd.it/2Tvi1CLOc5AFJZkfW5THxoJ-uoqnz28eba5f_TaH3hE.jpg?auto=webp&s=9c8ab63d9e3d3d372ae86680feba6c6b081addbf" group-title="aesthetic,chillwave,futurefunk,lofi,vaporwave",Nightwave Plaza OPUS 96
+#EXTINF:-1 tvg-logo="https://external-preview.redd.it/2Tvi1CLOc5AFJZkfW5THxoJ-uoqnz28eba5f_TaH3hE.jpg?auto=webp&s=9c8ab63d9e3d3d372ae86680feba6c6b081addbf" group-title="aesthetic,chillwave,futurefunk",Nightwave Plaza OPUS 96
 http://radio.plaza.one/opus
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/4c9e72_c1dc15bcafaf402fabc0e85d288f824c.png/v1/fill/w_782,h_782,al_c,q_90,usm_0.66_1.00_0.01/4c9e72_c1dc15bcafaf402fabc0e85d288f824c.webp" group-title="jazz,smooth jazz",Nonstop Casiopea
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/4c9e72_c1dc15bcafaf402fabc0e85d288f824c.png/v1/fill/w_782,h_782,al_c,q_90,usm_0.66_1.00_0.01/4c9e72_c1dc15bcafaf402fabc0e85d288f824c.webp" group-title="jazz,blues",Nonstop Casiopea
 http://hyades.shoutca.st:8551/listen.pls
-#EXTINF:-1 tvg-logo="https://ottava.jp/img/common/touch_icon.png" group-title="classical",Ottava
+#EXTINF:-1 tvg-logo="https://ottava.jp/img/common/touch_icon.png" group-title="classical,baroque",Ottava
 http://ottava2.out.airtime.pro:8000/ottava2_a
 #EXTINF:-1 tvg-logo="http://r-a-d.io/assets/logotitle_2.png" group-title="anime,jpop",R/a/dio
 https://relay0.r-a-d.io/main.mp3
-#EXTINF:-1 tvg-logo="" group-title="chiptune,retro games,soundtracks,video game",Retro PC GAME MUSIC Streaming Radio
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/7/12947.v1.png" group-title="chiptune,retro,soundtracks",Retro PC Game Music Streaming Radio
 http://gyusyabu.ddo.jp:8000/
-#EXTINF:-1 tvg-logo="https://abs.twimg.com/favicons/twitter.ico" group-title="variety",Senshu Jolly FM 82.6
+#EXTINF:-1 tvg-logo="https://abs.twimg.com/favicons/twitter.ico" group-title="variety,pop,rock",Senshu Jolly 82.6
 http://s22.myradiostream.com:6866/
-#EXTINF:-1 tvg-logo="https://www.beachfm.co.jp/favicon.ico" group-title="classic jazz,hawaiian music,pop,smooth jazz",Shonan Beach FM 78.9
+#EXTINF:-1 tvg-logo="https://www.beachfm.co.jp/favicon.ico" group-title="jazz,hawaiian,pop",Shonan Beach 78.9
 http://shonanbeachfm.out.airtime.pro:8000/shonanbeachfm_a
-#EXTINF:-1 tvg-logo="https://i.imgur.com/H1L9Hw3.jpg" group-title="international",Súper Tokio Radio
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H1L9Hw3.jpg" group-title="world,reggaeton,latin",Súper Tokio Radio
 https://streamer.radio.co/s83eb8ff39/listen
-#EXTINF:-1 tvg-logo="https://i.imgur.com/naLo8q4.png" group-title="pop",Tatsuro Yamashita Radio
+#EXTINF:-1 tvg-logo="https://i.imgur.com/naLo8q4.png" group-title="pop,electronic",Tatsuro Yamashita Radio
 http://stream.zeno.fm/p83d0vdp54zuv?rj-ttl=5&rj-tok=AAABfd3q9bgAywbv0WWVEEWz-g
-#EXTINF:-1 tvg-logo="https://ottava.jp/planet/voice-of-the-planet/_files/200000015-0b0fb0b0ff/200/ottava_twitter-02%20(1)-0.png" group-title="",Voice of the Planet Ottava
+#EXTINF:-1 tvg-logo="https://ottava.jp/planet/voice-of-the-planet/_files/200000015-0b0fb0b0ff/200/ottava_twitter-02%20(1)-0.png" group-title="classical,ambient,nature",Voice of the Planet Ottava
 http://voiceoftheplanet.out.airtime.pro:8000/voiceoftheplanet_a
