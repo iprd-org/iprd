@@ -1,81 +1,39 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="international",Arirang FM
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s81696g.png" group-title="news,culture,education",Arirang FM
 http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/chunklist_b528000_sleng.m3u8
-#EXTINF:-1 tvg-logo="http://www.arirang.com/arirang_blue.png" group-title="tv",Arirang TV
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="classical",befm
+#EXTINF:-1 tvg-logo="https://www.abu.org.my/wp-content/uploads/2019/07/befm-resized.png" group-title="classical,pop",BeFM 90.5
 http://befm905.live.smilecdn.com:1935/befm905_live/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bigbradio.net/sites/default/files/logo-transparent-sm.png" group-title="music,pop",Big B Radio - Kpop
+#EXTINF:-1 tvg-logo="https://bigbradio.net/sites/default/files/logo-transparent-sm.png" group-title="world,pop",Big B Radio
 https://antares.dribbcast.com/proxy/kpop?mp=/s
-#EXTINF:-1 tvg-logo="http://nettv.live/uploads/19/1-1Z206231936164.jpg" group-title="",Buddhist Broadcasting System TV
-http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://nettv.live/uploads/allimg/19/1-1Z206200F40-L.jpg" group-title="",Buddhist True Network TV
-http://btn.nowcdn.co.kr/btn/btnlive01/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.cpbc.co.kr/favicon.ico" group-title="",CPBC TV
-http://onair1.cpbc.co.kr:1935/tv/mp4:live720/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="foreign languages",ebs tune in
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy2KSv1WZvPw8ZkZSVovquwvAlZUw5aoWCMA&s" group-title="news,sports",EBS Radio
 https://ebsonair.ebs.co.kr/fmradiofamilypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://nettv.live/uploads/18/1-1PZ4204I2O3.jpg" group-title="",EBS TV-1
-http://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://nettv.live/uploads/18/1-1Q1091T54JZ.jpg" group-title="",EBS TV-2
-http://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://nettv.live/uploads/18/1-1Q1091U45I43.jpg" group-title="",EBS TV-e
-http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://nettv.live/uploads/18/1-1Q1091ZJ4232.jpg" group-title="",EBS TV-i
-http://ebsonairios.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://nettv.live/uploads/18/1-1Q1091Z205130.jpg" group-title="",EBS TV-Kids
-http://ebsonairios.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://nettv.live/uploads/18/1-1Q109191211535.jpg" group-title="",EBS TV-Plus 2
-http://ebsonairios.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/uSW5P2YwpY.png" group-title="",FM 95.1 TBS fm
+#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/uSW5P2YwpY.png" group-title="pop,world",TBS 95.1
 http://58.234.158.60:1935/fmlive/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",GugakFM
+#EXTINF:-1 tvg-logo="https://www.radio.net/300/gugakfm991.png?version=b5432b5555c52569563bec862bca273f" group-title="gugak,world",Gugak 99.1
 https://mgugaklive.nowcdn.co.kr/gugakradio/gugakradio.stream/chunklist_w253831608.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",gukak
-http://mgugaklive.nowcdn.co.kr/gugakradio/gugakradio.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",Gukak TV
-http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.kbs.co.kr//resources/images/favorite/favorite.png" group-title="",KBS 1R
-https://1radio.gscdn.kbs.co.kr/1radio_192_1.m3u8?Expires=1640285831&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xcmFkaW8uZ3NjZG4ua2JzLmNvLmtyLzFyYWRpb18xOTJfMS5tM3U4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjQwMjg1ODMxfX19XX0_&Signature=hIX3rBD8Cw4Qph6n-NiOKaKR6pEteBfXlt461Z3JYK-kdmMi~fjFffCSsT7BOJmWCbj09NgPcBVvKM6eP7k8FewEOo03~HBLAHBqzZM24fWVzv9ZXn9NDVK1MjGS50ZB4eY4p~lKW1Gj4iUQovxIXlXik-QOyJ7l2s5DFjkvXPuCabEwrfZAsuPMQ2FQZMoScXLE05QI9gicyj-aNgjm2k6lD7CD-SFRq1uImpSOx9Y97C5WBsgelAeJyXlrQs2XbodM9oOeVGPThPEIxSdD3NRAbRSG1mKEK6L5zLnDj5InWSNtOHFKhyjUmeWH-wwlJX~81eX~jYFa7KPxgkbr-w__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
-#EXTINF:-1 tvg-logo="http://www.kbs.co.kr//resources/images/favorite/favorite.png" group-title="",KBS 1Radio
-https://2radio-ad.gscdn.kbs.co.kr/2radio-ad_1280p.m3u8?Expires=1640219720&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ycmFkaW8tYWQuZ3NjZG4ua2JzLmNvLmtyLzJyYWRpby1hZF8xMjgwcC5tM3U4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjQwMjE5NzIwfX19XX0_&Signature=EhqZB17QCewGIuDWb88hAXLEnFcurKP8miNJ-JvgW7VF8PhvVFcYt0IgL515VXiGfPWPCw5BUXHoHk5b4Lu7EopSuA~HJeDzH6t7bgoNLiKH~RO6N9OUkcYQvG6Hq5STlnuYNgErr3Kr0Q9uXxAjtBSXXS9F68JFDgnpk4xxgsyDFxa-SGHySyzEzBY51Jaa8PW5usWBPzPu-6DHZtoCV1AhtrKMl6bGkjOthXVoTZdiQu0XT3s7KzLv2QB0ZLhTVC5UIOc4CGAp9h9PD0Nt5vN~VNrsqM7tOoaoI6TDzjDBVpLtQS-mpISvj1R6lLjmllPsl4-vMnLTqa1cCL6qEw__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
-#EXTINF:-1 tvg-logo="http://www.kbs.co.kr//resources/images/favorite/favorite.png" group-title="",KBS Classic FM
-https://1fm.gscdn.kbs.co.kr/1fm_192_1.m3u8?Expires=1640286179&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLzFmbV8xOTJfMS5tM3U4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjQwMjg2MTc5fX19XX0_&Signature=Qt7udKBDTQ81Ao~YM8qIjMxtPqINaQGJgFBdaGPi96OZ4XGlqZ0VYx8JlAo0xavGLOYnzIFVh~sRWqYszGS9YBY5eMNFG3pvVElDmRDMp~yScSGkZd~sMycRN9W6Cq87QAH4UBzZQzV1xG7eLrTGah55VOc2cdFrZdhizh7GZo6mUbx9tc-Wdj0YLOV43pJ~VSBddb~mlLil4L2-PvxiIA9iPLXvhBI7tVWUyTP90T-mHnM1BJQpLy5Gw2IxLCTnzYTj31RQED7NS6G7Uc7cedINaSu6bU9~TxI4nELNZhAup5dUcYzT7dPyaSFcPpbMiMPYOQOTING6lqT68LhQFw__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
-#EXTINF:-1 tvg-logo="http://www.kbs.co.kr//resources/images/favorite/favorite.png" group-title="",KBS Cool FM
-https://2fm.gscdn.kbs.co.kr/2fm_192_1.m3u8?Expires=1640273200&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8yZm0uZ3NjZG4ua2JzLmNvLmtyLzJmbV8xOTJfMS5tM3U4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjQwMjczMjAwfX19XX0_&Signature=C6m7buxVqUliqBXEpgfTjTaMTdJSHP-t~5S0dwR2HkB1CXezWLWwh5fmPSZvwaC~bxZo20RI3o9Mhf2wWu69TN5mo-C3xsSgc0pwE36m-jowKXwZHt~02a9weORnNCyvXYamyuOAGRvYi8p05wrq7v0hUCtL0szXLpVT5i3jYCy0CjFfxEyuZsHTWm7nYgVyCFTe5aAm~Zan86ft313Xfc~5SITNI--PLj69BuogTN8zs6jouq22Sw6Kovg0flgxCyusI80g75HzzLJjq8ijHABy~T21ztznyDSSijNQsD~7B0basn0PczdbUHrTXP2d7VaEKtzNV0BvRsjVr6fADg__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
-#EXTINF:-1 tvg-logo="http://world.kbs.co.kr/favicon.ico" group-title="",KBS World Arabic Radio
+#EXTINF:-1 tvg-logo="http://world.kbs.co.kr/favicon.ico" group-title="news,talk,arabic",KBS World Arabic Radio
 http://101.79.244.199:1935/cocotv/_definst_/CH00001/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://world.kbs.co.kr/favicon.ico" group-title="",KBS World Chinese Radio
+#EXTINF:-1 tvg-logo="http://world.kbs.co.kr/favicon.ico" group-title="news,talk,chinese",KBS World Chinese Radio
 http://101.79.244.199:1935/cocotv/_definst_/CH00002/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://world.kbs.co.kr/favicon.ico" group-title="",KBS World French Radio
+#EXTINF:-1 tvg-logo="http://world.kbs.co.kr/favicon.ico" group-title="news,talk,french",KBS World French Radio
 http://101.79.244.199:1935/cocotv/_definst_/CH00004/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://world.kbs.co.kr/favicon.ico" group-title="",KBS World German Radio
+#EXTINF:-1 tvg-logo="http://world.kbs.co.kr/favicon.ico" group-title="news,talk,german",KBS World German Radio
 http://101.79.244.199:1935/cocotv/_definst_/CH00005/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://world.kbs.co.kr/favicon.ico" group-title="",KBS World Japanese Radio
+#EXTINF:-1 tvg-logo="http://world.kbs.co.kr/favicon.ico" group-title="news,talk,japanese",KBS World Japanese Radio
 http://101.79.244.199:1935/cocotv/_definst_/CH00007/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://world.kbs.co.kr/favicon.ico" group-title="",KBS World Russian Radio
+#EXTINF:-1 tvg-logo="http://world.kbs.co.kr/favicon.ico" group-title="news,talk,russian",KBS World Russian Radio
 http://101.79.244.199:1935/cocotv/_definst_/CH00009/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://world.kbs.co.kr/favicon.ico" group-title="",KBS World Spanish Radio
+#EXTINF:-1 tvg-logo="http://world.kbs.co.kr/favicon.ico" group-title="news,talk,spanish",KBS World Spanish Radio
 http://101.79.244.199:1935/cocotv/_definst_/CH00010/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://kbsworldimage.kbs.co.kr/images/kbsworld_logo_new.png" group-title="",KBS World TV
-http://edge.linknetott.swiftserve.com/channelgroup5/cg542production/ch262/03.m3u8
-#EXTINF:-1 tvg-logo="http://world.kbs.co.kr/favicon.ico" group-title="",KBS World Vietnamese Radio
+#EXTINF:-1 tvg-logo="http://world.kbs.co.kr/favicon.ico" group-title="news,talk,vietnamese",KBS World Vietnamese Radio
 http://101.79.244.199:1935/cocotv/_definst_/CH00011/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://nettv.live/uploads/allimg/19/1-1Z206233G40-L.jpg" group-title="",Korea Work TV
-http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listen.moe/_nuxt/img/logo-square-64.248c1f3.png" group-title="k-pop",Listen.moe (K-Pop)
+#EXTINF:-1 tvg-logo="https://listen.moe/_nuxt/img/logo-square-64.248c1f3.png" group-title="kpop,world",Listen.moe
 https://listen.moe/kpop/fallback
-#EXTINF:-1 tvg-logo="" group-title="kpop",Listen.moe Kpop
+#EXTINF:-1 tvg-logo="https://listen.moe/_nuxt/img/logo-square-64.248c1f3.png" group-title="kpop,world",Listen.moe
 https://listen.moe/kpop/stream
-#EXTINF:-1 tvg-logo="" group-title="",SBS Love FM
-http://radiolive.sbs.co.kr/love/lovefm.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2NDAwODg5MjUsInBhdGgiOiIvbG92ZWZtLnN0cmVhbSIsImR1cmF0aW9uIjotMSwidW5vIjoiMTBiODNlNDEtZTQxOS00NmFmLWIwZjEtODNkNmVmNTkxODI1IiwiaWF0IjoxNjQwMDQ1NzI1fQ.jabK6PhDVs2CzxSQpo39qVJoEuRyC5pjlZMzFNIqAzw
-#EXTINF:-1 tvg-logo="http://image.sbs.co.kr/sbs/4n/favicon.png" group-title="",SBS Power FM
-http://radiolive.sbs.co.kr/power/powerfm.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2NDAxMzk3NTksInBhdGgiOiIvcG93ZXJmbS5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6ImNiN2RlYjYyLTJmM2MtNDljNS1hMzZjLWRiMWZkODA0ZDg0YSIsImlhdCI6MTY0MDA5NjU1OX0.3Y4La3nIj4Rp7KteslqoBkSoVLXS6I2FIbzPTqGZywQ
-#EXTINF:-1 tvg-logo="" group-title="news",TBN 교통방송
+#EXTINF:-1 tvg-logo="https://dvw7f7sqjk3ag.cloudfront.net/images/radio/64168.png" group-title="news,traffic",TBN
 http://radio2.tbn.or.kr:1935/gyeongin/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",TBS TV
-http://58.234.158.60:1935/catvlive/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/gtyKRVfArK.png" group-title="",TJB 파워 FM (POWER FM)
+#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/gtyKRVfArK.png" group-title="top 40,kpop,world",TJB 
 http://1.245.74.5/radiolive/radio_64k/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="music,pop",안동MBC AM
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/MBC_LOGO_2012.png" group-title="kpop,pop",MBC AM
 http://andong.webcasting.co.kr:1935/live/amlive/playlist.m3u8
