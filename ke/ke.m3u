@@ -1,33 +1,29 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://nettv.live/uploads/19/1-1Z1231A3022W.jpg" group-title="",Citizen TV
-http://ind50-lh.akamaihd.net/i/ind50_citizen@71729/index_1200_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://www.hopemediakenya.org/wp-content/uploads/2021/01/favicon-96x96-1.png" group-title="",Hope FM
+#EXTINF:-1 tvg-logo="https://www.hopemediakenya.org/wp-content/uploads/2021/01/favicon-96x96-1.png" group-title="christian,religious",Hope FM
 http://stream.zeno.fm/d8wnae102zquv?rj-ttl=5&rj-tok=AAABfd36pI8AQVso03GkosZ8WQ
-#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/brand/icon_192x192.png" group-title="",Inooro fm
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/brand/icon_192x192.png" group-title="talk,variety,sports",Inooro FM
 http://radio.citizentv.co.ke/inoorofm/inoorofm/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://nettv.live/uploads/19/1-1Z123192151212.jpg" group-title="",Inooro TV
-http://ind50-lh.akamaihd.net/i/ind50_inoorotv@515060/index_1200_av-p.m3u8
-#EXTINF:-1 tvg-logo="" group-title="christian,gospel",JESUS IS LORD Radio
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/wsxdexa6l5yc.webp" group-title="christian,gospel",Jesus Is Lord Radio 105.3
 https://s3.radio.co/s97f38db97/listen
-#EXTINF:-1 tvg-logo="https://mbaitufm.com/wp-content/uploads/2019/11/logo.png" group-title="international",Juraini Radio
+#EXTINF:-1 tvg-logo="https://mbaitufm.com/wp-content/uploads/2019/11/logo.png" group-title="world,talk",Juraini Radio
 http://stream.zeno.fm/fe0nc58z8vzuv?rj-ttl=5&rj-tok=AAABfdqmpUsAMMz1GY8SxjUIkQ
-#EXTINF:-1 tvg-logo="" group-title="",Kameme fm
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1748188534870007808/g-iCcoHN_400x400.jpg" group-title="world,folk",Kameme 101.1
 http://stream.zeno.fm/frsvy955puquv?rj-ttl=5&rj-tok=AAABfdrYUxYA8MWK93WBnZ6a0A
-#EXTINF:-1 tvg-logo="" group-title="",Kass FM
+#EXTINF:-1 tvg-logo="https://kenyafmbuffer.com/wp-content/uploads/2013/10/kassfm.jpg" group-title=world,talk",Kass 89.1
 http://media.kassfm.co.ke:8006/live
-#EXTINF:-1 tvg-logo="" group-title="news,talk radio",KBC Coro
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s210272g.png" group-title="news,talk",KBC Coro 99.5
 http://stream.zeno.fm/xv5375hfkbruv?rj-ttl=5&rj-tok=AAABfd3zCF4AXVCM_N2-zHp0Yw
-#EXTINF:-1 tvg-logo="" group-title="",Lulu
+#EXTINF:-1 tvg-logo="https://lulu.fm/wp-content/uploads/elementor/thumbs/logo_lulu_q_250-pz84725o2usjybcy8wfucybbnje7tiequu80jnfevc.png" group-title="christian,religious",Lulu
 http://stream.zeno.fm/uv3r036g7zquv?rj-ttl=5&rj-tok=AAABfd41pPUAAGi7FqFkKvgq3Q
-#EXTINF:-1 tvg-logo="" group-title="",Milele fm
+#EXTINF:-1 tvg-logo="https://mytunein.com/images/logos/milelefm.jpg" group-title="rock,r'n'b,pop",Milele 104.8
 http://stream.zeno.fm/dex4fk5ykxquv?rj-ttl=5&rj-tok=AAABfd4t5-YAlgoWVP4l2bmIhA
-#EXTINF:-1 tvg-logo="https://zeno.fm/static/icons/apple-icon-120x120.png" group-title="gospel,news,reggae,religion,sport,talkshow",Mwanaspoti
+#EXTINF:-1 tvg-logo="https://zeno.fm/static/icons/apple-icon-120x120.png" group-title="gospel,news,reggae",Mwanaspoti
 http://stream.zeno.fm/3ka1cnzkg0quv?rj-ttl=5&rj-tok=AAABfdqf-CcAMWbF31Xmy67v1Q
-#EXTINF:-1 tvg-logo="https://nrg.radio/wp-content/uploads/2018/04/favicon.png" group-title="pop",NRG Radio
+#EXTINF:-1 tvg-logo="https://nrg.radio/wp-content/uploads/2018/04/favicon.png" group-title="pop,contemporary",NRG Radio
 https://streamingv2.shoutcast.com/nrg-radio-ke
-#EXTINF:-1 tvg-logo="https://pearlradio.co.ke/wp-content/uploads/2021/01/Pearl-Radio-Logo-134x134.png" group-title="christmas music,religion",Pearl Xtra
+#EXTINF:-1 tvg-logo="https://pearlradio.co.ke/wp-content/uploads/2021/01/Pearl-Radio-Logo-134x134.png" group-title="christmas,religion",Pearl Xtra
 http://stream.zeno.fm/2kcm5f3mga0uv?rj-ttl=5&rj-tok=AAABfdqDeVAAobAqCNPbte9vew
-#EXTINF:-1 tvg-logo="https://radiokaya.co.ke/wp-content/uploads/2019/02/cropped-SiteIdentity-192x192.png" group-title="jazz,local news,local talk,talk radio,tarab",Radio Kaya
+#EXTINF:-1 tvg-logo="https://radiokaya.co.ke/wp-content/uploads/2019/02/cropped-SiteIdentity-192x192.png" group-title="jazz,news,talk",Radio Kaya
 http://usa9-vn.mixstream.net:8084/listen.pls
-#EXTINF:-1 tvg-logo="http://punchlineafricatv.com/wp-content/uploads/2020/06/cropped-PATV-Logo-TRANSPARENT-1-192x192.png" group-title="african music,news,pop",RadioPunchline Africa
+#EXTINF:-1 tvg-logo="http://punchlineafricatv.com/wp-content/uploads/2020/06/cropped-PATV-Logo-TRANSPARENT-1-192x192.png" group-title="world,news,pop",RadioPunchline Africa
 https://s2.radio.co/se4988efc3/listen
