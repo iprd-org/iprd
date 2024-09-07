@@ -1,19 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.eldo.lu/assets/images/favicon-eldo/favicon-120.png" group-title="chillout",Eldo Radio Chill
+#EXTINF:-1 tvg-logo="https://www.eldo.lu/assets/images/favicon-eldo/favicon-120.png" group-title="chillout,lounge",Eldoradio Chill
 https://eldo-streaming.eldo.lu/radio/eldochill/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="pop",Eldoradio
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Eldoradio.jpg" group-title="pop,rock,alternative",Eldoradio
 http://81.92.238.33/
-#EXTINF:-1 tvg-logo="" group-title="80s",Eldoradio 80s
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Eldoradio.jpg" group-title="80s,hits",Eldoradio 80s
 http://shoutcast.rtl.lu/eldo80s
-#EXTINF:-1 tvg-logo="http://www.eldo.lu/assets/images/favicon-eldo/favicon-120.png" group-title="90s",Eldoradio 90's
+#EXTINF:-1 tvg-logo="http://www.eldo.lu/assets/images/favicon-eldo/favicon-120.png" group-title="90s,hits",Eldoradio 90s
 http://shoutcast.rtl.lu/eldo90s
-#EXTINF:-1 tvg-logo="" group-title="alternative",Eldoradio Alternative
+#EXTINF:-1 tvg-logo="https://www.liveradio.ie/files/images/102110/resized/180x172c/eldoradio_alternative.jpg" group-title="alternative,rock",Eldoradio Alternative
 http://shoutcast.rtl.lu/eldoalt
-#EXTINF:-1 tvg-logo="" group-title="chillout",Eldoradio Chill
+#EXTINF:-1 tvg-logo="https://www.eldo.lu/assets/images/favicon-eldo/favicon-120.png" group-title="chillout,lounge",Eldoradio Chill
 http://shoutcast.rtl.lu/eldochill
-#EXTINF:-1 tvg-logo="" group-title="pop",Eldoradio Top 25
+#EXTINF:-1 tvg-logo="https://images.radiovolna.net/_files/images/stations/422917/5bb25e96d7a82ea7c95f701597e080c1.png" group-title="pop,hits",Eldoradio Top 25
 http://shoutcast.rtl.lu/eldotop25
-#EXTINF:-1 tvg-logo="" group-title="pop,rock",Free Radio Luxembourg FRL
+#EXTINF:-1 tvg-logo="https://www.radio.net/300/freeradioluxembourg.png?version=4275d11f6db2194f24203f1ef431e3fb" group-title="pop,rock",Free Radio Luxembourg FRL
 https://listen.radioking.com/radio/66160/stream/137599
 #EXTINF:-1 tvg-logo="https://pimenta.lu/logo_500x500.png" group-title="dance,eurodance,trance,house,edm,dj,handsup",Generation Dance Radio
 http://generationdance.lu:8010/hd
