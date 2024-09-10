@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="",BESTTIME
+#EXTINF:-1 tvg-logo="https://www.radio-addict.com/media/stream/fdcaca87-2641-48c6-b3d7-10d5bf188917_48C589D0FD2E4A1A65166CC782648DA0_icon.png" group-title="world,hits",BESTTIME
 http://103.48.116.109:9000/;?listening-from-radio-garden=1608463364113
-#EXTINF:-1 tvg-logo="https://ambadnya.in/radio_list/mongolia/businessfm.png" group-title="",Business Radio MN 98.9
+#EXTINF:-1 tvg-logo="https://ambadnya.in/radio_list/mongolia/businessfm.png" group-title="news,talk,business",Business Radio 98.9
 http://202.131.233.34:8014/stream
-#EXTINF:-1 tvg-logo="http://www.bestfm.mn/themes/simple/images/favicon.png" group-title="",Mongolia Best Radio
+#EXTINF:-1 tvg-logo="http://www.bestfm.mn/themes/simple/images/favicon.png" group-title="variety,talk",Mongolia Best Radio 98.5
 http://103.48.116.109:9000/listen.pls
