@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://belradio.fr/wp-content/uploads/cropped-belradio-logo-copie-180x180.png" group-title="60s,70s,80s,compas,oldies,salsa,tropical music,zouk",Bel Radio Martinique
+#EXTINF:-1 tvg-logo="https://belradio.fr/wp-content/uploads/cropped-belradio-logo-copie-180x180.png" group-title="60s,70s,80s",Bel Radio Martinique
 https://n05a-eu.rcs.revma.com/9b1a2gyspwzuv?rj-ttl=5&rj-tok=AAABfd40eHwARGSa2u2ZNCNT6w
-#EXTINF:-1 tvg-logo="" group-title="international",kl@moson
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s139525g.png" group-title="world,hits",kl@moson mas salsa
 http://91.121.29.104:8108/
-#EXTINF:-1 tvg-logo="https://la1ere.francetvinfo.fr/martinique/sites/regions_outremer/themes/outremer/images/logo_200x200.jpg" group-title="",Martinique 1ère
+#EXTINF:-1 tvg-logo="https://la1ere.francetvinfo.fr/martinique/sites/regions_outremer/themes/outremer/images/logo_200x200.jpg" group-title="dom-tom,zouk,world",Martinique 1ère
 http://martinique.ice.infomaniak.ch/martinique-128.mp3
-#EXTINF:-1 tvg-logo="" group-title="cadence,kompa,musique cubaine,zouk",Nostalgie Martinique
+#EXTINF:-1 tvg-logo="https://www.radio.fr/300/nostalgiedommart.png?version=624a1d5369714cc59d56c25d021fb1b4" group-title="cadence,kompa,zouk",Nostalgie Martinique
 http://2stream.dyndns.org:8000/nostalgiemq
-#EXTINF:-1 tvg-logo="" group-title="",Radio Fusion
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8NR2HlHYPybLUDn4wgkNpJqyEpmpgT5_vZQ&s" group-title="dom-tom,salsa,reggaeton",Radio Fusion
 http://france16.coollabel-productions.com:8276/;listen.m3u

@@ -1,23 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="music,talk",Calypso Radio
+#EXTINF:-1 tvg-logo="https://www.radio.net/300/calypsoradio.png?version=c055ad3c4972252c75519d36634260ac" group-title="music,talk",Calypso Radio 101.8
 https://s4.radio.co/sf3aa4c25a/listen
-#EXTINF:-1 tvg-logo="https://um.edu.mt/media/um/images/umcrest.png" group-title="university radio",Campus FM
+#EXTINF:-1 tvg-logo="https://um.edu.mt/media/um/images/umcrest.png" group-title="university,variety",Campus FM
 https://rbx2.hnux.com/http://e11648.cloudrad.io:8174/campusfm_live?_=0.2807693347745841
-#EXTINF:-1 tvg-logo="https://assets.tvm.com.mt/mt/wp-content/uploads/sites/1/2021/09/cropped-tvm-home-logo-2021-fav-180x180.png" group-title="music",Magic Malta
+#EXTINF:-1 tvg-logo="https://assets.tvm.com.mt/mt/wp-content/uploads/sites/1/2021/09/cropped-tvm-home-logo-2021-fav-180x180.png" group-title="rock,pop,top 40",Magic Malta 91.7
 http://s46.myradiostream.com:6076/stream
-#EXTINF:-1 tvg-logo="" group-title="",One Radio
+#EXTINF:-1 tvg-logo="https://au.radio.net/300/oneradiomt.png?version=c894658d806331952faecfdeeeca96c2" group-title="rock,pop,folk",ONE Radio 92.7
 http://cdn.voscast.com/resources/?key=249f148a69ad7268c63c10098840e4d6&c=wmp
-#EXTINF:-1 tvg-logo="" group-title="",One Radio
+#EXTINF:-1 tvg-logo="https://au.radio.net/300/oneradiomt.png?version=c894658d806331952faecfdeeeca96c2" group-title="rock,pop,folk",ONE Radio 92.7
 http://s10.voscast.com:8202/stream
-#EXTINF:-1 tvg-logo="" group-title="pop,rock,top 40",Radio 101 Malta
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizbBmZ3Yu07okMPNGSArFwm6k_hP7h4byLs3mJWmBIdSzTTLLF53WiBcX7js_zce0lFxtM8nR2rcC_uS-etlgEjg7IuBvwzGSlnnm8k-oKHlYQ1SJFBFExoVub1TpsHzng-Ou9s16Dpnc/s1600/Radio+101+Logo.jpg" group-title="pop,rock,top 40",Radio 101 Malta
 http://s2.voscast.com:11392/listen.pls
-#EXTINF:-1 tvg-logo="https://www.tvm.com.mt/_favicons/favicon-96x96.png" group-title="entertainment,general,local news,music",Radio Malta
+#EXTINF:-1 tvg-logo="https://www.tvm.com.mt/_favicons/favicon-96x96.png" group-title="news,talk",Radio Malta 93.7
 http://s38.myradiostream.com:6982/
-#EXTINF:-1 tvg-logo="https://www.radjuluminaria.com/wp-content/themes/radjuluminaria/images/rl-logo-player.png" group-title="",Radju Luminarja
+#EXTINF:-1 tvg-logo="https://www.radjuluminaria.com/wp-content/themes/radjuluminaria/images/rl-logo-player.png" group-title="talk,christian",Radju Luminarja 106.9
 http://stream.radjuluminaria.com:8000/radjuluminaria
-#EXTINF:-1 tvg-logo="http://radjumarija.org/wp-content/uploads/2016/01/favicon-1.ico" group-title="",Radju Maria Malta
-http://dreamsiteradiocp.com:8102/
-#EXTINF:-1 tvg-logo="https://radjumarija.org/wp-content/uploads/2016/01/favicon-1.ico" group-title="catholic,christian,religion,talk",RADJU MARIJA MALTA
+#EXTINF:-1 tvg-logo="https://radjumarija.org/wp-content/uploads/2016/01/favicon-1.ico" group-title="christian,religion,talk",Radju Marija Malta
 http://dreamsiteradiocp.com:8102/stream
-#EXTINF:-1 tvg-logo="" group-title="",Vibe FM
+#EXTINF:-1 tvg-logo="https://www.senegal-online.com/wp-content/uploads/2014/10/vibe-radio1.jpg" group-title="dance,pop,top 40",Vibe FM
 https://s9.voscast.com:7825/1
