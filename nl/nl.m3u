@@ -51,105 +51,105 @@ http://str1.hollanddata.eu:8000/listen.pls
 http://str1.hollanddata.eu:8006/listen.pls
 #EXTINF:-1 tvg-logo="https://www.bright.fm/wp-content/uploads/2016/08/cropped-bright.fm-ico-270x270.png" group-title="christian,kids",BrightFM Kids
 http://str1.hollanddata.eu:8020/listen.pls
-#EXTINF:-1 tvg-logo="http://retro.c-dance.fm/logo.jpg" group-title="dance,house,retro,techno,trance",C-Dance RETRO
+#EXTINF:-1 tvg-logo="http://retro.c-dance.fm/logo.jpg" group-title="dance,house,retro",C-Dance Retro
 http://s45.myradiostream.com:18304/
-#EXTINF:-1 tvg-logo="" group-title="",Candlelight
+#EXTINF:-1 tvg-logo="https://www.radio.net/300/candlelight.png?version=8cec8e139a85613c78cb11cac14efd20" group-title="ballads,pop",Candle Light Radio
 http://candlelight.live-streams.nl/candlelight
-#EXTINF:-1 tvg-logo="http://carnaval-radio.nl/themes/CarnavalRadio/img/fav32.png" group-title="carnaval,limburg,netherlands,vastelaovend",Carnaval-Radio
+#EXTINF:-1 tvg-logo="http://carnaval-radio.nl/themes/CarnavalRadio/img/fav32.png" group-title="pop,top 40",Carnaval Radio
 http://ams1.reliastream.com:8088/stream
-#EXTINF:-1 tvg-logo="https://celtcast.com/wp-content/uploads/2017/04/cropped-CeltCast-Community-Radio-Square-Black-with-White-512-270x270.jpg" group-title="celtic,folk,only music,viking",Celtcast
+#EXTINF:-1 tvg-logo="https://celtcast.com/wp-content/uploads/2017/04/cropped-CeltCast-Community-Radio-Square-Black-with-White-512-270x270.jpg" group-title="celtic,folk",Celtcast
 https://caster04.streampakket.com/proxy/8982/CeltCast
-#EXTINF:-1 tvg-logo="https://www.radiozenders.fm/media/images/stations/classicnl.png" group-title="classical",Classic FM NL
+#EXTINF:-1 tvg-logo="https://www.radiozenders.fm/media/images/stations/classicnl.png" group-title="classical,baroque",Classic FM
 https://www.classic.nl/player/classicfm.m3u
-#EXTINF:-1 tvg-logo="http://www.classic.nl/images/icons/apple-icon-120x120.png" group-title="opera",Classic NL Opera
+#EXTINF:-1 tvg-logo="http://www.classic.nl/images/icons/apple-icon-120x120.png" group-title="opera,classical",Classic Opera
 https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR27.mp3
-#EXTINF:-1 tvg-logo="https://www.classic.nl/images/icons/apple-icon-120x120.png" group-title="classical",ClassicFM - Chillout
+#EXTINF:-1 tvg-logo="https://www.classic.nl/images/icons/apple-icon-120x120.png" group-title="classical,ambient",ClassicFM Chillout
 http://stream01.itego.nl:8000/chillout
-#EXTINF:-1 tvg-logo="" group-title="00s,20s,80s,90s,dance,disco,internet,soulful",Coastline
+#EXTINF:-1 tvg-logo="https://www.denheldersdagblad.nl/image/6409_6487_1200_1200.webp" group-title="00s,80s,90s",Coastline 96.0
 http://81.169.223.8/
-#EXTINF:-1 tvg-logo="" group-title="",Concertzender
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s69048/images/logog.png?t=1" group-title="classical,live",Concertzender
 http://streams.greenhost.nl:8080/live
-#EXTINF:-1 tvg-logo="https://www.concertzender.nl/wp-content/uploads/2016/11/C-favicon-300x300.png" group-title="hard bop",Concertzender - Hard Bop
+#EXTINF:-1 tvg-logo="https://www.concertzender.nl/wp-content/uploads/2016/11/C-favicon-300x300.png" group-title="hard bop,jazz",Concertzender Hard Bop
 http://streams.greenhost.nl:8080/hardbop
-#EXTINF:-1 tvg-logo="https://www.concertzender.nl/wp-content/uploads/2016/10/CZ-Oude-muziek.svg" group-title="classical",Concertzender Baroque
+#EXTINF:-1 tvg-logo="https://www.concertzender.nl/wp-content/uploads/2016/10/CZ-Oude-muziek.svg" group-title="classical,baroque",Concertzender Baroque
 http://streams.greenhost.nl:8080/barok
-#EXTINF:-1 tvg-logo="https://www.concertzender.nl/wp-content/uploads/2016/10/CZ-Crosslinks.svg" group-title="pop",Concertzender Crosslinks
+#EXTINF:-1 tvg-logo="https://www.concertzender.nl/wp-content/uploads/2016/10/CZ-Crosslinks.svg" group-title="pop,hits",Concertzender Crosslinks
 http://streams.greenhost.nl:8080/pop
-#EXTINF:-1 tvg-logo="https://www.concertzender.nl/wp-content/uploads/2016/10/CZ-Nieuwemuziek.svg" group-title="ambient",Concertzender De Gehoorde Stilte
+#EXTINF:-1 tvg-logo="https://www.concertzender.nl/wp-content/uploads/2016/10/CZ-Nieuwemuziek.svg" group-title="ambient,relax",Concertzender De Gehoorde Stilte
 http://streams.greenhost.nl:8080/gehoordestilte
-#EXTINF:-1 tvg-logo="https://www.concertzender.nl/wp-content/uploads/2016/10/CZ-Raakvlakken.svg" group-title="",Concertzender De Muzikant
+#EXTINF:-1 tvg-logo="https://www.concertzender.nl/wp-content/uploads/2016/10/CZ-Raakvlakken.svg" group-title="jazz,blues",Concertzender De Muzikant
 http://streams.greenhost.nl:8080/amateurmuziek
-#EXTINF:-1 tvg-logo="https://www.concertzender.nl/wp-content/uploads/2016/10/CZ-Raakvlakken.svg" group-title="soundtrack",Concertzender Filmmuziek
+#EXTINF:-1 tvg-logo="https://www.concertzender.nl/wp-content/uploads/2016/10/CZ-Raakvlakken.svg" group-title="soundtrack,ambient",Concertzender Filmmuziek
 http://streams.greenhost.nl:8080/film
-#EXTINF:-1 tvg-logo="" group-title="folk,world music",Concertzender Folk it!
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeODpjYWhNpvlvY5szZVYQEVe30_vEUShaXw&s" group-title="folk,world",Concertzender Folk it!
 http://streams.greenhost.nl:8080/folkit
-#EXTINF:-1 tvg-logo="https://www.concertzender.nl/wp-content/uploads/2016/10/CZ-Nieuwemuziek.svg" group-title="",Concertzender Gaudeamus
+#EXTINF:-1 tvg-logo="https://www.concertzender.nl/wp-content/uploads/2016/10/CZ-Nieuwemuziek.svg" group-title="variety,ambient",Concertzender Gaudeamus
 http://streams.greenhost.nl:8080/gaudeamus
-#EXTINF:-1 tvg-logo="https://www.concertzender.nl/wp-content/uploads/2016/10/CZ-Oude-muziek.svg" group-title="classical",Concertzender Geen dag zonder Bach
+#EXTINF:-1 tvg-logo="https://www.concertzender.nl/wp-content/uploads/2016/10/CZ-Oude-muziek.svg" group-title="classical,baroque",Concertzender Geen dag zonder Bach
 http://streams.greenhost.nl:8080/bach
-#EXTINF:-1 tvg-logo="http://db.radioline.fr/pictures/radio_656430fa1b6ca511e8967b5ba5689b43/logo200.jpg?size=200" group-title="classical",Concertzender Gregoriaans
+#EXTINF:-1 tvg-logo="http://db.radioline.fr/pictures/radio_656430fa1b6ca511e8967b5ba5689b43/logo200.jpg?size=200" group-title="classical,world",Concertzender Gregoriaans
 http://streams.greenhost.nl:8080/gregoriaans
-#EXTINF:-1 tvg-logo="https://www.concertzender.nl/wp-content/uploads/2016/10/CZ-Jazz.svg" group-title="jazz",Concertzender Jazz
+#EXTINF:-1 tvg-logo="https://www.concertzender.nl/wp-content/uploads/2016/10/CZ-Jazz.svg" group-title="jazz,blues",Concertzender Jazz
 http://streams.greenhost.nl:8080/jazz
-#EXTINF:-1 tvg-logo="https://www.concertzender.nl/wp-content/uploads/2016/10/CZ-Jazz.svg" group-title="jazz",Concertzender Jazznotjazz
+#EXTINF:-1 tvg-logo="https://www.concertzender.nl/wp-content/uploads/2016/10/CZ-Jazz.svg" group-title="jazz,blues",Concertzender Jazznotjazz
 http://streams.greenhost.nl:8080/jazznotjazz
-#EXTINF:-1 tvg-logo="https://www.concertzender.nl/wp-content/uploads/2016/10/CZ-Klassieke-muziek.svg" group-title="classical",Concertzender Klassieke Muziek
+#EXTINF:-1 tvg-logo="https://www.concertzender.nl/wp-content/uploads/2016/10/CZ-Klassieke-muziek.svg" group-title="classical,baroque",Concertzender Klassieke Muziek
 http://streams.greenhost.nl:8080/klassiek
-#EXTINF:-1 tvg-logo="https://www.concertzender.nl/wp-content/uploads/2016/10/CZ-Nieuwemuziek.svg" group-title="contemporary",Concertzender Nieuwe Muziek
+#EXTINF:-1 tvg-logo="https://www.concertzender.nl/wp-content/uploads/2016/10/CZ-Nieuwemuziek.svg" group-title="contemporary,culture",Concertzender Nieuwe Muziek
 http://streams.greenhost.nl:8080/nieuwemuziek
-#EXTINF:-1 tvg-logo="https://www.concertzender.nl/wp-content/uploads/2016/10/CZ-Nieuwemuziek.svg" group-title="",Concertzender November Music
+#EXTINF:-1 tvg-logo="https://www.concertzender.nl/wp-content/uploads/2016/10/CZ-Nieuwemuziek.svg" group-title="classical,contemporary",Concertzender November Music
 http://streams.greenhost.nl:8080/novembermusic
-#EXTINF:-1 tvg-logo="https://www.concertzender.nl/wp-content/uploads/2016/10/CZ-Wereldmuziek.svg" group-title="world music",Concertzender Oriënt Express
+#EXTINF:-1 tvg-logo="https://www.concertzender.nl/wp-content/uploads/2016/10/CZ-Wereldmuziek.svg" group-title="world,variety",Concertzender Oriënt Express
 http://streams.greenhost.nl:8080/orientexpress
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Concertzender_Logo.svg/1200px-Concertzender_Logo.svg.png" group-title="baroque,classical,early music",Concertzender Oude Muziek
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Concertzender_Logo.svg/1200px-Concertzender_Logo.svg.png" group-title="baroque,classical",Concertzender Oude Muziek
 http://streams.greenhost.nl:8080/oudemuziek
-#EXTINF:-1 tvg-logo="https://www.concertzender.nl/wp-content/uploads/2016/10/CZ-Raakvlakken.svg" group-title="",Concertzender Raakvlakken
+#EXTINF:-1 tvg-logo="https://www.concertzender.nl/wp-content/uploads/2016/10/CZ-Raakvlakken.svg" group-title="jazz,world",Concertzender Raakvlakken
 http://streams.greenhost.nl:8080/raakvlakken
-#EXTINF:-1 tvg-logo="https://www.concertzender.nl/wp-content/uploads/2016/10/CZ-Crosslinks.svg" group-title="",Concertzender Radiophonics
+#EXTINF:-1 tvg-logo="https://www.concertzender.nl/wp-content/uploads/2016/10/CZ-Crosslinks.svg" group-title="ambient,electro",Concertzender Radiophonics
 http://streams.greenhost.nl:8080/radiophonics
-#EXTINF:-1 tvg-logo="https://www.concertzender.nl/wp-content/uploads/2016/10/CZ-Wereldmuziek.svg" group-title="world music",Concertzender Solta a Franga
+#EXTINF:-1 tvg-logo="https://www.concertzender.nl/wp-content/uploads/2016/10/CZ-Wereldmuziek.svg" group-title="world,folk",Concertzender Solta a Franga
 http://streams.greenhost.nl:8080/slotaafranga
-#EXTINF:-1 tvg-logo="https://www.concertzender.nl/wp-content/uploads/2016/10/CZ-Nieuwemuziek.svg" group-title="",Concertzender Utrecht Muziek
+#EXTINF:-1 tvg-logo="https://www.concertzender.nl/wp-content/uploads/2016/10/CZ-Nieuwemuziek.svg" group-title="utrecht,variety",Concertzender Utrecht Muziek
 http://streams.greenhost.nl:8080/vredenburg
-#EXTINF:-1 tvg-logo="https://www.concertzender.nl/wp-content/uploads/2016/10/CZ-Wereldmuziek.svg" group-title="world music",Concertzender Wereldmuziek
+#EXTINF:-1 tvg-logo="https://www.concertzender.nl/wp-content/uploads/2016/10/CZ-Wereldmuziek.svg" group-title="world,folk",Concertzender Wereldmuziek
 http://streams.greenhost.nl:8080/wereldmuziek
-#EXTINF:-1 tvg-logo="https://www.concertzender.nl/wp-content/uploads/2016/10/CZ-Crosslinks.svg" group-title="ambient,avant-garde,electronics,experimental,industrial",Concertzender X-Rated
+#EXTINF:-1 tvg-logo="https://www.concertzender.nl/wp-content/uploads/2016/10/CZ-Crosslinks.svg" group-title="ambient,avant-garde",Concertzender X-Rated
 http://streams.greenhost.nl:8080/concertzenderlive
-#EXTINF:-1 tvg-logo="https://danceradio.in/imgs/dricon.ico" group-title="dance,edm,funk,house,rnb,soul",Dance Radio Amsterdam
+#EXTINF:-1 tvg-logo="https://danceradio.in/imgs/dricon.ico" group-title="dance,edm,funk",Dance Radio Amsterdam
 http://stream.danceradio.nl:9920/
-#EXTINF:-1 tvg-logo="" group-title="",DANCE.FM :: The Beat of Amsterdam ::
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVniuvyRHVDwPz7oiMeWjcneILH_YWedqh2Q&s" group-title="electro,house",DANCE.FM
 https://streams.dancefm.net/mp3-hq
-#EXTINF:-1 tvg-logo="https://myradiostream.com/favicon.ico" group-title="brandnew,classic 90s,dance,disco,edm,edm radioshows,hothits,pop",DANCEableRADIO
+#EXTINF:-1 tvg-logo="https://myradiostream.com/favicon.ico" group-title="90s,dance,disco",DANCEableRADIO
 http://176.31.118.194:19580/listen.pls
-#EXTINF:-1 tvg-logo="https://deep.radio/img/favicon.ico" group-title="ambient,dance,deep house,downtempo,edm,house,nu-jazz,progressive,techno",Deep Radio
+#EXTINF:-1 tvg-logo="https://deep.radio/img/favicon.ico" group-title="ambient,dance,house",Deep Radio
 https://playerservices.streamtheworld.com/api/livestream-redirect/DEEP_RADIO.mp3
-#EXTINF:-1 tvg-logo="" group-title="delta fm,piraat",Delta Piraat
+#EXTINF:-1 tvg-logo="https://uk.radio.net/images/broadcasts/54/db/11736/1/c300.png" group-title="pop,folk",Deltapiraat
 http://stream.deltafm.nl:8125/listen.pls
-#EXTINF:-1 tvg-logo="http://www.deltaradio90.nl/images/img0022.png" group-title="60s,70s,80s,muziek zonder flauwekul",Delta Radio Nijmegen
+#EXTINF:-1 tvg-logo="http://www.deltaradio90.nl/images/img0022.png" group-title="60s,70s,80s",Delta Radio Nijmegen
 http://streamdelta.lokaalradio.nl:9005/
-#EXTINF:-1 tvg-logo="" group-title="international",DesiZone
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1359102711426392064/c1Ura-6w_400x400.jpg" group-title="bollywood,world",DesiZone Radio
 http://www.desizone.nl:8000/
-#EXTINF:-1 tvg-logo="https://dmgdeurne.nl/wp-content/uploads/2019/01/favicon-32x32.png" group-title="",Deurne Media Groep
+#EXTINF:-1 tvg-logo="https://dmgdeurne.nl/wp-content/uploads/2019/01/favicon-32x32.png" group-title="news,talk",Deurne Media Groep
 http://s22.myradiostream.com:13628/
-#EXTINF:-1 tvg-logo="https://www.disconet.fm" group-title="80s,disco,funk,italo,nu disco",disconet.fm
+#EXTINF:-1 tvg-logo="https://www.disconet.fm" group-title="80s,disco,funk",disconet.fm
 https://audio-edge-5bkfj.fra.h.radiomast.io/9f9702d0-ac14-48aa-b7cf-909db540365b
-#EXTINF:-1 tvg-logo="http://www.dizgoradio.fm/favicon.ico" group-title="italo-disco",dizgo radio fm
+#EXTINF:-1 tvg-logo="http://www.dizgoradio.fm/favicon.ico" group-title="italo-disco,dance,world",Dizgo Radio FM
 http://mediaserv30.live-streams.nl:8079/stream
-#EXTINF:-1 tvg-logo="" group-title="",Double Z
+#EXTINF:-1 tvg-logo="https://www.radio.net/300/doublezradio.png?version=ec2840882f24e2d41c1d1032bddd47bf" group-title="schlager,pop",Double Z
 http://stream1.dzradio.nl/
-#EXTINF:-1 tvg-logo="" group-title="echtepiraten,etherpiraten,holland,nederlandstalig,piraten,piratenhits",Echtepiraten.nl
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BoWeXhO2EzMp0Payukrs8OhuydUw6sgj3L36utFsG-VwM3Rx1BHA4hrD3cg-5NFfB2Q=w240-h480-rw" group-title="folk,world",Echtepiraten
 https://azuraserv3.live-streams.nl:8040/stream.mp3
-#EXTINF:-1 tvg-logo="" group-title="pop",Efteling Kids Radio
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMy32uKTwLR2Ma5kDWEmksHTLpujx73i_fwg&s" group-title="pop,kids",Efteling Kids Radio
 http://ice.cr2.streamzilla.xlcdn.com:8000/sz=efteling=hdstream
-#EXTINF:-1 tvg-logo="https://www.efteling.com/content/img/generic/efteling-logo.svg" group-title="children,kids",Efteling Kids Radio
+#EXTINF:-1 tvg-logo="https://www.efteling.com/content/img/generic/efteling-logo.svg" group-title="pop,kids",Efteling Kids Radio
 https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR07_SC
-#EXTINF:-1 tvg-logo="" group-title="children,dutch,fairytales,kids",Efteling Kids Radio
+#EXTINF:-1 tvg-logo="https://www.efteling.com/content/img/generic/efteling-logo.svg" group-title="pop,kids",Efteling Kids Radio
 http://ice.cr1.streamzilla.xlcdn.com:8000/sz=efteling=hdstream?token=89258259cec4bf49c340a8c4a86ab6e8&time=61c13b3b
-#EXTINF:-1 tvg-logo="https://www.elpaso.world/dico/UserFiles/Themes/elpaso/images/logo.png" group-title="pop",EL PASO 90's
+#EXTINF:-1 tvg-logo="https://www.elpaso.world/dico/UserFiles/Themes/elpaso/images/logo.png" group-title="pop,90s",Radio El Paso 90's
 http://radio.elpaso.world:8090/radio.mp3
-#EXTINF:-1 tvg-logo="https://www.elpaso.world/dico/UserFiles/Themes/elpaso/images/logo.png" group-title="misc",EL PASO Christmas
+#EXTINF:-1 tvg-logo="https://www.elpaso.world/dico/UserFiles/Themes/elpaso/images/logo.png" group-title="christmas,holidays",El Paso Christmas
 http://radio.elpaso.world:8020/radio.mp3
-#EXTINF:-1 tvg-logo="https://www.elpaso.world/templates/images/favicons/apple-touch-icon.png" group-title="pop",EL PASO pop
+#EXTINF:-1 tvg-logo="https://www.elpaso.world/templates/images/favicons/apple-touch-icon.png" group-title="pop,hits",El Paso Pop
 http://radio.elpaso.world:8000/radio.mp3
 #EXTINF:-1 tvg-logo="https://media.1twente.nl/logos/favicon/apple-touch-icon.png" group-title="",Enschede FM
 http://stream1.icehosting.nl:8126/
