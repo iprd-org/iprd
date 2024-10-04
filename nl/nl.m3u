@@ -443,105 +443,103 @@ http://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_classics_32.aac
 https://playerservices.streamtheworld.com/api/livestream-redirect/Q_DANCEAAC.aac
 #EXTINF:-1 tvg-logo="https://www.q-dance.com/static/images/favicon/favicon.ico" group-title="dance,hardstyle",Q-dance Radio
 https://25253.live.streamtheworld.com:443/Q_DANCE.mp3
-#EXTINF:-1 tvg-logo="http://qmusic.nl/favicon.ico" group-title="",Qmusic
+#EXTINF:-1 tvg-logo="http://qmusic.nl/favicon.ico" group-title="electro,hits,top 40",QMusic
 http://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_live_32.aac
-#EXTINF:-1 tvg-logo="https://qmusic.nl/favicon.ico" group-title="",Qmusic
+#EXTINF:-1 tvg-logo="https://qmusic.nl/favicon.ico" group-title="electro,hits,top 40",QMusic
 https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_live_96.mp3
-#EXTINF:-1 tvg-logo="http://qmusic.nl/favicon.ico" group-title="foute uur",Qmusic Het Foute Uur
+#EXTINF:-1 tvg-logo="http://qmusic.nl/favicon.ico" group-title="world,hits",QMusic Het Foute Uur
 http://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_fouteuur_32.aac
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Qmusic_logo.svg" group-title="",Qmusic Het Foute Uur
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Qmusic_logo.svg" group-title="world,hits",Qmusic Het Foute Uur
 https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_fouteuur_96.mp3
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Qmusic_logo.svg" group-title="",Qmusic Non-Stop
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Qmusic_logo.svg" group-title="pop,hits",QMusic Non-Stop
 https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_nonstop_96.mp3
-#EXTINF:-1 tvg-logo="http://qmusic.nl/favicon.ico" group-title="",Qmusic nonstop
+#EXTINF:-1 tvg-logo="http://qmusic.nl/favicon.ico" group-title="pop,hits",QMusic Non-Stop
 http://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_nonstop_32.aac
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Qmusic_logo.svg" group-title="",Qmusic Top 1000
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Qmusic_logo.svg" group-title="pop,hits",QMusic Top 1000
 https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_classics_96.mp3
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Qmusic_logo.svg" group-title="",Qmusic Top 40
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Qmusic_logo.svg" group-title="pop,hits,top 40",QMusic Top 40
 https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_nonstop40_96.mp3
-#EXTINF:-1 tvg-logo="https://www.twr.org/images/r/rtm-bonaire-header/c644x161/rtm-bonaire-header.jpg" group-title="religious",Que Brille 800!
+#EXTINF:-1 tvg-logo="https://www.twr.org/images/r/rtm-bonaire-header/c644x161/rtm-bonaire-header.jpg" group-title="religious,christian",Que Brille 800!
 https://cdn.instream.audio/:9050/stream
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScXQ3C4MdB2iKNRXVmQSy-fl3MBqAi-SX2JU3p-ZeLSiLCVbDw&s" group-title="00's,80's,90's,classic hits,hits",Radio 10
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScXQ3C4MdB2iKNRXVmQSy-fl3MBqAi-SX2JU3p-ZeLSiLCVbDw&s" group-title="00s,80s,90s",Radio 10
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO10.mp3
-#EXTINF:-1 tvg-logo="https://www.radio10.nl/icons/apple-icon-120x120.png" group-title="",Radio 10 60's & 70's Hits
+#EXTINF:-1 tvg-logo="https://www.radio10.nl/icons/apple-icon-120x120.png" group-title="60s,70s,hits",Radio 10
 https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR18_SC
-#EXTINF:-1 tvg-logo="" group-title="pop",RADIO 10 TOP 4000
+#EXTINF:-1 tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84ca09d156d6b2c8648aea0a6c" group-title="pop,hits",Radio 10 Top 4000
 https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR24.mp3
-#EXTINF:-1 tvg-logo="https://www.192radio.nl/192radio/wp-content/uploads/2019/07/cropped-favicon-180x180.png" group-title="",Radio 192
+#EXTINF:-1 tvg-logo="https://www.192radio.nl/192radio/wp-content/uploads/2019/07/cropped-favicon-180x180.png" group-title="oldies,hits",192 Radio
 http://server-10.stream-server.nl:8030/stream
-#EXTINF:-1 tvg-logo="http://www.radio509.nl/images/layout/logoRadio509.gif" group-title="community radio,hilversum",Radio 509 Hilversum
+#EXTINF:-1 tvg-logo="http://www.radio509.nl/images/layout/logoRadio509.gif" group-title="community,contemporary",Radio 509
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO509AAC_SC
-#EXTINF:-1 tvg-logo="https://www.538.nl/icons/apple-icon-120x120.png" group-title="dance",Radio 538 Ibiza
+#EXTINF:-1 tvg-logo="https://www.538.nl/icons/apple-icon-120x120.png" group-title="dance,electro",538 Ibiza
 https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR19_SC
-#EXTINF:-1 tvg-logo="https://www.538.nl/icons/apple-icon-120x120.png" group-title="",Radio 538 Nonstop
+#EXTINF:-1 tvg-logo="https://www.538.nl/icons/apple-icon-120x120.png" group-title="hits,pop,top 40",538 NON STOP
 https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR09_SC
-#EXTINF:-1 tvg-logo="https://www.538.nl/icons/apple-icon-120x120.png" group-title="party",Radio 538 Party
+#EXTINF:-1 tvg-logo="https://www.538.nl/icons/apple-icon-120x120.png" group-title="electro,hits,top 40",538 Party
 https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR16_SC
-#EXTINF:-1 tvg-logo="https://www.538.nl/icons/apple-icon-120x120.png" group-title="",Radio 538 Verrückte Stunde
+#EXTINF:-1 tvg-logo="https://www.538.nl/icons/apple-icon-120x120.png" group-title="dance,electro",538 Verrückte Stunde
 https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR21_SC
-#EXTINF:-1 tvg-logo="http://www.radio9oostzaan.nl/favicon.png" group-title="lounge",Radio 9 Oostzaan
+#EXTINF:-1 tvg-logo="http://www.radio9oostzaan.nl/favicon.png" group-title="top 40,pop",Radio 9 Oostzaan
 http://caster01.streampakket.com:9350/listen.pls
-#EXTINF:-1 tvg-logo="https://bangsajawa.nl/wp-content/uploads/2018/01/Logo-Vector-Greyscal.png" group-title="pop",Radio Bangsa Jawa
+#EXTINF:-1 tvg-logo="https://bangsajawa.nl/wp-content/uploads/2018/01/Logo-Vector-Greyscal.png" group-title="pop,folk",Bangsa Jawa Radio
 https://betelgeuse.dribbcast.com/proxy/abhost?mp=/stream
-#EXTINF:-1 tvg-logo="https://www.radiobloemendaal.nl/img/facebook.png" group-title="christian,church services",Radio Bloemendaal
+#EXTINF:-1 tvg-logo="https://www.radiobloemendaal.nl/img/facebook.png" group-title="christian,religious",Radio Bloemendaal
 http://audio.radiobloemendaal.nl/mp3
-#EXTINF:-1 tvg-logo="https://www.radiobloemendaal.nl/img/facebook.png" group-title="christian,church services",Radio Bloemendaal [AAC]
+#EXTINF:-1 tvg-logo="https://www.radiobloemendaal.nl/img/facebook.png" group-title="christian,religious",Radio Bloemendaal
 http://audio.radiobloemendaal.nl/aac
-#EXTINF:-1 tvg-logo="" group-title="offshore radio",Radio Caroline 319 Gold
+#EXTINF:-1 tvg-logo="https://www.radio.net/300/caroline319gold.png?version=25afd2fe05f36236914b6d3dce7c8920" group-title="70s,80s,oldies",Happy Radio Caroline 319 Gold
 http://www.rmgoldserver.eu:8313/
-#EXTINF:-1 tvg-logo="" group-title="60's,70's",Radio Caroline 319 Gold
+#EXTINF:-1 tvg-logo="https://www.radio.net/300/caroline319gold.png?version=25afd2fe05f36236914b6d3dce7c8920" group-title="60s,70s,oldies",Happy Radio Caroline 319 Gold
 http://www.rmgoldserver.eu:8558/
-#EXTINF:-1 tvg-logo="http://www.radiocontinu.nl/favicon.ico" group-title="classics,dutch,variety",Radio Continu
+#EXTINF:-1 tvg-logo="http://www.radiocontinu.nl/favicon.ico" group-title="classics,variety",Radio Continu
 http://stream.radiocontinu.nl/radiocontinu
-#EXTINF:-1 tvg-logo="https://www.rtvdrenthe.nl/Content/Images/drenthe/touch-icon-ipad-retina.png" group-title="regionaal",Radio Drenthe
+#EXTINF:-1 tvg-logo="https://www.rtvdrenthe.nl/Content/Images/drenthe/touch-icon-ipad-retina.png" group-title="news,talk",Radio Drenthe
 https://cdn.rtvdrenthe.nl/icecast/rtvdrenthe/rtvradio
-#EXTINF:-1 tvg-logo="" group-title="christian praise&worship,internet radio,nederlandstalig",Radio Eemsmond 
-https://eu1.fastcast4u.com/proxy/radioeemsmond?mp=/1
-#EXTINF:-1 tvg-logo="" group-title="",Radio Exclusief Pijnacker
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToOLBR8PzyxwnCMcT0GPb2E2_ZW_UB4Bmp1g&s" group-title="70s,80s,90s",Radio Exclusief Pijnacker
 http://radioexclusiefpijnacker.nl:8000/mp3
-#EXTINF:-1 tvg-logo="https://radioexperience.nl/wp-content/uploads/2021/06/cropped-microphone-1018787_1920-180x180.png" group-title="decades",Radio Experience 1008AM
+#EXTINF:-1 tvg-logo="https://radioexperience.nl/wp-content/uploads/2021/06/cropped-microphone-1018787_1920-180x180.png" group-title="70s,80s,90s",Radio Experience 90.0/1008
 https://totaal-streaming.de:8030/radio2
-#EXTINF:-1 tvg-logo="https://www.rtvutrecht.nl/img/favicons/utrecht/apple-touch-icon.png" group-title="utrecht",Radio M Utrecht
+#EXTINF:-1 tvg-logo="https://www.rtvutrecht.nl/img/favicons/utrecht/apple-touch-icon.png" group-title="hits,world",RTV Utrecht
 https://media.rtvutrecht.nl/radiomutrecht-bb-mp3
-#EXTINF:-1 tvg-logo="https://www.radiomaria.nl/wp/wp-content/uploads/2017/03/cropped-fav-icon-rm-2-1-192x192.png" group-title="catholic,catholic talk,christian",Radio Maria Nederland
+#EXTINF:-1 tvg-logo="https://www.radiomaria.nl/wp/wp-content/uploads/2017/03/cropped-fav-icon-rm-2-1-192x192.png" group-title="catholic,christian",Radio Maria
 https://stream.radiomaria.nl/mp3
 #EXTINF:-1 tvg-logo="http://www.radiomonique.nl/images/happy%20Monique%20963%20gold-225%20b.jpg" group-title="60s,70s,80s",Radio Monique 963 Gold
 http://www.rmgoldserver.eu:8963/
-#EXTINF:-1 tvg-logo="" group-title="60's,70's,80's,oldies",Radio Monique 963 Gold
+#EXTINF:-1 tvg-logo="http://www.radiomonique.nl/images/happy%20Monique%20963%20gold-225%20b.jpg" group-title="60s,70s,80s",Radio Monique 963 Gold
 http://www.rcgoldserver.de:8270/
-#EXTINF:-1 tvg-logo="https://www.rtvnoord.nl/img/favicons/groningen/apple-touch-icon.png" group-title="nieuws,regio",Radio Noord
+#EXTINF:-1 tvg-logo="https://www.rtvnoord.nl/img/favicons/groningen/apple-touch-icon.png" group-title="news,hits",RTV Noord
 https://media.rtvnoord.nl/icecast/rtvnoord/radio?.pls
-#EXTINF:-1 tvg-logo="http://radionoordvaarder.nl/favicon.ico" group-title="instrumental,new age",Radio Noordvaarder Angel Healing
+#EXTINF:-1 tvg-logo="http://radionoordvaarder.nl/favicon.ico" group-title="ambient,new age",Radio Noordvaarder Angel Healing
 http://www1.radionoordvaarder.nl:8000/listen.pls
 #EXTINF:-1 tvg-logo="http://www.radionoordvaarder.nl/reiki" group-title="healing,new wave",Radio Noordvaarder Reiki
 http://stream.radionoordvaarder.nl:8050/
-#EXTINF:-1 tvg-logo="" group-title="60s,70s,oldies",Radio Northsea International
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/artworks-000172944490-2m076q-t500x500.jpg" group-title="60s,70s,oldies",Radio Northsea International
 http://radionorthsea.zapto.org:8008/stream
-#EXTINF:-1 tvg-logo="" group-title="50s,60s,70s,oldies",Radio Nostalgia
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fi/8/81/Radio_Nostalgia_logo.jpg" group-title="50s,60s,70s",Radio Nostalgia
 https://kathy.torontocast.com:2250/stream
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s111540q.png" group-title="dance,dj,electronic,house",Radio One 103.9
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s111540q.png" group-title="dance,dj,electronic",Radio One 103.9
 https://8793843.com/7896326782/
-#EXTINF:-1 tvg-logo="https://fr-fr.radioline.co/ecouter-radio-patapoe#radios/radio-patapoe" group-title="",Radio Patapoe
+#EXTINF:-1 tvg-logo="https://fr-fr.radioline.co/ecouter-radio-patapoe#radios/radio-patapoe" group-title="pop,punk,politics",Radio Patapoe 88.3
 https://cast.radiopatapoe.nl/transit
-#EXTINF:-1 tvg-logo="https://www.radioperfecto.nl/rp_logo.jpg" group-title="",Radio Perfecto NL
+#EXTINF:-1 tvg-logo="https://www.radioperfecto.nl/rp_logo.jpg" group-title="rock,hits,mixes",Radio Perfecto 98.0
 http://stream.zeno.fm/uvrxyz6p0k0uv?rj-ttl=5&rj-tok=AAABfdpILfcA2CLsi0aFf4LV6w
-#EXTINF:-1 tvg-logo="" group-title="geheimezender,hollands,nederlandstalig,piraten hits,piraten muziek,piratenhits,piratenmuziek,public radio,radio regenboog,regenboog",Radio Regenboog
+#EXTINF:-1 tvg-logo="https://uk.radio.net/300/radioregenboog.png?version=c19f4de542216df2f3fdd800fdc5b380" group-title="hits,public",Radio Regenboog
 http://server-28.stream-server.nl:8830/stream
-#EXTINF:-1 tvg-logo="https://www.rijnmond.nl/Content/Images/rijnmond/logo.png" group-title="",Radio Rijnmond
+#EXTINF:-1 tvg-logo="https://www.rijnmond.nl/Content/Images/rijnmond/logo.png" group-title="hits,world",RTV Rijnmond Radio
 http://d2e9xgjjdd9cr5.cloudfront.net/icecast/rijnmond/radio-mp3
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS3dUrmGeMZBcYkNNWI86sXu72evTdxsU2rg&usqp=CAU" group-title="sport",Radio Rijnmond Extra
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS3dUrmGeMZBcYkNNWI86sXu72evTdxsU2rg&usqp=CAU" group-title="sports,talk",Radio Rijnmond Extra
 https://d2e9xgjjdd9cr5.cloudfront.net/icecast/rijnmond/radio-extra-mp3
-#EXTINF:-1 tvg-logo="http://static-cdn1.ustream.tv/i/channel/picture/3/1/1/7/3117450/3117450_logorsdhoutline_1283640782,640x360,b:1.jpg" group-title="italo disco",Radio Stad Den Haag
+#EXTINF:-1 tvg-logo="http://static-cdn1.ustream.tv/i/channel/picture/3/1/1/7/3117450/3117450_logorsdhoutline_1283640782,640x360,b:1.jpg" group-title="italo,disco",Radio Stad Den Haag
 http://94.228.133.3/
-#EXTINF:-1 tvg-logo="" group-title="",Radio Stad Harlingen
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ266rSKKTb0tsrIo4EmKfVJG1F7rHyWWxotA&s" group-title="news,talk",Radio Stad Harlingen 106.2
 http://server-09.stream-server.nl:8516/
-#EXTINF:-1 tvg-logo="" group-title="",Radio Tijdloos
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTarAX-kNVvuVbvNhs6UAXkW2y-FOajopXVGw&s" group-title="50s,60s,70s",Radio Tijdloos
 https://kathy.torontocast.com:2310/stream
-#EXTINF:-1 tvg-logo="http://radiouniquefm.nl/sticker_geel.gif" group-title="",Radio Unique FM /hi-res
+#EXTINF:-1 tvg-logo="http://radiouniquefm.nl/sticker_geel.gif" group-title="latin,oldies,pop",Radio Unique
 https://cc5.beheerstream.com/proxy/hilversumdrie?mp=/stream
-#EXTINF:-1 tvg-logo="http://radiouniquefm.nl/sticker_geel.gif" group-title="ac-gold,hot-ac,latin,oldies,pop,top 40",Radio Unique FM /mobile
+#EXTINF:-1 tvg-logo="http://radiouniquefm.nl/sticker_geel.gif" group-title="latin,oldies,pop",Radio Unique
 https://cc5.beheerstream.com/proxy/hilversumdrie?mp=/mobile
-#EXTINF:-1 tvg-logo="https://www.radioveronica.nl/static/media/RadioVeronicaPlayerLogo.4511a841.png" group-title="00's,10's,80's,90's,pop,rock",Radio Veronica
+#EXTINF:-1 tvg-logo="https://www.radioveronica.nl/static/media/RadioVeronicaPlayerLogo.4511a841.png" group-title="00s,10s,90s",Radio Veronica
 https://playerservices.streamtheworld.com/api/livestream-redirect/VERONICA.mp3
 #EXTINF:-1 tvg-logo="" group-title="misc",Radio Zuyd
 http://radiozuyd.shoutcaststream.com:8199/stream
