@@ -1,81 +1,77 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://www.2xsfm.co.nz/favicons/e1062edf-431c-45cf-bb5f-fd4f8b0b9933/favicon-180x180.png" group-title="retro,rock",2XS FM Palmerston North
+#EXTINF:-1 tvg-logo="http://www.2xsfm.co.nz/favicons/e1062edf-431c-45cf-bb5f-fd4f8b0b9933/favicon-180x180.png" group-title="contemporary,rock",2XS 92.2
 http://125.236.204.178:8001/listen.mp3
-#EXTINF:-1 tvg-logo="http://8k.nz/favicon.ico" group-title="community radio,eclectic,freeform,indie",8K.NZ
+#EXTINF:-1 tvg-logo="http://8k.nz/favicon.ico" group-title="community,eclectic,freeform",8K.NZ
 http://radio8k.out.airtime.pro:8000/radio8k_a
-#EXTINF:-1 tvg-logo="" group-title="alternative,indie",Andhow fm
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/7TAscWtdUG.png" group-title="alternative,indie",adHow.FM 107.5
 https://us4.internet-radio.com/proxy/andhowfm?mp=/stream
-#EXTINF:-1 tvg-logo="http://www.auckland80s.com/uploads/1/1/9/0/119036082/android_orig.png" group-title="80s",Auckland 80s
+#EXTINF:-1 tvg-logo="http://www.auckland80s.com/uploads/1/1/9/0/119036082/android_orig.png" group-title="80s,pop,rock",Auckland 80s
 https://streamer.radio.co/s81fc850fd/listen
-#EXTINF:-1 tvg-logo="http://www.irirangi.net/media/22047/awa%204.jpg" group-title="",Awa FM
+#EXTINF:-1 tvg-logo="http://www.irirangi.net/media/22047/awa%204.jpg" group-title="hits,pop",Awa FM
 http://apple.irirangi.net:8000/O_Awa.aac
-#EXTINF:-1 tvg-logo="https://basefm.co.nz/favicon.ico" group-title="dancehall,drum & bass,dubstep,electronic,funk,hiphop,independent,jazz,reggae,soul",Base FM
+#EXTINF:-1 tvg-logo="https://basefm.co.nz/favicon.ico" group-title="dancehall,drum'n'bass,dubstep",Base 107.3
 http://stream.basefm.co.nz:8000/BaseHi
-#EXTINF:-1 tvg-logo="https://www.beachfm.co.nz/uploads/1/3/5/1/135192593/published/logo-beach-fm.png?1628291879" group-title="00s,60s,70s,80s,90s,entertainment,local events,local news",BeachFM 106.3
+#EXTINF:-1 tvg-logo="https://www.beachfm.co.nz/uploads/1/3/5/1/135192593/published/logo-beach-fm.png?1628291879" group-title="00s,60s,70s",BeachFM 106.3
 http://s8.myradiostream.com:58408/
-#EXTINF:-1 tvg-logo="https://brianfm.com/wp-content/uploads/brian-fm-logo-re5.svg" group-title="",Brian FM 105.6 Nelson NZ
+#EXTINF:-1 tvg-logo="https://brianfm.com/wp-content/uploads/brian-fm-logo-re5.svg" group-title="rock,hits",Brian 105.6 Nelson
 https://ais-sa1.streamon.fm/7358_128k.aac/playlist.m3u8?
-#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/streaming-player-assets/BrianFMNel/custom/images/brianfmnel-logo-20190225094751.png" group-title="",Brian FM 105.6 Nelson NZ
-https://ais-sa1.streamon.fm/7358_128k.aac/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="play what we want",BrianFM Marlborough
+#EXTINF:-1 tvg-logo="https://nz.radio.net/images/broadcasts/2b/cf/169233/1/c300.png" group-title="rock,hits",Brian 100.9 Marlborough
 https://ais-sa1.streamon.fm/7103_48k.aac/playlist.m3u8?aw_0_1st.playerid=esPlayer&aw_0_1st.skey=1590010609
-#EXTINF:-1 tvg-logo="" group-title="news",CFM
+#EXTINF:-1 tvg-logo="https://cfm.co.nz/wp-content/uploads/2019/09/CFM-logo-400.png" group-title="20s,30s,40s",CFM
 https://s47.myradiostream.com/:8864/listen.mp3
-#EXTINF:-1 tvg-logo="" group-title="classical music",Classic1027
+#EXTINF:-1 tvg-logo="https://static.iono.fm/files/p551/logo_551_20191028_125026_600.jpg" group-title="classical,baroque",Classic 1027
 http://edge.iono.fm/xice/49_high.aac
-#EXTINF:-1 tvg-logo="http://www.thecoast.net.nz/media/7635149/coastbackupimage.jpg?mode=crop&width=675&height=379&quality=80&scale=both" group-title="",Coast
+#EXTINF:-1 tvg-logo="http://www.thecoast.net.nz/media/7635149/coastbackupimage.jpg?mode=crop&width=675&height=379&quality=80&scale=both" group-title="oldies,pop,r'n'b",Coast 105.4
 http://ais-nzme.streamguys1.com/nz_011_aac
-#EXTINF:-1 tvg-logo="" group-title="community radio",Coast Access Radio
+#EXTINF:-1 tvg-logo="https://cdn3.firecrestsystems.com/FC_Coast/Images/coastlogo.png" group-title="community,variety",Coast Access Radio 104.7
 https://live.accessmedia.nz/Coast.stream_aac/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn3.firecrestsystems.com/FC_Coast/Images/coastlogo.png" group-title="community radio",Coast Access Radio MP3
+#EXTINF:-1 tvg-logo="https://cdn3.firecrestsystems.com/FC_Coast/Images/coastlogo.png" group-title="community,variety",Coast Access Radio 104.7
 https://live.accessmedia.nz/Coast.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.thecoast.net.nz/content/images/interface/icons/coast/apple-touch-icon-iphone-retina-120x120.png" group-title="",Coast FM
+#EXTINF:-1 tvg-logo="https://www.thecoast.net.nz/content/images/interface/icons/coast/apple-touch-icon-iphone-retina-120x120.png" group-title="oldies,pop,r'n'b",Coast 105.4
 https://ais-nzme.streamguys1.com/nz_011/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="community radio,local news",Compass FM
+#EXTINF:-1 tvg-logo="https://www.liveradio.uk/files/images/401754/resized/180x172c/compass_fm.jpg" group-title="community,variety",Compass 104.9
 http://stream.compassfm.org.nz:8000/Compass_FM_104.9
-#EXTINF:-1 tvg-logo="https://cfm.co.nz/wp-content/uploads/2019/09/CFM-header-logo.png?x22446" group-title="",Coromandel FM
-https://s47.myradiostream.com/:8864/listen.mp3/
-#EXTINF:-1 tvg-logo="" group-title="rock",East FM
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s155609q.png" group-title="community,variety",East FM
 http://listen.eastfm.nz/stream.mp3
-#EXTINF:-1 tvg-logo="" group-title="",Gaia FM New Zealand
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/29kU9cvzvS.png" group-title="world,relax",Gaia 106.9
 http://s2.stationplaylist.com:9000/gaiafm.aac
-#EXTINF:-1 tvg-logo="http://www.galaxyfm.co.nz/favicons/53c7edaf-71ab-432b-9997-1e9a4e27dfa9/favicon-180x180.png" group-title="adult contemporary,community radio,kawerau",Galaxy 107 FM  Kawerau
+#EXTINF:-1 tvg-logo="http://www.galaxyfm.co.nz/favicons/53c7edaf-71ab-432b-9997-1e9a4e27dfa9/favicon-180x180.png" group-title="contemporary,community",Galaxy 107
 http://s39.myradiostream.com:14858/;listen.mp3
-#EXTINF:-1 tvg-logo="https://www.gold.co.nz/Assets/dist/interface/open-graph/09448_Gold_Announce_FB_WebShare.jpg" group-title="",GOLD 105.4 Auckland - New Zealand
+#EXTINF:-1 tvg-logo="https://www.gold.co.nz/Assets/dist/interface/open-graph/09448_Gold_Announce_FB_WebShare.jpg" group-title="hits,oldies",Gold 105.4
 http://ais-nzme.streamguys1.com/nz_015_aac
-#EXTINF:-1 tvg-logo="https://www.gold.co.nz/Assets/dist/interface/favicons/favicon-16x16.png" group-title="classic hits,classic rock,rock",Gold AM nz
+#EXTINF:-1 tvg-logo="https://www.gold.co.nz/Assets/dist/interface/favicons/favicon-16x16.png" group-title="hits,rock",Gold AM
 https://ais-nzme.streamguys1.com/nz_016/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3-ap-southeast-2.amazonaws.com/crowdhubrhemaau/favicons/1/favicon-96x96.png" group-title="christian,gospel",LifeFM
 http://rhema-radio.streamguys1.com/rhema-lifefm.mp3
-#EXTINF:-1 tvg-logo="http://www.mixonline.co.nz//content/images/interface/icons/Easymix/apple-touch-icon-iphone-60x60.png" group-title="",Mix
+#EXTINF:-1 tvg-logo="http://www.mixonline.co.nz//content/images/interface/icons/Easymix/apple-touch-icon-iphone-60x60.png" group-title="rock,hits",Mix
 https://ais-nzme.streamguys1.com/nz_012/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.newstalkzb.co.nz/content/images/interface/icons/newstalkzb/apple-touch-icon-v6.png" group-title="local news,news,news talk,talk",Newstalk ZB Auckland
+#EXTINF:-1 tvg-logo="https://www.newstalkzb.co.nz/content/images/interface/icons/newstalkzb/apple-touch-icon-v6.png" group-title="news,talk",Newstalk ZB Auckland
 https://ais-nzme.streamguys1.com/nz_002_aac
-#EXTINF:-1 tvg-logo="https://www.newstalkzb.co.nz/content/images/interface/icons/newstalkzb/apple-touch-icon-v6.png" group-title="local news,news,news talk",Newstalk ZB Christchurch
+#EXTINF:-1 tvg-logo="https://www.newstalkzb.co.nz/content/images/interface/icons/newstalkzb/apple-touch-icon-v6.png" group-title="news,talk",Newstalk ZB Christchurch
 https://us-ais-nzme.streamguys1.com/nz_003_aac
-#EXTINF:-1 tvg-logo="https://www.newstalkzb.co.nz/content/images/interface/icons/newstalkzb/apple-touch-icon-v6.png" group-title="local news,news,news talk",Newstalk ZB Wellington
+#EXTINF:-1 tvg-logo="https://www.newstalkzb.co.nz/content/images/interface/icons/newstalkzb/apple-touch-icon-v6.png" group-title="news,talk",Newstalk ZB Wellington
 https://us-ais-nzme.streamguys1.com/nz_004_aac
-#EXTINF:-1 tvg-logo="http://groundtruth.co.nz/sites/default/files/favicon.ico" group-title="",Paekakariki
+#EXTINF:-1 tvg-logo="http://groundtruth.co.nz/sites/default/files/favicon.ico" group-title="hits,rock",Paekakariki 88.2
 http://icecast.groundtruth.co.nz:8000/paekakfm.mp3
-#EXTINF:-1 tvg-logo="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fencrypted-tbn0.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcSZzLKnlBOKExjW2p77iNbnLugzyIJYT9QP0TISvBGcVRrjkB0%26s&sp=1638913294T5646b2ce9dab00e3f3354f7c889e2af4c8e6a37cfc6c82b0a9ac976f621b7054" group-title="community",Plains FM 96.9
+#EXTINF:-1 tvg-logo="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fencrypted-tbn0.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcSZzLKnlBOKExjW2p77iNbnLugzyIJYT9QP0TISvBGcVRrjkB0%26s&sp=1638913294T5646b2ce9dab00e3f3354f7c889e2af4c8e6a37cfc6c82b0a9ac976f621b7054" group-title="community,variety",Plains 96.9
 http://live.accessmedia.nz/plains.stream_aac/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7t0qrcsFhyKWaLGNqiApczhy3t-_a5dekN1E2WsDs7atggrklnQ30wP7y2xlUqZqV8xo&usqp=CAU" group-title="",Radio A - Nelson NZ
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7t0qrcsFhyKWaLGNqiApczhy3t-_a5dekN1E2WsDs7atggrklnQ30wP7y2xlUqZqV8xo&usqp=CAU" group-title="news,variety",Radio A 
 https://listen.radioking.com/radio/106324/stream/145267
-#EXTINF:-1 tvg-logo="https://www.hauraki.co.nz//content/images/interface/icons/Hauraki/apple-touch-icon-ipad-76x76.png" group-title="",Radio Hauraki
+#EXTINF:-1 tvg-logo="https://www.hauraki.co.nz//content/images/interface/icons/Hauraki/apple-touch-icon-ipad-76x76.png" group-title="rock,alternative,hip hop",Radio Hauraki
 https://ais-nzme.streamguys1.com/nz_009_aac
-#EXTINF:-1 tvg-logo="https://www.radionz.co.nz/brand-images/rnz-sky-sq.jpg" group-title="",Radio New Zealand Concert
+#EXTINF:-1 tvg-logo="https://www.radionz.co.nz/brand-images/rnz-sky-sq.jpg" group-title="classical,jazz,contemporary",RNZ Concert
 http://radionz-ice.streamguys.com/Concert_aac128
-#EXTINF:-1 tvg-logo="https://www.radiorockfm.co.nz/favicon.ico" group-title="hard rock,rock",Radio Rock FM
+#EXTINF:-1 tvg-logo="https://www.radiorockfm.co.nz/favicon.ico" group-title="hard,rock",Radio Rock FM
 http://www.radiorockfm.co.nz:8000/listenlive
-#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/brand/icon_192x192.png" group-title="music",Radio Spice (Auckland, New Zealand)
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/brand/icon_192x192.png" group-title="punjabi,bollywood,top 40",Radio Spice 88.0
 http://stream9.broadcast.co.nz:8000/radiospicewebsiteaudio.mp3
-#EXTINF:-1 tvg-logo="" group-title="bollywood,community messages,hindi,indian,music,new zealand,news,talkback",Radio Tarana
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO4faOpniYFwC0MFC-xm--IhYb6rvLOMOjPA&s" group-title="bollywood,hindi,world",Radio Tarana 1386
 http://ais-nzme.streamguys1.com/nz_116_aac
-#EXTINF:-1 tvg-logo="https://waateanews.com/wp-content/uploads/2021/04/cropped-profile-180x180.png" group-title="news",Radio Waatea
+#EXTINF:-1 tvg-logo="https://waateanews.com/wp-content/uploads/2021/04/cropped-profile-180x180.png" group-title="pop,maori,world",Waatea Radio 603
 http://apple.irirangi.net:8000/I_Waatea.aac
-#EXTINF:-1 tvg-logo="" group-title="alternative",RadioActive.FM 88.6
+#EXTINF:-1 tvg-logo="https://nz.radio.net/300/radioactive886fm.png?version=e50978db39db85591c4f31f34c67e702" group-title="alternative,rock",RadioActive.FM 88.6
 https://radio123-gecko.radioca.st/radioactivefm
-#EXTINF:-1 tvg-logo="https://s3-ap-southeast-2.amazonaws.com/crowdhubrhemaau/favicons/48/favicon-96x96.png" group-title="christian",Rhema
+#EXTINF:-1 tvg-logo="https://s3-ap-southeast-2.amazonaws.com/crowdhubrhemaau/favicons/48/favicon-96x96.png" group-title="christian,religious",Rhema
 http://rhema-radio.streamguys1.com/rhema.mp3
 #EXTINF:-1 tvg-logo="https://www.rnz.co.nz/brand-images/rnz-sky-sq.jpg" group-title="",RNZ - Radio New Zealand - In Parliament
 http://radionz-ice.streamguys.com/parliament.mp3
