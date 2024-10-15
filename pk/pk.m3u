@@ -1,17 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://92newshd.tv/wp-content/themes/92newshd-latest-version/images/logo.png" group-title="",92 News TV
-http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",Apna Karachi FM 107
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKLUyIhMVJbSnizstm0ZsX09HoDaCDEuLPDA&s" group-title="talk,world",Apna Karachi 107
 http://72.255.62.220:7070/live107
-#EXTINF:-1 tvg-logo="https://avtkhyber.tv/demo/wp-content/uploads/2019/06/favicon.png" group-title="",AVT Khyber TV
-http://dcunilive38-lh.akamaihd.net/i/dclive_1@692670/index_150_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://fm100pakistan.com/beta/wp-content/uploads/2021/02/FM-100-Pakistan-Logo.jpg" group-title="folk,islamic,talk",FM 100 Pakistan
+#EXTINF:-1 tvg-logo="https://fm100pakistan.com/beta/wp-content/uploads/2021/02/FM-100-Pakistan-Logo.jpg" group-title="folk,talk",FM 100 Pakistan
 http://162.244.80.118:4900/;stream.mp3
-#EXTINF:-1 tvg-logo="http://www.hotfm.com.pk/img/logos/thumb_2002001388444747.jpg" group-title="entertainment,news,sports,talk",Hot FM 105
+#EXTINF:-1 tvg-logo="http://www.hotfm.com.pk/img/logos/thumb_2002001388444747.jpg" group-title="news,sports,talk",Hot 105
 http://172.93.237.106:8000/listen.mp3
-#EXTINF:-1 tvg-logo="http://nettv.live/uploads/allimg/19/1-1Z12G944230-L.jpg" group-title="",Kay 2 TV
-http://dcunilive36-lh.akamaihd.net/i/dclive_1@662109/index_150_av-p.m3u8
-#EXTINF:-1 tvg-logo="http://khybernews.tv/wp-content/uploads/2018/08/logo-khybernews.png" group-title="",Khyber News TV
-http://dcunilive38-lh.akamaihd.net/i/dclive_1@692677/index_150_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://samaafm.com/wp-content/uploads/2021/02/logo-sm.png" group-title="news,talk",Samaa FM 107.4
+#EXTINF:-1 tvg-logo="https://samaafm.com/wp-content/uploads/2021/02/logo-sm.png" group-title="news,talk",Radio Mera 107.4
 https://samaakhi107-itelservices.radioca.st/stream
