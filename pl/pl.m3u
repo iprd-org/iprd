@@ -1,25 +1,23 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="classical",357
+#EXTINF:-1 tvg-logo="https://www.radio.net/300/radio357.png?version=c7060e809ef135668246263fc3603ce2" group-title="pop,rock",Radio 357
 http://n09a-eu.rcs.revma.com/ye5kghkgcm0uv?rj-ttl=5&rj-tok=AAABfd1GTq8AXx1ZlGsBV3ZW6Q
-#EXTINF:-1 tvg-logo="http://4fun.tv//apple-touch-icon-152x152.png" group-title="",4 Fun TV
-https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
-#EXTINF:-1 tvg-logo="http://open.fm/logo/200x200/81" group-title="500hits,hits,party,party hits",500 Party Hits - Open FM
+#EXTINF:-1 tvg-logo="http://open.fm/logo/200x200/81" group-title="hits,party",Open FM 500 Party Hits
 https://stream.open.fm/81
-#EXTINF:-1 tvg-logo="http://open.fm/logo/200x200/3" group-title="80s,hits,music",80s Hits - Open FM
+#EXTINF:-1 tvg-logo="http://open.fm/logo/200x200/3" group-title="80s,hits",Open FM 80s Hits
 https://stream.open.fm/3
-#EXTINF:-1 tvg-logo="http://centrum.fm/wp-content/uploads/2016/07/Maria-Peszek-KARABIN-300x300.jpg" group-title="alternative",Akademickie Radio Centrum UMCS
+#EXTINF:-1 tvg-logo="http://centrum.fm/wp-content/uploads/2016/07/Maria-Peszek-KARABIN-300x300.jpg" group-title="alternative,rock",Akademickie Radio Centrum UMCS
 http://5.201.13.191/live
-#EXTINF:-1 tvg-logo="https://radiokampus.fm/logo192.png" group-title="blues,brit pop,country music,jazz,metal,polish,rock,world music",Akademickie Radio Kampus
+#EXTINF:-1 tvg-logo="https://radiokampus.fm/logo192.png" group-title="blues,pop,country",Akademickie Radio Kampus
 http://193.0.98.66:8005/listen.pls
-#EXTINF:-1 tvg-logo="" group-title="christian",Aniol Beskidów
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCExLnz46M1DNY5IJS4HCVg15LfO4eQlzwIjtpk93tcX92yDgVB1ZMXnS7TnhKjZXnqHE&usqp=CAU" group-title="christian,religious",Aniol Beskidow 90.2
 http://media.aniolbeskidow.pl:22000/aniolbeskidow
-#EXTINF:-1 tvg-logo="" group-title="metal,rock",Antyradio
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/OTzo_vTBKevBKBCwufXUPiFJxgCIq6W8R5ZOHjfyN4rT6R9ragz1p7RRhABrt9HGhi4" group-title="metal,rock",Antyradio
 https://n-4-2.dcs.redcdn.pl/sc/o2/Eurozet/live/antyradio.livx?audio=5
-#EXTINF:-1 tvg-logo="" group-title="",Antyradio Warszawa
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/OTzo_vTBKevBKBCwufXUPiFJxgCIq6W8R5ZOHjfyN4rT6R9ragz1p7RRhABrt9HGhi4" group-title="metal,rock",Antyradio 
 http://an03.cdn.eurozet.pl/ant-waw.mp3?redirected=03
-#EXTINF:-1 tvg-logo="https://gfx.chillizet.pl/design/chillizet/src/images/favicon/apple-touch-icon.png" group-title="",Chilli Zet
+#EXTINF:-1 tvg-logo="https://gfx.chillizet.pl/design/chillizet/src/images/favicon/apple-touch-icon.png" group-title="ambient,chillout,pop",Radio Chilli ZET
 https://ch02.cdn.eurozet.pl/chi-net.mp3?redirected=02
-#EXTINF:-1 tvg-logo="https://gfx.chillizet.pl/design/chillizet/src/images/favicon/apple-touch-icon.png" group-title="",Chilli ZET Deep
+#EXTINF:-1 tvg-logo="https://gfx.chillizet.pl/design/chillizet/src/images/favicon/apple-touch-icon.png" group-title="ambient,chillout,house",Chilli ZET Deep Radio
 http://ch02.cdn.eurozet.pl/CHIDEP.mp3
 #EXTINF:-1 tvg-logo="https://gfx-player.radiozet.pl/var/player/storage/images/player-chillizet/kanaly-muzyczne/chillizet-covers/710481-2-pol-PL/Chillizet-Covers_size-140x140.jpg" group-title="covers",ChilliZet Covers
 https://ch01.cdn.eurozet.pl/CHICOV.mp3
