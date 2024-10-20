@@ -419,109 +419,107 @@ https://streaming.radio5.com.pl:8888/radio5suwalki
 http://137.74.5.240:443/;stream.mp3
 #EXTINF:-1 tvg-logo="http://www.radio90.pl/media2015/pic/apple-icon-57x57.png" group-title="pop,hits,world",Radio 90
 http://streams.radio90.pl:8000/radio90_128kbps_stereo.mp3
-#EXTINF:-1 tvg-logo="http://www.afera.com.pl/favicon.ico" group-title="alternative,alternative rock,rock",Radio Afera
+#EXTINF:-1 tvg-logo="http://www.afera.com.pl/favicon.ico" group-title="alternative,rock",Radio Afera 98.6
 http://radio.afera.com.pl/afera128.mp3
-#EXTINF:-1 tvg-logo="https://www.afera.com.pl/apple-touch-icon.png" group-title="",Radio Afera
-https://radio.afera.com.pl/afera128.ogg
-#EXTINF:-1 tvg-logo="http://radioakord.cba.pl///templates/dd_wildlion_37/favicon.ico" group-title="",Radio Akord
+#EXTINF:-1 tvg-logo="https://www.afera.com.pl/apple-touch-icon.png" group-title="alternative,rock",Radio Afera 98.6
+https://radio.afera.com.pl/afera128.ogg 
+#EXTINF:-1 tvg-logo="http://radioakord.cba.pl///templates/dd_wildlion_37/favicon.ico" group-title="pop,contemporary",Radio Akord 96.5
 http://s1.slotex.pl:7122/
-#EXTINF:-1 tvg-logo="" group-title="",Radio Aktywne
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdZ3b1kDEirik6AGtMucCxd8539zwI6jJWDQ&s" group-title="electronic,rock,news",Radio Aktywne
 https://listen.radioaktywne.pl:8443/raogg
-#EXTINF:-1 tvg-logo="" group-title="folk,local radio,poland,polish highlands,zakopane",Radio Alex
+#EXTINF:-1 tvg-logo="https://ca.radio.net/300/radioalexpl.png?version=a8ff1673526ce262fddce9a3f4c64179" group-title="folk,polish",Radio Alex 105.2
 http://proxima.shoutca.st:9045/stream
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s154005q.png" group-title="anime,soundtracks",Radio Anime24
 http://91.232.4.33:7028/listen.pls
-#EXTINF:-1 tvg-logo="" group-title="",Radio Baobab
+#EXTINF:-1 tvg-logo="https://www.radio.net/300/radiobaobab.png?version=b3b7445011755d3f59cdeba329e04655" group-title="blues,talk",Radio Baobab
 http://stream.radiobaobab.pl:8000/radiobaobab.mp3
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/7/1427.v4.png" group-title="misc",Radio Bielsko
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/7/1427.v4.png" group-title="world,hits",Radio Bielsko 106.7
 https://n10a-eu.rcs.revma.com/062uq3z3kwzuv?rj-ttl=5&rj-tok=AAABfdomgNoAB-xY2RmXTZMu1g
-#EXTINF:-1 tvg-logo="https://www.radiobielsko.pl/apple-touch-icon120x120.png" group-title="top40",Radio Bielsko
+#EXTINF:-1 tvg-logo="https://www.radiobielsko.pl/apple-touch-icon120x120.png" group-title="world,hits",Radio Bielsko 106.7
 https://n08.rcs.revma.com/062uq3z3kwzuv?rj-ttl=5&rj-tok=AAABfd5LSQAAm7l7Iw352arEDw
-#EXTINF:-1 tvg-logo="https://droid4you.panelradiowy.pl//images/appleicon72.png" group-title="",Radio BIGBBS
+#EXTINF:-1 tvg-logo="https://droid4you.panelradiowy.pl//images/appleicon72.png" group-title="dance,electro",Radio BIGBBS
 http://91.121.91.156:8000/
-#EXTINF:-1 tvg-logo="https://static.radiobonton.pl/data/wysiwig/images/ffhjfgjfj.png" group-title="chełm,local radio,poland,polish,pop",Radio BonTon
+#EXTINF:-1 tvg-logo="https://static.radiobonton.pl/data/wysiwig/images/ffhjfgjfj.png" group-title="pop,hits,top 40",Radio Bon Ton 104.9
 https://streaming.inten.pl:8020/bonton.mp3
-#EXTINF:-1 tvg-logo="" group-title="",Radio Brylant
-http://s1.slotex.pl:7212/
-#EXTINF:-1 tvg-logo="" group-title="country",Radio Centrum
+#EXTINF:-1 tvg-logo="https://www.radio.net/300/radiocentrumpl.png?version=585ee081cebf06db1f8c69999235b214" group-title="alternative,jazz",Radio Centrum 89.0
 http://shot4.inten.pl:8888/rcfm.mp3
-#EXTINF:-1 tvg-logo="https://i1.wp.com/centrum.fm/wp-content/uploads/2012/12/radio_centrum_logo_czarne_01.jpg?fit=1121%2C771&ssl=1" group-title="poland,polish,rock",Radio Centrum Lublin
+#EXTINF:-1 tvg-logo="https://i1.wp.com/centrum.fm/wp-content/uploads/2012/12/radio_centrum_logo_czarne_01.jpg?fit=1121%2C771&ssl=1" group-title="culture,variety",Radio Centrum Lublin 98.2
 https://radio.centrum.fm/live
-#EXTINF:-1 tvg-logo="https://site-862783.mozfiles.com/files/862783/radio_cenzura.jpg?1575871467" group-title="",Radio Cenzura
+#EXTINF:-1 tvg-logo="https://site-862783.mozfiles.com/files/862783/radio_cenzura.jpg?1575871467" group-title="rock,pop,folk",Radio Cenzura
 http://91.121.222.81:8234/stream1
-#EXTINF:-1 tvg-logo="Http://radiochrystusakrola.pl/radio_play/LOGO%20400x400.png" group-title="catholic,christian",Radio Chrystusa Króla
+#EXTINF:-1 tvg-logo="Http://radiochrystusakrola.pl/radio_play/LOGO%20400x400.png" group-title="catholic,christian",Radio Chrystusa Krola
 http://4stream.pl:18044/
-#EXTINF:-1 tvg-logo="https://radiochrzescijanin.pl/obrazki/2015/11/radio113.png" group-title="christian,jesus",Radio Chrzescijanin - 2
+#EXTINF:-1 tvg-logo="https://radiochrzescijanin.pl/obrazki/2015/11/radio113.png" group-title="christian,religious",Radio Chrzescijanin 2
 http://s1.slotex.pl:7002/listen.pls
-#EXTINF:-1 tvg-logo="https://radiochrzescijanin.pl/obrazki/2015/11/radio113.png" group-title="bible,christian,jesus",Radio Chrześcijanin (Jakość dźwięku (MP3))
+#EXTINF:-1 tvg-logo="https://radiochrzescijanin.pl/obrazki/2015/11/radio113.png" group-title="christian,religious",Radio Chrzescijanin
 http://s1.slotex.pl:7002/mountpoint
-#EXTINF:-1 tvg-logo="http://radiochrzescijanin.pl//favicon.ico" group-title="",Radio Chrzescijanin Biblia
+#EXTINF:-1 tvg-logo="http://radiochrzescijanin.pl//favicon.ico" group-title="christian,religious",Radio Chrzescijanin Biblia
 http://s1.slotex.pl:7116/listen.pls
-#EXTINF:-1 tvg-logo="http://radiochrzescijanin.pl//favicon.ico" group-title="",Radio Chrzescijanin Dzieci
+#EXTINF:-1 tvg-logo="http://radiochrzescijanin.pl//favicon.ico" group-title="christian,religious",Radio Chrzescijanin Dzieci
 http://s1.slotex.pl:7410/listen.pls
-#EXTINF:-1 tvg-logo="http://radiochrzescijanin.pl//favicon.ico" group-title="",Radio Chrzescijanin Muzyka instrumentalna
+#EXTINF:-1 tvg-logo="http://radiochrzescijanin.pl//favicon.ico" group-title="christian,religious",Radio Chrzescijanin Muzyka Instrumentalna
 http://s1.slotex.pl:7172/
-#EXTINF:-1 tvg-logo="https://radio111.pl/wp-content/themes/theme/img/device-icons/favicon-32x32.png" group-title="",Radio Club Party
+#EXTINF:-1 tvg-logo="https://radio111.pl/wp-content/themes/theme/img/device-icons/favicon-32x32.png" group-title="club,dance,electro",Radio Club Party
 http://s1.cmp3.eu:8555/listen.pls
-#EXTINF:-1 tvg-logo="http://radiodanielka.pl/wp-content/uploads/2021/03/cropped-ikona-1-192x192.png" group-title="aktorska,cabaret,folk,kabaret,poetry,poezja,polish,szanty",Radio Danielka
+#EXTINF:-1 tvg-logo="http://radiodanielka.pl/wp-content/uploads/2021/03/cropped-ikona-1-192x192.png" group-title="cabaret,folk",Radio Danielka
 http://s3.slotex.pl:7088/
-#EXTINF:-1 tvg-logo="https://www.radiodht.com/favicon.ico" group-title="dance,discopolo,eurodance,handsup,trance",Radio DHT (kanał drugi)
+#EXTINF:-1 tvg-logo="https://www.radiodht.com/favicon.ico" group-title="dance,eurodance,trance",Radio DHT
 https://radiodht.com/stream_second/
-#EXTINF:-1 tvg-logo="https://www.radiodht.com/favicon.ico" group-title="aaa,alternative,eclectic,oldies,pop,rock,various",Radio DHT (kanał główny)
+#EXTINF:-1 tvg-logo="https://www.radiodht.com/favicon.ico" group-title="alternative,eclectic,oldies",Radio DHT
 https://radiodht.com/stream_main/
-#EXTINF:-1 tvg-logo="" group-title="70,70s,80,80s,90,90s,disco,disco polo",Radio Disco-Dance
+#EXTINF:-1 tvg-logo="https://dvw7f7sqjk3ag.cloudfront.net/images/radio/50659.png" group-title="70s,80s,90s",Radio Disco-Dance
 https://radiodd.cloud/radio/8000/radio.mp3
-#EXTINF:-1 tvg-logo="" group-title="local radio",Radio Elka Glogow
+#EXTINF:-1 tvg-logo="https://uk.radio.net/300/elkaglo.png?version=d03e1d06e9a738e1dc83880f84d3830d" group-title="pop,sports",Radio Elka Glogow 89.6
 http://live.elka.pl:8000/miedziowe
-#EXTINF:-1 tvg-logo="" group-title="local news,local radio,poland,polish,pop,top 40",Radio Elka Leszno
+#EXTINF:-1 tvg-logo="https://www.radio.net/300/radioelkalesznopl.png?version=667c54b74700532160598ee7b59b17b5" group-title="news,pop,top 40",Radio Elka Leszno
 http://live.elka.pl:8000/elka.fm
-#EXTINF:-1 tvg-logo="" group-title="local news,local radio,polish,polska,polskie radio,polskieradio",Radio Elka Miedziowe
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/JIFOgV7abJRc79v6stmxFIAN-KTvfyiEA3W2rRQv8ZCefvFY3ZAxn7NjTtRwH4RLp-iBchDR=s900-c-k-c0x00ffffff-no-rj" group-title="news,world",Radio Elka Miedziowe
 http://live.elka.pl:8000/miedziowe.pl
-#EXTINF:-1 tvg-logo="https://radioemaus.pl/app/uploads/2019/11/cropped-avatar-180x180.png" group-title="christian",Radio Emaus
+#EXTINF:-1 tvg-logo="https://radioemaus.pl/app/uploads/2019/11/cropped-avatar-180x180.png" group-title="christian,religious",Radio Emaus 89.8
 http://stream.radioemaus.pl:8000/oggstream
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/2/1422.v3.png" group-title="pop",Radio Express
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/2/1422.v3.png" group-title="pop,hits",Radio Express 92.3
 https://n15a-eu.rcs.revma.com/yx6cub73kwzuv?rj-ttl=5&rj-tok=AAABfdxNstEA876DKJ6YMZ0nIg
-#EXTINF:-1 tvg-logo="" group-title="",Radio FAMA
+#EXTINF:-1 tvg-logo="https://www.radio.net/300/famaslupsk.png?version=1547d4435aa9a0cde9a2d631ad1628af" group-title="hits,pop,world",Radio FAMA
 http://stream2.nadaje.com:8076/
-#EXTINF:-1 tvg-logo="" group-title="information,local news,music,world music",Radio Fama Slupsk
+#EXTINF:-1 tvg-logo="https://www.radio.net/300/famaslupsk.png?version=1547d4435aa9a0cde9a2d631ad1628af" group-title="hits,pop,world",Radio FAMA Slupsk
 http://stream3.nadaje.com:9024/listen.pls
-#EXTINF:-1 tvg-logo="" group-title="music,news",Radio FAMA Tomaszów
+#EXTINF:-1 tvg-logo="https://www.radio.net/300/famaslupsk.png?version=1547d4435aa9a0cde9a2d631ad1628af" group-title="hits,pop,world",Radio FAMA Tomaszow
 http://stream2.nadaje.com:8078/listen.pls
-#EXTINF:-1 tvg-logo="http://www.przemyska.pl/radiofara/favicon.ico" group-title="christian",Radio Fara
+#EXTINF:-1 tvg-logo="http://www.przemyska.pl/radiofara/favicon.ico" group-title="christian,religious",Radio Fara 98.2
 http://62.133.128.22:8000/
-#EXTINF:-1 tvg-logo="" group-title="religion",Radio FIAT
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s9276/images/logod.jpg?t=637487633900000000" group-title="world,variety",Radio Fiat 94.7
 http://stream2.nadaje.com:8056/
-#EXTINF:-1 tvg-logo="" group-title="",Radio Forever
+#EXTINF:-1 tvg-logo="https://dvw7f7sqjk3ag.cloudfront.net/images/radio/51077.png" group-title="80s,hits,pop",Radio Forever 80s
 http://s1.slotex.pl:7134/
-#EXTINF:-1 tvg-logo="http://radioforte.com.pl/favicon.ico" group-title="",Radio Forte
+#EXTINF:-1 tvg-logo="http://radioforte.com.pl/favicon.ico" group-title="pop,rock",Radio Forte
 http://s1.slotex.pl:7856/
-#EXTINF:-1 tvg-logo="https://fraszka.ujk.edu.pl/wp-content/uploads/2018/02/logo3-300x300.png" group-title="college radio",Radio Fraszka
+#EXTINF:-1 tvg-logo="https://fraszka.ujk.edu.pl/wp-content/uploads/2018/02/logo3-300x300.png" group-title="college,variety",Radio Fraszka
 http://81.26.9.138:8000/RadioFraszka#.m3u
-#EXTINF:-1 tvg-logo="" group-title="catholic,christianity,religia",Radio FSSPX
+#EXTINF:-1 tvg-logo="https://dvw7f7sqjk3ag.cloudfront.net/images/radio/50887.jpg" group-title="catholic,christian",FSSPX Radio
 http://fsspx.pl:8000/radio.mp3
-#EXTINF:-1 tvg-logo="http://radioftb.net/wp-content/uploads/2017/11/logo.png" group-title="",Radio FTB Club
+#EXTINF:-1 tvg-logo="http://radioftb.net/wp-content/uploads/2017/11/logo.png" group-title="club,dance,electro",Radio FTB Club
 http://play.radioftb.net:8000/stream
-#EXTINF:-1 tvg-logo="https://radioftb.net/wp-content/uploads/2020/11/appstore.png" group-title="",Radio FTB Disco Polo
+#EXTINF:-1 tvg-logo="https://radioftb.net/wp-content/uploads/2020/11/appstore.png" group-title="disco,dance",Radio FTB Disco Polo
 http://play.radioftb.net:8022/stream
-#EXTINF:-1 tvg-logo="https://radioftb.net/wp-content/uploads/2020/11/appstore.png" group-title="",Radio FTB Rap Music
+#EXTINF:-1 tvg-logo="https://radioftb.net/wp-content/uploads/2020/11/appstore.png" group-title="rap,r'n'b,urban",Radio FTB Rap Music
 http://play.radioftb.net:8028/stream
-#EXTINF:-1 tvg-logo="https://radioftb.net/wp-content/uploads/2020/11/appstore.png" group-title="",Radio FTB Retro DJ
+#EXTINF:-1 tvg-logo="https://radioftb.net/wp-content/uploads/2020/11/appstore.png" group-title="retro,dj,mixes",Radio FTB Retro DJ
 http://play.radioftb.net:8016/stream
-#EXTINF:-1 tvg-logo="http://radiogdansk.pl/templates/gk_twn2/images/favicon/favicon-32x32.png" group-title="pop",Radio Gdansk
+#EXTINF:-1 tvg-logo="http://radiogdansk.pl/templates/gk_twn2/images/favicon/favicon-32x32.png" group-title="pop,hits",Radio Gdansk
 http://stream.task.gda.pl:8000/rg1
-#EXTINF:-1 tvg-logo="" group-title="christian",Radio Glos
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s87826g.png" group-title="christian,religious",Radio Glos 91.4
 http://87.204.92.180:8000/
-#EXTINF:-1 tvg-logo="http://radio.gniezno.pl/wp-content/themes/chords/panel/img/apple-touch-icon.png" group-title="local news,local radio,poland,polish,pop,rock,top 40",Radio Gniezno
+#EXTINF:-1 tvg-logo="http://radio.gniezno.pl/wp-content/themes/chords/panel/img/apple-touch-icon.png" group-title="news,pop,rock",Radio Gniezno
 http://stream3.nadaje.com:8012/listen.pls
-#EXTINF:-1 tvg-logo="http://static.radio.pl/images/broadcasts/54/e3/104483/1/c175.png" group-title="dance,disco,handsup,techno",Radio Gold Live
+#EXTINF:-1 tvg-logo="http://static.radio.pl/images/broadcasts/54/e3/104483/1/c175.png" group-title="dance,disco,techno",Radio Gold Live
 http://s1.slotex.pl:7062/listen.pls
-#EXTINF:-1 tvg-logo="https://radyjkogoralskie.panelradiowy.pl/images/appleicon72.png" group-title="dance,disco",Radio Góralskie
+#EXTINF:-1 tvg-logo="https://radyjkogoralskie.panelradiowy.pl/images/appleicon72.png" group-title="dance,disco",Radio Goralskie
 https://s3.slotex.pl/shoutcast/7398/stream
-#EXTINF:-1 tvg-logo="http://radiogorzow.pl/favicon.ico" group-title="",Radio Gorzów
+#EXTINF:-1 tvg-logo="http://radiogorzow.pl/favicon.ico" group-title="culture,news",Radio Gorzow 95.6
 http://stream02.radiogorzow.pl:10115/
-#EXTINF:-1 tvg-logo="https://gra.fm/media2019/pic/xfavicon-96x96.png.pagespeed.ic.igyxlke2ib.png" group-title="pop",Radio Gra Torun
+#EXTINF:-1 tvg-logo="https://gra.fm/media2019/pic/xfavicon-96x96.png.pagespeed.ic.igyxlke2ib.png" group-title="pop,hits",Radio Gra Torun
 http://31.192.216.7:8000/radio_gra
-#EXTINF:-1 tvg-logo="http://wegemaluch.pl/images/icons/media/logo_horyzont.png" group-title="chillout,downtempo,lounge,nu-jazz",Radio Horyzont
+#EXTINF:-1 tvg-logo="http://wegemaluch.pl/images/icons/media/logo_horyzont.png" group-title="chillout,lounge,nu-jazz",Radio Horyzont
 http://s1.slotex.pl:7328/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radioimperium.pl/favicon.ico" group-title="gliwice",Radio Imperium
 https://stream.radioimperium.pl:8443/stream
