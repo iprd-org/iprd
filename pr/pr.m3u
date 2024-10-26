@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.webrad.io/favicon.svg" group-title="",95 XFM
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/favicon.svg" group-title="rock,pop,top 40",95X FM
 http://162.244.80.106:10913/stream
-#EXTINF:-1 tvg-logo="https://azrockradio.com/wp-content/uploads/2017/10/favicon.ico" group-title="alfa,alfa rock,classic rock,cobians,dog,new rock,rock,santurce",AZ Rock
+#EXTINF:-1 tvg-logo="https://azrockradio.com/wp-content/uploads/2017/10/favicon.ico" group-title="rock,hits",AZ Rock
 http://cassini.shoutca.st:9300/stream
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s12627q.png" group-title="catholic talk",Católica Radio
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s12627q.png" group-title="catholic,religious",Catolica Radio
 http://stream.rarserver.net:8078/catolicapr
 #EXTINF:-1 tvg-logo="http://nebula.wsimg.com/a4bbfc8b44d8e71f276fca1fb863b6f9?AccessKeyId=CACE238DC70FC04292F5&disposition=0&alloworigin=1" group-title="",Cima 97.9
 https://stream.eleden.com/960am.aac/960am.aac.stream/playlist.m3u8
