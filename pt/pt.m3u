@@ -1,43 +1,41 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.wix.com/favicon.ico" group-title="jazz fusion,nu-jazz,smooth jazz",4Drive Jazz
+#EXTINF:-1 tvg-logo="https://www.wix.com/favicon.ico" group-title="jazz,fusion,nu-jazz",4Drive Jazz
 http://radio.streemlion.com:1150/stream
-#EXTINF:-1 tvg-logo="" group-title="",91FM
+#EXTINF:-1 tvg-logo="https://91fm.pt/wp-content/uploads/2024/04/91FM-logo-sem-fundo.png" group-title="pop,top 40",91 FM Radio
 https://sp0.redeaudio.com/9878/stream
-#EXTINF:-1 tvg-logo="http://us0-cdn.onlineradiobox.com/img/logo/9/20179.png" group-title="latin,latino,world music",ABC Portugal
+#EXTINF:-1 tvg-logo="http://us0-cdn.onlineradiobox.com/img/logo/9/20179.png" group-title="latino,world",ABC Portugal
 http://centova.radio.com.pt:8547/listen.pls
-#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s81734q.png" group-title="pop,top 40",Alvor FM
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s81734q.png" group-title="pop,top 40",Radio Alvor 90.1
 http://centova.radio.com.pt:8469/listen.pls
-#EXTINF:-1 tvg-logo="" group-title="talk & speech",Antena 1
+#EXTINF:-1 tvg-logo="https://www.radio.pt/300/antena-1.png?version=dc73506918add7f1124ce902c1557b2c" group-title="news,talk,sports",RTP Antena 1
 http://streaming-live.rtp.pt/liveradio/antena180a/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s8592d.png" group-title="live sports,local music,news,podcast",Antena 1 (national feed, RTP)
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s8592d.png" group-title="news,talk,sports",RTP Antena 1
 http://radiocast.rtp.pt/antena180a.mp3
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s2549d.png" group-title="live sports,local music,local news,podcast",Antena 1 Açores (RTP)
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s2549d.png" group-title="news,talk,sports",RTP Antena 1 Acores
 http://radiocast.rtp.pt/antena1acores80a.mp3
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s157568d.png" group-title="fado",Antena 1 Fado (RTP)
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s157568d.png" group-title="news,talk,sports",RTP Antena 1 Fado
 http://radiocast.rtp.pt/antena1fado80a.mp3
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s86689d.png" group-title="local music,m3u8 chunk list,portuguese",Antena 1 Lusitânia (RTP)
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s86689d.png" group-title="news,talk,sports",RTP Antena 1 Lusitania
 http://radiocast.rtp.pt/lusitania80a.mp3
-#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s55164q.png" group-title="live sports,local music,local news,podcast",Antena 1 Madeira (RTP)
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s55164q.png" group-title="news,talk,sports",RTP Antena 1 Madeira
 http://radiocast.rtp.pt/antena1madeira80a.mp3
-#EXTINF:-1 tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/Antena2_negativo_vert_RGB.png" group-title="classical",Antena 2 (AAC)
-http://streaming-live-app.rtp.pt/liveradio/antena280a/playlist.m3u8?DVR
-#EXTINF:-1 tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/Antena2_negativo_vert_RGB.png" group-title="classical",Antena 2 (AAC)
+#EXTINF:-1 tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/Antena2_negativo_vert_RGB.png" group-title="baroque,classical",RTP Antena 2
 http://streaming-live-app.rtp.pt/liveradio/antena280a/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s6746d.png" group-title="baroque,classical,culture",Antena 2 (RTP)
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s6746d.png" group-title="baroque,classical",RTP Antena 2
 http://radiocast.rtp.pt/antena280a.mp3
-#EXTINF:-1 tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/101-262619141305.png?v=3&w=860" group-title="jazz,portugal,public radio",Antena 2 Jazzin'
+#EXTINF:-1 tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/101-262619141305.png?v=3&w=860" group-title="jazz,public",RTP Antena 2 Jazzin'
 http://radiocast.rtp.pt/antena2jazzin80a.mp3
-#EXTINF:-1 tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/Antena3_negativo_vert_RGB.png" group-title="alternative,pop",Antena 3 (AAC)
+#EXTINF:-1 tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/Antena3_negativo_vert_RGB.png" group-title="alternative,pop",RTP Antena 3
 http://streaming-live-app.rtp.pt/liveradio/antena380a/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s24930d.png" group-title="dance,pop,rock",Antena 3 (RTP)
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s24930d.png" group-title="dance,pop,rock",RTP Antena 3
 http://radiocast.rtp.pt/antena380a.mp3
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s66486d.png" group-title="dance,pop,rock",Antena 3 Madeira (RTP)
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s66486d.png" group-title="dance,pop,rock",RTP Antena 3 Madeira
 http://radiocast.rtp.pt/antena3madeira80a.mp3
-#EXTINF:-1 tvg-logo="" group-title="local music",Antena Livre
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/fnIDHABHMaJI6RTX7PJ3aeVS-lIz1eSDPLoqOFkw8lMVoeHr-UnWR5FZ04EHdX91Lg=w600-h300-pc0xffffff-pd" group-title="world,folk",RTP Antena Livre 96.7
 http://centova.radio.com.pt:9456/listen.pls
-#EXTINF:-1 tvg-logo="https://bbn1.bbnradio.org/portuguese/wp-content/uploads/sites/6/2020/12/50thLogoPO.png" group-title="christian",BBN Portuguese
+#EXTINF:-1 tvg-logo="https://bbn1.bbnradio.org/portuguese/wp-content/uploads/sites/6/2020/12/50thLogoPO.png" group-title="christian,religious",BBN Portuguese
 https://audio-edge-5bkfj.fra.h.radiomast.io/ec065d59-f358-48c9-a288-4efc797e5860
-#EXTINF:-1 tvg-logo="https://bbn1.bbnradio.org/favicon.ico" group-title="christian",BBN Portuguese
+#EXTINF:-1 tvg-logo="https://bbn1.bbnradio.org/favicon.ico" group-title="christian,religious",BBN Portuguese
 http://stream2.bbnradio.org:8000/portuguese
 #EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s206397q.png" group-title="80s,top 40",Canal FM
 http://centova.radio.com.pt:9466/listen.pls
