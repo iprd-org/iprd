@@ -4423,7 +4423,7 @@ http://peace.str3am.com:6660/WAZN
 https://broadcast.miami/proxy/prelude?mp=/stream/listen.pls
 #EXTINF:-1 tvg-logo="http://punjabiradiousa.com/wp-content/uploads/2015/04/PRUSA-Transparent-LOGO-300x151.png" group-title="punjabi,talk",Radio Punjabi USA
 http://198.178.123.5:7016/;stream.mp3
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Radio_Rey_AM_630_94.9_FM.jpg/revision/latest/scale-to-width-down/250?cb=20170428105249" group-title="regional,mexican",WREY Radio Rey 630
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Radio_Rey_AM_630_94.9_FM.jpg/revision/latest/scale-to-width-down/250?cb=20170428105249" group-title="regional,mexican,world",WREY Radio Rey 630
 https://ice41.securenetsystems.net/WREY
 #EXTINF:-1 tvg-logo="http://www.radiostreamlive.com/images/logos_radiorockon.png" group-title="classic rock,rsl",Radio Rock On
 https://streaming.radiostreamlive.com/radiorockon_devices
@@ -4431,17 +4431,17 @@ https://streaming.radiostreamlive.com/radiorockon_devices
 https://broadcast.miami/proxy/salsoul?mp=/stream/listen.pls
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s209399/images/logod.jpg?t=1" group-title="community,jazz",Radio Sausalito 1610
 http://quarrel.str3am.com:7090/live
-#EXTINF:-1 tvg-logo="https://i3.radionomy.com/document/contacts/e/e9b5/e9b5bf04-02d6-42b4-b9cb-2f4dfb9e7489.jpg" group-title="classic rock,pop",Radio Shadow Deep Tracks
+#EXTINF:-1 tvg-logo="https://i3.radionomy.com/document/contacts/e/e9b5/e9b5bf04-02d6-42b4-b9cb-2f4dfb9e7489.jpg" group-title="rock,pop",Radio Shadow Deep Tracks
 http://162.244.80.131:8020/
-#EXTINF:-1 tvg-logo="https://i3.radionomy.com/document/contacts/e/e9b5/e9b5bf04-02d6-42b4-b9cb-2f4dfb9e7489.jpg" group-title="adult album alternative,indie,pop,rock",Radio Shadow Rock Mix
+#EXTINF:-1 tvg-logo="https://i3.radionomy.com/document/contacts/e/e9b5/e9b5bf04-02d6-42b4-b9cb-2f4dfb9e7489.jpg" group-title="indie,pop,rock",Radio Shadow Rock Mix
 http://162.244.80.131:8052/
-#EXTINF:-1 tvg-logo="https://www.radiosidewinder.com/wp-content/uploads/2015/02/favicon.png" group-title="electronic,elite dangerous,fictional news,video game",Radio Sidewinder
+#EXTINF:-1 tvg-logo="https://www.radiosidewinder.com/wp-content/uploads/2015/02/favicon.png" group-title="electronic,video game,soundtrack",Radio Sidewinder
 http://radiosidewinder.out.airtime.pro:8000/radiosidewinder_b
-#EXTINF:-1 tvg-logo="https://www.radiosobro.com/wp-content/uploads/2017/10/cropped-512@2x-180x180.png" group-title="acoustic,alternative country,independent,new country,singer-songwriter,sobro",Radio SoBro
+#EXTINF:-1 tvg-logo="https://www.radiosobro.com/wp-content/uploads/2017/10/cropped-512@2x-180x180.png" group-title="acoustic,alternative,country",Radio SoBro
 https://streamer.radio.co/s951fc6edc/listen
 #EXTINF:-1 tvg-logo="https://www.radio-solar.com/favicon.ico" group-title="disco,funk,soul",Radio Solar
 https://broadcast.miami/proxy/solar?mp=/stream/listen.pls
-#EXTINF:-1 tvg-logo="http://www.radiostreamlive.com/images/logos_radiosymphony.png" group-title="classical,rsl,symphony",Radio Symphony
+#EXTINF:-1 tvg-logo="http://www.radiostreamlive.com/images/logos_radiosymphony.png" group-title="classical,symphony",Radio Symphony
 https://streaming.radiostreamlive.com/radiosymphony_devices
 #EXTINF:-1 tvg-logo="https://www.radiotkdisco.com/favicon.ico" group-title="disco,dance",Radio T.K. Disco
 https://broadcast.miami/proxy/tkdisco?mp=/stream/listen.pls
