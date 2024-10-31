@@ -1,13 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000239542489-yngg9p-t500x500.jpg" group-title="aljazeera,الجزيرة,قناة الجزيرة",Aljazeera Arabic
-https://live-hls-web-aja.getaj.net/AJA/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",Aljazeera English
-http://live-hls-web-aje.getaj.net/AJE/06.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Al-jazeera-logo.png" group-title="news,talk,world news",AlJazeera English Audio
-https://live-hls-audio-aje-ak.getaj.net/VOICE-AJE/01.m3u8
-#EXTINF:-1 tvg-logo="http://www.quranradio.qa/Images/icon_48.jpg" group-title="",Holy Quran Radio Of Qatar
-http://wowzaprod134-i.akamaihd.net/hls/live/577826/63529851/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/7/71/Aljazeera.svg/1200px-Aljazeera.svg.png" group-title="news",الجزيرة صوت
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/7/71/Aljazeera.svg/1200px-Aljazeera.svg.png" group-title="news,talk,arabic",Al Jazeera 
 https://live-hls-audio-web-aja.getaj.net/VOICE-AJA/01.m3u8
-#EXTINF:-1 tvg-logo="https://s.mc-doualiya.com/media/display/35510770-b03f-11e8-8a96-005056a964fe/w:1240/p:16x9/aljazeera_1.webp" group-title="",قناة الجزيرة
-https://live-hls-web-aja.getaj.net/AJA/06.m3u8
+#EXTINF:-1 tvg-logo="https://saadalsuwaidimed327blog.wordpress.com/wp-content/uploads/2017/05/qatar-radio1.png" group-title="variety,news",Qatar Radio 96.0
+https://65ec766567528.streamlock.net/QRS/myStream/chunklist_w109216624.m3u8
+
