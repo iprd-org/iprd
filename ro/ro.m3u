@@ -89,97 +89,95 @@ http://live.onefm.ro:9128/onefm.aacp
 http://pink.exyuserver.com/stream
 #EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Music/v4/b7/89/4a/b7894a1a-07c8-d9ae-fc50-5fcc33c59173/source/280x280.jpg" group-title="90s,dance,hits",Play 90s
 http://live.playradio.org:9090/90HD
-#EXTINF:-1 tvg-logo="" group-title="hits",Play Radio
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/guvK8g1FYWI-UZpx14sC6DcYP7UbPfApPeBuwxg3IoypMVHQszCs6Fphbxw3FUjxBmY" group-title="hits,rock",Play Radio 91.6
 https://live.playradio.org:8443/90HD
-#EXTINF:-1 tvg-logo="http://pluszfm.ro/images/plusz/pluszfm.jpg" group-title="",Plusz FM
+#EXTINF:-1 tvg-logo="http://pluszfm.ro/images/plusz/pluszfm.jpg" group-title="pop,hits",Plusz 89.6
 http://hosting2.42netmedia.com:8961/stream
-#EXTINF:-1 tvg-logo="http://www.radioteam.ro/image/cache/radio-online/profm-800x800.jpg" group-title="pop,top 40",Pro FM
+#EXTINF:-1 tvg-logo="http://www.radioteam.ro/image/cache/radio-online/profm-800x800.jpg" group-title="pop,top 40",Pro FM 103.0
 http://edge126.rdsnet.ro:84/profm/profm.mp3
-#EXTINF:-1 tvg-logo="http://www.radio3net.ro/assets/img/g4485.png" group-title="classic rock,folk",Radio 3Net
+#EXTINF:-1 tvg-logo="http://www.radio3net.ro/assets/img/g4485.png" group-title="electronic,house,pop",Radio3Net
 http://media.3netmedia.ro:8000/Live128
-#EXTINF:-1 tvg-logo="http://radio-seven.ro/images/favicon6.png" group-title="rock",Radio 7 Bucuresti Romania
+#EXTINF:-1 tvg-logo="http://radio-seven.ro/images/favicon6.png" group-title="rock,pop,top 40",Radio 7 103.4
 http://80.86.106.32:8000/radio7.mp3
-#EXTINF:-1 tvg-logo="https://radioaccent.ro/wp-content/uploads/2017/10/logo-radio-accent-150x150.png" group-title="",Radio Accent
+#EXTINF:-1 tvg-logo="https://radioaccent.ro/wp-content/uploads/2017/10/logo-radio-accent-150x150.png" group-title="pop,oldies",Radio Accent 96.2
 http://86.122.157.14:8900/
-#EXTINF:-1 tvg-logo="http://radiotimisoara.ro/wp-content/uploads/sites/3/2014/05/favicon.png" group-title="antena braşovului,braşov,romania",Radio Antena Braşovului
+#EXTINF:-1 tvg-logo="http://radiotimisoara.ro/wp-content/uploads/sites/3/2014/05/favicon.png" group-title="folk,world",Radio Antena Brasovului 1197
 http://streaming.radiomures.ro:8302/
-#EXTINF:-1 tvg-logo="http://bucurestifm.ro/wp-content/uploads/sites/2/2014/04/favicon-regionale.png" group-title="top 40",Radio Bucuresti FM
+#EXTINF:-1 tvg-logo="http://bucurestifm.ro/wp-content/uploads/sites/2/2014/04/favicon-regionale.png" group-title="top 40,hits",Radio Bucuresti 98.3
 http://89.238.227.6:8032/;stream/1
-#EXTINF:-1 tvg-logo="http://radiocafe.ro/wp-content/uploads/2018/12/logo-fara-90fm-resize-e1546368131330.png" group-title="muzica de poveste",Radio Cafe Romania
+#EXTINF:-1 tvg-logo="http://radiocafe.ro/wp-content/uploads/2018/12/logo-fara-90fm-resize-e1546368131330.png" group-title="easy listening,pop",Radio Cafe Romania
 http://live.radiocafe.ro:8048/live.aac
-#EXTINF:-1 tvg-logo="https://i1.wp.com/www.clasicradio.ro/wp-content/uploads/2017/04/cropped-IP2.png?fit=192%2C192" group-title="european music",Radio Clasic 100% Romanesc
+#EXTINF:-1 tvg-logo="https://i1.wp.com/www.clasicradio.ro/wp-content/uploads/2017/04/cropped-IP2.png?fit=192%2C192" group-title="dance,world,folk",Radio Clasic 100% Romanesc
 http://37.251.146.169:8204/stream
-#EXTINF:-1 tvg-logo="https://i1.wp.com/www.clasicradio.ro/wp-content/uploads/2017/04/cropped-IP2.png?fit=192%2C192" group-title="classical,symphony",Radio Clasic Beethoven
+#EXTINF:-1 tvg-logo="https://i1.wp.com/www.clasicradio.ro/wp-content/uploads/2017/04/cropped-IP2.png?fit=192%2C192" group-title="classical,opera",Radio Clasic Beethoven
 http://37.251.146.169:7200/stream
-#EXTINF:-1 tvg-logo="https://i1.wp.com/www.clasicradio.ro/wp-content/uploads/2017/04/cropped-IP2.png?fit=192%2C192" group-title="classical,symphony",Radio Clasic Chopin
+#EXTINF:-1 tvg-logo="https://i1.wp.com/www.clasicradio.ro/wp-content/uploads/2017/04/cropped-IP2.png?fit=192%2C192" group-title="classical,relax",Radio Clasic Chopin
 http://37.251.146.169:8024/stream
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.clasicradio.ro/wp-content/uploads/2017/04/cropped-IP2.png?fit=192%2C192" group-title="dance,pop",Radio Clasic Hits
 http://37.251.146.169:7000/stream
-#EXTINF:-1 tvg-logo="https://i1.wp.com/www.clasicradio.ro/wp-content/uploads/2017/04/cropped-IP2.png?fit=192%2C192" group-title="80s,90s,dance,pop",Radio Clasic Hits Plus
+#EXTINF:-1 tvg-logo="https://i1.wp.com/www.clasicradio.ro/wp-content/uploads/2017/04/cropped-IP2.png?fit=192%2C192" group-title="80s,90s,dance",Radio Clasic Hits Plus
 http://37.251.146.169:8008/stream
-#EXTINF:-1 tvg-logo="https://i1.wp.com/www.clasicradio.ro/wp-content/uploads/2017/04/cropped-IP2.png?fit=192%2C192" group-title="classic jazz",Radio Clasic Jazz
+#EXTINF:-1 tvg-logo="https://i1.wp.com/www.clasicradio.ro/wp-content/uploads/2017/04/cropped-IP2.png?fit=192%2C192" group-title="blues,jazz",Radio Clasic Jazz
 http://37.251.146.169:7800/stream
-#EXTINF:-1 tvg-logo="https://i1.wp.com/www.clasicradio.ro/wp-content/uploads/2017/04/cropped-IP2.png?fit=192%2C192" group-title="children",Radio Clasic Kids
+#EXTINF:-1 tvg-logo="https://i1.wp.com/www.clasicradio.ro/wp-content/uploads/2017/04/cropped-IP2.png?fit=192%2C192" group-title="children,youth",Radio Clasic Kids
 http://37.251.146.169:7600/stream
-#EXTINF:-1 tvg-logo="https://i1.wp.com/www.clasicradio.ro/wp-content/uploads/2017/04/cropped-IP2.png?fit=192%2C192" group-title="classical,symphony",Radio Clasic Mozart
+#EXTINF:-1 tvg-logo="https://i1.wp.com/www.clasicradio.ro/wp-content/uploads/2017/04/cropped-IP2.png?fit=192%2C192" group-title="classical,opera",Radio Clasic Mozart
 http://37.251.146.169:8300/stream
-#EXTINF:-1 tvg-logo="https://i1.wp.com/www.clasicradio.ro/wp-content/uploads/2017/04/cropped-IP2.png?fit=192%2C192" group-title="opera",Radio Clasic Opera
+#EXTINF:-1 tvg-logo="https://i1.wp.com/www.clasicradio.ro/wp-content/uploads/2017/04/cropped-IP2.png?fit=192%2C192" group-title="opera,classical",Radio Clasic Opera
 http://37.251.146.169:7500/stream
-#EXTINF:-1 tvg-logo="https://i1.wp.com/www.clasicradio.ro/wp-content/uploads/2017/04/cropped-IP2.png?fit=192%2C192" group-title="folk",Radio Clasic Popular
+#EXTINF:-1 tvg-logo="https://i1.wp.com/www.clasicradio.ro/wp-content/uploads/2017/04/cropped-IP2.png?fit=192%2C192" group-title="folk,pop",Radio Clasic Popular
 http://37.251.146.169:7700/stream
-#EXTINF:-1 tvg-logo="http://www.player.clasicradio.ro/images/player/relaxButon.jpg" group-title="ambient and relaxation music",Radio Clasic relax
+#EXTINF:-1 tvg-logo="http://www.player.clasicradio.ro/images/player/relaxButon.jpg" group-title="ambient,relax",Radio Clasic Relax
 http://37.251.146.169:8700/stream
-#EXTINF:-1 tvg-logo="https://i1.wp.com/www.clasicradio.ro/wp-content/uploads/2017/04/cropped-IP2.png?fit=192%2C192" group-title="classic rock",Radio Clasic Rock
+#EXTINF:-1 tvg-logo="https://i1.wp.com/www.clasicradio.ro/wp-content/uploads/2017/04/cropped-IP2.png?fit=192%2C192" group-title="oldies,rock",Radio Clasic Rock
 http://37.251.146.169:7100/stream
-#EXTINF:-1 tvg-logo="https://i1.wp.com/www.clasicradio.ro/wp-content/uploads/2017/04/cropped-IP2.png?fit=192%2C192" group-title="classical,symphony",Radio Clasic Romania
+#EXTINF:-1 tvg-logo="https://i1.wp.com/www.clasicradio.ro/wp-content/uploads/2017/04/cropped-IP2.png?fit=192%2C192" group-title="classical,baroque",Radio Clasic Romania
 http://37.251.146.169:8000/2
-#EXTINF:-1 tvg-logo="https://i1.wp.com/www.clasicradio.ro/wp-content/uploads/2017/04/cropped-IP2.png?fit=192%2C192" group-title="classical,symphony",Radio Clasic Romania - HD Stream
+#EXTINF:-1 tvg-logo="https://i1.wp.com/www.clasicradio.ro/wp-content/uploads/2017/04/cropped-IP2.png?fit=192%2C192" group-title="classical,baroque",Radio Clasic Romania HD Stream
 http://37.251.146.169:8000/streamHD
-#EXTINF:-1 tvg-logo="https://i1.wp.com/www.clasicradio.ro/wp-content/uploads/2017/04/cropped-IP2.png?fit=192%2C192" group-title="classical,symphony",Radio Clasic Strauss
+#EXTINF:-1 tvg-logo="https://i1.wp.com/www.clasicradio.ro/wp-content/uploads/2017/04/cropped-IP2.png?fit=192%2C192" group-title="classical,romantic",Radio Clasic Strauss
 http://37.251.146.169:8100/stream
-#EXTINF:-1 tvg-logo="https://i1.wp.com/www.clasicradio.ro/wp-content/uploads/2017/04/cropped-IP2.png?fit=192%2C192" group-title="classical,symphony",Radio Clasic Tchaikovscky
+#EXTINF:-1 tvg-logo="https://i1.wp.com/www.clasicradio.ro/wp-content/uploads/2017/04/cropped-IP2.png?fit=192%2C192" group-title="classical,opera",Radio Clasic Tchaikovscky
 http://37.251.146.169:7300/stream
-#EXTINF:-1 tvg-logo="http://www.radiocondor.ro/uploads/images/condor.jpg" group-title="",Radio Condor Bucharest
+#EXTINF:-1 tvg-logo="http://www.radiocondor.ro/uploads/images/condor.jpg" group-title="pop,top 40",Radio Condor
 http://www.radiocondor.ro:6303/
-#EXTINF:-1 tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2013/11/radio-crisami.jpg" group-title="90s,dance,eurodance,musica romantica",Radio Crisami
+#EXTINF:-1 tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2013/11/radio-crisami.jpg" group-title="90s,dance,eurodancea",Radio Crisami
 http://crisami.zapto.org:8130/
-#EXTINF:-1 tvg-logo="https://radiodelta.ro/wp-content/uploads/2020/09/radio-delta-1.png" group-title="",Radio Delta Romania
+#EXTINF:-1 tvg-logo="https://radiodelta.ro/wp-content/uploads/2020/09/radio-delta-1.png" group-title="rock,pop,news",Radio Delta 95.8
 https://sslstreaming.com/8014/stream
-#EXTINF:-1 tvg-logo="https://radiodomeldo.ro/wp-content/uploads/2017/03/cropped-radiodomeldo_nuurl_sqr-180x180.png" group-title="",Radio Domeldo Movie
+#EXTINF:-1 tvg-logo="https://radiodomeldo.ro/wp-content/uploads/2017/03/cropped-radiodomeldo_nuurl_sqr-180x180.png" group-title="soundtrack,relax",Radio Domeldo Movie
 http://cast5.servcast.net:3006/stream
-#EXTINF:-1 tvg-logo="http://radiodor.net/templates/default/img/favicon.png" group-title="",Radio DOR Romania
+#EXTINF:-1 tvg-logo="http://radiodor.net/templates/default/img/favicon.png" group-title="pop,news,90s",Radio Dor
 https://live7digi.antenaplay.ro/radiodor/radiodor-48000.m3u8
-#EXTINF:-1 tvg-logo="https://doxologia.ro/sites/default/files/favicon-doxo-mic.png" group-title="",Radio Doxologia
+#EXTINF:-1 tvg-logo="https://doxologia.ro/sites/default/files/favicon-doxo-mic.png" group-title="christian,gospel",Radio Doxologia
 https://rlive.doxologia.ro/stream.mp3
-#EXTINF:-1 tvg-logo="" group-title="christian",Radio Filadelfia Romania (Calitate medie)
+#EXTINF:-1 tvg-logo="https://radiofiladelfia.ro/wp-content/uploads/2020/03/Radio-Filadelfia_logo_500px.jpg" group-title="christian,religious",Radio Filadelfia
 http://asculta.radiofiladelfia.ro:7000/stream_128.mp3
-#EXTINF:-1 tvg-logo="" group-title="christian",Radio Filadelfia Romania (Calitate mica)
+#EXTINF:-1 tvg-logo="https://radiofiladelfia.ro/wp-content/uploads/2020/03/Radio-Filadelfia_logo_500px.jpg" group-title="christian,religious",Radio Filadelfia
 http://asculta.radiofiladelfia.ro:8080/listen.pls
-#EXTINF:-1 tvg-logo="http://marosvasarhelyi.info/wp-content/uploads/2010/10/GAGA4FREKV1.jpg" group-title="pop",Rádió GaGa - Marosvásárhely
+#EXTINF:-1 tvg-logo="http://marosvasarhelyi.info/wp-content/uploads/2010/10/GAGA4FREKV1.jpg" group-title="pop,hits",Radio GaGa
 http://rc.radiogaga.ro:8000/mp3-256
-#EXTINF:-1 tvg-logo="http://radiogoldfm.ro/wp-content/uploads/2015/02/favicon1.png" group-title="",Radio Gold FM
+#EXTINF:-1 tvg-logo="http://radiogoldfm.ro/wp-content/uploads/2015/02/favicon1.png" group-title="alternative,oldies,rock",Radio Gold 96.9
 http://80.86.106.110:8002/listen.pls
-#EXTINF:-1 tvg-logo="" group-title="christian,christian praise&worship",Radio Gosen
+#EXTINF:-1 tvg-logo="https://radio-crestin.s3.amazonaws.com/media/public/radio_gosen_fa0Z3gL.jpg" group-title="christian,praise,worship",Radio Gosen
 http://ascultaradiogosen.no-ip.org:8125/stream
-#EXTINF:-1 tvg-logo="http://guerrillaradio.ro/images/logo.png" group-title="classic rock,indie,la unica radio con cojones,rock",Radio Guerrilla
+#EXTINF:-1 tvg-logo="http://guerrillaradio.ro/images/logo.png" group-title="rock,indie,pop",Radio Guerrilla
 http://live.guerrillaradio.ro:8010/guerrilla.aac
-#EXTINF:-1 tvg-logo="" group-title="iasi",Radio HIT Iasi
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj48DjNsAzH2cKxJDjCYtBGIOox8_Ta0Ca8g&s" group-title="rock,pop,news",Radio Hit 94.9
 http://live02.radiohit.ro:8000/hit.mp3
-#EXTINF:-1 tvg-logo="https://www.radiointens.ro/favicon.ico" group-title="",Radio Intens
+#EXTINF:-1 tvg-logo="https://www.radiointens.ro/favicon.ico" group-title="folk,world",Radio Intens
 http://live.radiointens.ro:9500/stream
-#EXTINF:-1 tvg-logo="https://www.kptv.ro/index_htm_files/40.jpg" group-title="alternative rock,classic rock,rock",Radio KPTV
+#EXTINF:-1 tvg-logo="https://www.kptv.ro/index_htm_files/40.jpg" group-title="alternative,rock,hits",Radio KPTV
 https://nl1.streamingpulse.com/ssl/KPTV
-#EXTINF:-1 tvg-logo="" group-title="folk music",Radio Manele FM
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/iQm_MS-rDZyrkeC9K8oPYFO9Fm5SWI5H3MfMuQ5EDlHZO1pzuNgB-x2IxV2svlrgBls" group-title="folk,world",Radio Manele
 http://a.fmradiomanele.ro:8054/listen.pls
-#EXTINF:-1 tvg-logo="" group-title="",Radio Maria
-http://dreamsiteradiocp2.com:8002/
-#EXTINF:-1 tvg-logo="https://www.radiomaria.ro/wp-content/uploads/2017/06/favicon.ico" group-title="catholic,christian,religion,religious,talk",RADIO MARIA ROMANIA
+#EXTINF:-1 tvg-logo="https://www.radiomaria.ro/wp-content/uploads/2017/06/favicon.ico" group-title="catholic,christian,religious",Radio Maria
 http://dreamsiteradiocp2.com:8002/stream
-#EXTINF:-1 tvg-logo="" group-title="catholic,religion",RADIO MARIA ROMANIA HUNG.
+#EXTINF:-1 tvg-logo="https://www.radiomaria.ro/wp-content/uploads/2017/06/favicon.ico" group-title="catholic,christian,religious",Radio Maria
 http://dreamsiteradiocp4.com:8026/stream
-#EXTINF:-1 tvg-logo="https://www.radiomedias.ro/favicon.ico" group-title="",Radio Medias
+#EXTINF:-1 tvg-logo="https://www.radiomedias.ro/favicon.ico" group-title="pop,news,top 40",Radio Medias 725 88.1
 http://mediasfm.eushells.ro:8082/listen.pls
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3Znc8Kf.jpg" group-title="",RADIO MIRAJUL MUZICII
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3Znc8Kf.jpg" group-title="pop,talk,hits",Radio Mirajul Muzicii
 http://live.radiomiraj.ro:9952/stream
 #EXTINF:-1 tvg-logo="https://radionebunya.ro/images/logov1.png" group-title="",Radio Nebunya
 http://asculta.radionebunya.ro:7575/
