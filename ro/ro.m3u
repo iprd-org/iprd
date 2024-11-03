@@ -179,113 +179,111 @@ http://dreamsiteradiocp4.com:8026/stream
 http://mediasfm.eushells.ro:8082/listen.pls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3Znc8Kf.jpg" group-title="pop,talk,hits",Radio Mirajul Muzicii
 http://live.radiomiraj.ro:9952/stream
-#EXTINF:-1 tvg-logo="https://radionebunya.ro/images/logov1.png" group-title="",Radio Nebunya
+#EXTINF:-1 tvg-logo="https://radionebunya.ro/images/logov1.png" group-title="folk,hits",Radio Nebunya
 http://asculta.radionebunya.ro:7575/
-#EXTINF:-1 tvg-logo="https://www.radionoise.ro/favicon.ico" group-title="dance,dj",Radio Noise
+#EXTINF:-1 tvg-logo="https://www.radionoise.ro/favicon.ico" group-title="dance,dj,mixes",Radio Noise
 http://live.radionoise.ro:9100/listen.pls
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-o9mwltlrK4k/X-Cqcy_ngII/AAAAAAAAAOg/PQ5dKpixAi0N-7_d49rDBPxib2jJq5pXgCK4BGAYYCw/w800/Nova%2B22%2Bonline.jpg" group-title="dance,jazz,latin,oldies,pop,relax,rock",Radio Nova22
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-o9mwltlrK4k/X-Cqcy_ngII/AAAAAAAAAOg/PQ5dKpixAi0N-7_d49rDBPxib2jJq5pXgCK4BGAYYCw/w800/Nova%2B22%2Bonline.jpg" group-title="dance,jazz,latin",Radio Nova22 92.7
 http://s2.myradiostream.com:4520/listen.m4a
-#EXTINF:-1 tvg-logo="https://www.radiopopular.ro/images/common/logo.png" group-title="",Radio Popular
+#EXTINF:-1 tvg-logo="https://www.radiopopular.ro/images/common/logo.png" group-title="world,folk,culture",Radio Popular
 http://livemp3.radiopopular.ro:7777/;stream.mp3
-#EXTINF:-1 tvg-logo="https://www.proparty.net" group-title="",RADIO PRO PARTY
+#EXTINF:-1 tvg-logo="https://www.proparty.net" group-title="dance,electronic",Radio Pro Party
 http://asculta.proparty.net:8567/stream
-#EXTINF:-1 tvg-logo="http://www.radioresita.ro/wp-content/uploads/2014/11/cropped-Logo-Radio-Resita-270x270.jpg" group-title="",Radio Resita
+#EXTINF:-1 tvg-logo="http://www.radioresita.ro/wp-content/uploads/2014/11/cropped-Logo-Radio-Resita-270x270.jpg" group-title="public,news,talk",Radio Resita 105.6
 http://89.238.227.6:8344/
-#EXTINF:-1 tvg-logo="http://www.radioromance21.ro/favicon.ico" group-title="",RADIO ROMANCE 21.ROMANIA
+#EXTINF:-1 tvg-logo="http://www.radioromance21.ro/favicon.ico" group-title="80s,90s,alternative",Radio Romance 21
 http://live.radioromance21.ro:9950/
-#EXTINF:-1 tvg-logo="http://www.romania-actualitati.ro//img/favicon.ico" group-title="folk,news,pop,talk",Radio Romania Actualități
+#EXTINF:-1 tvg-logo="http://www.romania-actualitati.ro//img/favicon.ico" group-title="folk,news,pop",Radio Romania Actualitati 105.3
 http://89.238.227.6:8006/listen.pls
-#EXTINF:-1 tvg-logo="https://www.radiobrasovfm.ro/images/reg_bv-logo.svg" group-title="local news,music,talk",Radio România Brașov
+#EXTINF:-1 tvg-logo="https://www.radiobrasovfm.ro/images/reg_bv-logo.svg" group-title="news,talk",Radio Romania Brasov 93.3
 http://stream2.srr.ro:8210/listen.pls
-#EXTINF:-1 tvg-logo="http://radiocluj.ro/wp-content/uploads/sites/8/2014/08/logo-radio-romania-cluj.png" group-title="romania",Radio România Cluj
+#EXTINF:-1 tvg-logo="http://radiocluj.ro/wp-content/uploads/sites/8/2014/08/logo-radio-romania-cluj.png" group-title="news,talk",Radio Romania Cluj
 http://89.238.227.6:8384/
-#EXTINF:-1 tvg-logo="https://s0.wp.com/i/blank.jpg" group-title="",Radio Romania Constanta
+#EXTINF:-1 tvg-logo="https://s0.wp.com/i/blank.jpg" group-title="news,talk",Radio Romania Constanta
 http://89.238.227.6:8332/
-#EXTINF:-1 tvg-logo="http://radioromaniacultural.ro/wp-content/uploads/2016/08/logo_radiocultural_dark.jpg" group-title="cultural programming",Radio România Cultural
+#EXTINF:-1 tvg-logo="http://radioromaniacultural.ro/wp-content/uploads/2016/08/logo_radiocultural_dark.jpg" group-title="culture,world",Radio Romania Cultural
 http://stream2.srr.ro:8012/
-#EXTINF:-1 tvg-logo="https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/7/a/5/8/6420-8e15-43a0-9f25-4ae32602ee27" group-title="",Radio România Cultural
+#EXTINF:-1 tvg-logo="https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/7/a/5/8/6420-8e15-43a0-9f25-4ae32602ee27" group-title="culture,world",Radio Romania Cultural
 http://stream2.srr.ro:8016/
-#EXTINF:-1 tvg-logo="http://radioiasi.ro/wp-content/uploads/sites/6/2014/07/favicon-regionale.png" group-title="local programming,news talk music",Radio România Iași
+#EXTINF:-1 tvg-logo="http://radioiasi.ro/wp-content/uploads/sites/6/2014/07/favicon-regionale.png" group-title="variety,news,talk",Radio Romania Iasi
 http://89.238.227.6:8202/
 #EXTINF:-1 tvg-logo="http://www.rri.ro//img/favicon.ico" group-title="folk,pop",Radio Romania International
 http://stream2.srr.ro:8052/listen.pls
-#EXTINF:-1 tvg-logo="https://www.rri.ro/favicon.ico" group-title="romania,romanian",Radio România Internațional 2
+#EXTINF:-1 tvg-logo="https://www.rri.ro/favicon.ico" group-title="news,world,talk",Radio Romania International 2
 http://stream2.srr.ro:8062/
-#EXTINF:-1 tvg-logo="https://www.rri.ro/favicon.ico" group-title="romania,romanian",Radio România Internațional 3
+#EXTINF:-1 tvg-logo="https://www.rri.ro/favicon.ico" group-title="news,world,talk",Radio Romania International 3
 http://stream2.srr.ro:8072/
-#EXTINF:-1 tvg-logo="http://www.romania-muzical.ro//images/rrm-icon.png" group-title="classical",Radio România Muzical
+#EXTINF:-1 tvg-logo="http://www.romania-muzical.ro//images/rrm-icon.png" group-title="classical,baroque,variety",Radio Romania Muzical
 http://stream2.srr.ro:8022/
-#EXTINF:-1 tvg-logo="https://static.srr.ro/images/articles/49/art-img1-1420861-radio_muzical_mare.jpg" group-title="classical",Radio România Muzical
+#EXTINF:-1 tvg-logo="https://static.srr.ro/images/articles/49/art-img1-1420861-radio_muzical_mare.jpg" group-title="classical,baroque,variety",Radio Romania Muzical
 http://stream2.srr.ro:8026/
-#EXTINF:-1 tvg-logo="http://www.romaniaregional.ro/wp-content/uploads/2014/04/logo-romania-regional.png" group-title="news",Radio Romania Targu Mures
+#EXTINF:-1 tvg-logo="http://www.romaniaregional.ro/wp-content/uploads/2014/04/logo-romania-regional.png" group-title="pop,talk,variety",Radio Romania Targu Mures
 http://streaming.radiomures.ro:8302/listen.pls;/stream
-#EXTINF:-1 tvg-logo="http://www.radiocluj.ro/wp-content/uploads/sites/8/2014/07/unde-radio-romania.png" group-title="",Radio România Târgu Mureș - Marosvásárhelyi Rádió Románia
+#EXTINF:-1 tvg-logo="http://www.radiocluj.ro/wp-content/uploads/sites/8/2014/07/unde-radio-romania.png" group-title="pop,talk,variety",Radio Romania Targu Mures
 http://streaming.radiomures.ro:8312/
-#EXTINF:-1 tvg-logo="" group-title="musica romantica,retro",Radio Romantic
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s16334/images/logog.jpg?t=162135" group-title="romantica,retro,comedy",Radio Romantic
 http://stream.zeno.fm/72k4a597rs8uv?rj-ttl=5&rj-tok=AAABfd5go8QAwQW3_2ZVjItSxg
-#EXTINF:-1 tvg-logo="" group-title="",radio Talpalari
+#EXTINF:-1 tvg-logo="https://talpalari.mmb.ro/sites/default/files/styles/articol/public/info/800px-biserica_talpalari1.jpg?itok=zWOwG0dc" group-title="orthodox,christian,religious",Radio Talpalari
 https://ratand-esentialul.go.ro/talpalari
-#EXTINF:-1 tvg-logo="" group-title="pop",Radio Tanănana
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s87853g.png" group-title="rock,pop,top 40",Tananana 92.7
 https://live.tananana.ro:8443/stream-48.aac
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/0/87390.v8.png" group-title="pop",Radio Tequila Dance Romania
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/0/87390.v8.png" group-title="dance,top 40",Radio Tequila Dance
 http://dance.radiotequila.ro:7000/;stream.nsv
-#EXTINF:-1 tvg-logo="http://radiotimisoara.ro/wp-content/uploads/sites/3/2014/05/favicon.png" group-title="radio romania,timișoara",Radio Timișoara
+#EXTINF:-1 tvg-logo="http://radiotimisoara.ro/wp-content/uploads/sites/3/2014/05/favicon.png" group-title="rock,pop,news",Radio Timisoara 630
 http://89.238.227.6:8354/
-#EXTINF:-1 tvg-logo="" group-title="",Radio Top Suceava
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFHDm_GsYnanX9jcFT9LmjyL6AjLm4UFa8Ww&s" group-title="rock,pop,top 40",Radio Top Suceava 104.0
 https://live.radiotop.ro/radio/8000/radio.mp3
-#EXTINF:-1 tvg-logo="" group-title="top 40",Radio Transilvania Oradea
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDLFeIt98PFY9kehXGxZBZ_DiUtEI-k7hBNA&s" group-title="rock,pop,news",Radio Transilvania 97.2
 http://92.61.114.191:9720/listen.pls
-#EXTINF:-1 tvg-logo="" group-title="",Radio Trinitas
+#EXTINF:-1 tvg-logo="https://cache.usercontentapp.com/logo/mjpg/15973.png?format=png&enlarge=0&quality=90&width=960" group-title="",Radio Trinitas
 http://live.radiotrinitas.ro:8000/
-#EXTINF:-1 tvg-logo="http://tvron.net/static/radio/radio-trinitas.png" group-title="classical,religion",Radio Trinitas
+#EXTINF:-1 tvg-logo="http://tvron.net/static/radio/radio-trinitas.png" group-title="christian,contemporary,religious",Radio Trinitas
 http://81.196.25.70:8000/
-#EXTINF:-1 tvg-logo="https://radioturda.com/rt/wp-content/uploads/2019/11/rturda-greyLogo.png" group-title="mixt pop music",Radio Turda
+#EXTINF:-1 tvg-logo="https://radioturda.com/rt/wp-content/uploads/2019/11/rturda-greyLogo.png" group-title="world,pop",Radio Turda 107.7
 https://live.aftech.ro/radio/8010/radio.mp3
-#EXTINF:-1 tvg-logo="http://www.radiovacanta.ro/favicon.ico" group-title="",Radio Vacanta
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRfwxBwIQN9_51PJJPQNvio51UD0vIXpYoyQ&s" group-title="public,news,talk",Radio Constanta
 http://89.238.227.6:8330/
-#EXTINF:-1 tvg-logo="" group-title="christian",Radio Vocea Evangheliei RVE Sibiu
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtnU2hf7LcaUuEyK1ZMa4IkMWWGpLIYupDRA&s" group-title="christian,religious",RVE Sibiu 89.4
 https://c13.radioboss.fm:18286/stream
-#EXTINF:-1 tvg-logo="http://tvron.net/static/radio/radio-zu.png" group-title="",Radio ZU
+#EXTINF:-1 tvg-logo="http://tvron.net/static/radio/radio-zu.png" group-title="adult,contemporary,variety",Radio Zu
 https://live7digi.antenaplay.ro/radiozu/radiozu-48000.m3u8
-#EXTINF:-1 tvg-logo="https://radiozu.ro/favicon-96x96.png" group-title="top 40",Radio Zu
+#EXTINF:-1 tvg-logo="https://radiozu.ro/favicon-96x96.png" group-title="adult,contemporary,variety",Radio Zu
 http://zuicast.digitalag.ro:9420/zu
-#EXTINF:-1 tvg-logo="https://xat.com/images/app/apple-touch-icon.png" group-title="electro,electronic,hip-hop,house,mix",RadioBestSonsg
-http://asculta.ascultatare.ro:8010/stream
-#EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/80/33/dd/8033ddb7-b507-81d9-8e1a-a696be002e42/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/460x0w.jpg" group-title="erdely,hirek,magyar,transylvania",Régió Rádió
+#EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/80/33/dd/8033ddb7-b507-81d9-8e1a-a696be002e42/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/460x0w.jpg" group-title="hungarian,public,talk",Regio Radio
 https://live.regioradio.info/listen/
-#EXTINF:-1 tvg-logo="http://www.radioretro.ro/images/logo.png" group-title="oldies,pop rock,retro",Retró Rádió Csíkszereda
+#EXTINF:-1 tvg-logo="http://www.radioretro.ro/images/logo.png" group-title="oldies,pop,rock",Retro Radio Csikszereda 88.7
 http://online.radioretro.ro:8002/RetroRadio.mp3
-#EXTINF:-1 tvg-logo="http://www.rfi.ro/sites/default/files/styles/large/public/logo-rfi-bottom_2.png" group-title="news,oldies,pop,rock",RFI Romania
+#EXTINF:-1 tvg-logo="http://www.rfi.ro/sites/default/files/styles/large/public/logo-rfi-bottom_2.png" group-title="news,oldies,pop",RFI Romania
 http://asculta.rfi.ro:9128/live.aac
-#EXTINF:-1 tvg-logo="https://www.rockfm.ro///app/assets/rockfm/favicon/android-icon-192x192.png" group-title="",Rock FM Romania
+#EXTINF:-1 tvg-logo="https://www.rockfm.ro///app/assets/rockfm/favicon/android-icon-192x192.png" group-title="pop,talk,variety",Rock FM
 http://live.rockfm.ro:9128/rockfm.aacp
-#EXTINF:-1 tvg-logo="https://www.rockfm.ro///app/assets/rockfm/favicon/apple-icon-57x57.png" group-title="rock,romanian",RockFM
+#EXTINF:-1 tvg-logo="https://www.rockfm.ro///app/assets/rockfm/favicon/apple-icon-57x57.png" group-title="pop,talk,variety",Rock FM
 https://live.rockfm.ro/rockfm.aacp
-#EXTINF:-1 tvg-logo="http://www.radiooltenia.ro/wp-content/uploads/2017/04/logo.jpg" group-title="",România Oltenia-Craiova
+#EXTINF:-1 tvg-logo="http://www.radiooltenia.ro/wp-content/uploads/2017/04/logo.jpg" group-title="dance,eurodance,hits",Radio Romania Oltenia-Craiova
 http://stream2.srr.ro:8370/;stream.mp3
-#EXTINF:-1 tvg-logo="https://romanticfm.ro/img/logo.png" group-title="goldies,oldies,romantic",Romantic FM
+#EXTINF:-1 tvg-logo="https://romanticfm.ro/img/logo.png" group-title="oldies,ballads,easy listening",Romantic FM
 http://zuicast.digitalag.ro:9420/romanticfm
-#EXTINF:-1 tvg-logo="https://romanticfm.ro/img/default-album-cover.jpg" group-title="goldies,hits,love songs,pop rock,romantic",Romantic FM
+#EXTINF:-1 tvg-logo="https://romanticfm.ro/img/default-album-cover.jpg" group-title="oldies,hits,rock",Romantic FM
 https://live1ag.antenaplay.ro/radioromantic/radioromantic-48000.m3u8
-#EXTINF:-1 tvg-logo="https://www.sepsiradio.ro/design/img/logo2017.png" group-title="local,news,pop rock,talk & speech,top 40",Sepsi Rádió
+#EXTINF:-1 tvg-logo="https://www.sepsiradio.ro/design/img/logo2017.png" group-title="news,pop,rock",Sepsi Radio 98.5
 https://stream.sepsiradio.ro:8001/SepsiRadio
-#EXTINF:-1 tvg-logo="" group-title="hits,local,pop rock",Siculus Rádió Kézdivásárhely
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq3FyoXoZjEFVn6gr3DHt7S189n6hgarTgVw&s" group-title="hits,pop,rock",Siculus Radio 95.0
 http://46.214.17.202:8000/radioac3
-#EXTINF:-1 tvg-logo="https://www.smartradio.ro/wp-content/themes/smart-radio/apple-icon-120x120.png" group-title="oldies",Smart FM
+#EXTINF:-1 tvg-logo="https://www.smartradio.ro/wp-content/themes/smart-radio/apple-icon-120x120.png" group-title="dance,rock,pop",Smart 107.3
 http://live.smartradio.ro:9128/live
-#EXTINF:-1 tvg-logo="http://www.socialfm.ro/favicon.ico" group-title="",Social FM
+#EXTINF:-1 tvg-logo="http://www.socialfm.ro/favicon.ico" group-title="adult,contemporary,hits",Social FM 96.9
 http://noasrv.caster.fm:10085/listen
-#EXTINF:-1 tvg-logo="http://www.omnibus.ro/images/logos/starradio-logo.png" group-title="hits,local,pop",Star Rádió
+#EXTINF:-1 tvg-logo="http://www.omnibus.ro/images/logos/starradio-logo.png" group-title="hits,pop,world",Star Radio
 http://live.starradio.ro:9000/;&type=mp3
-#EXTINF:-1 tvg-logo="https://superfm.ro/static/images/logo_red_white.png" group-title="",Super FM
+#EXTINF:-1 tvg-logo="https://superfm.ro/static/images/logo_red_white.png" group-title="pop,hits,dance",Super 93.8
 https://live.superfm.ro/stream.mp3
-#EXTINF:-1 tvg-logo="https://virginradio.ro/favicon.ico" group-title="contemporary hits,pop,top 40",Virgin Radio Romania
+#EXTINF:-1 tvg-logo="https://virginradio.ro/favicon.ico" group-title="contemporary,hits,pop",Virgin Radio
 http://astreaming.virginradio.ro:8000/virgin_aacp_64k
-#EXTINF:-1 tvg-logo="https://virginradio.ro/wp-content/themes/virgin_v3/img/logo.png" group-title="hot hits,top 40,top hits",Virgin Radio Romania
+#EXTINF:-1 tvg-logo="https://virginradio.ro/wp-content/themes/virgin_v3/img/logo.png" group-title="contemporary,hits,pop",Virgin Radio
 http://astreaming.virginradio.ro:8000/virgin_mp3_64k
-#EXTINF:-1 tvg-logo="http://www.voxfm.ro/favicon.ico" group-title="pop",Vox FM - Székelykeresztúr
+#EXTINF:-1 tvg-logo="http://www.voxfm.ro/favicon.ico" group-title="top 40,pop,world",Radio Vox
 http://stream.voxfm.ro:8000/stream/1
-#EXTINF:-1 tvg-logo="https://weradio.ro/wp-content/uploads/2021/03/Logo-WE-RADIO-mic.png" group-title="local news,top hits",We Radio
+#EXTINF:-1 tvg-logo="https://weradio.ro/wp-content/uploads/2021/03/Logo-WE-RADIO-mic.png" group-title="news,hits,world",We Radio
 http://93.115.175.106:8000/player
-#EXTINF:-1 tvg-logo="http://www.westcityradio.ro/wp-content/uploads/2016/02/cropped-wcr-logo-audio-player-300x175-270x270.png" group-title="oldies,pop",West City Radio
+#EXTINF:-1 tvg-logo="http://www.westcityradio.ro/wp-content/uploads/2016/02/cropped-wcr-logo-audio-player-300x175-270x270.png" group-title="oldies,pop,news",West City Radio 88.8
 http://live.westcityradio.ro:8000/mp3
