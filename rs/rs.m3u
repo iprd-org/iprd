@@ -1,109 +1,103 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://www.radioactive.rs/img/facebook.jpg" group-title="local programming",Active Radio Bečej
+#EXTINF:-1 tvg-logo="http://www.radioactive.rs/img/facebook.jpg" group-title="rock,pop,hits",Radio Active 105.4
 http://active96-naxinacional.streaming.rs:8555/
-#EXTINF:-1 tvg-logo="" group-title="local programming",Ami Naxi Radio Kikinda
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr7i4-5LMBYULA65Wj2s4jPZcehv9gAgeLKg&s" group-title="community,news",Ami Naxi Radio 89.7
 http://185.119.88.88:8005/
-#EXTINF:-1 tvg-logo="http://www.antenabor.rs/favicon.ico" group-title="local programming",Antena Radio Bor
+#EXTINF:-1 tvg-logo="http://www.antenabor.rs/favicon.ico" group-title="pop,rock,hip hop",Antena Radio 101.6
 http://37.120.184.200:8018/
-#EXTINF:-1 tvg-logo="http://www.antenaradio.rs/favicon.ico" group-title="folk,local programming",Antena Radio Kruševac
+#EXTINF:-1 tvg-logo="http://www.antenaradio.rs/favicon.ico" group-title="folk,world",Antena Radio 91.3
 http://antenaradio.org:4560/listen.pls
-#EXTINF:-1 tvg-logo="https://www.radioas.fm/favicon.ico" group-title="",AS FM
+#EXTINF:-1 tvg-logo="https://www.radioas.fm/favicon.ico" group-title="dance,pop,news",Radio AS FM 95.8
 https://mastermedia.shoutca.st/proxy/radioasfm?mp=/stream
-#EXTINF:-1 tvg-logo="https://radiobanker.rs/wp-content/uploads/2018/11/cropped-BANKER-radio-LOGO-512px-270x270.png" group-title="",BANKER
+#EXTINF:-1 tvg-logo="https://radiobanker.rs/wp-content/uploads/2018/11/cropped-BANKER-radio-LOGO-512px-270x270.png" group-title="hits,top 40,pop",Banker 98.3
 http://banker96-naxinacional.streaming.rs:8540/
-#EXTINF:-1 tvg-logo="" group-title="classical",Belami radio 
+#EXTINF:-1 tvg-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpprsVeYImVL7JRHozegbj6-s-tgoNRkR0IQ&s" group-title="folk,world",RTV Radio Belle Amie
 http://92.60.230.200:5040/listen.pls
-#EXTINF:-1 tvg-logo="" group-title="",Beograd 3
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1208717610298331136/BdFOEPNW_400x400.jpg" group-title="jazz,oldies,variety",Radio Beograd 3 97.6
 http://138.201.33.203:8000/rts_3
-#EXTINF:-1 tvg-logo="https://beseda.rs/favicon.ico" group-title="ortodox",Beseda
+#EXTINF:-1 tvg-logo="https://beseda.rs/favicon.ico" group-title="orthodox,gospel,religious",Radio Beseda 91.8
 http://92.61.114.191:9180/stream
-#EXTINF:-1 tvg-logo="http://bumbumradio.rs/wp-content/uploads/2017/06/cropped-logo-100px-192x192.png" group-title="folk",Bum Bum Radio
+#EXTINF:-1 tvg-logo="http://bumbumradio.rs/wp-content/uploads/2017/06/cropped-logo-100px-192x192.png" group-title="folk,world,russian",Bum Bum Radio
 http://185.22.144.158:8000/listen.pls
-#EXTINF:-1 tvg-logo="http://www.coolradio.rs/favicon.ico" group-title="folk",Cool Radio
+#EXTINF:-1 tvg-logo="http://www.coolradio.rs/favicon.ico" group-title="folk,world",COOL Radio 107.7
 http://176.9.30.66/cool64
-#EXTINF:-1 tvg-logo="https://www.daskoimladja.com/apple-touch-icon-120x120.png" group-title="",Dasko i Mladja
+#EXTINF:-1 tvg-logo="https://www.daskoimladja.com/apple-touch-icon-120x120.png" group-title="rock,pop,hits",Dasko i Mladja
 http://172.105.250.193:8000/stream
-#EXTINF:-1 tvg-logo="http://egetaradiobrzapalanka.weebly.com/uploads/9/5/5/7/95576032/prst1_orig.gif" group-title="serbian",Egata Radio
+#EXTINF:-1 tvg-logo="http://egetaradiobrzapalanka.weebly.com/uploads/9/5/5/7/95576032/prst1_orig.gif" group-title="world,dance,folk",Egata Radio
 http://stream.zeno.fm/kcn3b5gfuhruv?rj-ttl=5&rj-tok=AAABfd2VeTYA0AHaAEKimBdcDg
-#EXTINF:-1 tvg-logo="https://hitfm.rs/wp-content/uploads/2020/02/logo-200px.png" group-title="",HIT FM Acoustic
+#EXTINF:-1 tvg-logo="https://hitfm.rs/wp-content/uploads/2020/02/logo-200px.png" group-title="acoustic,hits",Hit FM Acoustic 
 http://streaming.hitfm.rs/acoustic.mp3
-#EXTINF:-1 tvg-logo="http://static.radio.it/images/broadcasts/b9/54/27658/c175.png" group-title="serbian music",Hit FM Radio Beograd
+#EXTINF:-1 tvg-logo="http://static.radio.it/images/broadcasts/b9/54/27658/c175.png" group-title="pop,hits,world",Hit FM 98.5
 http://streaming.hitfm.rs:8000/hit
-#EXTINF:-1 tvg-logo="https://karolina.rs/wp-content/uploads/2019/02/cropped-karolina-social-logo-180x180.png" group-title="lounge,music",Karolina
+#EXTINF:-1 tvg-logo="https://karolina.rs/wp-content/uploads/2019/02/cropped-karolina-social-logo-180x180.png" group-title="variety,lounge",Radio Karolina
 http://streaming.karolina.rs:8000/karolina
-#EXTINF:-1 tvg-logo="" group-title="undefined",Laguna
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s212719/images/logog.png?t=160467" group-title="pop,top 40,contemporary",Radio Laguna 93.7
 https://live.radiolaguna.rs/laguna
-#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/83buyv7nw9aq.png" group-title="narodna",Lotel2
+#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/83buyv7nw9aq.png" group-title="news,talk,culture",Lotel
 https://s1.skeletor.rs/lotel
-#EXTINF:-1 tvg-logo="" group-title="catholic,minority,religion",Mária Rádió Szerbia
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Radio_Maria.jpg/220px-Radio_Maria.jpg" group-title="catholic,religious",Maria Radio
 http://dreamsiteradiocp.com:8014/listen.pls
-#EXTINF:-1 tvg-logo="" group-title="",Moj radio
-http://eu4.fastcast4u.com:5692/
-#EXTINF:-1 tvg-logo="" group-title="folk",Naxi - hype
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL8gib8Q6wfInT6t2LgBdNWq9H0HeD2I3F_g&s" group-title="folk,rock,world",Naxi Radio 96.9
 https://naxidigital-hype128ssl.streaming.rs:8272/;stream.nsv
-#EXTINF:-1 tvg-logo="https://www.naxi.rs/images/naxi_favicon.ico" group-title="chansons,mediterranean",Naxi Adore
+#EXTINF:-1 tvg-logo="https://www.naxi.rs/images/naxi_favicon.ico" group-title="chansons,world",Naxi Adore
 https://naxidigital-adore128ssl.streaming.rs:8332/;stream.nsv
-#EXTINF:-1 tvg-logo="http://www.naxi.rs/images/naxi_favicon.ico" group-title="",Naxi Cafe Radio
-http://naxidigital-128.kbcnet.rs:8020/
-#EXTINF:-1 tvg-logo="" group-title="evergreens",Naxi Evergreen Radio
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s157578/images/logog.png?t=1" group-title="pop,50s,60s",Naxi Evergreen Radio
 http://naxidigital-128.kbcnet.rs:8010/
-#EXTINF:-1 tvg-logo="https://www.navidiku.rs/radio-stanice/slike/radio/radio1592.jpg" group-title="classical",NAXI KIDS Radio
+#EXTINF:-1 tvg-logo="https://www.navidiku.rs/radio-stanice/slike/radio/radio1592.jpg" group-title="children,youth",Naxi Kids Radio
 https://www.navidiku.rs/radio-stanice/mp3/r15.mp3
-#EXTINF:-1 tvg-logo="" group-title="misc",Naxi Kids SERBIA 
+#EXTINF:-1 tvg-logo="https://www.navidiku.rs/radio-stanice/slike/radio/radio1592.jpg" group-title="children,youth",Naxi Kids Radio
 http://naxidigital-kids128.streaming.rs:8050/
-#EXTINF:-1 tvg-logo="http://www.naxi.rs/images/naxi_favicon.ico" group-title="serbian music",Naxi Radio
+#EXTINF:-1 tvg-logo="http://www.naxi.rs/images/naxi_favicon.ico" group-title="folk,rock,world",Naxi Radio 96.9
 http://naxi128.streaming.rs:9150/
-#EXTINF:-1 tvg-logo="http://www.naxi.rs/images/naxiLive.png" group-title="",Naxi Radio
+#EXTINF:-1 tvg-logo="http://www.naxi.rs/images/naxiLive.png" group-title="folk,rock,world",Naxi Radio 96.9
 http://naxi48.streaming.rs:9180/
-#EXTINF:-1 tvg-logo="http://www.naxi.rs/media/9cb1b5.png" group-title="cafe,chill,love,naxi",naxi radio - cafe radio
+#EXTINF:-1 tvg-logo="http://www.naxi.rs/media/9cb1b5.png" group-title="top 40,pop,dance",Naxi Cafe Radio
 http://naxidigital-cafe128.streaming.rs:8020/;stream.nsv
-#EXTINF:-1 tvg-logo="https://www.naxi.rs/media/52dfc3-lounge-logo-web.png" group-title="",Naxi Radio - Lounge
+#EXTINF:-1 tvg-logo="https://www.naxi.rs/media/52dfc3-lounge-logo-web.png" group-title="ballads,lounge",Naxi Lounge Radio
 http://naxidigital-lounge128.streaming.rs:8250/
-#EXTINF:-1 tvg-logo="http://www.naxi.rs/media/1310af-rock-logo.png" group-title="alternative rock,naxi,rock",naxi radio - rock
+#EXTINF:-1 tvg-logo="http://www.naxi.rs/media/1310af-rock-logo.png" group-title="alternative,rock",Naxi Rock Radio
 http://naxidigital-rock128.streaming.rs:8180/;stream.nsv
-#EXTINF:-1 tvg-logo="" group-title="",Naxi Radio Chillwave
+#EXTINF:-1 tvg-logo="https://www.liveradio.ie/files/images/457246/resized/180x172c/naxi_chillwave_radio.jpg" group-title="chillout,chill,relax",Naxi Chillwave Radio
 http://naxidigital-chillwave128.streaming.rs:8320/
-#EXTINF:-1 tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2018/03/No-Limit-Radio.jpg" group-title="",No Limit Radio
+#EXTINF:-1 tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2018/03/No-Limit-Radio.jpg" group-title="pop,folk",No Limit Radio 91.1
 http://webradio.sksyu.net:8000/nolimithq.ogg
-#EXTINF:-1 tvg-logo="https://www.facebook.com/obneob/photos/a.292403194939261/754396912073218/" group-title="misc",Ob-neob radio 
+#EXTINF:-1 tvg-logo="https://www.facebook.com/obneob/photos/a.292403194939261/754396912073218/" group-title="rock,pop,folk",Ob-Neob Radio 
 https://s5.voscast.com:10151/stream?fbclid=IwAR1UV8jq3TBf4TS2YoPkrOo9_EnqAWRm8yU_HYbLj22k4DQM4mgNjkKClHE
-#EXTINF:-1 tvg-logo="https://obneob.rs/application/img/OBNEOB_BrakiSmiki.png" group-title="talk & speech",ObNeob
-https://s5.voscast.com:10151/stream
-#EXTINF:-1 tvg-logo="http://www.okradio.net/favicon.ico" group-title="local programming",OK Radio
+#EXTINF:-1 tvg-logo="http://www.okradio.net/favicon.ico" group-title="traditional,world,folk",OK Radio
 http://live3.okradio.net:8004/
-#EXTINF:-1 tvg-logo="http://www.okradio.net/favicon.ico" group-title="beograd,local programming",OK Radio Beograd
+#EXTINF:-1 tvg-logo="http://www.okradio.net/favicon.ico" group-title="traditional,world,folk",OK Radio 94.2
 http://live7.okradio.net/;*.mp3
-#EXTINF:-1 tvg-logo="http://play.radiostanica.com/static/images/favicon.ico" group-title="",OK Radio Prelo
+#EXTINF:-1 tvg-logo="http://play.radiostanica.com/static/images/favicon.ico" group-title="news,talk",OK Radio Prelo
 http://live.okplus.rs:8050/;*.mp3
-#EXTINF:-1 tvg-logo="" group-title="",Pannon Rádió
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s90042g.png" group-title="world,folk",Pannon Radio 91.5
 http://breddstream.unrealhosting.hu:4120/listen.pls
-#EXTINF:-1 tvg-logo="http://b92s.net/playradio/images/social.png" group-title="",Play
+#EXTINF:-1 tvg-logo="http://b92s.net/playradio/images/social.png" group-title="top 40,pop,hits",Play Radio 92.5
 http://stream.playradio.rs:8001/play.aac
-#EXTINF:-1 tvg-logo="https://playradio.rs/apple-icon-120x120.png" group-title="english,party,serbia",Play Radio Party
+#EXTINF:-1 tvg-logo="https://playradio.rs/apple-icon-120x120.png" group-title="english,party,dance",Play Radio Party
 https://stream.playradio.rs:8443/party.mp3
-#EXTINF:-1 tvg-logo="https://playradio.rs/apple-icon-120x120.png" group-title="belgrade,internet radio,music,rock",Play Radio Rock
+#EXTINF:-1 tvg-logo="https://playradio.rs/apple-icon-120x120.png" group-title="hits,world,rock",Play Radio Rock
 https://stream.playradio.rs:8443/rock.mp3
-#EXTINF:-1 tvg-logo="https://playradio.rs/images/playlogo.png" group-title="",Play Radio Serbia
+#EXTINF:-1 tvg-logo="https://playradio.rs/images/playlogo.png" group-title="top 40,pop,hits",Play Radio 92.5
 https://stream.playradio.rs:8443/play.mp3
-#EXTINF:-1 tvg-logo="https://playradio.rs/images/playlogo.png" group-title="belgrade,internet radio,play radio,soft music",Play Radio Soft 2
+#EXTINF:-1 tvg-logo="https://playradio.rs/images/playlogo.png" group-title="party,rock,soft",Play Radio Soft 2
 https://stream.playradio.rs:8443/soft.mp3
-#EXTINF:-1 tvg-logo="https://playradio.rs/images/playlogo.png" group-title="belgrade,internet radio,play-radio,r&b/urban,soul,urban",Play Radio Urban
+#EXTINF:-1 tvg-logo="https://playradio.rs/images/playlogo.png" group-title="r'n'b,urban,soul",Play Radio Urban
 https://stream.playradio.rs:8443/urban.mp3
-#EXTINF:-1 tvg-logo="https://prviradio.rs/favicon.ico" group-title="",Prvi radio Novi Sad
+#EXTINF:-1 tvg-logo="https://prviradio.rs/favicon.ico" group-title="pop,news,hits",Prvi Radio Novi Sad 91.0
 https://mastermedia.shoutca.st/proxy/prviradions?mp=/stream
-#EXTINF:-1 tvg-logo="https://radio021.rs/favicon.ico" group-title="",Radio 021
+#EXTINF:-1 tvg-logo="https://radio021.rs/favicon.ico" group-title="pop,country,news",Radio 021 92.2
 https://radio.dukahosting.com/8006/stream
-#EXTINF:-1 tvg-logo="" group-title="misc",Radio 202
+#EXTINF:-1 tvg-logo="https://kuasark.com/files/stations-logos/radio-beograd-202.png" group-title="news,talk",Radio Belgrade 202
 http://138.201.33.203:8000/rts_4
-#EXTINF:-1 tvg-logo="" group-title="dance,pop",Radio 3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvvzum_4q8jYU0Tj-ug-WQ8UHlYTbilF4lBg&s" group-title="dance,pop",Radio 3 95.8
 http://radio3-128.streaming.rs:9200/
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/apple-touch-icon-120x120.png" group-title="",Radio 4P Narodna Muzika
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/apple-touch-icon-120x120.png" group-title="folk,hits",Radio 4P Narodna Muzika
 http://server4p.com:8002/stream
-#EXTINF:-1 tvg-logo="" group-title="",Radio 4P Zabavna Muzika
+#EXTINF:-1 tvg-logo="https://dvw7f7sqjk3ag.cloudfront.net/images/radio/60331.jpg" group-title="pop,rock,hip hop",Radio 4P Zabavna Muzika
 http://server4p.com/8012/stream
 #EXTINF:-1 tvg-logo="https://static.parastorage.com/client/pfavico.ico" group-title="chill,pop",Radio Aparat
 http://ca3.rcast.net:8060/stream.mp3listen.pls
-#EXTINF:-1 tvg-logo="http://www.radioapatin.com/static/img/apple-touch-icon-114x114.png" group-title="local programming,pop",Radio Apatin
+#EXTINF:-1 tvg-logo="http://www.radioapatin.com/static/img/apple-touch-icon-114x114.png" group-title="rock,pop,folk",Radio Apatin 105.8
 http://apatin96-naxinacional.streaming.rs:8500/
 #EXTINF:-1 tvg-logo="" group-title="ammie,belleamie,belleville,nis,radio belle amie,serbian music",Radio Belle Amie Niš
 http://92.60.230.200:5040/
