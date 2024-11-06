@@ -1,107 +1,103 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/fc4uel8ESlEENZsOL0r0TYC9gU1-SgEOfTfNoP_lTpWaZjPZeTdNv-ZrkyQ_3LMOkA" group-title="dance,hits,pop",Авторадио
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/fc4uel8ESlEENZsOL0r0TYC9gU1-SgEOfTfNoP_lTpWaZjPZeTdNv-ZrkyQ_3LMOkA" group-title="dance,hits,pop",Аutoradio
 http://play.global.audio/avtoradio.opus
-#EXTINF:-1 tvg-logo="https://cdn0.relax-fm.ru/design/images/img_for_design/header/main-logo.png" group-title="",-=- Relax-FM -=-
+#EXTINF:-1 tvg-logo="https://cdn0.relax-fm.ru/design/images/img_for_design/header/main-logo.png" group-title="ambient,chillout,easy listening",Relax 90.8
 http://ic4.101.ru:8000/stream/air/aac/64/200
-#EXTINF:-1 tvg-logo="" group-title="",*RelaxFM*
+#EXTINF:-1 tvg-logo="https://cdn0.relax-fm.ru/design/images/img_for_design/header/main-logo.png" group-title="ambient,chillout,easy listening",Relax 90.8
 http://live.kuznetsovsk.net:8000/relaxfm
-#EXTINF:-1 tvg-logo="https://dpi4fupzvxbqq.cloudfront.net/rfm/uploads/rlogo/300/300_1601366911.png" group-title="classical",101 ru enigmatic 
+#EXTINF:-1 tvg-logo="https://dpi4fupzvxbqq.cloudfront.net/rfm/uploads/rlogo/300/300_1601366911.png" group-title="classical,baroque",101.ru Enigmatic 
 https://101.ru:8143/?date=201405&hash=1979c180fe0ba452a76f00d8a0f0c452&start=209
-#EXTINF:-1 tvg-logo="https://101.ru/touch-icon-ipad.png" group-title="#101,#music,#russiandance,101.ru",101,ru Russian Dance
+#EXTINF:-1 tvg-logo="https://101.ru/touch-icon-ipad.png" group-title="dance,world,electronic",101.ru Russian Dance
 https://pub0302.101.ru:8443/stream/trust/mp3/128/17?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6IjQ5LjM3LjE1MS42IiwidXNlcmFnZW50IjoiTW96aWxsYVwvNS4wIChYMTE7IExpbnV4IHg4Nl82NDsgcnY6ODguMCkgR2Vja29cLzIwMTAwMTAxIEZpcmVmb3hcLzg4LjAiLCJ1aWRfY2hhbm5lbCI6IjE3IiwidHlwZV9jaGFubmVsIjoiY2hhbm5lbCIsImV4cCI6MTYxODUwMTYyM30.vsWQ1s12RL1P3yuD4Eb6E2Og6YaLbXceO-cfhhhwl5s
-#EXTINF:-1 tvg-logo="https://101.ru/touch-icon-ipad.png" group-title="euro disco,pop,pop music",101.ru - Boney M.
+#EXTINF:-1 tvg-logo="https://101.ru/touch-icon-ipad.png" group-title="euro disco,pop,dance",101.ru Boney M.
 http://pub0302.101.ru:8000/stream/pro/aac/64/114
-#EXTINF:-1 tvg-logo="https://cdn0.101.ru/proxy/vardata/modules/channel/image/18e59e661597a41b54918781ff5f292e.png?w=500&h=500" group-title="deep house,electronic",101.ru - Deep House
+#EXTINF:-1 tvg-logo="https://cdn0.101.ru/proxy/vardata/modules/channel/image/18e59e661597a41b54918781ff5f292e.png?w=500&h=500" group-title="deep,house,electronic",101.ru Deep House
 https://pub0202.101.ru:8000/stream/trust/mp3/128/173
-#EXTINF:-1 tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/556e5347edac86cff51347fa58d21cb8.png" group-title="drum & bass,drum and bass,russian",101.ru - Drum & Bass
+#EXTINF:-1 tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/556e5347edac86cff51347fa58d21cb8.png" group-title="drum'n'bass,electro,d'n'b",101.ru Drum & Bass
 https://pub0302.101.ru:8000/stream/pro/aac/64/6?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6IjIxMi41MS4xNDIuMTY2IiwidXNlcmFnZW50IjoiTW96aWxsYVwvNS4wIChYMTE7IFVidW50dTsgTGludXggeDg2XzY0OyBydjo4OC4wKSBHZWNrb1wvMjAxMDAxMDEgRmlyZWZveFwvODguMCIsInVpZF9jaGFubmVsIjoiNiIsInR5cGVfY2hhbm5lbCI6ImNoYW5uZWwiLCJleHAiOjE2MTU0NjYxNDh9.ReVmj9UP8k1j83oPOXewKDc37Me9RpR3wA3nm5bMWmE
-#EXTINF:-1 tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/8ca059e06a46a5d92237f6d94169c6ac.png" group-title="",101.ru - Electronic
+#EXTINF:-1 tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/8ca059e06a46a5d92237f6d94169c6ac.png" group-title="electronic,dance,electro",101.ru Electronic
 http://pub0302.101.ru:8000/stream/pro/aac/64/132
-#EXTINF:-1 tvg-logo="" group-title="classical",101.ru - French Chanson
+#EXTINF:-1 tvg-logo="https://kuasark.com/files/stations-logos/101ru-french-chanson.png" group-title="world,french,chanson",101.ru French Chanson
 http://ic6.101.ru:8000/stream/pro/aac/64/146
-#EXTINF:-1 tvg-logo="https://cdn0.relax-fm.ru/design/images/img_for_design/header/main-logo.png" group-title="",101.ru - Relax FM
+#EXTINF:-1 tvg-logo="https://cdn0.relax-fm.ru/design/images/img_for_design/header/main-logo.png" group-title="relax,ambient,chillout",101.ru Relax FM
 https://ic4.101.ru:8000/stream/air/aac/64/200
-#EXTINF:-1 tvg-logo="http://101.ru/design/images/main-design/101logo-social.png" group-title="electronic,music,techno",101.ru - Techno
+#EXTINF:-1 tvg-logo="http://101.ru/design/images/main-design/101logo-social.png" group-title="electronic,techno,dance",101.ru Techno
 http://pub0201.101.ru:8000/stream/trust/mp3/128/18
-#EXTINF:-1 tvg-logo="http://101.ru/design/images/main-design/101logo-social.png" group-title="pop,pop music",101.ru ABBA
+#EXTINF:-1 tvg-logo="http://101.ru/design/images/main-design/101logo-social.png" group-title="pop,hits,dance",101.ru ABBA
 http://pub0101.101.ru:8000/stream/pro/aac/64/104?
-#EXTINF:-1 tvg-logo="https://101.ru/touch-icon-ipad.png" group-title="bard,chanson",101.ru Bard songs - Авторская Песня
+#EXTINF:-1 tvg-logo="https://101.ru/touch-icon-ipad.png" group-title="bard,liedermacher,singer-songwriter",101.ru Bard Songs Author's Song
 https://ic6.101.ru:8000/stream/pro/aac/64/35
-#EXTINF:-1 tvg-logo="https://101.ru/touch-icon-ipad.png" group-title="bard,liedermacher,russian chanson,singer-songwriter",101.ru Bard songs - Авторская Песня
-http://ic6.101.ru:8000/stream/pro/aac/64/35
-#EXTINF:-1 tvg-logo="https://cdn2.101.ru/proxy/vardata/modules/channel/image/b4d83686c2220936ece7e3f46309530f.png?w=80&h=80&pos=center&t=1562169377" group-title="trance",101.ru Trance
+#EXTINF:-1 tvg-logo="https://cdn2.101.ru/proxy/vardata/modules/channel/image/b4d83686c2220936ece7e3f46309530f.png?w=80&h=80&pos=center&t=1562169377" group-title="trance,electronic,dance",101.ru Trance
 http://pub0101.101.ru:8000/stream/trust/mp3/128/19?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6Ijc5LjI1My4xMy43MSIsInVzZXJhZ2VudCI6Ik1vemlsbGFcLzUuMCAoWDExOyBMaW51eCB4ODZfNjQ7IHJ2Ojk0LjApIEdlY2tvXC8yMDEwMDEwMSBGaXJlZm94XC85NC4wIiwidWlkX2NoYW5uZWwiOiIxOSIsInR5cGVfY2hhbm5lbCI6ImNoYW5uZWwiLCJleHAiOjE2MzY4ODYwMzJ9.0vfq2B5eNRtuEwE42pHUS9Sf_GosTmrQs0aHcPvbFj8
-#EXTINF:-1 tvg-logo="https://101.ru/design/images/new/icons/apple-touch-icon-precomposed.png" group-title="9. may,ww ii",101.ru Victory Day - День Победы
+#EXTINF:-1 tvg-logo="https://101.ru/design/images/new/icons/apple-touch-icon-precomposed.png" group-title="culture,world",101.ru Victory Day
 https://pub0302.101.ru:8443/stream/pro/aac/64/178
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/ru/thumb/c/cd/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%94%D0%94%D0%A2.jpg/220px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%94%D0%94%D0%A2.jpg" group-title="101.ru,64kbps,ddt,rock,russian,ддт",101.ru ДДТ
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/ru/thumb/c/cd/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%94%D0%94%D0%A2.jpg/220px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%94%D0%94%D0%A2.jpg" group-title="ddt,rock,russian",101.ru DDT
 https://pub0101.101.ru/stream/pro/aac/64/112
-#EXTINF:-1 tvg-logo="http://www.webviki.ru/etc/sslimage.php?security=6f67d01e09987a8938bbb86549942cea&url=http:%2F%2F101.ru%2Fdesign%2Fimages%2Fmain-design%2F101logo-social.png" group-title="101.ru,64kbps,lyube,russian rock,любэ",101.ru Любэ
+#EXTINF:-1 tvg-logo="http://www.webviki.ru/etc/sslimage.php?security=6f67d01e09987a8938bbb86549942cea&url=http:%2F%2F101.ru%2Fdesign%2Fimages%2Fmain-design%2F101logo-social.png" group-title="rock,world",101.ru Lyube
 https://pub0101.101.ru/stream/pro/aac/64/158
-#EXTINF:-1 tvg-logo="https://101.ru/touch-icon-ipad.png" group-title="oldies,ussr",101.ru СССР 30-50
+#EXTINF:-1 tvg-logo="https://101.ru/touch-icon-ipad.png" group-title="oldies,soviet,world",101.ru СССР 30-50
 http://pub0302.101.ru:8000/stream/pro/aac/64/46
-#EXTINF:-1 tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/a9a806612d5c8fd5ac8c4df1405f9fc1.png" group-title="russian,ussr",101.ru СССР 30-50
+#EXTINF:-1 tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/a9a806612d5c8fd5ac8c4df1405f9fc1.png" group-title="oldies,soviet,world",101.ru СССР 30-50
 http://pub0201.101.ru:8000/stream/pro/aac/64/46
-#EXTINF:-1 tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/a08b87621ca530dfeeeeb62ab230b6c2.png" group-title="russia,ussr",101.ru СССР 50-70
+#EXTINF:-1 tvg-logo="https://cdn2.101.ru/vardata/modules/channel/image/a08b87621ca530dfeeeeb62ab230b6c2.png" group-title="oldies,soviet,world",101.ru СССР 50-70
 http://pub0302.101.ru:8000/stream/pro/aac/64/47
-#EXTINF:-1 tvg-logo="https://101.ru/design/images/main-design/101logo-social.png" group-title="",101.ru Стас Михайлов
+#EXTINF:-1 tvg-logo="https://101.ru/design/images/main-design/101logo-social.png" group-title="pop,hits,russian",101.ru Stas Mikhailov
 http://pub0201.101.ru:8000/stream/pro/aac/64/154?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6IjE3OC4yMzQuMTYuMTM5IiwidXNlcmFnZW50IjoiTW96aWxsYVwvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjgzLjApIEdlY2tvXC8yMDEwMDEwMSBGaXJlZm94XC84My4wIiwidWlkX2NoYW5uZWwiOiIxNTQiLCJ0eXBlX2NoYW5uZWwiOiJjaGFubmVsIiwiZXhwIjoxNjA5MzQ3ODA5fQ.yfZ7mXPRXBji-XuWbVXngAb3hpj9bLiPWNGimuqLCSM
-#EXTINF:-1 tvg-logo="https://cdn0.101.ru/proxy/vardata/modules/channel/image/4ed9478532ba8f720059a2fd99505d75.png?w=300&h=300&pos=center&t=1565608453" group-title="kino,rock,russian rock,кино,цой",101.ru: Виктор Цой и группа «КИНО»
+#EXTINF:-1 tvg-logo="https://cdn0.101.ru/proxy/vardata/modules/channel/image/4ed9478532ba8f720059a2fd99505d75.png?w=300&h=300&pos=center&t=1565608453" group-title="kino,rock,world",101.ru Viktor Tsoi and The Kino Group
 http://pub0201.101.ru:8000/stream/pro/aac/64/103
-#EXTINF:-1 tvg-logo="http://161.fm/templates/jsn_metro_pro/favicon.ico" group-title="",161.fm
+#EXTINF:-1 tvg-logo="http://161.fm/templates/jsn_metro_pro/favicon.ico" group-title="dance,electronic,world",161 FM
 http://stream.161.fm:8000/128
-#EXTINF:-1 tvg-logo="http://16bitfm.com//images/fav/android-icon-192x192.png" group-title="music",16Bit FM CAFE Channel 192K stream#1 MOSCOW
+#EXTINF:-1 tvg-logo="http://16bitfm.com//images/fav/android-icon-192x192.png" group-title="chillout,relax",16Bit.FM Cafe
 http://16bitfm.com:8000/cafe_mp3_192
-#EXTINF:-1 tvg-logo="http://16bitfm.com//images/fav/android-icon-192x192.png" group-title="moscow,music,russia",16BIT FM I.D.E.A. Channel 192K stream#1 MOSCOW
+#EXTINF:-1 tvg-logo="http://16bitfm.com//images/fav/android-icon-192x192.png" group-title="rock,techno,russia",16Bit.FM I.D.E.A.
 http://16bitfm.com:8000/idea_mp3_192
-#EXTINF:-1 tvg-logo="http://16bitfm.com//images/fav/android-icon-192x192.png" group-title="main,mainstream,moscow,music,russia",16Bit FM PRObeat Channel 192K stream#1 MOSCOW
+#EXTINF:-1 tvg-logo="http://16bitfm.com//images/fav/android-icon-192x192.png" group-title="progressive,electronic,house",16Bit.FM PRObeat
 http://16bitfm.com:8000/main_mp3_192
-#EXTINF:-1 tvg-logo="http://www.16bitfm.com/images/fav/favicon-32x32.png" group-title="chillout,relaxation",16Bit.FM Cafe
+#EXTINF:-1 tvg-logo="http://www.16bitfm.com/images/fav/favicon-32x32.png" group-title="chillout,relax",16Bit.FM Cafe
 http://16bitfm.com:8000/cafe_mp3_128
-#EXTINF:-1 tvg-logo="http://3musicradio.com/wp-content/uploads/2020/09/3musiclogo5-150x150.png" group-title="ambient,meditation,relax,relaxing",3 Music Radio - Harmony
+#EXTINF:-1 tvg-logo="http://3musicradio.com/wp-content/uploads/2020/09/3musiclogo5-150x150.png" group-title="ambient,meditation,relax",3 Music Harmony
 http://misato.ru-hoster.com:8057/stream
-#EXTINF:-1 tvg-logo="http://8bit.fm/favicon.ico" group-title="8 bit,8bit,chiptune",8bit.fm - AY music
+#EXTINF:-1 tvg-logo="http://8bit.fm/favicon.ico" group-title="8 bit,chiptune,soundtracks",8bit.fm AY Music
 http://8bit.fm:8000/ay
-#EXTINF:-1 tvg-logo="http://8bit.fm/favicon.ico" group-title="8 bit,breakbeat,chiptune,electronic,nintendocore",8bitFM
+#EXTINF:-1 tvg-logo="http://8bit.fm/favicon.ico" group-title="8 bit,chiptune,nintendocore",8bit.fm
 http://8bit.fm:8000/live
-#EXTINF:-1 tvg-logo="" group-title="",Absolute Spitzer (Mixcult)
+#EXTINF:-1 tvg-logo="https://kuasark.com/files/stations-logos/absolute-spitzer-mixcult.png" group-title="ambient,electronic",Absolute Spitzer
 http://spitzer.mixcult.net:8002/MixCult_Ambient_320kbps
-#EXTINF:-1 tvg-logo="http://nettv.live/uploads/19/1-1Z12912241V04.jpg" group-title="",AIST TV
-http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://anima.sknt.ru/player_play.png" group-title="goa,psytrance",Anima Amoris - Goa Psy Trance
+#EXTINF:-1 tvg-logo="http://anima.sknt.ru/player_play.png" group-title="goa,psytrance",Anima Amoris Goa Psy Trance
 http://amoris.sknt.ru/goa.mp3
-#EXTINF:-1 tvg-logo="http://anima.sknt.ru/player_play.png" group-title="electronic,music,russia,saint-petersburg,trance",Anima Amoris [Trance]
+#EXTINF:-1 tvg-logo="http://anima.sknt.ru/player_play.png" group-title="electronic,russian,trance",Anima Amoris Trance
 http://anima.sknt.ru/trance.mp3
-#EXTINF:-1 tvg-logo="http://anima.sknt.ru/player_play.png" group-title="bible,religion",Anima Amoris Bible
+#EXTINF:-1 tvg-logo="http://anima.sknt.ru/player_play.png" group-title="religious,christian",Anima Amoris Bible
 https://amoris.sknt.ru/bible.mp3
-#EXTINF:-1 tvg-logo="http://anima.sknt.ru/player_play.png" group-title="",Anima Amoris Deep Tech House
+#EXTINF:-1 tvg-logo="http://anima.sknt.ru/player_play.png" group-title="deep,tech,house",Anima Amoris Deep Tech House
 https://amoris.sknt.ru/deeptech.mp3
-#EXTINF:-1 tvg-logo="http://anima.sknt.ru/player_play.png" group-title="",Anima Amoris Dub Step
+#EXTINF:-1 tvg-logo="http://anima.sknt.ru/player_play.png" group-title="dubstep,electronic,dance",Anima Amoris Dub Step
 https://amoris.sknt.ru/dubstep.mp3
-#EXTINF:-1 tvg-logo="" group-title="dub,mix,techno",Anima Amoris Dub Techno Mix
+#EXTINF:-1 tvg-logo="https://dx7vbl8yjmzxy.cloudfront.net/new_images/radioapp_75467.png" group-title="dub,mix,techno",Anima Amoris Dub Techno Mix
 http://amoris.sknt.ru/dubtechnomix.mp3
-#EXTINF:-1 tvg-logo="http://anima.sknt.ru/player_play.png" group-title="",Anima Amoris Electro
+#EXTINF:-1 tvg-logo="http://anima.sknt.ru/player_play.png" group-title="electro,dance,mixes",Anima Amoris Electro
 https://amoris.sknt.ru/electro.mp3
-#EXTINF:-1 tvg-logo="" group-title="",Anima Amoris Electronic Styles
+#EXTINF:-1 tvg-logo="https://dx7vbl8yjmzxy.cloudfront.net/new_images/radioapp_75467.png" group-title="electro,dance,mixes",Anima Amoris Electronic Styles
 https://amoris.sknt.ru/electronic.mp3
-#EXTINF:-1 tvg-logo="" group-title="",Anima Amoris IDM
+#EXTINF:-1 tvg-logo="https://dx7vbl8yjmzxy.cloudfront.net/new_images/radioapp_75467.png" group-title="edm,electro,dance",Anima Amoris IDM
 https://amoris.sknt.ru/idm.mp3
-#EXTINF:-1 tvg-logo="http://anima.sknt.ru/player_play.png" group-title="",Anima Amoris New Age
+#EXTINF:-1 tvg-logo="http://anima.sknt.ru/player_play.png" group-title="new age,ambient,relax",Anima Amoris New Age
 https://amoris.sknt.ru/newage.mp3
-#EXTINF:-1 tvg-logo="http://anima.sknt.ru/player_play.png" group-title="",Anima Amoris Trip Hop Lounge
+#EXTINF:-1 tvg-logo="http://anima.sknt.ru/player_play.png" group-title="hip hop,lounge,triphop",Anima Amoris Trip Hop Lounge
 https://amoris.sknt.ru/triphop.mp3
-#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/vvykF8aFjb.png" group-title="anime,japanese,jpop,soundtrack",Anison.FM
+#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/vvykF8aFjb.png" group-title="anime,jpop,soundtrack",Anison.FM
 https://pool.anison.fm/AniSonFM(320)
-#EXTINF:-1 tvg-logo="" group-title="",Art Remix
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScKkY2R8r48HOqA9bY1dG9enibxxz83CTGOg&s" group-title="dj,mixes,dance",Art Remix
 https://listen2.myradio24.com/2236
-#EXTINF:-1 tvg-logo="" group-title="",Ataman.fm
+#EXTINF:-1 tvg-logo="https://online-red.com/images/radio-logo/ataman.png" group-title="rock,oldies,hits",Ataman 105.9
 https://listen5.myradio24.com/ataman
-#EXTINF:-1 tvg-logo="" group-title="atmospheric,breakbeat,breaks,multilingual,progressive",Atm.Fm
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-iIENfzOx8CjkImDu9CruiAGmYKKe5tQG0g&s" group-title="breakbeat,progressive",Atm.Fm
 http://station-sound.ru:8000/pt-2
-#EXTINF:-1 tvg-logo="https://radioserpukhov.ru/favicon.ico" group-title="local news,pop,pop music,russian,russian pop,traffic",Avtoradio 105.5 FM Serpukhov
+#EXTINF:-1 tvg-logo="https://radioserpukhov.ru/favicon.ico" group-title="news,pop,traffic",Autoradio 105.5
 http://77.73.90.46:1055/avtoradio
-#EXTINF:-1 tvg-logo="" group-title="big beat",BadBeatRadio
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/61106282.png" group-title="electro,breakbeat",BadBeatRadio
 http://misato.ru-hoster.com:8061/badbeatradio
-#EXTINF:-1 tvg-logo="https://sun1-86.userapi.com/aMF4kGfji2yC7loxd945dktykoqcqF5uaQWC9A/06_gDThX2es.jpg?ava=1" group-title="fashionable,popular!,radio fresh style - fresh,модное,популярное!,радио в стиле фреш - свежее",BAG
+#EXTINF:-1 tvg-logo="https://sun1-86.userapi.com/aMF4kGfji2yC7loxd945dktykoqcqF5uaQWC9A/06_gDThX2es.jpg?ava=1" group-title="variety,pop,hits",Radio Free Music
 http://radio-holding.ru:9000/rfm_aac_64
 #EXTINF:-1 tvg-logo="http://tv-radio.online/uploads/posts/2017-09/1504856180_bestfm.png" group-title="",Best FM
 http://nashe.streamr.ru/best-128.mp3
