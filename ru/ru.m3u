@@ -99,107 +99,105 @@ http://77.73.90.46:1055/avtoradio
 http://misato.ru-hoster.com:8061/badbeatradio
 #EXTINF:-1 tvg-logo="https://sun1-86.userapi.com/aMF4kGfji2yC7loxd945dktykoqcqF5uaQWC9A/06_gDThX2es.jpg?ava=1" group-title="variety,pop,hits",Radio Free Music
 http://radio-holding.ru:9000/rfm_aac_64
-#EXTINF:-1 tvg-logo="http://tv-radio.online/uploads/posts/2017-09/1504856180_bestfm.png" group-title="",Best FM
+#EXTINF:-1 tvg-logo="http://tv-radio.online/uploads/posts/2017-09/1504856180_bestfm.png" group-title="pop,world",Best FM
 http://nashe.streamr.ru/best-128.mp3
-#EXTINF:-1 tvg-logo="https://big-radio.ru/favicon-128x128.png" group-title="live",Big Radio Murmansk
+#EXTINF:-1 tvg-logo="https://big-radio.ru/favicon-128x128.png" group-title="adult,contemporary,variety",Big Radio Murmansk 96.4
 https://listen2.myradio24.com/8286
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/mwqnb4nhjmg2ri1/bigroom.png" group-title="101,big,bigroom,club,dance,house,room,ru,wapmahka",Big Room
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/mwqnb4nhjmg2ri1/bigroom.png" group-title="club,dance,house",Big Room
 https://pub0302.101.ru:8443/stream/trust/mp3/128/220
-#EXTINF:-1 tvg-logo="" group-title="bass,dance,drum & bass,electronic,jungle",Big Tunes Radio - Bass
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVnKj7MMw1Od4xeTs6NefSo5csA27cqEThzA&s" group-title="bass,dance,drum'n'bass",Big Tunes Radio Bass
 https://bigtunesradio.com:8000/bass.mp3
-#EXTINF:-1 tvg-logo="" group-title="disco,hiphop,house,oldschool",Big Tunes Radio - Oldschool
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVnKj7MMw1Od4xeTs6NefSo5csA27cqEThzA&s" group-title="disco,hip hop,house",Big Tunes Radio Oldschool
 https://bigtunesradio.com:8000/oldschool.mp3
-#EXTINF:-1 tvg-logo="" group-title="alternative,alternative rock,big band,nice,noise,rock,russia,russian rock,siberia,streaming",BigNoise
+#EXTINF:-1 tvg-logo="https://pickasso.spotifycdn.com/image/ab67c0de0000deef/dt/v1/img/radio/artist/0B2d8TC0aDDvyzJnW0evs0/en" group-title="alternative,rock,big band",BigNoise
 http://radio.bignoise.club:8000/nonstop
-#EXTINF:-1 tvg-logo="http://borneo.ru/loal.jpg" group-title="",Borneo
+#EXTINF:-1 tvg-logo="http://borneo.ru/loal.jpg" group-title="top 40,hits",Radio Borneo 107.2
 http://live.borneo.ru:8888/128
-#EXTINF:-1 tvg-logo="http://btuner.ru/bitrix/templates/btuner/images/btuner-player-logo.png" group-title="btuner,club house,deep house,disco funk,disco soul,italo disco,nu disco",bTuner
+#EXTINF:-1 tvg-logo="http://btuner.ru/bitrix/templates/btuner/images/btuner-player-logo.png" group-title="club,house,deep",bTuner
 http://radio.btuner.ru:8000/live.ogg
-#EXTINF:-1 tvg-logo="https://www.bfm.ru/apple-touch-icon.png" group-title="economics,information,news,talk",Business FM
+#EXTINF:-1 tvg-logo="https://www.bfm.ru/apple-touch-icon.png" group-title="business,news,talk",Business FM
 http://bfmstream.bfm.ru:8004/fm64
-#EXTINF:-1 tvg-logo="https://bfmufa.ru/wp-content/themes/bfm/images/logo-bfm.jpg" group-title="107.5,economics,finance,news,talk,ufa,уфа",Business FM Уфа
+#EXTINF:-1 tvg-logo="https://bfmufa.ru/wp-content/themes/bfm/images/logo-bfm.jpg" group-title="economics,finance,news",Business FM 107.5
 http://92.50.139.190:8005/bfmufa
-#EXTINF:-1 tvg-logo="" group-title="hits,pop,talk",Capital FM Moscow
+#EXTINF:-1 tvg-logo="https://www.radio.net/300/capitalfmmoscow.png?version=8dd2ce7eef6820f8059d1faf91bcff47" group-title="hits,pop,top 40",Capital FM 105.3
 http://icecast.vgtrk.cdnvideo.ru/capitalfmmp3
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/logo/4/59764.v15.png" group-title="surf,surfrock",Caprice - Surf Rock
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/logo/4/59764.v15.png" group-title="surf,world,pop",Radio Caprice Surf Rock
 http://79.111.119.111:8002/surfrock
-#EXTINF:-1 tvg-logo="http://radcap.ru/stylegraf/dancepop2.jpg" group-title="caprice,dance,pop",Caprice Dance Pop
+#EXTINF:-1 tvg-logo="http://radcap.ru/stylegraf/dancepop2.jpg" group-title="dance,pop",Radio Caprice Dance Pop
 http://79.120.77.11:8000/dancepop
-#EXTINF:-1 tvg-logo="" group-title="",caprice indian folk
+#EXTINF:-1 tvg-logo="https://www.radio.fr/300/capriceindian.png?version=6aaa0b3db77aba3b6178c7ed41560450" group-title="world,folk,indian",Radio Caprice Indian Folk
 http://79.111.14.76:8002/indianfolk
-#EXTINF:-1 tvg-logo="" group-title="",CHANSON
+#EXTINF:-1 tvg-logo="https://www.radio.net/300/chansonru.png?version=f4a34774252dfaf84660f3817ae48a80" group-title="schlager,chanson,ballads",Chanson Radio
 http://chanson.hostingradio.ru:8041/chanson128.mp3?md5=2eMCvcYXPx0fjyorGnLWuw&e=1545675080
-#EXTINF:-1 tvg-logo="" group-title="",chanson
+#EXTINF:-1 tvg-logo="https://www.radio.net/300/chansonru.png?version=f4a34774252dfaf84660f3817ae48a80" group-title="schlager,chanson,ballads",Chanson Radio
 http://chanson.hostingradio.ru:8041/chanson256.mp3?md5=oVvCwE7WBb8Y7wl1S_2xCQ&e=1549278452
-#EXTINF:-1 tvg-logo="https://chekhov.kometa.fm/wp-content/uploads/2016/11/cropped-cropped-logo3333-192x192.png" group-title="folk",Chekhov Kometa Fm
+#EXTINF:-1 tvg-logo="https://chekhov.kometa.fm/wp-content/uploads/2016/11/cropped-cropped-logo3333-192x192.png" group-title="folk,world",Radio Kometa 92.6
 http://online.kometa.fm:8000/live
-#EXTINF:-1 tvg-logo="" group-title="chill,chillhop,chillout",ChillHop радио
+#EXTINF:-1 tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72cad9cbd5e6c4ce8fdc4dcce49" group-title="chill,chillout,relax",ChillHop Radio
 http://media-the.musicradio.com/ChillMP3
-#EXTINF:-1 tvg-logo="" group-title="classical",Clarinet, oboe, bassoon
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/1f/c8/1fc8ae0be7cc5c87e1ca2053b582c744.jpg" group-title="classical,baroque",Radio Caprice Clarinet/Bassoon/Oboe
 http://213.141.131.10:8002/clarinet
-#EXTINF:-1 tvg-logo="http://radcap.ru/stylegraf/classavant.jpg" group-title="avant-garde,classical",Classical avant-garde - Radio Caprice
+#EXTINF:-1 tvg-logo="http://radcap.ru/stylegraf/classavant.jpg" group-title="avant-garde,classical",Radio Caprice Classical Avant-Garde
 http://213.141.131.10:8004/classavant
-#EXTINF:-1 tvg-logo="https://comedy-radio.ru//favicon.ico" group-title="comedy,humor,pop,sketches",Comedy Radio new link
+#EXTINF:-1 tvg-logo="https://comedy-radio.ru//favicon.ico" group-title="comedy,humor,sketches",Comedy Radio
 http://ic6.101.ru:8000/stream/air/aac/64/202
-#EXTINF:-1 tvg-logo="https://f4.bcbits.com/img/a4066750194_2.jpg" group-title="deathcore,djent,mathcore,metal,metalcore,post-hardcore",CORE Radio!
+#EXTINF:-1 tvg-logo="https://f4.bcbits.com/img/a4066750194_2.jpg" group-title="deathcore,metal,metalcore",Core Radio
 http://194.58.97.117:8000/coreradio
-#EXTINF:-1 tvg-logo="http://radcap.ru/apple-touch-icon.png" group-title="blues,country blues",Country/folk blues - Radio Caprice
+#EXTINF:-1 tvg-logo="http://radcap.ru/apple-touch-icon.png" group-title="blues,country,folk",Radio Caprice Country/Folk/Blues
 http://79.120.77.11:8004/countryblues
-#EXTINF:-1 tvg-logo="https://pasteboard.co/K62Gm4M.jpg" group-title="",Creative Society FM
-https://live.allatra-radio.com/radio/8030/radio.mp3
-#EXTINF:-1 tvg-logo="https://dancefloor.live/favicon.ico" group-title="electronic",Dancefloor Radio
+#EXTINF:-1 tvg-logo="https://dancefloor.live/favicon.ico" group-title="electronic,dance,party",Dancefloor Radio
 https://air.broadcastinggroup.ro/Dancefloor_m
-#EXTINF:-1 tvg-logo="https://deep1.ru/wp-content/uploads/2020/05/deepone_2000_2000.jpg" group-title="deep house",Deep One
+#EXTINF:-1 tvg-logo="https://deep1.ru/wp-content/uploads/2020/05/deepone_2000_2000.jpg" group-title="deep,house,electro",Deep One
 https://stream.deep1.ru/deep1mp3
-#EXTINF:-1 tvg-logo="https://deep1.ru/wp-content/uploads/2020/05/deepone_2000_2000.jpg" group-title="",Deep One
+#EXTINF:-1 tvg-logo="https://deep1.ru/wp-content/uploads/2020/05/deepone_2000_2000.jpg" group-title="deep,house,electro",Deep One
 https://stream.deep1.ru/deep1aac
-#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/90/f7/1a/90f71a87-096d-b3c1-c284-873b2eaf1a25/mza_4771468106753631555.jpg/1200x630wp.png" group-title="podcast,talking",DevZen Podcast
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/90/f7/1a/90f71a87-096d-b3c1-c284-873b2eaf1a25/mza_4771468106753631555.jpg/1200x630wp.png" group-title="news,talk,science",DevZen Podcast
 https://live.devzen.ru/stream?type=.mp3
-#EXTINF:-1 tvg-logo="https://dfm.ru//uploads/favicon.png" group-title="dfm",DFM
+#EXTINF:-1 tvg-logo="https://dfm.ru//uploads/favicon.png" group-title="electro,dance,edm",DFM
 https://dfm.hostingradio.ru/dfm96.aacp?0.28225617725168517
-#EXTINF:-1 tvg-logo="" group-title="dance",DFM RUSSIAN DANCE
+#EXTINF:-1 tvg-logo="https://dfm.ru//uploads/favicon.png" group-title="electro,dance,edm",DFM
 https://dfm-dfmrusdance.hostingradio.ru/dfmrusdance96.aacp?0.9987259013359274
-#EXTINF:-1 tvg-logo="https://dfm.ru//uploads/favicon.png" group-title="trap",DFM Trap
+#EXTINF:-1 tvg-logo="https://dfm.ru//uploads/favicon.png" group-title="trap,dance,electronic",DFM Trap
 https://dfm-dfmtrap.hostingradio.ru/dfmtrap96.aacp
-#EXTINF:-1 tvg-logo="https://dfm.ru//uploads/favicon.png" group-title="90-е,eurodance,nostalgia",DFM Дискач 90-х
+#EXTINF:-1 tvg-logo="https://dfm.ru//uploads/favicon.png" group-title="90s,eurodance,oldies",DFM Diskach 90-х
 https://dfm-disc90.hostingradio.ru/disc9096.aacp
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/USSR_COA_1936.png" group-title="communism,коммунизм",Dharma1937
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/USSR_COA_1936.png" group-title="communism,politics,talk",Dharma1937
 http://dharma1937.fm:7777/live
-#EXTINF:-1 tvg-logo="https://101.ru/touch-icon-ipad.png" group-title="soft",Discoteca 80
+#EXTINF:-1 tvg-logo="https://101.ru/touch-icon-ipad.png" group-title="80s,disco,soft",Discoteca 80
 https://pub0302.101.ru:8443/stream/pro/aac/64/1?
 #EXTINF:-1 tvg-logo="http://www.discovertrance.com/favicon.ico" group-title="uplifting",Discover Trance Radio
 http://chicago.discovertrance.com:9218/
-#EXTINF:-1 tvg-logo="http://www.discovertrance.com/images/favcon2.png" group-title="dance,trance",DiscoverTranceRadio (MP3 HQ stereo 192kBit/s)
+#EXTINF:-1 tvg-logo="http://www.discovertrance.com/images/favcon2.png" group-title="dance,trance",DiscoverTranceRadio
 http://node-2.promo-cloud.com:8006//
-#EXTINF:-1 tvg-logo="http://www.discovertrance.com/images/favcon2.png" group-title="dance,trance",DiscoverTranceRadio (MP3 LQ stereo 96kBit/s)
+#EXTINF:-1 tvg-logo="http://www.discovertrance.com/images/favcon2.png" group-title="dance,trance",DiscoverTranceRadio
 http://chicago.discovertrance.com:9218//
-#EXTINF:-1 tvg-logo="http://www.discovertrance.com/images/favcon2.png" group-title="dance,trance",DiscoverTranceRadio (MP3 MQ stereo 128kBit/s)
+#EXTINF:-1 tvg-logo="http://www.discovertrance.com/images/favcon2.png" group-title="dance,trance",DiscoverTranceRadio
 http://paris.discovertrance.com:8008//
-#EXTINF:-1 tvg-logo="https://www.donatfm.pro/wp-content/themes/radio/images/favicons/apple-icon-120x120.png" group-title="hits,pop",Donat FM - European hits
+#EXTINF:-1 tvg-logo="https://www.donatfm.pro/wp-content/themes/radio/images/favicons/apple-icon-120x120.png" group-title="hits,pop,world",Donat FM
 http://c6.radioboss.fm:8089/autodj
-#EXTINF:-1 tvg-logo="http://www.donatfm.pro/wp-content/uploads/2015/08/logo-1.png" group-title="",Donat FM - Russian Rock
+#EXTINF:-1 tvg-logo="http://www.donatfm.pro/wp-content/uploads/2015/08/logo-1.png" group-title="world,rock,hits",Donat FM Russian Rock
 http://c6.radioboss.fm:8097/autodj
-#EXTINF:-1 tvg-logo="" group-title="",DONAT FM - Зарубежные хиты
+#EXTINF:-1 tvg-logo="https://www.radiobells.com/stations/donatfmzap.webp" group-title="hits,pop,world",Donat FM Foreign Hits
 http://c6.radioboss.fm:8089/stream
-#EXTINF:-1 tvg-logo="" group-title="",DONAT FM - Музыка СССР
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHhj0GewsJWMK0dHijQQ7MvrDb2oPgHBE2tw&s" group-title="soviet,hits,pop",Donat FM Мusic of the USSR
 http://c6.radioboss.fm:8098/stream
-#EXTINF:-1 tvg-logo="" group-title="",DONAT FM - Русская Поп-музыка
+#EXTINF:-1 tvg-logo="https://top-radio.ru/assets/image/radio/180/Djnat%20FM%20%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BF%D0%BE%D0%BF-%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0.jpg" group-title="pop,russian,hits",Donat FM Russian Pop Music
 http://c6.radioboss.fm:8099/stream
-#EXTINF:-1 tvg-logo="" group-title="",DONAT FM - Русский рок
+#EXTINF:-1 tvg-logo="https://www.radiobells.com/stations/donatfmrusrock.webp" group-title="rock,world,russian",Donat FM Russian Rock
 http://c6.radioboss.fm:8097/stream
-#EXTINF:-1 tvg-logo="" group-title="",DONAT FM - Шансон
+#EXTINF:-1 tvg-logo="https://www.radiobells.com/stations/donatfmshanson.webp" group-title="schlager,chanson,world",Donat FM Chanson
 http://c6.radioboss.fm:8096/stream
-#EXTINF:-1 tvg-logo="https://dorognoe.ru/thumb/channel_logo_250x200/2017/6d/5d/591ec2b806674_main.png" group-title="",Dorozhnoye Radio Nizhny Novgorod 105.4 FM
+#EXTINF:-1 tvg-logo="https://dorognoe.ru/thumb/channel_logo_250x200/2017/6d/5d/591ec2b806674_main.png" group-title="variety,talk",Dorozhnoye Radio Nizhny Novgorod 105.4 
 https://hls-01-dorognoe.emgsound.ru/15/128/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://radio.dwgradio.net/ru/wp-content/uploads/2018/03/cropped-DWGradio-Favicon-270x270.png" group-title="christian",DWG Radio ru
+#EXTINF:-1 tvg-logo="https://radio.dwgradio.net/ru/wp-content/uploads/2018/03/cropped-DWGradio-Favicon-270x270.png" group-title="christian,religious",DWG Radio Russia
 https://server32349.streamplus.de/;stream.mp3
-#EXTINF:-1 tvg-logo="http://101.ru/favicon.ico" group-title="",Enigma
+#EXTINF:-1 tvg-logo="http://101.ru/favicon.ico" group-title="ambient,new age,electronic",101.ru Enigma
 https://pub0302.101.ru:8443/stream/pro/aac/64/175
-#EXTINF:-1 tvg-logo="http://enigmatic.su/images/Enigmatic3mdl.jpg" group-title="ambient,atmospheric,chillout,easy listening,lounge,new age",Enigmatic 3 - Magnetic Chillout
+#EXTINF:-1 tvg-logo="http://enigmatic.su/images/Enigmatic3mdl.jpg" group-title="ambient,chillout,easy listening",Enigmatic 3 Magnetic Chillout
 http://radio.enigmatic.su:8050/radio
-#EXTINF:-1 tvg-logo="http://enigmatic.su/images/drivelogo.jpg" group-title="ambient,enigmatic",Enigmatic Drive
+#EXTINF:-1 tvg-logo="http://enigmatic.su/images/drivelogo.jpg" group-title="ambient,enigmatic,relax",Enigmatic Drive
 http://radio.enigmatic.su:8090/radio
-#EXTINF:-1 tvg-logo="http://enigmatic.su/images/logo/Imml.jpg" group-title="ambient,deep,meditation,new age,psychill",Enigmatic Immersion
+#EXTINF:-1 tvg-logo="http://enigmatic.su/images/logo/Imml.jpg" group-title="ambient,deep,meditation",Enigmatic Immersion
 http://radio.enigmatic.su:8040/radio
 #EXTINF:-1 tvg-logo="" group-title="new age,relax",Enigmatic Station 1
 http://listen2.myradio24.com:9000/8226
