@@ -1597,53 +1597,53 @@ https://listen1.myradio24.com/6262
 https://spravedlivo.hostingradio.ru:8022/spravedlivo128.mp3
 #EXTINF:-1 tvg-logo="https://bash.news/images/logo-sputnik.svg" group-title="variety,news,pop",Sputnik Fm Ufimskaya Volna
 https://radio.mediacdn.ru/sputnik_fm.mp3
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdOIR2j5dQ2kjShWVr8tqZ2ajXFVHz9ifzpst9HjlkER6u1QT4vsXB8_GoLq2PQDMs9pc&usqp=CAU" group-title="drama,talk,culture",Staroye Radio
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdOIR2j5dQ2kjShWVr8tqZ2ajXFVHz9ifzpst9HjlkER6u1QT4vsXB8_GoLq2PQDMs9pc&usqp=CAU" group-title="variety,talk,culture",Staroye Radio
 http://195.91.237.50:8000/ices128
-#EXTINF:-1 tvg-logo="http://www.staroeradio.ru/i/players/detskoe.gif" group-title="children,radiodrama,retro,spoken",Старое радио - Детское радио
+#EXTINF:-1 tvg-logo="http://www.staroeradio.ru/i/players/detskoe.gif" group-title="youth,talk,variety",Staroye Radio Detskoye
 http://195.91.237.50:8000/detskoe128
-#EXTINF:-1 tvg-logo="http://www.staroeradio.ru/i/players/music.gif" group-title="retro",Старое радио - Музыка
+#EXTINF:-1 tvg-logo="http://www.staroeradio.ru/i/players/music.gif" group-title="oldies,variety,culture",Staroye Radio Muzika
 http://195.91.237.50:8000/music128
-#EXTINF:-1 tvg-logo="" group-title="pop,variety",Страна FM
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRokpwBI_dEASCjjQ6LhI6cD_VUWAa8ADbwCA&s" group-title="pop,variety",Strana FM
 http://icecast.stranafm.cdnvideo.ru/stranafm
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJwc5zxHVV4IQyugajmXL6oshvSbNNilAgbrdA=s900-c-k-c0xffffffff-no-rj-mo" group-title="pop",Такси ФМ
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJwc5zxHVV4IQyugajmXL6oshvSbNNilAgbrdA=s900-c-k-c0xffffffff-no-rj-mo" group-title="80s,top 40,euro",Taksi 96.4
 http://online-1.gkvr.ru:8000/taxi_kaz_64.aac
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/66yHZ0Rv/tatarstan-avazy.png" group-title="folk,talk",Татарстан Авазы
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/66yHZ0Rv/tatarstan-avazy.png" group-title="folk,talk",Tatarstan Avazi
 http://listen6.myradio24.com:9000/gtrk
-#EXTINF:-1 tvg-logo="" group-title="hiphop,pop,techno",Типичное FM
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW9K3V1GbbEptlvlXX4FMMaLSSseBs8CfFyA&s" group-title="hip hop,pop,techno",Tipichnoye FM
 http://play.tipfm.ru:9000/9696
-#EXTINF:-1 tvg-logo="https://umnoeradio.sarov.info/img/dinamik_full.svg" group-title="новости,радио,разговорное,саратов,умное",Умное Радио / Саратов
+#EXTINF:-1 tvg-logo="https://umnoeradio.sarov.info/img/dinamik_full.svg" group-title="hits,euro,world",Umnoye Radio 107.0
 https://radio.sarov.info/radio/8010/clever-radio
-#EXTINF:-1 tvg-logo="https://upwaveradio.ru/wp-content/uploads/2018/07/logo-upwaveradio.png" group-title="international",упоротая волна
+#EXTINF:-1 tvg-logo="https://upwaveradio.ru/wp-content/uploads/2018/07/logo-upwaveradio.png" group-title="world,electro,pop",Uporotaya Volna
 http://i-radio.info:8020/radio
-#EXTINF:-1 tvg-logo="https://volna.top/pls/cover/logohypefm.png" group-title="amg,chr,pop,russian,top40",ХАЙП FM - HYPE FM
+#EXTINF:-1 tvg-logo="https://volna.top/pls/cover/logohypefm.png" group-title="pop,russian,top 40",Hype FM
 http://hfm.volna.top/HypeFM
-#EXTINF:-1 tvg-logo="http://www.4duk.ru/favicon.ico" group-title="",Чипльдук
+#EXTINF:-1 tvg-logo="http://www.4duk.ru/favicon.ico" group-title="folk,hits,pop",Radio Chiplduk
 http://radio.4duk.ru/4duk128.mp3
-#EXTINF:-1 tvg-logo="https://www.eff.org/files/Button_Russian_white.png" group-title="russia,russian,shanson,без,русский,цензуры,шансон",Шансон без цензуры
+#EXTINF:-1 tvg-logo="https://www.eff.org/files/Button_Russian_white.png" group-title="russian,chanson,ballads",Shanson bez tsenzury
 http://chanson.hostingradio.ru:8041/chanson-uncensored256.mp3
-#EXTINF:-1 tvg-logo="" group-title="classical",ШАНСОН БЕЗ ЦЕНЗУРЫ [CHANSONUNCENSORED]
+#EXTINF:-1 tvg-logo="https://www.eff.org/files/Button_Russian_white.png" group-title="russian,chanson,ballads",Shanson bez tsenzury
 http://chanson.hostingradio.ru:8041/chanson-uncensored128.mp3
-#EXTINF:-1 tvg-logo="" group-title="",Шансон Плюс
+#EXTINF:-1 tvg-logo="https://top-radio.ru/assets/image/radio/180/radio-shanson-plyus.png" group-title="chanson,ballads,world",Radio Shanson Plyus
 http://radio.radioshansonplus.com:8000/radio
-#EXTINF:-1 tvg-logo="https://www.radiobells.com/stations/chanson.jpg" group-title="chanson",Шансон Радио
+#EXTINF:-1 tvg-logo="https://www.radiobells.com/stations/chanson.jpg" group-title="chanson,ballads",Shanson Radyo
 http://chanson.hostingradio.ru:8041/chanson128.mp3
-#EXTINF:-1 tvg-logo="https://obl1.ru/favicon.ico" group-title="news,rock,talk",Экспресс Радио Орёл
+#EXTINF:-1 tvg-logo="https://obl1.ru/favicon.ico" group-title="news,rock,talk",Ekspress Radio Orol
 http://159.253.18.97:8000/128kbit.mp3
-#EXTINF:-1 tvg-logo="http://eldoradio.ru//favicon.ico" group-title="pop",эльдорадио (Eldo Radio) 101.4 St. Petersburg
+#EXTINF:-1 tvg-logo="http://eldoradio.ru//favicon.ico" group-title="pop,hits,oldies",Eldoradio 101.4
 http://emgspb.hostingradio.ru/eldoradio128.mp3
-#EXTINF:-1 tvg-logo="http://cdn.strannik-j.org/EchoEkb.png" group-title="аналитика,екатеринбург,интервью,информационный,музыка,независимый,новости",Эхо москвы (Екатеринбург)
+#EXTINF:-1 tvg-logo="http://cdn.strannik-j.org/EchoEkb.png" group-title="talk,news",Ekho Moskvy 91.2
 http://online.echoekb.ru:8000/echoekb
-#EXTINF:-1 tvg-logo="" group-title="bashkir,folk,live,news,pop",Юлдаш радиоһы
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-ZW3Xj7GxmRaJbeHv-ysP0pQ-t240x240.jpg" group-title="bashkir,folk,news",Uldas Radiohy 105.5
 http://radio.mediacdn.ru/uldash.mp3
-#EXTINF:-1 tvg-logo="https://top-radio.ru/assets/image/radio/180/humorfm.jpg" group-title="",Юмор FM
+#EXTINF:-1 tvg-logo="https://top-radio.ru/assets/image/radio/180/humorfm.jpg" group-title="comedy,talk",Humor 88.7
 http://pub0101.101.ru:8000/stream/air/aac/64/102
-#EXTINF:-1 tvg-logo="http://www.veseloeradio.ru/design/images/assets/img/icons/touch-icon-ipad.png" group-title="humor",Юмор FM (Humor FM)
+#EXTINF:-1 tvg-logo="http://www.veseloeradio.ru/design/images/assets/img/icons/touch-icon-ipad.png" group-title="comedy,talk",Humor 88.7
 http://listen.vdfm.ru:8000/humor
-#EXTINF:-1 tvg-logo="https://www.veseloeradio.ru/design/images/assets/img/logo2020_.svg?v=4" group-title="",Юмор ФМ
+#EXTINF:-1 tvg-logo="https://www.veseloeradio.ru/design/images/assets/img/logo2020_.svg?v=4" group-title="comedy,talk",Humor 88.7
 https://fed.fmplay.ru:8000/humor-32.aac
-#EXTINF:-1 tvg-logo="http://uniton.ru//favicon.ico" group-title="",Юнитон - Radio Uniton
+#EXTINF:-1 tvg-logo="http://uniton.ru//favicon.ico" group-title="adult,contemporary,pop",Radio Uniton 100.7
 http://online.uniton.ru:8300/RadioUniton128
-#EXTINF:-1 tvg-logo="https://yasenbit.net/wp-content/themes/yasenbit/img/YasenBit_logo.png" group-title="russian rap,русский рэп",ЯсенБит 128k
+#EXTINF:-1 tvg-logo="https://yasenbit.net/wp-content/themes/yasenbit/img/YasenBit_logo.png" group-title="russian,rap,hip hop",AsenBit
 http://radio.yasenbit.net:8000/yasenbit128k
-#EXTINF:-1 tvg-logo="https://yasenbit.net/favicon.ico" group-title="hip-hop,rap",ЯсенБит 192Kbit/s
+#EXTINF:-1 tvg-logo="https://yasenbit.net/favicon.ico" group-title="hip hop,rap,russian",AsenBit
 http://radio.yasenbit.net:8000/yasenbit192k
