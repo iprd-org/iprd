@@ -1,55 +1,53 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://ars.rtvslo.si/wp-content/themes/ars-child/img/logo@2x.png" group-title="classical,cultural,public radio,rtvslo",Ars
+#EXTINF:-1 tvg-logo="http://ars.rtvslo.si/wp-content/themes/ars-child/img/logo@2x.png" group-title="classical,cultural,public",Radio ARS 98.9
 http://mp3.rtvslo.si/ars
-#EXTINF:-1 tvg-logo="http://www.gtv.si/images/favicon.ico" group-title="",Gorenjska TV
-http://91.220.221.60/gtv_hls/gtv.m3u8
-#EXTINF:-1 tvg-logo="http://radiocenter.si/Public/assets/dist/img/152_center.ico" group-title="mix,pop,rock",Hit Radio Center (Ljubljana - 102.4MHz)
+#EXTINF:-1 tvg-logo="http://radiocenter.si/Public/assets/dist/img/152_center.ico" group-title="top 40,pop",HitRadio Center 102.4
 http://stream3.radiocenter.si:8000/;center/1
-#EXTINF:-1 tvg-logo="http://radiocenter.si/public/assets/dist/img/150_center.png" group-title="public radio",Hitradio Center
+#EXTINF:-1 tvg-logo="http://radiocenter.si/public/assets/dist/img/150_center.png" group-title="top 40,pop",HitRadio Center 102.4
 http://stream3.radiocenter.si:8000/center
-#EXTINF:-1 tvg-logo="http://radiocenter.si/public/assets/dist/img/150_center.png" group-title="public radio",Hitradio center 80's
+#EXTINF:-1 tvg-logo="http://radiocenter.si/public/assets/dist/img/150_center.png" group-title="80s,hits,pop",HitRadio Center 80's
 http://stream3.radiocenter.si:8064/;stream/1
-#EXTINF:-1 tvg-logo="http://radiocenter.si/public/assets/dist/img/150_center.png" group-title="public radio",Hitradio center fresh pop
+#EXTINF:-1 tvg-logo="http://radiocenter.si/public/assets/dist/img/150_center.png" group-title="hits,pop,fresh",HitRadio Center Fresh Pop
 http://stream3.radiocenter.si:8058/;stream/1
-#EXTINF:-1 tvg-logo="http://radiocenter.si/public/assets/dist/img/150_center.png" group-title="public radio",Hitradio center latin
+#EXTINF:-1 tvg-logo="http://radiocenter.si/public/assets/dist/img/150_center.png" group-title="latin,world,hits",HitRadio Center Latin
 http://stream3.radiocenter.si:8200/;stream/1
-#EXTINF:-1 tvg-logo="http://radiocenter.si/public/assets/dist/img/150_center.png" group-title="",Hitradio center love
+#EXTINF:-1 tvg-logo="http://radiocenter.si/public/assets/dist/img/150_center.png" group-title="chanson,ballads,schlager",HitRadio Center Love
 http://stream3.radiocenter.si:8060/;stream/1
-#EXTINF:-1 tvg-logo="http://radiocenter.si/public/assets/dist/img/150_center.png" group-title="public radio",Hitradio center megamix
+#EXTINF:-1 tvg-logo="http://radiocenter.si/public/assets/dist/img/150_center.png" group-title="dj,mixes,dance",HitRadio Center Megamix
 http://stream3.radiocenter.si:8066/;stream/1
-#EXTINF:-1 tvg-logo="http://radiocenter.si/public/assets/dist/img/150_center.png" group-title="public radio",Hitradio center rock
+#EXTINF:-1 tvg-logo="http://radiocenter.si/public/assets/dist/img/150_center.png" group-title="rock,hits,pop",HitRadio Center Rock
 http://stream.rockradio.si:9034/;stream/1
-#EXTINF:-1 tvg-logo="http://radiocenter.si/public/assets/dist/img/150_center.png" group-title="",Hitradio center top 100
+#EXTINF:-1 tvg-logo="http://radiocenter.si/public/assets/dist/img/150_center.png" group-title="top 100,hits,pop",HitRadio Center Top 100
 http://stream3.radiocenter.si:9020/;stream/1
-#EXTINF:-1 tvg-logo="http://radiocenter.si/public/assets/dist/img/150_center.png" group-title="public radio",Hitradio center yu
+#EXTINF:-1 tvg-logo="http://radiocenter.si/public/assets/dist/img/150_center.png" group-title="dance,rock,r'n'b",HitRadio Center Yu
 http://stream3.radiocenter.si:8100/;stream/1
-#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s66865q.png" group-title="minority,public radio,rtvslo",Muravidéki Magyar Rádió
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s66865q.png" group-title="magyar,folk,talk",MMR
 http://mp3.rtvslo.si/mmr
-#EXTINF:-1 tvg-logo="" group-title="rock",Odprti radio
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/t-3KgFjFlWbrniXtDxDQC6l5sEANlVoczKflK7UHEiJRZynBVj_oFVaOj24U86JaBKlK=w240-h480-rw" group-title="rock,oldies",Odprti Radio
 https://zvok.ragla.si/ord
-#EXTINF:-1 tvg-logo="http://www.primorskival.si/favicon.ico" group-title="public radio",Primorski val
+#EXTINF:-1 tvg-logo="http://www.primorskival.si/favicon.ico" group-title="public,variety",Primorski val 97.2
 http://212.44.99.35:8000/stream
-#EXTINF:-1 tvg-logo="https://www.radio1.si/favicon.ico" group-title="entertainment,music,news",Radio 1
+#EXTINF:-1 tvg-logo="https://www.radio1.si/favicon.ico" group-title="rock,pop,news",Radio 1 107.9
 http://live.radio.si/Radio1
-#EXTINF:-1 tvg-logo="https://www.radio1.si/favicon.ico" group-title="",Radio 1 - Maribor (107.9MHz)
+#EXTINF:-1 tvg-logo="https://www.radio1.si/favicon.ico" group-title="rock,pop,news",Radio 1 Maribor 107.9
 https://live.radio1.si/Radio1
-#EXTINF:-1 tvg-logo="https://www.radio2.si/img/favicon.png" group-title="",Radio 2
+#EXTINF:-1 tvg-logo="https://www.radio2.si/img/favicon.png" group-title="pop,talk,hits",Radio 2 92.6
 http://live.radio2.si/Radio2?1448457274706.mp3
-#EXTINF:-1 tvg-logo="http://radioaktual.si/img/logo.png" group-title="dalmatia,ex-yu music,slovenian music",Radio Aktual
+#EXTINF:-1 tvg-logo="http://radioaktual.si/img/logo.png" group-title="top 40,pop,dance",Radio Aktual
 http://185.97.52.63/Aktual
-#EXTINF:-1 tvg-logo="https://www.hitradioantena.si/img/header/logo.png" group-title="pop,top 40",Radio Antena
+#EXTINF:-1 tvg-logo="https://www.hitradioantena.si/img/header/logo.png" group-title="pop,top 40",Radio Antena 105.2
 http://live.radioantena.si/Antena
-#EXTINF:-1 tvg-logo="https://www.radioantena.si/favicon.ico" group-title="mix,pop,rock,song hits",Radio Antena (105.2MHz)
+#EXTINF:-1 tvg-logo="https://www.radioantena.si/favicon.ico" group-title="pop,top 40",Radio Antena 105.2
 https://live.radio.si/Antena
-#EXTINF:-1 tvg-logo="https://radiobob.si/Img/favicon.ico" group-title="rock",Radio BOB
+#EXTINF:-1 tvg-logo="https://radiobob.si/Img/favicon.ico" group-title="rock,hits,euro",Radio Bob 87.6
 http://live6.infonetmedia.si/Europa05
-#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s16010q.png" group-title="adult contemporary,international,italian programming,local programming,public radio,rtvslo",Radio Capodistria
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s16010q.png" group-title="adult,contemporary,world",Radio Capodistria
 http://mp3.rtvslo.si/capo
-#EXTINF:-1 tvg-logo="https://www.radiocapris.si/data/images/favicon/apple-icon-120x120.png" group-title="",Radio Capris 80
+#EXTINF:-1 tvg-logo="https://www.radiocapris.si/data/images/favicon/apple-icon-120x120.png" group-title="rock,pop,news",Radio Capris 80s
 http://stream02.exit.si:8000/80?
-#EXTINF:-1 tvg-logo="https://www.radiocapris.si/data/images/favicon/apple-icon-120x120.png" group-title="",Radio Capris 90 DANCE
+#EXTINF:-1 tvg-logo="https://www.radiocapris.si/data/images/favicon/apple-icon-120x120.png" group-title="dance,pop,top 40",Radio Capris 90s Dance
 http://stream02.exit.si:8000/MEGAMIX?
-#EXTINF:-1 tvg-logo="https://www.radiocapris.si/data/images/favicon/apple-icon-120x120.png" group-title="",Radio Capris 90 POP
+#EXTINF:-1 tvg-logo="https://www.radiocapris.si/data/images/favicon/apple-icon-120x120.png" group-title="90s,hits,pop",Radio Capris 90's Pop
 http://stream02.exit.si:8000/90?
 #EXTINF:-1 tvg-logo="https://www.radiocapris.si/data/images/favicon/apple-icon-120x120.png" group-title="",Radio Capris Dalmacija
 http://stream02.exit.si:8000/DALMACIJA?
