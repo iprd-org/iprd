@@ -1,117 +1,103 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="",06 FM Arabesk
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/51371792.png" group-title="world,turkish",06 FM Arabesk
 http://radyomarabesk.kesintisizyayin.com:9968/stream?type=http&nocache=20866
-#EXTINF:-1 tvg-logo="https://iahbr.tmgrup.com.tr/site/v1/i/ahaber-logo.png" group-title="",a HABER
+#EXTINF:-1 tvg-logo="https://iahbr.tmgrup.com.tr/site/v1/i/ahaber-logo.png" group-title="news,talk",A Haber Radyo
 https://trkvz-radyolar.ercdn.net/ahaberradyo/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://isbh.tmgrup.com.tr/sbh/site/v3/apara/i/favicon.png" group-title="",a PARA
+#EXTINF:-1 tvg-logo="https://isbh.tmgrup.com.tr/sbh/site/v3/apara/i/favicon.png" group-title="business,talk",A Para Radyo
 https://trkvz-radyolar.ercdn.net/apararadyo/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://acikradyo.com.tr/themes/custom/acikradyo/img/favicon/apple-touch-icon.png" group-title="avant-garde,classical,rock,talk",Açık Radyo
+#EXTINF:-1 tvg-logo="http://acikradyo.com.tr/themes/custom/acikradyo/img/favicon/apple-touch-icon.png" group-title="avant-garde,classical,rock",Acik Radyo
 http://stream.34bit.net/ar64.mp3
-#EXTINF:-1 tvg-logo="http://www.afneurope.net/portals/100/Images/Incirlik_AFN360Revamped-01.png" group-title="american forces network",AFN 360 Incirlik
+#EXTINF:-1 tvg-logo="http://www.afneurope.net/portals/100/Images/Incirlik_AFN360Revamped-01.png" group-title="community,talk",AFN 360 Incirlik
 https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_ICK_SC
-#EXTINF:-1 tvg-logo="" group-title="news",Ahaber
-http://trkvz-radyolar.ercdn.net/ahaberradyo/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="islamic",Akra FM
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/72575387.jpg" group-title="variety,talk",Akra FM
 https://d3r5bwwuab2v60.cloudfront.net/akracanli2/_definst_/livestream_aac/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="classical",Aksehir DoganFM
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/9d/50/9d50a606119d3bf5965c98ece13eb429.jpg" group-title="pop,news,folk",Dogan 93.5
 http://yayin.turkhosted.com:6046/listen.pls
-#EXTINF:-1 tvg-logo="https://www.alemfm.com/assets/img/alemfm-apple-touch-icon.png" group-title="",Alem FM
+#EXTINF:-1 tvg-logo="https://www.alemfm.com/assets/img/alemfm-apple-touch-icon.png" group-title="world,pop,hits",Alem 89.3
 http://turkmedya.radyotvonline.com/turkmedya/alemfm.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://radyohome.com/static/media/site/meta/apple-icon-120x120.png?v=261119010318" group-title="golden oldies,retro",ALTIN SARKILAR
+#EXTINF:-1 tvg-logo="https://radyohome.com/static/media/site/meta/apple-icon-120x120.png?v=261119010318" group-title="oldies,hits",Radyo Altin Sarkilar
 http://37.247.98.8/stream/25/listen.pls
-#EXTINF:-1 tvg-logo="" group-title="classical",Amed Radyo
-http://radyo.amedradyotv.net:8000/
-#EXTINF:-1 tvg-logo="" group-title="folk",Ankara Havalari
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/nvs2k6HksP1ZcPEhxDHTTG0mkC8CU69rt5whKzNj32YbtFfdt24MKs4HlTuR-cZ1JZeFv7TtmdAZfROkN9YFmG1ckDTs8CEFbzsgYhv10LELBJ_UL-Sb5X2EkQ" group-title="world,talk,weather",Radyo Ankara Havalari
 http://37.247.98.8/stream/30/listen.pls
-#EXTINF:-1 tvg-logo="" group-title="",ARABESK DAMAR FM
+#EXTINF:-1 tvg-logo="https://kuasark.com/files/stations-logos/arabesk-damar-fm.png" group-title="variety,talk",Damar FM Arabesk
 http://95.173.188.170:9306/
-#EXTINF:-1 tvg-logo="" group-title="müzik,türkçe",Arabesk FM
+#EXTINF:-1 tvg-logo="https://www.radio.net/300/arabeskfm2.png?version=dc73e46b64355925357cb72976a5177e" group-title="world,hits,turkish",Arabesk FM
 http://yayin.arabeskfm.biz:8042/
-#EXTINF:-1 tvg-logo="" group-title="classical",Avrasya Türk Radyo
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/UKYnmmNlMb3tONqpd-b3q1PrkJv1RYe3uCulWohITAQkPCh263T8uCaBbXqfuSXzox0" group-title="variety,talk",Radyo Avrasya Turk 107.1
 https://sslyayin.netyayin.net:10909/
-#EXTINF:-1 tvg-logo="" group-title="folk",Baba Radyo
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZNAK3Xo2IgsjSa5B8CR_b2F7HBWghqg2Z_g&s" group-title="oldies,folk,turkish",Baba Radyo 105.6
 http://46.20.7.116/
-#EXTINF:-1 tvg-logo="" group-title="classical",Batı Radyo
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/bc/Bat%C4%B1_Radyo_logo.png" group-title="variety,talk",Bati Radyo 93.6
 https://sslyayin.netyayin.net:10902/
-#EXTINF:-1 tvg-logo="http://www.bestfm.com.tr//assets/client/img/logo.png" group-title="pop",Best FM
+#EXTINF:-1 tvg-logo="http://www.bestfm.com.tr//assets/client/img/logo.png" group-title="pop,world,turkish",Best FM
 http://46.20.7.125/
-#EXTINF:-1 tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/best-fm-dinle-100x100.png" group-title="",Best Fm
+#EXTINF:-1 tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/best-fm-dinle-100x100.png" group-title="pop,world,turkish",Best FM
 http://46.20.7.126/;stream.mp3
-#EXTINF:-1 tvg-logo="http://bingolfm.com/medya/icon.png" group-title="islamic",Bingöl FM
+#EXTINF:-1 tvg-logo="http://bingolfm.com/medya/icon.png" group-title="variety,talk",Bingol FM 102.0
 http://yayin1.canliyayin.org:8844/;*.mp3
-#EXTINF:-1 tvg-logo="" group-title="news",BloombergHTradyo 
+#EXTINF:-1 tvg-logo="https://dvw7f7sqjk3ag.cloudfront.net/images/radio/56682.jpg" group-title="news,talk",BloombergHT Radyo 92.7
 https://ciner-live.ercdn.net/bloombergradyo/bloombergradyo_1.m3u8
-#EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/site_media/icons/apple-icon-120x120.png" group-title="classical",Borusan Klasik
+#EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/site_media/icons/apple-icon-120x120.png" group-title="variety,talk",Borusan Klasik
 https://playerservices.streamtheworld.com/api/livestream-redirect/BORUSAN_KLASIKAAC_SC
-#EXTINF:-1 tvg-logo="" group-title="islamic",Botan FM
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/10022899.png" group-title="talk,folk,islam",Botan FM 100.0
 http://yayin1.canliyayin.org:8026/;*.mp3
-#EXTINF:-1 tvg-logo="" group-title="",BRTK
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFGjfI9-lcgZLDhmiYo_7u6R86FK1r-ME8iQ&s" group-title="news,sports,talk",BRTK
 http://sc.brtk.net:8000/
-#EXTINF:-1 tvg-logo="" group-title="classical",Bursa Fm
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/8975315.jpg" group-title="top 40,pop",Radyo Bursa 105.5
 http://yayin.bursafm.com.tr:1055/
-#EXTINF:-1 tvg-logo="http://www.dermangibiradyo.com" group-title="",Bursa Radyo Derman
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/23331597.jpg" group-title="variety,talk",Radyo Derman 1001
 https://stream.radyolarburada.com/radio/8280/1
-#EXTINF:-1 tvg-logo="" group-title="classical",Can Radyo
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/107864282.png" group-title="variety,talk",Radyo Can 93.4
 http://yayin1.yayindakiler.com:3124/listen.pls
-#EXTINF:-1 tvg-logo="" group-title="classical",Can Tv
-https://livetv.canbroadcast.com:7443/canlican/tv.m3u8
-#EXTINF:-1 tvg-logo="https://www.cazkolik.com/resimler/genel/cazkoliklogo-buyuk.png" group-title="jazz,online",cazkolik
+#EXTINF:-1 tvg-logo="https://www.cazkolik.com/resimler/genel/cazkoliklogo-buyuk.png" group-title="jazz,blues",Radyo Cazkolik
 https://streams.radio.co/s2cf477bcd/listen
-#EXTINF:-1 tvg-logo="https://www.damarturkfm.com/wp-content/uploads/2021/02/cropped-d79x1zt-ce1a98f2-2213-42a5-a71b-8b15c64ce713-180x180.png" group-title="",DAMAR TURK FM
+#EXTINF:-1 tvg-logo="https://www.damarturkfm.com/wp-content/uploads/2021/02/cropped-d79x1zt-ce1a98f2-2213-42a5-a71b-8b15c64ce713-180x180.png" group-title="variety,talk",Damar Turk FM
 https://live.radyositesihazir.com:10997/
-#EXTINF:-1 tvg-logo="https://www.damarturkfm.com/wp-content/uploads/2021/06/LOGO4.png" group-title="",DamarTurk FM
+#EXTINF:-1 tvg-logo="https://www.damarturkfm.com/wp-content/uploads/2021/06/LOGO4.png" group-title="variety,talk",Damar Turk FM
 https://live.radyositesihazir.com:10997/stream?type=http&nocache=99881
-#EXTINF:-1 tvg-logo="" group-title="classical",Denge Gundeme
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/19361401.jpg" group-title="variety,world,turkish",Sensiniz FM
 http://kesintisizyayin.com:1656/
-#EXTINF:-1 tvg-logo="" group-title="classical",Denge Mef
-https://dengemed.stream.laut.fm/dengemed
 #EXTINF:-1 tvg-logo="http://www.dinamo.fm/assets/img/logosquare.jpg" group-title="chillout,lounge,relax",Dinamo.fm Caffe
 http://channels.dinamo.fm/caffe-mp3
-#EXTINF:-1 tvg-logo="http://www.dinamo.fm/assets/img/logosquare.jpg" group-title="deep house,deep music,house",Dinamo.fm Deep
+#EXTINF:-1 tvg-logo="http://www.dinamo.fm/assets/img/logosquare.jpg" group-title="deep,house,dance",Dinamo.fm Deep
 http://channels.dinamo.fm/deep-mp3
-#EXTINF:-1 tvg-logo="http://www.dinamo.fm/assets/img/logosquare.jpg" group-title="70s,disco,disco funk",Dinamo.fm Discotheque
+#EXTINF:-1 tvg-logo="http://www.dinamo.fm/assets/img/logosquare.jpg" group-title="70s,disco,funk",Dinamo.fm Discotheque
 http://channels.dinamo.fm/discotheque-mp3
-#EXTINF:-1 tvg-logo="https://dinamo.fm/assets/img/logo.png" group-title="",Dinamo.fm Fluent
+#EXTINF:-1 tvg-logo="https://dinamo.fm/assets/img/logo.png" group-title="electronic,indie",Dinamo.fm Fluent
 http://channels.dinamo.fm/fluent-mp3
-#EXTINF:-1 tvg-logo="https://www.dinamo.fm/favicon-96x96.png" group-title="",Dinamo.fm Legacy
+#EXTINF:-1 tvg-logo="https://www.dinamo.fm/favicon-96x96.png" group-title="dj,mixes,variety",Dinamo.fm Legacy
 http://channels.dinamo.fm/legacy-mp3
-#EXTINF:-1 tvg-logo="http://www.dinamo.fm/assets/img/logosquare.jpg" group-title="dj sets,drum and bass,dub,electric,mix,nu disco,remixes",Dinamo.fm Locodyno
+#EXTINF:-1 tvg-logo="http://www.dinamo.fm/assets/img/logosquare.jpg" group-title="dj,drum'n'bass,dub",Dinamo.fm Locodyno
 http://channels.dinamo.fm/locodyno-mp3
-#EXTINF:-1 tvg-logo="http://www.dinamo.fm/assets/img/logosquare.jpg" group-title="ambient,chillout,lullaby,relaxing,sleep,zen",Dinamo.fm Sleep
+#EXTINF:-1 tvg-logo="http://www.dinamo.fm/assets/img/logosquare.jpg" group-title="ambient,chillout,lullaby",Dinamo.fm Sleep
 http://channels.dinamo.fm/sleep-mp3
-#EXTINF:-1 tvg-logo="http://www.dinamo.fm/assets/img/logosquare.jpg" group-title="deeper,electronic deep",Dinamo.fm Smog
+#EXTINF:-1 tvg-logo="http://www.dinamo.fm/assets/img/logosquare.jpg" group-title="deeper,electronic",Dinamo.fm Smog
 http://channels.dinamo.fm/smog-mp3
-#EXTINF:-1 tvg-logo="" group-title="islamic",Diyanet Kur'an Radyo
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI5kFuyS1Ijk8jG4EUZZMbIc12iHgMReiCrw&s" group-title="islamic,religious",Diyanet Kur'an Radyo
 https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c14192aa92.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",Diyanet Radyo
-https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c1171d7d2a.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="classical",Doğan 22
+#EXTINF:-1 tvg-logo="https://www.radio.net/300/dogan21.png?version=37ab35b48ef85ac0ea69e5b81b64b2a7" group-title="edm,pop",Doğan21 103.0
 http://yayin1.yayindakiler.com:3024/listen.pls
-#EXTINF:-1 tvg-logo="" group-title="classical",Doğu Radyo
+#EXTINF:-1 tvg-logo="https://online-radio.eu/logo/8/8539.jpg" group-title="variety,talk",Dogu Radyo 90.9
 http://198.7.59.28:8146/
-#EXTINF:-1 tvg-logo="http://dostfm.com/wp-content/uploads/2016/03/dost-fm-2.png" group-title="",Dost
-http://yayin1.yayindakiler.com:3156/
-#EXTINF:-1 tvg-logo="" group-title="classical",Dost Radyo
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s136492g.png" group-title="turkish,world,variety",Dost Radyo 103.0
 http://yayin1.yayindakiler.com:3156/listen.pls
-#EXTINF:-1 tvg-logo="" group-title="classical",Duhok
-https://anadolu.liderhost.com.tr:10939/
-#EXTINF:-1 tvg-logo="" group-title="islamic",Enderun FM
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKbhfT2_xMgWyVRwZBDlktH-91hD0_SAS57Q&s" group-title="news,talk,folk",Enderun FM 88.2
 http://yayin2.canliyayin.org:7052/;*.mp3
-#EXTINF:-1 tvg-logo="" group-title="classical",Erzincan Cem Radyo
+#EXTINF:-1 tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/erzincan-radyo-cem-dinle.jpg" group-title="folk,world,hits",Radyo Cem 95.5
 https://erzincan.80.yayin.com.tr/stream
-#EXTINF:-1 tvg-logo="" group-title="classical",Erzincan Nostalji
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/0ESBrqi-iqLY6MhNOt-hgXXxS7iOFK9RCQt70KE-kJW5IQVdCTDjpRbwFUS8SiBX0g" group-title="folk,oldies,world",Radyo Nostalji
 http://95.173.188.155:9946/;stream.mp3
-#EXTINF:-1 tvg-logo="" group-title="classical",Erzincan Radyo 2000
+#EXTINF:-1 tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/erzincan-radyo-2000-dinle.jpg" group-title="folk,arabic,world",Radyo 2000 92.2
 http://yayin.yayindakiler.com:3030/;*.mp3?%26token=3sQUZFuIIlYXYQ_Sq1Znxw%26expires=1616312970%27%20type=%27audio/mp3%27&rd2=%27https://radyo.vip/str
-#EXTINF:-1 tvg-logo="" group-title="",Fenomen Akustik
+#EXTINF:-1 tvg-logo="https://www.radio.net/300/fenomenakustik.png?version=8def07efa012a4b5a95fa801dbd476d7" group-title="instrumental,pop,turkish",Radyo Fenomen Akustik
 http://fenomenakustik.listenfenomen.com/fenomenakustik/128/icecast.audio
-#EXTINF:-1 tvg-logo="https://cdn.radyofenomen.com/artwork/logo20.png" group-title="",Fenomen FM
+#EXTINF:-1 tvg-logo="https://cdn.radyofenomen.com/artwork/logo20.png" group-title="trance,house",Radyo Fenomen 
 http://fenomen.listenfenomen.com/fenomen/128/icecast.audio
-#EXTINF:-1 tvg-logo="" group-title="islamic",Gözyaşı FM
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/zGyvJssn9kafWOByVFtd8ZVDyxuwyvgDiuluyWaAQs8E_XxDCoCrNNzjXpWoZyHMRw" group-title="variety,talk",Gozyasi FM 102.9
 http://yayin1.canliyayin.org:8700/;*.mp3
-#EXTINF:-1 tvg-logo="" group-title="classical",Gundi Fm
+#EXTINF:-1 tvg-logo="https://www.allradio.net/500/_RjB6_hkTuGy_ZAGhWM58.webp" group-title="kurdish,world,hits",Gundi FM
 http://gundifm.ozelip.com:7830/listen.pls
-#EXTINF:-1 tvg-logo="http://www.haberturkradyo.com.tr/wp-content/uploads/2017/07/RADYO_LOGO_Son.png" group-title="",HaberTurk
+#EXTINF:-1 tvg-logo="http://www.haberturkradyo.com.tr/wp-content/uploads/2017/07/RADYO_LOGO_Son.png" group-title="news,talk",Haberturk Radyo 90.4
 https://ciner-live.ercdn.net/haberturkradyo/haberturkradyo_1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="classical",Halk Radyo
 https://anadolu.liderhost.com.tr:10876/listen.pls
