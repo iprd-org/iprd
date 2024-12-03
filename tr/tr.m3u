@@ -99,121 +99,105 @@ http://yayin1.canliyayin.org:8700/;*.mp3
 http://gundifm.ozelip.com:7830/listen.pls
 #EXTINF:-1 tvg-logo="http://www.haberturkradyo.com.tr/wp-content/uploads/2017/07/RADYO_LOGO_Son.png" group-title="news,talk",Haberturk Radyo 90.4
 https://ciner-live.ercdn.net/haberturkradyo/haberturkradyo_1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="classical",Halk Radyo
-https://anadolu.liderhost.com.tr:10876/listen.pls
-#EXTINF:-1 tvg-logo="" group-title="classical",https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
-https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
-#EXTINF:-1 tvg-logo="http://www.radyo.itu.edu.tr/sitefinity/websitetemplates/geneltemplate/app_themes/itugeneltemplate/images/favicon.ico" group-title="classical,college radio,istanbul,istanbul teknik universitesi",ITU College Radio -Classical
+#EXTINF:-1 tvg-logo="http://www.radyo.itu.edu.tr/sitefinity/websitetemplates/geneltemplate/app_themes/itugeneltemplate/images/favicon.ico" group-title="college,classical,variety",ITU College Radio
 http://160.75.86.29:8088/stream/5/
-#EXTINF:-1 tvg-logo="http://eskiweb.radyo.itu.edu.tr/images/error1.png" group-title="college radio,i̇stanbul,i̇stanbul teknik üniversitesi,rock",ITU College Radio -Rock
+#EXTINF:-1 tvg-logo="http://eskiweb.radyo.itu.edu.tr/images/error1.png" group-title="college,rock,variety",ITU College Radio Rock
 http://160.75.86.29:8088/stream/1/
-#EXTINF:-1 tvg-logo="http://eskiweb.radyo.itu.edu.tr/images/error6.png" group-title="",ITU Jaz/Blues
+#EXTINF:-1 tvg-logo="http://eskiweb.radyo.itu.edu.tr/images/error6.png" group-title="jazz,blues,variety",ITU Jazz/Blues
 http://160.75.86.29:8088/stream/3/
-#EXTINF:-1 tvg-logo="http://www.radyo.itu.edu.tr/sitefinity/websitetemplates/geneltemplate/app_themes/itugeneltemplate/images/favicon.ico" group-title="jazz",İTÜ Radyosu - Caz/Blues
+#EXTINF:-1 tvg-logo="http://www.radyo.itu.edu.tr/sitefinity/websitetemplates/geneltemplate/app_themes/itugeneltemplate/images/favicon.ico" group-title="jazz,blues,variety",ITU Radyosu Caz/Blues
 http://160.75.86.29:8088/itucazmp3
-#EXTINF:-1 tvg-logo="http://www.radyo.itu.edu.tr/sitefinity/websitetemplates/geneltemplate/app_themes/itugeneltemplate/images/favicon.ico" group-title="classical",İTÜ Radyosu Klasik
+#EXTINF:-1 tvg-logo="http://www.radyo.itu.edu.tr/sitefinity/websitetemplates/geneltemplate/app_themes/itugeneltemplate/images/favicon.ico" group-title="classical,college,variety",ITU Radyosu Klasik
 http://160.75.86.29:8088/ituklasikmp3
-#EXTINF:-1 tvg-logo="" group-title="pop",JOY FM ALL TIME CLASSICS
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/cf/70/cf70208e59cb6fe3fe34354294d75576.png" group-title="70s,80s,90s",Joy FM All Time Classics
 https://playerservices.streamtheworld.com/api/livestream-redirect/SC062_SO1AAC.aac
-#EXTINF:-1 tvg-logo="" group-title="pop",JOYTURK ESKIMEZ
+#EXTINF:-1 tvg-logo="https://www.radio.net/300/joyturk.png?version=96784032c8e37c0af0e044cdd68bb90e" group-title="pop,romantic,ballads",Joy Turk Eskimez
 https://playerservices.streamtheworld.com/api/livestream-redirect/SC058_SO1AAC.aac
-#EXTINF:-1 tvg-logo="" group-title="classical",kafa1
+#EXTINF:-1 tvg-logo="https://pickasso.spotifycdn.com/image/ab67c0de0000deef/dt/v1/img/radio/artist/1WntYpvVHloEvmoMr3ioGi/en" group-title="rock,pop,world",Kafa Radyo
 http://37.247.98.17/
-#EXTINF:-1 tvg-logo="" group-title="pop",KARNAVAL - 2000'LER
+#EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/album_media/24037/albumcover_400x400/cover_24037.jpg?v=080616054218" group-title="pop,00s,world",Karnaval 2000'ler
 https://playerservices.streamtheworld.com/api/livestream-redirect/SC087_SO1AAC.aac
-#EXTINF:-1 tvg-logo="" group-title="pop",KARNAVAL - 80'LER
+#EXTINF:-1 tvg-logo="https://images.streamitter.com/logos/364WCT.png" group-title="pop,world,hits",Karnaval 80'ler
 https://playerservices.streamtheworld.com/api/livestream-redirect/SC089_SO1AAC.aac
-#EXTINF:-1 tvg-logo="" group-title="pop",KARNAVAL - 80S
+#EXTINF:-1 tvg-logo="https://pickasso.spotifycdn.com/image/ab67c0de0000deef/dt/v1/img/radio/artist/5YSQoL2yfy1SQ3Dr1E9eBD/en" group-title="pop,hits,80s",Karnaval 80S
 https://playerservices.streamtheworld.com/api/livestream-redirect/SC094_SO1AAC.aac
-#EXTINF:-1 tvg-logo="" group-title="pop",KARNAVAL - 90'S
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/87/95/8795434dd6730dcd06ac6b563c260efc.jpg" group-title="pop,hits,90s",Karnaval 90S
 https://playerservices.streamtheworld.com/api/livestream-redirect/SC095_SO1AAC.aac
-#EXTINF:-1 tvg-logo="" group-title="pop",KARNAVAL - LOOP
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/MzvwkzhVQX9ldw2b6H6SGWIn4yM67lH44RwyMDrl7qlzvf138xAaBZU6auQfxYH7og" group-title="pop,hits,world",Karnaval LOOP
 https://playerservices.streamtheworld.com/api/livestream-redirect/SC050_SO1AAC.aac
-#EXTINF:-1 tvg-logo="" group-title="",Kavanoz Radyo 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi0jDN7BYsnHx6BuP1CqRHSHn_mcDgIddyqw&s" group-title="pop,world,hits",Kavanoz Radyo 
 https://live.radyositesihazir.com/8072/stream
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/9477e9_5d00a2e59e4d4bada251627401f75c91~mv2.png/v1/fill/w_150,h_114,al_c,q_85,usm_0.66_1.00_0.01/KENT_FM_LOGO.webp" group-title="",Kent FM
-https://moondigitalmaster.radyotvonline.net/kentfm/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="pop",KEYF STATION
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/59550171.png" group-title="pop,world,hits",Radio Keyf
 http://yayin.radyomadyo.com:8002/stream
-#EXTINF:-1 tvg-logo="https://cdn1.kralmuzik.com.tr/media/content/i/web/Assets/i/logolar/kral-fm-small.png" group-title="",Kral FM
+#EXTINF:-1 tvg-logo="https://cdn1.kralmuzik.com.tr/media/content/i/web/Assets/i/logolar/kral-fm-small.png" group-title="pop,world,turkish",Kral FM
 http://46.20.3.204/
-#EXTINF:-1 tvg-logo="https://cdn1.kralmuzik.com.tr/media/content/i/web/Assets/i/logolar/kral-pop-radyo-small.png" group-title="kralendijk,pop,turkish pop,turkiye",Kral Pop
+#EXTINF:-1 tvg-logo="https://cdn1.kralmuzik.com.tr/media/content/i/web/Assets/i/logolar/kral-pop-radyo-small.png" group-title="pop,turkish,hits",Kral Pop
 http://46.20.3.201/
-#EXTINF:-1 tvg-logo="" group-title="classical",Kurd Fm
+#EXTINF:-1 tvg-logo="https://kuasark.com/files/stations-logos/kurd-fm-de.png" group-title="kurdish,world,talk",Kurd FM
 http://radio.kurdfm.com:4747/listen.pls
-#EXTINF:-1 tvg-logo="" group-title="classical",Kurd1 
-https://listen.radioking.com/radio/119251/stream/158701
-#EXTINF:-1 tvg-logo="" group-title="classical",Kurdm Radio
-http://pollux.shoutca.st:8842/listen.pls
-#EXTINF:-1 tvg-logo="https://www.ligradyo.com.tr/assets/img/ligradyo-apple-touch-icon.png" group-title="",Lig Radyo
+#EXTINF:-1 tvg-logo="https://www.ligradyo.com.tr/assets/img/ligradyo-apple-touch-icon.png" group-title="sports,talk,hits",Lig Radyo
 https://turkmedya.radyotvonline.com/turkmedya/ligradyo.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ligradyo.radyotvonline.net/ligradyo" group-title="classical",Lig Radyo
+#EXTINF:-1 tvg-logo="https://ligradyo.radyotvonline.net/ligradyo" group-title="sports,talk,hits",Lig Radyo
 https://ligradyo.radyotvonline.net/ligradyo
-#EXTINF:-1 tvg-logo="" group-title="country",lokum fm
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/YebEQMC_U4VosM2IwOwYfVOcWuJuJW_7AtrAHqo9GQ8J9C9VMnUKL5IXtiAs-TI-Rfg" group-title="pop,news,sports",Lokum FM 95.7
 http://37.247.98.9/stream/493/?/;stream.mp3
-#EXTINF:-1 tvg-logo="" group-title="",Magic FM
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s119940q.png" group-title="world,hits,pop",Magic FM 92.0
 http://yayin1.yayindakiler.com:3032/
-#EXTINF:-1 tvg-logo="" group-title="classical",Mamaş Fm
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxEULIgC4MUjJnocVSoTDQISwX-0_xRxxR3Q&s" group-title="variety,talk",Mamas FM
 http://mamasfm.com:9984/listen.pls
-#EXTINF:-1 tvg-logo="" group-title="",MAMAS FM POP RADYOSU
+#EXTINF:-1 tvg-logo="https://kuasark.com/files/stations-logos/mamas-fm-pop-radyosu.png" group-title="pop,world,turkish",Mamas FM Pop Radyosu
 http://www.mamasfm.com:4500/
-#EXTINF:-1 tvg-logo="http://www.maxfm.com.tr/favicon.ico" group-title="",Max Fm 95.8 Maximum Music
+#EXTINF:-1 tvg-logo="http://www.maxfm.com.tr/favicon.ico" group-title="rock,pop,hits",Max FM 95.8
 http://live2.radyotvonline.com:8025/
-#EXTINF:-1 tvg-logo="http://www.maxfm.com.tr/static/images/logo.png" group-title="",MaxFM
+#EXTINF:-1 tvg-logo="http://www.maxfm.com.tr/static/images/logo.png" group-title="rock,pop,hits",Max FM 95.8
 http://live.radyotvonline.com:8090/listen.pls
-#EXTINF:-1 tvg-logo="" group-title="classical",Med Radyo
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s265742g.png" group-title="pop,world,hits",Med Radyo
 http://medradyo.kesintisizyayin.com:8062/stream
-#EXTINF:-1 tvg-logo="https://megaaskfm.listen2myshow.com/assets/images/uploads/user_322791905/radio_468527181/logo_banner/logo/1232786724.png" group-title="arabesk,arabesk fantazi,manisa",Mega Aşk Fm
+#EXTINF:-1 tvg-logo="https://megaaskfm.listen2myshow.com/assets/images/uploads/user_322791905/radio_468527181/logo_banner/logo/1232786724.png" group-title="hits,pop,oldies",Mega Ask FM
 https://fps4.listen2myradio.com:2199/listen.php?ip=109.169.23.123&port=8350&type=s1
-#EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/2/icons/apple-touch-icon-120x120.png" group-title="",Metro FM
+#EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/2/icons/apple-touch-icon-120x120.png" group-title="top 40,pop",Metro 97.2
 https://playerservices.streamtheworld.com/api/livestream-redirect/METRO_FMAAC_SC
-#EXTINF:-1 tvg-logo="https://www.norradyo.com/favicon.ico" group-title="international",Nor Radyo
+#EXTINF:-1 tvg-logo="https://www.norradyo.com/favicon.ico" group-title="variety,hits,world",Nor Radyo
 http://www.norradyo.com:8000/live
-#EXTINF:-1 tvg-logo="" group-title="classical",NRG Bob Marley
-http://live.nrgplay.com/stream/121/listen.pls
-#EXTINF:-1 tvg-logo="http://www.ntvradyo.com.tr/favicon.ico" group-title="haber,haberler,news,türkçe",NTV Radyo
+#EXTINF:-1 tvg-logo="http://www.ntvradyo.com.tr/favicon.ico" group-title="talk,news",NTV Radyo
 http://46.20.3.207/
-#EXTINF:-1 tvg-logo="" group-title="classical",Onur Radyo
+#EXTINF:-1 tvg-logo="https://resim.firmarehberim.com/thumb/uye_1568792502cxBC1.jpg/0/300" group-title="classical,folk",Onur Radyo
 http://anadolu.liderhost.com.tr:8094/
-#EXTINF:-1 tvg-logo="" group-title="",Özgür Radyo
+#EXTINF:-1 tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/ozgur-radyo.jpg" group-title="news,talk,folk",Radyo Ozgur 105.1
 http://95.173.188.170:9898/
-#EXTINF:-1 tvg-logo="" group-title="folk",pal alaturka
+#EXTINF:-1 tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/pal-alaturka-canli.jpg" group-title="folk,world,turkish",Radyo Pal Alaturka
 http://shoutcast.radyogrup.com:3050/listen.pls
-#EXTINF:-1 tvg-logo="" group-title="pop",Pal alaturka
-http://shoutcast.radyogrup.com:3050/
-#EXTINF:-1 tvg-logo="" group-title="classical",Pal Doğa
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/eUfyyhuRx7O9goCZXg5xFMO9jv4xvLq7h8V10U675xbUKmKWjRrrQN6RvKtv7-exSwE" group-title="pop,news,top 40",Radyo Pal DOGA 100.9
 http://shoutcast.radyogrup.com:1040/;*.mp3
-#EXTINF:-1 tvg-logo="https://pashpashradio.com/PashPash_90s_Logo_360x191.png" group-title="",Pashpash Radio
+#EXTINF:-1 tvg-logo="https://pashpashradio.com/PashPash_90s_Logo_360x191.png" group-title="pop,indie,top 40",PashPash Radio
 https://90s.pashpashradio.com:7001/
-#EXTINF:-1 tvg-logo="https://pashpashradio.com/PashPash_Logo_512x512.png" group-title="",PashPash Radio
+#EXTINF:-1 tvg-logo="https://pashpashradio.com/PashPash_Logo_512x512.png" group-title="pop,indie,top 40",PashPash Radio
 https://hits.pashpashradio.com:7000/
-#EXTINF:-1 tvg-logo="" group-title="classical",Pazarcık
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZD89jJlCrXtaJSeQRNAcVL7jXTc1b_PDXAg&s" group-title="folk,variety,talk",Pazarcik FM
 http://yayin.pazarcikfm.com:9090/
-#EXTINF:-1 tvg-logo="http://radyopiryolu.canliyayinda.com:8165/favicon.ico" group-title="classical",Pir Yolu
+#EXTINF:-1 tvg-logo="http://radyopiryolu.canliyayinda.com:8165/favicon.ico" group-title="variety,talk",Radyo Piryolu
 http://radyopiryolu.canliyayinda.com:8165/
-#EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/100x100/powerapp/channels/v3/inverse/logo_37.png?v=206" group-title="hits,mix,pop,top40",POWER  100 FM
+#EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/100x100/powerapp/channels/v3/inverse/logo_37.png?v=206" group-title="hits,mix,pop",Power 100 FM
 https://listen.powerapp.com.tr/powerfm/abr/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="pop",POWER EARTH
+#EXTINF:-1 tvg-logo="https://kuasark.com/files/stations-logos/power-earth.png" group-title="pop,hits,world",Power Earth
 http://listen.powerapp.com.tr/powerearth/abr/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",Power French Cafe
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqVr7nhIDNDNjY2BPDhbRpkYMUn5dOXd9Pgg&s" group-title="pop,top 40,world",Power French Cafe
 http://mpegpowerturk.listenpowerapp.com/powerfrenchcafe/mpeg/icecast.audio
-#EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/powerapp/channels/big/powerPop.png?v=308" group-title="00s,70s,80s,90s,pop,rock",Power POP
+#EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/powerapp/channels/big/powerPop.png?v=308" group-title="70s,80s,90s",Power POP
 https://listen.powerapp.com.tr/powerpop/128/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://asset.ipower.com.tr/channels/medium/powerJazz.png?v=15" group-title="smooth jazz",Power Smooth Jazz
+#EXTINF:-1 tvg-logo="http://asset.ipower.com.tr/channels/medium/powerJazz.png?v=15" group-title="smooth,jazz",Power Smooth Jazz
 http://powersmoothjazz.listenpowerapp.com/powersmoothjazz/abr/powersmoothjazz/128/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/100x100/powerapp/channels/v2/inverse/logo_34.png?v=1" group-title="pop",Power Türk
+#EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/100x100/powerapp/channels/v2/inverse/logo_34.png?v=1" group-title="pop,electro,top 40",Power Turk
 http://listen.powerapp.com.tr/powerturk/mpeg/icecast.audio?/listen.pls
-#EXTINF:-1 tvg-logo="https://radioantalya.com/favicon.ico" group-title="downtempo,electronica,indie,public radio",Radio Antalya
+#EXTINF:-1 tvg-logo="https://radioantalya.com/favicon.ico" group-title="downtempo,electronica,indie",Radio Antalya
 https://my.radiolize.com/radio/8000/radio.mp3
-#EXTINF:-1 tvg-logo="https://www.radiowanderlust.com/wp-content/uploads/2018/12/256x256.png" group-title="journey,travel,traveler,wanderlust",Radio Wanderlust
+#EXTINF:-1 tvg-logo="https://www.radiowanderlust.com/wp-content/uploads/2018/12/256x256.png" group-title="journey,travel,talk",Radio Wanderlust
 http://radyo.yayin.com.tr:5898/
-#EXTINF:-1 tvg-logo="" group-title="pop",RADYO 45 LIK
-http://server.gitassi.com:4545/stream
-#EXTINF:-1 tvg-logo="http://www.radyo7.com/application/assets/home/common/images/apple-touch-icon.png" group-title="",Radyo 7
+#EXTINF:-1 tvg-logo="http://www.radyo7.com/application/assets/home/common/images/apple-touch-icon.png" group-title="turkish,talk,variety",Radyo 7
 http://46.20.3.250/;stream
-#EXTINF:-1 tvg-logo="" group-title="blues,folk,pop rock,university radio",Radyo A (Radyo Anadolu Üniversitesi)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScItOEZf1lZjjbdwOV3vzBDx76Dv-0rbat4A&s" group-title="folk,pop,university",Radyo Anadolu Universitesi 101.7
 http://canli.radyoa.anadolu.edu.tr:44445/Radyo_A_MP3
-#EXTINF:-1 tvg-logo="" group-title="classical",Radyo Arkadaş
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s249838g.png" group-title="islam,religious",Radyo Arkadas 90.2
 https://ssl120.radyotelekom.com.tr/9998/stream
 #EXTINF:-1 tvg-logo="" group-title="atasehir,kultur,public radio,radyocan,sanat",Radyo Atasehir
 http://162.254.207.45:9300/stream
