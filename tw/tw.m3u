@@ -1,33 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.1766.today/wp-content/uploads/2016/11/cropped-radio_icon_660px.png" group-title="",1766線上電臺-店頭音樂
+#EXTINF:-1 tvg-logo="https://www.1766.today/wp-content/uploads/2016/11/cropped-radio_icon_660px.png" group-title="variety,talk",1766 Online Radio Dantou Music
 http://livestream.1766.today:1781/live2.mp3
-#EXTINF:-1 tvg-logo="https://www.1766.today/wp-content/uploads/2016/11/cropped-radio_icon_660px.png" group-title="",1766線上電臺-百家知識
+#EXTINF:-1 tvg-logo="https://www.1766.today/wp-content/uploads/2016/11/cropped-radio_icon_660px.png" group-title="news,talk",1766 Online Radio Baijia Knowledge
 http://livestream.1766.today:1768/live1.mp3
-#EXTINF:-1 tvg-logo="https://www.1766.today/wp-content/uploads/2016/11/cropped-radio_icon_660px.png" group-title="music",1766線上電臺-私房音樂
+#EXTINF:-1 tvg-logo="https://www.1766.today/wp-content/uploads/2016/11/cropped-radio_icon_660px.png" group-title="pop,variety",1766 Online Radio Private Music
 http://livestream.1766.today:1769/live1.mp3
-#EXTINF:-1 tvg-logo="http://www.family977.com.tw/lazyweb/images/logo-dark@2x.png" group-title="classical music",Classical 古典音樂台 FM 97.7
+#EXTINF:-1 tvg-logo="http://www.family977.com.tw/lazyweb/images/logo-dark@2x.png" group-title="classical,baroque,folk",Classical FM 97.7
 http://59.120.88.155:8000/live.mp3
-#EXTINF:-1 tvg-logo="https://pic.qingting.fm/2015/0116/20150116191528539.jpg!200" group-title="news",CNR-5 中华之声
-http://ngcdn005.cnr.cn/live/zhzs/index.m3u8
-#EXTINF:-1 tvg-logo="https://pic.qingting.fm/2015/0116/20150116191558914.jpg!200" group-title="literature",CNR-6 神州之声
-http://ngcdn006.cnr.cn/live/szzs/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.icrt.com.tw/language_data/en/image/sh/icrt_250x250.jpg" group-title="",ICRT
+#EXTINF:-1 tvg-logo="https://www.icrt.com.tw/language_data/en/image/sh/icrt_250x250.jpg" group-title="top 40,pop,variety",ICRT 100.7
 http://live.leanstream.co/ICRTFM?args=tunein_aac
-#EXTINF:-1 tvg-logo="https://www.icrt.com.tw/language_data/en/image/sh/logo.png" group-title="news talk music",ICRT
+#EXTINF:-1 tvg-logo="https://www.icrt.com.tw/language_data/en/image/sh/logo.png" group-title="top 40,pop,variety",ICRT 100.7
 http://live.leanstream.co/ICRTFM-MP3
-#EXTINF:-1 tvg-logo="https://www.ic975.com/wp-content/themes/ic975/css/img/logo.png" group-title="music,science,technology",IC之音竹科廣播
+#EXTINF:-1 tvg-logo="https://www.ic975.com/wp-content/themes/ic975/css/img/logo.png" group-title="world,chinese,folk",IC Zhiyin Zhuke Broadcasting 97.5
 https://n11.rcs.revma.com/7mnq8rt7k5zuv?rj-ttl=5&rj-tok=AAABfd5KkUAArl1W8uxIliYkCg
-#EXTINF:-1 tvg-logo="" group-title="",News98
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/uSWknUaU5K.png" group-title="news,talk",News98 98.1
 http://n11.rcs.revma.com/55tyxsy4qtzuv.m4a?rj-ttl=5&rj-tok=AAABfdsIi4QAwP07f2E1qzxFyg
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8BOmHBN.jpg" group-title="",Phate
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8BOmHBN.jpg" group-title="anime,soundtracks,soundtracks",Phate
 https://stream.phate.io/phateio.mp3
-#EXTINF:-1 tvg-logo="http://www.goodtv.org//images/icon.ico" group-title="hls video",Taiwan Good TV General
-http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-3.m3u8
-#EXTINF:-1 tvg-logo="http://www.goodtv.org//images/icon.ico" group-title="",Taiwan Good TV Truth
-http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-3.m3u8
-#EXTINF:-1 tvg-logo="http://www.taiwan-lounge.com/site/images/logo.jpg" group-title="music",TAIWAN LOUNGE RADIO
+#EXTINF:-1 tvg-logo="http://www.taiwan-lounge.com/site/images/logo.jpg" group-title="ambient,relax,lounge",Taiwan Lounge Radio
 https://azuracast.conceptradio.fr/radio/8030/stream.mp3
-#EXTINF:-1 tvg-logo="" group-title="",中广流行网
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/5/5b/Ilike_radio_logo.jpg" group-title="pop,hits",BCC Pop Network 103.0
 https://n03a-eu.rcs.revma.com/ks4vsmg3qtzuv?rj-ttl=5&rj-tok=AAABfds8yskAcpdBs5EFbJQSjQ
 #EXTINF:-1 tvg-logo="https://www.bcc.com.tw/images/0225/lg3.png" group-title="music,talk",中廣I go 531
 http://n07.rcs.revma.com/s7hc9kpy2tzuv?rj-ttl=5&rj-tok=AAABfdr2SVIAEiCLAmiKrZwibw

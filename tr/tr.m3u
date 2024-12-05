@@ -299,31 +299,29 @@ https://ssl4.radyotvonline.com/radyohome/trtnagme.stream_aac/playlist.m3u8
 https://radio-trtradyo3.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.trtworld.com/images/favicons/apple-touch-icon.png" group-title="news,talk",TRT TSR
 https://radio-trttsr.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="http://radyo.trt.net.tr/icons/apple-icon-120x120.png" group-title="",TRT Türkü
+#EXTINF:-1 tvg-logo="http://radyo.trt.net.tr/icons/apple-icon-120x120.png" group-title="classical,folk,traditional",TRT Turku 98.6
 https://radio-trtturku.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.trtworld.com/images/favicons/apple-touch-icon.png" group-title="",TRT VOT EAST 2
+#EXTINF:-1 tvg-logo="https://www.trtworld.com/images/favicons/apple-touch-icon.png" group-title="pop,hits,news",TRT VOT East 2
 https://radio-trtvoteast.live.trt.com.tr/master_128.m3u8
-#EXTINF:-1 tvg-logo="https://www.trtworld.com/images/favicons/apple-touch-icon.png" group-title="",TRT VOT World
+#EXTINF:-1 tvg-logo="https://www.trtworld.com/images/favicons/apple-touch-icon.png" group-title="pop,news,turkish",TRT VOT World
 http://tv-trtworld.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="http://www.trt.net.tr/anasayfa/images2012/trtlogo.png" group-title="",TRT-Haber Radyo
+#EXTINF:-1 tvg-logo="http://www.trt.net.tr/anasayfa/images2012/trtlogo.png" group-title="pop,news,top 40",TRT-Haber Radyo
 https://radio-trtradyohaber.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="https://egm.gov.tr/kurumlar/egm.gov.tr/tasar%C4%B1m/favicon-egm-32.png" group-title="",Türkiye Polis Radyosu
+#EXTINF:-1 tvg-logo="https://egm.gov.tr/kurumlar/egm.gov.tr/tasar%C4%B1m/favicon-egm-32.png" group-title="pulbic,talk,police",Turkiye Polis Radyosu
 https://m.egm.gov.tr:8093/
-#EXTINF:-1 tvg-logo="" group-title="folk",Turku Radyo
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/0bo2ixTD7kmrNNe9LOEexyOSRQBQM0Qp1b2-zIXG0P90CQtszpjReqUL7-imZHOM8RvU" group-title="folk,world,classical",Turku Radyo
 http://radyo.turkuradyo.net:4591/stream
-#EXTINF:-1 tvg-logo="" group-title="classical",Turkuaz Anadolu
+#EXTINF:-1 tvg-logo="https://i.tmgrup.com.tr/rt/site/v2/c/i/radio/turkuvaz-anadolu-big.png" group-title="classical,folk,turkish",Radyo Turkvaz
 https://trkvz-radyolar.ercdn.net/turkuvazanadolu/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/turkulerle-turkiye-dinle.jpg" group-title="türkü",Türkülerle Türkiye
+#EXTINF:-1 tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/turkulerle-turkiye-dinle.jpg" group-title="folk,world",Radyo Turkulerle Turkiye
 http://37.247.98.8/stream/22/listen.pls
-#EXTINF:-1 tvg-logo="" group-title="folk",Turkuvaz Anadolu
-http://trkvz-radyolar.ercdn.net/turkuvazanadolu/Playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",Turkuvaz Musiki
+#EXTINF:-1 tvg-logo="https://i.tmgrup.com.tr/rt/site/v2/c/i/radio/turkuvaz-musiki-big.png" group-title="pop,hits,world",Turkuvaz Musiki
 https://trkvz-radyolar.ercdn.net/turkuvazmusiki/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ulusalradyo.com/wp-content/uploads/2021/01/cropped-mic-180x180.png" group-title="",Ulusal Radyo
+#EXTINF:-1 tvg-logo="https://ulusalradyo.com/wp-content/uploads/2021/01/cropped-mic-180x180.png" group-title="pop,hits,world",Ulusal Radyo 100.8
 http://162.254.207.45:9302/.mp3?&token=QVi8je41ac9GDLg3DshO8Q&expires=1608058155
-#EXTINF:-1 tvg-logo="https://i.tmgrup.com.tr/vavradyo/site/v2/c/i/apple-touch-icon-new-120x120.png" group-title="",Vav Radyo
+#EXTINF:-1 tvg-logo="https://i.tmgrup.com.tr/vavradyo/site/v2/c/i/apple-touch-icon-new-120x120.png" group-title="culture,islam,general",Vav Radyo
 https://trkvz-radyolar.ercdn.net/radyovav/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://mediacdn.karnaval.com/media/station_media/15/logos/meta_image.png?v=280316053238" group-title="pop rock",Virgin Radio Türkiye
+#EXTINF:-1 tvg-logo="http://mediacdn.karnaval.com/media/station_media/15/logos/meta_image.png?v=280316053238" group-title="pop,rock,hits",Virgin Radio
 https://playerservices.streamtheworld.com/api/livestream-redirect/VIRGIN_RADIO_SC
-#EXTINF:-1 tvg-logo="" group-title="classical",Yön Radyo
+#EXTINF:-1 tvg-logo="https://kuasark.com/files/stations-logos/yon-radyo.png" group-title="classical,world,folk",Yon Radyo 96.6
 https://stream.radyolarburada.com/radio/8020/yonradyo
