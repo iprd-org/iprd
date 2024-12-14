@@ -1,19 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://brnradio.com/favicon.ico" group-title="bible,christian",BRN Radio - Arabic Channel
+#EXTINF:-1 tvg-logo="http://brnradio.com/favicon.ico" group-title="bible,christian,arabic",BRN Radio Arabic Channel
 http://192.241.185.108:8094/stream
-#EXTINF:-1 tvg-logo="http://brnradio.com/favicon.ico" group-title="bible,christian",BRN Radio - French Channel
+#EXTINF:-1 tvg-logo="http://brnradio.com/favicon.ico" group-title="bible,christian,french",BRN Radio French Channel
 http://192.241.185.108:8106/stream
-#EXTINF:-1 tvg-logo="http://brnradio.com/favicon.ico" group-title="bible,christian",BRN Radio - Hebrew Channel
+#EXTINF:-1 tvg-logo="http://brnradio.com/favicon.ico" group-title="bible,christian,hebrew",BRN Radio Hebrew Channel
 http://192.241.185.108:8050/stream
-#EXTINF:-1 tvg-logo="http://brnradio.com/favicon.ico" group-title="bible,christian",BRN Radio - Spanish Channel
+#EXTINF:-1 tvg-logo="http://brnradio.com/favicon.ico" group-title="bible,christian,spanish",BRN Radio Spanish Channel
 http://192.241.185.108:8100/stream
-#EXTINF:-1 tvg-logo="https://geekbeatradio.com/assets/heart_flat.png" group-title="",geekbeatradio
-http://208.113.129.170:8000/geekbeatradio
-#EXTINF:-1 tvg-logo="http://www.reefbroadcasting.com/favicon.ico" group-title="frederiksted,reggae,urban adult contemporary",WAXJ "103.5 The Reef" Frederiksted
+#EXTINF:-1 tvg-logo="http://www.reefbroadcasting.com/favicon.ico" group-title="reggae,urban,adult",WAXJ 103.5
 http://ic2.mainstreamnetwork.com/waxj-fm
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/2fd847_edaf65176b51ea98b9fe43e1a265227a.png" group-title="calypso,caribbean music,christiansted,news,reggae,talk",WSTX-AM 970 Christiansted
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/2fd847_edaf65176b51ea98b9fe43e1a265227a.png" group-title="calypso,caribbean,news",WSTX 970
 http://wstxradio2.serverroom.net:8340/listen.pls
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/2fd847_edaf65176b51ea98b9fe43e1a265227a.png" group-title="christiansted,reggae",WSTX-FM 100.3 Christiansted
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/2fd847_edaf65176b51ea98b9fe43e1a265227a.png" group-title="calypso,caribbean,news",WSTX 100.3
 http://wstxradio.serverroom.net:7490/listen.pls
-#EXTINF:-1 tvg-logo="" group-title="caribbean,church,god,jesus,methodist,religion,usvi,vi,virgin islands",WTJC-LP
-http://s9.viastreaming.net:7820/
