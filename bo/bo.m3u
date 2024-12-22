@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://ibb.co/tKGBdBK" group-title="adult,contemporary,electronic",Benavides Radio 105.1
 http://stream.zeno.fm/8r3t98fzwd0uv?rj-ttl=5&rj-tok=AAABfdzAEncAmoYIXVbBPjlaug
-#EXTINF:-1 tvg-logo="https://radioclasica100.com/wp-content/uploads/2020/03/cropped-icono-clasica-192x192.png" group-title="variety,exitos clasicos",Radio Clásica 100.3
+#EXTINF:-1 tvg-logo="https://radioclasica100.com/wp-content/uploads/2020/03/cropped-icono-clasica-192x192.png" group-title="variety,clasicos",Radio Clásica 100.3
 http://radios.istbolivia.com:9976/listen.pls
 #EXTINF:-1 tvg-logo="https://i2.wp.com/kawsachuncoca.com/wp-content/uploads/2021/01/cropped-favicon-rkc.png?resize=180%2c180&#038;ssl=1" group-title="news,politics",Radio Kawsachun Coca 99.1
 https://radio.yoemito.net:8006/stream
@@ -39,5 +39,9 @@ http://stream.zeno.fm/v93yq4bmpm0uv?rj-ttl=5&rj-tok=AAABfd4p__EAy6K7m7qwWSp8tQ
 https://emiteradio.com/proxy/clasicosingles?mp=/stream
 #EXTINF:-1 tvg-logo="https://emisora.info/radio/recuerdo-uyuni.jpg" group-title="latina,recuerdo",Red Uyuni Radio Recuerdos
 https://emiteradio.com/proxy/uyuni2?mp=/stream
+#EXTINF:-1 tvg-logo="https://emisora.info/radio/recuerdo-uyuni.jpg" group-title="latina,recuerdo",Red Uyuni Radio Recuerdos
+https://emiteradio.com/proxy/uyuni2?mp=/stream
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/RQP.jpg" group-title="pop,top 40,youth",RQP
+https://d19anrs46tvom6.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.wix.com/favicon.ico" group-title="electronic,edm",Scz Radio
 http://stream.zeno.fm/bh60q54v4x8uv?rj-ttl=5&rj-tok=AAABfdp8QEkAIiGN5zR1Flof3w
