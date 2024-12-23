@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s308353/images/logog.png?t=1699867600000" group-title="hits,pop,world,german",Antenne Austro Hits
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s308353/images/logog.png?t=1699867600000" group-title="hits,pop,world",Antenne Austro Hits
 https://live.antenne.at/auh
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Antenne_Logo.svg" group-title="pop,top 40",Antenne Kärnten
 http://live.antenne.at/ak
@@ -9,7 +9,7 @@ http://live.antenne.at/ost
 http://live.antenne.at/sun
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Antenne_Logo.svg" group-title="pop,rock,electro",Antenne Steiermark
 http://live.antenne.at/as
-#EXTINF:-1 tvg-logo="http://www.arabella.at/static/base/img/apple-touch-icon.a3ce28a2756f.png" group-title="pop,love",Arabella Ti-Amo
+#EXTINF:-1 tvg-logo="http://www.arabella.at/static/base/img/apple-touch-icon.a3ce28a2756f.png" group-title="pop,ballads,schlager",Arabella Ti-Amo
 http://arabella.stream.kapper.net:8007/arabellatiamo
 #EXTINF:-1 tvg-logo="http://www.verkehrsradio.at//themes/custom/barnaul/favicon.ico" group-title="oldies,news,traffic",ARBÖ Verkehrsradio
 http://live.datamatix.at:8022/
@@ -21,7 +21,7 @@ https://streamt.at/radio/8000/blechradio1.mp3
 http://chromatique-sky.stream.laut.fm/chromatique-sky?t302=2021-12-21_04-07-12&uuid=ae98e09d-4ce6-4401-9631-33714b6162b0
 #EXTINF:-1 tvg-logo="http://city23.at/images/icons/apple-icon-120x120.png" group-title="chillout,pop,house",CITY23
 http://live.radiomax.technology/city23
-#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/4c/c9/4cc944100b85deadc5abc8d8f8438897.jpg" group-title="80s,darkwave,electronic,electropop,gothic,industrial,minimal,synthpop",Darksynth Radio
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/4c/c9/4cc944100b85deadc5abc8d8f8438897.jpg" group-title="80s,darkwave,electronic",Darksynth Radio
 http://darksynthradio.stream.laut.fm/darksynthradio?t302=2021-12-21_05-16-32&uuid=74857a75-3061-41f3-9f14-39fd7cf338ba
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/71Sf78T4kzp6LD65EL8ynY7Ke8zL96DujPvuviTZSfu2_G5QKczPjkaHwB7pLHn1Fl8" group-title="classical,baroque",DJ2
 https://www.djing.com/tv/s-28062-05-electro-rock.m3u8
@@ -29,7 +29,7 @@ https://www.djing.com/tv/s-28062-05-electro-rock.m3u8
 http://stream1.energy.at:8000/ibk
 #EXTINF:-1 tvg-logo="http://www.erf.at/wp-content/uploads/2016/06/cropped-erf_logo-e1465488646667-270x270.png" group-title="christian,contemporay",ERF Plus Oesterreich
 http://stream.erf.at/erfplus_192
-#EXTINF:-1 tvg-logo="https://tubestatic.orf.at/mojo/1_3/storyserver//tube/fm4/images/touch-icon-iphone-retina.png" group-title="alternative,electronic",Radio FM4
+#EXTINF:-1 tvg-logo="https://tubestatic.orf.at/mojo/1_3/storyserver//tube/fm4/images/touch-icon-iphone-retina.png" group-title="alternative,electronic",Radio FM 4
 https://orf-live.ors-shoutcast.at/fm4-q1a
 #EXTINF:-1 tvg-logo="https://www.frf.at/favicon.ico" group-title="variety,community",Freies Radio Freistadt
 http://212.89.182.114:8008/frf
@@ -39,9 +39,9 @@ http://www.fro.at:8008/fro64.mp3
 http://stream.xaok.org:8000/frs.mp3
 #EXTINF:-1 tvg-logo="https://www.freirad.at/wp-content/themes/betheme-child/images/logo.png" group-title="pop,rock,classical",Freies Radio Innsbruck
 https://stream.freirad.at/live.ogg
-#EXTINF:-1 tvg-logo="http://www.radiomaria.at//favicon.ico" group-title="catholic,christian,religion,talk",Heiligenkreuz_101 (102k)
+#EXTINF:-1 tvg-logo="http://www.radiomaria.at//favicon.ico" group-title="catholic,christian,religious",Heiligenkreuz_101
 http://live.radiomaria.at:8000/rma101
-#EXTINF:-1 tvg-logo="https://www.stift-heiligenkreuz.org/wp-content/uploads/2017/03/7a7009d562.jpg" group-title="catholic,christian,religion,talk",Heiligenkreuz_102 (166k)
+#EXTINF:-1 tvg-logo="https://www.stift-heiligenkreuz.org/wp-content/uploads/2017/03/7a7009d562.jpg" group-title="catholic,christian,religious",Heiligenkreuz_102
 http://live.radiomaria.at:8000/rma102
 #EXTINF:-1 tvg-logo="http://jazz.w3.at/logo.png" group-title="jazz,blues",JazzW3
 http://jazz.w3.at:8000/w3jazz.mp3
@@ -109,11 +109,11 @@ http://5.189.164.243:8000/studio1.ogg
 https://securestream.o94.at/live.mp3
 #EXTINF:-1 tvg-logo="http://static.radio.net/images/broadcasts/47/5f/4511/c175.png" group-title="hits,pop,public",ORF Hitradio Ö3
 http://orf-live.ors-shoutcast.at/oe3-q1a
-#EXTINF:-1 tvg-logo="http://oe1.orf.at/static/img/logo_oe1.png" group-title="classic,culture,news,talk",ORF Ö1
+#EXTINF:-1 tvg-logo="http://oe1.orf.at/static/img/logo_oe1.png" group-title="classic,culture,news",ORF Ö1
 https://orf-live.ors-shoutcast.at/oe1-q2a
 #EXTINF:-1 tvg-logo="http://www.orf.at/mojo/1_1/storyserver/common/ms-metro-icon.png" group-title="public,regional",ORF Radio Kärnten
 http://ors-sn02.ors-shoutcast.at/ktn-q1a
-#EXTINF:-1 tvg-logo="https://images.radio.orange.com/radios/medium_orf_radio_salzburg.png" group-title="public,regional",ORF Radio Salzburg
+#EXTINF:-1 tvg-logo="https://images.radio.orange.com/radios/medium_orf_radio_salzburg.png" group-title="public,news,talk",ORF Radio Salzburg
 http://orf-live.ors-shoutcast.at/sbg-q2a
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZuvM-2tr7f9ZWCNM88B3cIBibZe75h3RAsUWPMN39LNkM1vjbw27hIRAMvRV3C_v_Nls&usqp=CAU" group-title="public,regional",ORF Radio Wien
 http://ors-sn05.ors-shoutcast.at/wie-q2a
@@ -133,7 +133,7 @@ http://edge07.streamonkey.net/radio886-onair/stream/mp3
 https://edge51.streamonkey.net/radio886-hardrock/stream/mp3?aggregator=886Website
 #EXTINF:-1 tvg-logo="https://www.radio886.at/apple-touch-icon.png" group-title="alternative,rock",Radio 88.6 New Rock
 https://edge51.streamonkey.net/radio886-newrock/stream/mp3?aggregator=886Website
-#EXTINF:-1 tvg-logo="https://allelon.radio/wp-content/uploads/2017/06/nia_2.jpg" group-title="christian,praise,worship,gospel",Radio Allelon
+#EXTINF:-1 tvg-logo="https://allelon.radio/wp-content/uploads/2017/06/nia_2.jpg" group-title="christian,praise,worship",Radio Allelon
 http://radio.allelon.at/allelonat.mp3
 #EXTINF:-1 tvg-logo="https://www.radioaustria.at/themes/main/img/logo.png" group-title="adult,contemporary,oldies",Radio Austria
 https://onair.securestream.radioaustria.at/radioaustria
@@ -141,17 +141,17 @@ https://onair.securestream.radioaustria.at/radioaustria
 http://radiob138.out.airtime.pro:8000/radiob138_a
 #EXTINF:-1 tvg-logo="https://radiothek.orf.at/favicon.ico" group-title="folklore,schlager",ORF Radio Burgenland
 http://orf-live.ors-shoutcast.at/bgl-q2a
-#EXTINF:-1 tvg-logo="https://www.echo-plus.at/img/echoplus_radio_300.png" group-title="classic,hits,rock,oldies,pop",Radio Echo Plus 95.7
+#EXTINF:-1 tvg-logo="https://www.echo-plus.at/img/echoplus_radio_300.png" group-title="hits,rock,oldies",Radio Echo Plus 95.7
 http://radio2.stream24.net:9120/live.mp3
-#EXTINF:-1 tvg-logo="https://www.radioszene.de/wp-content/uploads/2021/06/radio-flamingo-logo-small.png" group-title="schlager,austropop",Radio Flamingo
+#EXTINF:-1 tvg-logo="https://www.radioszene.de/wp-content/uploads/2021/06/radio-flamingo-logo-small.png" group-title="schlager,world,pop",Radio Flamingo
 http://live.antenne.at/rf
 #EXTINF:-1 tvg-logo="https://www.freequenns.at/fileadmin/template/logo.png" group-title="pop,rock",Radio Freequenns 100.8
 http://livestream.freequenns.at/live
-#EXTINF:-1 tvg-logo="http://www.fro.at/images/fro_logo2016.jpg" group-title="art,charitable,culture,diversity,free,information",Radio FRO
+#EXTINF:-1 tvg-logo="http://www.fro.at/images/fro_logo2016.jpg" group-title="art,culture,variety",Radio FRO
 http://www.fro.at:8008/fro-128.ogg
 #EXTINF:-1 tvg-logo="http://www.radiowoche.de/wp-content/uploads/2015/06/logo_radiogruenweiss.png" group-title="hits,oldies,schlager",Radio Grün Weiß
 http://live.gruen-weiss.at/rgw.mp3
-#EXTINF:-1 tvg-logo="https://www.gruen-weiss.at/wp-content/uploads/2019/04/Logo-radio-gruen-weiss.png" group-title="classic,hits,oldies,schlager,volksmusik",Radio Grün Weiß HQ
+#EXTINF:-1 tvg-logo="https://www.gruen-weiss.at/wp-content/uploads/2019/04/Logo-radio-gruen-weiss.png" group-title="classic,hits,oldies",Radio Gruen Weiss
 http://live.gruen-weiss.at/rgw.aac
 #EXTINF:-1 tvg-logo="http://helsinki.mur.at/favicon.ico" group-title="alternative,electro,rock",Radio Helsinki 92.6
 http://live.helsinki.at:8088/live128.mp3
@@ -165,7 +165,7 @@ http://orf-live.ors-shoutcast.at/ktn-q2a
 http://radioklassikstephansdom.ice.infomaniak.ch/radioklassikstephansdom.mp3
 #EXTINF:-1 tvg-logo="http://www.radiomaria.at//favicon.ico" group-title="catholic,religious",Radio Maria Austria
 http://live.radiomaria.at:8000/rma
-#EXTINF:-1 tvg-logo="http://www.radiomaria.at//favicon.ico" group-title="catholic,christian,religion,talk",Radio Maria Austria
+#EXTINF:-1 tvg-logo="http://www.radiomaria.at//favicon.ico" group-title="catholic,christian,religion",Radio Maria Austria
 http://dreamsiteradiocp2.com:8022/stream
 #EXTINF:-1 tvg-logo="http://www.radiomaria.at//favicon.ico" group-title="catholic,christian,religion",Radio Maria Austria
 http://live.radiomaria.at:8000/rma2
@@ -181,7 +181,7 @@ http://listen.radiomax.technology/penny
 http://orf-live.ors-shoutcast.at/noe-q2a
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/FZugyESKrH.png" group-title="rock,pop,alternative",Radio NJOY 91.3
 http://94.136.28.9:8005/njoyradio-hd
-#EXTINF:-1 tvg-logo="https://radiothek.orf.at/favicon.ico" group-title="pop,oldies,schlager ",ORF Radio Oberösterreich
+#EXTINF:-1 tvg-logo="https://radiothek.orf.at/favicon.ico" group-title="pop,oldies,schlager",ORF Radio Oberösterreich
 http://orf-live.ors-shoutcast.at/ooe-q2a
 #EXTINF:-1 tvg-logo="https://oe1.orf.at/static/img/logo_oe1.png" group-title="classical,world,jazz",Radio OE1
 http://orf-live.ors-shoutcast.at/oe1-q2a
@@ -189,11 +189,11 @@ http://orf-live.ors-shoutcast.at/oe1-q2a
 http://orf-live.ors-shoutcast.at/oe3-q2a
 #EXTINF:-1 tvg-logo="http://www.radio-osttirol.at///favicon.ico" group-title="schlager,volksmusik",Radio Osttirol
 http://streamplus20.leonex.de:28768/listen.pls
-#EXTINF:-1 tvg-logo="http://www.radioru.at/apple-icon-120x120.png" group-title="russian,world",Radio RU
+#EXTINF:-1 tvg-logo="http://www.radioru.at/apple-icon-120x120.png" group-title="russian,world,folk",Radio RU
 http://stream.erf.at/radio-ru
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/5/2135.v2.png" group-title="pop,news,oldies",Radio Seniorkom
 http://93.185.134.22:8080/seniorkom
-#EXTINF:-1 tvg-logo="http://www.radiosol.at/favicon.ico" group-title="latino,R'n'B,soul",Radio SOL 95.5
+#EXTINF:-1 tvg-logo="http://www.radiosol.at/favicon.ico" group-title="latino,r'n'b,soul",Radio SOL 95.5
 http://sol.anw.at:8023/stream
 #EXTINF:-1 tvg-logo="https://static.tuneyou.com/images/logos/500_500/32/32/SteiermarkRadio_0.jpg" group-title="pop,hits",Radio Steiermark 80er POP
 https://live.antenne.at/80s
@@ -211,7 +211,7 @@ http://orf-live.ors-shoutcast.at/vbg-q2a
 http://live.datamatix.at:8024/listen.pls
 #EXTINF:-1 tvg-logo="https://radiothek.orf.at/favicon.ico" group-title="pop,oldies,schlager",ORF Radio Wien
 http://orf-live.ors-shoutcast.at/wie-q2a
-#EXTINF:-1 tvg-logo="http://www.radio-xmas.at/assets/img/santa.png" group-title="christmas,seasonal",Radio Xmas
+#EXTINF:-1 tvg-logo="http://www.radio-xmas.at/assets/img/santa.png" group-title="christmas,holidays",Radio Xmas
 http://www.radio-xmas.at:443/xmas?1512905036085
 #EXTINF:-1 tvg-logo="https://radiofabrik.at//favicon.ico" group-title="pop,indie,world",Radiofabrik
 http://stream.radiofabrik.at/rf_low.mp3
@@ -221,13 +221,13 @@ https://edge.mixlr.com/channel/zwtuo
 http://s2-webradio.webradio.de/rockantenne-oesterreich
 #EXTINF:-1 tvg-logo="http://www.schwendermarkt.at" group-title="news,pop",Schwendermarkt
 https://schwendermarkt.stream.laut.fm/schwendermarkt?t302=2021-12-21_03-42-08&uuid=efe25405-900a-4efa-97c8-66a67c5c357e
-#EXTINF:-1 tvg-logo="http://soundportal.at/fileadmin/favicon.ico" group-title="alternative,rock,indie,pop",Radio Soundportal
+#EXTINF:-1 tvg-logo="http://soundportal.at/fileadmin/favicon.ico" group-title="alternative,rock,indie",Radio Soundportal
 http://rs8.stream24.net/radio-soundportal.mp3
 #EXTINF:-1 tvg-logo="http://www.spiritlive.at/images/christliche.ico" group-title="christian,religious",Spirit Live Radio
 http://server7606.streamplus.de/listen.pls
 #EXTINF:-1 tvg-logo="https://limitededt.com/cdn/shop/files/IG1724-1_800x.jpg?v=1696492689" group-title="pop,rock,hip hop",Stadlpowerradio
 https://stadlpowerradio82.stream.laut.fm/stadlpowerradio82?t302=2021-12-21_08-42-08&uuid=b46e9cd3-f986-44d7-a55c-178a3b7f3afc
-#EXTINF:-1 tvg-logo="https://www.stahlradio.com/wp2/wp-content/uploads/2020/07/cropped-stahlradio-logo-2018-180x180.png" group-title="hard,rock,heavy,metal,härte",Stahlradio
+#EXTINF:-1 tvg-logo="https://www.stahlradio.com/wp2/wp-content/uploads/2020/07/cropped-stahlradio-logo-2018-180x180.png" group-title="hard,rock,metal",Stahlradio
 https://simba.streampanel.cloud:5280/stream
 #EXTINF:-1 tvg-logo="https://styrialounge.com/assets/images/card.jpg?v78616770366451" group-title="blues,lounge,jazz",Styrialounge
 http://styrialounge.out.airtime.pro:8000/styrialounge_a
