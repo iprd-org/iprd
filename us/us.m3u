@@ -4259,8 +4259,10 @@ http://streaming.wlgi.org:4050/live
 https://broadcast.miami/proxy/casablanca?mp=/stream/listen.pls
 #EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/KCID.jpg" group-title="spanish,christian",KCID Radio Catolica Sal y Luz
 http://salt-light-stream-01.miriamtech.net:8000/kcid
-#EXTINF:-1 tvg-logo="http://channpardesi.com/wp-content/uploads/2015/08/ic_launcher.png" group-title="chann,desi,pardesi,punjabi",Radio Chann Pardesi
+#EXTINF:-1 tvg-logo="http://channpardesi.com/wp-content/uploads/2015/08/ic_launcher.png" group-title="chann,desi,pardesi",Radio Chann Pardesi
 http://mehramedia.com:8021/listen.pls
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a58232_190e2f07e64e48bbbcf7b6793390da7f~mv2.png/v1/fill/w_259,h_170,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/EAGLE%20FLAG_edited.png" group-title="rock,country,pop",Radio Circle City
+http://cast3.asurahosting.com:8333/live
 #EXTINF:-1 tvg-logo="https://www.radio-columbia.com/favicon.ico" group-title="disco,funk,soul",Radio Columbia
 https://broadcast.miami/proxy/columbia?mp=/stream/listen.pls
 #EXTINF:-1 tvg-logo="http://www.radiostreamlive.com/images/logos_radiocountrylive.png" group-title="country,rsl",Radio Country Live New York
