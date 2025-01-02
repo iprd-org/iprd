@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://radio104.com.br/wp-content/uploads/2016/07/favicon.png" group-title="variety,talk",Radio 104 104.1
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio49006_1690984388.png" group-title="adult,contemporary,rock",100.7 ISFM
+https://r16.ciclano.io:15043/stream
+#EXTINF:-1 tvg-logo="http://radio104.com.br/wp-content/uploads/2016/07/favicon.png" group-title="variety,talk",104 104.1
 http://cast4.audiostream.com.br:8651/mp3
-#EXTINF:-1 tvg-logo="https://www.radiorock.com.br/wp-content/themes/89FM/static/img/logo89.png" group-title="alternative,rock",A Radio Rock 89.1
-https://13693.live.streamtheworld.com:443/RADIO_89FM_ADP.aac?dist=site-89fm
 #EXTINF:-1 tvg-logo="https://www.radiorock.com.br/wp-content/themes/89FM/static/img/favicon.ico" group-title="alternative,rock",A Radio Rock 89.1
 https://24963.live.streamtheworld.com:443/RADIO_89FM_ADP.aac
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio31289_1439401796.jpg" group-title="rock,alternative",A Radio Rock 89.1
@@ -13,8 +13,10 @@ http://servidor40.brlogic.com:8044/live
 https://cast.youngtech.radio.br/radio/8410/radio
 #EXTINF:-1 tvg-logo="http://cdn92radio.clicrbs.com.br/wp-content/themes/92radio-theme-site/img/icons/icon196.png" group-title="pop,news,talk",Radio 92 92.1
 https://1592747t.ha.azioncdn.net/primary/92fm.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/5b329aa2d7566.png" group-title="pop,news,talk",Radio 94 94.3
+#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/5b329aa2d7566.png" group-title="pop,news,talk",94 94.3
 http://s17.hstbr.net:8040/live?1601949995965
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/849/radio-995-fm.ce400535.png" group-title="pop,caribbean,world",99.5 Goiania
+https://ssl.zoeweb.net/proxy/serradourada?mp=/stream
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio8806_1482145551.png" group-title="hits,sertanejo",Radio Arapiraca FM 96.0
 http://96fmarapiraca.com.br:9300/listen.pls
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s144627g.png" group-title="mpb,news,contemporary",Radio A Tarde 103.9
@@ -27,7 +29,7 @@ http://stream.zeno.fm/588dt1kykd0uv?rj-ttl=5&rj-tok=AAABfdti9f0AF1dWBIsDd7Rhlg
 http://stm01.virtualcast.com.br:8336/live
 #EXTINF:-1 tvg-logo="https://xafurdoeleriadohome.files.wordpress.com/2021/05/6bf75dad-d791-44df-906a-356574419794.jpeg?w=554" group-title="news,talk",Rádio Verdes Mares 810 Verdinha
 http://srv4.zoeweb.tv:1935/z18-live/stream/chunklist_w1735907665.m3u8
-#EXTINF:-1 tvg-logo="https://www.americadance90.com.br/wp-content/uploads/2020/03/apple-touch-icon-180x180-1.png" group-title="90s,dance,eurodance,fortaleza",América Dance 90's
+#EXTINF:-1 tvg-logo="https://www.americadance90.com.br/wp-content/uploads/2020/03/apple-touch-icon-180x180-1.png" group-title="90s,dance,eurodance",América Dance 90's
 http://stm8.srvstm.com:8212/listen.pls
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/G8NQ15FUg9H0paM2MAEEp3IMilR0W3F4E1bU_l9KApTtG0ztLS1ktjiaj-GdZG2_m_GC=w240-h480-rw" group-title="classical,christian",Amigos de Cristo Web Rádio 
 http://sv14.hdradios.net:6860/;?type=http&nocache=38
@@ -47,7 +49,7 @@ http://centova2.ipstm.net:9317/stream
 http://s01.transmissaodigital.com:6750/
 #EXTINF:-1 tvg-logo="https://imgproxy.zenomedia.com/insecure/fit/500/500/ce/0/plain/https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICw3Zi6lwsMCxIOU3RhdGlvblByb2ZpbGUYgICwvbyE_gsMogEEemVubw/image/%3Fresize=500x500&v=1" group-title="asmr,chill,enjoy,music,relax,satisfying,smooth",ASMR On LGBT
 http://stream.zeno.fm/47ykhbg3h18uv?rj-ttl=5&rj-tok=AAABfdwMBPYAd5acYm_RrHNC-A
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/wyh0OKE9mWOB15uXIEoxgDRSZccjUTiwnJVd7cxPyUl_ILGZuOOjMwjhjiSAwON6aAQ" group-title="mpb,musica,pop,regional,vinilteca",Radio Ativa 107.3
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/wyh0OKE9mWOB15uXIEoxgDRSZccjUTiwnJVd7cxPyUl_ILGZuOOjMwjhjiSAwON6aAQ" group-title="mpb,musica,pop",Radio Ativa 107.3
 https://casthttps1.suaradionanet.net/10012/stream
 #EXTINF:-1 tvg-logo="https://editor.zenomedia.com/resources/zs_station/636023/CardWebsite/35337135-6403-4d4e-8a44-5a229b57e81d.webp" group-title="espiritismo,espírita",Radio Atividade Espírita
 http://streaming31.hstbr.net:8230/live
@@ -57,7 +59,7 @@ https://1852747t.ha.azioncdn.net/primary/atl_poa.sdp/playlist.m3u8
 http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://atl.clicrbs.com.br/wp-content/themes/atlantida-wp-theme/img/icons/icon120.png" group-title="talk,news,variety",Radio Atlântida 94.3
 http://222747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_sma.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/cf/5f/7247/1/c300.png" group-title="indie,dance,nu,disco",Audiogrooves Nu Vibes
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/cf/5f/7247/1/c300.png" group-title="indie,dance,nu",Audiogrooves Nu Vibes
 http://soul.audiogrooves.net/nu-vibes.aac
 #EXTINF:-1 tvg-logo="https://audiogrooves.net/assets/icons/apple-touch-icon.png" group-title="house,soul",Audiogrooves Soul Channel
 http://soul.audiogrooves.net/soul.aac
@@ -67,10 +69,14 @@ https://servidor32-5.brlogic.com:8330/live
 http://r13.ciclano.io:8903/stream
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/NFCeaIfxqNKnutKGjB9ev3IICbfFw53FHqSfEZA4iDgHg4821mCc7mz0fd-q8NNwZXU_OZ4LkUUy4R2dpsddP9OUJrNaVjULyJ0XB34bLWw4xkf4nrw" group-title="comunitária,world",Radio Ban 87.9
 http://69.64.46.159:8000/banfm?1583625208200
+#EXTINF:-1 tvg-logo="https://bandfmtriangulo.com/wp-content/uploads/2023/02/Cabecalho-do-logotipo-opaco.png" group-title="funk,pop,sertanejo",Band FM Triangulo 99.9
+https://27403.live.streamtheworld.com/BANDFM_SPAAC/HLS/84527a35-aa8d-4ba7-98ab-e3ce69377fe4/0/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxqc6xhZeHwlDRvpB2mewHclv0eOUdBePHV-A1k0L_OexGqBPLd1ASyBmgVFeVqIRLPr4&usqp=CAU" group-title="news,sport,talk",BandNews 90.3
 http://57764j.ha.azioncdn.net/7764j/_definst_/bnfmrj.sdp/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://www.barrilfm.com.br/img/img_logo.png" group-title="pop,adult,contemporary",Barril 105.7
 http://shoutcast.virtualbit.com.br:8000/listen.pls
+#EXTINF:-1 tvg-logo="https://www.radio.net/300/bhfm.png?version=bd322f393ff376012a1bc7df68c0f27c" group-title="world,pop",BH FM 102.1
+https://26483.live.streamtheworld.com/BHFMAAC.aac?dist=site
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio37027_1516218896.jpg" group-title="nostalgia,rock,romantic",Radio Bons Tempos
 https://server02.ouvir.radio.br:8050/stream?1609720768800
 #EXTINF:-1 tvg-logo="https://bossajazzbrasil.com/wp-content/uploads/2020/12/bjs-app.png" group-title="bossa nova,jazz,mpb",Radio Bossa Jazz Brasil
@@ -79,6 +85,8 @@ https://centova5.transmissaodigital.com:20104/live
 https://servidor17-5.brlogic.com:8300/live
 #EXTINF:-1 tvg-logo="https://www.brasildefato.com.br//img/icons/mstile-144x144.png" group-title="entrevistas,notícias",Brasil de Fato
 https://s09.hstbr.net:8238/live?1514038524061
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHkfPoBuvcTwU7dCDMwJaOMEMo8TCGVjmE0g&s" group-title="variety,world",RBR Brasileira Sat
+https://webradio.amsolution.com.br/radio/8060/radio.mp3
 #EXTINF:-1 tvg-logo="https://radiocaicara.com.br/wp-content/uploads/2016/06/favicon2.png" group-title="local,politics,variety",Radio Caiçara 1020
 http://cast4.audiostream.com.br:8654/mp3
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s8431d.png" group-title="pop,forró",Radio Campina 93.1
@@ -87,8 +95,24 @@ http://cast61.sitehosting.com.br:9962/live?1583625618600
 http://rdbrasilia-lh.akamaihd.net/i/rdbrasilia_1@190557/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.cancaonova.com/favicons/apple-touch-icon-120x120.png" group-title="catholic,religious",Canção Nova
 http://rdfmchp-lh.akamaihd.net/i/rdfmchp_1_0@190586/master.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/1D8qx_h_svve2_0SSai_yYhJX7kfri9LWa6W00u4ID-1hTDYyQLfh95ZRGS6fbjvpvE" group-title="community,talk",Capao 90.7
+https://cast4.audiostream.com.br:2656/mp3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Capital_FM_Curitiba.png" group-title="jazz,blues",Capital 98.3
 http://rrdns-continental.webnow.com.br/continental.aac
+#EXTINF:-1 tvg-logo="https://dedemesquita.com.br/wp-content/uploads/2023/04/cbn-850x560.jpg" group-title="news,talk",CBN Amazonia 102.3
+https://stream2.cbnamazonia.com.br/cbn-mao
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt_HwN484gZmOymjaqOJ15ndDmtvY7NTGMyg&s" group-title="news,talk",CBN Belo Horizonte 106.1
+https://27423.live.streamtheworld.com/CBN_SPAAC.aac?dist=site
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7S4RZiRR1ACuB1h8b0PCuBgdOic-vDxLO6A&s" group-title="news,talk",CBN Brasilia 95.3
+https://19253.live.streamtheworld.com/CBN_BSBAAC.aac?dist=site
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/CBN_Caruaru_logo.png" group-title="news,talk",CBN Caruaru 89.9
+https://video05.logicahost.com.br/cbnradio/cbnradio/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/sewqpPi46YdU_IGUAfVhm775T3nzoyau1auk4mTn1fv5YGPsAhgcsGrzLrd48yiYZA" group-title="news,talk",CBN Floripa 90.3
+https://27593.live.streamtheworld.com/CBN_FLO.mp3
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1151195413132787712/l7d-EilR_400x400.jpg" group-title="news,talk",CBN Rio De Janeiro 92.5
+https://playerservices.streamtheworld.com/api/livestream-redirect/CBN_RJAAC.aac?dist=site
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwNVIUGPah-NkXdb0ZhyFYTcujP9MtWhxcng&s" group-title="news,talk",CBN Sao Paulo 90.5
+https://27363.live.streamtheworld.com/CBN_SPAAC.aac?dist=site
 #EXTINF:-1 tvg-logo="http://caraifm.com.br/wp-content/uploads/2017/06/logocarai.jpg" group-title="world,pop",Radio Caraí 106.3
 http://centova10.ciclanohost.com.br:9236/
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s16186/images/logog.png" group-title="news,talk",CBN Diário Florianópolis 90.3
@@ -105,7 +129,9 @@ http://sc1.crossdigital.com.br:8232/stream
 http://s1.guaracast.com:8030/stream
 #EXTINF:-1 tvg-logo="http://www.cidadecancaofm.com.br/App_Themes/cidadecancaofm_logo_topo.png" group-title="pop,top 40",Cidade Canção 102.3
 http://148.72.158.239:8012/live
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLfMvQ7GC39QXZTg0LyhaLyWsyMQgvjMLB5GfHgoH6JIkgRQJAf8DNRPMkpV0jUiCjhQ&usqp=CAU" group-title="hits,70s,80s,90s",Classic Hits
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCXg1cwSBtv5axnWIgmlXrdfgZe2CaoMIHsA&s" group-title="community,variety",Cidreira FM 91.3
+http://cast4.audiostream.com.br:8657/aac?1735784356312
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLfMvQ7GC39QXZTg0LyhaLyWsyMQgvjMLB5GfHgoH6JIkgRQJAf8DNRPMkpV0jUiCjhQ&usqp=CAU" group-title="70s,80s,90s",Classic Hits
 https://usa6.fastcast4u.com/proxy/ch247?mp=/classichits
 #EXTINF:-1 tvg-logo="http://www.clubepe.fm/img/favicon.png" group-title="hits,pop,popular",Clube 99.1
 https://radio.saopaulo01.com.br:10913/stream
@@ -123,6 +149,8 @@ http://stm01.virtualcast.com.br:8190/live
 http://srv01.brasilstream.com.br:9512/stream
 #EXTINF:-1 tvg-logo="https://www.dixierebel.com.br/img/logotipo-webradio-dixierebel.png" group-title="blues,rock,classic",Dixie Rebel Radio
 https://servidor36.brlogic.com:8572/live
+#EXTINF:-1 tvg-logo="https://www.radio.net/300/radio-easy-cuiaba.png?version=858edd93fff64c94882c3e875a0a181b" group-title="easy listening,oldies,world",Easy Cuiaba 99.1
+https://centova.svdns.com.br:20109/stream
 #EXTINF:-1 tvg-logo="http://www.e-parana.pr.gov.br/favicon.ico" group-title="public,education",Radio e-Parana 97.1
 http://200.189.113.201/stream/educativafm.mp3
 #EXTINF:-1 tvg-logo="http://eldopopfm.com/admin/assets/img/logo.png" group-title="hard,rock,progressive",EldoPop FM
@@ -133,7 +161,7 @@ https://estadaohls-lh.akamaihd.net/i/estadaohls_1@301351/master.m3u8
 http://stream.zeno.fm/6ehsprxv5s8uv?rj-ttl=5&rj-tok=AAABfdqY4xUARnWbh4-OZWs46g
 #EXTINF:-1 tvg-logo="https://cdn.futbin.com/content/fifa23/img/players/191695.png" group-title="pop,hits",Emilio Prime
 http://sv13.hdradios.net:7194/
-#EXTINF:-1 tvg-logo="https://www.97fm.com.br/imagens/favicon/android-chrome-192x192.png" group-title="dance,electro,electronic,house,pop",Energia 97 97.7
+#EXTINF:-1 tvg-logo="https://www.97fm.com.br/imagens/favicon/android-chrome-192x192.png" group-title="dance,electro,house",Energia 97 97.7
 http://audio.97fm.com.br/energia
 #EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab67616d0000b2732868e7bc98f197750860f259" group-title="decades,hits",Energia Retrô
 http://stream.zeno.fm/qez1mu8dys8uv?rj-ttl=5&rj-tok=AAABfd5EBHQAV3s8rbgfXahspg
@@ -143,7 +171,7 @@ http://stm3.srvif.com:8054/stream
 http://paineldj4.com.br:8300/stream.mp3?type=.mp3
 #EXTINF:-1 tvg-logo="https://radioestacaopop.com/imagens/693884b7af5baf0502c3d93b8e410784.png" group-title="pop,hits",Radio Estação Pop
 https://s46.hstbr.net:8026/live?id=1530746592431
-#EXTINF:-1 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/3cec8d5721a88ed9c6c8ba0af97f919a.jpg" group-title="traditional,contemporary,notícias",Estção 89.5
+#EXTINF:-1 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/3cec8d5721a88ed9c6c8ba0af97f919a.jpg" group-title="folk,contemporary,notícias",Estção 89.5
 https://play.radio.br:8089/estacaofm/estacaofm/icecast.audio
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0oVsdTLrzNiKl3XFTA5I2TckkimCpGVTSOAKtIplGht2uDIy1Z1OSYJLK6RvIvUbAaG0fkk3yiwmgq0hmwRdz1wyjzDbt7PK6ANskAh1O9LYK3Ow9r91SKQA3CFRwxnrwKSSm5yKbuXnMVVc3GNhJ75MtT45k0f85OUCmVf3JyM1gxOY93FZkXAwQ2w/w381-h200/01.png" group-title="classical,world",Estudio FM Flash Back
 http://stream.zeno.fm/f7p7wg20zf8uv?rj-ttl=5&rj-tok=AAABfd4vdiMA6SEq4QpqXZxYoQ
@@ -151,12 +179,18 @@ http://stream.zeno.fm/f7p7wg20zf8uv?rj-ttl=5&rj-tok=AAABfd4vdiMA6SEq4QpqXZxYoQ
 http://stream.zeno.fm/94adwcqw7k0uv?rj-ttl=5&rj-tok=AAABfd5HUu4A2RvX0-QfwMi8FQ
 #EXTINF:-1 tvg-logo="https://estudio-fm.webnode.com/_files/200000005-a13f6a13f8/200/a.png" group-title="classical,chamber,baroque",Estudio FM Ministerio Jovem
 http://stream.zeno.fm/duppd1ufqm0uv?rj-ttl=5&rj-tok=AAABfdqGkFgAdX2xPCGUf8sm7g
-#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/bd/96/bd965bbdebd22780aca8e775c7ea5757.jpg" group-title="forró,60s,70s,80s",Fay Só Forró das Antigas
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/bd/96/bd965bbdebd22780aca8e775c7ea5757.jpg" group-title="forró,70s,80s",Fay Só Forró das Antigas
 https://ssl.xcast.com.br:7132/stremig
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/14515600.png" group-title="gospel,christian",Feliz FM 95.7
+https://streaming.fox.srv.br:8140/stream
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IDtztmBxtx8/maxresdefault.jpg" group-title="classic,rock,soul",Radio Filhologico
 http://stream.zeno.fm/dpcrf16np7zuv?rj-ttl=5&rj-tok=AAABfdorxmAA0bz36RFXiEzIcA
 #EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab67616d0000b273925dd54f56617efcf7b75d8b" group-title="romantica,oldies",Flashback Internacional
 http://stream.zeno.fm/d3mbumgh27zuv?rj-ttl=5&rj-tok=AAABfdo_FPUA8BPljx0iaUfO_w
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/pEmmoaYdj81-TFMTxd0UdfXj8SvvTzwJAhajhDyvFPmmrGOmQPSnpM2LDVGgkQ-Ndg9EjIlgcw=s900-c-k-c0x00ffffff-no-rj" group-title="gospel,christian",FM 93
+https://jvcs2dtro0.zoeweb.tv/fm93/stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/8SidmqdDEkd_x_VBeJDRgF5WmYU1as7PNZMF4oRVHCkyYVa1tZ3FloUMBfqAiLJRLuE" group-title="gospel,christian",FM O Dia 100.5
+https://streaming.livespanel.com:8016/fmodia?1735785900228
 #EXTINF:-1 tvg-logo="http://www.redepampa.com.br/favicon.ico" group-title="classical,variety",FM Premium
 http://cast4.audiostream.com.br:8663/mp3
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s85436/images/logod.png?t=638210691390000000" group-title="hits,jovem",Folha 102.1
@@ -177,7 +211,11 @@ http://stream.zeno.fm/07z9dqmz0uquv?rj-ttl=5&rj-tok=AAABfd4UPkIA065e8QVtSsu4Yg
 https://servidor24-1.brlogic.com:7734/live
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-t2rJ25pDREk/ValqHvGV-XI/AAAAAAAAa-I/1R-hRFj2gkk/s1600/radio-gaucha.png" group-title="futebol,notícias",Radio Gaúcha 93.7
 https://1132747t.ha.azioncdn.net/primary/gaucha_rbs.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.broadcastingworld.com/favicon.ico" group-title="00s,60s,70s,80s,90s,k-pop,pop,top 40",GK International
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn5FElNjHF1lh0nI4SxZv8KITU6tV35GVDpw&s" group-title="rock,pop,news",Gazeta FM 99.9
+https://5a2b083e9f360.streamlock.net/gazetacuiabahd/gazetacuiabahd.stream/media_w154726666_18698.aac
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfqVMip7nuST_b20mKjpYXrTN-aJem2ATfAA&s" group-title="jazz,blues,world",Radio GFM 90.1
+https://f112.fabricahost.com.br/radiogfm?f=1735786752N01JGJF7TFM5CEPYEJMCHS5WY39&tid=01JGJF7TFMD4MTE80PBFF5HZJB
+#EXTINF:-1 tvg-logo="https://www.broadcastingworld.com/favicon.ico" group-title="k-pop,pop,top 40",GK International
 http://s20.myradiostream.com:12530/
 #EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/V8ssEqpVTV.png" group-title="adult,contemporary",Radio Globo 98.1
 http://r6.ciclano.io:10009/stream
@@ -187,7 +225,7 @@ https://centova.svdns.com.br:19373/stream/2/
 http://148.72.158.239:8161/live
 #EXTINF:-1 tvg-logo="https://cdn.hunter.fm/image/thumb/station/80s-first/1000x1000ht.jpg" group-title="80s,classic,hits",Hunter 80s
 https://live.hunter.fm/80s_high
-#EXTINF:-1 tvg-logo="https://cdn.hunter.fm/image/thumb/station/lo-fi-first/1000x1000ht.jpg" group-title="chill,hip hop,lofi,relax",Hunter LoFi
+#EXTINF:-1 tvg-logo="https://cdn.hunter.fm/image/thumb/station/lo-fi-first/1000x1000ht.jpg" group-title="chill,hip hop,lofi",Hunter LoFi
 https://live.hunter.fm/lofi_high
 #EXTINF:-1 tvg-logo="https://cdn.hunter.fm/image/thumb/station/pop-first/1000x1000ht.jpg" group-title="hits,pop",Hunter Pop
 https://live.hunter.fm/pop_high
@@ -201,7 +239,9 @@ https://live.hunter.fm/rock_high
 https://live.hunter.fm/sertanejo_high
 #EXTINF:-1 tvg-logo="https://cdn.hunter.fm/image/thumb/station/tropical-first/1000x1000ht.jpg" group-title="deep,house,tropical",Hunter Tropical
 https://live.hunter.fm/tropical_high
-#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio13304_1510576569.jpg" group-title="local,news,music,sports,talk",Imembuí
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCxgATJEirJQ6Je00svg7Yel-Emywpw6X0UA&s" group-title="pop,news,talk",Imbe FM 101.5
+https://cast4.audiostream.com.br:2660/mp3
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio13304_1510576569.jpg" group-title="news,sports,talk",Imembuí
 http://centova17.ciclanohost.com.br:8405/
 #EXTINF:-1 tvg-logo="https://dattecnologia.com.br/wp-content/uploads/2011/10/Icone-imparsomfm.png" group-title="news,talk",Imparsom 100.1
 http://wz3.dnip.com.br/imparsomhd/imparsomhd.stream/playlist.m3u8
@@ -209,9 +249,11 @@ http://wz3.dnip.com.br/imparsomhd/imparsomhd.stream/playlist.m3u8
 https://inthemixbrasil.radioca.st/stream
 #EXTINF:-1 tvg-logo="https://seeded-session-images.scdn.co/v2/img/122/secondary/artist/16DmZjiYcSn4wlUsI3HIGj/en" group-title="pop,world",Ipanema 91.1
 http://104.238.205.43:8290/stream
-#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio13483_1505754017.jpg" group-title="rock,classic,house,information,mpb,soul",Itapema 102.3
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio13483_1505754017.jpg" group-title="rock,house",Itapema 102.3
 https://1192747t.ha.azioncdn.net/primary/ita_poa.sdp/chunklist_f67b569e-6c38-4dee-9982-46782ad96ca4.m3u8
-#EXTINF:-1 tvg-logo="http://www.umbertovettori.com/images/layout/logo-novo_1542311908.jpg" group-title="classic,jazz",Jazz Medley Webradio
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio13520_1692020159.png" group-title="adult,contemporary,hits",Radio Jangadeiro 88.9 FM
+https://fmfortaleza.jmvstream.com/FMFortaleza_live
+#EXTINF:-1 tvg-logo="http://www.umbertovettori.com/images/layout/logo-novo_1542311908.jpg" group-title="blues,jazz",Jazz Medley Webradio
 http://server01.ouvir.radio.br:8006/stream
 #EXTINF:-1 tvg-logo="https://jb.fm/wp-content/uploads/2019/03/favicon.ico" group-title="adult,contemporary,news",Radio JB 99.9
 https://playerservices.streamtheworld.com/api/livestream-redirect/JBFMAAC.aac
@@ -223,7 +265,7 @@ http://wz3.dnip.com.br/aycomau1/aycomau1.stream/playlist.m3u8
 http://centova6.ciclanohost.com.br:9256/listen.pls
 #EXTINF:-1 tvg-logo="https://jpimg.com.br/uploads/2022/12/afiliadas-curitiba-500x500.jpg" group-title="top 40,pop,variety",Jovem Pan 103.9 Curitiba
 https://shout35.crossradio.com.br:18006/1
-#EXTINF:-1 tvg-logo="http://panfloripa.com.br/wp-content/uploads/2019/01/LOGO-NOVA-MOBILE1x.png" group-title="hits,international,local,world",Jovem Pan 101.7 Florianópolis 
+#EXTINF:-1 tvg-logo="http://panfloripa.com.br/wp-content/uploads/2019/01/LOGO-NOVA-MOBILE1x.png" group-title="hits,world",Jovem Pan 101.7 Florianópolis 
 http://wz5.dnip.com.br/jfloripa/jfloripa.stream/chunklist_w2047482307.m3u8
 #EXTINF:-1 tvg-logo="https://img.jovempan.uol.com.br/uploads/2018/11/BELO_HORIZONTE_LOGO_FM_AFILIADA_3D_VM-500x500.jpg" group-title="gerais,minas,pop",Jovem Pan 99.1 Belo Horizonte
 http://8a3c.live.upx.net.br:8036/stream.aac
@@ -231,7 +273,7 @@ http://8a3c.live.upx.net.br:8036/stream.aac
 http://centova14.ciclanohost.com.br:8405/stream
 #EXTINF:-1 tvg-logo="https://jovempan.uol.com.br/favicon.ico" group-title="hits,pop",Jovem Pan 100.9 São Paulo
 https://18733.live.streamtheworld.com:443/JP_SP_FMAAC.aac
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1301794132/NOVOOAAAA2_400x400.jpg" group-title="news,noticias,talk",Jovem Pan News 620 Sao Paulo
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1301794132/NOVOOAAAA2_400x400.jpg" group-title="noticias,talk",Jovem Pan News 620 Sao Paulo
 https://playerservices.streamtheworld.com/api/livestream-redirect/JP_NEWSAAC_SC
 #EXTINF:-1 tvg-logo="https://s.jpimg.com.br/wp-content/themes/jovempan/assets/build/images/favicons/apple-touch-icon.png" group-title="dance,pop",Jovem Pan 103.3 Patos de Minas
 https://shout25.crossradio.com.br:24030//1
@@ -243,7 +285,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/JP_NEWSAAC_SC?
 http://6d9a.webradio.upx.net.br:9059/stream
 #EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s196948q.png" group-title="bossa nova,dance,world",JP Bossa Nova Jovem Pan
 http://6d9a.webradio.upx.net.br:9974/stream
-#EXTINF:-1 tvg-logo="https://jovempan.uol.com.br/wp-content/themes/jovempan/assets/build/images/logos-player/jpclassic.jpg" group-title="adult,contemporary,classic,hits",JP Classic Pan Jovem Pan
+#EXTINF:-1 tvg-logo="https://jovempan.uol.com.br/wp-content/themes/jovempan/assets/build/images/logos-player/jpclassic.jpg" group-title="adult,contemporary,hits",JP Classic Pan Jovem Pan
 http://sh.upx.com.br:8032/stream
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s212920q.png" group-title="classical,adult,hits",JP Clássica Jovem Pan 76.7
 http://6d9a.webradio.upx.net.br:9970/stream
@@ -253,7 +295,7 @@ http://6d9a.webradio.upx.net.br:9968/stream
 http://6d9a.webradio.upx.net.br:9064/stream
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s194022q.png" group-title="world,mpb",JP MPB Jovem Pan
 http://6d9a.webradio.upx.net.br:9022/stream
-#EXTINF:-1 tvg-logo="https://media.jovempan.com.br/uploads/2018/05/logo-jovempan-mpb-150x150.png" group-title="mpb,samba",JP MPB (SP)
+#EXTINF:-1 tvg-logo="https://media.jovempan.com.br/uploads/2018/05/logo-jovempan-mpb-150x150.png" group-title="mpb,samba",JP MPB
 https://sc1s.cdn.upx.com:8034/stream
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s228267q.png" group-title="chill,new age",JP Zen Jovem Pan
 http://6d9a.webradio.upx.net.br:8024/stream
@@ -275,6 +317,8 @@ http://mp4.livemix.com.br/livemix
 https://ssl.srvstm.com:7750/listen.pls
 #EXTINF:-1 tvg-logo="http://maisfm.net/App_Themes/maisfm_logo_topo.png" group-title="pop,hits,sertanejo",Mais 101.7
 http://148.72.158.239:8159/live
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/1c/20/1c205f50ba43325bdced760bc1985dca.png" group-title="pop,hits,sertanejo",Maisnova FM 94.7
+https://play.radio.br:8089/mncaxias/mncaxias/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s118092/images/logoq.jpg?t=636256" group-title="hits,classic,contemporary",Radio Máquina do Tempo Internacional
 http://servidor28.brlogic.com:8212/live
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s121927/images/logoq.jpg?t=636255" group-title="mpb,talk,pop,hits",Radio MPB Máquina do Tempo
@@ -283,21 +327,31 @@ http://servidor28.brlogic.com:8032/live
 http://servidor27.brlogic.com:8124/live
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s98651/images/logod.jpg?t=160215" group-title="classical,gospel",Radio Maranata 103.9
 https://player.srvaudio.com.br/player-ssl/10348
+#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/6441e5723c757.png" group-title="pop,world,sertaneja",Massa FM Curitiba 97.7
+https://stm01.virtualcast.com.br:8000/massasaopaulo
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMeqsQUB84FfJxQRnK9qZCsd4HqKDOTKxnvA&s" group-title="classical,world",MEC FM 99.3
+https://radiomecfm-stream.ebc.com.br/ebc/radiomecfm/MEC_FM-mp4a_114000_eng=1.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgMjQXzUZa-ByEoRawCcL0wdAv7tRakV15-Q&s" group-title="world,latin",Radio Meio Norte FM 99.9
+https://webradio.amsolution.com.br/radio/8280/meionorte
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8TMO81rof3mx_eVIHivxVfTBM_4dfxlKVKNcIgLiw3fTB8QfpE76H06CCgxBak4EuQ0g&usqp=CAU" group-title="pop,world",Radio Melhor Da MPB
 http://stream.zeno.fm/8b3b34apta0uv?rj-ttl=5&rj-tok=AAABfdt3zBIAGKthX1JHcJ9shg
-#EXTINF:-1 tvg-logo="https://fundacaoculturaldevarginha.com.br/wp-content/uploads/2019/01/cropped-favicon-32x32.png" group-title="mpb,sertanejo",Radio Melodia 102.3 Varginha
+#EXTINF:-1 tvg-logo="https://fundacaoculturaldevarginha.com.br/wp-content/uploads/2019/01/cropped-favicon-32x32.png" group-title="world,sertanejo",Radio Melodia 102.3 Varginha
 https://server01.ouvir.radio.br:8033/stream
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJtnROCLXcL9GifKzRTRAynhsEISJLqMHikw&s" group-title="rock,pop,hits",Melphis FM 99.7
+https://stm6.xcast.com.br:9836/stream
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/eHWO7Yt6k_9V079bCPlU176z12Iueni1LH5s8HMtZ4jlEUf30QyuDYfxnBxxWd-aIwI" group-title="pop,top 40",Mix Rio 102.1 
 https://playerservices.streamtheworld.com/api/livestream-redirect/MIXRIOAAC_SC
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/n5_tWLnZC3M0gs4h7T2XTa2x4kG0UzPRhzszaz4Ox-ycOSOhtiUJ3Gop_nebkkwUURdg=w600-h300-pc0xffffff-pd" group-title="mpb,jazz,soul",MKK Web Radio
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Yr_8fnofFso9swZypcfQZ2dT9-aNJmYlOA&s" group-title="world,pop",Mix FM 91.5 Teresina 
+https://webradio.amsolution.com.br/radio/8080/mix
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/n5_tWLnZC3M0gs4h7T2XTa2x4kG0UzPRhzszaz4Ox-ycOSOhtiUJ3Gop_nebkkwUURdg=w600-h300-pc0xffffff-pd" group-title="blues,jazz,soul",MKK Web Radio
 https://servidor34-1.brlogic.com:8096/live?source=site
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1427273547391676416/Uqat4KzN_400x400.jpg" group-title="rock,pop",Morcegao
 https://radio.morcegaofm.com.br/morcegao128
-#EXTINF:-1 tvg-logo="https://www.getmeradio.com/stations/morenafmrio-2333/logos/512x512.png" group-title="adult,contemporary,classic,rock,pop",Morena 98.0
+#EXTINF:-1 tvg-logo="https://www.getmeradio.com/stations/morenafmrio-2333/logos/512x512.png" group-title="adult,contemporary,rock",Morena 98.0
 https://centova5.transmissaodigital.com:20005/stream
 #EXTINF:-1 tvg-logo="https://www.morenafm.com/favicon.ico" group-title="blues,classic,rock,pop",Morena 98.0
 https://ssl1.transmissaodigital.com:2692/stream
-#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/5d8e83522fc9e.png" group-title="adult,contemporary,flashback",Morena Radio Easy 107.1
+#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/5d8e83522fc9e.png" group-title="adult,contemporary,oldies",Morena Radio Easy 107.1
 https://centova.svdns.com.br:20110/stream
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/wNm1qcW9HRZQ2IzuXNpEv1MygQTRIh8TrE_0k7jV5k2vwTg_wVmfSZhWcSziATLgXFc=w526-h296-rw" group-title="jazz,variety",MPBdoVinilAoDigital
 http://192.99.14.210:8339/stream
