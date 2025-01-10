@@ -87,7 +87,7 @@ http://strm112.1.fm/praise_mobile_mp3
 http://strm112.1.fm/spanisholdies_mobile_mp3
 #EXTINF:-1 tvg-logo="http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg" group-title="funk,soul",1.FM Funky Express Radio
 http://185.33.22.15:11121/
-#EXTINF:-1 tvg-logo="http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg" group-title="alternative,rock,indie,progressive",1.FM Gorilla FM Radio
+#EXTINF:-1 tvg-logo="http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg" group-title="alternative,rock,indie",1.FM Gorilla FM Radio
 http://strm112.1.fm/gorillafm_mobile_mp3
 #EXTINF:-1 tvg-logo="http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg" group-title="alternative,rock,metal",1.FM High Voltage Radio
 http://strm112.1.fm/highvoltage_mobile_mp3
@@ -99,7 +99,7 @@ http://strm112.1.fm/italiaonair_mobile_mp3
 http://strm112.1.fm/jamz_mobile_mp3
 #EXTINF:-1 tvg-logo="http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg" group-title="kids,youth",1.FM Kids FM Radio
 http://strm112.1.fm/kidsfm_mobile_mp3
-#EXTINF:-1 tvg-logo="http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg" group-title="love songs,romantic",1.FM Love Classics Radio
+#EXTINF:-1 tvg-logo="http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg" group-title="chansons,romantic",1.FM Love Classics Radio
 http://strm112.1.fm/loveclassics_mobile_mp3
 #EXTINF:-1 tvg-logo="http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg" group-title="80s,hits",1.FM Magic 80 Radio
 http://strm112.1.fm/magic80_mobile_mp3
@@ -139,7 +139,7 @@ http://strm112.1.fm/baroque_mobile_aac
 https://strm112.1.fm/classical_mobile_aac
 #EXTINF:-1 tvg-logo="https://www.dab-swiss.ch/assets/images/23.6_premier_sur_les_hits_logo_.jpg" group-title="pop,rock,dance",23.6 Premiers sur les hits
 https://236premiersurleshits.ice.infomaniak.ch/236premiersurleshits-192.aac
-#EXTINF:-1 tvg-logo="https://www.80sforever.radio/wp-content/uploads/2019/05/80sFOREVER-Logo_Radio_Block2_cmyk.jpg" group-title="80s,alternative,rock,gothic,indie,pop,new wave,power,pop,synthpop",80s Forever We Keep The 80s Alive
+#EXTINF:-1 tvg-logo="https://www.80sforever.radio/wp-content/uploads/2019/05/80sFOREVER-Logo_Radio_Block2_cmyk.jpg" group-title="80s,alternative,rock",80s Forever We Keep The 80s Alive
 https://premium.shoutcastsolutions.com/radio/8050/256.mp3
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s165127/images/logog.png?t=158799" group-title="jazz,blues",A Fine Jazz Gumbo Radio
 https://streaming.smartradio.ch:9502/stream
@@ -155,11 +155,11 @@ http://rs1.stream24.org:8690/stream
 http://rs1.stream24.org:9160/stream
 #EXTINF:-1 tvg-logo="https://u.jimcdn.com/cms/o/sd5cd40b553f8e406/img/favicon.png?t=1457946603" group-title="charts,oldies",BurningStation.com
 http://176.9.148.80:8750/stream
-#EXTINF:-1 tvg-logo="https://www.canal3.ch//de/sites/all/themes/canal3_theme_v2/images/iphone_retina_icon.png" group-title="adult,hits,contemporary,pop",Canal 3 DE
+#EXTINF:-1 tvg-logo="https://www.canal3.ch//de/sites/all/themes/canal3_theme_v2/images/iphone_retina_icon.png" group-title="hits,contemporary,pop",Canal 3 DE
 http://av03.upstream-media.ch/canal3allemand-128.mp3
-#EXTINF:-1 tvg-logo="https://www.canal3.ch//de/sites/all/themes/canal3_theme_v2/images/iphone_retina_icon.png" group-title="adult,hits,contemporary,pop",Canal 3 FR
+#EXTINF:-1 tvg-logo="https://www.canal3.ch//de/sites/all/themes/canal3_theme_v2/images/iphone_retina_icon.png" group-title="hits,contemporary,pop",Canal 3 FR
 http://av03.upstream-media.ch/canal3francais-128.mp3
-#EXTINF:-1 tvg-logo="http://www.christmasradio.fm/__soononline/countdown_files/img/logo.png" group-title="christian,contemporary,christmas,classical,country,R'n'B,soul",Christmas Radio
+#EXTINF:-1 tvg-logo="http://www.christmasradio.fm/__soononline/countdown_files/img/logo.png" group-title="christian,contemporary,christmas",Christmas Radio
 http://xmasfm1.dmd2streaming.com/christmasradiofm-128.mp3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Couleur_3_logo.svg/1200px-Couleur_3_logo.svg.png" group-title="indie,pop,rock",Couleur3
 http://stream.srg-ssr.ch/m/couleur3/aacp_96
@@ -171,7 +171,7 @@ https://s4.radio.co/s5729f2e59/listen
 http://stream.electroradio.fm/192k
 #EXTINF:-1 tvg-logo="https://electroradio.fm/wp-content/uploads/2020/12/cropped-er_logo-512-180x180.png" group-title="electronic,dance",electroradio.fm
 http://n01.radiojar.com/fkyxx4q35k0uv?rj-ttl=5&rj-tok=AAABfd5dBFwAZjQ6V2S0Hqix_Q
-#EXTINF:-1 tvg-logo="https://cdn.energy.ch/energych-broadcast/covers/channels/90x90-c/logo_primary_basel_1494402204.png" group-title="local,news,pop",Energy Basel NRJ
+#EXTINF:-1 tvg-logo="https://cdn.energy.ch/energych-broadcast/covers/channels/90x90-c/logo_primary_basel_1494402204.png" group-title="news,pop",Energy Basel NRJ
 https://energybasel.ice.infomaniak.ch/energybasel-high.mp3
 #EXTINF:-1 tvg-logo="https://cdn.energy.ch/energy-web/assets/favicons/apple-touch-icon-120x120.png" group-title="news,pop",Energy Bern NRJ
 http://broadcast.infomaniak.ch/energybern-high.mp3
@@ -187,35 +187,35 @@ http://framboase.ice.infomaniak.ch/framboase-128.mp3
 http://fbpc5.epfl.ch:8000/fb_192
 #EXTINF:-1 tvg-logo="https://furry.fm/images/FAVICONS/android-icon-144x144.png" group-title="rock,alternative,80s",Furry FM
 https://s4.radio.co/sa18a4da89/listen
-#EXTINF:-1 tvg-logo="http://play.gds.fm/build/images/gds-logo.jpg" group-title="acid,house,experimental,hip hop,indie,nu-jazz,trip hop",GDS.FM
+#EXTINF:-1 tvg-logo="http://play.gds.fm/build/images/gds-logo.jpg" group-title="acid,house,experimental",GDS.FM
 http://gdsfm.out.airtime.pro:8000/gdsfm_a
 #EXTINF:-1 tvg-logo="https://glaubenskampfbibelradio.com/wp-content/uploads/2018/06/cropped-app-5-180x180.png" group-title="religious,christian",Glaubenskampf Bibel Radio
 https://streams.radio.co/s06c02a443/listen
 #EXTINF:-1 tvg-logo="http://www.globalfm.ch/favicon.ico" group-title="pop,world",Global FM
 http://globalfm.ice.infomaniak.ch/globalfm-high.mp3
-#EXTINF:-1 tvg-logo="http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg" group-title="alternative,rock,indie,progressive",1.FM Gorilla.fm
+#EXTINF:-1 tvg-logo="http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg" group-title="alternative,rock,indie",1.FM Gorilla.fm
 https://strm112.1.fm/gorillafm_mobile_mp3
 #EXTINF:-1 tvg-logo="https://www.grrif.ch/wp-content/themes/grrif/img/player/logo-grrif.png" group-title="rock,electronic",GRRIF
 http://grrif.ice.infomaniak.ch/grrif-high.mp3
-#EXTINF:-1 tvg-logo="http://is4.mzstatic.com/image/thumb/Purple71/v4/61/cb/5e/61cb5ed3-8005-1015-2b04-2ea3e77d3a0a/source/1200x630bb.jpg" group-title="80s,adult,hits,pop,rock",IP Music
+#EXTINF:-1 tvg-logo="http://is4.mzstatic.com/image/thumb/Purple71/v4/61/cb/5e/61cb5ed3-8005-1015-2b04-2ea3e77d3a0a/source/1200x630bb.jpg" group-title="80s,hits,pop",IP Music
 http://live9.avf.ch:8000/ipmusicaacplus96
-#EXTINF:-1 tvg-logo="http://is4.mzstatic.com/image/thumb/Purple71/v4/61/cb/5e/61cb5ed3-8005-1015-2b04-2ea3e77d3a0a/source/1200x630bb.jpg" group-title="80s,adult,hits,pop,rock",IP Music
+#EXTINF:-1 tvg-logo="http://is4.mzstatic.com/image/thumb/Purple71/v4/61/cb/5e/61cb5ed3-8005-1015-2b04-2ea3e77d3a0a/source/1200x630bb.jpg" group-title="80s,hits,pop",IP Music
 http://live7.avf.ch:8000/ipmusic320
-#EXTINF:-1 tvg-logo="http://is4.mzstatic.com/image/thumb/Purple71/v4/61/cb/5e/61cb5ed3-8005-1015-2b04-2ea3e77d3a0a/source/1200x630bb.jpg" group-title="80s,adult,hits,pop,rock",IP Music Slow
+#EXTINF:-1 tvg-logo="http://is4.mzstatic.com/image/thumb/Purple71/v4/61/cb/5e/61cb5ed3-8005-1015-2b04-2ea3e77d3a0a/source/1200x630bb.jpg" group-title="80s,hits,pop",IP Music Slow
 http://live7.avf.ch:8000/ipmusicslowaacp128
-#EXTINF:-1 tvg-logo="http://is4.mzstatic.com/image/thumb/Purple71/v4/61/cb/5e/61cb5ed3-8005-1015-2b04-2ea3e77d3a0a/source/1200x630bb.jpg" group-title="80s,adult,hits,pop,rock",IP Music Slow
+#EXTINF:-1 tvg-logo="http://is4.mzstatic.com/image/thumb/Purple71/v4/61/cb/5e/61cb5ed3-8005-1015-2b04-2ea3e77d3a0a/source/1200x630bb.jpg" group-title="80s,hits,pop",IP Music Slow
 http://live7.avf.ch:8000/ipmusicslowaacp96
 #EXTINF:-1 tvg-logo="https://www.jamesfm.ch/wp-content/uploads/2017/08/cropped-jamesFM_Logo_negativ-1.png" group-title="rock,pop,oldies",James FM
 https://jamesfm.ice.infomaniak.ch/jamesfm.mp3
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/YnrWEDemIZedZ3l6hPrIYvlWIyqYmYUOL89E74Mr6o3CcDmRl60Zxiqeqhu8dSBXM92ZIQQMDWPxvGeleQ" group-title="christian,religious",Kanal Bethesda
 http://n02.radiojar.com/a2dd2q0kb?rj-ttl=5&rj-tok=AAABfd3RChUAYiX2MlTV8t3eZg
-#EXTINF:-1 tvg-logo="https://radio.dpsoft.ch/globalfm/images/cover_vd.jpg?rand=89" group-title="70s,80s,disco,rock,sport",KTFM Global Sport
+#EXTINF:-1 tvg-logo="https://radio.dpsoft.ch/globalfm/images/cover_vd.jpg?rand=89" group-title="70s,80s,disco",KTFM Global Sport
 http://live9.avf.ch:8000/globalfmdabge
 #EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/00/2c/11205/c300.png" group-title="féminine,alternative,rock",Radio Vostok
 http://radiovostok.ice.infomaniak.ch/lavostoke.aac
 #EXTINF:-1 tvg-logo="https://www.lfm.ch/wp-content/uploads/2017/07/LFM_Allonge_Fond_Blanc_v01copie.png" group-title="pop,hits",LFM
 http://lausannefm.ice.infomaniak.ch/lausannefm-high.mp3
-#EXTINF:-1 tvg-logo="https://looseantenna.fm/favicon-32x32.png?v=b3c85b31b0d9b8b0ad023d35d25460f9" group-title="community,electronic,experimental,local,social activist",Loose Antenna
+#EXTINF:-1 tvg-logo="https://looseantenna.fm/favicon-32x32.png?v=b3c85b31b0d9b8b0ad023d35d25460f9" group-title="community,electronic,experimental",Loose Antenna
 https://stream.looseantenna.fm/radio/8000/default.mp3
 #EXTINF:-1 tvg-logo="https://lounge-radio.com//wp-content/uploads/fbrfg/mstile-144x144.png" group-title="chillout,lounge",Lounge Radio
 http://de1.streamhosting.ch/
@@ -255,9 +255,9 @@ http://stream01.my105.ch/my105rock.mp3
 http://stream01.my105.ch/my105thebattle.mp3
 #EXTINF:-1 tvg-logo="http://www.neo1.ch/fileadmin/templates/neo1/apple-touch-icon-144x144-precomposed.png" group-title="pop,rock",neo1
 http://neo1.bcast.infomaniak.ch/neo1.mp3
-#EXTINF:-1 tvg-logo="http://i0.wp.com/ncradio.fm/wp-content/uploads/2019/06/120-1.png" group-title="brit,pop,classic,rock,indie",New Clear Radio
+#EXTINF:-1 tvg-logo="http://i0.wp.com/ncradio.fm/wp-content/uploads/2019/06/120-1.png" group-title="brit,pop,classic",New Clear Radio
 http://live.ncradio.fm/320
-#EXTINF:-1 tvg-logo="https://players.fluidstream.it/OneDanceCH/images/cover_default.jpg" group-title="dance,electronic,pop,top 40",One Dance Ticino
+#EXTINF:-1 tvg-logo="https://players.fluidstream.it/OneDanceCH/images/cover_default.jpg" group-title="dance,pop,top 40",One Dance Ticino
 https://ice15.fluidstream.net/onedancech.aac
 #EXTINF:-1 tvg-logo="http://www.onefm.ch/wp-content/uploads/2017/08/favicon.png" group-title="pop,top 40",One FM
 http://onefm.ice.infomaniak.ch/onefm-low.mp3
@@ -319,9 +319,9 @@ http://radiofd.ice.infomaniak.ch/radiofd.mp3
 http://radiofdch.ice.infomaniak.ch/radiofdch.mp3
 #EXTINF:-1 tvg-logo="https://radiogloria.ch/wp-content/uploads/thegem-logos/logo_9cd18d97a3b4bae80c3fe3f344250acb_1x.png" group-title="christian,katholik",Radio Gloria
 https://ch-be06-ice.dmd2streaming.com/radiogloria_lo
-#EXTINF:-1 tvg-logo="http://radio.grenzenlos.ch/web/wp-content/uploads/2017/02/cropped-grenzenlos-icon-192x192.jpg" group-title="pop,adult,contemporary,gay,queer",Radio Grenzenlos
+#EXTINF:-1 tvg-logo="http://radio.grenzenlos.ch/web/wp-content/uploads/2017/02/cropped-grenzenlos-icon-192x192.jpg" group-title="pop,contemporary,gay",Radio Grenzenlos
 http://live.grenzenlos.ch:5006/stream
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s256392/images/logog.jpg?t=152810" group-title="experimental,rock,punk,ska,world",Radio Gugelhopf
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s256392/images/logog.jpg?t=152810" group-title="experimental,rock,punk",Radio Gugelhopf
 http://uk3.internet-radio.com:8113/stream
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s110181q.png" group-title="world,rock,jazz",Radio Gwendalyn
 http://stream.radiogwen.ch:8000/radiogwen
@@ -333,15 +333,15 @@ http://kaiseregg.ice.infomaniak.ch/stream128k.mp3
 https://radiolac.ice.infomaniak.ch/radiolac-high.mp3
 #EXTINF:-1 tvg-logo="http://www.lora.ch/favicon.ico" group-title="talk,news",Radio Lora 97.5
 http://lora.ice.infomaniak.ch/lora.mp3
-#EXTINF:-1 tvg-logo="http://www.radiomaria.ch//sites/all/themes/richer/assets/images/favicons/apple-icon-57x57.png" group-title="catholic,christian,religion,talk",Radio Maria Switzerland
+#EXTINF:-1 tvg-logo="http://www.radiomaria.ch//sites/all/themes/richer/assets/images/favicons/apple-icon-57x57.png" group-title="catholic,christian,religious",Radio Maria Switzerland
 http://dreamsiteradiocp2.com:8106/stream
-#EXTINF:-1 tvg-logo="https://www.radiomaria.ch/sites/default/files/favicon_0.ico" group-title="catholic,christian,religious,talk",Radio Maria Switzerland
+#EXTINF:-1 tvg-logo="https://www.radiomaria.ch/sites/default/files/favicon_0.ico" group-title="catholic,christian,religious",Radio Maria Switzerland
 http://dreamsiteradiocp.com:8020/stream
 #EXTINF:-1 tvg-logo="https://www.radiomelody.ch/favicon.ico" group-title="folk,oldies,schlager",Radio Melody
 https://fm1melody.ice.infomaniak.ch/fm1melody-128.mp3
 #EXTINF:-1 tvg-logo="https://www.radiomorcoteinternational.com/wp-content/uploads/2020/04/logo.png" group-title="morcote,pop,rock",Radio Morcote International
 http://streaming.radiomorcoteinternational.com:8000/listen.pls
-#EXTINF:-1 tvg-logo="https://www.radiomunot.ch/themes/custom/shn/images/rm_icons/apple-icon-120x120.png" group-title="local,news,pop",Radio Munot
+#EXTINF:-1 tvg-logo="https://www.radiomunot.ch/themes/custom/shn/images/rm_icons/apple-icon-120x120.png" group-title="news,pop",Radio Munot
 http://streaming.swisstxt.ch/m/radiomunot/mp3_128
 #EXTINF:-1 tvg-logo="https://images.streamitter.com/logos/WUP9KE.png" group-title="dance,hits",Radio One Dance Ticino
 http://ice15.fluidstream.net/onedancech.aac
@@ -353,7 +353,7 @@ http://radioouistiti2.ice.infomaniak.ch/radioouistiti-high.mp3
 http://ouistiti-aac.stream2net.eu:8100/listen.pls
 #EXTINF:-1 tvg-logo="http://www.radiopilatus.ch/favicon.ico" group-title="pop,hits",Radio Pilatus
 http://radiopilatus.bcast.infomaniak.ch/pilatus128.mp3
-#EXTINF:-1 tvg-logo="https://radio-r.ch/wp-content/uploads/2018/12/cropped-R-vignette-32x32.png" group-title="christian,contemporary,praise,worship,christmas",Radio R
+#EXTINF:-1 tvg-logo="https://radio-r.ch/wp-content/uploads/2018/12/cropped-R-vignette-32x32.png" group-title="christian,contemporary,praise",Radio R
 http://radior.ice.infomaniak.ch/radior-128.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/8c/8a/1919/1/c300.png" group-title="alternative,pop,hip hop",Radio Radius
 http://relay.radio.ethz.ch/sender.aac
@@ -361,7 +361,7 @@ http://relay.radio.ethz.ch/sender.aac
 http://relay.radio.ethz.ch/sender.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/8c/8a/1919/1/c300.png" group-title="alternative,pop,hip hop",Radio Radius
 http://relay.radio.ethz.ch/sender.ogg
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH1VTWK2Et_eE-bq6dmihNytX_nFAW-_5thq7U0bVadKmenMVw3s2yeDxQbrDObaEqNJk&usqp=CAU" group-title="alternative,eclectic,progressive,rock",Radio Rocket
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH1VTWK2Et_eE-bq6dmihNytX_nFAW-_5thq7U0bVadKmenMVw3s2yeDxQbrDObaEqNJk&usqp=CAU" group-title="alternative,eclectic,progressive",Radio Rocket
 https://i9.streams.ovh/sc/radioroc/stream
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/e3ffed_3c0d12e13efe45b6b97992dca8d3ab95~mv2_d_10000_10000_s_4_2.png/v1/fill/w_456,h_456,al_c,q_85,usm_0.33_1.00_0.00/Radio%20Rotation%20DARK%2010kmx10km.webp" group-title="soul,oldies",Radio Rotation
 http://radio-rotation.stream.laut.fm/radio-rotation?t302=2021-12-21_01-46-19&uuid=354d35ad-5392-4991-a9ac-33c19fd617c2
@@ -407,11 +407,11 @@ http://stream.srg-ssr.ch/m/drs4news/aacp_32
 http://stream.srg-ssr.ch/m/drs3/aacp_96
 #EXTINF:-1 tvg-logo="https://www.srf.ch/extension/srf_shared/design/standard/images/logos/srflogo.png" group-title="chanson,schlager",Radio SRF Musikwelle
 http://stream.srg-ssr.ch/m/drsmw/aacp_32
-#EXTINF:-1 tvg-logo="https://www.srf.ch/extension/srf_shared/design/standard/images/logos/srflogo.png" group-title="pop,rock",Radio SRF Virus
+#EXTINF:-1 tvg-logo="https://www.srf.ch/extension/srf_shared/design/standard/images/logos/srflogo.png" group-title="indie,rock,public",Radio SRF Virus
 http://stream.srg-ssr.ch/m/drsvirus/aacp_32
-#EXTINF:-1 tvg-logo="https://www.srf.ch/play/v3/svgs/radio/radio-srf-virus-small.svg" group-title="pop,rock",Radio SRF Virus
+#EXTINF:-1 tvg-logo="https://www.srf.ch/play/v3/svgs/radio/radio-srf-virus-small.svg" group-title="indie,rock,public",Radio SRF Virus
 http://stream.srg-ssr.ch/m/drsvirus/aacp_96
-#EXTINF:-1 tvg-logo="https://www.srf.ch/extension/srf_shared/design/standard/images/logos/srflogo.png" group-title="indie,rock,public",Radio SRF Virus Indie Rock
+#EXTINF:-1 tvg-logo="https://www.srf.ch/extension/srf_shared/design/standard/images/logos/srflogo.png" group-title="indie,rock,public",Radio SRF Virus
 http://streaming.swisstxt.ch/m/drsvirus/mp3_128
 #EXTINF:-1 tvg-logo="http://www.stadtfilter.ch/favicon.ico" group-title="talk,alternative",Radio Stadtfilter Winterthur
 http://stream.stadtfilter.net:8406/stadtfilter.mp3
@@ -461,9 +461,9 @@ http://77.109.144.109:8000/twosrp128
 http://vintage.ice.infomaniak.ch/vintage
 #EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/00/2c/11205/c300.png" group-title="electro,rock,indie",Radio Vostok
 http://radiovostok.ice.infomaniak.ch/radiovostok.aac
-#EXTINF:-1 tvg-logo="http://www.radiox.ch/.resources/radiox-theme/webresources/images/favicon/touch-icon-ipad.png" group-title="drum and bass,electronica,hip hop,house,indie,reggae,trance",Radio X Basel
+#EXTINF:-1 tvg-logo="http://www.radiox.ch/.resources/radiox-theme/webresources/images/favicon/touch-icon-ipad.png" group-title="drum'n'bass,electronica,hip hop",Radio X Basel
 http://mp3.radiox.ch:8000/standard.mp3
-#EXTINF:-1 tvg-logo="http://www.radiox.ch/.resources/radiox-theme/webresources/images/favicon/touch-icon-ipad.png" group-title="drum and bass,electronica,hip hop,house,indie,reggae,trance",Radio X Basel
+#EXTINF:-1 tvg-logo="http://www.radiox.ch/.resources/radiox-theme/webresources/images/favicon/touch-icon-ipad.png" group-title="drum'n'bass,electronica,hip hop",Radio X Basel
 http://mp3.radiox.ch:8000/standard.ogg
 #EXTINF:-1 tvg-logo="https://www.radio.ch/static/favicon.png" group-title="pop,hits",Radio Zürisee
 http://mp3.radio.ch/radiozuerisee128k
@@ -529,7 +529,7 @@ http://stream.srg-ssr.ch/m/reteuno/mp3_128
 http://stream.srg-ssr.ch/m/couleur3/aacp_32
 #EXTINF:-1 tvg-logo="https://www.rts.ch/2017/01/24/14/05/8156488.image" group-title="culture,variety",RTS Espace 2
 http://stream.srg-ssr.ch/m/espace-2/aacp_32
-#EXTINF:-1 tvg-logo="https://www.rts.ch/2017/01/24/13/59/8156485.image" group-title="pop,rock",RTS La Premiere
+#EXTINF:-1 tvg-logo="https://www.rts.ch/2017/01/24/13/59/8156485.image" group-title="pop,rock",RTS Premiere
 http://stream.srg-ssr.ch/m/la-1ere/aacp_32
 #EXTINF:-1 tvg-logo="https://www.rts.ch/2017/01/24/14/05/8156565.image" group-title="chanson,ballads",RTS Option Musique
 http://stream.srg-ssr.ch/m/option-musique/aacp_32
@@ -541,11 +541,11 @@ http://stream.srg-ssr.ch/m/couleur3/mp3_128
 http://stream.srg-ssr.ch/m/espace-2/aacp_96
 #EXTINF:-1 tvg-logo="https://i3.radionomy.com/radios/400/337b68f3-9353-4bbf-8c21-dec45305d866.png" group-title="classic,jazz,public",RTS Espace 2
 http://stream.srg-ssr.ch/m/espace-2/mp3_128
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/df/La_Premi%C3%A8re.png" group-title="public,pop,rock",RTS La Première
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/df/La_Premi%C3%A8re.png" group-title="public,pop,rock",RTS Première
 http://stream.srg-ssr.ch/m/la-1ere/mp3_128
 #EXTINF:-1 tvg-logo="http://static.radio.net/images/broadcasts/9e/dd/3462/5/c175.png" group-title="chanson,ballads",RTS Option Musique
 http://stream.srg-ssr.ch/m/option-musique/mp3_128
-#EXTINF:-1 tvg-logo="https://www.jecoutelaradioenligne.com/wp-content/uploads/logo-rundfunk-fm.jpg" group-title="alternative,classic,rock,electronica,folk,funk,reggae,R'n'B,soul,trip hop",Rundfunk.fm
+#EXTINF:-1 tvg-logo="https://www.jecoutelaradioenligne.com/wp-content/uploads/logo-rundfunk-fm.jpg" group-title="alternative,oldies,rock",Rundfunk.fm
 http://rundfunk.ice.infomaniak.ch/rundfunk-192
 #EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/50/31/12478/1/c300.png" group-title="pop,public,rock",Radio Central
 http://centralswiss.ice.infomaniak.ch/centralswiss-128.mp3
@@ -561,17 +561,17 @@ http://stream.srg-ssr.ch/m/drs3/mp3_128
 http://stream.srg-ssr.ch/m/drs4news/mp3_128
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Radio_SRF_Musikwelle.svg/205px-Radio_SRF_Musikwelle.svg.png" group-title="folk,public,volksmusik",Radio SRF Musikwelle
 http://stream.srg-ssr.ch/m/drsmw/mp3_128
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Radio_SRF_Virus.svg/205px-Radio_SRF_Virus.svg.png" group-title="alternative,rock,public,youth",Radio SRF Virus
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Radio_SRF_Virus.svg/205px-Radio_SRF_Virus.svg.png" group-title="alternative,rock,youth",Radio SRF Virus
 http://stream.srg-ssr.ch/m/drsvirus/mp3_128
 #EXTINF:-1 tvg-logo="https://www.srf.ch/extension/srf_shared/design/standard/images/logos/srflogo.png" group-title="public,pop",Radio SRF1
 http://stream.srg-ssr.ch/m/drs1/aacp_96
 #EXTINF:-1 tvg-logo="https://www.srf.ch/extension/srf_shared/design/standard/images/favicons/apple-touch-icon-120x120.png" group-title="local,news,public",Radio SRF1 Aargau Solothurn
 http://stream.srg-ssr.ch/m/regi_ag_so/aacp_96
-#EXTINF:-1 tvg-logo="https://www.sunradio.ch/Startseite/Uber-uns/berner-musik-2023-1.png" group-title="80s,chansons,classic,rock,greek,instrumental,italian,pop,soundtracks",Sunradio Best International Music
+#EXTINF:-1 tvg-logo="https://www.sunradio.ch/Startseite/Uber-uns/berner-musik-2023-1.png" group-title="80s,chansons,oldies",Sunradio Best International Music
 http://87.237.169.24:8000/live
 #EXTINF:-1 tvg-logo="https://store-images.s-microsoft.com/image/apps.24061.9007199266633019.73044cff-61b1-4fa1-aa24-9f7e8029970e.a4007f5a-bb83-43fb-8bab-a0967dacb647" group-title="pop,hits",Radio Swiss Pop
 http://stream.srg-ssr.ch/m/rsp/aacp_96
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s48811g.png" group-title="funk,jazz,rock,lounge,smooth,jazz",SwissGroove
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s48811g.png" group-title="funk,jazz,rock",SwissGroove
 http://158.69.74.203/
 #EXTINF:-1 tvg-logo="http://swissradio.ch/banner/swissradio-classical-500.jpg" group-title="classical,baroque",Swissradio.ch Classical
 http://relay.publicdomainproject.org/classical.mp3
@@ -579,33 +579,33 @@ http://relay.publicdomainproject.org/classical.mp3
 http://relay.publicdomainproject.org/jazz_swing.mp3
 #EXTINF:-1 tvg-logo="http://www.toxic.fm//favicons/mstile-144x144.png" group-title="progressive,rock",toxic.fm
 http://toxicfm.ice.infomaniak.ch/toxicfm-128
-#EXTINF:-1 tvg-logo="https://static.radio.fr/images/broadcasts/77/bb/7634/c175.png" group-title="ambient,relaxation,chill,chillout,relax",Traxx FM Ambient
+#EXTINF:-1 tvg-logo="https://static.radio.fr/images/broadcasts/77/bb/7634/c175.png" group-title="ambient,relaxation,chill",Traxx FM Ambient
 http://traxx011.ice.infomaniak.ch/traxx011-low.mp3
-#EXTINF:-1 tvg-logo="https://static.radio.fr/images/broadcasts/77/bb/7634/c175.png" group-title="jazz,lounge,nu-jazz,relax,smooth,jazz",Traxx FM Cool Jam
+#EXTINF:-1 tvg-logo="https://static.radio.fr/images/broadcasts/77/bb/7634/c175.png" group-title="jazz,lounge,nu-jazz",Traxx FM Cool Jam
 http://traxx005.ice.infomaniak.ch/traxx005-low.mp3
 #EXTINF:-1 tvg-logo="https://static.radio.fr/images/broadcasts/77/bb/7634/c175.png" group-title="deep,house,electronic",Traxx FM Deep
 http://traxx013.ice.infomaniak.ch/traxx013-low.mp3
-#EXTINF:-1 tvg-logo="https://static.radio.fr/images/broadcasts/77/bb/7634/c175.png" group-title="edm,electro,electronic,house",Traxx FM Deluxe
+#EXTINF:-1 tvg-logo="https://static.radio.fr/images/broadcasts/77/bb/7634/c175.png" group-title="edm,electronic,house",Traxx FM Deluxe
 http://traxx001.ice.infomaniak.ch/traxx001-low.mp3
 #EXTINF:-1 tvg-logo="https://static.radio.fr/images/broadcasts/77/bb/7634/c175.png" group-title="funk,soul",Traxx FM Funk
 http://traxx016.ice.infomaniak.ch/traxx016-low.mp3
-#EXTINF:-1 tvg-logo="https://static.radio.fr/images/broadcasts/77/bb/7634/c175.png" group-title="1970s,1980s,70s,80s,golden,oldies",Traxx FM Golden Oldies
+#EXTINF:-1 tvg-logo="https://static.radio.fr/images/broadcasts/77/bb/7634/c175.png" group-title="70s,80s,oldies",Traxx FM Golden Oldies
 http://traxx023.ice.infomaniak.ch/traxx023-1.mp3
-#EXTINF:-1 tvg-logo="https://static.radio.fr/images/broadcasts/77/bb/7634/c175.png" group-title="deep,house,edm,electronic,house",Traxx FM House
+#EXTINF:-1 tvg-logo="https://static.radio.fr/images/broadcasts/77/bb/7634/c175.png" group-title="deep,house,electronic",Traxx FM House
 http://traxx002.ice.infomaniak.ch/traxx002-low.mp3
 #EXTINF:-1 tvg-logo="https://static.radio.fr/images/broadcasts/77/bb/7634/c175.png" group-title="classic,jazz,smooth",Traxx FM Jazz
 http://traxx014.ice.infomaniak.ch/traxx014-low.mp3
 #EXTINF:-1 tvg-logo="https://static.radio.fr/images/broadcasts/77/bb/7634/c175.png" group-title="latin,pop,latino",Traxx FM Latino
 http://traxx008.ice.infomaniak.ch/traxx008-low.mp3
-#EXTINF:-1 tvg-logo="https://static.radio.fr/images/broadcasts/77/bb/7634/c175.png" group-title="lounge,relax,relaxation,smooth",Traxx FM Lounge
+#EXTINF:-1 tvg-logo="https://static.radio.fr/images/broadcasts/77/bb/7634/c175.png" group-title="lounge,relax,relaxation",Traxx FM Lounge
 http://traxx004.ice.infomaniak.ch/traxx004-low.mp3
 #EXTINF:-1 tvg-logo="https://static.radio.fr/images/broadcasts/77/bb/7634/c175.png" group-title="pop,hits",Traxx FM Pop
 http://traxx009.ice.infomaniak.ch/traxx009-low.mp3
-#EXTINF:-1 tvg-logo="https://static.radio.fr/images/broadcasts/77/bb/7634/c175.png" group-title="rap,hip hop,R'n'B,urban",Traxx FM Rap
+#EXTINF:-1 tvg-logo="https://static.radio.fr/images/broadcasts/77/bb/7634/c175.png" group-title="rap,hip hop,r'n'b",Traxx FM Rap
 http://traxx015.ice.infomaniak.ch/traxx015-low.mp3
 #EXTINF:-1 tvg-logo="https://static.radio.fr/images/broadcasts/77/bb/7634/c175.png" group-title="contemporary,R'n'B,blues",Traxx FM RnB
 http://traxx007.ice.infomaniak.ch/traxx007-low.mp3
-#EXTINF:-1 tvg-logo="https://static.radio.fr/images/broadcasts/77/bb/7634/c175.png" group-title="alternative,rock,classic,heavy,metal",Traxx FM Rock
+#EXTINF:-1 tvg-logo="https://static.radio.fr/images/broadcasts/77/bb/7634/c175.png" group-title="alternative,rock,metal",Traxx FM Rock
 http://traxx019.ice.infomaniak.ch/traxx019-low.mp3
 #EXTINF:-1 tvg-logo="https://static.radio.fr/images/broadcasts/77/bb/7634/c175.png" group-title="soul,blues",Traxx FM Soul
 http://traxx006.ice.infomaniak.ch/traxx006-low.mp3
