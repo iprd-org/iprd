@@ -97,6 +97,8 @@ http://icecast2.play.cz:8000/cro3-32aac
 http://icecast5.play.cz/cro3-128.mp3
 #EXTINF:-1 tvg-logo="http://api.play.cz/static/radio_logo/t200/croregionvysocina.png" group-title="local,news,oldies",CRo Vysocina 87.9
 http://icecast2.play.cz/crovysocina128.mp3
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/CRo_Zlin_Z_RGB.png/revision/latest/scale-to-width-down/220?cb=20190110082648" group-title="local,news,oldies",CRo Zlin
+https://rozhlas.stream/zlin_high.aac
 #EXTINF:-1 tvg-logo="https://online-radio.eu/logo/70/70480.jpg" group-title="dance,house,trance",Dance Club Radio
 https://ice4.abradio.cz/dance128.mp3
 #EXTINF:-1 tvg-logo="https://www.danceradio.cz/favicons/apple-icon-120x120.png" group-title="dance,electronic,rock",Dance Radio 89.0
@@ -183,7 +185,7 @@ http://ice.actve.net/web-pg-disko
 http://ice.actve.net/web-pg-pisnicky
 #EXTINF:-1 tvg-logo="https://www.pigy.cz/wp-content/themes/pigy/img/radio-pohadky-pigy.png" group-title="fairytales,children",Pigy.cz Pohadky
 http://ice.actve.net/web-pg-pohadky
-#EXTINF:-1 tvg-logo="https://radioly.app/images/18865.jpg" group-title="talk,literature,history,otr",Radio Povidka
+#EXTINF:-1 tvg-logo="https://radioly.app/images/18865.jpg" group-title="literature,history,otr",Radio Povidka
 https://ice3.abradio.cz/povidka128.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/87/2d/12734/c300.png" group-title="dance,electronic",Radio 1 91.9
 http://icecast6.play.cz/radio1-128.mp3
@@ -259,6 +261,8 @@ https://rozhlas.stream/cro7_mp3_128.mp3
 http://icecast2.play.cz/cro7-128.mp3
 #EXTINF:-1 tvg-logo="https://www.proglas.cz/res/images/og-default.png" group-title="christian,news",Radio Proglas
 http://icecast2.play.cz/proglas128
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/L01KOJKYBhccnWcHCzcF805OgpacfRiXpt-Ix4YjVrsWi2ONP68pcIJpF7wQJnhqpy9djrGmYA=s900-c-k-c0x00ffffff-no-rj" group-title="business,variety,culture",Radio Prostor 93.9
+https://bcast.spmmedia.cz/prostor-mp3
 #EXTINF:-1 tvg-logo="https://radiopunctum.cz/favicon/apple-touch-icon.png" group-title="alternative,ambient,electronic",Radio Punctum
 https://radiopunctum.cz:8001/radio
 #EXTINF:-1 tvg-logo="https://api.play.cz/static/radio_logo/t200/radio-relax.png" group-title="pop,rock",Radio Relax 92.3
@@ -269,9 +273,9 @@ http://ice3.abradio.cz/croretro64.mp3
 http://ice.abradio.cz/rockradio128.mp3
 #EXTINF:-1 tvg-logo="http://www.radiosamson.cz/../../../content/templates/favicon.gif" group-title="country,folk,rock",Radio Samson
 http://icecast8.play.cz/samsonfm128.mp3
-#EXTINF:-1 tvg-logo="https://svoboda.org/content/responsive/rfe/img/webapp/ico-128x128.png" group-title="russian,news,talk,political",Radio Svoboda
+#EXTINF:-1 tvg-logo="https://svoboda.org/content/responsive/rfe/img/webapp/ico-128x128.png" group-title="russian,news,talk",Radio Svoboda
 https://n0c.radiojar.com/hcrb063nn3quv?rj-ttl=5&rj-tok=AAABfdperlgAQofynFRJ8MBm0w
-#EXTINF:-1 tvg-logo="https://www.svoboda.org/Content/responsive/RFE/img/top_logo_news.png" group-title="news,political,talk,russian",Radio Svoboda
+#EXTINF:-1 tvg-logo="https://www.svoboda.org/Content/responsive/RFE/img/top_logo_news.png" group-title="news,talk,russian",Radio Svoboda
 http://n01.radiojar.com/hcrb063nn3quv?rj-ttl=5&rj-tok=AAABfdqODuwAF2U5qDZ8VI0O0A
 #EXTINF:-1 tvg-logo="http://www.radiozapad.cz/favicon.ico" group-title="hits,pop,top 40",Radio Zapad 103.0
 http://icecast9.play.cz/radio-zapad-128.mp3
@@ -321,19 +325,19 @@ http://zxm.cz:8000/zx
 http://n0a.radiojar.com/s4r86napn3quv?rj-ttl=5&rj-tok=AAABfd4tdmAAs5k-z5fb3B4DPQ
 #EXTINF:-1 tvg-logo="http://www.azattyk.org/Content/responsive/RFE/img/top_logo_news.png" group-title="news,kyrgyz,talk",Аzattik Ynalgysy RFE/RL in Kyrgyz Channel 1
 http://n0f.radiojar.com/q9z8fs3nn3quv?rj-ttl=5&rj-tok=AAABfd4gumUAhDXUeDHte9Mu_Q
-#EXTINF:-1 tvg-logo="https://ru.krymr.com/content/responsive/rfe/img/webapp/ico-128x128.png" group-title="russian,ukrainian,talk,news",Krim Realii
+#EXTINF:-1 tvg-logo="https://ru.krymr.com/content/responsive/rfe/img/webapp/ico-128x128.png" group-title="russian,ukrainian,news",Krim Realii
 https://n09.radiojar.com/wm9sntcpn3quv?rj-ttl=5&rj-tok=AAABfdoMJLsAfepLbHp8eva27A
 #EXTINF:-1 tvg-logo="http://www.ozodlik.org/Content/responsive/RFE/img/top_logo_news.png" group-title="news,uzbek,talk",Ozodlik Radioci RFE/RL in Uzbek Channel 13
 http://n0d.radiojar.com/9mdte4apn3quv?rj-ttl=5&rj-tok=AAABfdr9KlAAzgY0e84-QP5_pA
-#EXTINF:-1 tvg-logo="http://www.svoboda.org/Content/responsive/RFE/img/top_logo_news.png" group-title="cultural,news,talk,russian",Radio Svoboda RFE/RL in Russian Channel 4
+#EXTINF:-1 tvg-logo="http://www.svoboda.org/Content/responsive/RFE/img/top_logo_news.png" group-title="culture,news,russian",Radio Svoboda RFE/RL in Russian Channel 4
 http://n08.radiojar.com/hcrb063nn3quv?rj-ttl=5&rj-tok=AAABfd3x8hwA-nhZO1vmAhHBGQ
 #EXTINF:-1 tvg-logo="http://www.slobodnaevropa.mk/Content/responsive/RFE/img/top_logo_news.png" group-title="news,macedonian,talk",Radio Svoboda Evropa RFE/RL in Macedonian Channel 14
 http://n06.radiojar.com/hrvg3cbpn3quv?rj-ttl=5&rj-tok=AAABfd5ndY8A3grW8VtMrOhqfQ
 #EXTINF:-1 tvg-logo="http://www.ozodi.org/Content/responsive/RFE/img/top_logo_news.png" group-title="news,tajik,talk",Radioi Ozodi RFE/RL in Tajik Channel 9
 http://n02.radiojar.com/mn1ukbapn3quv?rj-ttl=5&rj-tok=AAABfdoaeqMAT_naA2A0Rytsfw
-#EXTINF:-1 tvg-logo="http://www.radiosvoboda.org/Content/responsive/RFE/img/top_logo_news.png" group-title="cultural,news,ukrainian,talk",Radio Svoboda RFE/RL in Ukrainian Channel 7
+#EXTINF:-1 tvg-logo="http://www.radiosvoboda.org/Content/responsive/RFE/img/top_logo_news.png" group-title="culture,news,ukrainian",Radio Svoboda RFE/RL in Ukrainian Channel 7
 http://n0f.radiojar.com/arzknz9nn3quv?rj-ttl=5&rj-tok=AAABfd3tyBcA3PFTRs_YcigVYA
-#EXTINF:-1 tvg-logo="http://www.svaboda.org/Content/responsive/RFE/img/top_logo_news.png" group-title="belarusian,news,politics,talk",Radio Svoboda RFE/RL in Belorussian Channel 10
+#EXTINF:-1 tvg-logo="http://www.svaboda.org/Content/responsive/RFE/img/top_logo_news.png" group-title="belarusian,news,talk",Radio Svoboda RFE/RL in Belorussian Channel 10
 http://n0b.radiojar.com/zv9u3eapn3quv?rj-ttl=5&rj-tok=AAABfd41pVwAvICb4rMNZ5t6Fw
 #EXTINF:-1 tvg-logo="http://www.radiotavisupleba.ge/Content/responsive/RFE/img/top_logo_news.png" group-title="news,georgian,talk",Radio Tavisupali Evrop’a RFE/RL in Georgian Channel 3
 http://n11.radiojar.com/ych1q33nn3quv?rj-ttl=5&rj-tok=AAABfd5ho6cAdMsVPfNQwK6QuQ
