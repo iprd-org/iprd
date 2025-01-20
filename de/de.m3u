@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://www.radio.net/300/100prozentdeutsch.png?version=402418123c1bebde57dc5398eaadd66a" group-title="pop,world,schlager",100% Deutsch
+https://streams.schlagerplanetradio.com/schlager/mp3-192
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/HWrD8Mode7hO-tEC5uE85-BkoU2Ac7h7d5LXPaEWPQSYR_1rVo-s73zTkUQKBFlHaF4" group-title="80s,90s,pop",80er Radio Harmony
+https://mp3.harmonyfm.de/harmonyfm/hqlivestream.aac
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/DsHXDHTFWRfq8yv6X_4tTq2SkAnv_XT-0RAwK5epB8B0ySIu3sxWoojj3oXhTCWuWiw=w240-h480-rw" group-title="pop,world",Radio Faaz
 http://www.radiofaaz.com:8000/radiofaaz
 #EXTINF:-1 tvg-logo="http://www.radiobremen.de/static/img/favicons/apple-touch-icon-180.png?v=4" group-title="culture,information",Bremen Zwei
@@ -89,25 +93,25 @@ http://0n-2000s.radionetz.de/0n-2000s.mp3
 http://0n-2010s.radionetz.de/0n-2010s.mp3
 #EXTINF:-1 tvg-logo="http://www.0nradio.com/images/favicon/mstile-144x144.png" group-title="2010s,adult,contemporary",ON Radio 2010s
 http://0n-2010s.radionetz.de/0n-2010s.aac
-#EXTINF:-1 tvg-logo="http://www.0nradio.com/images/favicon/mstile-144x144.png" group-title="1950s,50s,evergreens,oldies",ON Radio 50s
+#EXTINF:-1 tvg-logo="http://www.0nradio.com/images/favicon/mstile-144x144.png" group-title="50s,evergreens,oldies",ON Radio 50s
 http://0n-50s.radionetz.de/0n-50s.aac
-#EXTINF:-1 tvg-logo="http://www.0nradio.com/images/favicon/apple-touch-icon.png" group-title="1950s,50s,evergreens,oldies",ON Radio 50s
+#EXTINF:-1 tvg-logo="http://www.0nradio.com/images/favicon/apple-touch-icon.png" group-title="50s,evergreens,oldies",ON Radio 50s
 http://0n-50s.radionetz.de/0n-50s.mp3
-#EXTINF:-1 tvg-logo="http://www.0nradio.com/images/favicon/mstile-144x144.png" group-title="1960s,60s,oldies,pop",ON Radio 60s
+#EXTINF:-1 tvg-logo="http://www.0nradio.com/images/favicon/mstile-144x144.png" group-title="60s,oldies,pop",ON Radio 60s
 http://0n-60s.radionetz.de/0n-60s.mp3
-#EXTINF:-1 tvg-logo="http://www.0nradio.com/images/favicon/mstile-144x144.png" group-title="1960s,60s,oldies,pop",ON Radio 60s
+#EXTINF:-1 tvg-logo="http://www.0nradio.com/images/favicon/mstile-144x144.png" group-title="60s,oldies,pop",ON Radio 60s
 http://0n-60s.radionetz.de/0n-60s.aac
-#EXTINF:-1 tvg-logo="http://www.0nradio.com/images/favicon/mstile-144x144.png" group-title="1970s,70s,rock,disco",ON Radio 70s
+#EXTINF:-1 tvg-logo="http://www.0nradio.com/images/favicon/mstile-144x144.png" group-title="70s,rock,disco",ON Radio 70s
 http://0n-70s.radionetz.de/0n-70s.aac
-#EXTINF:-1 tvg-logo="http://www.0nradio.com/images/favicon/mstile-144x144.png" group-title="1970s,70s,rock,disco",ON Radio 70s
+#EXTINF:-1 tvg-logo="http://www.0nradio.com/images/favicon/mstile-144x144.png" group-title="70s,rock,disco",ON Radio 70s
 http://0n-70s.radionetz.de/0n-70s.mp3
-#EXTINF:-1 tvg-logo="http://www.0nradio.com/images/favicon/mstile-144x144.png" group-title="1980s,80s,adult,contemporary",ON Radio 80s
+#EXTINF:-1 tvg-logo="http://www.0nradio.com/images/favicon/mstile-144x144.png" group-title="80s,adult,contemporary",ON Radio 80s
 http://0n-80s.radionetz.de/0n-80s.aac
-#EXTINF:-1 tvg-logo="http://www.0nradio.com/images/favicon/mstile-144x144.png" group-title="1980s,80s,adult,contemporary",ON Radio 80s
+#EXTINF:-1 tvg-logo="http://www.0nradio.com/images/favicon/mstile-144x144.png" group-title="80s,adult,contemporary",ON Radio 80s
 http://0n-80s.radionetz.de/0n-80s.mp3
-#EXTINF:-1 tvg-logo="http://www.0nradio.com/images/favicon/mstile-144x144.png" group-title="1990s,90s,dance,hiphop",ON Radio 90s
+#EXTINF:-1 tvg-logo="http://www.0nradio.com/images/favicon/mstile-144x144.png" group-title="90s,dance,hiphop",ON Radio 90s
 http://0n-90s.radionetz.de/0n-90s.aac
-#EXTINF:-1 tvg-logo="http://www.0nradio.com/images/favicon/mstile-144x144.png" group-title="1990s,90s,dance,hiphop",ON Radio 90s
+#EXTINF:-1 tvg-logo="http://www.0nradio.com/images/favicon/mstile-144x144.png" group-title="90s,dance,hiphop",ON Radio 90s
 http://0n-90s.radionetz.de/0n-90s.mp3
 #EXTINF:-1 tvg-logo="http://www.0nradio.com/images/favicon/mstile-144x144.png" group-title="charts,hiphop,r'n'b",ON Radio Black
 http://0n-black.radionetz.de/0n-black.aac
@@ -213,13 +217,13 @@ http://0n-indie.radionetz.de/0n-indie.aac
 http://0n-jazz.radionetz.de/0n-jazz.aac
 #EXTINF:-1 tvg-logo="http://www.0nradio.com/images/favicon/mstile-144x144.png" group-title="chillout,classic jazz",ON Radio Jazz
 http://0n-jazz.radionetz.de/0n-jazz.mp3
-#EXTINF:-1 tvg-logo="http://www.0nradio.com/images/favicon/mstile-144x144.png" group-title="60s,70s,80s,90s,hits",ON Radio Jukebox
+#EXTINF:-1 tvg-logo="http://www.0nradio.com/images/favicon/mstile-144x144.png" group-title="80s,90s,hits",ON Radio Jukebox
 http://0n-jukebox.radionetz.de/0n-jukebox.mp3
-#EXTINF:-1 tvg-logo="http://www.0nradio.com/images/favicon/mstile-144x144.png" group-title="60s,70s,80s,90s,hits",ON Radio Jukebox
+#EXTINF:-1 tvg-logo="http://www.0nradio.com/images/favicon/mstile-144x144.png" group-title="80s,90s,hits",ON Radio Jukebox
 http://0n-jukebox.radionetz.de/0n-jukebox.aac
-#EXTINF:-1 tvg-logo="http://www.0nradio.com/images/favicon/mstile-144x144.png" group-title="k-pop,korean,kpop,world",ON Radio K-Pop
+#EXTINF:-1 tvg-logo="http://www.0nradio.com/images/favicon/mstile-144x144.png" group-title="korean,kpop,world",ON Radio K-Pop
 http://0n-kpop.radionetz.de/0n-kpop.aac
-#EXTINF:-1 tvg-logo="http://www.0nradio.com/images/favicon/mstile-144x144.png" group-title="k-pop,korean,kpop,world",ON Radio K-Pop
+#EXTINF:-1 tvg-logo="http://www.0nradio.com/images/favicon/mstile-144x144.png" group-title="korean,kpop,world",ON Radio K-Pop
 http://0n-kpop.radionetz.de/0n-kpop.mp3
 #EXTINF:-1 tvg-logo="http://www.0nradio.com/images/favicon/mstile-144x144.png" group-title="charts,children,kinder",ON Radio Kids
 http://0n-kids.radionetz.de/0n-kids.aac
@@ -841,7 +845,7 @@ http://stream.animeradio.de/animeradio.mp3
 https://annafm.ip-streaming.net/annafm
 #EXTINF:-1 tvg-logo="https://www.antenne1.de/assets/favicon/favicon-128x128.png" group-title="top 40,charts,pop",Hitradio antenne 1
 http://stream.antenne1.de/a1stg/livestream2.mp3
-#EXTINF:-1 tvg-logo="https://www.antenne1-neckarburg.de//assets/template/icons/apple-touch-icon.png" group-title="pop,hits,70s,80s",antenne 1 Neckarburg Rock & Pop
+#EXTINF:-1 tvg-logo="https://www.antenne1-neckarburg.de//assets/template/icons/apple-touch-icon.png" group-title="hits,70s,80s",Antenne 1 Neckarburg 
 https://stream.antenne1.de/a1nbg/livestream1.aac
 #EXTINF:-1 tvg-logo="http://www.antenne.de//assets/icons/antenne-de/favicon-32x32.png?v=3" group-title="hits,pop",Antenne Bayern
 http://s4-webradio.antenne.de/antenne/stream/aacp
@@ -853,9 +857,9 @@ https://s2-webradio.antenne.de/2000er-hits
 https://s8-webradio.antenne.de/2010er-hits/stream/mp3
 #EXTINF:-1 tvg-logo="https://ca.radio.net/images/broadcasts/57/c5/127918/1/c300.png" group-title="70s,70er,hits",Antenne Bayern 70er Hits
 http://s3-webradio.antenne.de/70er-hits/stream/aacp
-#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/11/08/11085c123b1e0e5a67a1c8ce0af960ed.jpg" group-title="kult,80er,80s,hits",Antenne Bayern 80er Kulthits
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/11/08/11085c123b1e0e5a67a1c8ce0af960ed.jpg" group-title="80er,80s,hits",Antenne Bayern 80er Kulthits
 http://s9-webradio.antenne.de/80er-kulthits/stream/aacp
-#EXTINF:-1 tvg-logo="http://www.antenne.de/assets/icons/antenne-de/apple-touch-icon.png?v=3" group-title="80s,pop,80er,kult",Antenne Bayern 80er Kulthits
+#EXTINF:-1 tvg-logo="http://www.antenne.de/assets/icons/antenne-de/apple-touch-icon.png?v=3" group-title="80s,pop,80er",Antenne Bayern 80er Kulthits
 http://s6-webradio.antenne.de/80er-kulthits
 #EXTINF:-1 tvg-logo="http://streamitter.com/images/logos/KKXZQX.png" group-title="90s,pop,90er",Antenne Bayern 90er
 http://s3-webradio.antenne.de/90er-hits
@@ -927,8 +931,10 @@ http://s4-webradio.antenne.de/top-40.aac
 http://s2-webradio.antenne.de/weihnachts-hits.aac
 #EXTINF:-1 tvg-logo="http://www.antenne.de/assets/icons/antenne-de/apple-touch-icon.png?v=3" group-title="schlager,discofox",Antenne Bayern Schlagersahne
 http://s3-webradio.antenne.de/das-schlager-karussell/stream/aacp
-#EXTINF:-1 tvg-logo="http://www.ardmediathek.de/img/standard/00/32/71/60/30/-1774185891/16x9/512" group-title="ard,information,pop",Antenne Brandenburg
+#EXTINF:-1 tvg-logo="http://www.ardmediathek.de/img/standard/00/32/71/60/30/-1774185891/16x9/512" group-title="pop,hits,news",Antenne Brandenburg
 http://f121.rndfnk.com/ard/rbb/antennebrandenburg/live/mp3/128/stream.mp3?sid=22ZbkJ9dG8WPKfjg3i3IIhuufeN&token=HiAcTfQ6xNeycqM8E7Xzw3sV-ifutD56ExUVoSOdITw&tvf=Im8WlMqywhZmMTIxLnJuZGZuay5jb20
+#EXTINF:-1 tvg-logo="https://www.radio.net/300/antenneduesseldorf.png?version=" group-title="pop,top 40,deutsch",Antenne Dusseldorf 104.2
+https://stream.lokalradio.nrw/444z5n3
 #EXTINF:-1 tvg-logo="https://www.antennebrandenburg.de/content/dam/rbb/rbb/logos/touch/ant-128.png" group-title="pop,hits",Antenne Brandenburg Studio Cottbus
 http://d111.rndfnk.com/ard/rbb/antennebrandenburg/cottbus/mp3/128/stream.mp3?sid=22ZejLhL3NttMdRitoumAkNi7Jg&token=146ToIMUgzf5XGQK9lPlszsFuJMcBspclEtkkyZUlMc&tvf=tV8bnCG0whZkMTExLnJuZGZuay5jb20
 #EXTINF:-1 tvg-logo="https://www.antennebrandenburg.de/content/dam/rbb/rbb/logos/touch/ant-128.png" group-title="pop,hits",Antenne Brandenburg Studio Frankfurt
@@ -1137,7 +1143,7 @@ https://radio21.streamabc.net/radio21-xmasrock-mp3-256-4341316?sABC=61p1442p%230
 https://radio21.streamabc.net/radio21-80errock-mp3-256-6624232?sABC=61p2233r%230%23r4880qrn6s01nn6n263q843o4n00pqq9%23orfgbsebpx.sz&amsparams=playerid:bestofrock.fm;skey:1640112958
 #EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/0a/96/114257/4/c300.png" group-title="classic,deep,techno",Best of Techno
 http://best-of-techno.stream.laut.fm/best-of-techno?t302=2021-12-21_04-07-13&uuid=2f56ee5f-4a83-4ef5-8ab0-c75a40b52cb3
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/BFBS_logo.png" group-title="pop,rock",BFBS Radio Germany
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/BFBS_logo.png" group-title="pop,rock,hits",BFBS Germany
 http://edge-audio-04-thn.sharp-stream.com/ssvcbfbs5.aac
 #EXTINF:-1 tvg-logo="http://www.bhjms-radio.de/wp-content/uploads/2017/01/cropped-175-x-175-ROT-270x270.jpg" group-title="club,dance",BHJMS
 http://stream.bhjms-radio.de:8000/stream1
@@ -1217,9 +1223,9 @@ http://d111.rndfnk.com/ard/br/brklassik/live/mp3/64/stream.mp3?sid=22bXW7MTnmO8s
 https://d121.rndfnk.com/ard/br/brklassik/live/mp3/128/stream.mp3?sid=22bfDZRpSsQzv8tqmS54aVl8Bwj&token=VDeanepMGnC_Gb_vKNGO3rwhg2SlJ7iZCNqx2akXfVg&tvf=IKt7jf3rwhZkMTIxLnJuZGZuay5jb20
 #EXTINF:-1 tvg-logo="https://www.br-klassik.de/static/live/img/favicon.ico" group-title="classical,opera",BR Klassik
 https://d141.rndfnk.com/ard/br/brklassik/live/aac/64/stream.aac?sid=22ahRqE9Phk1ih7F8Sgiz5iv6Ra&token=aRPr2AKz4YAHYEU8dXIea6RXHt1nMifgLiAp9T6CprU&tvf=UiyNqyvRwhZkMTQxLnJuZGZuay5jb20
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/BR_puls_Logo.svg/1200px-BR_puls_Logo.svg.png" group-title="alternative,youth",BR Puls
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/BR_puls_Logo.svg/1200px-BR_puls_Logo.svg.png" group-title="pop,rock,youth",BR Puls
 http://f111.rndfnk.com/ard/br/puls/live/mp3/128/stream.mp3?sid=22ZmCDHm1xGNWRfhDpmXZlxHQ4I&token=Fd1F62Wo5PILW6k7ZOm9CMydVpMDGhp0od5mfs_cxvU&tvf=OE9YAHu3whZmMTExLnJuZGZuay5jb20
-#EXTINF:-1 tvg-logo="https://www.phonostar.de/images/auto_created/Puls3184x184.png" group-title="pop,public,rock,youth",BR Puls
+#EXTINF:-1 tvg-logo="https://www.phonostar.de/images/auto_created/Puls3184x184.png" group-title="pop,rock,youth",BR Puls
 http://f141.rndfnk.com/ard/br/puls/live/mp3/64/stream.mp3?sid=22ZojeupRuZeD82CcQvQhsaLqzB&token=2ZIexKTVBiigiK4mPPigffw9ZWF5tt9K3GHtCacMkHY&tvf=J3795Z64whZmMTQxLnJuZGZuay5jb20
 #EXTINF:-1 tvg-logo="https://www.br.de/static/img/bereich/extra/puls/favicon.ico" group-title="indie,pop,rock",BR Puls
 https://f121.rndfnk.com/ard/br/puls/live/aac/64/stream.aac?sid=22aiDKCv66iEHNI5Wam7IUuZkhL&token=miqVptCWjXOZzTEqOUqMfVe6tXFwMEm2vVp7uDTxxj8&tvf=oF_UiIPRwhZmMTIxLnJuZGZuay5jb20
@@ -1231,11 +1237,11 @@ http://www.dabmon.de/p/8000/stream/15.aac
 https://d121.rndfnk.com/ard/br/brklassik/live/mp3/192/stream.mp3?sid=22bEIIJVn89ATMZLdGGqy57xEJt&token=JpoakHt36brbQqypcJjLXrbQxtNypXN4DWCZtuOgpSM&tvf=WdPXu-jfwhZkMTIxLnJuZGZuay5jb20
 #EXTINF:-1 tvg-logo="https://www.br-klassik.de/favicon.ico" group-title="classical,baroque",BR-Klassik
 https://f131.rndfnk.com/ard/br/brklassik/live/mp3/64/stream.mp3?sid=22baL2pVuc8llPLHhA9nfr0sfRN&token=LqdO9YaET90DTyUI1dDFUXhPsfX4T97hs8uuKo5KrAI&tvf=DYun-8zpwhZmMTMxLnJuZGZuay5jb20
-#EXTINF:-1 tvg-logo="https://www.br.de/favicon.ico" group-title="information,news",BR24
+#EXTINF:-1 tvg-logo="https://www.br.de/favicon.ico" group-title="information,news",BR 24
 https://f141.rndfnk.com/ard/br/br24/live/aac/64/stream.aac?sid=22ahRoTsEWoW7voaS6LWi3PwScW&token=5grqEuKKNBSJyXrxYTGs_YstEQecu49CFTlTrcATFGE&tvf=LPDkkCvRwhZmMTQxLnJuZGZuay5jb20
-#EXTINF:-1 tvg-logo="https://www.br24.de/nachrichten/icons/apple-touch-icon.png?v=3" group-title="information,news",BR24
+#EXTINF:-1 tvg-logo="https://www.br24.de/nachrichten/icons/apple-touch-icon.png?v=3" group-title="information,news",BR 24
 https://d141.rndfnk.com/ard/br/br24/live/mp3/64/stream.mp3?sid=22bEyxe0tucvK1bN7DWiOeRhNws&token=n8ll5-UuIl2aSZfUZ_6_DxN-ki-gvr-BY5gGcHFfBnA&tvf=Tfsx2DfgwhZkMTQxLnJuZGZuay5jb20
-#EXTINF:-1 tvg-logo="https://www.br.de/favicon.ico" group-title="information,news",BR24
+#EXTINF:-1 tvg-logo="https://www.br.de/favicon.ico" group-title="information,news",BR 24
 https://d121.rndfnk.com/ard/br/br24live/live/aac/64/stream.aac?sid=22ahRYSCg7FNxdtCzKIls7ik2TQ&token=Xqv4CEcC53DiOiGE3702gGyVk5jyMhee3AMVXAMVCIM&tvf=Udc-NCvRwhZkMTIxLnJuZGZuay5jb20
 #EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/be/6c/2248/1/c300.png" group-title="classical,baroque",Brainradio Klassik
 http://brainradioklassik.stream.laut.fm/brainradioklassik
@@ -1251,7 +1257,7 @@ http://bravefmrap.stream.laut.fm/bravefmrap?t302=2021-12-21_03-21-35&uuid=c3ed4f
 http://sc-brazilianbirds.1.fm:10076/
 #EXTINF:-1 tvg-logo="http://breakz.fm/favicon.ico" group-title="top 40,techno,house",Breakz FM
 http://rautemusik-de-hz-fal-stream17.radiohost.de/breakz?listenerrmid=31363430303438363330-323030313a313966303a363830313a313964373a353430303a3266663a666537313a62646237-3334333338-53747265616d436865636b426f742f302e312e30
-#EXTINF:-1 tvg-logo="https://www.bremennext.de/static/img/favicons/apple-touch-icon-180.png?v=4" group-title="hip hop,pop",Bremen NEXT
+#EXTINF:-1 tvg-logo="https://www.bremennext.de/static/img/favicons/apple-touch-icon-180.png?v=4" group-title="hip hop,pop",Bremen Next
 https://f141.rndfnk.com/ard/rb/bremennext/live/mp3/64/stream.mp3?sid=22aorjXTfWpVFJ2d60vbyk2Kp4W&token=PqOBhrB66MYIDMRSDxokmkJFJrsS-X4en3XxLOYW2FQ&tvf=7SHZ03_UwhZmMTQxLnJuZGZuay5jb20
 #EXTINF:-1 tvg-logo="http://www.radiobremen.de/static/img/favicons/apple-touch-icon-180.png?v=4" group-title="pop,oldies",Bremen Eins
 https://d131.rndfnk.com/ard/rb/bremeneins/live/mp3/128/stream.mp3?aggregator=surfmusik-de&sid=22bZNwzvlIyAG4HTrvEfHC3g2Za&token=RszVK-P5SBebQ6a8b8-KfWJ-npkBbhEgrAr_uCt-2AA&tvf=5ICdWl_pwhZkMTMxLnJuZGZuay5jb20
@@ -1345,7 +1351,7 @@ http://club85.stream.laut.fm/club85?t302=2021-12-21_01-56-48&uuid=fc4560c2-0d27-
 https://icecast.multhielemedia.de/radio/8010/clubradio.mp3
 #EXTINF:-1 tvg-logo="https://clubtime.fm/media/icons/clt/apple-touch-icon.png" group-title="deep,house,minimal",ClubTime.FM
 http://listener1.aachd.tb-group.fm:80/clt-hd.aac
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/33fb6a_25e82fc9f2e44a41a93b29ecefadc02d~mv2.png/v1/fill/w_820,h_312,al_c/33fb6a_25e82fc9f2e44a41a93b29ecefadc02d~mv2.png" group-title="90s,dance",Coco und Jambo
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/33fb6a_25e82fc9f2e44a41a93b29ecefadc02d~mv2.png/v1/fill/w_820,h_312,al_c/33fb6a_25e82fc9f2e44a41a93b29ecefadc02d~mv2.png" group-title="90s,dance",Coco und bo
 https://cocoundjambo.stream.laut.fm/cocoundjambo?t302=2021-12-21_01-14-40&uuid=6dbc1698-d389-4182-8d52-9b786d87c2a3
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/33fb6a_25e82fc9f2e44a41a93b29ecefadc02d~mv2.png/v1/fill/w_820,h_312,al_c/33fb6a_25e82fc9f2e44a41a93b29ecefadc02d~mv2.png" group-title="2000er,2000s,90er,90s,dance",Coco und Jambo
 http://cocoundjambo.stream.laut.fm/cocoundjambo?pl=m3u&t302=2021-12-21_17-19-37&uuid=abe39b95-78b3-4372-b695-863f38a7d949
@@ -1401,7 +1407,7 @@ http://darkzeroradio.stream.laut.fm/darkzeroradio?t302=2021-12-21_03-46-59&uuid=
 https://rs.radioslovo.net:4125/stream?1619346366224
 #EXTINF:-1 tvg-logo="http://www.dasradiodervonneilyounggetoeteten.de/wp-content/uploads/2015/11/cropped-neal_6-192x192.jpg" group-title="rock,hits",Das Radio der von Neil Young Getöteten
 http://streamplus52.leonex.de:11216/listen.pls
-#EXTINF:-1 tvg-logo="https://dasding.de/assets/dasding/apple-touch-icon-120x120.png" group-title="alternative,electro",DASDING
+#EXTINF:-1 tvg-logo="https://dasding.de/assets/dasding/apple-touch-icon-120x120.png" group-title="alternative,electro",Das Ding
 https://f131.rndfnk.com/ard/swr/dasding/live/aac/96/stream.aac?aggregator=web&sid=22bddIXSznTPS9rpFhmgLrcSvpx&token=IMYBPDkGBaaJ_ZUKLtZNMcNE2BOKvjgadW6IBm0m_70&tvf=dfbziUfrwhZmMTMxLnJuZGZuay5jb20
 #EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/38539.png" group-title="ebm,futurepop,synthpop",Das Sofa
 http://dassofa.stream.laut.fm/dassofa?t302=2021-12-21_03-18-55&uuid=5f5e00ae-c34a-4e52-841d-aaca1756b4c2
@@ -1559,6 +1565,8 @@ https://eastsidefm.stream.laut.fm/eastside_fm?t302=2021-12-21_18-22-37&uuid=2d46
 http://n07.radiojar.com/wbbyfvykbyduv.mp3?rj-ttl=5&rj-tok=AAABfdp8S-4AgoBMWgMEBUjdFw
 #EXTINF:-1 tvg-logo="https://flatlinesradio.de/wp-content/uploads/2021/04/cropped-logo-180x180.png" group-title="dark,wave,ebm",EBM
 https://ebm.stream.laut.fm/ebm?t302=2021-12-21_19-12-43&uuid=11abaa5e-4319-4ae9-832e-a35a5a46980d
+#EXTINF:-1 tvg-logo="https://static.tuneyou.com/images/logos/500_500/15/1115/EchoFMRadio_3.jpg" group-title="rock,pop,russian",Echo 88.4
+https://edifchqufozvbegw.global.ssl.fastly.net/audio_echofm/stream
 #EXTINF:-1 tvg-logo="https://www.egofm.de/content/images/stream/50fresh-fm/egofm-streams-50fresh-fm.jpg" group-title="dance,electronic,pop",50fresh ELEKTRO
 https://cast.egofm.de/50fresh.mp3?ar-distributor=ffa0
 #EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/61/f0/118706/1/c300.png" group-title="electro,alternative,r'n'b",egoFM BW
@@ -1957,7 +1965,7 @@ http://freunde-des-nordens.stream.laut.fm/freunde-des-nordens?t302=2021-12-21_03
 http://friesenradio.stream.laut.fm/friesenradio?pl=pls&t302=2021-12-21_19-01-00&uuid=9f83fca2-7abc-41c0-8451-9127d0097a9e
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s311079/images/logog.jpg?t=228" group-title="classic,hits,lounge",Frits365music
 http://frits365music.stream.laut.fm/frits365music?t302=2021-12-21_20-02-48&uuid=b599cc7e-c912-4ac4-ad1a-f3d25527fc07
-#EXTINF:-1 tvg-logo="http://www.ardmediathek.de/img/standard/00/32/71/60/60/-1774185891/16x9/512" group-title="public,rbb,youth",Fritz
+#EXTINF:-1 tvg-logo="http://www.ardmediathek.de/img/standard/00/32/71/60/60/-1774185891/16x9/512" group-title="public,rbb,youth",RBB Fritz
 http://f141.rndfnk.com/ard/rbb/fritz/live/mp3/128/stream.mp3?sid=22baM3n6PummFZbnpxMZPCoII7v&token=wHduKGsUMNXjlHH0UhxhcukNLEqKHo9Y0lFHTens7P4&tvf=DiwAys7pwhZmMTQxLnJuZGZuay5jb20
 #EXTINF:-1 tvg-logo="https://kuasark.com/files/stations-logos/fruhlingsradio.png" group-title="80s,90s,charts,dance",Frühlingsradio
 http://fruehling.stream.laut.fm/fruehling?t302=2021-12-21_19-33-56&uuid=53d3a0d1-21a0-4a9b-949a-85d4e617ddc2
@@ -2039,14 +2047,16 @@ http://lw2.aacl.tb-group.fm/ht-low.aac
 http://d131.rndfnk.com/ard/hr/hr1/live/mp3/128/stream.mp3?sid=22ZWReLXe2QmWtXv5mSaxW7ofNi&token=cZLjKuzV7xTkoriHaycRT6KaasgJKI_EtsafJJQKJvE&tvf=r6xlx2mwwhZkMTMxLnJuZGZuay5jb20
 #EXTINF:-1 tvg-logo="https://www.hr2.de/assets_3.35.4/base/icons/favicon/favicon-64.png" group-title="pop,classic,rock",HR 2
 http://f131.rndfnk.com/ard/hr/hr2/live/mp3/128/stream.mp3?sid=22ZfjKUP3sWihJ1BYW0xdVP8OY5&token=VcFui5YXKENLWCpIMl1tXPACuswVf9mt3GPlNI2HEIc&tvf=SSr7a5S0whZmMTMxLnJuZGZuay5jb20
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Hr-iNFO-Logo_2015.svg/1024px-Hr-iNFO-Logo_2015.svg.png" group-title="informationen,nachrichten",HR Inforadio
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Hr-iNFO-Logo_2015.svg/1024px-Hr-iNFO-Logo_2015.svg.png" group-title="informationen,nachrichten",HR Info
 http://d111.rndfnk.com/ard/hr/hrinfo/live/mp3/96/stream.mp3?sid=22ZuMFq7MAhUCaKFYKaglqBOcel&token=IBlzFdpdecdX4aequiVC2o2P0rt6LiFSm-s8RKitId8&tvf=G_JmvyS7whZkMTExLnJuZGZuay5jb20
-#EXTINF:-1 tvg-logo="https://www.hr1.de/assets_3.36.1/base/icons/favicon/favicon-64.png" group-title="pop,classic,rock",hr1
+#EXTINF:-1 tvg-logo="https://www.hr1.de/assets_3.36.1/base/icons/favicon/favicon-64.png" group-title="pop,classic,rock",HR 1
 http://f131.rndfnk.com/ard/hr/hr1/live/mp3/128/stream.mp3?sid=22ZnqfmBDeqYgVoT8ybVSYar8lJ&token=g0hNcQUEUqFoLDfgRrw9Kp3-AMjIxP33uWo6hzxxxH4&tvf=flCitji4whZmMTMxLnJuZGZuay5jb20
-#EXTINF:-1 tvg-logo="https://www.hr1.de/assets_3.36.1/base/icons/favicon/favicon-64.png" group-title="pop,classic,rock",hr1
+#EXTINF:-1 tvg-logo="https://www.hr1.de/assets_3.36.1/base/icons/favicon/favicon-64.png" group-title="pop,classic,rock",HR 1
 http://d131.rndfnk.com/ard/hr/hr1/live/mp3/128/stream.mp3?sid=22ZDFjidmSH243efTE5mU6elkWb&token=Cy5lmsC8a8CIKYiB_5VcSMq2aZZBvJMXHLjbJf6fqEo&tvf=V1KOEc2nwhZkMTMxLnJuZGZuay5jb20
-#EXTINF:-1 tvg-logo="https://www.hr3.de/assets_3.36.1/base/icons/favicon/favicon-64.png" group-title="adult,contemporary,pop",hr3
+#EXTINF:-1 tvg-logo="https://www.hr3.de/assets_3.36.1/base/icons/favicon/favicon-64.png" group-title="adult,contemporary,pop",HR 3
 http://f121.rndfnk.com/ard/hr/hr3/live/mp3/128/stream.mp3?sid=22ZFhgZjBRO2VSO19mEUpxnQmss&token=BfJKwuZy7gdZB94VYprhX2g2RWhXPoPrXt98yIslvRQ&tvf=_qhBm-aowhZmMTIxLnJuZGZuay5jb20
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/c10vKKmzh7_4_MS5t3vxTJVA61z3azgnGnyYB7UxTWaiWIHRJltBkrv68LD7kjRWA7WL" group-title="oldies,pop,schlager",HR 4
+https://hlshr4.akamaized.net/hls/live/2016537/hr4rheinmain/192/seg.m3u8
 #EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/15/f6/113854/1/c300.png" group-title="edm,dance,electro",I Love Dance First!
 https://streams.ilovemusic.de/iloveradio103.mp3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zHDTWEe.pngance.png" group-title="dance,edm,house",I Love 2 Dance
@@ -2929,7 +2939,7 @@ https://d121.rndfnk.com/ard/ndr/ndr2/niedersachsen/mp3/128/stream.mp3?sid=22ZpsL
 http://d141.rndfnk.com/ard/ndr/ndr2/niedersachsen/mp3/128/stream.mp3?aggregator=airable&sid=22aks3BBDsk6JsBDh9fvo0fMXYg&token=_WT0dfXBeiGysPoEs8sEOxApvn8O9crsoBaWNENKOS8&tvf=HDMP0bTSwhZkMTQxLnJuZGZuay5jb20
 #EXTINF:-1 tvg-logo="https://www.ndr.de/index.html" group-title="pop,top 40,charts",NDR 2 Niedersachsen
 http://f131.rndfnk.com/ard/ndr/ndr2/niedersachsen/mp3/128/stream.mp3?sid=22aKDaI94cQylB03yU5YsaoizPV&token=CPLVClJseSTt0UktE4eHA2wFSMDTBG6GFzVgUhQ3ZcU&tvf=LNrcIr_GwhZmMTMxLnJuZGZuay5jb20
-#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/19/e8/34380/1/c300.png" group-title="80s,90s,hits,pop",NDR 2 Hamburg
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/19/e8/34380/1/c300.png" group-title="80s,90s,hits",NDR 2 Hamburg
 http://d131.rndfnk.com/ard/ndr/ndr2/hamburg/mp3/128/stream.mp3?sid=22bcGqsw3rtha7qy3XmEtErurz5&token=M6PHo6Umt-j0N_9nHwWuNOkniyRg3mAOJtqvR57pNmo&tvf=Hnm4FKvqwhZkMTMxLnJuZGZuay5jb20
 #EXTINF:-1 tvg-logo="https://www.ndr.de/apple-touch-icon-120x120.png" group-title="80s,90s,hits,pop",NDR 2 Mecklenburg-Vorpommern
 http://d111.rndfnk.com/ard/ndr/ndr2/mecklenburgvorpommern/mp3/128/stream.mp3?sid=22be9jzgRhyzSMOpW5DdVLgzbKk&token=m_h39I9eDcR3cHcjniAXtNHVHj1B6IbTCqB4ddkkjgI&tvf=LE96moPrwhZkMTExLnJuZGZuay5jb20
@@ -3045,11 +3055,13 @@ http://stream.okerwelle.de/okw.mp3
 http://oktoberfest.stream.laut.fm/oktoberfest?t302=2021-12-21_16-25-41&uuid=05f9d236-d934-4cc0-b155-27993f02a15b
 #EXTINF:-1 tvg-logo="https://oeins.de/wp-content/uploads/2022/06/cropped-oeins_logo_default_h55_333.png" group-title="top 40,pop,alternative",Oldenburg Eins Lokalsender
 http://oeins.de:8000/oeins56
-#EXTINF:-1 tvg-logo="https://www.oldiewelle.com/storage/thumbs/192x192/r:1615799476/91.png" group-title="oldies,news,60s,70s,80s",Oldie Welle Niederbayern
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqtC8VMrnXuabmMnm9tXKRDrF4pIs3pG_XOw&s" group-title="70er,80er,oldies",Oldie Antenne
+https://stream.oldie-antenne.de/oldie-antenne/stream/mp3
+#EXTINF:-1 tvg-logo="https://www.oldiewelle.com/storage/thumbs/192x192/r:1615799476/91.png" group-title="60s,70s,80s",Oldie Welle Niederbayern
 http://rs4.stream24.net/oldie-welle.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.de/images/broadcasts/fb/d8/135625/3/c300.png" group-title="local,news,oldies",Oldie Welle Ingolstadt
 https://funkhaus-ingolstadt.stream24.net/oldie-welle-ingolstadt.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/ed/23/11062/2/c300.png" group-title="2000er,60er,70er,oldies",Oldiefans Das Original
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/ed/23/11062/2/c300.png" group-title="2000er,70er,oldies",Oldiefans Das Original
 https://server7.streamserver24.com:8080/proxy/stekonig?mp=/stream
 #EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/e2/f5/117787/5/c300.png" group-title="hip hop,oldschool",OLDSCHOOL HIPHOP
 http://oldschool-hiphop.stream.laut.fm/oldschool-hiphop?t302=2021-12-21_02-31-34&uuid=cbd7cd2b-ea18-42ae-afbc-bd253012b78e
@@ -3333,11 +3345,11 @@ http://www.rdl.de:8000/rdl
 http://radio-dumba.stream.laut.fm/radio-dumba?t302=2021-12-21_19-36-10&uuid=4c947f1b-45eb-48dd-bbe3-bd90a575d808
 #EXTINF:-1 tvg-logo="http://www.dunklewelle.de/wp-content/uploads/2013/09/logo-RDW.gif" group-title="batcave,dark wave,ebm",Radio Dunkle Welle
 http://135.125.216.61:5020/stream
-#EXTINF:-1 tvg-logo="http://www.ardmediathek.de/img/standard/00/32/71/60/72/-1774185891/16x9/512" group-title="adult,contemporary,alternative",Radio Eins
+#EXTINF:-1 tvg-logo="http://www.ardmediathek.de/img/standard/00/32/71/60/72/-1774185891/16x9/512" group-title="adult,contemporary,alternative",RBB Radio Eins
 http://f131.rndfnk.com/ard/rbb/radioeins/live/mp3/128/stream.mp3?sid=22ZKAufXZWSqoqfCtY3TI0szBty&token=-QrVY4QRssyNfI9kA5igoBCcrUjs8jkwqcU7BBwt2dE&tvf=CWPgPuiqwhZmMTMxLnJuZGZuay5jb20
-#EXTINF:-1 tvg-logo="https://www.radioeins.de/content/dam/rbb/rbb/logos/touch/rad-128.png" group-title="adult,contemporary,alternative",Radio Eins
+#EXTINF:-1 tvg-logo="https://www.radioeins.de/content/dam/rbb/rbb/logos/touch/rad-128.png" group-title="adult,contemporary,alternative",RBB Radio Eins
 http://f131.rndfnk.com/ard/rbb/radioeins/live/mp3/48/stream.mp3?sid=22bgKZc4GQ8MWgvtUs0lVXs6EuW&token=t9p7MJOxRcD8MmgO7DxA6MBn8q6uymM_Je4PAEBR8ok&tvf=l_5kT33swhZmMTMxLnJuZGZuay5jb20
-#EXTINF:-1 tvg-logo="http://www.radioeins.com/wp-content/themes/fhb/themes/radio-eins/img/share-logo.png?cb=1466705079" group-title="80s,90s,local radio",Radio Eins Coburg
+#EXTINF:-1 tvg-logo="http://www.radioeins.com/wp-content/themes/fhb/themes/radio-eins/img/share-logo.png?cb=1466705079" group-title="80s,90s,talk",RBB Radio Eins Coburg
 http://rs3.stream24.net/radio-eins.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.de/images/broadcasts/f2/00/10737/1/c175.png" group-title="rock,metal,punk",Radio Emergency
 https://www.radioemergency.de/radioemergency_small.mp3
@@ -3399,12 +3411,16 @@ https://edge51.streamonkey.net/rhh-1036
 https://edge01.streamonkey.net/rhh-1036?aggregator=linkradiohamburgde
 #EXTINF:-1 tvg-logo="https://www.radio-hannover.de/images/Logo-Radio-Hannover-quer.jpg" group-title="pop,hits",Radio Hannover 100.0
 http://radio-hannover.divicon-stream.net/rhann_livestrea_zqu6-mp3-128
-#EXTINF:-1 tvg-logo="https://heukelbach.org/wp-content/uploads/sites/3/2016/07/favicon-mwh.gif" group-title="bible,christian",Radio HBR
+#EXTINF:-1 tvg-logo="https://heukelbach.org/wp-content/uploads/sites/3/2016/07/favicon-mwh.gif" group-title="religious,christian",Radio HBR
 http://stream1.radiohbr.de/stream.mp3
 #EXTINF:-1 tvg-logo="https://heukelbach.org/wp-content/uploads/sites/3/2016/01/hbr-1.png" group-title="christian,religious",Radio HBR
 http://stream2.radiohbr.de:8080/stream.aac
 #EXTINF:-1 tvg-logo="http://www.radio-hbw.de/images/logo.jpg" group-title="adult,contemporary",radio hbw
 http://server26678.streamplus.de/;stream.mp3
+#EXTINF:-1 tvg-logo="http://www.webbuilder.hosteurope.de/files/writeable/uploads/hosteurope16446/image/logo.ico" group-title="christian,religious",Radio HCJB German
+http://segenswelle.de:8000/hcjb
+#EXTINF:-1 tvg-logo="http://www.webbuilder.hosteurope.de/files/writeable/uploads/hosteurope16446/image/logo.ico" group-title="christian,religious",Radio HCJB German
+http://segenswelle.de:8000/hcjb-aac
 #EXTINF:-1 tvg-logo="http://www.radio-heimatmelodie.de/favicon.ico" group-title="folk,schlager",Radio Heimatmelodie
 http://play.radio-heimatmelodie.de/listen.pls
 #EXTINF:-1 tvg-logo="http://www.radio-heimatmelodie.de/images/favicon.ico" group-title="folk,schlager",Radio Heimatmelodie
@@ -3431,7 +3447,7 @@ http://stream.ilmwelle.de/radio-ilmwelle-192.mp3
 http://radio-im-internet.stream.laut.fm/radio-im-internet?t302=2021-12-21_08-27-17&uuid=b14f1c08-ac0b-43a8-9bab-bd3dc6891fd8
 #EXTINF:-1 tvg-logo="http://www.radio-jade.de/wp-content/uploads/2015/08/logo-sm.png" group-title="pop,rock",Radio Jade
 http://stream.radio-jade.de/live.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/4b/86/2073/3/c300.png" group-title="blues,country,singer-songwriter",Radio Jazznrhythm
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/4b/86/2073/3/c300.png" group-title="blues,country,folk",Radio Jazznrhythm
 https://jazznrhythm.stream.laut.fm/jazznrhythm?pl=m3u&t302=2021-12-21_18-28-06&uuid=b6977669-d972-4d0c-abb2-157a50b68968
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjzAE1F7mZsu3hAmiKfEs4lz0X1kX2lCVbAv8B0-la9g&s" group-title="breakbeat,dance,disco",Radio Joystick laut.fm
 http://joy.stream.laut.fm/joy?t302=2021-12-21_19-05-29&uuid=79f1a22a-0e5b-4911-9cc2-a17b168cb053
@@ -3551,6 +3567,8 @@ http://ffn-stream21.radiohost.de/radioroland_mp3-192?listenerrmid=31363430313131
 http://radio-rotter-see.stream.laut.fm/radio-rotter-see?t302=2021-12-21_19-30-11&uuid=698a1957-eb58-4f40-b7cd-b9d499aa0023
 #EXTINF:-1 tvg-logo="http://www.radio-rb.de/favicon.ico" group-title="adult,contemporary",Radio Russkij Berlin
 http://rb-stream.de:8000/rrb_128.mp3
+#EXTINF:-1 tvg-logo="https://pickasso.spotifycdn.com/image/ab67c0de0000deef/dt/v1/img/radio/artist/7ntNSi4mWa924RzCaTLF6V/en" group-title="russian,world,variety",Radio Sakharov
+https://icecast.correctiv.net/sacharow
 #EXTINF:-1 tvg-logo="http://www.salue.de/radioplayer/img/station-logo.png" group-title="pop,hits",Radio Salü 101.7
 http://internetradio.salue.de:8000/salue.mp3
 #EXTINF:-1 tvg-logo="http://www.salue.de/musik/webradio/in-the-mix/logo-280.png" group-title="hits,dance,pop",Radio Salü in the Mix
@@ -3809,10 +3827,14 @@ http://rautemusik-de-hz-fal-stream12.radiohost.de/solopiano?listenerrmid=3136343
 http://de-hz-fal-stream01.rautemusik.fm/study
 #EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/94/77/39254/3/c300.png" group-title="dubstep,trap",RauteMusik Trap
 http://de-hz-fal-stream05.rautemusik.fm/trap
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/HMy_CQrWNjH80wd6hTsmuqcAh5RxAwBEN_I8_iJ5mGWCsK2QWZTUh2H4Z_vE31TbE4g" group-title="news,talk",RBB 24 Inforadio
+https://d131.rndfnk.com/ard/rbb/inforadio/live/mp3/128/stream.mp3?cid=01FC1WYDPN76K6HSCD8QCR9D3S&sid=2rsXFzkK9szPmAY6yL2fLIkgc0v&token=vGFW_4kaB5X0I0-Y0mCePzU_YSPDDXud5kTEiQkt7Ds&tvf=639J-gphHBhkMTMxLnJuZGZuay5jb20
 #EXTINF:-1 tvg-logo="http://www.rbb-online.de/content/dam/rbb/rbb/logos/touch/rbb-n-128.png" group-title="classical,jazz,kultur",RBB Kulturradio
 http://d131.rndfnk.com/ard/rbb/rbbkultur/live/mp3/256/stream.mp3?sid=22aWzhauI4zEknXsKfa1Xq1HHR6&token=NmN7-Ubf9B1TkiyGFYTxlKIiwK8EeMkkt4HshARKSrc&tvf=whLgynrMwhZkMTMxLnJuZGZuay5jb20
 #EXTINF:-1 tvg-logo="http://www.rbb-online.de/content/dam/rbb/rbb/logos/touch/rbb-n-128.png" group-title="classical,jazz,kultur",RBB Kulturradio
 http://f141.rndfnk.com/ard/rbb/rbbkultur/live/mp3/256/stream.mp3?sid=22bSZSewtHjymWTCX0DqLNbQm3j&token=pr0GZbCB1ymWnFPt_bTeBTfjYa81rt8G54Y49t0KZH0&tvf=Vpjzm1DmwhZmMTQxLnJuZGZuay5jb20
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/oRj2TE0FQYwZ6pv0pzy6IcIHNftJjhkla6N9cK7tdhZGCdzSP02GGXRacAAxe7OIRmXo" group-title="classical,culture,world",RBB Radio 3
+https://d131.rndfnk.com/ard/rbb/rbbkultur/live/mp3/256/stream.mp3?cid=01FC1WQSDQZNQA4Y6DYGBH7A64&sid=2rsYGtofHBqoiJ0yAf48snlhMwN&token=FlpPdO1o_lLeltmZCsEGtfYgcJWBPA7eolwrDPBzxuo&tvf=WhtccX9hHBhkMTMxLnJuZGZuay5jb20
 #EXTINF:-1 tvg-logo="http://www.rbiradio.eu/rbilogo_neu_start.jpg" group-title="60s,70s,80s",RBI Radio
 http://85.195.72.226:18576/listen.pls
 #EXTINF:-1 tvg-logo="https://refugeworldwide.com/favicon.ico" group-title="ambient,electronic,experimental",Refuge Worldwide
@@ -3821,15 +3843,15 @@ https://streaming.radio.co/s3699c5e49/listen
 http://ais.rastamusic.com/rastamusic.mp3
 #EXTINF:-1 tvg-logo="https://www.meintobi.de/wp-content/uploads/2018/10/cropped-logos3-1-180x180.png" group-title="comedy,hits,party",Rent a Tobi
 https://rentatobi.stream.laut.fm/rentatobi?t302=2021-12-21_02-07-24&uuid=5242580a-6725-4e0f-adb1-d97baf245e4e
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/0/96780.v8.png" group-title="house,oldies,90s,90er",Replay.FM
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/0/96780.v8.png" group-title="house,90s,90er",Replay.FM
 https://listener1.mp3.tb-group.fm/rp.mp3
-#EXTINF:-1 tvg-logo="https://www.replay.fm/media/icons/rp/favicon-32x32.png" group-title="house,oldies,90s,90er",Replay.FM
+#EXTINF:-1 tvg-logo="https://www.replay.fm/media/icons/rp/favicon-32x32.png" group-title="house,90s,90er",Replay.FM
 http://listener1.mp3.tb-group.fm:80/ht.mp3
-#EXTINF:-1 tvg-logo="https://www.replay.fm/content/images/site/logo-replay.fm.png" group-title="house,oldies,90s,90er",Replay.FM
+#EXTINF:-1 tvg-logo="https://www.replay.fm/content/images/site/logo-replay.fm.png" group-title="house,90s,90er",Replay.FM
 http://listener2.aachd.tb-group.fm:80/rp-hd.aac
-#EXTINF:-1 tvg-logo="https://www.replay.fm/content/images/site/logo-replay.fm.png" group-title="house,oldies,90s,90er",Replay.FM
+#EXTINF:-1 tvg-logo="https://www.replay.fm/content/images/site/logo-replay.fm.png" group-title="house,90s,90er",Replay.FM
 https://listener2.aachd.tb-group.fm/rp-hd.aac
-#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/97/15/9715edc0e9638ccef8c6cc603ca39bc1.jpg" group-title="70s,80s,90s,oldies",Radio Retrowelle
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/97/15/9715edc0e9638ccef8c6cc603ca39bc1.jpg" group-title="70s,80s,90s",Radio Retrowelle
 https://retrowelle.stream.laut.fm/retrowelle?t302=2021-12-21_13-46-44&uuid=0032b574-13d4-49f4-846c-0879af7fab26
 #EXTINF:-1 tvg-logo="https://cdn.reyfm.de/img/logo.png" group-title="chillout,lofi,relax",REYFM -#LOFI
 https://reyfm-stream15.radiohost.de/reyfm-lofi_mp3-320?listenerrmid=31363430303534383538-326130333a343030303a33373a34323a633466653a346366663a666561373a38393431-3439393938-53747265616d436865636b426f742f302e312e30
@@ -3853,7 +3875,7 @@ http://s1-webradio.rockantenne.de/heavy-metal
 http://s9-webradio.rockantenne.de/melodic-rock
 #EXTINF:-1 tvg-logo="http://cdn.antenne.de/thumbs/images/galleries/367930/75712_ROCK_ANTENNE_Punkrock_1280x960.b477cfe9.png" group-title="punk,rock",Rock Antenne Punk Rock
 http://s5-webradio.rockantenne.de/punkrock.aac
-#EXTINF:-1 tvg-logo="https://cdn.antenne.de/antenne-de/uploads/images/ra_stream_80er_480.jpg" group-title="80s,80er,classic,rock",Rock Antenne 80er Rock
+#EXTINF:-1 tvg-logo="https://cdn.antenne.de/antenne-de/uploads/images/ra_stream_80er_480.jpg" group-title="80s,80er,rock",Rock Antenne 80er Rock
 https://s1-webradio.rockantenne.de/80er-rock/stream/aacp
 #EXTINF:-1 tvg-logo="http://cdn.antenne.de/thumbs/2016/08/alternative-579f89652dc8c.f937f3a5.png" group-title="alternative,rock",Rock Antenne Alternative
 http://s2-webradio.rockantenne.de/alternative
@@ -3875,17 +3897,17 @@ http://s8-webradio.rockantenne.de/coversongs.aac
 https://s9-webradio.rockantenne.de/hair-metal/stream
 #EXTINF:-1 tvg-logo="https://cdn.antenne.de/rockantenne-de/uploads/images/music/ra_stream_hair_480.jpg" group-title="rock,heavy,metal",Rock Antenne Hair Metal
 https://s7-webradio.rockantenne.de/hair-metal/stream/aacp
-#EXTINF:-1 tvg-logo="https://www.rockantenne.de/assets/icons/rockantenne-de/apple-touch-icon-120x120.png?v=2" group-title="black,death,metal,heavy",Rock Antenne Heavy Metal
+#EXTINF:-1 tvg-logo="https://www.rockantenne.de/assets/icons/rockantenne-de/apple-touch-icon-120x120.png?v=2" group-title="black,death,metal",Rock Antenne Heavy Metal
 https://s2-webradio.rockantenne.de/heavy-metal/stream/aacp
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/1/34491.v5.png" group-title="heavy,black,death,metalck",Rock Antenne Heavy Metal
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/1/34491.v5.png" group-title="heavy,black,death",Rock Antenne Heavy Metal
 https://s5-webradio.rockantenne.de/heavy-metal
 #EXTINF:-1 tvg-logo="https://www.rockantenne.de/assets/icons/rockantenne-de/apple-touch-icon-120x120.png?v=2" group-title="live,rock",Rock Antenne Live Rock
 https://s8-webradio.rockantenne.de/live-rock/stream/aacp
-#EXTINF:-1 tvg-logo="https://cdn.antenne.de/thumbs/home/nfs-data/vhosts/cdn/antenne-de/uploads/2020/09/ra_streamlogo_webradio_hd_large_modern_rock.38c0d2f7.png" group-title="2000er,metal,modern,rock",Rock Antenne Modern Rock
+#EXTINF:-1 tvg-logo="https://cdn.antenne.de/thumbs/home/nfs-data/vhosts/cdn/antenne-de/uploads/2020/09/ra_streamlogo_webradio_hd_large_modern_rock.38c0d2f7.png" group-title="2000er,metal,rock",Rock Antenne Modern Rock
 http://s5-webradio.rockantenne.de/modern-rock/stream/mp3
-#EXTINF:-1 tvg-logo="https://www.rockantenne.de/assets/icons/rockantenne-de/apple-touch-icon-120x120.png?v=2" group-title="2000er,metal,modern,rock",Rock Antenne Modern Rock
+#EXTINF:-1 tvg-logo="https://www.rockantenne.de/assets/icons/rockantenne-de/apple-touch-icon-120x120.png?v=2" group-title="2000er,metal,rock",Rock Antenne Modern Rock
 http://s3-webradio.rockantenne.de/modern-rock/stream/aacp
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/0/102910.v1.png" group-title="2000er,metal,modern,rock",Rock Antenne Modern Rock
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/0/102910.v1.png" group-title="2000er,metal,rock",Rock Antenne Modern Rock
 https://s4-webradio.rockantenne.de/modern-rock/stream
 #EXTINF:-1 tvg-logo="http://cdn.antenne.de/thumbs/2016/08/softrock-579f89656a18d.f937f3a5.png" group-title="soft,rock",Rock Antenne Soft Rock
 http://s1-webradio.rockantenne.de/soft-rock
@@ -3949,7 +3971,7 @@ http://streaming.rolandradio.net/rolandradio
 https://rpi-world-music-radio.stream.laut.fm/rpi-world-music-radio
 #EXTINF:-1 tvg-logo="https://www.rpr1.de/sites/all/themes/rpr1/assets/images/logos/apple-icon-120x120.png" group-title="80er,80s,hits",RPR1 Best 80s
 https://streams.rpr1.de/rpr-80er-128-mp3?usid=0-0-H-M-D-0
-#EXTINF:-1 tvg-logo="https://www.rpr1.de/sites/all/themes/rpr1/assets/images/logos/apple-icon-120x120.png" group-title="80s,90s,pop,top 40",RPR1 Pfalz
+#EXTINF:-1 tvg-logo="https://www.rpr1.de/sites/all/themes/rpr1/assets/images/logos/apple-icon-120x120.png" group-title="80s,90s,top 40",RPR1 Pfalz
 https://streams.rpr1.de/rpr-kaiserslautern-128-mp3
 #EXTINF:-1 tvg-logo="https://cdn.rpr1.de/sites/default/files/styles/thumbnail/public/thumbnails/image/Thumbnails_Webseite_Yoga_Sounds.jpg" group-title="meditation,relaxing,yoga",RPR1 Yoga Sounds
 http://streams.rpr1.de/rpr-entspannung-128-mp3
@@ -4105,15 +4127,15 @@ http://shoutfm.stream.laut.fm/shout_fm?pl=m3u&t302=2021-12-21_19-51-51&uuid=e490
 http://nightclub.stream.laut.fm/nightclub?t302=2021-12-21_03-36-08&uuid=89e33698-d722-42d1-ab70-5032afc4dd6e
 #EXTINF:-1 tvg-logo="https://www.radio.de/images/broadcasts/8b/90/23063/1/c300.png" group-title="pop,oldies",Shuffle Radio
 http://shuffle-radio.stream.laut.fm/shuffle-radio?t302=2021-12-21_19-57-02&uuid=42bb551d-4011-4f08-b4ae-3e5a0894eb8e
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ERHcjfjcB9oBzRsde8c7oEKDnqssDhnH9fZRzG9YzIMoxofxWAAv0LSdD2a8tArJ-ZA" group-title="50er,50s,60er,60s,nostalgie",Signal 1
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ERHcjfjcB9oBzRsde8c7oEKDnqssDhnH9fZRzG9YzIMoxofxWAAv0LSdD2a8tArJ-ZA" group-title="50er,60er,nostalgie",Signal 1
 http://signal1.stream.laut.fm/signal1?t302=2021-12-21_05-51-34&uuid=a29f403e-e989-4d91-800c-0910b0708436
 #EXTINF:-1 tvg-logo="https://simulator1.net/favicon.ico" group-title="rock,pop,top 40",SimulatorRadio1
 http://simulator1.stream.laut.fm/simulator1?pl=m3u&t302=2021-12-21_03-06-14&uuid=a70e47b0-607c-4094-880b-fb436fdef612
 #EXTINF:-1 tvg-logo="https://simulator1.radio/favicon.ico" group-title="rock,pop,top 40",SimulatorRadio1
 https://simulator1.stream.laut.fm/simulator1?t302=2021-12-21_19-02-11&uuid=a93536ab-21e7-4c53-a041-172e28bc1a96
-#EXTINF:-1 tvg-logo="http://lautfm-skaworld.radio.de/assets/fav/apple-touch-icon.png" group-title="60s,70s,80s,ska",Ska World
+#EXTINF:-1 tvg-logo="http://lautfm-skaworld.radio.de/assets/fav/apple-touch-icon.png" group-title="70s,80s,ska",Ska World
 http://skaworld.stream.laut.fm/skaworld?ref=radiode
-#EXTINF:-1 tvg-logo="http://lautfm-skaworld.radio.de/assets/fav/apple-touch-icon.png" group-title="60s,70s,80s,ska",Ska World
+#EXTINF:-1 tvg-logo="http://lautfm-skaworld.radio.de/assets/fav/apple-touch-icon.png" group-title="70s,80s,ska",Ska World
 http://skaworld.stream.laut.fm/skaworld?t302=2021-12-21_02-53-42&uuid=38fd381e-435d-4629-93e4-e85f2f1f071a
 #EXTINF:-1 tvg-logo="https://uk.radio.net/images/broadcasts/c3/0f/2494/c300.png" group-title="electro,swing,jazz",Smart Radio
 http://stream.glueckserver.de:8000/smartradio.mp3
@@ -4137,7 +4159,7 @@ http://soundsystem.stream.laut.fm/soundsystem?t302=2021-12-21_19-05-27&uuid=4b29
 http://soundtalesproductions.stream.laut.fm/soundtalesproductions?t302=2021-12-21_04-01-59&uuid=6f5187cb-ea95-4070-b053-c3c3007744f8
 #EXTINF:-1 tvg-logo="https://sportradio-deutschland.de/wp-content/uploads//2021/05/logo.svg" group-title="sports,news,talk",Sportradio Deutschland
 http://edge05.streamonkey.net/sportradio-deutschland
-#EXTINF:-1 tvg-logo="https://static.spreeradio.de/img/6866/1041331/840000/o/480/480/90er.png" group-title="electronic,pop,90s,90er",Spreeradio 90er 105.5
+#EXTINF:-1 tvg-logo="https://static.spreeradio.de/img/6866/1041331/840000/o/480/480/90er.png" group-title="electronic,pop,90er",Spreeradio 90er 105.5
 https://rtlberlin.streamabc.net/rtlb-spreeradio90s-mp3-192-9312357?sABC=61p15q56%230%23r4880qrn6s01nn6n263q843o4n00pqq9%23&amsparams=playerid:;skey:1640062294
 #EXTINF:-1 tvg-logo="https://www.radioherzblut.de/images/rhlogo150.png" group-title="rock,80s,90s",Sprockytown
 https://sprockytown.stream.laut.fm/sprockytown?t302=2021-12-21_10-49-25&uuid=65960ec5-1457-4fac-ba50-bc5a8e17052b
@@ -4287,6 +4309,8 @@ https://d131.rndfnk.com/ard/swr/swraktuell/live/aac/96/stream.aac?aggregator=web
 https://f121.rndfnk.com/ard/swr/swraktuell/live/mp3/128/stream.mp3?aggregator=web&sid=22a8HQ7KbawQXRJ2WQD0CTTR9Nk&token=-DqIZgrjmfGnAqPshMVZD0mhdepb68bbDubcFLY_J88&tvf=tBfFpmPBwhZmMTIxLnJuZGZuay5jb20
 #EXTINF:-1 tvg-logo="https://dasding.de/assets/dasding/apple-touch-icon-120x120.png" group-title="pop,rock,youth",SWR Dasding
 https://f121.rndfnk.com/ard/swr/dasding/live/mp3/128/stream.mp3?aggregator=web&sid=22b3kE9APbOl9ZaR7PbEc0GHbJq&token=pHvJU7ggB2O_QWj3eNhuLqlpvQmJRbBPIi2h6OM0PEI&tvf=s4t__yzbwhZmMTIxLnJuZGZuay5jb20
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDuF-0RTvT3OksXKLxO6hQF7WpyPZpMuZej4KSYAj-qsqxQFDkjUy-voipAw0c9W8AU=w240-h480-rw" group-title="classical,jazz,culture",SWR Kultur
+https://f141.rndfnk.com/ard/swr/swr2/live/mp3/256/stream.mp3?aggregator=web&cid=01FC1X4J91VJW1CVH6588MZEE3&sid=2rsZOFkhxZXlE8Ot9LqG1tBYy4f&token=Ir-7ZHl7NLYUj8iERE8jCFxVR-EVEsQiBqKh5v43omw&tvf=Qb2LHgBiHBhmMTQxLnJuZGZuay5jb20
 #EXTINF:-1 tvg-logo="https://www.radio.at/images/broadcasts/07/41/2273/2/c300.png" group-title="hits,pop",SWR1 BW
 https://d121.rndfnk.com/ard/swr/swr1/bw/mp3/128/stream.mp3?aggregator=web&sid=22ZLBZLHQATMFW3ULVO09oqNwqD&token=ou9iQ0H1tQCOfGhV0742CphQPVq6wZOV_6xnIAm98TI&tvf=MuzTSVyrwhZkMTIxLnJuZGZuay5jb20
 #EXTINF:-1 tvg-logo="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fencrypted-tbn0.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcSOWtod6rak7BMTTJ0zPbveVculMSvXl4IBWEAz1VCyDAj7r1g%26s&sp=1638423677Tb822d814ba99732ee105b1fb1b21309e8d750f831ade90ac98198e8c2b586f6b" group-title="local news,pop music",SWR1 BW neu
@@ -4365,11 +4389,11 @@ http://rtlberlin.streamabc.net/rtlb-thewave-mp3-128-6511506?sABC=61p1q308%230%23
 https://rtlberlin.streamabc.net/rtlb-thewave-mp3-128-6511506?sABC=61p16101%230%23r4880qrn6s01nn6n263q843o4n00pqq9%23xbagnxg&amsparams=playerid:kontakt;skey:1640063233
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/85/TWWL.jpg" group-title="alternative,rock,brit",The World Won't Listen
 http://the-world-wont-listen.stream.laut.fm/the-world-wont-listen?t302=2021-12-21_17-26-07&uuid=ceeb6c24-83d4-4c86-8b78-a5e340ad4657
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3534347374/6f840a461a71a9ee7710ea7d283b5fe2_400x400.png" group-title="indie,non-commercial,pop,rock",TheRadio.CC
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3534347374/6f840a461a71a9ee7710ea7d283b5fe2_400x400.png" group-title="indie,non-commercial,pop",TheRadio.CC
 http://stream.theradio.cc:8000/trcc-stream.mp3
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3534347374/6f840a461a71a9ee7710ea7d283b5fe2_400x400.png" group-title="indie,non-commercial,pop,rock",TheRadio.CC
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3534347374/6f840a461a71a9ee7710ea7d283b5fe2_400x400.png" group-title="indie,non-commercial,pop",TheRadio.CC
 http://stream.theradio.cc:8000/trcc-stream.ogg
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3534347374/6f840a461a71a9ee7710ea7d283b5fe2_400x400.png" group-title="indie,non-commercial,pop,rock",TheRadio.CC
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3534347374/6f840a461a71a9ee7710ea7d283b5fe2_400x400.png" group-title="indie,non-commercial,pop",TheRadio.CC
 http://stream.theradio.cc:8000/trcc-stream.opus
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s238458q.png" group-title="death,metal,thrash",Thrashking Radio
 http://thrashking.stream.laut.fm/thrashking
@@ -4377,7 +4401,7 @@ http://thrashking.stream.laut.fm/thrashking
 http://streaming.tidenet.de:8000/tide-192.mp3
 #EXTINF:-1 tvg-logo="https://www.toggo.de/favicon.ico" group-title="children,kinder",TOGGO Radio
 http://superrtl.streamabc.net/srtl-toggo-mp3-192-3253152?sABC=61p16020%230%23r4880qrn6s01nn6n263q843o4n00pqq9%23&amsparams=playerid:;skey:1640063008
-#EXTINF:-1 tvg-logo="http://myhitmusic.de/wp-content/uploads/2016/03/TOMS-70s-CLUB-3.jpg" group-title="70er,70s,classic,rock",Toms Club 70s
+#EXTINF:-1 tvg-logo="http://myhitmusic.de/wp-content/uploads/2016/03/TOMS-70s-CLUB-3.jpg" group-title="70er,classic,rock",Toms Club 70s
 http://151.80.43.143:8000/.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/ec/95/30428/1/c300.png" group-title="alternative,electronic,indie",Tonaktiv
 http://tonaktiv.stream.laut.fm/tonaktiv?t302=2021-12-21_03-30-47&uuid=cbc99af3-4f7b-41c0-b875-2d58817075b7
@@ -4389,7 +4413,7 @@ http://streamhq.top100station.com/top100station-high.mp3
 http://substream.top100station.com/topchristmasstation.mp3
 #EXTINF:-1 tvg-logo="https://top100station.de/wp-content/uploads/2018/05/Top-Summer-Station_WEB-272x182.png" group-title="dance,pop,summer",Top Summer Station
 http://substream.top100station.com/topsummerstation.mp3
-#EXTINF:-1 tvg-logo="https://top100station.de/wp-content/uploads/2018/05/Top-TRASH-Station_WEB-272x182.png" group-title="pop,90s,90er,00s,00er",Top Trash Station
+#EXTINF:-1 tvg-logo="https://top100station.de/wp-content/uploads/2018/05/Top-TRASH-Station_WEB-272x182.png" group-title="pop,90er,00er",Top Trash Station
 http://substream.top100station.com/toptrashstation.mp3
 #EXTINF:-1 tvg-logo="https://top20radio.tv/wp-content/uploads/Club-cid_8BC588BB-0773-4A94-9CDD-80C517BB2410@Speedport_W_921V_1_21_000.jpg" group-title="dance,club",Top20Club
 http://server8.blitz-stream.de:9150/
@@ -4503,6 +4527,8 @@ http://f131.rndfnk.com/ard/wdr/cosmo/bernamakurdikoelnradyosu/mp3/128/stream.mp3
 http://f131.rndfnk.com/ard/wdr/cosmo/coslive/mp3/128/stream.mp3?sid=22bW5dCV9jQX4uTMvyPh5hc6LcS&token=RKQB0OPGNpUzuHoKWoiAP1K3NyKXOMuZ-F7aV_gZmQ4&tvf=tcPs3OTnwhZmMTMxLnJuZGZuay5jb20
 #EXTINF:-1 tvg-logo="http://www1.wdr.de/funkhaus-europa-wird-cosmo-106~_v-gseagaleriexl.jpg" group-title="afrobeats,club,dj",WDR COSMO Selektor
 http://d131.rndfnk.com/ard/wdr/cosmo/selektor/mp3/128/stream.mp3?sid=22bjKBhTV1cReWr3CLVZWhkZWmv&token=r-W3N5lFPV7Z-3tQmWXCou8I6-4H1bXTgOEpUpMcniU&tvf=HMAINdXtwhZkMTMxLnJuZGZuay5jb20
+#EXTINF:-1 tvg-logo="https://www.wdrmaus.de/_teaserbilder/728510_355.jpg" group-title="children,kinder,youth",WDR Die Maus
+https://wdrhf.akamaized.net/hls/live/2028167/diemaus/192/seglist.m3u8
 #EXTINF:-1 tvg-logo="https://www1.wdr.de/radio/startseite/symbolbilder/bild-wdr-event-logo-100~_v-gseagaleriexl.jpg" group-title="information,news",WDR Event
 http://d131.rndfnk.com/ard/wdr/wdr/event/mp3/128/stream.mp3?sid=22bdJlyPBnJUp1ujlAjevSwtDbk&token=jt_Q1R7OYbU9A_0aUOqWxWh90WxNPzFWLQlHH4lK4Ao&tvf=uMiKECPrwhZkMTMxLnJuZGZuay5jb20
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/WDR_Vera_Logo.svg/320px-WDR_Vera_Logo.svg.png" group-title="traffic,news,weather",WDR VERA Verkehrsfunk
@@ -4547,6 +4573,8 @@ http://yahfm.stream.laut.fm/yahfm?pl=m3u&t302=2021-12-21_19-29-33&uuid=8ba2ea62-
 http://87.253.160.18:8000/yesterdayfm
 #EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/72/2e/37287/1/c300.png" group-title="pop,rock",Yesterday.FM
 https://yesterdayfm.schlagerparadies.de/yesterdayfm
+#EXTINF:-1 tvg-logo="https://www.radio.net/300/youfm.png?version=ffb0bded9fb397f3a297deaa9deb9d7f" group-title="electro,pop,german",You FM
+https://hlsyoufm.akamaized.net/hls/live/2016538/youfm/192/seg.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s316424/images/logod.jpg?t=638519773400000000" group-title="top 40,pop,dance",YouKW
 http://youkw.stream.laut.fm/youkw?t302=2021-12-21_17-56-41&uuid=c610c48a-54df-4d43-9346-3e934ae62b33
 #EXTINF:-1 tvg-logo="https://www.yourtimefm.de/favicon.ico" group-title="dance,electronic,pop",YourTime-FM
