@@ -11,7 +11,9 @@ http://stream.zeno.fm/adu1fbacna0uv?rj-ttl=5&rj-tok=AAABfd4FXpMA0iqgIdecfMuf4g
 http://stream.zeno.fm/nuk04rkkp2zuv.aac?rj-ttl=5&rj-tok=AAABfdrpTMEAAelyZBihzM7BzQ
 #EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s95322q.png" group-title="electronica,latin,pop",Exa 92.5
 https://playerservices.streamtheworld.com/api/livestream-redirect/ECUADORAAC_SC
-#EXTINF:-1 tvg-logo="http://radiohcjb.org/favicon.ico" group-title="christian,cristiana,music,musica,musica cristiana,news,noticias",HCJB Kichwa 89.3 FM
+#EXTINF:-1 tvg-logo="https://www.galaxia.com.ec/wp-content/uploads/2021/11/15134048/logo-galaxia.png",Galaxia 93.7
+https://dxpu1x3srkt4s.cloudfront.net/index.m3u8
+#EXTINF:-1 tvg-logo="http://radiohcjb.org/favicon.ico" group-title="cristiana,musica,noticias",HCJB Kichwa 89.3
 https://streamingecuador.net:8299/hcjb
 #EXTINF:-1 tvg-logo="http://radiohcjb.org/favicon.ico" group-title="cristiana,noticias",HCJB La Voz de los Andes 89.3 
 https://streamingecuador.net:8287/hcjb
@@ -37,6 +39,8 @@ http://streaming.hdserver.biz:9368/stream
 http://eu1.fastcast4u.com:10936/
 #EXTINF:-1 tvg-logo="https://images.zeno.fm/gESHWaqqnWznkBxMkODqzz9GRYNHo0qDLi0vrlYZ0ZI/rs:fit:500:500/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSURnM3FfNnlnc01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSURRekxEVTJnZ01vZ0VFZW1WdWJ3L2ltYWdlLz91cGRhdGVkPTE3MTM5NzUxODEwMDA.webp" group-title="folk,classic,balada",Pagma Stereo 107.1
 http://stream.zeno.fm/tqwu1sku9c0uv?rj-ttl=5&rj-tok=AAABfd5TqD4AkkSB9nsXFvDk4A
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Radio_P%C3%BAblica_FM_Ecuador.png/460px-Radio_P%C3%BAblica_FM_Ecuador.png" group-title="news,public,sports",Publica FM
+https://comep.radioca.st/stream
 #EXTINF:-1 tvg-logo="https://radio11q.com/wp-content/uploads/2017/10/11QHOME-1.png" group-title="80s,90s,pop",Radio 11Q 104.9
 https://streamingecuador.net:8012/radio11q
 #EXTINF:-1 tvg-logo="https://www.radioantena3.com/logo.png" group-title="latin,noticias,reggaeton",Radio Antena 3 91.7
