@@ -51,6 +51,8 @@ http://5.135.183.124:8133/stream
 https://stream.mediasector.es/radio/8030/bikinifm.mp3
 #EXTINF:-1 tvg-logo="https://www.bnmallorca.com/wp-content/uploads/radio-icon20x20.png" group-title="indie,music",BN Mallorca
 http://91.121.156.27:8008/stream
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdBKokqCFLsZtUfqFc7YakxfmjnTrdX8icqQ&s" group-title="adult,hits",BOM Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/BOM_RADIO_AAC.aac
 #EXTINF:-1 tvg-logo="https://imgproxy.zenomedia.com/insecure/fit/500/500/ce/0/plain/https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQpq6f1AsMCxIOU3RhdGlvblByb2ZpbGUYgICQusL38QgMogEEemVubw/image/%3Fresize=500x500&v=1" group-title="hits,pop",Bujalance Radio
 http://stream.zeno.fm/uu249rn3qzzuv?rj-ttl=5&rj-tok=AAABfdrmPIEAXEnWpcGB4NgXVw
 #EXTINF:-1 tvg-logo="https://d1v6pqrrmmnutj.cloudfront.net/post_square_images/attachments/000/000/821/original/cadena100.png?2015" group-title="pop,rock,hits",Cadena 100
@@ -103,6 +105,8 @@ http://canal2000.berkano-systems.net/streaming/streams/canal2000-720p.m3u8
 http://91.121.156.27:8011/stream#.mp3
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/QqhE7d3J8ExMlGZ1F9_MGIFzWMgByde4nK_5zedjKM0zD7wLecqqyJiXI9vOMh8g_cg" group-title="pop,news,sports",Canal Blau 100.4
 https://streaming.enacast.com/canalblau128.mp3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/CEXMA_new.png/225px-CEXMA_new.png" group-title="public,news,talk",Canal Extremadura Radio
+https://cdnapisec.kaltura.com/p/5581662/sp/558166200/playManifest/entryId/1_futbhli6/protocol/https/format/applehttp/flavorIds/1_zara7yow/a.m3u8
 #EXTINF:-1 tvg-logo="https://rtvc.es/storage/2021/03/c144.png" group-title="house,electro",Canarias Radio 104.2
 https://rtvc-radio.flumotion.com/rtvc-radio/radio1-high.mp3
 #EXTINF:-1 tvg-logo="https://cdn.capitalradio.es/embed/cfe0ab9a7aeacaf4ae8932d963f17b93885be1552218464/capitalradio.jpg" group-title="business,economy",Capital Radio
@@ -183,7 +187,7 @@ http://esenciaradio.ddns.net:8000/directo
 http://stream.zeno.fm/51nrp77pbsquv?rj-ttl=5&rj-tok=AAABfd4veZoA0HRZy-Cqwg32nA
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/logo/4/53784.v14.png" group-title="70s,80s,90s",Esplugues FM
 https://antares.dribbcast.com/proxy/espluguesfm?mp=/stream
-#EXTINF:-1 tvg-logo="https://www.espananetwork.net/____impro/1/onewebmedia/ESPANA%20NETWORK%20CONTORNO%20ROSSO%20OMBRA%20retail%20diag.png" group-title="Dance",ESPANA NETWORK 128K
+#EXTINF:-1 tvg-logo="https://www.espananetwork.net/____impro/1/onewebmedia/ESPANA%20NETWORK%20CONTORNO%20ROSSO%20OMBRA%20retail%20diag.png" group-title="dance,edm",Espana Network
 http://cast3.asurahosting.com:9023/stream
 #EXTINF:-1 tvg-logo="https://s.libertaddigital.com/esradio/favicon.ico" group-title="talk,news",esRadio 99.1
 http://livestreaming.esradio.fm/stream64.mp3
@@ -195,6 +199,8 @@ http://ns6.emisionlocal.com:8040/listen.pls
 http://livestreaming3.esradio.fm/stream64.mp3
 #EXTINF:-1 tvg-logo="https://s.libertaddigital.com/esradio/favicon.ico" group-title="news,talk",esRadio
 http://livestreaming9.esradio.fm/aaclive32
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s6779/images/logog.png?t=2" group-title="90s,hits,pop",Europa FM
+http://str2.mediatelekom.net:9968/;
 #EXTINF:-1 tvg-logo="http://www.eitb.eus/apple-touch-icon.png" group-title="news,variety",Euskadi Irratia 97.0
 http://mp3-eitb.stream.flumotion.com/eitb/euskadiirratia.mp3
 #EXTINF:-1 tvg-logo="https://euskalerriairratia.eus//static/img/favicons/fav196.png" group-title="news,talk,culture",Euskalerria Irratia 98.3
@@ -461,6 +467,8 @@ https://streaming.enacast.com/radiocastelldefels128.mp3
 http://streaming.enantena.com:8000/radiocelra128.mp3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Logo_RNE.svg/320px-Logo_RNE.svg.png" group-title="classical,baroque",Radio Clásica RNE
 https://hlsliveamdgl0-lh.akamaihd.net/i/rnerc_1@586399/index_128_a-p.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Logo_RNE.svg/320px-Logo_RNE.svg.png" group-title="classical,baroque",Radio CLM 90.2
+https://cflive.kaltura.com/scf/env/d.live.nvp1/live/hls/p/2288691/e/1_qilzwlkz/tl/main/st/0/t/O7-TFpuRcECNA1Nml1t_0w/index-s32.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZmxpdmUua2FsdHVyYS5jb20vc2NmL2Vudi9kLmxpdmUubnZwMS9saXZlL2hscy9wLzIyODg2OTEvZS8xX3FpbHp3bGt6L3RsL21haW4vc3QvMC90L083LVRGcHVSY0VDTkExTm1sMXRfMHcvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTczODA3MjcyMH19fV19&Signature=C9kyaM0VdlkbmlHO6hXChfMuxcxzX4lKc2GYNy550BFPlUU3hE18z2kOMH2H4HSlt-tYsrj90xcyolqlAVM2io~Q3S~kqK0B0iZf7ukxqMr8HaGWJz3P50N1ubX6NRGaMTJp~-QnR6ACsrBiXdK4abjQVMBr9Oe0XJoZlemvoIorDanJwzMYYQpSFTkxcehC0u8ZRZxa0RIXI2okn3dwYDQSu63FFEYaZz-dbMBgeWYP2XO9rO7HeTRUoQnlUjlwZgtPHJKVnbeEM6cQTPM0eEXiRCX2jTBZOGbG9geBYJeeJJyxwaNeBtM26zsarjGITSVZNPP~iOhvIOTmH5J1Iw__&Key-Pair-Id=K31ANTJBLNVBEC
 #EXTINF:-1 tvg-logo="http://www.corberadellobregat.cat/media/favicons/apple-touch-icon-120x120.png" group-title="culture,variety",Ràdio Corbera 107.0
 https://streaming.enacast.com/radiocorbera128.mp3
 #EXTINF:-1 tvg-logo="https://radiocret.net/wp-content/uploads/LOGO-CRET-NEW-2.png" group-title="christian,cristiana",Radio Cret 1080
@@ -481,6 +489,8 @@ http://mp3-eitb.stream.flumotion.com/eitb/radioeuskadi.mp3
 https://secure.todostreaming.es/live/nerja-radio.m3u8
 #EXTINF:-1 tvg-logo="https://www.galdar.es/wp-content/uploads/2018/02/LOGO-RADIO-GALDAR.png" group-title="christian,contemporary",Radio Gáldar 107.9
 http://195.77.177.94:8000/stream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/81540462.png" group-title="news,talk,spanish",Radio Galega 96.2
+https://crtvg-radiogalega-hls.flumotion.cloud/playlist_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://www.crtvg.es/static/v2_img/icons/apple-icon-120x120.png" group-title="pop,hits",Radio Galega Música
 http://wecast-b03-04.flumotion.com/radiogalega-musica/live.mp3
 #EXTINF:-1 tvg-logo="http://radiogava.cat/radiogava/favicon-128.png" group-title="pop,news,talk",Ràdio Gavà 91.2
@@ -635,18 +645,20 @@ http://stream.zeno.fm/aqr9g5q5pvduv?rj-ttl=5&rj-tok=AAABfd31n5sARATNhxz3l5PBog
 http://5.135.183.124:9283/stream?type=.mp3
 #EXTINF:-1 tvg-logo="http://www.rfcradio.es/wp-content/uploads/2016/03/RFC-logo-es-claro.png" group-title="80s,90s,music",RFC Radio
 http://lyra.shoutca.st:8151/rfcmp3
-#EXTINF:-1 tvg-logo="http://www.rtve.es/favicon.ico" group-title="news,talk,sports",RNE 1 Radio Nacional Madrid
+#EXTINF:-1 tvg-logo="http://www.rtve.es/favicon.ico" group-title="news,talk,sports",RNE Radio Nacional
 http://hlsliveamdgl0-lh.akamaihd.net/i/rnerne_1@586398/master.m3u8
-#EXTINF:-1 tvg-logo="http://www.rtve.es/favicon.ico" group-title="classical,culture,news",RNE 2 Radio Clásica
+#EXTINF:-1 tvg-logo="http://www.rtve.es/favicon.ico" group-title="classical,culture,news",RNE Radio Clásica
 http://hlsliveamdgl0-lh.akamaihd.net/i/rnerc_1@586399/master.m3u8
-#EXTINF:-1 tvg-logo="http://www.rtve.es/favicon.ico" group-title="culture,news",RNE 3 Radio 3 Madrid
+#EXTINF:-1 tvg-logo="http://www.rtve.es/favicon.ico" group-title="culture,news",RNE Radio 3
 http://hlsliveamdgl0-lh.akamaihd.net/i/rnerne3_1@793568/master.m3u8
-#EXTINF:-1 tvg-logo="http://www.rtve.es/favicon.ico" group-title="news,talk",RNE 5 Radio 5 Madrid
+#EXTINF:-1 tvg-logo="http://www.rtve.es/favicon.ico" group-title="news,talk",RNE Radio 5 
 http://hlsliveamdgl0-lh.akamaihd.net/i/rnerne5_1@793570/master.m3u8
 #EXTINF:-1 tvg-logo="http://img2.rtve.es/a/1712404?w=1600&preview=1510936827618.png" group-title="noticias,exitos",RNE 5 Todo Noticias
 http://hlsliveamdgl0-lh.akamaihd.net/i/rnerne5_1@793570/index_128_a-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="http://img2.rtve.es/a/1712469?w=400&preview=1497535803851.jpg" group-title="culture,music",RNE Radio 3
 http://hlsliveamdgl0-lh.akamaihd.net/i/rnerne3_1@793568/index_128_a-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://www.radio.net/300/rneradio4.png?version=02ad852b97c6bf3198d5f0480d00f6c1" group-title="news,talk,catalan",RNE Radio 4
+https://rtvelivestream.rtve.es/rtvesec/rne/rne_r4_main.m3u8
 #EXTINF:-1 tvg-logo="http://img2.rtve.es/a/1712486?w=400&preview=1550663194160.png" group-title="culture,deportes,politics",RNE Radio Nacional
 http://hlsliveamdgl0-lh.akamaihd.net/i/rnerne_1@586398/index_128_a-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="http://player.rockfm.fm/favicon.ico" group-title="classic,rock",Rock FM 
