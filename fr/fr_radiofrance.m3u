@@ -243,17 +243,17 @@ https://stream.radiofrance.fr/fbtouraine/fbtouraine.m3u8?id=radiofrance
 https://icecast.radiofrance.fr/fbvaucluse-midfi.mp3
 #EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="hits,pop",France Bleu Vaucluse
 https://stream.radiofrance.fr/fbvaucluse/fbvaucluse.m3u8?id=radiofrance
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c9/France_Culture_-_2008.svg/1024px-France_Culture_-_2008.svg.png" group-title="culture,public radio,radio france",France Culture
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c9/France_Culture_-_2008.svg/1024px-France_Culture_-_2008.svg.png" group-title="culture,public",France Culture
 https://icecast.radiofrance.fr/franceculture-hifi.aac
-#EXTINF:-1 tvg-logo="https://www.franceculture.fr//favicons/android-icon-192x192.png" group-title="culture,public radio",France Culture
+#EXTINF:-1 tvg-logo="https://www.franceculture.fr//favicons/android-icon-192x192.png" group-title="culture,public",France Culture
 https://stream.radiofrance.fr/franceculture/franceculture.m3u8?id=radiofrance
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/18/France_Info_-_2008.svg/1024px-France_Info_-_2008.svg.png" group-title="information,public radio,radio france",France Info
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/18/France_Info_-_2008.svg/1024px-France_Info_-_2008.svg.png" group-title="information,public",France Info
 https://icecast.radiofrance.fr/franceinfo-hifi.aac
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/18/France_Info_-_2008.svg/768px-France_Info_-_2008.svg.png" group-title="information,public radio",France Info
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/18/France_Info_-_2008.svg/768px-France_Info_-_2008.svg.png" group-title="information,public",France Info
 https://stream.radiofrance.fr/franceinfo/franceinfo.m3u8?id=radiofrance
-#EXTINF:-1 tvg-logo="https://canada-culture.org/wp-content/uploads/2018/05/logo-france-inter.png" group-title="general,public radio",France Inter
+#EXTINF:-1 tvg-logo="https://canada-culture.org/wp-content/uploads/2018/05/logo-france-inter.png" group-title="variety,public",France Inter
 https://icecast.radiofrance.fr/franceinter-hifi.aac
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/39/France_Inter_logo.svg" group-title="general,public radio",France Inter
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/39/France_Inter_logo.svg" group-title="variety,public",France Inter
 https://stream.radiofrance.fr/franceinter/franceinter.m3u8?id=radiofrance
 #EXTINF:-1 tvg-logo="https://www.francemusique.fr/favicon.ico" group-title="classical,jazz",France Musique
 https://icecast.radiofrance.fr/francemusique-hifi.aac
