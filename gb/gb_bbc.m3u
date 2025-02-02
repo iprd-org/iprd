@@ -7,6 +7,8 @@ http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_arabic_radio/bbc_arabic
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_asian_network/bbc_asian_network.isml/master.norewind.m3u8
 #EXTINF:-1 tvg-logo="https://rmp.files.bbci.co.uk/playspace/img/apple-touch-icon.96d5401f35.png" group-title="children,educational",BBC CBeebies Radio [Geo-blocked]
 https://as-hls-uk.live.cf.md.bbci.co.uk/pool_904/live/uk/cbeebies_radio/cbeebies_radio.isml/master.norewind.m3u8
+#EXTINF:-1 tvg-logo="https://static.tuneyou.com/images/logos/500_500/48/15148/BBCRadioHausa_0.jpg" group-title="hausa,news,talk",BBC Hausa Radiyo
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/cfs/bbc_hausa_radio.mpd
 #EXTINF:-1 tvg-logo="https://static.files.bbci.co.uk/ws/simorgh-assets/public/nepali/images/icons/icon-144x144.png" group-title="news,talk",BBC Nepali
 https://stream.live.vc.bbcmedia.co.uk/bbc_nepali_radio
 #EXTINF:-1 tvg-logo="https://rmp.files.bbci.co.uk/playspace/img/apple-touch-icon.96d5401f35.png" group-title="r'n'b,pop,hits",BBC Radio 1
@@ -23,7 +25,7 @@ http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_two/bbc_radio_two
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_three/bbc_radio_three.isml/master.norewind.m3u8
 #EXTINF:-1 tvg-logo="https://rmp.files.bbci.co.uk/playspace/img/apple-touch-icon.96d5401f35.png" group-title="comedy,news,talk",BBC Radio 4
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/master.norewind.m3u8
-#EXTINF:-1 tvg-logo="https://rmp.files.bbci.co.uk/playspace/img/apple-touch-icon.96d5401f35.png" group-title="comedy,drama,entertainment",BBC Radio 4 Extra
+#EXTINF:-1 tvg-logo="https://rmp.files.bbci.co.uk/playspace/img/apple-touch-icon.96d5401f35.png" group-title="comedy,drama",BBC Radio 4 Extra
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_four_extra/bbc_radio_four_extra.isml/master.norewind.m3u8
 #EXTINF:-1 tvg-logo="https://sounds.files.bbci.co.uk/3.5.0/services/bbc_radio_fourlw/blocks-white_default.svg" group-title="news,talk",BBC Radio 4 LW
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_fourlw/bbc_radio_fourlw.isml/master.norewind.m3u8
@@ -65,7 +67,7 @@ http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_guernsey/bbc_radi
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_hereford_worcester/bbc_radio_hereford_worcester.isml/master.norewind.m3u8
 #EXTINF:-1 tvg-logo="http://www.bbc.co.uk/favicon.ico" group-title="news,talk",BBC Radio Humberside
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_humberside/bbc_radio_humberside.isml/master.norewind.m3u8
-#EXTINF:-1 tvg-logo="http://www.bbc.co.uk/favicon.ico" group-title="local news,music,talk",BBC Radio Jersey
+#EXTINF:-1 tvg-logo="http://www.bbc.co.uk/favicon.ico" group-title="news,talk",BBC Radio Jersey
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_jersey/bbc_radio_jersey.isml/master.norewind.m3u8
 #EXTINF:-1 tvg-logo="http://www.bbc.co.uk/favicon.ico" group-title="news,talk",BBC Radio Kent
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_kent/bbc_radio_kent.isml/master.norewind.m3u8
@@ -83,7 +85,7 @@ http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_london/bbc_london.isml/
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_manchester/bbc_radio_manchester.isml/master.norewind.m3u8
 #EXTINF:-1 tvg-logo="http://www.bbc.co.uk/favicon.ico" group-title="news,talk",BBC Radio Merseyside
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_merseyside/bbc_radio_merseyside.isml/master.norewind.m3u8
-#EXTINF:-1 tvg-logo="http://www.bbc.co.uk/favicon.ico" group-title="news,talk",BBC Radio nan Gàidheal
+#EXTINF:-1 tvg-logo="http://www.bbc.co.uk/favicon.ico" group-title="news,talk",BBC Radio Nan Gàidheal
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_nan_gaidheal/bbc_radio_nan_gaidheal.isml/master.norewind.m3u8
 #EXTINF:-1 tvg-logo="http://www.bbc.co.uk/favicon.ico" group-title="news,talk",BBC Radio Newcastle
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_newcastle/bbc_radio_newcastle.isml/master.norewind.m3u8

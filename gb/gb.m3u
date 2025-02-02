@@ -33,6 +33,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/SAM03AAC226_SC
 http://uk5.internet-radio.com:8256/stream
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio70007_1526588256.jpg" group-title="christian,gospel",Adventist Radio
 http://88.208.244.107:8002/stream
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGxT5EZ25QfWhmOsi44DAQ_EPojjKCZnSvWw&s" group-title="news,talk",Radio Afghanistan International
+https://n05.radiojar.com/9gayvb56ckhvv?rj-ttl=5&rj-tok=AAABlMigL0sA1CEb7PNhIxaLDg
 #EXTINF:-1 tvg-logo="https://air1072.com/wp-content/uploads/2018/12/cropped-airlogoxmassmall-1.png" group-title="community,variety",Air 107.2
 http://stream.air1072.com/high
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s37347g.png" group-title="arts,community,culture",ALL FM 96.9
@@ -69,12 +71,18 @@ http://edge-audio-02-thn.sharp-stream.com/ssvcbfbs13.aac
 https://edge-audio-01-cr.sharp-stream.com/ssvcbfbs20.aac?device=bfbs_beats
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/BFBS_logo.png" group-title="top 40,charts,hits",BFBS Blandford
 http://edge-audio-01-gos2.sharp-stream.com/ssvcbfbs14.aac
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/BFBS_logo.png" group-title="news,talk,entertainment",BFBS Brize Norton
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/BFBS_logo.png" group-title="news,talk,variety",BFBS Brize Norton
 http://edge-audio-01-gos2.sharp-stream.com/ssvcbfbs25.aac
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/BFBS_logo.png" group-title="news,talk,entertainment",BFBS Colchester 107.0
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd-6IBH7px3a7ixVwT4iEMXnkDneDNAzuJUw&s" group-title="news,talk,variety",BFBS Catterick
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs15.aac
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/BFBS_logo.png" group-title="news,talk,variety",BFBS Colchester 107.0
 http://edge-audio-03-gos2.sharp-stream.com/ssvcbfbs16.aac
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6EjazSsIoSKFKB-Mffmvo_G4OK6XiT9A7aA&s" group-title="rock,pop",BFBS Edge
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs22.aac
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/BFBS_logo.png" group-title="adult,hits",BFBS Northern Ireland
 http://edge-audio-04-thn.sharp-stream.com/ssvcbfbs4.aac
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9WvNJfuYMYc_qo4RJB1mdi31jkZUUu8xDkA&s" group-title="hits,pop,top 40",BFBS Ops
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs9.aac
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/BFBS_logo.png" group-title="pop,rock",BFBS Radio 1
 http://edge-audio-06-thn.sharp-stream.com/ssvcbfbs1.aac
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/BFBS_logo.png" group-title="news,sports",BFBS Radio 2
@@ -85,6 +93,8 @@ http://edge-audio-03-gos2.sharp-stream.com/ssvcbfbs21.aac?device=bfbs_rewind
 http://edge-audio-02-thn.sharp-stream.com/ssvcbfbs17.aac
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/BFBS_logo.png" group-title="adult,hits",BFBS Scotland
 http://edge-audio-01-gos2.sharp-stream.com/ssvcbfbs18.aac
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/pydwxstfrsek.png" group-title="adult,hits",BFBS UK
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs1.aac
 #EXTINF:-1 tvg-logo="http://static.radio.de/images/broadcasts/26/ff/4152/c175.png" group-title="ambient,animals,nature",Birdsong.fm
 https://streaming.radio.co/s5c5da6a36/listen
 #EXTINF:-1 tvg-logo="https://www.bhbn.net/wp-content/uploads/2020/05/BHBN-White-Centre.png" group-title="adult,hits",BHBN Radio
@@ -109,7 +119,7 @@ https://boxradio-edge-00.streamafrica.net/gospelplus
 https://boxradio-edge-00.streamafrica.net/country
 #EXTINF:-1 tvg-logo="https://icdn.streamafrica.net/santaradio_fixed.png" group-title="christmas,holidays",BOX Santa Radio
 http://stream.zeno.fm/q88hvnz86p8uv?rj-ttl=5&rj-tok=AAABfdpqtsEA5rAOPf-3sVH-BA
-#EXTINF:-1 tvg-logo="http://www.bradleystokeradio.com/wp-content/uploads/2017/10/cropped-cropped-logo-2.png" group-title="00s,80s,90s,community",Bradley Stoke Radio 103.4 
+#EXTINF:-1 tvg-logo="http://www.bradleystokeradio.com/wp-content/uploads/2017/10/cropped-cropped-logo-2.png" group-title="00s,80s,90s",Bradley Stoke Radio 103.4 
 http://46.28.49.164:7400/stream
 #EXTINF:-1 tvg-logo="https://uk.radio.net/images/broadcasts/1f/f4/135036/3/c300.png" group-title="rock,pop,talk",Brickies Radio
 http://n0d.radiojar.com/akvzxctdxtzuv?rj-ttl=5&rj-tok=AAABfd5bx8QAdqvwCcYE52oxqQ
@@ -267,7 +277,7 @@ https://streaming.broadcastradio.com:10445/youngtech
 https://stream-mixtape-geo.ntslive.net/mixtape23
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s166628/images/logog.jpg?t=151688" group-title="pop,news,talk",First FM 105.1
 http://stream.firstfm.uk:8000/first1
-#EXTINF:-1 tvg-logo="http://www.forestfm.co.uk/images/layout/header-logo.jpg" group-title="community,adult,hits",Forest FM 92.3 [MP3 128k] UPDATED
+#EXTINF:-1 tvg-logo="http://www.forestfm.co.uk/images/layout/header-logo.jpg" group-title="community,adult,hits",Forest FM 92.3
 https://radio.canstream.co.uk:8146/live.mp3
 #EXTINF:-1 tvg-logo="https://planetradio.co.uk/tesla/static/favicons/bcn-1/apple-touch-icon.png" group-title="pop,hits",Forth 1
 https://stream-al.planetradio.co.uk/forth1.aac?direct=true&listenerid=undefined&amsparams=playerid:BMUK_html5;skey:1547375747;&awparams=loggedin:false;&aw_0_req.gdpr=true
@@ -283,6 +293,8 @@ http://funk2disco.stream.laut.fm/funk2disco?t302=2021-12-21_03-42-21&uuid=657dc3
 http://funk2disco.stream.laut.fm/funk2disco?t302=2019-10-08_17-09-47&uuid=242e4734-ae25-4995-bf64-11ae6ab5a169
 #EXTINF:-1 tvg-logo="http://www.funkerfm.uk/favicon.ico" group-title="world,variety",Funker FM
 http://167.114.131.90:5968/ffm
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/L40-RMXKkmWBn50tTcmED9m60K84i7i8IWHg2xrbdpw8zimmGmYTynvvXXveb3TKcx0=w240-h480-rw" group-title="children,youth",Fun Kids
+https://listen-funkids.sharp-stream.com/funkids.mp3
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/519839160/FunkURadioLogo_400x400.jpg" group-title="70s,80s,disco",FunkURadio
 https://furfmcou.radioca.st/stream
 #EXTINF:-1 tvg-logo="https://mmo.aiircdn.com/20/664b74c8921af.png" group-title="dance,house,pop",Gaydio
@@ -295,7 +307,7 @@ http://live-bauer-al.sharp-stream.com/gem106.mp3
 http://streamer.radio.co/s24ae1285c/listen
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s193288d.png" group-title="classic,jazz",Giants of Jazz Radio
 http://streaming.radio.co/s297e618a7/listen
-#EXTINF:-1 tvg-logo="http://www.glastonburyfm.co.uk/wp/wp-content/themes/gfm/img/GFM1071.png" group-title="community,freeform,indie",Glastonbury FM 107.1
+#EXTINF:-1 tvg-logo="http://www.glastonburyfm.co.uk/wp/wp-content/themes/gfm/img/GFM1071.png" group-title="community,freeform,indie",Glastonbury 107.1
 http://live.canstream.co.uk:8000/glastonburyfm.mp3
 #EXTINF:-1 tvg-logo="https://mm.aiircdn.com/382/596916dce017a.png" group-title="top 40,charts,pop",GLOSS FM
 http://s42.myradiostream.com:29400/
@@ -319,7 +331,7 @@ https://stream-mz.planetradio.co.uk/net2surrey.aac
 https://stream-mz.planetradio.co.uk/net2sussex.aac
 #EXTINF:-1 tvg-logo="https://assets.planetradio.co.uk/img/ConfigWebListenBarLogoImageUrl/381.png" group-title="70s,80s,oldies",Greatest Hits Radio West Norfolk
 https://stream-mz.planetradio.co.uk/net2westnorfolk.mp3
-#EXTINF:-1 tvg-logo="https://assets.planetradio.co.uk/img/ConfigWebListenBarLogoImageUrl/381.png?ver=1545131864" group-title="70s,80s,90s,hits",Greatest Hits Radio South Yorkshire
+#EXTINF:-1 tvg-logo="https://assets.planetradio.co.uk/img/ConfigWebListenBarLogoImageUrl/381.png?ver=1545131864" group-title="70s,80s,90s",Greatest Hits Radio South Yorkshire
 https://stream-mz.planetradio.co.uk/magicam.aac
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/564981_5da0da4ef5af4e06a36b91435bd87691%7emv2_d_1440_1440_s_2.jpg/v1/fill/w_32%2ch_32%2clg_1%2cusm_0.66_1.00_0.01/564981_5da0da4ef5af4e06a36b91435bd87691%7emv2_d_1440_1440_s_2.jpg" group-title="electronic,house",Groove London Radio
 http://eu10.fastcast4u.com/groovelondon
@@ -407,7 +419,7 @@ https://stream-mixtape-geo.ntslive.net/mixtape32
 http://live-bauer-al.sharp-stream.com/heat.mp3
 #EXTINF:-1 tvg-logo="http://www.heckingtonliving.co.uk/favicon.ico" group-title="community,variety",Heckington Living Community Radio
 https://ais-edge37-live365-dal02.cdnstream.com/a52107
-#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/2d/c1/2dc15a9d7716b64ef13dbad25e9ce8cb.jpg" group-title="60s,70s,oldies",Hit 45s [320K] [OFFLINE 01/2025]
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/2d/c1/2dc15a9d7716b64ef13dbad25e9ce8cb.jpg" group-title="60s,70s,oldies",Hit 45s
 https://kastos.cdnstream.com/1345_320
 #EXTINF:-1 tvg-logo="https://planetradio.co.uk/tesla/static/favicons/hits-radio/apple-touch-icon.png" group-title="hits,pop,rock",Hits Radio
 https://stream-al.planetradio.co.uk/hits.aac
@@ -421,13 +433,15 @@ http://99.198.118.250:8014/stream
 http://hubble.shoutca.st:8004/stream
 #EXTINF:-1 tvg-logo="https://www.itch.fm/wp-content/uploads/2018/05/cropped-sqlogp-1-192x192.png" group-title="hip hop,soul",Itch FM
 https://streaming.radio.co/s264858a04/listen
+#EXTINF:-1 tvg-logo="https://prison.radio/wp-content/themes/pra/images/PRA_logo_footer@2x.png" group-title="variety,community",National Prison Radio
+https://audio3.mixcloud.com/secure/hls/,3/4/5/8/cb84-1177-4941-a6ff-7be67c9c0866,3/4/5/8/cb84-1177-4941-a6ff-7be67c9c0866-192K,.m4a.urlset/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s259322/images/logog.png?t=158376" group-title="jazz,chill,hits",salalondon Radio
 http://salalondon.ddns.net:8002/;.m3u
 #EXTINF:-1 tvg-logo="https://planetradio.co.uk/tesla/static/favicons/jazz-fm/apple-touch-icon.png" group-title="big band,jazz,latin",Jazz FM UK
 https://stream-al.planetradio.co.uk/jazzhigh.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&amsparams=playerid:BMUK_html5;skey:1616846165;&aw_0_1st.playerid=BMUK_html5&aw_0_1st.skey=1616846165&aw_0_1st.bauer_loggedin=false&awparams=loggedin:false;&aw_0_req.userConsentV2=false
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s225199/images/logog.png?t=160460" group-title="jazz,blues",Jazz London Radio [MP3 320k]
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s225199/images/logog.png?t=160460" group-title="jazz,blues",Jazz London Radio
 http://radio.canstream.co.uk:8075/live.mp3
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s225199/images/logog.png?t=160460" group-title="jazz,blues",Jazz London Radio [AAC 64k]
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s225199/images/logog.png?t=160460" group-title="jazz,blues",Jazz London Radio
 http://radio.canstream.co.uk:8075/live.aac
 #EXTINF:-1 tvg-logo="http://www.kanefm.com/favicon.ico" group-title="bass,breaks,community",Kane FM
 http://stream.kanefm.com:1037/;stream
@@ -597,7 +611,7 @@ http://uk6.internet-radio.com:8089/stream
 http://tachyon.shoutca.st:8586/stream
 #EXTINF:-1 tvg-logo="https://www.panjabradio.co.uk/wp-content/uploads/2021/03/pr-flag-244x248-1-150x150.png" group-title="talk,bhangra,world",Panjab Radio 558
 http://radio3.citrus3.com:8584/stream
-#EXTINF:-1 tvg-logo="https://www.partyvibe.com/radio/wp-content/uploads/2016/02/radio-tower-512-icon-2013105433.png" group-title="dancehall,dub,reggae,roots",Party Vibe Radio Reggae
+#EXTINF:-1 tvg-logo="https://www.partyvibe.com/radio/wp-content/uploads/2016/02/radio-tower-512-icon-2013105433.png" group-title="dancehall,dub,reggae",Party Vibe Radio Reggae
 http://www.partyviberadio.com:8000/listen.pls
 #EXTINF:-1 tvg-logo="http://passionforfreshideas.com/wp-content/uploads/2015/11/cropped-PftP-web-banner-2015-blue-A.png" group-title="world,pop",Passion for the Planet
 http://108.163.221.109/stream
@@ -659,6 +673,10 @@ http://5.63.151.52:7224/stream
 http://5.63.151.52:7224/
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s128871q.png" group-title="community,pop",Quay 107.1
 http://quayfm.ci-servers.gg:1071/quay-fm
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s128871q.png" group-title="community,pop",Quay 107.1
+http://quayfm.ci-servers.gg:1071/quay-fm
+#EXTINF:-1 tvg-logo="https://dailypost.ng/wp-content/uploads/2017/03/radio-biafra.jpg" group-title="talk,variety",Radio Biafra 97.6
+https://stream.zeno.fm/cnet8vdudceuv?rj-ttl=5&rj-tok=AAABfdrxJuAAhQ0WS8mXaEwgKg
 #EXTINF:-1 tvg-logo="https://www.radiobloodstream.eu/favicon.ico" group-title="hard,rock,metal",Radio Bloodstream
 https://uk1.internet-radio.com/proxy/bloodstream?mp=/stream
 #EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/bf/bb/3271/c300.png" group-title="pop,rock",Radio Caroline
@@ -685,14 +703,18 @@ https://teamradioearn.radioca.st./stream
 https://playoutonestreaming.com/proxy/essex?mp=/stream
 #EXTINF:-1 tvg-logo="https://www.herewego.rocks/wp-content/uploads/2020/09/cropped-AppIcon_2020-32x32.png" group-title="magyar,world",Radio HereWeGo
 http://178.238.212.164:4500/live.mp3
-#EXTINF:-1 tvg-logo="http://radiojackie.com/rj.gif" group-title="oldies,pop,rock",Radio Jackie 107.8 128Kbps AAC
+#EXTINF:-1 tvg-logo="http://radiojackie.com/rj.gif" group-title="oldies,pop,rock",Radio Jackie 107.8
 http://media.radiojackie.com/redirector/frontend.m3u8
-#EXTINF:-1 tvg-logo="http://radiojackie.com/rj.gif" group-title="oldies,pop,rock",Radio Jackie 107.8 320Kbps AAC
+#EXTINF:-1 tvg-logo="http://radiojackie.com/rj.gif" group-title="oldies,pop,rock",Radio Jackie 107.8
 http://media.radiojackie.com:5873/
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/radio/rr/radio_jahani_uk.png" group-title="news,talk,persian",Radio Jahani
+http://shoutcast.wrn.org:8025/vor
 #EXTINF:-1 tvg-logo="http://radiolemans.0157.org/audios/rs1logo.png" group-title="motorsport,sport,talk",Radio Le Mans RS1
 http://edge-event-04-thn.sharp-stream.com/radioshow.mp3
 #EXTINF:-1 tvg-logo="http://radiolemans.0157.org/audios/rs2logo.png" group-title="motorsport,sport,talk",Radio Le Mans RS2
 http://edge-audio-02-thn.sharp-stream.com/radioshow2.mp3
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ADPLEoFe5fTiL0kvgnXbI5-x8pbjvPovutXq82Ykfyw920dQ9v9J13Om66pgpBoJxZPG=w240-h480-rw" group-title="christian,persian,religious",Radio Mojdeh
+https://d2o2gkm4te8bfg.cloudfront.net/
 #EXTINF:-1 tvg-logo="https://www.radioreverb.com/favicon.ico" group-title="community,top 40",Radio Reverb 97.2
 http://edge-audio-03-gos2.sharp-stream.com/radioreverb.mp3
 #EXTINF:-1 tvg-logo="https://www.radio-santec.com/favicon.ico" group-title="christian,religion",Radio Santec
@@ -809,6 +831,8 @@ http://78.129.228.187:8042/listen.pls
 http://live.canstream.co.uk:8000/scr
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/91/Sam_FM_Bristol_logo.png" group-title="rock,pop,news",Sam 106.5 FM
 https://stream-mz.planetradio.co.uk/net1bristol.aac
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/radio/ww/wrn_uk.png" group-title="rock,pop,news",Sawt Al Alam
+http://shoutcast.wrn.org:8025/WRN-A
 #EXTINF:-1 tvg-logo="https://planetradio.co.uk/tesla/static/favicons/scala-radio/apple-touch-icon.png" group-title="classical,baroque",Scala Radio
 https://stream-mz.planetradio.co.uk/scalahigh.aac
 #EXTINF:-1 tvg-logo="http://web.sheffieldlive.org//favicon.ico" group-title="community,indie",Sheffield Live 93.2
@@ -821,6 +845,8 @@ http://stream.shmu.org.uk:8000/shmufm_high.mp3
 http://radio.streemlion.com:1460/stream
 #EXTINF:-1 tvg-logo="https://mm.aiircdn.com/70/5d5fec60c979b.png" group-title="pop,top 40",Signal 1 96.9
 https://stream-mz.planetradio.co.uk/net1stoke.mp3
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/phi19fJAMvOxBWN4M1lb-EXIybEIaW176n-5uWXyne6IKL0eLUvWVItWhGE3HcqucxMy" group-title="news,talk",Sky News Arabia 90.3
+https://radio.skynewsarabia.com/stream/radio/skynewsarabia
 #EXTINF:-1 tvg-logo="https://www.nts.live/favicon.ico" group-title="ambient,drone,relaxing",NTS Slow Focus
 https://stream-mixtape-geo.ntslive.net/mixtape
 #EXTINF:-1 tvg-logo="https://www.smoothradio.com/assets_v4r/smooth/img/favicon-196x196.png" group-title="chillout,smooth,variety",Smooth Chill
@@ -963,6 +989,8 @@ https://radio.virginradio.co.uk/stream-chilled?aw_0_1st.platform=vr-web
 https://radio.virginradio.co.uk/stream-groove
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dc/Virgin_Radio_UK_logo.png" group-title="information,news,pop",Virgin Radio UK
 http://radio.virginradio.co.uk/stream
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHgT3kdVGl5gWA9KV1ISwHHZiDlCMfIKzvZQ&s" group-title="christian,religious",Vision Christian Radio
+https://streams3.vision.org.au/vision128.mp3
 #EXTINF:-1 tvg-logo="https://vitaradio.co.uk/wp-content/uploads/cache/2018/02/cropped-VITA-Radio-LOGO-Sq-512/2911582404.png" group-title="adult,contemporary,pop",VITA Radio
 https://streaming.radio.co/sc6afa51d0/listen
 #EXTINF:-1 tvg-logo="http://www.bauermedia.co.uk/bauer-emptor/image/upload/c_fit,h_200,w_300/v1437464964/bauer-emptor-keystone-test/brands/logo/kmiiyi1uqbnhx3b39mqd.png" group-title="hot,adult,contemporary",Wave 105
@@ -973,7 +1001,7 @@ http://stream.zeno.fm/uxvfyh8zs98uv?rj-ttl=5&rj-tok=AAABfdz5lp8AlrDR5V-QT9xTAA
 http://stream.weyvalleyradio.uk:8000/wey1
 #EXTINF:-1 tvg-logo="https://www.wkdfm.co.uk/images/wkdfm.png" group-title="blues,jazz,oldies",WKDfm Radio
 http://comet.shoutca.st:8467/listen.pls
-#EXTINF:-1 tvg-logo="https://www.wooferradio.com/favicon.ico" group-title="funk,jazz,r'n'b",Woofer RAdio
+#EXTINF:-1 tvg-logo="https://www.wooferradio.com/favicon.ico" group-title="funk,jazz,r'n'b",Woofer Radio
 https://s6.voscast.com:7787/stream
 #EXTINF:-1 tvg-logo="http://worldwidefm.net/favicon.ico" group-title="electronica,jazz,world",Worldwide FM
 http://worldwidefm.out.airtime.pro:8000/worldwidefm_a
@@ -981,9 +1009,11 @@ http://worldwidefm.out.airtime.pro:8000/worldwidefm_a
 http://streaming.edmradio.online:8025/WRN-E
 #EXTINF:-1 tvg-logo="https://2xfsxz394vd5hn5q4qxb878f-wpengine.netdna-ssl.com/wp-content/themes/encompassmarketing/library/images/logoDK.svg" group-title="news,talk",World Radio Network North America
 http://streaming.edmradio.online:8025/NAMAAP
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/aCNsEM72sg6nw81aNWNzInAZqcnBAVwXsoHILxc3IJdyj_yOEI3lyx7GkaLsIGiDkFgHoSL3ODtoQICJZcTz86xD4mpZKMj-uA" group-title="news,talk,russian",World Radio Network Russkii
+http://shoutcast.wrn.org:8025/WRN-R
 #EXTINF:-1 tvg-logo="https://api.broadcast.radio/api/image/86b65c6d-5845-4e02-b471-029686d54446.jpg?g=center&w=600&h=600&c=true" group-title="news,talk,pop",Wythenshawe FM 97.2FM South Manchester
 https://streaming.broadcastradio.com:11925/wfmcr
-#EXTINF:-1 tvg-logo="https://mmo.aiircdn.com/366/601ec9bad9621.png" group-title="pop,variety,youth",Radio Wyvern formerly 106.7 Youthcomm Radio
+#EXTINF:-1 tvg-logo="https://mmo.aiircdn.com/366/601ec9bad9621.png" group-title="pop,variety,youth",Radio Wyvern 106.7
 http://radio.canstream.co.uk:8039/live.mp3
-#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/db/9c/db9c7e329c6fe3a8b97ffe8962549caf.jpg" group-title="soul,80s,90s",Zonkers Radio [320k] [DigitalOcean NL]
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/db/9c/db9c7e329c6fe3a8b97ffe8962549caf.jpg" group-title="soul,80s,90s",Zonkers Radio
 http://128.199.35.208:8000//highres.mp3
