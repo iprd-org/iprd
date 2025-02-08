@@ -251,7 +251,7 @@ https://sh.onweb.gr:7083/stream?type=http&nocache=35812
 http://eco.onestreaming.com:8689/
 #EXTINF:-1 tvg-logo="http://resources.live24.gr/resources/images/stations/e2014cd6-e921-43ff-9f71-ba7f75212ad0.jpg" group-title="contemporary,pop",Cosmos 93.2
 https://neos.win:59320/stream
-#EXTINF:-1 tvg-logo="https://www.cosmos995.gr/wp-content/uploads/2016/02/cosmos-fm.png" group-title="world,traditional",Cosmos 99.5
+#EXTINF:-1 tvg-logo="https://www.cosmos995.gr/wp-content/uploads/2016/02/cosmos-fm.png" group-title="world,folk",Cosmos 99.5
 http://solid2.streamupsolutions.com:24896/stream
 #EXTINF:-1 tvg-logo="http://resources.live24.gr/resources/images/stations/723d02a5-c4bc-4bcc-8b23-6952800d5bd5.png" group-title="contemporary,pop",Cosmos Zante
 https://i4.streams.ovh/sc/radiocosmoszante/stream
@@ -271,6 +271,8 @@ http://s4.onweb.gr:8470/listen.pls
 https://sh.onweb.gr:7083/stream
 #EXTINF:-1 tvg-logo="http://resources.live24.gr/resources/images/stations/af45e7d6-f49c-4cfd-8c4c-8802edab9ba9.png" group-title="folk,traditional",Defi
 http://stream.zeno.fm/aqp69p25e4duv?rj-ttl=5&rj-tok=AAABfd2jN40Aa8IOSIfUtNWpew
+#EXTINF:-1 tvg-logo="https://dvw7f7sqjk3ag.cloudfront.net/images/radio/44788.jpg" group-title="folk,world",Deftero Laika
+https://radiostreaming.ert.gr/ert-talaika
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-GZD49Iqiy2w/YGOkt5ixQvI/AAAAAAAABCs/mP-S_n-CUOwvlyw7Uzu9oAfpsrxgCDaQwCK4BGAYYCw/s1600/Skandalo%2BWeb%2BRadio2.jpg" group-title="contemporary,pop",Derti 107.7
 http://i5.streams.ovh:14008/stream?type=http&nocache=100540
 #EXTINF:-1 tvg-logo="http://live24.gr/resrc/styles/custom-popups/derti/images_v2/logo.jpg" group-title="pop,talk,folk",Derti 98.6
@@ -317,7 +319,7 @@ https://ice.greekstream.net/ekrixifm
 https://i9.streams.ovh/sc/electri1/stream
 #EXTINF:-1 tvg-logo="http://resources.live24.gr/resources/images/stations/305dc048-f239-4aaf-ba76-ab18b03168b3.png" group-title="pop,rock",Electricrock
 https://cast.streams.ovh:2200/ssl/electricrock?mp=/stream&1603818100407
-#EXTINF:-1 tvg-logo="http://resources.live24.gr/resources/images/stations/c67e30a9-22a1-43fb-a168-8e94d01b7e4a.jpg" group-title="variety,news,talk",Ellada
+#EXTINF:-1 tvg-logo="http://resources.live24.gr/resources/images/stations/c67e30a9-22a1-43fb-a168-8e94d01b7e4a.jpg" group-title="variety,news,talk",Ellada FM
 https://netradio.live24.gr/ellada943
 #EXTINF:-1 tvg-logo="http://www.ellinikos.gr/images/logo_frontpage.png" group-title="ballads,eclectic",Ellinikos 90.3
 http://live.sugarweb.gr/903.aac
@@ -344,13 +346,15 @@ https://i6.streams.ovh:2200/ssl/envyradi?mp=/stream
 #EXTINF:-1 tvg-logo="http://resources.live24.gr/resources/images/stations/4ee99e73-dc4d-4125-bcc5-8224818df225.png" group-title="news,pop,talk",Epiloges Kilkis
 http://ice.streamcloud.mediacdn.com/epiloges1028
 #EXTINF:-1 tvg-logo="https://kuasark.com/files/stations-logos/era-deftero-programma.png" group-title="culture,world,talk",ERA Deftero Programma 103.7
-http://radiostreaming.ert.gr/ert-deftero
+https://radiostreaming.ert.gr/ert-deftero
 #EXTINF:-1 tvg-logo="https://cache.usercontentapp.com/logo/smt/43595.jpg?format=png&enlarge=0&quality=90&width=960" group-title="news,talk,public",ERA I Foni tis Elladas
-http://radiostreaming.ert.gr/ert-voiceofgreece
+https://radiostreaming.ert.gr/ert-voiceofgreece
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s25485q.png" group-title="world,jazz,folk",ERA Kosmos 93.6
-http://radiostreaming.ert.gr/ert-kosmos
+https://radiostreaming.ert.gr/ert-kosmos
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/First_Programme_%28ERA_1%29_logo.png" group-title="talk,world,public",ERA Proto Programma 91.6
-http://radiostreaming.ert.gr/ert-proto
+https://radiostreaming.ert.gr/ert-proto
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ERA_Sport_logo.svg/1200px-ERA_Sport_logo.svg.png" group-title="sports,talk,news",ERA Sport 101.8
+https://radiostreaming.ert.gr/ert-erasport
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/ERT_Trito_%282021%29.svg/revision/latest/scale-to-width-down/350?cb=20211102142236" group-title="culture,variety,public",ERA Trito Programma 90.9
 http://radiostreaming.ert.gr/ert-trito
 #EXTINF:-1 tvg-logo="http://www.easyradio.gr/favicon.ico" group-title="news,talk,folk",Erotokritos 87.9
@@ -541,7 +545,7 @@ http://shoutcast.24radio.gr:8062/listen.pls
 http://www.katrafm.net:9000/live
 #EXTINF:-1 tvg-logo="http://resources.live24.gr/resources/images/stations/0c6a1209-1091-424a-bb7b-46b55df3604e.png" group-title="news,pop,talk",Kavala News
 https://sp3.streams.ovh/8052/stream
-#EXTINF:-1 tvg-logo="https://mmo.aiircdn.com/342/5f0ebcb92a344.png" group-title="children,kids",kidsradio.com
+#EXTINF:-1 tvg-logo="https://mmo.aiircdn.com/342/5f0ebcb92a344.png" group-title="children,youth",kidsradio.com
 https://n09.radiojar.com/64p6ktzntg0uv?rj-ttl=5&rj-tok=AAABfd4rA7YAwOZ_VV072awpag
 #EXTINF:-1 tvg-logo="https://kuasark.com/files/stations-logos/kifissia-radio.png" group-title="disco,funk,jazz",Kifissia
 http://cast.streams.ovh:12097/listen.pls
@@ -865,8 +869,10 @@ https://paranoisewebcast.radioca.st/stream
 https://netradio.live24.gr/athinaradio
 #EXTINF:-1 tvg-logo="http://resources.live24.gr/resources/images/stations/f12083f4-2e27-4fdd-96bf-438baeb0592d.png" group-title="world,contemporary,pop",Party 97.1
 http://s1.onweb.gr:8824/stream?type=http&nocache=120392
-#EXTINF:-1 tvg-logo="https://pathosfm.blogspot.com/favicon.ico" group-title="world,folk,traditional",Pathos Radio
+#EXTINF:-1 tvg-logo="https://pathosfm.blogspot.com/favicon.ico" group-title="world,folk",Pathos Radio
 http://dione.shoutca.st:8628/stream/listen.pls
+#EXTINF:-1 tvg-logo="https://cdn.e-radio.gr/logos/gr/500/peiraios.png" group-title="christian,gospel",Peiraiki Ekklisia 91.2
+https://impradio.bytemasters.gr/8002/stream
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKnbCiHAOgz00u6mwSTh2zwQ7tTHN6bjAhvQ&s" group-title="folk,greek",Peirasmos
 https://cast.radiohost.ovh/peirasmosfm?mp=/stream
 #EXTINF:-1 tvg-logo="http://www.peiratikos.com/logo1.png" group-title="hits,top 40",Peiratikos FM
@@ -967,7 +973,7 @@ http://air.radioart.com/fAncient_solfeggio_frequencies.mp3
 http://air.radioart.com/fVivaldi.mp3
 #EXTINF:-1 tvg-logo="https://d1iyh67kzf6t3o.cloudfront.net/images/channels/128_aromatherapy-600x400.jpg" group-title="instrumental,relax",Radio Art Aromatherapy
 http://air.radioart.com/fAromatherapy.mp3
-#EXTINF:-1 tvg-logo="https://d1iyh67kzf6t3o.cloudfront.net/images/channels/163_athenian_e-600x400.jpg" group-title="world,athenian,folk",Radio Art Athenian Early
+#EXTINF:-1 tvg-logo="https://d1iyh67kzf6t3o.cloudfront.net/images/channels/163_athenian_e-600x400.jpg" group-title="world,folk",Radio Art Athenian Early
 http://air.radioart.com/fAthenian_early.mp3
 #EXTINF:-1 tvg-logo="http://db.radioline.fr/pictures/radio_4031f831dae9948e31b4a56885dfed22/logo200.jpg" group-title="ambient,instrumental",Radio Art Aura
 http://air-tunein.radioart.com/fAura.mp3
@@ -999,7 +1005,7 @@ http://air.radioart.com/fChoral_works.mp3
 http://live.radioart.com/fClassical_for_sleep.mp3
 #EXTINF:-1 tvg-logo="https://d1iyh67kzf6t3o.cloudfront.net/images/channels/Classical_period.jpg" group-title="classical,opera",Radio Art Classical Period
 http://air.radioart.com/fClassical_period.mp3
-#EXTINF:-1 tvg-logo="https://d1iyh67kzf6t3o.cloudfront.net/images/2021channels/073_classical_relax_RadioArt.com.webp" group-title="classical,relaxation",Radio Art Classical Relaxation
+#EXTINF:-1 tvg-logo="https://d1iyh67kzf6t3o.cloudfront.net/images/2021channels/073_classical_relax_RadioArt.com.webp" group-title="classical,relax",Radio Art Classical Relaxation
 http://air.radioart.com/fClassical_relaxation.mp3
 #EXTINF:-1 tvg-logo="https://bkimg.cdn.bcebos.com/pic/e1fe9925bc315c60e82de1e68db1cb134954777b?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2U4MA==,g_7,xp_5,yp_5/format,f_auto" group-title="country,outlaw",Radio Art Country
 http://air.radioart.com/fCountry.mp3
@@ -1383,7 +1389,7 @@ http://178.32.146.187:2046/stream
 https://solid24.streamupsolutions.com/proxy/nblvssxn?mp=/stream
 #EXTINF:-1 tvg-logo="https://www.sport895.gr/wp-content/uploads/2017/10/sportfm333.png" group-title="news,pop,sports",Sport 89.5
 http://www.gointernet.gr:8005/stream?type=http&nocache=8735
-#EXTINF:-1 tvg-logo="http://www.sport-fm.gr/favicon.ico" group-title="sports,news,talk",Sport 94.6
+#EXTINF:-1 tvg-logo="http://www.sport-fm.gr/favicon.ico" group-title="sports,news,talk",Spor 94.6
 http://sportfm.live24.gr/sportfm7712?344b685e2518b0370f0d731432f51438
 #EXTINF:-1 tvg-logo="http://cdn.e-radio.gr/logos/gr/big/sportfm946.png" group-title="sports,news,talk",Sport 94.6
 http://netradio.live24.gr/sportfm7712
@@ -1457,6 +1463,8 @@ http://sc2.streamwithq.com:8086/stream?type=http&nocache=14592
 http://n0c.radiojar.com/qgra821mrtwtv.mp3?rj-ttl=5&rj-tok=AAABfdt3wXEAkVEalZabyEnv9w
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7f073d_ed80ca4374ef48449f0a212faf03c149%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/7f073d_ed80ca4374ef48449f0a212faf03c149%7Emv2.jpg" group-title="electronic,trance",Trance Athena
 http://cast.streams.ovh:8008/stream
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGlUiquP_tStoOhkexiMs1DoFp3yh0yurPpQ&s" group-title="classical,baroque",ERT Trito Maestro
+https://radiostreaming.ert.gr/ert-trito-maestro
 #EXTINF:-1 tvg-logo="http://resources.live24.gr/resources/images/stations/7f0e595b-2afe-480e-9a4b-1d794a74d8c6.png" group-title="world,pop,rock",Troll
 http://n06.radiojar.com/trollradio-gr?rj-ttl=5&rj-tok=AAABfdpTl-0AR980RG2KAavRkQ
 #EXTINF:-1 tvg-logo="http://resources.live24.gr/resources/images/stations/b2fa0221-da51-4f88-ac34-c87de59a08d0.png" group-title="folk,world",Tsipas
@@ -1641,6 +1649,8 @@ http://netradio.live24.gr/dytikafm928agrinio
 http://webradio2.eap.gr:3949/demostream
 #EXTINF:-1 tvg-logo="https://www.radioevros.gr/wp-content/uploads/2014/04/LOGOgrey2.png" group-title="folk,world,news",Hebros Orestiada
 http://live.radioevros.gr:8000/live
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp2qCbsGgf6mJaliXVDySVeH6BkahOrBafCg&s" group-title="christian,religious",Ecclesia Radio 89.5
+https://loki.mental-media.gr:8038/index.html?sid=1
 #EXTINF:-1 tvg-logo="http://resources.live24.gr/resources/images/stations/25d9eb7e-48ba-4bdb-89cc-8a4e074ff9d0.jpg" group-title="folk,world,pop",Elassona 88.4
 http://solid33.streamupsolutions.com:30012/live
 #EXTINF:-1 tvg-logo="http://resources.live24.gr/resources/images/stations/c042fea2-6d1e-4a24-a9f6-5eac5141ffe9.jpg" group-title="folk,world,pop",Eleuthero 99.0
