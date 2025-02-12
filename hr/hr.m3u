@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://clubmusic-1.com/wp-content/uploads/2018/01/cropped-FAV-icon-CMR-180x180.png" group-title="70s,80s,90s,hits",Club Music Radio 70s 80s 90s.
+#EXTINF:-1 tvg-logo="https://clubmusic-1.com/wp-content/uploads/2018/01/cropped-FAV-icon-CMR-180x180.png" group-title="80s,90s,hits",Club Music Radio 70s 80s 90s.
 http://cmr-hosting.com:8030/stream?type=http&nocache=773949
 #EXTINF:-1 tvg-logo="https://clubmusic-1.com/wp-content/uploads/2018/01/cropped-FAV-icon-CMR-192x192.png" group-title="world,hits",Club Music Radio Croatian Hits
 http://cmr-hosting.com:8060/stream?type=http&nocache=823456
@@ -13,7 +13,7 @@ http://cmr-hosting.com:8040/stream?type=http&nocache=869535
 http://cmr-hosting.com:8070/stream?type=http&nocache=646624
 #EXTINF:-1 tvg-logo="https://static.tuneyou.com/images/logos/500_500/60/6260/RadioLudnica_5.jpg" group-title="pop,talk",Radio Ludnica
 http://patmos.cdnstream.com:8222/stream?type=http&nocache=120427
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s83931/images/bannerx.jpg?t=636748543016900000" group-title="world,pop,rock",Antena Zagreb Live
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s83931/images/bannerx.jpg?t=636748543016900000" group-title="world,pop,rock",Antena Zagreb
 http://live.antenazagreb.hr:8000/listen.pls
 #EXTINF:-1 tvg-logo="https://allliveradio.com/wp-content/uploads/2018/12/Antena-Zagreb.png" group-title="christmas,xmas",Antena Zagreb Xmas
 http://live.antenazagreb.hr:8015/listen.pls
@@ -31,6 +31,8 @@ http://live.antenazagreb.hr:8002/listen.pls
 http://live.antenazadar.hr:9000/stream/
 #EXTINF:-1 tvg-logo="https://liveonlineradio.net/wp-content/uploads/2016/01/braniteljski-radio-rh-1.jpg" group-title="hard,metal,rock",Braniteljski Radio
 http://s3.radio.co/se83499ee0/listen
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/k2ngsQQBViSRECHD9P4jvH48hwjpGut6t7YWzfoVZSGBrqFHeJGwkTaW9_VYHVc2EQ" group-title="hits,pop,rock",bravo!
+http://c5.hostingcentar.com:8057/stream?4667
 #EXTINF:-1 tvg-logo="http://city-radio.hr/wp-content/uploads/2017/01/city-logo2.png" group-title="variety,talk",City-Radio 88.6
 http://s8.iqstreaming.com:8058/stream
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/vhykvxjet94w.jpg" group-title="club,dance,tambura",Club Music Radio Tambura
@@ -73,6 +75,8 @@ http://live.goldfm.hr:8068/
 http://c5.hostingcentar.com:8070/stream
 #EXTINF:-1 tvg-logo="http://www.goldfm.hr/favicon.ico" group-title="oldies,hits",Gold FM
 http://live.goldfm.hr:8070/
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw16zJALuOsDkRcvenunSHMJk7idNYKTBjdA&s" group-title="90s,pop",Happy FM 94.9
+http://c5.hostingcentar.com:9543/stream?6109
 #EXTINF:-1 tvg-logo="https://ca0-cdn.onlineradiobox.com/img/l/1/47301.v4.png" group-title="top 40,hits",HIT Radio
 http://s8.iqstreaming.com:8012/;stream.mp3
 #EXTINF:-1 tvg-logo="http://www.hitradio.hr/favicon.ico" group-title="world,pop,rock",Hit Radio Sinj
@@ -267,6 +271,8 @@ http://c2.hostingcentar.com:9452/listen.pls
 http://161.53.122.184:8000/aacPlus48.aac
 #EXTINF:-1 tvg-logo="http://radio101.hr/wp-content/uploads/2017/07/cropped-Untitled-design-1-270x270.png" group-title="news,pop,rock",Radio101
 http://live.radio101.hr:9531/
+#EXTINF:-1 tvg-logo="https://liveonlineradio.net/wp-content/uploads/2018/03/Rovinj-FM-220x108.jpg" group-title="world,folk,traditional",Radio Rovinj
+http://rovinj.fm:8000/;
 #EXTINF:-1 tvg-logo="https://www.slavonskiradio.hr/wp-content/uploads/2019/02/krug-logo-slavonski-transparent.png" group-title="hits,pop,rock",Slavonski Radio
 https://ec2s.crolive.com.hr:8035/stream
 #EXTINF:-1 tvg-logo="https://www.soundsetragusa.hr/sites/all/themes/ragusa/logo.png" group-title="pop,rock",Soundset Ragusa
