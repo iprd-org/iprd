@@ -17,11 +17,11 @@ http://stream.bdpstrock.hu/bdpstrock_128k
 http://stream.webthings.hu:8000/fm95-x-128.mp3
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/2/78492.v6.png" group-title="variety,news",Bithang Yoo Rádió
 http://stream.diazol.hu:35160/live.mp3
-#EXTINF:-1 tvg-logo="https://www.buddhafm.hu/wp-content/uploads/2021/07/cropped-android-chrome-512x512-1-180x180.png" group-title="buddhism,religion,spirituality",Buddha FM
+#EXTINF:-1 tvg-logo="https://www.buddhafm.hu/wp-content/uploads/2021/07/cropped-android-chrome-512x512-1-180x180.png" group-title="buddhism,religion,spiritual",Buddha FM
 http://libretime.buddhafm.hu:4000/buddhafm
 #EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/02/45/1467/c300.png" group-title="hits,80s,90s",Callisto
 http://188.165.11.30:4500/live.mp3
-#EXTINF:-1 tvg-logo="https://clubdance.online/wp-content/uploads/2015/08/Clubdanceonlinelogo2-300x139.png" group-title="Club,House,Trance,Dance,90s,00s,10s,20s",Club Dance Online @ 128k
+#EXTINF:-1 tvg-logo="https://clubdance.online/wp-content/uploads/2015/08/Clubdanceonlinelogo2-300x139.png" group-title="club,house,trance",Club Dance Online
 https://stream.clubdance.online:8000/live.mp3
 #EXTINF:-1 tvg-logo="http://sos.civilradio.hu/wp-content/uploads/dynamik-gen/theme/images/civil-foot.png" group-title="community,variety",Civil Rádió
 http://civilradio.hu:8000/;stream
@@ -51,7 +51,7 @@ https://mediagw.e-tiger.net/stream/zc16
 https://mediagw.e-tiger.net/stream/zc24
 #EXTINF:-1 tvg-logo="https://coolfm.hu/radio/wp-content/uploads/2021/01/funky.jpg" group-title="funky,soul",COOLFM Funky&Soul
 https://mediagw.e-tiger.net/stream/zc25
-#EXTINF:-1 tvg-logo="https://coolfm.hu/radio/wp-content/uploads/2021/01/hazai-kedvencek.jpg" group-title="favourites,world,pop",COOLFM Hazai Kedvencek
+#EXTINF:-1 tvg-logo="https://coolfm.hu/radio/wp-content/uploads/2021/01/hazai-kedvencek.jpg" group-title="hits,world,pop",COOLFM Hazai Kedvencek
 https://mediagw.e-tiger.net/stream/zc19
 #EXTINF:-1 tvg-logo="https://coolfm.hu/radio/wp-content/uploads/2021/01/jazz.jpg" group-title="jazz,smooth",COOLFM Jazz
 https://mediagw.e-tiger.net/stream/zc13
@@ -115,6 +115,8 @@ http://stream.frissfm.hu:10050/listen.pls
 http://stream.gongradio.hu:8000/gong-fm.mp3
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/fblogo/0/86950.v9.png" group-title="news,talk",HBC News
 http://stream.zeno.fm/m94d336hh5zuv?rj-ttl=5&rj-tok=AAABfdpy0F4AhxJwgkGk8rswSQ
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNBo-Bnza5giVsZ530jIRpUHPpX8RI3P_a1fNsqoSIu3rBaINBYxLiwEajUj9-qlJoiwo&usqp=CAU" group-title="news,talk",Hir FM 95.3
+https://n43a-eu.rcs.revma.com/wevb267khf9uv?rj-ttl=5&rj-tok=AAABlP61Qh0Ae9ZnibOGhBGN0g
 #EXTINF:-1 tvg-logo="https://hobbyradio.hu/wp-content/themes/hobby2/img/icon.png" group-title="70s,80s,90s",Hobby Rádió
 http://www.hobbyradio.hu:8000/hobbyradio.mp3
 #EXTINF:-1 tvg-logo=https://ilovepecs.hu/images/logos/p1-media-group/i-love-pecs-radio-white.png" group-title="alternative,rock",I Love Pécs Rádió
@@ -145,7 +147,7 @@ https://streaming.lahmacun.hu/radio/8000/radio.mp3
 http://lakihegyradio.hu/player/stream.php
 #EXTINF:-1 tvg-logo="https://latszoter.hu/sites/all/themes/latszoter_theme/logo.png" group-title="r'n'b,urban",Látszótér 
 http://stream.latszoter.hu:8000/radio
-#EXTINF:-1 tvg-logo="https://lazaradio.com/favicon.ico" group-title="live,mix,retro",Laza Rádió
+#EXTINF:-1 tvg-logo="https://lazaradio.com/favicon.ico" group-title="mixes,retro,dj",Laza Rádió
 http://stream.lazaradio.com:8100/live.ogg
 #EXTINF:-1 tvg-logo="https://lepesradio.hu/images/logo_jsn_neon_2.png" group-title="pop,news,top 40",Lépés Rádió
 http://stream.lepesradio.hu:4000/live.mp3
@@ -317,7 +319,7 @@ http://92.61.114.191:9651/listen.pls
 http://siriusradio.hu:8500/relay_911
 #EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/9a/cf/8897/1/c300.png" group-title="80s,90s,oldies",Sláger FM
 http://92.61.114.159:7812/slagerfm256.mp3
-#EXTINF:-1 tvg-logo="https://kuasark.com/files/stations-logos/sola-radio.png" group-title="christian,evangelical,religion",Sola Rádió
+#EXTINF:-1 tvg-logo="https://kuasark.com/files/stations-logos/sola-radio.png" group-title="christian,evangelical,religious",Sola Rádió
 http://188.165.11.30:7000/live.mp3
 #EXTINF:-1 tvg-logo="https://spiritfm.hu/images/logo_uj.png" group-title="pop,hits",Spirit FM
 https://s02.diazol.hu:10052/spweb1.mp3
@@ -329,7 +331,7 @@ http://195.56.193.129:8100/;stream/1
 http://195.56.193.129:8100/;stream/1?icy=http
 #EXTINF:-1 tvg-logo="https://www.sunshinefm.hu/img/pop_big.png" group-title="hits,pop",Sunshine Pop
 http://195.56.193.129:8110/;stream/1?icy=http
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCScWGN25NKAxRIrhUkJFUdhqjgqnbxMRcrg&s" group-title="disco,dj,mixesclassical",Super DJ Radio
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCScWGN25NKAxRIrhUkJFUdhqjgqnbxMRcrg&s" group-title="disco,dj,mixes",Super DJ Radio
 http://stream.diazol.hu:35150/stream
 #EXTINF:-1 tvg-logo="https://superdjradio.hu/wp-content/uploads/2020/06/cropped-superdj-uj-logo-180x180.png" group-title="disco,dj,mixes",Super DJ Radio
 http://stream.diazol.hu:35150/autodj
