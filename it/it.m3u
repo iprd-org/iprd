@@ -319,6 +319,8 @@ https://newhitsradio.streamingmedia.it/play
 http://nr5.newradio.it:8683/stream
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4sc7qTC81nRwfEl-0vSale1GfwB7-hzYPrg&s" group-title="culture,news",Nexus-IBA
 http://mp3.nexus.org:8000/irn.mp3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlft97p70kbdl3P7pWUh0xOcWEmEhMYc6z-w&s" group-title="world,rock",No Name Radio
+https://radiodueindie-live.akamaized.net/hls/live/2032593/radiodueindie/radiodueindie/radio2indie_256/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://www.novaradio.info/wp-content/uploads/2014/10/novaradio-logo-quadrato-web-large.gif" group-title="indie,talk",Novaradio Città Futura
 http://streaming.novaradio.info:8000/live.mp3
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s95360g.png" group-title="variety,news,sports",Nuova Rete
@@ -333,7 +335,7 @@ http://ice10.fluidstream.net/rn1_2.mp3
 https://ice04.fluidstream.net/rn1_2.aac
 #EXTINF:-1 tvg-logo="https://oneshot.buraglio.it/img/OneShotRadio.svg" group-title="pop,hits",OneShot Radio
 http://buraglio.it:8000/oneshot
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s295805/images/logog.png?t=157121" group-title="electronic,news,rescaldina",ORadio
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s295805/images/logog.png?t=157121" group-title="electronic,news",ORadio
 http://5.135.39.189:8120/stream
 #EXTINF:-1 tvg-logo="https://www.passioninside.net/wp-content/uploads/2020/10/cropped-icona_passion2020-180x180.png" group-title="60s,70s,80s",Passion Inside Radio
 http://n0d.radiojar.com/wksgarp8w74tv?rj-ttl=5&rj-tok=AAABfdrihogAWgYxCKU4FsHECA
@@ -689,6 +691,8 @@ http://onair11.xdevel.com:9998/;stream.mp3
 http://onair20.xdevel.com:8106/listen.pls
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/SPdnQGyiv5XOr2smUOZRisVp3MjUrwGLt893Pl8tYVIWUGLayxv6QY-d98oF6hftAUI" group-title="pop,talk,world",Radio Cuore Trapani
 http://94.23.67.20:8016/listen.pls
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Jn1dAjUMptnxjw1PHbbuVhiR-gL-NrnVO9cXHt56xUNuEfmioc4_DNieW_2JWULwmnXK" group-title="politics,culture,talk",Radio Cusano Campus 89.1
+https://stream5.xdevel.com/audio1s975363-1686/stream/icecast.audio
 #EXTINF:-1 tvg-logo="https://www.radiodancemusic.com/new/wp-content/uploads/2020/06/cropped-play-192x192.png" group-title="dance,electronica",Radio Dance Music
 http://stream.radiomusic.net:8130/stream
 #EXTINF:-1 tvg-logo="http://www.deejay.it/favicon.ico" group-title="electronica,pop,top 40",Radio Deejay
@@ -919,6 +923,8 @@ http://sr1.inmystream.it:9002/;stream.mp3
 http://nr8.newradio.it:9097/listen.pls
 #EXTINF:-1 tvg-logo="http://www.radioleccocitta.it/favicon.ico" group-title="italo,pop",Radio Leccocittà Continental
 http://sr9.inmystream.info:8049/
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/bGiKO2MNZAzkqDZbHSqreRuvXjah8z5EsEAYon0s8oE4HFopmNha9N7JMeCT5Jxo_CpZ" group-title="news,talk,variety",Radio Liberta'
+https://stream1.xdevel.com/audio0s975360-306/stream/icecast.audio
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/833x625q90/923/WvZG2q.jpg" group-title="country,pop,rock",Radio Liberty FM
 http://nrf1.newradio.it:10170/stream
 #EXTINF:-1 tvg-logo="https://www.radiolinea.it/favicon.ico" group-title="pop,top 40",Radio Linea n°1
@@ -967,6 +973,8 @@ http://dreamsiteradiocp.com:8054/stream
 http://wma01.fluidstream.net/marilu
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0ATBRsexYsoccC-BXKR3kQzQEcPvB8n6EJQ&s" group-title="news,pop,sports",Radio Marte
 https://stream1.xdevel.com/audio0s975753-313/stream/icecast.audio
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/uuYXWgHx8ilaSjZM9Os8Xz8AXpPNSCJg5s09f2xWD9QEGGpcW6cRak9ZvIuN9oguIQ=w240-h480-rw" group-title="catholic,religious",Radio Mater
+https://radiocast.cloud/radio/8000/radio.mp3?1587711646
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BkhNu8vCrigmKYBuXyjTtTw3QdfZfaesjzcGxM3SVxoVOz2WJfs_Tczl3BN3zYVXWVU" group-title="classical,baroque",Radio MCA
 http://116.202.241.212:7013/stream
 #EXTINF:-1 tvg-logo="https://www.radiomca.it/images/RadioMCA_logonuovo_PNG.png" group-title="classical,baroque",Radio MCA
@@ -1187,6 +1195,8 @@ http://ice02.fluidstream.net/fluid02_8360.aac?FLID=6
 https://ice02.fluidstream.net/fluid02_8360.aac
 #EXTINF:-1 tvg-logo="https://www.radioselene.it/views/desktop/assets/img/favicon/apple-touch-icon.png" group-title="contemporary,pop,top 40",Radio Selene
 http://audio1.meway.tv:8013/stream
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/z8SiTDEMFD3VR8PgN7IKnAkoO_uHhIz67oTvzMDxQhienA1FYPxez1P5J_NH3ib32pQ=w600-h300-pc0xffffff-pd" group-title="sports,talk",Radio Serie A
+https://stream.rds.radio/audio/seriea.stream_aac/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.radiosetteasiago.it/wp-content/uploads/2020/01/cropped-radio7_loginpage-192x192.png" group-title="dance,pop",Radio Sette Asiago
 http://5.135.39.189:8094/;stream.mp3
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/E9Ps8_uZdqUtbu8XEkVuq3i_qkx0aDIb1zMZvf6YUayfETdIDqq7BzSfipQIgC6Kixs=w240-h480-rw" group-title="dance,hits,pop",Radio Shake Hit
@@ -1209,6 +1219,8 @@ http://sr6.inmystream.it:8018/;stream.mp3
 http://onair15.xdevel.com:8478/
 #EXTINF:-1 tvg-logo="http://www.radiosplash.it/favicon.ico" group-title="dance,news,pop",Radio Splash
 http://51.254.76.66:8002/stream
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbfULkLHUSeW0AaXKHwZKoSi6QO9tEjKbUmw&s" group-title="sports,talk",Radio Sportiva
+https://sportiva.inmystream.it/stream/sportiva
 #EXTINF:-1 tvg-logo="https://www.radiosprint.it/wp-content/uploads/2021/05/cropped-ico-180x180.png" group-title="electronica,italo,pop",Radio Sprint Palermo
 http://nr8.newradio.it:9131/
 #EXTINF:-1 tvg-logo="http://www.radiostandby.com/wp-content/uploads/2015/11/cropped-Radio-StandBy-s7-192x192.jpg" group-title="pop,hits",Radio StandBy
@@ -1249,6 +1261,8 @@ http://5.135.39.189:8024/stream
 http://nrf1.newradio.it:10352/stream
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/yha5vc3raqf4.jpg" group-title="70s,80s,dance",Radio Studio Dance Roma
 http://nr9.newradio.it:9630/stream
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/4DLdYuqI0NcDFcYZtPmxBGsZ1TVqEVZl8djZtbyuUjiewcUvanBdmfJp_x0dt_K2KbWf" group-title="world,pop",Radio Studio Delta
+https://rsd.streamingmedia.it/play.mp3
 #EXTINF:-1 tvg-logo="http://players.fluidstream.it/studioemme/images/logo320.png" group-title="folk,pop",Radio Studio Emme 108.0
 http://ice09.fluidstream.net/fluid0901.aac?FLID=6
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/axkrqus8t76n.jpeg" group-title="dance,dj,electronica",Radio Studio Line
@@ -1283,7 +1297,7 @@ http://icy.unitedradio.it/Subasio.mp3
 http://icy.unitedradio.it/SubasioPiu.mp3
 #EXTINF:-1 tvg-logo="https://www.sunshine.it//apple-touch-icon.png" group-title="top 40,pop",Radio Sunshine 99.8
 http://195.201.227.227:18011/listen.pls
-#EXTINF:-1 tvg-logo="https://www.radiosupersound.it/wp-content/uploads/2019/03/radio_super_sound_logo_200px.png" group-title="pop,top 40",Radio Super Sound
+#EXTINF:-1 tvg-logo="https://www.radiosupersound.it/wp-content/uploads/2019/03/radio_super_sound_logo_200px.png" group-title="pop,top 40",Radio Supersound
 http://51.254.76.66:8010/;stream.mp3
 #EXTINF:-1 tvg-logo="https://www.radiosystem.net/wp-content/uploads/2020/11/sy-90x90.png" group-title="contemporary,electronica",Radio System Network
 http://178.32.139.184:8110/stream
@@ -1441,10 +1455,12 @@ https://radiotreclassica-live.akamaized.net/hls/live/2032595/radiotreclassica/ra
 http://icestreaming.rai.it/5.mp3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Rai_Radio_Kids_logo.svg/2000px-Rai_Radio_Kids_logo.svg.png" group-title="kids,public",Rai Radio Kids
 http://icestreaming.rai.it/11.mp3
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s132645/images/logog.jpg?t=636390" group-title="rock,pop,variety",Rai Radio Live
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s132645/images/logog.jpg?t=636390" group-title="rock,pop,variety",Rai Radio Live Napoli
 http://icestreaming.rai.it/10.mp3
 #EXTINF:-1 tvg-logo="https://www.raiplaysound.it/cropgd/1200x630/dl/img/2021/12/09/1639051279337_radio-techete_600x6001.png" group-title="public,oldies",Rai Radio Techetè
 http://icestreaming.rai.it/9.mp3
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Rai_Radio_Trst_A.svg/revision/latest/scale-to-width-down/300?cb=20201003143139" group-title="slovenian,talk,news",Rai Radio Trst A
+https://streamcdnc1-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/friuliaudio1/hls/friuliaudio_320/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s25592/images/logoq.jpg" group-title="world,folk",Rai Radio Tutta Italiana
 http://icestreaming.rai.it/4.mp3
 #EXTINF:-1 tvg-logo="http://www.raibz.rai.it//de/touch/large.png" group-title="german,public",Rai Südtirol
@@ -1573,6 +1589,8 @@ http://nr4.newradio.it:9440/;stream.mp3
 http://rv1-superhit.stream.laut.fm/rv1-superhit?t302=2021-12-21_01-57-04&uuid=42cb6b76-d8c9-40c0-9455-99bf98832391
 #EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s211581q.png" group-title="oldies,pop,talk",RVL La Radio
 http://nr8.newradio.it:9079/
+#EXTINF:-1 tvg-logo="https://dx7vbl8yjmzxy.cloudfront.net/new_images/radioapp_75718.jpg" group-title="christian,religious",RVS Italia
+https://stream.radiorvs.it/rvs.it
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s233067/images/logog.png?t=163154" group-title="pop,news",Radio Villa Sound
 https://eu4.fastcast4u.com/proxy/lmarengo?mp=/listen.pls
 #EXTINF:-1 tvg-logo="http://www.radiovocespazio.it/favicon.ico" group-title="contemporary,world",Radio Voce Spazio 93.8
