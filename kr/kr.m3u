@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://afngo.net/static/media/Daegu.a7760925d290c080560b.png" group-title="variety,news,talk",AFN The Eagle Daegu 88.5
+https://18433.live.streamtheworld.com/AFNP_DGUAAC.aac
+#EXTINF:-1 tvg-logo="https://afngo.net/static/media/Humphreys.80cba9f67149f1bf7018.png" group-title="variety,news,talk",AFN The Eagle Humphreys
+https://14623.live.streamtheworld.com/AFNP_OSNAAC.aac
+#EXTINF:-1 tvg-logo="https://afngo.net/static/media/Humphreys.80cba9f67149f1bf7018.png" group-title="variety,news,talk",AFN The Eagle Kunsan
+https://28563.live.streamtheworld.com/AFNP_KSNAAC.aac
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s81696g.png" group-title="news,culture,education",Arirang FM
 http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/chunklist_b528000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://www.abu.org.my/wp-content/uploads/2019/07/befm-resized.png" group-title="classical,pop",BeFM 90.5
@@ -11,6 +17,8 @@ https://ebsonair.ebs.co.kr/fmradiofamilypc/familypc1m/playlist.m3u8
 http://58.234.158.60:1935/fmlive/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.radio.net/300/gugakfm991.png?version=b5432b5555c52569563bec862bca273f" group-title="gugak,world",Gugak 99.1
 https://mgugaklive.nowcdn.co.kr/gugakradio/gugakradio.stream/chunklist_w253831608.m3u8
+#EXTINF:-1 tvg-logo="https://www.radio.net/300/radiokorea.png?version=af254b240d3f0d408fb3aa3a0b6fe39e" group-title="pop,world",Radio Korea
+http://38.106.56.112:8000/radiokorea.aac
 #EXTINF:-1 tvg-logo="http://world.kbs.co.kr/favicon.ico" group-title="news,talk,arabic",KBS World Arabic Radio
 http://101.79.244.199:1935/cocotv/_definst_/CH00001/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://world.kbs.co.kr/favicon.ico" group-title="news,talk,chinese",KBS World Chinese Radio
