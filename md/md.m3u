@@ -9,7 +9,7 @@ http://188.138.204.98:8080/ecoFM
 http://109.233.192.78:8000/_a
 #EXTINF:-1 tvg-logo="http://www.frocus.net/images/logotv/original/russkoe-radio-moldova-2016.jpg" group-title="world,russian",Like FM 
 http://live.ruradio.md:8000/ruradio
-#EXTINF:-1 tvg-logo="http://www.prodjradio.net/wp-content/themes/theme1342/images/logo.png" group-title="pop,top 40",LOVE PRO Dj Radio Chisinau
+#EXTINF:-1 tvg-logo="http://www.prodjradio.net/wp-content/themes/theme1342/images/logo.png" group-title="pop,top 40",LOVE PRO Dj Radio
 http://live.prodjradio.net:8000/listen.pls
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/MBtbbzGwYL9bzI5ItnNtbC8xtH5CPcxW9o20IlmehloSmcZyglOeGdyW3qTLRSf1XFk=w240-h480-rw" group-title="dance,edm,pop",Love Radio
 http://37.233.41.76:8000/lovefm
@@ -19,6 +19,8 @@ http://live.maestrofm.md:8000/maestro
 http://live.prodjradio.net:8000/;?type=http&nocache=4585
 #EXTINF:-1 tvg-logo="https://livebeta.publika.md/media/assets/new/images/logo-130x110.jpg" group-title="news,talk",Publika FM
 http://live.maestrofm.md:8000/publikafm
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD_kpjQRhm92V7wZNltdWPuiUFTecvf1RBoQ&s" group-title="news,talk,variety",Radio Chisinau
+https://radiochisinau.md/hls/RChisinau.m3u8
 #EXTINF:-1 tvg-logo="http://www.frocus.net/images/logotv/original/r_one_md17.jpg" group-title="rock,news",Radio One 96.2
 http://radio1.md:8000/r1
 #EXTINF:-1 tvg-logo="https://c.radikal.ru/c23/1811/fe/bf75116b5698.png" group-title="dance,local,top 40",Radio Orhei 97.5
