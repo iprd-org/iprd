@@ -1,5 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0Iy6nqfusiX5ikIsCv8YF6sT68TjtvqI7tQ&s" group-title="catholic,religion,talk",Radio Maria Malawi
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/a5/d4/a5d4d9b6e6fe28fc291afe3a1e61a88d.png" group-title="dance,r'n'b,pop",Capital FM 
+https://node.stream-africa.com:8443/CapitalFM
+#EXTINF:-1 tvg-logo="https://oetpai.fra1.cdn.digitaloceanspaces.com/new_images/radioapp_52002.png" group-title="jazz,rock,classical",MBC Radio 1 95.4
+http://radiostream.mbc.mw:88/broadwavehigh.mp3
+#EXTINF:-1 tvg-logo="https://www.radioguide.fm/uploads/images/radiostation/mbc-radio-2.jpg" group-title="news,talk",MBC Radio 2 92.2
+http://radiostream.mbc.mw:86/broadwavehigh.mp3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0Iy6nqfusiX5ikIsCv8YF6sT68TjtvqI7tQ&s" group-title="catholic,religion,talk",Radio Maria 
 http://dreamsiteradiocp.com:8040/stream
+#EXTINF:-1 tvg-logo="https://cdnrf.securenetsystems.net/file_radio/stations_large/TIMESFM/v5/album-art-default.png" group-title="variety,news,talk",Times Radio 92.8
+https://ice31.securenetsystems.net/TIMESFM?playSessionID=053B66C6-BCE5-4DE3-BF0C88E67ECE3B72
 #EXTINF:-1 tvg-logo="https://zodiakmalawi.com/images/zbslogo-mw.png" group-title="news,sport",ZBS Zodiak FM 97.0
 https://ice31.securenetsystems.net/0079
