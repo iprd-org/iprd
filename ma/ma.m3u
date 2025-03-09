@@ -1,16 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/94/44/9444f1327e303a6e64796262e0e23af9.jpg" group-title="health,news,pop",Atlantic Radio 92.5
 https://atlantic-sonic.nindohost.net:9300/stream
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/ma3vytva6hhe.png" group-title="arabic,world",Radio Al Hoceima
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_el_hoceima/hls_snrt_radio/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.radioaswat.ma/favicon.ico" group-title="news,world",Aswat Radio
 http://broadcast.ice.infomaniak.ch/aswat-high.mp3
 #EXTINF:-1 tvg-logo="https://diveradio.com/wp-content/uploads/2022/06/ic_launcher_foreground.png" group-title="classical,world",bldi
 http://beldifm.hf.ma/radio/8000/radio.mp3
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b4939a_818d27ab393a40d7af4b9cc45fc25ce8~mv2.png/v1/fill/w_140,h_140,al_c,usm_0.66_1.00_0.01/b4939a_818d27ab393a40d7af4b9cc45fc25ce8~mv2.png" group-title="world,talk",Chada 100.8
 https://chadafm.ice.infomaniak.ch/chadafm-high.mp3
-#EXTINF:-1 tvg-logo="http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_chaine_inter/hls_snrt_radio/index.m3u8" group-title="talk,public",Chaine Inter
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_chaine_inter/hls_snrt_radio/index.m3u8
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/6e/48/6e48573a9f6fbfb703debc9af1b66a17.jpg" group-title="pop,top 40",Hit Radio Buzz
 http://buzz.ice.infomaniak.ch/buzz-128.mp3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5b/Hitradio-morocco-logo.png" group-title="top 40,pop,contemporary",Hit Radio Cover
@@ -75,13 +71,7 @@ https://az-maroc.ice.infomaniak.ch/az-maroc-128.mp3
 http://streaming.radionomy.com/JamendoLounge?.mp3
 #EXTINF:-1 tvg-logo="https://www.radiomars.ma/ar/wp-content/uploads/2019/01/logo.png" group-title="community,sports,world",Radio Mars
 http://radiomars.ice.infomaniak.ch/radiomars-128.mp3
-#EXTINF:-1 tvg-logo="https://www.moroccoworldnews.com/wp-content/uploads/2016/03/Mohammed-VI-Radio.jpg" group-title="religious,public",Radio Mohammed VI
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_mohammed_6/hls_snrt_radio/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiotangermed.com/wp-content/uploads/2020/11/LIVE-STR-RTM-PNG-e1606056208438.png" group-title="arabic,world",Radio Tanger Med
 http://radiotangermed-22.ice.infomaniak.ch/radiotangermed-22-128.mp3
 #EXTINF:-1 tvg-logo="https://www.rimradio.ma/sites/all/themes/rim/logo.png" group-title="talk,news",RIM Radio
 https://streaming.rimradio.ma/live
-#EXTINF:-1 tvg-logo="http://snrtlive.ma/sites/default/files/favicon.png" group-title="arabic,top 40,world",SNRT Idaa Al Watania 96.0
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_idaa_watanya/hls_snrt_radio/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7m1x2z41-5WQq3ev5Q71QphAeZfd-UV82TA&s" group-title="arabic,world",SNRT Al Amazighia 104.6
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_amazigh/hls_snrt_radio/index.m3u8
