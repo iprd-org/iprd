@@ -44,4 +44,3 @@ https://cdn-globecast.akamaized.net/live/eds/radio_tanger/hls_snrt_radio/index.m
 #EXTINF:-1 tvg-logo="https://snrtlive.ma/sites/default/files/styles/vignette/public/2023-04/idaawataniya-16x9.jpeg" group-title="",SNRT Régional Tetouan 96.1
 #EXTVLCOPT:http-referrer=https://snrtlive.ma/
 https://cdn-globecast.akamaized.net/live/eds/radio_tetouan/hls_snrt_radio/index.m3u8
-
