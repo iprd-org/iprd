@@ -93,7 +93,7 @@ http://streams.greenhost.nl:8080/gregoriaans
 http://streams.greenhost.nl:8080/jazz
 #EXTINF:-1 tvg-logo="https://www.concertzender.nl/wp-content/uploads/2016/10/CZ-Jazz.svg" group-title="jazz,blues",Concertzender Jazznotjazz
 http://streams.greenhost.nl:8080/jazznotjazz
-#EXTINF:-1 tvg-logo="https://www.concertzender.nl/wp-content/uploads/2016/10/CZ-Klassieke-muziek.svg" group-title="classical,baroque",Concertzender Klassieke Muziek
+#EXTINF:-1 tvg-logo="https://www.concertzender.nl/wp-content/uploads/2016/10/CZ-e-muziek.svg" group-title="classical,baroque",Concertzender Klassieke Muziek
 http://streams.greenhost.nl:8080/klassiek
 #EXTINF:-1 tvg-logo="https://www.concertzender.nl/wp-content/uploads/2016/10/CZ-Nieuwemuziek.svg" group-title="contemporary,culture",Concertzender Nieuwe Muziek
 http://streams.greenhost.nl:8080/nieuwemuziek
@@ -541,6 +541,8 @@ https://cc5.beheerstream.com/proxy/hilversumdrie?mp=/stream
 https://cc5.beheerstream.com/proxy/hilversumdrie?mp=/mobile
 #EXTINF:-1 tvg-logo="https://www.radioveronica.nl/static/media/RadioVeronicaPlayerLogo.4511a841.png" group-title="00s,10s,90s",Radio Veronica
 https://playerservices.streamtheworld.com/api/livestream-redirect/VERONICA.mp3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVH9IhlEhIPzCJJSp8EJL01YU_SdZTzVUZ7g&s" group-title="oldies,hits,pop",Radio Veronica Goud von Oud
+https://28503.live.streamtheworld.com/VERONICAAAC.aac
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUeaUz5AO7xEfJbhnTQbxfOTNk0XedA9GmqA&s" group-title="hits,pop",Radio Zuyd
 http://radiozuyd.shoutcaststream.com:8199/stream
 #EXTINF:-1 tvg-logo="http://www.radio10.nl/icons/apple-icon-120x120.png" group-title="70s,80s,90s",Radio 10
