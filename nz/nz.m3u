@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://www.2xsfm.co.nz/favicons/e1062edf-431c-45cf-bb5f-fd4f8b0b9933/favicon-180x180.png" group-title="contemporary,rock",2XS 92.2
 http://125.236.204.178:8001/listen.mp3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMkC6r5ikCCRSds8YjgIOlIMY3R1SucZoTWA&s" group-title="pop,news",Radio 531 pi
+https://14923.live.streamtheworld.com/531PI_SC
 #EXTINF:-1 tvg-logo="http://8k.nz/favicon.ico" group-title="community,eclectic,freeform",8K.NZ
 http://radio8k.out.airtime.pro:8000/radio8k_a
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/7TAscWtdUG.png" group-title="alternative,indie",adHow.FM 107.5
@@ -37,6 +39,8 @@ http://listen.eastfm.nz/stream.mp3
 http://s2.stationplaylist.com:9000/gaiafm.aac
 #EXTINF:-1 tvg-logo="http://www.galaxyfm.co.nz/favicons/53c7edaf-71ab-432b-9997-1e9a4e27dfa9/favicon-180x180.png" group-title="contemporary,community",Galaxy 107
 http://s39.myradiostream.com:14858/;listen.mp3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLrRImWZRQZ5OTB5aQvUpSz5X0xEl3VNzXoA&s" group-title="house,dance,drum'n'bass",George 96.6
+https://digitalstreams-edge-lb.mediaworks.nz/george_net_icy
 #EXTINF:-1 tvg-logo="https://www.gold.co.nz/Assets/dist/interface/open-graph/09448_Gold_Announce_FB_WebShare.jpg" group-title="hits,oldies",Gold 105.4
 http://ais-nzme.streamguys1.com/nz_015_aac
 #EXTINF:-1 tvg-logo="https://www.gold.co.nz/Assets/dist/interface/favicons/favicon-16x16.png" group-title="hits,rock",Gold AM
