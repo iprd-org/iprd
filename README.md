@@ -5,6 +5,10 @@
 
 Listen to your favorite radio stations in one single place.
 
+## Current state of IPRD
+
+Work in Progress (2025-03-24)
+
 ## About
 
 IPRD is a collection of curated internet radio streams organized by country and broadcasting groups. The project aims to provide an easily accessible library of radio stations from around the world in M3U playlist format.
