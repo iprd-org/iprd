@@ -1,22 +1,51 @@
 # IPRD (Internet Protocol RaDios)
-Listen to your favorite radios in one single place.
 
-# How radios are listed
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
-- If only one iteration of the radio exists (ex: local radio), they'll be available in country.m3u
-- If multiple iterations of the radio exists (ex: conglomerate or radio group), they'll be available in country_group.m3u
+Listen to your favorite radio stations in one single place.
 
-# How to contribute
+## About
 
-Contributions are always welcome.
+IPRD is a collection of curated internet radio streams organized by country and broadcasting groups. The project aims to provide an easily accessible library of radio stations from around the world in M3U playlist format.
 
-To do so, please create an issue containing the radio you would like to add. 
-Carefully read the required points as they'll help us target the appropriate playlist for your stream.
+## Usage
 
-The higher the radio quality is, the better the sound experience will be (lossless > compressed).
+1. Choose a playlist from the repository (by country or group)
+2. Open it with your favorite media player that supports M3U playlists (VLC, Winamp, etc.)
+3. Enjoy your radio stations!
 
-# Future plans
+## Playlist Organization
 
-- [ ] Properly identify the radios and their groups, for easier maintenance.
-- [ ] Scripts to create "one" playlist (can be enhanced over further discussions) containing all the radios.
-- [ ] Radio database.
+Our radio station playlists follow this organization:
+
+- **country.m3u** - Contains standalone radio stations from a specific country
+- **country_group.m3u** - Contains radio stations that belong to a broadcasting group/conglomerate
+
+## How to Contribute
+
+Contributions are always welcome! To add a new radio station:
+
+1. Create an issue with the radio station you would like to add
+2. Include the following information:
+    - Station name
+    - Stream URL (direct stream link preferred)
+    - Country
+    - Broadcasting group (if applicable)
+    - Stream quality information
+
+The higher the radio quality, the better the listening experience will be (lossless > compressed).
+
+## Technical Details
+
+- All playlists are in standard M3U format
+- Stream URLs should be direct links to media streams
+- We prioritize higher quality streams when multiple options exist
+
+## Future Plans
+
+- [ ] Properly identify the radios and their groups for easier maintenance
+- [ ] Create scripts to generate comprehensive playlists containing all stations
+- [ ] Develop a searchable radio station database
+- [ ] Add genre categorization
+- [ ] Implement regular link validation to ensure all streams remain active

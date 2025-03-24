@@ -1,0 +1,38 @@
+# Site settings
+title: IPRD
+description: International Public Radio Directory
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://iprd-org.github.io" # Replace with your actual GitHub username
+
+# Build settings
+markdown: kramdown
+remote_theme: academicpages/academicpages.github.io
+color_scheme: dark
+
+# Aux links for the upper right navigation
+aux_links:
+  "IPRD on GitHub":
+    - "https://github.com/iprd-org/IPRD" # Replace with your actual repository link
+
+# Footer content
+footer_content: "Copyright &copy; 2025 The IPRD Organization."
+
+# Collections
+collections:
+  docs:
+    output: true
+
+# Search settings
+search_enabled: true
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
+
+# Exclude files from being built
+exclude:
+  - node_modules
+  - vendor
+  - .git
+  - .github
+  - README.md
