@@ -25,6 +25,8 @@ http://streaming-live-app.rtp.pt/liveradio/antena280a/playlist.m3u8
 http://radiocast.rtp.pt/antena280a.mp3
 #EXTINF:-1 tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/101-262619141305.png?v=3&w=860" group-title="jazz,public",RTP Antena 2 Jazzin'
 http://radiocast.rtp.pt/antena2jazzin80a.mp3
+#EXTINF:-1 tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/thumb_A2-Opera_positivo.jpg" group-title="classical,opera",RTP Antena 2 Opera
+https://streaming-live.rtp.pt/liveradio/antena2opera80a/chunklist_DVR.m3u8
 #EXTINF:-1 tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/Antena3_negativo_vert_RGB.png" group-title="alternative,pop",RTP Antena 3
 http://streaming-live-app.rtp.pt/liveradio/antena380a/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s24930d.png" group-title="dance,pop,rock",RTP Antena 3
@@ -67,6 +69,8 @@ https://centova.radio.com.pt/proxy/564?mp=/stream
 http://centova.radio.com.pt:8529/listen.pls
 #EXTINF:-1 tvg-logo="https://www.radio.net/300/jamsandkooks.png?version=4cda6b62257c54a110348d6be1fb0fcc" group-title="alternative,indie,rock",Jams and Kooks
 http://stream.zeno.fm/0vqtrtyzg4duv?rj-ttl=5&rj-tok=AAABfdpkNfoAL-TTjXX9HfB2Ig
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/QDXv-dwPSiRg0WA_Gp9JotWMWRnLWIIInC1qouZfQzpHHbzxnmyx_iwOPQZp8tx5fNDE" group-title="oldies,world",M80
+https://stream-hls.bauermedia.pt/m80.aac/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s6745q.png" group-title="pop,top 40",Mega Hits
 https://playerservices.streamtheworld.com/api/livestream-redirect/MEGA_HITS_SC
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/55a451_d5807c3dfbb34cc78a7a3236d420423c~mv2.png" group-title="rock,metal,pop",Manitu Rock Radio
@@ -83,6 +87,8 @@ http://centova.radio.com.pt:9426/listen.pls
 https://centova.radio.com.pt/proxy/422?mp=/stream
 #EXTINF:-1 tvg-logo="https://www.celsoazevedo.com/files/android/p/f/2020/11/pef.png" group-title="pop,news,variety",Posto Emissor do Funchal OM
 http://centova.radio.com.pt:9422/stream
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/R%C3%A1dio_Radar_logo.png" group-title="alternative,indie",Radar 97.8
+https://proic1.evspt.com/radar_aac
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiPinw6fc7Oum3XczWbwpybMGl60Vr8NYZMw&s" group-title="adult,contemporary,hits",Radio 5
 https://radios.justweb.pt/8042/stream
 #EXTINF:-1 tvg-logo="http://www.radio94fm.pt/favicon.ico" group-title="pop,news,folk",Radio 94
@@ -139,6 +145,8 @@ http://centova.radio.com.pt:9476/listen.pls
 http://centova.radio.com.pt:8445/listen.pls
 #EXTINF:-1 tvg-logo="http://static.radio.pt/images/broadcasts/6d/95/35660/1/c175.png" group-title="hits,folk,top 40",Radio Clube Madeira 106.8
 http://radiosmadeira.net:8020/;stream.mp3
+#EXTINF:-1 tvg-logo="https://ca.radio.net/300/radiocomercial.png?version=5bd0ad5bd84863d087224f8d04b3a4bf" group-title="contemporary,pop,rock",Radio Comercial
+https://stream-hls.bauermedia.pt/comercial.aac/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s11079q.png" group-title="latin,folk",Radio Condestavel 107.0
 http://centova.radio.com.pt:8427/listen.pls
 #EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s1360q.png" group-title="folk,talk,variety",Radio Cova da Beira
@@ -201,6 +209,8 @@ http://centova.radio.com.pt:9524/listen.pls
 http://centova.radio.com.pt:8407/listen.pls
 #EXTINF:-1 tvg-logo="https://www.orbital.pt/icon.png" group-title="electro,house",Radio Orbital 101.9
 https://centova.radio.com.pt/proxy/401?mp=/stream
+#EXTINF:-1 tvg-logo="https://www.radio.net/300/oxigenio.png?version=f5411993e7ee81a94b0e21db793f07a0" group-title="electro,funk,hip hop",Radio Oxigieno 102.6
+https://proic1.evspt.com/oxigenio_aac
 #EXTINF:-1 tvg-logo="http://www.radiopico.com/fx/logo_radiopico_2012.png" group-title="folk,world",Radio Pico 100.2
 http://centova.radios.pt:9420/stream
 #EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s82364q.png" group-title="folk,pop,talk",Radio Planicie 92.8
@@ -217,6 +227,8 @@ http://stream2.radioquantica.com:8000/stream
 http://centova.radio.com.pt:8445/stream
 #EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s83556q.png" group-title="folk,world",Radio Regional de Arouca 103.2
 http://centova.radio.com.pt:8485/listen.pls
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy_s0wVYP1I7LdwRvAHHwr7uyrCK0qdd0jTg&s" group-title="talk,news,pop",Radio Regional Nacional
+https://play.radioregional.pt/stream/2/
 #EXTINF:-1 tvg-logo="https://rrsite-images.azureedge.net/favicon/apple-touch-icon.png" group-title="talk,news",Radio Renascenca
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RENASCENCA_SC
 #EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s84308q.png" group-title="world,news,talk",Radio Riba-Tavora
@@ -253,6 +265,8 @@ http://radiocast.rtp.pt/rdpafrica80a.mp3
 http://radiocast.rtp.pt/rdpint80a.mp3
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/RFM.svg" group-title="hits,pop,rock",RFM
 https://playerservices.streamtheworld.com/api/livestream-redirect/RFMAAC.aac
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/c4XS6cBFdq.png" group-title="hits,pop",RFM Oceano Pacifico
+https://27943.live.streamtheworld.com/RFMAAC.aac
 #EXTINF:-1 tvg-logo="http://www.rua.pt/wp-content/uploads/2013/03/RUA_4cores_positivo4.jpg" group-title="university,news,variety",RUA 102.7
 https://centova.radio.com.pt/proxy/536?mp=/stream
 #EXTINF:-1 tvg-logo="https://ruc.pt/favicon-32x32.png" group-title="alternative,pop,university",RUC 107.9
@@ -263,6 +277,8 @@ http://centova.radio.com.pt:8435/
 http://hyades.shoutca.st:8270/stream/1/
 #EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s82204q.png" group-title="variety,world",Singa FM
 http://centova.radio.com.pt:8487/listen.pls
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/6BgyDA2Nq5HysiUcIfGJzxhbxHCBXu4bDfyo97DYiaiFR1uYmlI_NBeqkxBl2WycilyP=w240-h480-rw" group-title="jazz,ambient,relax",Smooth FM
+https://stream-hls.bauermedia.pt/smooth.aac/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.radios.pt/wp-content/uploads/2015/08/Tejo-Radio-Jornal.jpg" group-title="news,world",Tejo 102.9
 http://centova.radio.com.pt:8531/listen.pls
 #EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s83751q.png" group-title="pop,talk,top 40",Terra Quente FM
@@ -273,6 +289,8 @@ http://109.71.41.6:8046/stream
 http://centova.radio.com.pt:8545/listen.pls
 #EXTINF:-1 tvg-logo="http://www.top80.fm/novo_logo-complete.png" group-title="pop,hits,world",Radio TOP 80
 http://live.top80.fm:8086/
+#EXTINF:-1 tvg-logo="https://uk.radio.net/300/superfmpt.png?version=7e1caee4a957d08b8735915d3ff65e67" group-title="rock,hits",Super FM 104.8
+https://play.radioregional.pt:8210/stream/2/;/stream.mp3
 #EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s107330q.png" group-title="adult,contemporary,world",Torres Novas 100.8
 http://centova.radio.com.pt:8475/listen.pls
 #EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s110774t.png" group-title="adult,contemporary,news",TSF Acores 99.4
