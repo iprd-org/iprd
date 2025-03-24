@@ -1,17 +1,25 @@
-# IPRD (Internet Protocol RaDios)
+# IPRD Project
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
+## Overview
+Listen to your favorite radio stations in one single place. IPRD is a collection of curated internet radio streams organized by country and broadcasting groups. The project aims to provide an easily accessible library of radio stations from around the world in M3U playlist format.
 
-Listen to your favorite radio stations in one single place.
+## Features
+- Curated internet radio streams
+- Organized by country and broadcasting groups
+- Easily accessible library in M3U playlist format
+
+## Documentation
+For more detailed documentation, please see the [docs](./docs/) directory.
+
+## Contributing
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
+
+## License
+This project is licensed under the [LICENSE](LICENSE) - see the file for details.
 
 ## Current state of IPRD
 
 Work in Progress (2025-03-24)
-
-## About
-
-IPRD is a collection of curated internet radio streams organized by country and broadcasting groups. The project aims to provide an easily accessible library of radio stations from around the world in M3U playlist format.
 
 ## Usage
 

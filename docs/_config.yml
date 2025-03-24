@@ -1,13 +1,23 @@
 # Site settings
 title: IPRD
 description: International Public Radio Directory
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "/docs" # the subpath of your site, e.g. /blog
 url: "https://iprd-org.github.io" # Replace with your actual GitHub username
 
 # Build settings
 markdown: kramdown
-remote_theme: academicpages/academicpages.github.io
+remote_theme: just-the-docs/just-the-docs
 color_scheme: dark
+
+# Documentation settings
+heading_anchors: true
+nav_sort: case_sensitive
+permalink: pretty
+kramdown:
+  toc_levels: 1..3
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
 
 # Aux links for the upper right navigation
 aux_links:
@@ -21,9 +31,16 @@ footer_content: "Copyright &copy; 2025 The IPRD Organization."
 collections:
   docs:
     output: true
+    permalink: /:collection/:path/
 
 # Search settings
 search_enabled: true
+search:
+  heading_level: 2
+  previews: 3
+  preview_words_before: 5
+  preview_words_after: 10
+  tokenizer_separator: /[\s/]+/
 
 # Back to top link
 back_to_top: true
