@@ -411,7 +411,7 @@ def main():
     logging.info(f"Generated data for {summary['total_stations']} stations from {summary['total_countries']} countries")
     logging.info(f"Found {genre_data['total_unique_genres']} unique genres")
     logging.info(f"Top 5 genres: {', '.join([g['name'] for g in genre_data['top_genres'][:5]])}")
-    logging.info(f"Top 5 countries by station count: {', '.join([f'{c['code']} ({c['count']})' for c in summary['countries'][:5]])}")
+    logging.info(f"Top 5 countries by station count: {', '.join([f\"{c['code']} ({c['count']})\" for c in summary['countries'][:5]])}")
     
     logging.info("Metadata catalog generation complete")
 
