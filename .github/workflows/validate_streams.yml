@@ -8,6 +8,7 @@ on:
     paths:
       - 'streams/**'
       - 'metadata/**'
+      - 'scripts/**'
 
 jobs:
   validate:
@@ -22,8 +23,20 @@ jobs:
           python-version: '3.10'
       - name: Install dependencies
         run: pip install requests
+      - name: Generate metadata catalog
+        run: |
+          echo "Generating metadata catalog..."
+          python scripts/generate_site_data.py
       - name: Validate streams
         run: python scripts/validate_streams.py
+      - name: Commit updated metadata
+        if: github.event_name != 'pull_request'
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add metadata/catalog.json validation-results.json site_data/
+          git commit -m "Update metadata and validation results" || echo "No changes to commit"
+          git push
       - name: Comment PR with results
         if: github.event_name == 'pull_request'
         uses: actions/github-script@v6
@@ -31,10 +44,49 @@ jobs:
           script: |
             const fs = require('fs');
             const results = JSON.parse(fs.readFileSync('validation-results.json', 'utf8'));
-            const comment = `## Validation des flux\n${results.summary}\n\n${results.details}`;
-            github.rest.issues.createComment({
-              issue_number: context.issue.number,
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              body: comment
-            });
+            
+            // Format the results for better readability
+            let summary = results.summary;
+            let workingCount = 0;
+            let failedCount = 0;
+            
+            if (results.details) {
+              // Count working and failed streams
+              workingCount = results.details.filter(s => s.working).length;
+              failedCount = results.details.filter(s => !s.working).length;
+              
+              // Limit the number of failed streams shown in the comment
+              const failedStreams = results.details.filter(s => !s.working).slice(0, 10);
+              
+              let detailsText = '';
+              if (failedStreams.length > 0) {
+                detailsText = '### Failed Streams (showing first 10):\n';
+                failedStreams.forEach(stream => {
+                  detailsText += `- ${stream.url} - Status: ${stream.status} - ${stream.error || ''}\n`;
+                });
+                
+                if (failedCount > 10) {
+                  detailsText += `\n...and ${failedCount - 10} more failed streams.\n`;
+                }
+              }
+              
+              const comment = `## Stream Validation Results\n\n` +
+                `- Total streams: ${results.details.length}\n` +
+                `- Working: ${workingCount} (${Math.round(workingCount/results.details.length*100)}%)\n` +
+                `- Failed: ${failedCount} (${Math.round(failedCount/results.details.length*100)}%)\n\n` +
+                detailsText;
+              
+              github.rest.issues.createComment({
+                issue_number: context.issue.number,
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                body: comment
+              });
+            } else {
+              github.rest.issues.createComment({
+                issue_number: context.issue.number,
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                body: `## Stream Validation Results\n\n${results.summary}\n\nNo detailed results available.`
+              });
+            }

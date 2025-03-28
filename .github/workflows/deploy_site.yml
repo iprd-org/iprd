@@ -6,6 +6,8 @@ on:
     paths:
       - 'docs/**'
       - 'metadata/**'
+      - 'streams/**'
+      - 'scripts/**'
   workflow_dispatch:
 
 jobs:
@@ -15,9 +17,29 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v3
-      - name: Generate station list
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+      - name: Install dependencies
+        run: pip install requests
+      - name: Generate metadata catalog and site data
         run: python scripts/generate_site_data.py
+      - name: Update validation results (if available)
+        run: |
+          if [ -f "validation-results.json" ]; then
+            python scripts/validate_streams.py
+          else
+            echo "Skipping validation as no previous results exist"
+          fi
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           folder: docs
+      - name: Commit updated metadata
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add metadata/ site_data/ validation-results.json
+          git commit -m "Update metadata catalog and site data" || echo "No changes to commit"
+          git push
