@@ -1,9 +1,21 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://www.allzicradio.com/media/radios/azot-radio.jpg" group-title="world,dom-tom,pop",Azot Radio
+https://azotradio1.ice.infomaniak.ch/azotradio1-128.mp3
+#EXTINF:-1 tvg-logo="https://ca.radio.net/300/freedom.png?version=3b8f8af15b2734e1270439c563cf91ea" group-title="hits,news",Free Dom 1
+https://freedomice.streamakaci.com/freedom.mp3
+#EXTINF:-1 tvg-logo="https://www.funradio.re/assets/funradiore/images/no_album_art.png" group-title="dom-tom,electro,anglais",Fun Radio
+https://cdnradio.streamakaci.com/funradio.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.fr/300/konect.png?version=38c7ed61d1be9f48b0430f94a7961de3" group-title="dom-tom,electro,pop",Konect Radio
 https://listen.radioking.com/radio/129973/stream/169819
+#EXTINF:-1 tvg-logo="https://images.radiovolna.net/_files/images/stations/423399/653d0b8ef1699f05a8654c7d2d6b9e76.jpg" group-title="talk,news,variety",Kreol FM 101.5
+https://kreolfm.ice.infomaniak.ch/kreolfm-96.aac
+#EXTINF:-1 tvg-logo="https://www.radio.net/300/nrjreunion.png?version=9668cd4809a3ec79e728cd0e7a74b744" group-title="dom-tom,hits,world",NRJ
+https://scdn.nrjaudio.fm/fr_re/55759/mp3_128.mp3?cdn_path=adswizz_lbs11&adws_out_2&access_token=cfc36ca6fd4a4b3b9f11c23bb7142fe0
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/3dc804_add6b2f86b75418d97babe2007a702b2%7emv2.png/v1/fill/w_32%2ch_32%2clg_1%2cusm_0.66_1.00_0.01/3dc804_add6b2f86b75418d97babe2007a702b2%7emv2.png" group-title="variety,talk",Radio Babouk
 https://listen.radioking.com/radio/244351/stream/288496
 #EXTINF:-1 tvg-logo="https://www.radio.net/300/rer.png?version=f36ce703606f94c40ae3b214372fca35" group-title="sports,talk",RER Sport
 http://rerreunion.ice.infomaniak.ch/rerreunion-64.aac
 #EXTINF:-1 tvg-logo="https://la1ere.francetvinfo.fr/assets/img/icons/favicons/favicon.svg" group-title="public,news,talk",Reunion La 1ere
 https://reunion.ice.infomaniak.ch/reunion-128.mp3
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/6/81566.v12.png" group-title="dance,top 40,hits",Top 98.5
+https://radio6.pro-fhi.net/radio/9070/stream
