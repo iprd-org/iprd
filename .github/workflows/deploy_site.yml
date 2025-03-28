@@ -1,4 +1,4 @@
-name: Deploy to GitHub Pages
+name: Deploy new site data for GitHub Pages
 
 on:
   push:
@@ -42,57 +42,4 @@ jobs:
           git add metadata/ site_data/ validation-results.json
           git commit -m "Update metadata catalog and site data" || echo "No changes to commit"
           git push || echo "No changes to push"
-          
-      - name: Setup Ruby
-        uses: ruby/setup-ruby@v1
-        with:
-          ruby-version: '3.1'
-          bundler-cache: true
-          
-      - name: Install Jekyll and dependencies
-        run: |
-          cd docs
-          gem install jekyll bundler
-          bundle init || echo "Bundle already initialized"
-          echo 'gem "jekyll", "~> 4.3.0"' >> Gemfile
-          echo 'gem "just-the-docs"' >> Gemfile
-          bundle install
-          
-      - name: Build site
-        run: |
-          cd docs
-          bundle exec jekyll build
-          
-      - name: Upload site files as artifact
-        uses: actions/upload-artifact@v4.6.2
-        with:
-          name: site-files
-          path: docs/_site/
-          
-  deploy:
-    needs: validate
-    runs-on: ubuntu-latest
-    permissions:
-      pages: write
-      id-token: write
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    steps:
-      - name: Download build artifact
-        uses: actions/download-artifact@v4.2.1
-        with:
-          name: site-files
-          path: ./site
-          
-      - name: Setup Pages
-        uses: actions/configure-pages@v5
-          
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: './site'
-          
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+          echo "Successfully committed and pushed changes."
