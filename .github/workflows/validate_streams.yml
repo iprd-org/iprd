@@ -34,11 +34,21 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add metadata/catalog.json validation-results.json site_data/
+          
+          # Add files that always exist
+          git add metadata/catalog.json site_data/
+          
+          # Only add validation-results.json if it exists
+          if [ -f validation-results.json ]; then
+            git add validation-results.json
+          else
+            echo "Warning: validation-results.json not found, skipping this file"
+          fi
+          
           git commit -m "Update metadata and validation results" || echo "No changes to commit"
           git push
       - name: Comment PR with results
-        if: github.event_name == 'pull_request'
+        if: github.event_name == 'pull_request' && hashFiles('validation-results.json') != ''
         uses: actions/github-script@v6
         with:
           script: |
