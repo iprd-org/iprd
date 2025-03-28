@@ -34,8 +34,8 @@ jobs:
           git config --local user.name "GitHub Action"
           
           # Check if there are changes
-          if [[ -n $(git status --porcelain metadata/ site_data/) ]]; then
-            git add metadata/ site_data/
+          if [[ -n $(git status --porcelain metadata/ docs/site_data/) ]]; then
+            git add metadata/ docs/site_data/
             git commit -m "Update metadata catalog [automated]"
             git push
             echo "Metadata catalog updated and committed"

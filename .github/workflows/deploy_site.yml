@@ -7,7 +7,6 @@ on:
       - 'docs/**'
       - 'metadata/**'
       - 'streams/**'
-      - 'site_data/**'
       - 'validation-results.json'
   workflow_dispatch:
 

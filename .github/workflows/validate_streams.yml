@@ -36,7 +36,7 @@ jobs:
           git config --local user.name "GitHub Action"
           
           # Add files that always exist
-          git add metadata/catalog.json site_data/
+          git add metadata/catalog.json docs/site_data/
           
           # Only add validation-results.json if it exists
           if [ -f validation-results.json ]; then
