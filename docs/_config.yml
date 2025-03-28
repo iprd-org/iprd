@@ -1,7 +1,7 @@
 # Site settings
 title: IPRD
 description: International Public Radio Directory
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/iprd" # the subpath of your site, e.g. /blog
 url: "https://iprd-org.github.io" # Replace with your actual GitHub username
 
 # Build settings

@@ -43,11 +43,31 @@ jobs:
           git commit -m "Update metadata catalog and site data" || echo "No changes to commit"
           git push || echo "No changes to push"
           
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.1'
+          bundler-cache: true
+          
+      - name: Install Jekyll and dependencies
+        run: |
+          cd docs
+          gem install jekyll bundler
+          bundle init || echo "Bundle already initialized"
+          echo 'gem "jekyll", "~> 4.3.0"' >> Gemfile
+          echo 'gem "just-the-docs"' >> Gemfile
+          bundle install
+          
+      - name: Build site
+        run: |
+          cd docs
+          bundle exec jekyll build
+          
       - name: Upload site files as artifact
         uses: actions/upload-artifact@v4.6.2
         with:
           name: site-files
-          path: docs/
+          path: docs/_site/
           
   deploy:
     needs: validate
