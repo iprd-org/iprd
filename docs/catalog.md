@@ -51,7 +51,7 @@ Each playlist follows the standard M3U format with extended information:
 
 ```
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://example.com/logo.png" group-title="(.*);(.*);",Station Name
+#EXTINF:-1 tvg-logo="https://example.com/logo.png" group-title="News;Talk",Station Name
 https://example.com/stream.mp3
 ```
 
