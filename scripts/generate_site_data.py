@@ -359,7 +359,7 @@ def generate_unified_playlist(stations, output_file):
         for station in stations:
             genres = ','.join(station['genres'])
             f.write(f'#EXTINF:-1 tvg-logo="{station["logo"]}" '
-                   f'group-title="(.*);(.*);"]}\n')
+                   f'group-title="{genres}",{station["name"]}\n')
             f.write(f'{station["url"]}\n')
     
     logging.info(f"Generated unified playlist with {len(stations)} stations")
