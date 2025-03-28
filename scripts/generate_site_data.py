@@ -383,9 +383,9 @@ def generate_by_country_playlists(stations):
         with open(output_file, 'w', encoding='utf-8') as f:
             f.write('#EXTM3U\n')
             for station in country_stations:
-                genres = ','.join(station['genres'])
+                genres = ';'.join(station['genres'])
                 f.write(f'#EXTINF:-1 tvg-logo="{station["logo"]}" '
-                       f'group-title="(.*);(.*);"]}\n')
+                       f'group-title="{genres}",{station["name"]}\n')
                 f.write(f'{station["url"]}\n')
         
         logging.info(f"Generated {country_code} playlist with {len(country_stations)} stations")
