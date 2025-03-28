@@ -291,7 +291,7 @@ def analyze_genres(stations):
 
 def generate_metadata_catalog(stations, validation_results):
     """Generate metadata catalog JSON file with station information."""
-    now = datetime.datetime.utcnow()
+    now = datetime.datetime.now(datetime.UTC)
     updated_time = now.strftime("%Y-%m-%dT%H:%M:%SZ")
     
     # Create the catalog structure
@@ -402,7 +402,7 @@ def generate_summary_metadata(stations, country_counts, country_files, genre_dat
         ],
         'country_files': country_files,
         'genre_stats': genre_data,
-        'updated': datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+        'updated':datetime.datetime.now(datetime.UTC).strftime("%Y-%m-%dT%H:%M:%SZ")
     }
     
     # Write metadata to JSON file
