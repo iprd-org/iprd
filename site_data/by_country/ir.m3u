@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://cdn77.pressenza.com/wp-content/uploads/2016/01/HispanTV-300x128.jpg" group-title="news,talk,spanish",HispanTV Audio
+https://live.presstv.ir/audio/hispantvradio_360p/chunklist_w1787324820.m3u8
+#EXTINF:-1 tvg-logo="http://www.sedaye-iran.com/images/emblems/radio_farhang.jpg" group-title="culture,persian,public",IRIB Radio Farhang
+http://headend1.iranseda.ir/liveHLS/radio-farhang.m3u8
+#EXTINF:-1 tvg-logo="http://www.oonternet.com/_panel/upload/content/oonternet-8883943415280.jpeg" group-title="news,world,public",IRIB Radio Iran
+http://s1.cdn1.iranseda.ir:1935/liveedge/radio-iran/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lendx.files.wordpress.com/2015/10/radio-varzesh.png" group-title="persian,public,sports",IRIB Radio Varzesh
+http://headend1.iranseda.ir/liveHLS/radio-varzesh.m3u8
+#EXTINF:-1 tvg-logo="https://lh5.googleusercontent.com/proxy/25PMsUBa3Z6So8cdvAyZT7_93NyV26cJNuTTDY4xk6aJU1lcKPByf2C7o2HbrGrv-QxPvbI3dio2D39zYlgi1v6nLg" group-title="classical,world",Radio Parsa
+http://parsa.icdndhcp.com:18000/stream
+#EXTINF:-1 tvg-logo="https://www.presstv.ir/custom/images/icon.png" group-title="news,talk",PressTV Audio
+https://live.presstv.ir/audio/radio_360p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://radioeram.com/favicon.ico" group-title="dance,pop,oldies",Radio Eram
+http://37.59.47.192:8200/;stream.mp3
+#EXTINF:-1 tvg-logo="https://radio.mojahedin.org/images/logo.png" group-title="news,talk",Radio Mojahed
+https://s2.radio.co/s830691c74/listen
+#EXTINF:-1 tvg-logo="http://www.sedaye-iran.com/images/emblems/radio_mojdeh.jpg" group-title="christian,persian",Radio Mojdeh
+http://ic2326.c1261.fast-serv.com/rm128
+#EXTINF:-1 tvg-logo="https://kuasark.com/files/stations-logos/irib-radio-quran.png" group-title="islam,religious",IRIB Radio Quran 900
+https://s4.cdn3.iranseda.ir/liveedge/radio-quran/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://online-radio.eu/logo/93/93191.jpg" group-title="islam,religious",IRIB Radio Talavat
+https://s2.cdn3.iranseda.ir/liveedge/radio-talavat/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/44vh775/radio-romaan-logo-low.jpg" group-title="persian,talk",Radio Romaan
+http://stream.zeno.fm/39gsar7zetzuv?rj-ttl=5&rj-tok=AAABfdrmiHYArm_-IY3SEdWSlQ
+#EXTINF:-1 tvg-logo="https://sepehr.irib.ir/uploads/channel/payam.png" group-title="news,traffic,variety",IRIB Radio Payam 104.7
+http://s1.cdn1.iranseda.ir:1935/liveedge/radio-payam/playlist.m3u8

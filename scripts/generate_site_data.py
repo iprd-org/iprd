@@ -363,6 +363,34 @@ def generate_unified_playlist(stations, output_file):
     
     logging.info(f"Generated unified playlist with {len(stations)} stations")
 
+def generate_by_country_playlists(stations):
+    """Generate country-specific M3U playlists for all stations."""
+    # Create a directory for country playlists if it doesn't exist
+    country_dir = OUTPUT_DIR / 'by_country'
+    country_dir.mkdir(exist_ok=True)
+    
+    # Group stations by country code
+    stations_by_country = defaultdict(list)
+    for station in stations:
+        country_code = station['country_code'].lower()
+        stations_by_country[country_code].append(station)
+    
+    # Generate a playlist for each country
+    for country_code, country_stations in stations_by_country.items():
+        output_file = country_dir / f"{country_code}.m3u"
+        
+        with open(output_file, 'w', encoding='utf-8') as f:
+            f.write('#EXTM3U\n')
+            for station in country_stations:
+                genres = ','.join(station['genres'])
+                f.write(f'#EXTINF:-1 tvg-logo="{station["logo"]}" '
+                       f'group-title="{genres}",{station["name"]}\n')
+                f.write(f'{station["url"]}\n')
+        
+        logging.info(f"Generated {country_code} playlist with {len(country_stations)} stations")
+    
+    return len(stations_by_country)
+
 def generate_summary_metadata(stations, country_counts, country_files, genre_data):
     """Generate summary metadata JSON file with project statistics."""
     metadata = {
@@ -400,6 +428,10 @@ def main():
     # Generate unified playlist
     unified_playlist_path = OUTPUT_DIR / 'all_stations.m3u'
     generate_unified_playlist(all_stations, unified_playlist_path)
+    
+    # Generate country-specific playlists
+    country_count = generate_by_country_playlists(all_stations)
+    logging.info(f"Generated {country_count} country-specific playlists")
     
     # Analyze genres
     genre_data = analyze_genres(all_stations)
