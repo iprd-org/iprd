@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://media.bauerradio.com/image/upload/c_crop,g_custom/v1606309685/brand_manager/stations/ni2jgdk5kaugk7yanekj.png" group-title="news,culture",Ant1 102.7
+http://r1.cloudskep.com/radio2/ant1fm/icecast.audio
+#EXTINF:-1 tvg-logo="https://dialogos.com.cy/wp-content/uploads/2021/09/programmata-astra-3-1.png" group-title="adult,contemporary,traditional",Astra 92.8
+http://radio.dialogos.com.cy:8000/stream
+#EXTINF:-1 tvg-logo="https://d1hbpr09pwz0sk.cloudfront.net/logo_url/capital-radio-938-cyprus-fe35e3af" group-title="pop,top 40",Capital Radio
+https://radyo1.radyo-dinle.tc/8256/stream
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/8/18488.v3.png" group-title="pop,top 40",Choice 104.3/107.4
+http://eco.onestreaming.com:8364/listen.pls
+#EXTINF:-1 tvg-logo="https://tpc.googlesyndication.com/simgad/9820055778066934470" group-title="ballads,pop",Diesi 101.1
+http://r1.cloudskep.com/radio/diesi/icecast.audio
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/7/18477.v5.png" group-title="traditional,hits",Kanali 6 106.0/98.6/107.0/106.9
+http://31.193.142.7:8012/stream
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/7/18477.v5.png" group-title="traditional,hits",Kanali 6 106.0/98.6/107.0/106.9
+http://live3.istoikona.net:8372/stream/2/Title1=Kanali
+#EXTINF:-1 tvg-logo="http://new.kanali7.com/wp-content/uploads/2016/03/kanali-7-logo-low-1.png" group-title="news,talk",Kanali 7 98.4
+http://live.kanali7.com:4010/listen.pls
+#EXTINF:-1 tvg-logo="http://kissfm.com.cy/wp-content/uploads/2016/02/fav.png" group-title="pop,hits",Kiss 89.0
+http://r1.phileradio.com:8193/89FM
+#EXTINF:-1 tvg-logo="http://www.klikfm.com.cy/favicon.ico" group-title="pop,top 40",Klik 105.5/89.6
+http://eco.onestreaming.com:8310/listen.pls
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXjG1PlYWlqTSFD5WtWhHxxPL0VuK5i0jbUqA-PHEU4eGd5DTkxpTW-01SnZWcXAhBuEI&usqp=CAU" group-title="news,talk",Radyo Diyalog 91.3
+https://yayin1.canlitv.fun/radyo/diyalogradyo/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.riknews.com.cy/static/img/favicons/apple-touch-icon.png" group-title="news,pop,talk",Radio Proto 99.3
+http://r1.cloudskep.com/cybcr/cybc1/icecast.audio
+#EXTINF:-1 tvg-logo="https://radioubuntu.com/wp-content/uploads/2017/12/cropped-favicon-90x90.png" group-title="afrobeats,bossa nova,chillout",Radio Ubuntu
+http://5.189.184.146:8000/radio.mp3
+#EXTINF:-1 tvg-logo="https://cdn.e-radio.gr/logos/cy/500/rikproto.png" group-title="news,pop",RIK 1 Proto 97.2
+https://r1.cloudskep.com/cybcr/cybc1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2._rik-radio-2_logo_2.2e16d0ba.fill-1200x630.png" group-title="variety,news",RIK 2 Deftero 91.1
+https://r1.cloudskep.com/cybcr/cybc2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN2wSHFwTfJpO1JtR4d9s_0niGzXvmId0XAA&s" group-title="classical,jazz,rock",RIK 4 Classic 88.2
+https://r1.cloudskep.com/cybcr/cybc4/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rockfmcyprus.com/favicon.ico" group-title="rock,pop",Rock FM 98.5
+http://live3.istoikona.net:8278/listen.pls
+#EXTINF:-1 tvg-logo="https://www.sport-fm.com.cy/wp-content/uploads/2018/09/sportfm-logo.png" group-title="sport,talk",Super Sport 104.0
+http://sportfm-cyprus.live24.gr/sportfm-cyprus
+#EXTINF:-1 tvg-logo="https://cdn.e-radio.gr/logos/cy/big/super.png" group-title="rock,pop",Super 104.8
+http://eco.onestreaming.com:8175/
+#EXTINF:-1 tvg-logo="https://www.sport-fm.com.cy/wp-content/uploads/2018/09/sportfm-logo.png" group-title="talk,sports",Super Sport 104.0
+https://r1.cloudskep.com/radio3/supersportfm/icecast.audio
+#EXTINF:-1 tvg-logo="http://www.riknews.com.cy/static/img/favicons/apple-touch-icon.png" group-title="classical,jazz",Tetarto Live
+http://r1.cloudskep.com/cybcr/cybc4/icecast.audio
+#EXTINF:-1 tvg-logo="http://www.riknews.com.cy/static/img/favicons/apple-touch-icon.png" group-title="news,talk",RIK 3 Trito 94.8
+http://r1.cloudskep.com/cybcr/cybc3/icecast.audio
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/eb/b4/123804/1/c300.png" group-title="swing,pop,bossa nova",Zucca Radio
+http://95.217.120.122/
+#EXTINF:-1 tvg-logo="http://resources.live24.gr/resources/images/stations/31d0a994-ae17-4460-8197-682aae104e9e.png" group-title="byzantine,ecclesia,orthodox",Radio Agios Dimitrios Acropolis 93.3
+http://eco.onestreaming.com:8474/
+#EXTINF:-1 tvg-logo="http://www.24sports.com.cy/listen_live/sporfm_logo.svg" group-title="talk,sports",Spor 95.0
+http://eradio.networksolutions.com.cy:1935/SportFM/SportFM.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/BFBS_logo.png" group-title="adult,hits",BFBS Cyprus 92.1
+http://edge-audio-01-gos2.sharp-stream.com/ssvcbfbs8.aac

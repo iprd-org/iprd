@@ -6,6 +6,7 @@ import datetime
 import hashlib
 import logging
 import urllib.parse
+import shutil
 from pathlib import Path
 from collections import defaultdict, Counter
 
@@ -28,7 +29,7 @@ logging.basicConfig(
 ROOT_DIR = Path(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 STREAMS_DIR = ROOT_DIR / "streams"
 METADATA_DIR = ROOT_DIR / "metadata"
-OUTPUT_DIR = ROOT_DIR / "site_data"
+OUTPUT_DIR = ROOT_DIR / "docs" / "site_data"  # Added for docs output
 VALIDATION_RESULTS_FILE = ROOT_DIR / "validation-results.json"
 
 # Create output directories if they don't exist

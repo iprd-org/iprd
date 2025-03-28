@@ -56,11 +56,11 @@ exclude:
 
 # Include additional directories
 include:
-  - "../site_data"
+  - "site_data"
 
 # Define site_data directory for access
 defaults:
   - scope:
-      path: "../site_data"
+      path: "site_data"
     values:
       layout: default
