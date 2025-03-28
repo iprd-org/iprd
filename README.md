@@ -9,7 +9,7 @@ Listen to your favorite radio stations in one single place. IPRD is a collection
 - Easily accessible library in M3U playlist format
 
 ## Documentation
-For more detailed documentation, please see the [docs](./docs/) directory.
+Documentation is available in [our website](https://iprd-org.github.io/iprd).
 
 ## Contributing
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
