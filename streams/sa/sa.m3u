@@ -1,31 +1,31 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://api-radio.mbc.net/images/channels/1588794051LogoAHLA_AL_QASEED%403x.png" group-title="islam,ambient,religious",Ahla Al Qaseed FM
+#EXTINF:-1 tvg-logo="https://api-radio.mbc.net/images/channels/1588794051LogoAHLA_AL_QASEED%403x.png" group-title="(.*);(.*);",Ahla Al Qaseed FM
 https://ahlalqaseedfm-radio.mbc.net/ahlalqaseedfm-radio.m3u8
-#EXTINF:-1 tvg-logo="https://api-radio.mbc.net/images/channels/1565094416LogoAlarabiya%403x.png" group-title="news,talk",Al Arabiya 99.0
+#EXTINF:-1 tvg-logo="https://api-radio.mbc.net/images/channels/1565094416LogoAlarabiya%403x.png" group-title="(.*);(.*);",Al Arabiya 99.0
 https://fm.alarabiya.net/fm/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.alifaliffm.com/wp-content/uploads/2020/03/alifalif-logo.png" group-title="top 40,pop,hits",Alif Alif FM
+#EXTINF:-1 tvg-logo="https://www.alifaliffm.com/wp-content/uploads/2020/03/alifalif-logo.png" group-title="(.*);(.*);",Alif Alif FM
 https://alifalifjobs.com/radio/8000/AlifAlifLive.mp3
-#EXTINF:-1 tvg-logo="https://ar.alnahj.net/favicon.ico" group-title="islam,romantica,quran",Annahj
+#EXTINF:-1 tvg-logo="https://ar.alnahj.net/favicon.ico" group-title="(.*);(.*);",Annahj
 https://node33.obviousapproach.com:9000/stream
-#EXTINF:-1 tvg-logo="https://api-radio.mbc.net/images/channels/1593070077LogoMBCFM%403x.png" group-title="world,variety,talk",MBC FM 102.0
+#EXTINF:-1 tvg-logo="https://api-radio.mbc.net/images/channels/1593070077LogoMBCFM%403x.png" group-title="(.*);(.*);",MBC FM 102.0
 https://mbcfm-radio.mbc.net/mbcfm-radio.m3u8
-#EXTINF:-1 tvg-logo="https://api-radio.mbc.net/images/channels/1568628425Logomood%402x.png" group-title="world,hits",MOOD FM
+#EXTINF:-1 tvg-logo="https://api-radio.mbc.net/images/channels/1568628425Logomood%402x.png" group-title="(.*);(.*);",MOOD FM
 https://moodfm-radio.mbc.net/moodfm-radio.m3u8
-#EXTINF:-1 tvg-logo="https://api-radio.mbc.net/images/channels/1592679450NewLogoPanorams%403x.png" group-title="top 40,pop",Panorama FM
+#EXTINF:-1 tvg-logo="https://api-radio.mbc.net/images/channels/1592679450NewLogoPanorams%403x.png" group-title="(.*);(.*);",Panorama FM
 https://panoramafm-radio.mbc.net/panoramafm-radio.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ1X7o7PPq8AVH0fFUqW-nbGkAmnCZdgSRLw&s" group-title="talk,religious,islam",Saudi Quran 100.0
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ1X7o7PPq8AVH0fFUqW-nbGkAmnCZdgSRLw&s" group-title="(.*);(.*);",Saudi Quran 100.0
 http://m.live.net.sa:1935/live/quransa/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://api-radio.mbc.net/images/channels/1589714957LogoQURAAN%403x.png" group-title="quran,religious,urdu",Quran Kareem
+#EXTINF:-1 tvg-logo="https://api-radio.mbc.net/images/channels/1589714957LogoQURAAN%403x.png" group-title="(.*);(.*);",Quran Kareem
 https://quraanfm-radio.mbc.net/quraanfm-radio.m3u8
-#EXTINF:-1 tvg-logo="http://www.radiosunna.com/favicon.ico" group-title="islam,religious,talk",Radio Sunna
+#EXTINF:-1 tvg-logo="http://www.radiosunna.com/favicon.ico" group-title="(.*);(.*);",Radio Sunna
 http://andromeda.shoutca.st:8189/stream
-#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/xemw8sax5tqq.jpg" group-title="top 40,pop",Rotana FM 88.0
+#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/xemw8sax5tqq.jpg" group-title="(.*);(.*);",Rotana FM 88.0
 http://curiosity.shoutca.st:6035/listen.pls
-#EXTINF:-1 tvg-logo="http://static.radio.net/images/broadcasts/a6/3c/41740/1/c300.png" group-title="pop,rock,top 40",Studio1 Saudi Aramco 94.1
+#EXTINF:-1 tvg-logo="http://static.radio.net/images/broadcasts/a6/3c/41740/1/c300.png" group-title="(.*);(.*);",Studio1 Saudi Aramco 94.1
 http://ice31.securenetsystems.net/STUDIO1
-#EXTINF:-1 tvg-logo="http://static.radio.net/images/broadcasts/1f/a3/41743/1/c175.png" group-title="classical,jazz,urban",Studio2 Saudi Aramco 101.4
+#EXTINF:-1 tvg-logo="http://static.radio.net/images/broadcasts/1f/a3/41743/1/c175.png" group-title="(.*);(.*);",Studio2 Saudi Aramco 101.4
 http://ice31.securenetsystems.net/STUDIO2
-#EXTINF:-1 tvg-logo="https://api-radio.mbc.net/images/channels/1597937844LogoWannasah%403x.png" group-title="pop,hits,world",Wanasah FM
+#EXTINF:-1 tvg-logo="https://api-radio.mbc.net/images/channels/1597937844LogoWannasah%403x.png" group-title="(.*);(.*);",Wanasah FM
 https://wanasahfm-radio.mbc.net/wanasahfm-radio.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/31/39/1d/31391d84908e4c14cafee9b5344e6584.jpg" group-title="quran,islam,religious",Ruqyah Sharia The Holy Quran
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/31/39/1d/31391d84908e4c14cafee9b5344e6584.jpg" group-title="(.*);(.*);",Ruqyah Sharia The Holy Quran
 http://live.mp3quran.net:9936/

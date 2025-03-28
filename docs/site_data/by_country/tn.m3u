@@ -1,49 +1,49 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://tunisia.mom-gmr.org/uploads/tx_lfrogmom/media/134_02.jpg" group-title="pop,news,talk",Diwan 91.2
+#EXTINF:-1 tvg-logo="https://tunisia.mom-gmr.org/uploads/tx_lfrogmom/media/134_02.jpg" group-title="pop;news;talk",Diwan 91.2
 http://stream6.tanitweb.com/diwanfm
-#EXTINF:-1 tvg-logo="https://radioexpressfm.com/wp-content/uploads/2020/06/cropped-logo-2-1-180x180.png" group-title="news,talk,variety",Express FM 103.6
+#EXTINF:-1 tvg-logo="https://radioexpressfm.com/wp-content/uploads/2020/06/cropped-logo-2-1-180x180.png" group-title="news;talk;variety",Express FM 103.6
 http://expressfm.ice.infomaniak.ch/expressfm-64.mp3
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/5JDzffziO_SyP6qd6Tvpx_OJJJvQoFS0sUNyPibaZrI4YjdckmaW6MYWAHbs4O37OyA=w300" group-title="folk,world",Jawhara 102.5
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/5JDzffziO_SyP6qd6Tvpx_OJJJvQoFS0sUNyPibaZrI4YjdckmaW6MYWAHbs4O37OyA=w300" group-title="folk;world",Jawhara 102.5
 http://streaming2.toutech.net:8000/jawharafm
-#EXTINF:-1 tvg-logo="http://knoozfm.net/favicon.ico" group-title="hits,world,pop",KnOOz FM
+#EXTINF:-1 tvg-logo="http://knoozfm.net/favicon.ico" group-title="hits;world;pop",KnOOz FM
 http://streaming.knoozfm.net:8000/knoozfm
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/YETw0HvVv9KrmQbljpHlVRLYljeSMxe6qL9Ha2z3uU3rHHPNMeN071BAR1hOsveIzDGdxWkBfg=s900-c-k-c0x00ffffff-no-rj" group-title="pop,news,sports",MFM Tunisie
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/YETw0HvVv9KrmQbljpHlVRLYljeSMxe6qL9Ha2z3uU3rHHPNMeN071BAR1hOsveIzDGdxWkBfg=s900-c-k-c0x00ffffff-no-rj" group-title="pop;news;sports",MFM Tunisie
 https://mfmtunisie.toutech.net/mfmlive
-#EXTINF:-1 tvg-logo="https://www.radio.net/300/mosaiquefm.png?version=29f6389359e771be1fbba999dc01608a" group-title="pop,world,hits",Radio Mosaique FM
+#EXTINF:-1 tvg-logo="https://www.radio.net/300/mosaiquefm.png?version=29f6389359e771be1fbba999dc01608a" group-title="pop;world;hits",Radio Mosaique FM
 https://radio.mosaiquefm.net/mosalive
-#EXTINF:-1 tvg-logo="https://cache.usercontentapp.com/logo/5142.png?format=png&enlarge=0&quality=90&width=960" group-title="folk,world",Mosaique FM Tarab
+#EXTINF:-1 tvg-logo="https://cache.usercontentapp.com/logo/5142.png?format=png&enlarge=0&quality=90&width=960" group-title="folk;world",Mosaique FM Tarab
 http://radio.mosaiquefm.net:8000/mosatarab
-#EXTINF:-1 tvg-logo="https://api.radio.orange.com/logos/radios/large/mosaique_fm_tounsi.png" group-title="folk,world",Mosaique FM Tounsi
+#EXTINF:-1 tvg-logo="https://api.radio.orange.com/logos/radios/large/mosaique_fm_tounsi.png" group-title="folk;world",Mosaique FM Tounsi
 https://radio.mosaiquefm.net/mosatounsi
-#EXTINF:-1 tvg-logo="https://www.radiooxygene.tn/wp-content/uploads/2020/09/OxyNewLogo1602.png" group-title="french,talk",Oxygene 90.0
+#EXTINF:-1 tvg-logo="https://www.radiooxygene.tn/wp-content/uploads/2020/09/OxyNewLogo1602.png" group-title="french;talk",Oxygene 90.0
 http://radiooxygenefm.ice.infomaniak.ch/radiooxygenefm-64.mp3
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/zRxAx-gVu7MGJAv2OPMwvqtTZa_FgR3VvMlu-eav76ZEq3fI4_xahh3tORdFNx-zFpBJRwuGgQC_q0_PiPTpCu2G1W8AU2NXVW4fehqFF07eVVVcuIHv3w7E" group-title="variety,talk",RM FM 99.8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/zRxAx-gVu7MGJAv2OPMwvqtTZa_FgR3VvMlu-eav76ZEq3fI4_xahh3tORdFNx-zFpBJRwuGgQC_q0_PiPTpCu2G1W8AU2NXVW4fehqFF07eVVVcuIHv3w7E" group-title="variety;talk",RM FM 99.8
 https://stream.rm-fm.net/live
-#EXTINF:-1 tvg-logo="http://www.radioculturelle.tn/wp-content/themes/mycms.1.0.0/library/images/main-logo.png" group-title="arabic,oldies,hits",Radio Culturelle Tunisie
+#EXTINF:-1 tvg-logo="http://www.radioculturelle.tn/wp-content/themes/mycms.1.0.0/library/images/main-logo.png" group-title="arabic;oldies;hits",Radio Culturelle Tunisie
 http://rtstream.tanitweb.com/culturelle
-#EXTINF:-1 tvg-logo="http://www.radiogafsa.tn/wp-content/themes/mycms.1.0.0/library/images/main-logo.png" group-title="variety,talk",Gafsa Radio
+#EXTINF:-1 tvg-logo="http://www.radiogafsa.tn/wp-content/themes/mycms.1.0.0/library/images/main-logo.png" group-title="variety;talk",Gafsa Radio
 http://rtstream.tanitweb.com/gafsa
-#EXTINF:-1 tvg-logo="https://www.ifm.tn/images/logo.png" group-title="variety,news,comedy",Radio IFM
+#EXTINF:-1 tvg-logo="https://www.ifm.tn/images/logo.png" group-title="variety;news;comedy",Radio IFM
 https://live.ifm.tn/radio/8000/ifmlive
-#EXTINF:-1 tvg-logo="http://www.radiojeunes.tn/wp-content/themes/mycms.1.0.0/favicon.png" group-title="variety,talk,sports",Radio Jeunes
+#EXTINF:-1 tvg-logo="http://www.radiojeunes.tn/wp-content/themes/mycms.1.0.0/favicon.png" group-title="variety;talk;sports",Radio Jeunes
 http://rtstream.tanitweb.com/jeunes
-#EXTINF:-1 tvg-logo="http://www.radiomonastir.tn/wp-content/themes/mycms.1.0.0/favicon.png" group-title="variety,talk",Radio Le Kef
+#EXTINF:-1 tvg-logo="http://www.radiomonastir.tn/wp-content/themes/mycms.1.0.0/favicon.png" group-title="variety;talk",Radio Le Kef
 http://rtstream.tanitweb.com/kef
-#EXTINF:-1 tvg-logo="http://db.radioline.fr/pictures/radio_80ccc7f0a13d06b6df03bc1d6bfe8dc1/logo200.jpg?size=200" group-title="world,french,talk",Radio Med
+#EXTINF:-1 tvg-logo="http://db.radioline.fr/pictures/radio_80ccc7f0a13d06b6df03bc1d6bfe8dc1/logo200.jpg?size=200" group-title="world;french;talk",Radio Med
 http://stream6.tanitweb.com/radiomed
-#EXTINF:-1 tvg-logo="http://www.radiomonastir.tn/wp-content/themes/mycms.1.0.0/favicon.png" group-title="variety,talk",Radio Monastir
+#EXTINF:-1 tvg-logo="http://www.radiomonastir.tn/wp-content/themes/mycms.1.0.0/favicon.png" group-title="variety;talk",Radio Monastir
 http://rtstream.tanitweb.com/monastir
-#EXTINF:-1 tvg-logo="http://www.radionationale.tn/wp-content/themes/mycms.1.0.0/favicon.png" group-title="news,public,talk",Radio Nationale
+#EXTINF:-1 tvg-logo="http://www.radionationale.tn/wp-content/themes/mycms.1.0.0/favicon.png" group-title="news;public;talk",Radio Nationale
 http://rtstream.tanitweb.com/nationale
-#EXTINF:-1 tvg-logo="http://www.tunisie-radio.com/sites/default/files/radio/radio-quran-dh-lqran.jpg" group-title="religious,islam",Radio Quran Karim
+#EXTINF:-1 tvg-logo="http://www.tunisie-radio.com/sites/default/files/radio/radio-quran-dh-lqran.jpg" group-title="religious;islam",Radio Quran Karim
 http://5.135.194.225:8000/live
-#EXTINF:-1 tvg-logo="http://www.radiosfax.tn/wp-content/themes/mycms.1.0.0/favicon.png" group-title="variety,talk",Radio Sfax
+#EXTINF:-1 tvg-logo="http://www.radiosfax.tn/wp-content/themes/mycms.1.0.0/favicon.png" group-title="variety;talk",Radio Sfax
 http://rtstream.tanitweb.com/sfax
-#EXTINF:-1 tvg-logo="http://www.radiotataouine.tn/wp-content/themes/mycms.1.0.0/favicon.png" group-title="variety,talk",Radio Tataouine
+#EXTINF:-1 tvg-logo="http://www.radiotataouine.tn/wp-content/themes/mycms.1.0.0/favicon.png" group-title="variety;talk",Radio Tataouine
 http://rtstream.tanitweb.com/tataouine
-#EXTINF:-1 tvg-logo="http://www.rtci.tn/wp-content/themes/mycms.1.0.0/library/images/main-logo.png" group-title="world,talk,news",RTCI
+#EXTINF:-1 tvg-logo="http://www.rtci.tn/wp-content/themes/mycms.1.0.0/library/images/main-logo.png" group-title="world;talk;news",RTCI
 http://rtstream.tanitweb.com/rtci
-#EXTINF:-1 tvg-logo="http://www.radiosabrafm.net/favicon.png" group-title="talk,variety,world",Sabra FM
+#EXTINF:-1 tvg-logo="http://www.radiosabrafm.net/favicon.png" group-title="talk;variety;world",Sabra FM
 http://stream6.tanitweb.com/sabrafm
-#EXTINF:-1 tvg-logo="http://tunisiefm.net/sites/default/files/radio/logos/logo-shems-fm.jpg" group-title="pop,top 40",Shems FM
+#EXTINF:-1 tvg-logo="http://tunisiefm.net/sites/default/files/radio/logos/logo-shems-fm.jpg" group-title="pop;top 40",Shems FM
 http://stream6.tanitweb.com/shems

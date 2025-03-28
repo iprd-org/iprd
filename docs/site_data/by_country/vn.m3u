@@ -1,21 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://ktv.org.vn/wp-content/themes/ktv/assets/img/radio.gif" group-title="variety,talk",Khanh Hoa Radio 106.5
+#EXTINF:-1 tvg-logo="http://ktv.org.vn/wp-content/themes/ktv/assets/img/radio.gif" group-title="variety;talk",Khanh Hoa Radio 106.5
 http://210.245.20.94/hls/radio.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGl_-2wmc3cdVBY55a6Kk2gtxY5nylIXev5E6RfTTr9gZXemL6NtGDPrv0EelnzHkgEFs&usqp=CAU" group-title="variety,talk",Kien Giang Radio 99.4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGl_-2wmc3cdVBY55a6Kk2gtxY5nylIXev5E6RfTTr9gZXemL6NtGDPrv0EelnzHkgEFs&usqp=CAU" group-title="variety;talk",Kien Giang Radio 99.4
 http://tv.kgtv.vn/live/kgaudio/kgaudio.m3u8
-#EXTINF:-1 tvg-logo="http://www.thtg.vn/wp-content/themes/thtg/images/favicon.ico" group-title="variety,talk",Tien Giang Radio
+#EXTINF:-1 tvg-logo="http://www.thtg.vn/wp-content/themes/thtg/images/favicon.ico" group-title="variety;talk",Tien Giang Radio
 http://thtg.vn/live/radio/radiolive.m3u8
-#EXTINF:-1 tvg-logo="https://voh.com.vn/favicon.ico" group-title="news,talk",VOH 610
+#EXTINF:-1 tvg-logo="https://voh.com.vn/favicon.ico" group-title="news;talk",VOH 610
 https://strm.voh.com.vn/radio/channel2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://voh.com.vn/favicon.ico" group-title="news,talk",VOH 95.6
+#EXTINF:-1 tvg-logo="https://voh.com.vn/favicon.ico" group-title="news;talk",VOH 95.6
 https://strm.voh.com.vn/radio/channel1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://voh.com.vn/favicon.ico" group-title="news,talk",VOH 99.9
+#EXTINF:-1 tvg-logo="https://voh.com.vn/favicon.ico" group-title="news;talk",VOH 99.9
 https://strm.voh.com.vn/radio/channel3/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://vovmedia.vn/upload/1609732355.png" group-title="culture,news",VOV1
+#EXTINF:-1 tvg-logo="http://vovmedia.vn/upload/1609732355.png" group-title="culture;news",VOV1
 http://media.kythuatvov.vn:7001/;stream/
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-Kn2r-KxX-07oBubrb4iXHTB9bDbw62YuXA&s" group-title="culture,talk,news",VOV2 102.7
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-Kn2r-KxX-07oBubrb4iXHTB9bDbw62YuXA&s" group-title="culture;talk;news",VOV2 102.7
 http://media.kythuatvov.vn:7003/;stream/
-#EXTINF:-1 tvg-logo="http://vovmedia.vn/upload/1609732383.png" group-title="culture,talk,variety",VOV3 104.5
+#EXTINF:-1 tvg-logo="http://vovmedia.vn/upload/1609732383.png" group-title="culture;talk;variety",VOV3 104.5
 http://media.kythuatvov.vn:7005/;stream/
-#EXTINF:-1 tvg-logo="http://vovmedia.vn/upload/logo/1609730384.png" group-title="news,talk,folk",VOV5 World
+#EXTINF:-1 tvg-logo="http://vovmedia.vn/upload/logo/1609730384.png" group-title="news;talk;folk",VOV5 World
 http://media.kythuatvov.vn:7007/;stream/

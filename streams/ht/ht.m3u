@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://zeno.fm/static/icons/apple-icon-120x120.png" group-title="talk,gospel",Radio Pentecotiste De Beree
+#EXTINF:-1 tvg-logo="https://zeno.fm/static/icons/apple-icon-120x120.png" group-title="(.*);(.*);",Radio Pentecotiste De Beree
 http://stream.zeno.fm/b2gdfme2ctzuv?rj-ttl=5&rj-tok=AAABfd40mvgABLU334gfPErZCg
-#EXTINF:-1 tvg-logo="http://konpamix.com/favicon.ico" group-title="world,zouk,tropical",Konpa Mix Radio
+#EXTINF:-1 tvg-logo="http://konpamix.com/favicon.ico" group-title="(.*);(.*);",Konpa Mix Radio
 http://ais-edge08-live365-dal02.cdnstream.com/a15951
-#EXTINF:-1 tvg-logo="http://www.magik9.com/img/logo.png" group-title="african,world",Magik9 100.9
+#EXTINF:-1 tvg-logo="http://www.magik9.com/img/logo.png" group-title="(.*);(.*);",Magik9 100.9
 http://radiomagik9.primcast.com:7500/stream/1/
-#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/0a/ab/91/0aab916e-a857-c60e-3ec2-f750c36549c5/source/60x60bb.jpg" group-title="world,news",Radio Hirondelle 107.5
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/0a/ab/91/0aab916e-a857-c60e-3ec2-f750c36549c5/source/60x60bb.jpg" group-title="(.*);(.*);",Radio Hirondelle 107.5
 http://stream.zeno.fm/s3wdt380f9duv.mp3?rj-ttl=5&rj-tok=AAABfd5pBRwAvtOK6vbZXitE8A
-#EXTINF:-1 tvg-logo="https://i2.wp.com/radiotelevision2000.com/home/wp-content/uploads/2020/01/cropped-logo-1-1.png?fit=180%2c180&#038;ssl=1" group-title="jazz,blues",Radio Vision 2000 99.3
+#EXTINF:-1 tvg-logo="https://i2.wp.com/radiotelevision2000.com/home/wp-content/uploads/2020/01/cropped-logo-1-1.png?fit=180%2c180&#038;ssl=1" group-title="(.*);(.*);",Radio Vision 2000 99.3
 http://162.220.59.26:9062/listen.pls
-#EXTINF:-1 tvg-logo="https://www.scoopfmhaiti.com/LiveRadio/logo.jpg" group-title="adult,contemporary,hits",Scoop 107.7
+#EXTINF:-1 tvg-logo="https://www.scoopfmhaiti.com/LiveRadio/logo.jpg" group-title="(.*);(.*);",Scoop 107.7
 http://stream.zeno.fm/npwanvsya84tv?rj-ttl=5&rj-tok=AAABfd4BieoAepuTr3bPjHJc4Q

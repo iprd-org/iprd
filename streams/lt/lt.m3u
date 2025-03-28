@@ -1,83 +1,83 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.ziniuradijas.lt//favicon/mstile-150x150.png" group-title="rock,jazz,lounge,jazz",Easy FM
+#EXTINF:-1 tvg-logo="https://www.ziniuradijas.lt//favicon/mstile-150x150.png" group-title="(.*);(.*);",Easy FM
 https://netradio.ziniur.lt/easyfm.mp3
-#EXTINF:-1 tvg-logo="http://www.europeanhitradio.lt/favicon.ico" group-title="pop,hits",European Hit Radio
+#EXTINF:-1 tvg-logo="http://www.europeanhitradio.lt/favicon.ico" group-title="(.*);(.*);",European Hit Radio
 http://82.135.234.195:8000/ehr.mp3
-#EXTINF:-1 tvg-logo="http://www.europeanhitradio.lt/favicon.ico" group-title="pop,hits",European Hit Radio
+#EXTINF:-1 tvg-logo="http://www.europeanhitradio.lt/favicon.ico" group-title="(.*);(.*);",European Hit Radio
 http://82.135.234.195:8000/ehr.aac
-#EXTINF:-1 tvg-logo="http://extrafm.lt/favicon.ico" group-title="top 40,charts,pop",Extra 88.5
+#EXTINF:-1 tvg-logo="http://extrafm.lt/favicon.ico" group-title="(.*);(.*);",Extra 88.5
 http://82.135.234.195:8000/extrafm.mp3
-#EXTINF:-1 tvg-logo="http://www.gerasfm.lt/wp-content/uploads/2018/07/cropped-gerasfm-192x192.png" group-title="christian,religious",Geras FM
+#EXTINF:-1 tvg-logo="http://www.gerasfm.lt/wp-content/uploads/2018/07/cropped-gerasfm-192x192.png" group-title="(.*);(.*);",Geras FM
 http://82.135.234.195:8000/gerasfm.mp3
-#EXTINF:-1 tvg-logo="http://goldfm.lt/wp-content/uploads/2016/04/10889_1666613556944414_6985451634773847121_n-e1460114650430.png" group-title="pop,80s,70s",Gold FM
+#EXTINF:-1 tvg-logo="http://goldfm.lt/wp-content/uploads/2016/04/10889_1666613556944414_6985451634773847121_n-e1460114650430.png" group-title="(.*);(.*);",Gold FM
 http://82.135.234.195:8000/goldfm.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.net/300/kelyjeklaipeda.png?version=1d33e289611296d67bd45819a509e822" group-title="pop,world",Radijas Stotis Kelyje
+#EXTINF:-1 tvg-logo="https://www.radio.net/300/kelyjeklaipeda.png?version=1d33e289611296d67bd45819a509e822" group-title="(.*);(.*);",Radijas Stotis Kelyje
 http://82.135.234.195:8000/kelyje_klaipeda.mp3
-#EXTINF:-1 tvg-logo="http://laluna.lt/favicon.ico" group-title="top 40,hits",Laluna
+#EXTINF:-1 tvg-logo="http://laluna.lt/favicon.ico" group-title="(.*);(.*);",Laluna
 http://radio.m-1.fm/laluna/high
-#EXTINF:-1 tvg-logo="http://laluna.lt/favicon.ico" group-title="top 40,hits",Laluna
+#EXTINF:-1 tvg-logo="http://laluna.lt/favicon.ico" group-title="(.*);(.*);",Laluna
 http://radio.m-1.fm/laluna/mp3
-#EXTINF:-1 tvg-logo="http://www.lietus.fm/favicon.ico" group-title="world,folk,hits",Radio Lietus 103.7
+#EXTINF:-1 tvg-logo="http://www.lietus.fm/favicon.ico" group-title="(.*);(.*);",Radio Lietus 103.7
 http://radio.m-1.fm/lietus/mp3
-#EXTINF:-1 tvg-logo="https://www.lrt.lt//images/favicons/mstile-144x144.png?v=200" group-title="news,talk",LRT 1
+#EXTINF:-1 tvg-logo="https://www.lrt.lt//images/favicons/mstile-144x144.png?v=200" group-title="(.*);(.*);",LRT 1
 http://lrt-cast.lrt.lt:8000/lrt_radijas
-#EXTINF:-1 tvg-logo="https://www.lrt.lt//images/favicons/mstile-144x144.png?v=200" group-title="classical,culture",LRT Klasika
+#EXTINF:-1 tvg-logo="https://www.lrt.lt//images/favicons/mstile-144x144.png?v=200" group-title="(.*);(.*);",LRT Klasika
 http://lrt-cast.lrt.lt:8000/lrt_klasika
-#EXTINF:-1 tvg-logo="https://www.lrt.lt/images/logo/logo-opus.svg" group-title="dance,electronic",LRT Opus 92.6
+#EXTINF:-1 tvg-logo="https://www.lrt.lt/images/logo/logo-opus.svg" group-title="(.*);(.*);",LRT Opus 92.6
 http://lrt-cast.lrt.lt:8000/lrt_opus
-#EXTINF:-1 tvg-logo="http://www.m-1.fm/bitrix/templates/m1/images/500x500.jpg" group-title="top 40,hits",M-1
+#EXTINF:-1 tvg-logo="http://www.m-1.fm/bitrix/templates/m1/images/500x500.jpg" group-title="(.*);(.*);",M-1
 http://radio.m-1.fm/m1/mp3
-#EXTINF:-1 tvg-logo="http://www.m-1.fm/bitrix/templates/m1/images/500x500.jpg" group-title="top 40,hits",M-1
+#EXTINF:-1 tvg-logo="http://www.m-1.fm/bitrix/templates/m1/images/500x500.jpg" group-title="(.*);(.*);",M-1
 http://stream.m-1.fm/M-1aacp
-#EXTINF:-1 tvg-logo="http://www.pliusas.fm/wp-content/uploads/cropped-Pliuso_fav-192x192.jpg" group-title="pop,hits",M-1 Plius
+#EXTINF:-1 tvg-logo="http://www.pliusas.fm/wp-content/uploads/cropped-Pliuso_fav-192x192.jpg" group-title="(.*);(.*);",M-1 Plius
 http://radio.m-1.fm/m1plius/mp3
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/QVgLQQ08OtPZrrESg5bqQrBiedckB9B5E3gsYsmySQ1JGiJRN-9Oe7EnfBqnTO1Mzw" group-title="pop,folk",Mano 94.4
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/QVgLQQ08OtPZrrESg5bqQrBiedckB9B5E3gsYsmySQ1JGiJRN-9Oe7EnfBqnTO1Mzw" group-title="(.*);(.*);",Mano 94.4
 http://klausyk.manofm.lt:8000/Icecast2
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/QVgLQQ08OtPZrrESg5bqQrBiedckB9B5E3gsYsmySQ1JGiJRN-9Oe7EnfBqnTO1Mzw" group-title="pop,folk",Mano 94.4
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/QVgLQQ08OtPZrrESg5bqQrBiedckB9B5E3gsYsmySQ1JGiJRN-9Oe7EnfBqnTO1Mzw" group-title="(.*);(.*);",Mano 94.4
 http://stream.manofm.lt/listen?
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s132729/images/logog.png?t=153787" group-title="lounge,jazz,trip hop",Neringa 89.8
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s132729/images/logog.png?t=153787" group-title="(.*);(.*);",Neringa 89.8
 http://radio.15min.lt:8000/neringafm
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s132729/images/logog.png?t=153787" group-title="lounge,jazz,trip hop",Neringa 89.8
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s132729/images/logog.png?t=153787" group-title="(.*);(.*);",Neringa 89.8
 http://185.11.24.72:8000/neringafm
-#EXTINF:-1 tvg-logo="https://palanga.live/favicon.ico" group-title="community,eclectic",Palanga Street Radio
+#EXTINF:-1 tvg-logo="https://palanga.live/favicon.ico" group-title="(.*);(.*);",Palanga Street Radio
 https://stream.palanga.live:8443/palanga128.mp3
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s269782/images/logoq.jpg" group-title="world,variety",PMR.lt
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s269782/images/logoq.jpg" group-title="(.*);(.*);",PMR.lt
 http://82.135.234.195:8000/pmr.aac
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Power_Hit_Radio_%28Lithuania%29" group-title="electro,top 40,charts",Power Hit Radio
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Power_Hit_Radio_%28Lithuania%29" group-title="(.*);(.*);",Power Hit Radio
 https://ice2.powerhitradio.lt/PHR_AAC
-#EXTINF:-1 tvg-logo="http://www.pukas.lt/favicon.ico" group-title="pop,hits",Pukas
+#EXTINF:-1 tvg-logo="http://www.pukas.lt/favicon.ico" group-title="(.*);(.*);",Pukas
 http://82.135.234.195:8000/pukas.aac
-#EXTINF:-1 tvg-logo="http://www.pukas.lt/favicon.ico" group-title="pop,hits",Pukas
+#EXTINF:-1 tvg-logo="http://www.pukas.lt/favicon.ico" group-title="(.*);(.*);",Pukas
 http://82.135.234.195:8000/pukas.mp3
-#EXTINF:-1 tvg-logo="http://www.pukas.lt/favicon.ico" group-title="jazz,blues",Pukas 2
+#EXTINF:-1 tvg-logo="http://www.pukas.lt/favicon.ico" group-title="(.*);(.*);",Pukas 2
 http://82.135.234.195:8000/pukas2.aac
-#EXTINF:-1 tvg-logo="http://www.pukas.lt/favicon.ico" group-title="jazz,blues",Pukas 2
+#EXTINF:-1 tvg-logo="http://www.pukas.lt/favicon.ico" group-title="(.*);(.*);",Pukas 2
 http://82.135.234.195:8000/pukas2.mp3
-#EXTINF:-1 tvg-logo="https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2FCB3P1zf1SGK_I8_bKB1mGKVy8GGpNG3Y16-NBTj6Lqc%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSURnajRqRTRBc01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSURndDZMZnlBZ01vZ0VFZW1WdWJ3L2ltYWdlLz91cGRhdGVkPTE2NjE3NDg1MjYwMDA_dT01NzUyMjM3.webp&w=3840&q=100" group-title="rock,world",RA-8
+#EXTINF:-1 tvg-logo="https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2FCB3P1zf1SGK_I8_bKB1mGKVy8GGpNG3Y16-NBTj6Lqc%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSURnajRqRTRBc01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSURndDZMZnlBZ01vZ0VFZW1WdWJ3L2ltYWdlLz91cGRhdGVkPTE2NjE3NDg1MjYwMDA_dT01NzUyMjM3.webp&w=3840&q=100" group-title="(.*);(.*);",RA-8
 http://stream.zeno.fm/aae76827qtzuv?rj-ttl=5&rj-tok=AAABfdnrK8UACZzrwikrHdqCKg
-#EXTINF:-1 tvg-logo="https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2FhgUaXfoT6ez6aRd5frUNS7pBTU3SkmuB6IwdrFoyMU0%2Frs%3Afit%3A268%3A268%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSURnMzhhbGhBZ01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSURnXzYzbTlRa01vZ0VFZW1WdWJ3L2ltYWdlLz91cGRhdGVkPTE2NjE3NDUxODgwMDA.webp&w=640&q=75" group-title="dance,hits",Remix RA
+#EXTINF:-1 tvg-logo="https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2FhgUaXfoT6ez6aRd5frUNS7pBTU3SkmuB6IwdrFoyMU0%2Frs%3Afit%3A268%3A268%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSURnMzhhbGhBZ01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSURnXzYzbTlRa01vZ0VFZW1WdWJ3L2ltYWdlLz91cGRhdGVkPTE2NjE3NDUxODgwMDA.webp&w=640&q=75" group-title="(.*);(.*);",Remix RA
 http://stream.zeno.fm/46tdskm12tzuv?rj-ttl=5&rj-tok=AAABfd36lQAAqYV2budh7UPsLA
-#EXTINF:-1 tvg-logo="https://pcradio.ru/images/stations/61b09c4916b4c.jpg" group-title="alternative,rock,gothic",Rock Radio
+#EXTINF:-1 tvg-logo="https://pcradio.ru/images/stations/61b09c4916b4c.jpg" group-title="(.*);(.*);",Rock Radio
 https://cast2.my-control-panel.com/proxy/vladas/stream
-#EXTINF:-1 tvg-logo="https://images.streamitter.com/logos/47ZY3V.png" group-title="pop,russian",RUSRADIO LT
+#EXTINF:-1 tvg-logo="https://images.streamitter.com/logos/47ZY3V.png" group-title="(.*);(.*);",RUSRADIO LT
 http://stream1.rusradio.lt/rrb128.mp3
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s87594/images/logog.jpg?t=1" group-title="alternative,rock",Start 94.2
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s87594/images/logog.jpg?t=1" group-title="(.*);(.*);",Start 94.2
 http://eteris.startfm.lt/startfm.mp3
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s87594/images/logog.jpg?t=1" group-title="alternative,rock",Start 94.2
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s87594/images/logog.jpg?t=1" group-title="(.*);(.*);",Start 94.2
 http://eteris.startfm.lt/startfm.ogg
-#EXTINF:-1 tvg-logo="https://big-radio.net/uploads/posts/2022-09/radio-stotis-tau.webp" group-title="hits,top 40,pop",TAU 102.9
+#EXTINF:-1 tvg-logo="https://big-radio.net/uploads/posts/2022-09/radio-stotis-tau.webp" group-title="(.*);(.*);",TAU 102.9
 http://radijas.tau.lt:8000/stream
-#EXTINF:-1 tvg-logo="http://tauragesradijas.lt/images/120x120.png" group-title="dance,house,disco",Taurages Radijas 98.2
+#EXTINF:-1 tvg-logo="http://tauragesradijas.lt/images/120x120.png" group-title="(.*);(.*);",Taurages Radijas 98.2
 http://stream.tauragesradijas.lt:8000/tr1
-#EXTINF:-1 tvg-logo="http://www.vaikuradijas.lt/favicon.ico" group-title="children,speech,youth",Vaiku Radijas 94.9
+#EXTINF:-1 tvg-logo="http://www.vaikuradijas.lt/favicon.ico" group-title="(.*);(.*);",Vaiku Radijas 94.9
 http://88.119.151.74:8001/vaikuradijas
-#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/60/7a/127127/1/c300.png" group-title="dance,pop",Vizija Live
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/60/7a/127127/1/c300.png" group-title="(.*);(.*);",Vizija Live
 http://stream.zeno.fm/h9unubeaqtzuv?rj-ttl=5&rj-tok=AAABfd5Q5VMAuinCQIBel0a3mg
-#EXTINF:-1 tvg-logo="http://xfm.lt/wp-content/themes/xfm/images/logo.png" group-title="christian,religious",XFM Radijas
+#EXTINF:-1 tvg-logo="http://xfm.lt/wp-content/themes/xfm/images/logo.png" group-title="(.*);(.*);",XFM Radijas
 http://88.119.151.74:8001/xfm
-#EXTINF:-1 tvg-logo="https://big-radio.net/uploads/posts/2022-09/radijo-xxl-fm.webp" group-title="dance,pop,hits",Radijo XXL
+#EXTINF:-1 tvg-logo="https://big-radio.net/uploads/posts/2022-09/radijo-xxl-fm.webp" group-title="(.*);(.*);",Radijo XXL
 http://91.211.246.42:8000/XXL-FM
-#EXTINF:-1 tvg-logo="http://www.ziniuradijas.lt//favicon.ico" group-title="news,talk",Ziniu Radijas
+#EXTINF:-1 tvg-logo="http://www.ziniuradijas.lt//favicon.ico" group-title="(.*);(.*);",Ziniu Radijas
 http://netradio.ziniur.lt:8000/ziniur.mp3
-#EXTINF:-1 tvg-logo="http://www.ziniuradijas.lt//favicon.ico" group-title="news,talk",Ziniu Radijas
+#EXTINF:-1 tvg-logo="http://www.ziniuradijas.lt//favicon.ico" group-title="(.*);(.*);",Ziniu Radijas
 http://netradio.ziniur.lt/ziniur_64.mp3

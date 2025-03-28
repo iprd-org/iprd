@@ -162,7 +162,7 @@ def parse_m3u_file(file_path):
                 
             if line.startswith('#EXTINF:'):
                 # Parse the EXTINF line
-                match = re.search(r'tvg-logo="([^"]*)".*group-title="([^"]*)",(.*)', line)
+                match = re.search(r'tvg-logo="([^"]*)".*group-title="([^;"]*)",(.*)', line)
                 if match:
                     logo_url = match.group(1)
                     group_title = match.group(2)
@@ -359,7 +359,7 @@ def generate_unified_playlist(stations, output_file):
         for station in stations:
             genres = ','.join(station['genres'])
             f.write(f'#EXTINF:-1 tvg-logo="{station["logo"]}" '
-                   f'group-title="{genres}",{station["name"]}\n')
+                   f'group-title="(.*);(.*);"]}\n')
             f.write(f'{station["url"]}\n')
     
     logging.info(f"Generated unified playlist with {len(stations)} stations")
@@ -385,7 +385,7 @@ def generate_by_country_playlists(stations):
             for station in country_stations:
                 genres = ','.join(station['genres'])
                 f.write(f'#EXTINF:-1 tvg-logo="{station["logo"]}" '
-                       f'group-title="{genres}",{station["name"]}\n')
+                       f'group-title="(.*);(.*);"]}\n')
                 f.write(f'{station["url"]}\n')
         
         logging.info(f"Generated {country_code} playlist with {len(country_stations)} stations")

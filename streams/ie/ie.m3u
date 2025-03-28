@@ -1,161 +1,161 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.dublincityfm.ie/wp-content/media/2018/12/logo2.png" group-title="pop,news,talk",Dublin City 103.2
+#EXTINF:-1 tvg-logo="https://www.dublincityfm.ie/wp-content/media/2018/12/logo2.png" group-title="(.*);(.*);",Dublin City 103.2
 https://stream.btsstream.com:8012/dcfm
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1743252036840251392/LKHXoun8_400x400.jpg" group-title="alternative,rock,indie",8radio
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1743252036840251392/LKHXoun8_400x400.jpg" group-title="(.*);(.*);",8radio
 https://edge4.audioxi.com/8RADIO
-#EXTINF:-1 tvg-logo="https://www.ceol.fm/apple-touch-icon.png" group-title="folk,world,celtic",ceol.fm Energetic
+#EXTINF:-1 tvg-logo="https://www.ceol.fm/apple-touch-icon.png" group-title="(.*);(.*);",ceol.fm Energetic
 http://ceol.fm:8000/energetic.mp3
-#EXTINF:-1 tvg-logo="https://www.ceol.fm/apple-touch-icon.png" group-title="folk,celtic,instrumental",ceol.fm Fiddle
+#EXTINF:-1 tvg-logo="https://www.ceol.fm/apple-touch-icon.png" group-title="(.*);(.*);",ceol.fm Fiddle
 http://ceol.fm:8000/fiddle.mp3
-#EXTINF:-1 tvg-logo="https://www.ceol.fm/apple-touch-icon.png" group-title="folk,celtic,live",ceol.fm Live
+#EXTINF:-1 tvg-logo="https://www.ceol.fm/apple-touch-icon.png" group-title="(.*);(.*);",ceol.fm Live
 http://ceol.fm:8000/live.mp3
-#EXTINF:-1 tvg-logo="https://www.ceol.fm/apple-touch-icon.png" group-title="folk,celtic,world",ceol.fm Songs
+#EXTINF:-1 tvg-logo="https://www.ceol.fm/apple-touch-icon.png" group-title="(.*);(.*);",ceol.fm Songs
 http://ceol.fm:8000/songs.mp3
-#EXTINF:-1 tvg-logo="https://www.ceol.fm/apple-touch-icon.png" group-title="folk,celtic,relax",ceol.fm Soothing
+#EXTINF:-1 tvg-logo="https://www.ceol.fm/apple-touch-icon.png" group-title="(.*);(.*);",ceol.fm Soothing
 http://ceol.fm:8000/soothing.mp3
-#EXTINF:-1 tvg-logo="https://www.ceol.fm/apple-touch-icon.png" group-title="folk,celtic,relax",ceol.fm Soothing
+#EXTINF:-1 tvg-logo="https://www.ceol.fm/apple-touch-icon.png" group-title="(.*);(.*);",ceol.fm Soothing
 http://ceol.fm:8000/live?hash=1546858309100
-#EXTINF:-1 tvg-logo="https://christmasfm.com/wp-content/uploads/cropped-cfm-hat-512x512-1-180x180.png" group-title="carols,christmas,classical",Christmas FM Classical & Carols
+#EXTINF:-1 tvg-logo="https://christmasfm.com/wp-content/uploads/cropped-cfm-hat-512x512-1-180x180.png" group-title="(.*);(.*);",Christmas FM Classical & Carols
 https://christmasfm.cdnstream1.com/2549_64.aac
-#EXTINF:-1 tvg-logo="https://christmasfm.com/wp-content/uploads/cropped-cfm-hat-512x512-1-180x180.png" group-title="christmas,holiday",Christmas FM Ireland
+#EXTINF:-1 tvg-logo="https://christmasfm.com/wp-content/uploads/cropped-cfm-hat-512x512-1-180x180.png" group-title="(.*);(.*);",Christmas FM Ireland
 http://ice31.securenetsystems.net/XMASFM2?type=.mp3
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/419/classic-dance-hitz.e081cc0b.png" group-title="90s,dance,electronic",Classic Dance Hitz
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/419/classic-dance-hitz.e081cc0b.png" group-title="(.*);(.*);",Classic Dance Hitz
 http://streams.radio.co/s7a933605c/listen
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/da966a_f481c5b94e8c4747ad03b3a14a4c7d9d~mv2.jpg" group-title="deep,house",DeepHouse Radio Station
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/da966a_f481c5b94e8c4747ad03b3a14a4c7d9d~mv2.jpg" group-title="(.*);(.*);",DeepHouse Radio Station
 https://deephouseradio.radioca.st/;?1606103293673
-#EXTINF:-1 tvg-logo="http://listen.dublindigitalradio.com/static/defaultArtistImage.png" group-title="community,dj,non-profit",Dublin Digital Radio
+#EXTINF:-1 tvg-logo="http://listen.dublindigitalradio.com/static/defaultArtistImage.png" group-title="(.*);(.*);",Dublin Digital Radio
 http://dublindigitalradio.out.airtime.pro:8000/dublindigitalradio_a
-#EXTINF:-1 tvg-logo="https://dublinsouthfm.ie/wp-content/uploads/2021/10/DSFM_Favicon-removebg-preview-300x300.png" group-title="community,variety",Dublin South FM
+#EXTINF:-1 tvg-logo="https://dublinsouthfm.ie/wp-content/uploads/2021/10/DSFM_Favicon-removebg-preview-300x300.png" group-title="(.*);(.*);",Dublin South FM
 https://dublinsouthfm.radioca.st/live
-#EXTINF:-1 tvg-logo="https://www.98fm.com/favicon.ico?v=11" group-title="contemporary,hits,news",98FM
+#EXTINF:-1 tvg-logo="https://www.98fm.com/favicon.ico?v=11" group-title="(.*);(.*);",98FM
 https://stream.audioxi.com/98
-#EXTINF:-1 tvg-logo="https://mm.aiircdn.com/620/5d9f214ccc05f.png" group-title="pop,hits",FM104
+#EXTINF:-1 tvg-logo="https://mm.aiircdn.com/620/5d9f214ccc05f.png" group-title="(.*);(.*);",FM104
 https://wg.cdn.tibus.net/fm104MP3128
-#EXTINF:-1 tvg-logo="http://www.liveradio.ie/files/images/101415/resized/140x134c/dundalk_fm.jpg" group-title="community,variety",Dundalk FM
+#EXTINF:-1 tvg-logo="http://www.liveradio.ie/files/images/101415/resized/140x134c/dundalk_fm.jpg" group-title="(.*);(.*);",Dundalk FM
 http://80.249.249.245:8000/;?1485109331489
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/37/Eastcoastfm.png" group-title="hip hop,pop",East Coast FM
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/37/Eastcoastfm.png" group-title="(.*);(.*);",East Coast FM
 http://sirius.shoutca.st:8461/
-#EXTINF:-1 tvg-logo="https://galwaybayfm.ie/wp-content/uploads/2019/01/gbfm2web.png" group-title="pop,top 40,charts",Galway Bay 95.8 FM
+#EXTINF:-1 tvg-logo="https://galwaybayfm.ie/wp-content/uploads/2019/01/gbfm2web.png" group-title="(.*);(.*);",Galway Bay 95.8 FM
 https://wg.cdn.tibus.net/galwaybay.mp3
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/bshano/image/upload/c_scale,f_auto,w_146/v1622811170/webradio/stations/headwax-radio.webp" group-title="jazz,blues",Head Wax Radio
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/bshano/image/upload/c_scale,f_auto,w_146/v1622811170/webradio/stations/headwax-radio.webp" group-title="(.*);(.*);",Head Wax Radio
 https://headwaxradio.radioca.st/stream
-#EXTINF:-1 tvg-logo="http://www.liveradio.ie/files/images/110066/resized/140x134c/heartbeat_fm.jpg" group-title="easy listening,hits",Heartbeat FM
+#EXTINF:-1 tvg-logo="http://www.liveradio.ie/files/images/110066/resized/140x134c/heartbeat_fm.jpg" group-title="(.*);(.*);",Heartbeat FM
 http://cast5.magicstreams.gr:8010/stream
-#EXTINF:-1 tvg-logo="http://www.liveradio.ie/files/images/101245/resized/140x134c/highland_radio.jpg" group-title="pop,variety",Highland Radio
+#EXTINF:-1 tvg-logo="http://www.liveradio.ie/files/images/101245/resized/140x134c/highland_radio.jpg" group-title="(.*);(.*);",Highland Radio
 https://edge.audioxi.com/HIGHLAND
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/Iradiologo.png" group-title="pop,hits",I Radio
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/Iradiologo.png" group-title="(.*);(.*);",I Radio
 https://live-bauerie.sharp-stream.com/IRADNW
-#EXTINF:-1 tvg-logo="https://www.iradio.ie/wp-content/uploads/2017/11/iradio-i2.png" group-title="pop,hits",I Radio North West
+#EXTINF:-1 tvg-logo="https://www.iradio.ie/wp-content/uploads/2017/11/iradio-i2.png" group-title="(.*);(.*);",I Radio North West
 https://stream.audioxi.com/IRADNW
-#EXTINF:-1 tvg-logo="http://www.irishcountrymusicradio.com/main/linkicon.jpg" group-title="country,folk,celtic",Irish Country Music Radio
+#EXTINF:-1 tvg-logo="http://www.irishcountrymusicradio.com/main/linkicon.jpg" group-title="(.*);(.*);",Irish Country Music Radio
 http://46.28.49.164:7502/
-#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/45/72/9671/2/c300.png" group-title="ballads,celtic,folk",Irish Pub Radio
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/45/72/9671/2/c300.png" group-title="(.*);(.*);",Irish Pub Radio
 http://solid24.streamupsolutions.com:8026/stream
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1484924452920086539/iDiLUTso_400x400.jpg" group-title="jazz,blues",Jazz Radio Ireland
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1484924452920086539/iDiLUTso_400x400.jpg" group-title="(.*);(.*);",Jazz Radio Ireland
 https://streamer.radio.co/s87737b1d2/listen
-#EXTINF:-1 tvg-logo="http://www.liveradio.ie/files/images/101764/resized/140x134c/life_fm.jpg" group-title="christian,religious",Life FM
+#EXTINF:-1 tvg-logo="http://www.liveradio.ie/files/images/101764/resized/140x134c/life_fm.jpg" group-title="(.*);(.*);",Life FM
 http://79.170.198.170:8000/radio
-#EXTINF:-1 tvg-logo="http://www.liveradio.ie/files/images/112418/resized/140x134c/liffey_sound_fm.jpg" group-title="community,local",Liffey Sound FM
+#EXTINF:-1 tvg-logo="http://www.liveradio.ie/files/images/112418/resized/140x134c/liffey_sound_fm.jpg" group-title="(.*);(.*);",Liffey Sound FM
 http://stream.liffeysoundfm.ie:8000/listen.pls
-#EXTINF:-1 tvg-logo="https://mm.aiircdn.com/617/5d77b07fec8c4.png" group-title="adult,contemporary,news",Live 95
+#EXTINF:-1 tvg-logo="https://mm.aiircdn.com/617/5d77b07fec8c4.png" group-title="(.*);(.*);",Live 95
 https://wg.cdn.tibus.net/Live95fm
-#EXTINF:-1 tvg-logo="https://static.radio.net/images/broadcasts/0c/be/3968/1/c175.png" group-title="pop,folk,world",LiveIreland Channel 1
+#EXTINF:-1 tvg-logo="https://static.radio.net/images/broadcasts/0c/be/3968/1/c175.png" group-title="(.*);(.*);",LiveIreland Channel 1
 http://192.111.140.11:8058/stream
-#EXTINF:-1 tvg-logo="http://www.liveradio.ie/files/images/101457/resized/140x134c/midwest_radio.jpg" group-title="pop,country",Midwest Radio 96.1
+#EXTINF:-1 tvg-logo="http://www.liveradio.ie/files/images/101457/resized/140x134c/midwest_radio.jpg" group-title="(.*);(.*);",Midwest Radio 96.1
 http://edge-audio-01-gos2.sharp-stream.com/midwestfmie2.aac
-#EXTINF:-1 tvg-logo="http://www.liveradio.ie/files/images/101457/resized/140x134c/midwest_radio.jpg" group-title="pop,country",Midwest Radio 96.1
+#EXTINF:-1 tvg-logo="http://www.liveradio.ie/files/images/101457/resized/140x134c/midwest_radio.jpg" group-title="(.*);(.*);",Midwest Radio 96.1
 http://direct.sharp-stream.com/midwestfmie.mp3
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQflMUF7xZozrckFiZTVwFtjv_ESopGNmJ8Ww&s" group-title="progressive,trance",MixLive.ie InsomniaFM
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQflMUF7xZozrckFiZTVwFtjv_ESopGNmJ8Ww&s" group-title="(.*);(.*);",MixLive.ie InsomniaFM
 http://635.cloudrad.io:8092/;stream
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s158099g.png" group-title="psychill,psytrance",MixLive.ie Psybient Sunset
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s158099g.png" group-title="(.*);(.*);",MixLive.ie Psybient Sunset
 http://2.58.194.54:8876/;psybient-sunset
-#EXTINF:-1 tvg-logo="http://nearfm.ie/wp-content/uploads/2014/05/near-ico.png" group-title="news,talk",Near 90.3 FM
+#EXTINF:-1 tvg-logo="http://nearfm.ie/wp-content/uploads/2014/05/near-ico.png" group-title="(.*);(.*);",Near 90.3 FM
 http://stream11.shoutcastsolutions.com:8114/stream
-#EXTINF:-1 tvg-logo="http://non-stop90s.com/wp-content/uploads/2016/02/NonStopLogo.png" group-title="90s,dance,retro",Non-Stop 90's
+#EXTINF:-1 tvg-logo="http://non-stop90s.com/wp-content/uploads/2016/02/NonStopLogo.png" group-title="(.*);(.*);",Non-Stop 90's
 http://stream.btsstream.com:8040/nonstop90s.mp3
-#EXTINF:-1 tvg-logo="https://www.oceanfm.ie/wp-content/uploads/2017/11/oceanfm-logo.png" group-title="variety,hits",Ocean FM
+#EXTINF:-1 tvg-logo="https://www.oceanfm.ie/wp-content/uploads/2017/11/oceanfm-logo.png" group-title="(.*);(.*);",Ocean FM
 http://213.175.217.198:8000/sligo
-#EXTINF:-1 tvg-logo="https://www.phever.ie/wp-content/uploads/2019/11/Mix-Cover-Techno-150x150.png" group-title="dance,house,techno",Phever Dublin
+#EXTINF:-1 tvg-logo="https://www.phever.ie/wp-content/uploads/2019/11/Mix-Cover-Techno-150x150.png" group-title="(.*);(.*);",Phever Dublin
 http://uk1.internet-radio.com:8200/live
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1380136606749839365/h6Ao5C2l_400x400.jpg" group-title="dance,hip hop,house",Power 87
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1380136606749839365/h6Ao5C2l_400x400.jpg" group-title="(.*);(.*);",Power 87
 http://s2.radio.co/s7f4021d37/listen
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Dublins_Q102_Logo.png" group-title="adult,contemporary,world",Q102
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Dublins_Q102_Logo.png" group-title="(.*);(.*);",Q102
 https://wg.cdn.tibus.net/q102MP3128
-#EXTINF:-1 tvg-logo="https://www.radiokerry.ie/images/ico/apple-touch-icon.png" group-title="talk,news,variety",Radio Kerry
+#EXTINF:-1 tvg-logo="https://www.radiokerry.ie/images/ico/apple-touch-icon.png" group-title="(.*);(.*);",Radio Kerry
 http://edge.audioxi.com/KERRY
-#EXTINF:-1 tvg-logo="https://www.catholicireland.net/wp-content/uploads/2015/06/Radio-Maria-Ireland-253x300.jpg" group-title="catholic,christian",Radio Maria
+#EXTINF:-1 tvg-logo="https://www.catholicireland.net/wp-content/uploads/2015/06/Radio-Maria-Ireland-253x300.jpg" group-title="(.*);(.*);",Radio Maria
 http://dreamsiteradiocp2.com:8014/live
-#EXTINF:-1 tvg-logo="https://www.nova.ie/wp-content/themes/Newspaper-child/images/logo.png" group-title="80s,rock",Radio Nova
+#EXTINF:-1 tvg-logo="https://www.nova.ie/wp-content/themes/Newspaper-child/images/logo.png" group-title="(.*);(.*);",Radio Nova
 http://edge2.audioxi.com/NOVA
-#EXTINF:-1 tvg-logo="https://www.liveradio.ie/files/images/101092/resized/180x172c/radio_nova.jpg" group-title="80s,rock",Radio Nova
+#EXTINF:-1 tvg-logo="https://www.liveradio.ie/files/images/101092/resized/180x172c/radio_nova.jpg" group-title="(.*);(.*);",Radio Nova
 https://stream.audioxi.com/NOVA?aw_0_1st.playerid=liveradio.ie
-#EXTINF:-1 tvg-logo="https://siamsa.ie/wp-content/uploads/2019/09/logo3-150x150.png" group-title="celtic,folk",Radio Siamsa
+#EXTINF:-1 tvg-logo="https://siamsa.ie/wp-content/uploads/2019/09/logo3-150x150.png" group-title="(.*);(.*);",Radio Siamsa
 https://cast02.siamsa.ie/radio/8000/radio.mp3
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/61bFx9AoSRL.png" group-title="pop,hits",Radio Sligo
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/61bFx9AoSRL.png" group-title="(.*);(.*);",Radio Sligo
 https://streams.radio.co/sf9e0b00cb/listen
-#EXTINF:-1 tvg-logo="https://ie.radio.net/images/broadcasts/f9/dc/111165/1/c300.png" group-title="60s,70s,80s",Radio Zodiac Ireland
+#EXTINF:-1 tvg-logo="https://ie.radio.net/images/broadcasts/f9/dc/111165/1/c300.png" group-title="(.*);(.*);",Radio Zodiac Ireland
 http://listen.radioking.com/radio/124966/stream/164656
-#EXTINF:-1 tvg-logo="http://www.raidionalife.ie/favicon.ico" group-title="community,variety",Raidió na Life
+#EXTINF:-1 tvg-logo="http://www.raidionalife.ie/favicon.ico" group-title="(.*);(.*);",Raidió na Life
 http://beryl.streamguys.com:5010/live
-#EXTINF:-1 tvg-logo="http://www.rrr.ie/wp-content/themes/replay/framework/admin/images/favicon.ico" group-title="top 40,hits",Raidió Rí-Rá
+#EXTINF:-1 tvg-logo="http://www.rrr.ie/wp-content/themes/replay/framework/admin/images/favicon.ico" group-title="(.*);(.*);",Raidió Rí-Rá
 http://185.80.220.12:8166/stream
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcan-60kHyysVk19l8NnuegfI_mJTxBoCF8g&s" group-title="oldies,70s,80s",Rebel Radio 92.5
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcan-60kHyysVk19l8NnuegfI_mJTxBoCF8g&s" group-title="(.*);(.*);",Rebel Radio 92.5
 https://securestreams7.autopo.st/?uri=http://5.63.151.52:7206/stream
-#EXTINF:-1 tvg-logo="https://lirp-cdn.multiscreensite.com/af95f693/dms3rep/multi/opt/IMG_0239-284w.JPG" group-title="90s,club,dance",RetroNow
+#EXTINF:-1 tvg-logo="https://lirp-cdn.multiscreensite.com/af95f693/dms3rep/multi/opt/IMG_0239-284w.JPG" group-title="(.*);(.*);",RetroNow
 http://retronow.radioca.st/stream
-#EXTINF:-1 tvg-logo="http://www.liveradio.ie/files/images/114812/resized/140x134c/rte_2fm.jpg" group-title="contemporary,hits",RTÉ 2fm
+#EXTINF:-1 tvg-logo="http://www.liveradio.ie/files/images/114812/resized/140x134c/rte_2fm.jpg" group-title="(.*);(.*);",RTÉ 2fm
 http://icecast2.rte.ie/ie2fm
-#EXTINF:-1 tvg-logo="https://www.rte.ie/favicon.ico" group-title="contemporary,hits,pop",RTÉ 2fm
+#EXTINF:-1 tvg-logo="https://www.rte.ie/favicon.ico" group-title="(.*);(.*);",RTÉ 2fm
 https://www.rte.ie/manifests/2fm.m3u8
-#EXTINF:-1 tvg-logo="http://www.liveradio.ie/files/images/115626/resized/140x134c/rte_2xm.jpg" group-title="alternative,public",RTÉ 2XM
+#EXTINF:-1 tvg-logo="http://www.liveradio.ie/files/images/115626/resized/140x134c/rte_2xm.jpg" group-title="(.*);(.*);",RTÉ 2XM
 http://icecast1.rte.ie/2xm
-#EXTINF:-1 tvg-logo="https://www.rte.ie/favicon.ico" group-title="alternative,indie",RTÉ 2xm
+#EXTINF:-1 tvg-logo="https://www.rte.ie/favicon.ico" group-title="(.*);(.*);",RTÉ 2xm
 https://www.rte.ie/manifests/2xm.m3u8
-#EXTINF:-1 tvg-logo="https://www.liveradio.ie/files/images/115762/resized/140x134c/rte_gold.jpg" group-title="nostalgia,oldies",RTÉ Gold
+#EXTINF:-1 tvg-logo="https://www.liveradio.ie/files/images/115762/resized/140x134c/rte_gold.jpg" group-title="(.*);(.*);",RTÉ Gold
 http://icecast1.rte.ie/gold
-#EXTINF:-1 tvg-logo="https://www.rte.ie/favicon.ico" group-title="adult,contemporary,hits",RTÉ Gold
+#EXTINF:-1 tvg-logo="https://www.rte.ie/favicon.ico" group-title="(.*);(.*);",RTÉ Gold
 https://www.rte.ie/manifests/gold.m3u8
-#EXTINF:-1 tvg-logo="http://www.liveradio.ie/files/images/115764/resized/140x134c/rtejr.jpg" group-title="children,relax",RTÉ Junior / RTÉ Chill
+#EXTINF:-1 tvg-logo="http://www.liveradio.ie/files/images/115764/resized/140x134c/rtejr.jpg" group-title="(.*);(.*);",RTÉ Junior / RTÉ Chill
 http://icecast2.rte.ie/junior
-#EXTINF:-1 tvg-logo="http://www.liveradio.ie/files/images/101096/resized/140x134c/rte_lyric_fm.png" group-title="classical,baroque",RTÉ Lyric FM
+#EXTINF:-1 tvg-logo="http://www.liveradio.ie/files/images/101096/resized/140x134c/rte_lyric_fm.png" group-title="(.*);(.*);",RTÉ Lyric FM
 http://icecast.rte.ie/lyric
-#EXTINF:-1 tvg-logo="https://www.rte.ie/favicon.ico" group-title="baroque,classical",RTÉ Lyric FM
+#EXTINF:-1 tvg-logo="https://www.rte.ie/favicon.ico" group-title="(.*);(.*);",RTÉ Lyric FM
 https://www.rte.ie/manifests/lyric.m3u8
-#EXTINF:-1 tvg-logo="https://irishradiolive.com/public/uploads/radio_img/rte-pulse/fb_cover.jpg" group-title="dance,edm,electronic",RTÉ Pulse
+#EXTINF:-1 tvg-logo="https://irishradiolive.com/public/uploads/radio_img/rte-pulse/fb_cover.jpg" group-title="(.*);(.*);",RTÉ Pulse
 http://icecast2.rte.ie/pulse
-#EXTINF:-1 tvg-logo="http://www.liveradio.ie/files/images/117585/resized/140x134c/rte_radio_1.jpg" group-title="news,talk",RTÉ Radio 1
+#EXTINF:-1 tvg-logo="http://www.liveradio.ie/files/images/117585/resized/140x134c/rte_radio_1.jpg" group-title="(.*);(.*);",RTÉ Radio 1
 http://icecast1.rte.ie/radio1
-#EXTINF:-1 tvg-logo="https://www.rte.ie/favicon.ico" group-title="news,sport,talk",RTÉ Radio 1
+#EXTINF:-1 tvg-logo="https://www.rte.ie/favicon.ico" group-title="(.*);(.*);",RTÉ Radio 1
 https://www.rte.ie/manifests/radio1.m3u8
-#EXTINF:-1 tvg-logo="https://www.rte.ie/favicon.ico" group-title="news,talk",RTÉ Radio 1 Extra
+#EXTINF:-1 tvg-logo="https://www.rte.ie/favicon.ico" group-title="(.*);(.*);",RTÉ Radio 1 Extra
 https://www.rte.ie/manifests/radio1extra.m3u8
-#EXTINF:-1 tvg-logo="http://www.liveradio.ie/files/images/115731/resized/140x134c/rte_radio_1_extra.jpg" group-title="talk,news",RTÉ Radio 1 Extra
+#EXTINF:-1 tvg-logo="http://www.liveradio.ie/files/images/115731/resized/140x134c/rte_radio_1_extra.jpg" group-title="(.*);(.*);",RTÉ Radio 1 Extra
 http://icecast2.rte.ie/radio1extra
-#EXTINF:-1 tvg-logo="http://www.liveradio.ie/files/images/115732/resized/140x134c/rte_raidio_na_gaeltachta.jpg" group-title="folk,celtic,world",RTÉ Raidió na Gaeltachta
+#EXTINF:-1 tvg-logo="http://www.liveradio.ie/files/images/115732/resized/140x134c/rte_raidio_na_gaeltachta.jpg" group-title="(.*);(.*);",RTÉ Raidió na Gaeltachta
 http://icecast2.rte.ie/rnag
-#EXTINF:-1 tvg-logo="https://www.rte.ie/favicon.ico" group-title="folk,celtic,world",RTÉ Raidió na Gaeltachta
+#EXTINF:-1 tvg-logo="https://www.rte.ie/favicon.ico" group-title="(.*);(.*);",RTÉ Raidió na Gaeltachta
 https://www.rte.ie/manifests/rnag.m3u8
-#EXTINF:-1 tvg-logo="https://www.rte.ie/favicon.ico" group-title="ambient,youth,chillout",RTÉ Junior / RTÉ Chill
+#EXTINF:-1 tvg-logo="https://www.rte.ie/favicon.ico" group-title="(.*);(.*);",RTÉ Junior / RTÉ Chill
 https://www.rte.ie/manifests/junior.m3u8
-#EXTINF:-1 tvg-logo="https://www.shannonside.ie/images/ico/apple-touch-icon.png" group-title="news,talk",Shannonside
+#EXTINF:-1 tvg-logo="https://www.shannonside.ie/images/ico/apple-touch-icon.png" group-title="(.*);(.*);",Shannonside
 http://edge.audioxi.com/SHANNONSIDE
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Spin_400x400.png" group-title="pop,hits",SPIN 1038 103.8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Spin_400x400.png" group-title="(.*);(.*);",SPIN 1038 103.8
 https://edge.audioxi.com/SP
-#EXTINF:-1 tvg-logo="https://www.spinsouthwest.com/i/android-icon-192x192.png?v=6" group-title="youth,hits",SPIN South West 94.7
+#EXTINF:-1 tvg-logo="https://www.spinsouthwest.com/i/android-icon-192x192.png?v=6" group-title="(.*);(.*);",SPIN South West 94.7
 https://stream.audioxi.com/SW
-#EXTINF:-1 tvg-logo="http://www.hospitalradio.ie/images/logo.png" group-title="top 40,pop,variety",St. Ita's Hospital Radio 89.5
+#EXTINF:-1 tvg-logo="http://www.hospitalradio.ie/images/logo.png" group-title="(.*);(.*);",St. Ita's Hospital Radio 89.5
 http://uk2.streamingpulse.com:8042/stream
-#EXTINF:-1 tvg-logo="https://stormnortheast.com/wp-content/uploads/2013/04/stormicon-2-150x150.png" group-title="dance,electronic,house",Storm North East
+#EXTINF:-1 tvg-logo="https://stormnortheast.com/wp-content/uploads/2013/04/stormicon-2-150x150.png" group-title="(.*);(.*);",Storm North East
 http://80.249.249.243:8050/listen.pls
-#EXTINF:-1 tvg-logo="http://www.liveradio.ie/files/images/109615/resized/140x134c/sunshine.jpg" group-title="easy listening,hits",Sunshine 106.8
+#EXTINF:-1 tvg-logo="http://www.liveradio.ie/files/images/109615/resized/140x134c/sunshine.jpg" group-title="(.*);(.*);",Sunshine 106.8
 http://sirius.shoutca.st:8291/;stream.mp3
-#EXTINF:-1 tvg-logo="https://www.todayfm.com/i/apple-touch-icon.png?v=6" group-title="alternative,pop,rock",Today FM
+#EXTINF:-1 tvg-logo="https://www.todayfm.com/i/apple-touch-icon.png?v=6" group-title="(.*);(.*);",Today FM
 https://stream.audioxi.com/TD
-#EXTINF:-1 tvg-logo="https://www.todayfm.com/i/apple-touch-icon.png?v=6" group-title="alternative,pop,rock",Today FM
+#EXTINF:-1 tvg-logo="https://www.todayfm.com/i/apple-touch-icon.png?v=6" group-title="(.*);(.*);",Today FM
 https://pri.gocaster.net/td
-#EXTINF:-1 tvg-logo="https://www.todayfm.com/i/android-icon-192x192.png?v=6" group-title="alternative,pop,rock",Today FM
+#EXTINF:-1 tvg-logo="https://www.todayfm.com/i/android-icon-192x192.png?v=6" group-title="(.*);(.*);",Today FM
 https://edge.audioxi.com/TDAAC
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DDswHJP.jpg" group-title="talk,christian",UCBI Worship
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DDswHJP.jpg" group-title="(.*);(.*);",UCBI Worship
 https://ucbiworship.radioca.st/stream
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/f5bab3e87742efe1e8c84b863e6cac36.wix_mp/v1/fill/w_32%2Ch_32%2Clg_1%2Cusm_0.66_1.00_0.01/f5bab3e87742efe1e8c84b863e6cac36.wix_mp" group-title="rock,progressive",Zenith Classic Rock
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/f5bab3e87742efe1e8c84b863e6cac36.wix_mp/v1/fill/w_32%2Ch_32%2Clg_1%2Cusm_0.66_1.00_0.01/f5bab3e87742efe1e8c84b863e6cac36.wix_mp" group-title="(.*);(.*);",Zenith Classic Rock
 http://91.189.64.188:3644/zenith128mp3

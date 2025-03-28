@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://montenegro.mom-gmr.org/uploads/tx_lfrogmom/company/660-1898_company_import.jpg" group-title="news,talk",Antena M
+#EXTINF:-1 tvg-logo="https://montenegro.mom-gmr.org/uploads/tx_lfrogmom/company/660-1898_company_import.jpg" group-title="news;talk",Antena M
 http://radioservis.me:8010/antenamlive
-#EXTINF:-1 tvg-logo="https://www.liveradio.ie/files/images/106925/resized/180x172c/rcgg.png" group-title="pop,talk",Radio Crne Gore
+#EXTINF:-1 tvg-logo="https://www.liveradio.ie/files/images/106925/resized/180x172c/rcgg.png" group-title="pop;talk",Radio Crne Gore
 https://rtcg.ipradio.rs:9008/;
-#EXTINF:-1 tvg-logo="https://www.radio-addict.com/media/stream/ebb4af02-281a-4720-8a8c-19775b0dae93_D5052A5BACB84569322DEDFE355735CC_radioGradjaninLogoFB.png" group-title="talk,speech",Radio Gradanin
+#EXTINF:-1 tvg-logo="https://www.radio-addict.com/media/stream/ebb4af02-281a-4720-8a8c-19775b0dae93_D5052A5BACB84569322DEDFE355735CC_radioGradjaninLogoFB.png" group-title="talk;speech",Radio Gradanin
 http://45.79.145.88:8000/stream.ogg
-#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/e6/8d/105733/1/c300.png" group-title="pop,news",Radio Herceg Novi 90.0 & 102.7
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/e6/8d/105733/1/c300.png" group-title="pop;news",Radio Herceg Novi 90.0 & 102.7
 http://s2.voscast.com:10354/;stream1490674747632/1
-#EXTINF:-1 tvg-logo="https://svetigora.com/wp-content/uploads/2017/08/cropped-svetigora_logo-3-150x150.png" group-title="orthodox,religion",Radio Svetigora
+#EXTINF:-1 tvg-logo="https://svetigora.com/wp-content/uploads/2017/08/cropped-svetigora_logo-3-150x150.png" group-title="orthodox;religion",Radio Svetigora
 http://svetigoralive.com:8879/listen.pls
-#EXTINF:-1 tvg-logo="https://radioskadar.com/favicon.ico" group-title="world,alternative",Radio Skadar 107.9
+#EXTINF:-1 tvg-logo="https://radioskadar.com/favicon.ico" group-title="world;alternative",Radio Skadar 107.9
 http://radioservis.me:8050/radioskadar

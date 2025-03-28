@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhAvHQ00jtS41RTYa82TXkDPFOVqysvLJfDA&s" group-title="public,news,talk",Radio Mauritanie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhAvHQ00jtS41RTYa82TXkDPFOVqysvLJfDA&s" group-title="(.*);(.*);",Radio Mauritanie
 https://ec6.yesstreaming.net:2760/stream

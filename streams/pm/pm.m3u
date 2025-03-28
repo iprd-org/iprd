@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.allzicradio.com/media/radios/radio-archipel-fm.jpg" group-title="dance,rock,pop",Radio Archipel 103.3
+#EXTINF:-1 tvg-logo="https://www.allzicradio.com/media/radios/radio-archipel-fm.jpg" group-title="(.*);(.*);",Radio Archipel 103.3
 http://radioarchipelfm.ice.infomaniak.ch/radioarchipelfm-64.mp3?token=a73d3f78786d4e7faba5a9e35eaed5bb%2Fe5c8c5d1?retry=0
-#EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fonlineradiobox.com%2Fpm%2Fatlantique%2F&psig=AOvVaw0EU8MdlFbER_3fITDXwCxT&ust=1637792797500000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCLiaz-HDr_QCFQAAAAAdAAAAABAE" group-title="rock,pop,news",Radio Atlantique 102.1
+#EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fonlineradiobox.com%2Fpm%2Fatlantique%2F&psig=AOvVaw0EU8MdlFbER_3fITDXwCxT&ust=1637792797500000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCLiaz-HDr_QCFQAAAAAdAAAAABAE" group-title="(.*);(.*);",Radio Atlantique 102.1
 https://s7.voscast.com:10433/stream.mp3
-#EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=http%3A%2F%2Ffr-fr.radioline.co%2Fecouter-rfo-radio-saint-pierre-et-miquelon&psig=AOvVaw1XKDAabRkc01Z7sN8DoKjk&ust=1637792164850000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCKCbmrTBr_QCFQAAAAAdAAAAABAE" group-title="public,news,talk",La 1ere Saint Pierre et Miquelon
+#EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=http%3A%2F%2Ffr-fr.radioline.co%2Fecouter-rfo-radio-saint-pierre-et-miquelon&psig=AOvVaw1XKDAabRkc01Z7sN8DoKjk&ust=1637792164850000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCKCbmrTBr_QCFQAAAAAdAAAAABAE" group-title="(.*);(.*);",La 1ere Saint Pierre et Miquelon
 https://saint-pierreetmiquelon.ice.infomaniak.ch/saint-pierreetmiquelon-128.mp3

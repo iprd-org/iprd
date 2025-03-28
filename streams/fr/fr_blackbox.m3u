@@ -1,19 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Black_Box_Bordeaux.png" group-title="hip hop,r'n'b",Blackbox
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Black_Box_Bordeaux.png" group-title="(.*);(.*);",Blackbox
 http://start-blackbox.ice.infomaniak.ch/start-blackbox-high.mp3
-#EXTINF:-1 tvg-logo="http://ecouter.lesindesradios.fr/logos/orange305.png" group-title="pop,ambient,hits",Blackbox @Work
+#EXTINF:-1 tvg-logo="http://ecouter.lesindesradios.fr/logos/orange305.png" group-title="(.*);(.*);",Blackbox @Work
 http://blackboxwork.ice.infomaniak.ch/blackboxwork-128.mp3
-#EXTINF:-1 tvg-logo="https://api.my-radios.com/images/thumb.php?countryCode=FR&name=28645-6758989.png&size=200" group-title="rap,hip hop",Blackbox 9.3
+#EXTINF:-1 tvg-logo="https://api.my-radios.com/images/thumb.php?countryCode=FR&name=28645-6758989.png&size=200" group-title="(.*);(.*);",Blackbox 9.3
 https://blackbox-93.ice.infomaniak.ch/blackbox-93.mp3
-#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio176943_1616020679.jpg" group-title="urban,hip hop",Blackbox Classic FR
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio176943_1616020679.jpg" group-title="(.*);(.*);",Blackbox Classic FR
 https://blackbox-classic-fr.ice.infomaniak.ch/blackbox-classic-fr.mp3
-#EXTINF:-1 tvg-logo="https://api.my-radios.com/images/thumb.php?countryCode=FR&name=28648-9209191.png&size=200" group-title="hip hop,pop",Blackbox Classic US
+#EXTINF:-1 tvg-logo="https://api.my-radios.com/images/thumb.php?countryCode=FR&name=28648-9209191.png&size=200" group-title="(.*);(.*);",Blackbox Classic US
 https://blackbox-classic-us.ice.infomaniak.ch/blackbox-classic-us.mp3
-#EXTINF:-1 tvg-logo="https://api.my-radios.com/images/thumb.php?countryCode=FR&name=28650-1216766.png&size=200" group-title="hip hop,r'n'b",Blackbox FR
+#EXTINF:-1 tvg-logo="https://api.my-radios.com/images/thumb.php?countryCode=FR&name=28650-1216766.png&size=200" group-title="(.*);(.*);",Blackbox FR
 https://blackbox-fr.ice.infomaniak.ch/blackbox-fr.mp3
-#EXTINF:-1 tvg-logo="http://ecouter.lesindesradios.fr/logos/orange310.png" group-title="musique du monde,latino",Blackbox Latina
+#EXTINF:-1 tvg-logo="http://ecouter.lesindesradios.fr/logos/orange310.png" group-title="(.*);(.*);",Blackbox Latina
 http://blackboxlatina.ice.infomaniak.ch/blackboxlatina-128.mp3
-#EXTINF:-1 tvg-logo="https://api.my-radios.com/images/thumb.php?countryCode=FR&name=28644-4219740.png&size=200" group-title="rap,hip hop",Blackbox Marseille
+#EXTINF:-1 tvg-logo="https://api.my-radios.com/images/thumb.php?countryCode=FR&name=28644-4219740.png&size=200" group-title="(.*);(.*);",Blackbox Marseille
 https://blackbox-marseille.ice.infomaniak.ch/blackbox-marseille.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/66/bb/38898/3/c300.png" group-title="urban,rap",Blackbox US
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/66/bb/38898/3/c300.png" group-title="(.*);(.*);",Blackbox US
 https://blackbox-us.ice.infomaniak.ch/blackbox-us.mp3

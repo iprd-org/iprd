@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.radio.net/300/radioliechtenstein.png?version=cd9ffcf2eb6446abae8b6b2000b5a304" group-title="world,pop",Radio Liechtenstein
+#EXTINF:-1 tvg-logo="https://www.radio.net/300/radioliechtenstein.png?version=cd9ffcf2eb6446abae8b6b2000b5a304" group-title="(.*);(.*);",Radio Liechtenstein
 https://radioliechtenstein.ice.infomaniak.ch/radioliechtenstein-192.mp3

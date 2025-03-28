@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://belradio.fr/wp-content/uploads/cropped-belradio-logo-copie-180x180.png" group-title="70s,80s,zouk",Bel Radio Guadeloupe
+#EXTINF:-1 tvg-logo="https://belradio.fr/wp-content/uploads/cropped-belradio-logo-copie-180x180.png" group-title="(.*);(.*);",Bel Radio Guadeloupe
 https://n23a-eu.rcs.revma.com/a7qacprtpwzuv?rj-ttl=5&rj-tok=AAABfd43ppcAILj59ckF7HfSdA
-#EXTINF:-1 tvg-logo="http://files.gandi.ws/gandi40075/image/cheriefm_poplovemusic_logo_fondblanc.jpg" group-title="outre-mer,DOM-TOM",Chérie FM Guadeloupe
+#EXTINF:-1 tvg-logo="http://files.gandi.ws/gandi40075/image/cheriefm_poplovemusic_logo_fondblanc.jpg" group-title="(.*);(.*);",Chérie FM Guadeloupe
 http://2stream.dyndns.org:8000/cheriefmgp
-#EXTINF:-1 tvg-logo="https://la1ere.francetvinfo.fr/guadeloupe/sites/regions_outremer/themes/outremer/images/logo_200x200.jpg" group-title="dom-tom,zouk,tropicale",Guadeloupe 1ère
+#EXTINF:-1 tvg-logo="https://la1ere.francetvinfo.fr/guadeloupe/sites/regions_outremer/themes/outremer/images/logo_200x200.jpg" group-title="(.*);(.*);",Guadeloupe 1ère
 https://guadeloupe.ice.infomaniak.ch/guadeloupe-128.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.fr/300/nrjfrance.png?version=2edb3a7d2566378b3f8cef59a838b457" group-title="dom-tom,hits,pop",NRJ Antilles
+#EXTINF:-1 tvg-logo="https://www.radio.fr/300/nrjfrance.png?version=2edb3a7d2566378b3f8cef59a838b457" group-title="(.*);(.*);",NRJ Antilles
 https://scdn.nrjaudio.fm/audio1/fr_an/55248/mp3_128.mp3
-#EXTINF:-1 tvg-logo="https://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj_fr_an/logos/173x173/P_NRJ_ANTILLES_01_Gpe.png" group-title="zouk,dom-tom",NRJ Guadeloupe
+#EXTINF:-1 tvg-logo="https://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj_fr_an/logos/173x173/P_NRJ_ANTILLES_01_Gpe.png" group-title="(.*);(.*);",NRJ Guadeloupe
 https://scdn.nrjaudio.fm/audio1/fr_an/55248/mp3_128.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.fr/300/rcigp.png?version=6a49fbe38928ce43d1a6fcc285175de9" group-title="zouk,tropicale,creole",RCI Guadeloupe
+#EXTINF:-1 tvg-logo="https://www.radio.fr/300/rcigp.png?version=6a49fbe38928ce43d1a6fcc285175de9" group-title="(.*);(.*);",RCI Guadeloupe
 https://stream.rcs.revma.com/v4hf7bwspwzuv
-#EXTINF:-1 tvg-logo="https://www.radio.net/300/tracefmgua.png?version=20e94cab20f40074a20b86a0af8e3da5" group-title="dom-tom,hip hop,reggae",Trace FM Guadeloupe
+#EXTINF:-1 tvg-logo="https://www.radio.net/300/tracefmgua.png?version=20e94cab20f40074a20b86a0af8e3da5" group-title="(.*);(.*);",Trace FM Guadeloupe
 https://n06.rcs.revma.com/nv1hu7644k0uv?rj-ttl=5&rj-tok=AAABlN125UAAP4-5Etn-Jofm_g

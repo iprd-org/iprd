@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX5EjNCEn_Zvu55wz1li8PXwoT9aBPA6G8xw&s" group-title="variety,news",Basma Radio
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX5EjNCEn_Zvu55wz1li8PXwoT9aBPA6G8xw&s" group-title="(.*);(.*);",Basma Radio
 https://mars.streamerr.co/8342/stream
-#EXTINF:-1 tvg-logo="http://www.palestinetradetower.com/favicon.ico" group-title="news,adult,contemporary",Burj 104.2
+#EXTINF:-1 tvg-logo="http://www.palestinetradetower.com/favicon.ico" group-title="(.*);(.*);",Burj 104.2
 http://82.213.26.67:8000/stream
-#EXTINF:-1 tvg-logo="http://www.quran-radio.com/favicon.ico" group-title="arabic,islamic,religious",Quran Radio 96.9
+#EXTINF:-1 tvg-logo="http://www.quran-radio.com/favicon.ico" group-title="(.*);(.*);",Quran Radio 96.9
 http://www.quran-radio.org:8002/
-#EXTINF:-1 tvg-logo="https://yamakan.place/palestine/img/radio-alhara-logo.png" group-title="community,political",Radio Alhara
+#EXTINF:-1 tvg-logo="https://yamakan.place/palestine/img/radio-alhara-logo.png" group-title="(.*);(.*);",Radio Alhara
 http://n08.radiojar.com/78cxy6wkxtzuv?1634328730=&rj-ttl=5&rj-tok=AAABfdp8-IEABnGvlbcF5ar3-Q
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXsfoX9cBOtVidSsGoh1MOwEMiCwEQYVIh2g&s" group-title="arabic,news,talk",Voice of Palestine
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXsfoX9cBOtVidSsGoh1MOwEMiCwEQYVIh2g&s" group-title="(.*);(.*);",Voice of Palestine
 https://pbc.furrera.ps/voiceofpalestine/tracks-a1/mono.m3u8

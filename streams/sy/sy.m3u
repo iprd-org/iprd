@@ -1,37 +1,37 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZjQB7YZ.png" group-title="folk,world,turkish",Radio El Karma 104.4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZjQB7YZ.png" group-title="(.*);(.*);",Radio El Karma 104.4
 http://82.137.248.16:1935/RKarma/RKarmaLive/playlist.m3u8?DVR
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5SOqGT9.png" group-title="arabic,talk,news",Amwaj 98.2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5SOqGT9.png" group-title="(.*);(.*);",Amwaj 98.2
 http://82.137.248.16:1935/RAmwaj/RAmwajLive/playlist.m3u8?DVR
-#EXTINF:-1 tvg-logo="http://www.arabesquefm.com/SG/logo1.jpeg" group-title="world,talk",Arabesque 102.3
+#EXTINF:-1 tvg-logo="http://www.arabesquefm.com/SG/logo1.jpeg" group-title="(.*);(.*);",Arabesque 102.3
 http://185.4.87.79:8000/stream.mp3
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/bd5976_bc8a02700ff544b59b2c3b1b02f98d2d~mv2.png/v1/fill/w_206,h_183,fp_0.50_0.50,q_95,enc_auto/bd5976_bc8a02700ff544b59b2c3b1b02f98d2d~mv2.webp" group-title="community,variety",Arta Radio
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/bd5976_bc8a02700ff544b59b2c3b1b02f98d2d~mv2.png/v1/fill/w_206,h_183,fp_0.50_0.50,q_95,enc_auto/bd5976_bc8a02700ff544b59b2c3b1b02f98d2d~mv2.webp" group-title="(.*);(.*);",Arta Radio
 http://edge.mixlr.com/channel/qtgru
-#EXTINF:-1 tvg-logo="https://www.asima-online.net/wp-content/uploads/2020/06/logo-asima.png" group-title="dance,pop,news",Asima-Online 99.8
+#EXTINF:-1 tvg-logo="https://www.asima-online.net/wp-content/uploads/2020/06/logo-asima.png" group-title="(.*);(.*);",Asima-Online 99.8
 https://asima.out.airtime.pro/asima_a
-#EXTINF:-1 tvg-logo="https://www.asima-online.net/wp-content/uploads/2015/08/logoIcon2-1-compressed.jpg" group-title="dance,pop,news",Asima-Online 99.8
+#EXTINF:-1 tvg-logo="https://www.asima-online.net/wp-content/uploads/2015/08/logoIcon2-1-compressed.jpg" group-title="(.*);(.*);",Asima-Online 99.8
 http://asima.out.airtime.pro:8000/asima_a
-#EXTINF:-1 tvg-logo="https://bissanfm.com/wp-content/uploads/2019/10/bissan.png" group-title="news,talk,variety",Bissan 99.9
+#EXTINF:-1 tvg-logo="https://bissanfm.com/wp-content/uploads/2019/10/bissan.png" group-title="(.*);(.*);",Bissan 99.9
 https://eu10.fastcast4u.com/bissanraqqa2021
-#EXTINF:-1 tvg-logo="https://nasaem.fm/wp-content/uploads/2019/12/cropped-Logo22-1-192x192.png" group-title="news,talk",Nasaem Syria Radio
+#EXTINF:-1 tvg-logo="https://nasaem.fm/wp-content/uploads/2019/12/cropped-Logo22-1-192x192.png" group-title="(.*);(.*);",Nasaem Syria Radio
 http://stream.zeno.fm/2qds7p2nerruv?rj-ttl=5&rj-tok=AAABfd0P5jEAmfO0CcBv-cDBtw
-#EXTINF:-1 tvg-logo="http://cdn.onlineradiobox.com/img/logo/0/74160.png" group-title="variety,talk",Ninar Radio 93.8
+#EXTINF:-1 tvg-logo="http://cdn.onlineradiobox.com/img/logo/0/74160.png" group-title="(.*);(.*);",Ninar Radio 93.8
 http://ninarfm.grtvstream.com:8896/listen.pls
-#EXTINF:-1 tvg-logo="http://www.nojoom.fm/background.PNG" group-title="variety,talk",Nojoom 103.9
+#EXTINF:-1 tvg-logo="http://www.nojoom.fm/background.PNG" group-title="(.*);(.*);",Nojoom 103.9
 http://185.105.4.53:4423/;stream.mp3
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tgRLuRG.png" group-title="news,talk",Orient Radio 94.6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tgRLuRG.png" group-title="(.*);(.*);",Orient Radio 94.6
 https://svs.itworkscdn.net/orientradiolive/orlive/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://thenonstopradio.com/images/radio/102261236.jpeg" group-title="talk,variety",Radio Sham 
+#EXTINF:-1 tvg-logo="https://thenonstopradio.com/images/radio/102261236.jpeg" group-title="(.*);(.*);",Radio Sham 
 http://radioliveb.rtv.gov.sy:8002/RadioCham
-#EXTINF:-1 tvg-logo="http://www.radiofann.com/sites/all/themes/fann/logo.png" group-title="world,variety",Fann 89.0
+#EXTINF:-1 tvg-logo="http://www.radiofann.com/sites/all/themes/fann/logo.png" group-title="(.*);(.*);",Fann 89.0
 http://188.247.86.66/RadioFann/Audio128/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.rozana.fm/assets/website/logos/logo-white-0d8ef6802d894fd0cf65a55d7ecee2f4d368ab6f2896e78c3221b026f7c96fd5.png" group-title="community,news,talk",Rozana
+#EXTINF:-1 tvg-logo="https://www.rozana.fm/assets/website/logos/logo-white-0d8ef6802d894fd0cf65a55d7ecee2f4d368ab6f2896e78c3221b026f7c96fd5.png" group-title="(.*);(.*);",Rozana
 http://stream.zeno.fm/n4d3nq4258quv?rj-ttl=5&rj-tok=AAABfd5s38sA1tDIQlnhhbynsA
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eR8QSEt.png" group-title="sports,culture,variety",Radio Souryana 88.3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eR8QSEt.png" group-title="(.*);(.*);",Radio Souryana 88.3
 http://radioliveb.rtv.gov.sy:8008/RadioSouryana
-#EXTINF:-1 tvg-logo="https://melodysyria.com/wp-content/uploads/2018/02/cropped-logo-2222-180x180.png" group-title="dance,r'n'b,pop",Melody 97.9
+#EXTINF:-1 tvg-logo="https://melodysyria.com/wp-content/uploads/2018/02/cropped-logo-2222-180x180.png" group-title="(.*);(.*);",Melody 97.9
 http://streaming.inet.sy:8000/melodyfm
-#EXTINF:-1 tvg-logo="https://watan.fm/wp-content/uploads/2018/06/logo.png" group-title="world,news,talk",Watan FM 
+#EXTINF:-1 tvg-logo="https://watan.fm/wp-content/uploads/2018/06/logo.png" group-title="(.*);(.*);",Watan FM 
 http://192.99.170.8:5470/;/;stream.mp3
-#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/58/10/5810802df85bd3a3f25627c49a2e961b.png" group-title="news,talk,folk",Radio Zenobia 98.0
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/58/10/5810802df85bd3a3f25627c49a2e961b.png" group-title="(.*);(.*);",Radio Zenobia 98.0
 http://radioliveb.rtv.gov.sy:8002/RadioZenobia

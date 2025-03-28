@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.h2oradio.fr/images/logo_h2O_reseaux.png" group-title="pop,associative",H2O Radio Lac d'Annecy 94.8
+#EXTINF:-1 tvg-logo="https://www.h2oradio.fr/images/logo_h2O_reseaux.png" group-title="(.*);(.*);",H2O Radio Lac d'Annecy 94.8
 https://rod.frequence3.net/h2oradio.flac
-#EXTINF:-1 tvg-logo="https://www.radio.fr/300/h2o.png?version=c0e59ed89c8e4e9bf8dd5e86db3db08e" group-title="pop,associative",H2O Radio a l'Heure de l'Ouest 90.1
+#EXTINF:-1 tvg-logo="https://www.radio.fr/300/h2o.png?version=c0e59ed89c8e4e9bf8dd5e86db3db08e" group-title="(.*);(.*);",H2O Radio a l'Heure de l'Ouest 90.1
 https://rod.frequence3.net/h2o-90al.mp3
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1FgdIv7fY6BwWuWuGNNMsDqyrXolhS0oHgDHhXVSJMWL0TLYj1XBh-M_hpPT6f2s1pI8&usqp=CAU" group-title="pop,associative",H2O Radio Grand Annecy
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1FgdIv7fY6BwWuWuGNNMsDqyrXolhS0oHgDHhXVSJMWL0TLYj1XBh-M_hpPT6f2s1pI8&usqp=CAU" group-title="(.*);(.*);",H2O Radio Grand Annecy
 https://rod.frequence3.net/h2o-annecy-dab
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1FgdIv7fY6BwWuWuGNNMsDqyrXolhS0oHgDHhXVSJMWL0TLYj1XBh-M_hpPT6f2s1pI8&usqp=CAU" group-title="pop,associative",H2O Radio Chambéry
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1FgdIv7fY6BwWuWuGNNMsDqyrXolhS0oHgDHhXVSJMWL0TLYj1XBh-M_hpPT6f2s1pI8&usqp=CAU" group-title="(.*);(.*);",H2O Radio Chambéry
 https://rod.frequence3.net/h2o-chambery-dab

@@ -1,47 +1,47 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.webrad.io/favicon.svg" group-title="rock,pop,top 40",95X FM
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/favicon.svg" group-title="(.*);(.*);",95X FM
 http://162.244.80.106:10913/stream
-#EXTINF:-1 tvg-logo="https://azrockradio.com/wp-content/uploads/2017/10/favicon.ico" group-title="rock,hits",AZ Rock
+#EXTINF:-1 tvg-logo="https://azrockradio.com/wp-content/uploads/2017/10/favicon.ico" group-title="(.*);(.*);",AZ Rock
 http://cassini.shoutca.st:9300/stream
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s12627q.png" group-title="catholic,religious",Catolica Radio
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s12627q.png" group-title="(.*);(.*);",Catolica Radio
 http://stream.rarserver.net:8078/catolicapr
-#EXTINF:-1 tvg-logo="http://nebula.wsimg.com/a4bbfc8b44d8e71f276fca1fb863b6f9?AccessKeyId=CACE238DC70FC04292F5&disposition=0&alloworigin=1" group-title="tropical,world",WCMA Cima 103.7
+#EXTINF:-1 tvg-logo="http://nebula.wsimg.com/a4bbfc8b44d8e71f276fca1fb863b6f9?AccessKeyId=CACE238DC70FC04292F5&disposition=0&alloworigin=1" group-title="(.*);(.*);",WCMA Cima 103.7
 https://stream.eleden.com/960am.aac/960am.aac.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.cluboneworldradio.com/favicon.ico" group-title="80s,dance,world",Club One World
+#EXTINF:-1 tvg-logo="https://www.cluboneworldradio.com/favicon.ico" group-title="(.*);(.*);",Club One World
 https://streams.radio.co/sa0b5d970a/listen
-#EXTINF:-1 tvg-logo="https://hot102pr.com/wp-content/uploads/2020/05/H_Hot_102-80x80.png" group-title="hits,pop",WTOK Hot 102 102.5
+#EXTINF:-1 tvg-logo="https://hot102pr.com/wp-content/uploads/2020/05/H_Hot_102-80x80.png" group-title="(.*);(.*);",WTOK Hot 102 102.5
 https://server7.servistreaming.com/proxy/hot?mp=%2Fstream%3Ftype%3D.mp3&_=1
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s282467/images/logog.jpg?t=156208" group-title="education,talk",WVDJ-LP La Voz del Jaycoa 107.9
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s282467/images/logog.jpg?t=156208" group-title="(.*);(.*);",WVDJ-LP La Voz del Jaycoa 107.9
 http://s36.myradiostream.com:13748/listen.pls
-#EXTINF:-1 tvg-logo="https://i1.wp.com/magic973.com/wp-content/uploads/2019/09/608x352-Banner-Magic-973-01.png?w=608&ssl=1" group-title="alternative,rock,pop",WOYE Magic 97.3
+#EXTINF:-1 tvg-logo="https://i1.wp.com/magic973.com/wp-content/uploads/2019/09/608x352-Banner-Magic-973-01.png?w=608&ssl=1" group-title="(.*);(.*);",WOYE Magic 97.3
 https://stream.eleden.com:8210/magic.aac
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s21779q.png" group-title="news,talk,variety",WOQI Radio Casa Pueblo 1020
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s21779q.png" group-title="(.*);(.*);",WOQI Radio Casa Pueblo 1020
 http://s1.voscast.com:9906/;stream1523840050300/1
-#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/tuqhczhfczhx.png" group-title="easy listening,world",WORO Radio Oro 92.5
+#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/tuqhczhfczhx.png" group-title="(.*);(.*);",WORO Radio Oro 92.5
 https://us2.internet-radio.com/proxy/woro?mp=/stream
-#EXTINF:-1 tvg-logo="https://www.sagrado.edu/wp-content/uploads/sagrado-blanco.png" group-title="variety,news,talk",Radiorama Universitario
+#EXTINF:-1 tvg-logo="https://www.sagrado.edu/wp-content/uploads/sagrado-blanco.png" group-title="(.*);(.*);",Radiorama Universitario
 http://cast3.asurahosting.com:8123/listen.pls
-#EXTINF:-1 tvg-logo="https://diveradio.com/wp-content/uploads/2022/06/ic_launcher_foreground.png" group-title="adult,contemporary,top 40",Spot Radio
+#EXTINF:-1 tvg-logo="https://diveradio.com/wp-content/uploads/2022/06/ic_launcher_foreground.png" group-title="(.*);(.*);",Spot Radio
 https://c9.radioboss.fm/stream/141
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/WABA_AM850.jpg/220px-WABA_AM850.jpg" group-title="news,talk,sports",WABA 850
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/WABA_AM850.jpg/220px-WABA_AM850.jpg" group-title="(.*);(.*);",WABA 850
 https://stream.eleden.com/waba.aac/waba.aac.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://waloradio.com/favicon.ico" group-title="news,variety",WALO 1240
+#EXTINF:-1 tvg-logo="http://waloradio.com/favicon.ico" group-title="(.*);(.*);",WALO 1240
 http://68.235.35.243:9031/stream?type=.mp3
-#EXTINF:-1 tvg-logo="http://www.waparadiopr.com/favicon.ico" group-title="news,talk",WAPA 680
+#EXTINF:-1 tvg-logo="http://www.waparadiopr.com/favicon.ico" group-title="(.*);(.*);",WAPA 680
 https://livestreamcdn.net:2000/stream/WapaRadio
-#EXTINF:-1 tvg-logo="https://wipr.pr/wp-content/uploads/2020/04/cropped-wipr-logo-mobile-1-180x180.png" group-title="classical,folk,pubic",WIPR 91.3
+#EXTINF:-1 tvg-logo="https://wipr.pr/wp-content/uploads/2020/04/cropped-wipr-logo-mobile-1-180x180.png" group-title="(.*);(.*);",WIPR 91.3
 http://192.254.105.36:8080/broadwavehigh.mp3?src=1
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/WMSW-AM_logo.png" group-title="talk,news",WMSW 1120
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/WMSW-AM_logo.png" group-title="(.*);(.*);",WMSW 1120
 http://server10.servistreaming.com:9004/stream
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s21849q.png" group-title="pop,talk",WPAB 550
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s21849q.png" group-title="(.*);(.*);",WPAB 550
 http://68.235.35.243:9059/stream
-#EXTINF:-1 tvg-logo="https://www.salsoul.com/wp-content/uploads/2016/01/salsoul_logo1-1-300x125.png" group-title="dance,salsa,tropical",WPRM 99.1
+#EXTINF:-1 tvg-logo="https://www.salsoul.com/wp-content/uploads/2016/01/salsoul_logo1-1-300x125.png" group-title="(.*);(.*);",WPRM 99.1
 http://68.235.35.243:8001/;stream.mp3
-#EXTINF:-1 tvg-logo="http://www2.wrtu.pr/wp-content/uploads/2016/04/RUPR-Logo-RU-mayo-2016-medium-web.png" group-title="public,university",WRTU 89.7
+#EXTINF:-1 tvg-logo="http://www2.wrtu.pr/wp-content/uploads/2016/04/RUPR-Logo-RU-mayo-2016-medium-web.png" group-title="(.*);(.*);",WRTU 89.7
 http://streaming.radiouniversidad.pr:8062/listen.pls
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6f/9b/6f/6f9b6f6a3dced7c612823e3b75afebf0.png" group-title="news,talk",WSKN 1320
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6f/9b/6f/6f9b6f6a3dced7c612823e3b75afebf0.png" group-title="(.*);(.*);",WSKN 1320
 http://server7.servistreaming.com:10070/stream
-#EXTINF:-1 tvg-logo="https://bloximages.newyork1.vip.townnews.com/notiuno.com/content/tncms/custom/image/1910fac6-b6a6-11e8-bedc-73fa7469f5d8.png?resize=200%2c200" group-title="news,talk,weather",WUNO 630
+#EXTINF:-1 tvg-logo="https://bloximages.newyork1.vip.townnews.com/notiuno.com/content/tncms/custom/image/1910fac6-b6a6-11e8-bedc-73fa7469f5d8.png?resize=200%2c200" group-title="(.*);(.*);",WUNO 630
 http://68.235.35.243:9027/;stream.mp3
-#EXTINF:-1 tvg-logo="http://www.vid90.com/images/logo_vid_med.png" group-title="world,jazz",WVID 90.3
+#EXTINF:-1 tvg-logo="http://www.vid90.com/images/logo_vid_med.png" group-title="(.*);(.*);",WVID 90.3
 http://s3.voscast.com:7720/

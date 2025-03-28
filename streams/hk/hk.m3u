@@ -1,53 +1,53 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://www.fauveradio.com/uploads/1/1/2/9/112920849/editor/mixcloud-logo-fauve-radio-horizontal_1.png" group-title="community,dj,indie",Fauve Radio
+#EXTINF:-1 tvg-logo="http://www.fauveradio.com/uploads/1/1/2/9/112920849/editor/mixcloud-logo-fauve-radio-horizontal_1.png" group-title="(.*);(.*);",Fauve Radio
 https://streamer.radio.co/sde68d7e6b/listen
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/apple-touch-icon-120x120.png" group-title="news,pop,talk",Fing Radio
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/apple-touch-icon-120x120.png" group-title="(.*);(.*);",Fing Radio
 https://bluesfan.stream.laut.fm/bluesfan?t302=2020-11-06_13-46-59&uuid=28a2f040-51e1-44fe-899f-3519cbd5d4e9
-#EXTINF:-1 tvg-logo="https://imgproxy.zenomedia.com/insecure/fit/500/500/ce/0/plain/https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDg_8-_rAoMCxIOU3RhdGlvblByb2ZpbGUYgICQgKuSsgkMogEEemVubw/image/%3Fresize=500x500&v=1" group-title="latino,world",HK Latino Radio
+#EXTINF:-1 tvg-logo="https://imgproxy.zenomedia.com/insecure/fit/500/500/ce/0/plain/https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDg_8-_rAoMCxIOU3RhdGlvblByb2ZpbGUYgICQgKuSsgkMogEEemVubw/image/%3Fresize=500x500&v=1" group-title="(.*);(.*);",HK Latino Radio
 http://stream.zeno.fm/0afmaf4x2tzuv.aac?rj-ttl=5&rj-tok=AAABfdn7b5MAEu1gEu8ExH_dQg
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/apple-touch-icon-120x120.png" group-title="world,french",La French Radio Hong Kong et Macao
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/apple-touch-icon-120x120.png" group-title="(.*);(.*);",La French Radio Hong Kong et Macao
 https://listen.radioking.com/radio/333865/stream/382282
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s10738d.png" group-title="adult,hits",Metro Radio 1044
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s10738d.png" group-title="(.*);(.*);",Metro Radio 1044
 http://metroradio-lh.akamaihd.net/i/1044_h@349800/master.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s2803g.png" group-title="business,talk",Metro Radio Finance 104.0
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s2803g.png" group-title="(.*);(.*);",Metro Radio Finance 104.0
 https://metroradio-lh.akamaihd.net/i/104_h@349798/master.m3u8
-#EXTINF:-1 tvg-logo="https://static.tuneyou.com/images/logos/500_500/84/14484/MetroRadio99.7FM_2.jpg" group-title="lifestyle,news",Metro Radio 99.7
+#EXTINF:-1 tvg-logo="https://static.tuneyou.com/images/logos/500_500/84/14484/MetroRadio99.7FM_2.jpg" group-title="(.*);(.*);",Metro Radio 99.7
 http://metroradio-lh.akamaihd.net/i/997_h@349799/master.m3u8
-#EXTINF:-1 tvg-logo="https://images.zeno.fm/8XTCAxuAx568PdDs-86L827VofjuKZmn6UaIWjQkuJE/rs:fit:500:500/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSUNRdjdtem53b01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSUNRdjd2WTh3Z01vZ0VFZW1WdWJ3L2ltYWdlLz91cGRhdGVkPTE2NjE2NDMxMzMwMDA.webp" group-title="variety,talk",Original Radio
+#EXTINF:-1 tvg-logo="https://images.zeno.fm/8XTCAxuAx568PdDs-86L827VofjuKZmn6UaIWjQkuJE/rs:fit:500:500/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSUNRdjdtem53b01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSUNRdjd2WTh3Z01vZ0VFZW1WdWJ3L2ltYWdlLz91cGRhdGVkPTE2NjE2NDMxMzMwMDA.webp" group-title="(.*);(.*);",Original Radio
 http://stream.zeno.fm/rzwzgu0dd8zuv?rj-ttl=5&rj-tok=AAABfd4erdgAvr2QPZRjNmhpMA
-#EXTINF:-1 tvg-logo="https://www.rthk.hk/img/apple-icon-114x114.png" group-title="education,news",RTHK Radio 1
+#EXTINF:-1 tvg-logo="https://www.rthk.hk/img/apple-icon-114x114.png" group-title="(.*);(.*);",RTHK Radio 1
 http://stm1.rthk.hk/radio1
-#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radios-hk/rthk-1.png" group-title="talk,news",RTHK Radio 1
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radios-hk/rthk-1.png" group-title="(.*);(.*);",RTHK Radio 1
 https://rthkaudio1-lh.akamaihd.net/i/radio1_1@355864/index_56_a-p.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radios-hk/rthk-2.png" group-title="variety,news",RTHK Radio 2
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radios-hk/rthk-2.png" group-title="(.*);(.*);",RTHK Radio 2
 https://rthkaudio2-lh.akamaihd.net/i/radio2_1@355865/index_56_a-p.m3u8
-#EXTINF:-1 tvg-logo="https://www.rthk.hk/img/apple-icon-114x114.png" group-title="variety,pop",RTHK Radio 2
+#EXTINF:-1 tvg-logo="https://www.rthk.hk/img/apple-icon-114x114.png" group-title="(.*);(.*);",RTHK Radio 2
 http://stm2.rthk.hk/radio2
-#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radios-hk/rthk-3.png" group-title="news,public",RTHK Radio 3
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radios-hk/rthk-3.png" group-title="(.*);(.*);",RTHK Radio 3
 https://rthkaudio3-lh.akamaihd.net/i/radio3_1@355866/index_56_a-p.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/hkradio/images/f/f8/RTHKRadio5_logo.gif/revision/latest?cb=20131022130417&path-prefix=zh" group-title="education,news",RTHK Radio 5
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/hkradio/images/f/f8/RTHKRadio5_logo.gif/revision/latest?cb=20131022130417&path-prefix=zh" group-title="(.*);(.*);",RTHK Radio 5
 https://rthkaudio5-lh.akamaihd.net/i/radio5_1@355868/index_56_a-p.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/b/b9/CNR-HK.jpg/150px-CNR-HK.jpg" group-title="literature,news",RTHK Radio 6
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/b/b9/CNR-HK.jpg/150px-CNR-HK.jpg" group-title="(.*);(.*);",RTHK Radio 6
 http://satellitepull.cnr.cn/live/wxxgzs/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/b/b9/CNR-HK.jpg/150px-CNR-HK.jpg" group-title="literature,news",RTHK Radio 6
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/b/b9/CNR-HK.jpg/150px-CNR-HK.jpg" group-title="(.*);(.*);",RTHK Radio 6
 https://rthkaudio6cnr-lh.akamaihd.net/i/radio6cnr_1@575604/index_56_a-p.m3u8
-#EXTINF:-1 tvg-logo="https://www.rthk.hk/img/radio_icon/ChannelPage_Logo/radio_R3_logo.svg" group-title="news,public",RTHK Radio 3
+#EXTINF:-1 tvg-logo="https://www.rthk.hk/img/radio_icon/ChannelPage_Logo/radio_R3_logo.svg" group-title="(.*);(.*);",RTHK Radio 3
 https://rthkaudio3-lh.akamaihd.net/i/radio3_1@355866/master.m3u8
-#EXTINF:-1 tvg-logo="https://liveonlineradio.net/wp-content/uploads/2021/04/sunnys-music-show-220x108.jpg" group-title="relax,indie",Night Sky Teaser
+#EXTINF:-1 tvg-logo="https://liveonlineradio.net/wp-content/uploads/2021/04/sunnys-music-show-220x108.jpg" group-title="(.*);(.*);",Night Sky Teaser
 http://procyon.shoutca.st:8492/listen.mp3
-#EXTINF:-1 tvg-logo="https://www.febchk.org/wp-content/uploads/2017/04/training_tc-1170x500.jpg" group-title="religious,christian",Liangyou Radio 1
+#EXTINF:-1 tvg-logo="https://www.febchk.org/wp-content/uploads/2017/04/training_tc-1170x500.jpg" group-title="(.*);(.*);",Liangyou Radio 1
 https://listen.729ly.net:8001/ly729_a
-#EXTINF:-1 tvg-logo="https://www.rthk.hk/favicon.ico" group-title="mandarin,education",Mandarin Channel
+#EXTINF:-1 tvg-logo="https://www.rthk.hk/favicon.ico" group-title="(.*);(.*);",Mandarin Channel
 https://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/master.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/YMiVbwd4sKnEtvZHCY_gWksY1ht6_GnauKLQxlnUvqw7yVdQXjiCD2PCwzzjmLafY_jj" group-title="news,talk",D100 Hong Kong
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/YMiVbwd4sKnEtvZHCY_gWksY1ht6_GnauKLQxlnUvqw7yVdQXjiCD2PCwzzjmLafY_jj" group-title="(.*);(.*);",D100 Hong Kong
 http://59.152.232.108:8000/Channel1-64MP3
-#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/c1/81/35977/1/c300.png" group-title="news,education",RTHK Radio 1 92.6
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/c1/81/35977/1/c300.png" group-title="(.*);(.*);",RTHK Radio 1 92.6
 http://stm.rthk.hk/radio1
-#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/f7/1a/35978/1/c300.png" group-title="pop,top 40",RTHK Radio 2 94.8
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/f7/1a/35978/1/c300.png" group-title="(.*);(.*);",RTHK Radio 2 94.8
 http://stm.rthk.hk/radio2
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s25670/images/logog.jpg?t=1678682432000" group-title="world,news",RTHK Radio 3 567
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s25670/images/logog.jpg?t=1678682432000" group-title="(.*);(.*);",RTHK Radio 3 567
 http://stm.rthk.hk/radio3
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s25671/images/logog.jpg?t=1678426399000" group-title="classical,culture",RTHK Radio 4 97.6
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s25671/images/logog.jpg?t=1678426399000" group-title="(.*);(.*);",RTHK Radio 4 97.6
 http://stm.rthk.hk/radio4
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s18668/images/logog.jpg?t=1678426723000" group-title="news,talk,culture",RTHK Radio 5 783
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s18668/images/logog.jpg?t=1678426723000" group-title="(.*);(.*);",RTHK Radio 5 783
 http://stm1.rthk.hk/radio5
