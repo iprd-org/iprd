@@ -16,8 +16,9 @@ IPRD is a library of Internet radio stations organized by country and broadcasti
 ## How to Use IPRD
 
 1. **Browse playlists** - Check our [complete catalog](./catalog.md) of radio stations
-2. **Filter by country** - Find stations specific to a country
-3. **Download M3U files** - Use them with your preferred media player (VLC, Winamp, etc.)
+2. **Access data files** - Browse our [radio data files](./data_files.md) organized by country
+3. **Filter by country** - Find stations specific to a country
+4. **Download M3U files** - Use them with your preferred media player (VLC, Winamp, etc.)
 
 ## Playlist Organization
 

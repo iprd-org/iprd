@@ -26,6 +26,8 @@ Browse stations by country:
 {% endif %}
 {% endfor %}
 
+For a complete list of all data files organized in an easy-to-browse format, check our [Radio Data Files](./data_files.md) page.
+
 ## How to Use the Playlists
 
 1. **Download** - Click on any playlist link to download the M3U file

@@ -53,3 +53,14 @@ exclude:
   - .git
   - .github
   - README.md
+
+# Include additional directories
+include:
+  - "../site_data"
+
+# Define site_data directory for access
+defaults:
+  - scope:
+      path: "../site_data"
+    values:
+      layout: default
