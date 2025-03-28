@@ -25,13 +25,6 @@ jobs:
         run: pip install requests
       - name: Generate metadata catalog and site data
         run: python scripts/generate_site_data.py
-      - name: Update validation results (if available)
-        run: |
-          if [ -f "validation-results.json" ]; then
-            python scripts/validate_streams.py
-          else
-            echo "Skipping validation as no previous results exist"
-          fi
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4
         with:
@@ -40,6 +33,6 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add metadata/ site_data/ validation-results.json
+          git add metadata/ site_data/
           git commit -m "Update metadata catalog and site data" || echo "No changes to commit"
           git push
