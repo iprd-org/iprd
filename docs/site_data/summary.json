@@ -1,6 +1,6 @@
 {
   "total_stations": 597,
-  "total_countries": 224,
+  "total_countries": 225,
   "countries": [
     {
       "code": "AE",
@@ -496,6 +496,10 @@
     },
     {
       "code": "HN",
+      "count": 0
+    },
+    {
+      "code": "MP",
       "count": 0
     },
     {
@@ -1521,6 +1525,11 @@
       "count": 0
     },
     {
+      "code": "MP",
+      "file": "streams/mp/mp.m3u",
+      "count": 0
+    },
+    {
       "code": "CL",
       "file": "streams/cl/cl.m3u",
       "count": 0
@@ -2193,5 +2202,5 @@
       }
     ]
   },
-  "updated": "2025-03-30T02:21:59Z"
+  "updated": "2025-03-30T02:44:15Z"
 }
