@@ -71,6 +71,8 @@ http://live7.okradio.net/;*.mp3
 http://live.okplus.rs:8050/;*.mp3
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s90042g.png" group-title="(.*);(.*);",Pannon Radio 91.5
 http://breddstream.unrealhosting.hu:4120/listen.pls
+#EXTINF:-1 tvg-logo="https://ca.radio.net/300/pink.png?version=ae50713029ae6e3b373b2f74a2df868a" group-title="folk;pop;world",Pink Radio 91.3
+http://pink.exyuserver.com/;type=mp3
 #EXTINF:-1 tvg-logo="http://b92s.net/playradio/images/social.png" group-title="(.*);(.*);",Play Radio 92.5
 http://stream.playradio.rs:8001/play.aac
 #EXTINF:-1 tvg-logo="https://playradio.rs/apple-icon-120x120.png" group-title="(.*);(.*);",Play Radio Party
@@ -87,7 +89,7 @@ https://stream.playradio.rs:8443/urban.mp3
 https://mastermedia.shoutca.st/proxy/prviradions?mp=/stream
 #EXTINF:-1 tvg-logo="https://radio021.rs/favicon.ico" group-title="(.*);(.*);",Radio 021 92.2
 https://radio.dukahosting.com/8006/stream
-#EXTINF:-1 tvg-logo="https://kuasark.com/files/stations-logos/radio-beograd-202.png" group-title="(.*);(.*);",Radio Belgrade 202
+#EXTINF:-1 tvg-logo="https://kuasark.com/files/stations-logos/radio-beograd-202.png" group-title="(.*);(.*);",Beograd 202
 http://138.201.33.203:8000/rts_4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvvzum_4q8jYU0Tj-ug-WQ8UHlYTbilF4lBg&s" group-title="(.*);(.*);",Radio 3 95.8
 http://radio3-128.streaming.rs:9200/
