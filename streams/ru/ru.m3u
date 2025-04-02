@@ -115,6 +115,8 @@ http://radio.bignoise.club:8000/nonstop
 http://live.borneo.ru:8888/128
 #EXTINF:-1 tvg-logo="http://btuner.ru/bitrix/templates/btuner/images/btuner-player-logo.png" group-title="(.*);(.*);",bTuner
 http://radio.btuner.ru:8000/live.ogg
+#EXTINF:-1 tvg-logo="https://dvw7f7sqjk3ag.cloudfront.net/images/radio/31116.jpg" group-title="mongolian;folk;world",Buryad 90.8
+https://buryadfm.hostingradio.ru:8018/buryadfm128.mp3
 #EXTINF:-1 tvg-logo="https://www.bfm.ru/apple-touch-icon.png" group-title="(.*);(.*);",Business FM
 http://bfmstream.bfm.ru:8004/fm64
 #EXTINF:-1 tvg-logo="https://bfmufa.ru/wp-content/themes/bfm/images/logo-bfm.jpg" group-title="(.*);(.*);",Business FM 107.5
@@ -279,6 +281,8 @@ http://stream.zeno.fm/7w72va6s7k0uv?rj-ttl=5&rj-tok=AAABfdpdRJMAmzjckknl0fCPPQ
 https://listen6.myradio24.com/loungebe
 #EXTINF:-1 tvg-logo="http://images.vfl.ru/ii/1590449399/e25fd87d/30620931.png" group-title="(.*);(.*);",Lounge Vibes
 http://stream.zeno.fm/n35hs4hcmzzuv?rj-ttl=5&rj-tok=AAABfdtNpZEAkj9FDdWFCnvRXA
+#EXTINF:-1 tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8428adda92f91e198ab3daa65f" group-title="pop;hits",Love Radio
+https://stream2.n340.com/12_love_64_reg_44?type=aac&UID=F56BE1B9F7D487832CCEE46758BEFB42
 #EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/lradio.jpg" group-title="(.*);(.*);",Lradio
 https://air.unmixed.ru/lradio256
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AAuE7mA0wNG5B5G3eou2NCb0rRIOebNk9HNbJRuArw=s900-mo-c-c0xffffffff-rj-k-no" group-title="(.*);(.*);",Radio Maximum 103.7
@@ -387,6 +391,8 @@ http://listen.42fm.ru:8000/stealkill-8.0.ogg
 http://europaplus.hostingradio.ru:8014/radiosept320.mp3
 #EXTINF:-1 tvg-logo="https://dvw7f7sqjk3ag.cloudfront.net/images/radio/31963.jpg" group-title="(.*);(.*);",Radio 7 100.0
 http://online2.gkvr.ru:8000/radio7_nno_64.aac
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Ruu0IQ-G1v-XnQM2Z4wsKnxorLOVGMBACxti_dOPj7CsmZa3Y1R6yf4Fg2UMnN_KeA=w240-h480-rw" group-title="hits;pop",Radio 7 Tyumen
+http://live.radio7.su:9000/radio7_128?1743580060680
 #EXTINF:-1 tvg-logo="http://www.radio-betelgeuse.com/b2/wp-content/uploads/2015/09/radioman2.gif" group-title="(.*);(.*);",Radio Betelgeuse
 http://sat.radio-betelgeuse.com:8000/live
 #EXTINF:-1 tvg-logo="http://radcap.ru/stylegraf/baroque2.jpg" group-title="(.*);(.*);",RADCAP
@@ -753,6 +759,8 @@ http://fantasyradioru.no-ip.biz:8002/live
 https://c22.radioboss.fm:18144/GamePlay
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/9/22599.v2.png" group-title="(.*);(.*);",Radio Gora Oldies
 http://listen.radiogora.ru:8000/oldies128/listen.pls
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2TXEjjsfISjWdb6RyymY9yPmu5Rjuw6P2VA&s" group-title="folk;world",Radio Gordost
+https://rgordost.hostingradio.ru/rgordost64.aacp
 #EXTINF:-1 tvg-logo="http://hit.orsk.ru/hit_ico_play.png" group-title="(.*);(.*);",Radio Hit 103.7
 http://hit.trkeurasia.ru:8000/hit128
 #EXTINF:-1 tvg-logo="https://radiojazzfm.ru/favicons/apple-touch-icon.png" group-title="(.*);(.*);",Radio Jazz 89.1
@@ -765,7 +773,7 @@ http://jfm1.hostingradio.ru:14536/jvstream.mp3
 http://main.hostingradio.ru/jazz-128.mp3
 #EXTINF:-1 tvg-logo="http://radiomantra.ru/v2/wp-content/uploads/2017/08/cropped-logo-2.0-003-square-favicon-270x270.jpg" group-title="(.*);(.*);",Radio Mantra
 http://a6.radioheart.ru:8012/nonstop
-#EXTINF:-1 tvg-logo="https://dx7vbl8yjmzxy.cloudfront.net/new_images/radioapp_10561.jpg" group-title="(.*);(.*);",Radio Maria
+#EXTINF:-1 tvg-logo="https://dx7vbl8yjmzxy.cloudfront.net/new_images/radioapp_10561.jpg" group-title="(.*);(.*);",Radio Marija
 http://dreamsiteradiocp4.com:8002/stream
 #EXTINF:-1 tvg-logo="http://www.radiomayak.ru/i/apple-touch-icon.png" group-title="(.*);(.*);",Radio Mayak
 http://online.gtrkchita.ru:8100/mayak32aacp
@@ -913,6 +921,8 @@ http://rusradio.hostingradio.ru/rusradio96.aacp
 http://online2.gkvr.ru:8000/rusradio_nno_64.aac
 #EXTINF:-1 tvg-logo="http://radio.rikt.ru/radio-ys-small.png" group-title="(.*);(.*);",Second Shadow of The Yellow Submarine I
 http://radio.rikt.ru:8000/ys-radio
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1pnAMsfbX0bNKkzAPt2k5k1_jTWqFxO65LKRvaBAhqw4YnGUB0Nqk15aL3zWuNp9tHtU&usqp=CAU" group-title="talk;hits",Serebryany Dozhd 97.7
+https://silverrain.hostingradio.ru/silver128.mp3
 #EXTINF:-1 tvg-logo="http://abali.ru/wp-content/uploads/2011/09/logo-radio-serebryanij-dozhd-300x283.png" group-title="(.*);(.*);",Silver Rain 100.1
 http://silverrain.hostingradio.ru/silver64.aac
 #EXTINF:-1 tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da842d9ce7603443a7e5792ef133" group-title="(.*);(.*);",Smooth Radio
@@ -1003,8 +1013,10 @@ http://vgtrk15.hostingradio.ru:8011/vgtrk15128.mp3
 http://ic6.101.ru:8000/stream/trust/mp3/128/20
 #EXTINF:-1 tvg-logo="https://top-radio.ru/assets/image/radio/180/aris-102-5.jpg" group-title="(.*);(.*);",Radio Aris Kumertau 102.5
 http://195.191.78.200:8080/mp
-#EXTINF:-1 tvg-logo="https://bash.news/images/favicon/apple-touch-icon-120x120-precomposed.png" group-title="(.*);(.*);",Ashkazar
+#EXTINF:-1 tvg-logo="https://bash.news/images/favicon/apple-touch-icon-120x120-precomposed.png" group-title="(.*);(.*);",Radio Ashkazar
 http://radio.mediacdn.ru/ashkadar.mp3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFO8fGPXuGdSptuF0eRbZ-a8aKDdc8OuDasQ&s" group-title="pop;dance;world",Radio ASTV 105.5
+https://misato.ru-hoster.com:8000/stream
 #EXTINF:-1 tvg-logo="http://balticplus.ru/wp-content/themes/diez__template_balticplus/apple-icon-120x120.png" group-title="(.*);(.*);",Baltik Plus
 http://bp.koenig.ru:8000/Baltic_Plus_mp3_128.mp3
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/c8d4ce_f3fd2bea144d4a41a1bf946fa9a1c7e6%7emv2_d_1200_1200_s_2.jpg/v1/fill/w_32%2ch_32%2clg_1%2cusm_0.66_1.00_0.01/c8d4ce_f3fd2bea144d4a41a1bf946fa9a1c7e6%7emv2_d_1200_1200_s_2.jpg" group-title="(.*);(.*);",Bard-Radio
@@ -1111,6 +1123,8 @@ https://icecast-trc33.cdnvideo.ru/stream
 http://iskatel.hostingradio.ru:8015/iskatel-128.mp3
 #EXTINF:-1 tvg-logo="http://kalina.fm//images/favicon.png" group-title="(.*);(.*);",Radio Kalina Krasnaya 89.5
 http://icecast-studio21.cdnvideo.ru/KalynaK_1a
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/4Pv1O2A4kCrSM7Kw0ilqTFavWZtb3Jat3SPnc6o5P1aU4mPWTVTdPHNGTRybckHzGQ" group-title="folk;world",Kazak 105.2
+https://radio.kazak.fm/kazak_fm.mp3?radiostatistica=sitekfm
 #EXTINF:-1 tvg-logo="http://top-radio.ru/assets/image/radio/180/keksfm.png" group-title="(.*);(.*);",Keks 91.1
 http://emg02.hostingradio.ru/keksfm64.aac
 #EXTINF:-1 tvg-logo="http://im4.kommersant.ru/ContentFlex/images/apple-touch-icon-76x76.png" group-title="(.*);(.*);",Kommersant 93.6
@@ -1137,6 +1151,8 @@ http://mirbelogorya.ru:8008/nonstop2
 http://mds-station.com:8000/mds
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/WtL846GB/3g-NV7-Cj4tc.jpg" group-title="(.*);(.*);",Мaister Golden Hits
 http://178.208.82.95:8000/MGH
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000201790626-a7zflf-t240x240.jpg" group-title="pop;hits",Мodnoe Radio 95.2
+https://cast.modnoeradio.ru/mp320r
 #EXTINF:-1 tvg-logo="https://guzei.com/online_radio/logo300/9294.jpg" group-title="(.*);(.*);",Chuvash National Radio
 http://icecast.ntrk21.ru:8000/nacradio
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/%D0%9D%D0%90%D0%A8%D0%95_%D0%A0%D0%90%D0%94%D0%98%D0%9E.jpg" group-title="(.*);(.*);",Nashe Radio
@@ -1169,6 +1185,8 @@ http://93.189.147.117:8000/nostalgia256.mp3
 http://okolojazza.ru/listen.pls
 #EXTINF:-1 tvg-logo="https://kuasark.com/files/stations-logos/omskij-blaggvestnik.png" group-title="(.*);(.*);",Omsk Blaggvestnik
 http://segenswelle.de:8000/BG-Omsk
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/U7fOObgV1ZXxV5ECGOrNiowli-ejUhl794D0LLuDbsPOUnltjtJFt8T0aYG3DKLjxg=w240-h480-rw" group-title="pop;news;talk",Pervoe Radio 89.1
+https://stream.pervoe.fm:8443/
 #EXTINF:-1 tvg-logo="http://pifm.ru/img/ico/96%D1%8596.png" group-title="(.*);(.*);",Pi FM
 http://cdn.pifm.ru/mp3
 #EXTINF:-1 tvg-logo="http://static.radiopiligrim.ru/imagestemplate/mobile-icons/apple-touch-icon-precomposed120.png" group-title="(.*);(.*);",Pilgrim Radio
@@ -1295,6 +1313,8 @@ http://listen.radiopassazh.ru/aac-48
 https://www.5-tv.ru/radio.mp3
 #EXTINF:-1 tvg-logo="https://www.radiobells.com/stations/radiopeterburg.jpg" group-title="(.*);(.*);",Radio Petersburg 69.47
 https://www.5-tv.ru/radio.aac
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSPQNJXEFWAoJHE51nEbLBHwvniySVIXds6g&s" group-title="news;talk;variety",Radio Pika 104.1
+https://radio.pika-fm.ru:8443/pika.fm
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/1/77891.v9.png" group-title="(.*);(.*);",Radio Rekord 80's Dance
 https://hls-01-radiorecord.hostingradio.ru/record-1980/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/6/22466.v14.png" group-title="(.*);(.*);",Radio Rekord Dancecore
@@ -1433,6 +1453,10 @@ http://radiorecord.hostingradio.ru/sd9096.aacp
 http://retroclub.hostingradio.ru/retroclub128.aacp
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/52/1/radio-rodnykh-dorog-logo-png_seeklogo-521055.png" group-title="(.*);(.*);",Radio Rodnykh Dorog
 http://stream1.radiord.ru:8000/live96.aac
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBsBxajHgfmhMsKNPm70zpefrwU_4JZKmQQg&s" group-title="rock;top 40",Radio Roks 102.0
+https://md5-icecast-radiorocks.cdnvideo.ru/roks.stream?md5=T10iufXWXUk_EVe3gSxBEg&e=1746259860
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWBW55DwcdcTafT8pp7dQfLcb3_LcLQOHt1A&s" group-title="chansons;ballads",Radio Romantika 98.8
+https://srv12.gpmradio.ru:8443/stream/air/aac/64/101?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJrZXkiOiJkZmEzNzhlZDA5ZWUyNTM0MWNhZTQyZTE3ZjNmNjE4YyIsIklQIjoiNzIuMzkuMjA3Ljc0IiwiVUEiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzcuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzcuMCIsIlJlZiI6Imh0dHBzOi8vd3d3LnJhZGlvcm9tYW50aWthLnJ1LyIsInVpZF9jaGFubmVsIjoiMTAxIiwidHlwZV9jaGFubmVsIjoiY2hhbm5lbCIsInR5cGVEZXZpY2UiOiJQQyIsIkJyb3dzZXIiOiJGaXJlZm94IiwiQnJvd3NlclZlcnNpb24iOiIxMzcuMCIsIlN5c3RlbSI6IldpbmRvd3MgMTAiLCJleHAiOjE3NDM1ODE3NDh9.m9iXK7RF6CxLK9NZJEuza004gaH069A59uoD7ecWE0c
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu-ZUVYVeViztKmwGPnkDy28Qt5Vr3Tgr29A&s" group-title="(.*);(.*);",Radio Rossii 101.5
 http://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_192kbps
 #EXTINF:-1 tvg-logo="https://online-red.com/images/radio-logo/Radio-Russia.png" group-title="(.*);(.*);",Radio Rossii
@@ -1501,10 +1525,16 @@ http://stream.radiocenter.net:9960/
 http://chanson.hostingradio.ru:8041/chanson256.mp3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/63xY9GZ7/logo.png" group-title="(.*);(.*);",Radio Ermitazh
 http://hermitage.hostingradio.ru/hermitage128.mp3
+#EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab67616d00001e020af3c90998a7ee6e401ed67a" group-title="religious;christian",Radio Voskresenie
+https://inra3.pravradio.ru/stream.mp3
 #EXTINF:-1 tvg-logo="https://ugra-tv.ru/favicon.ico" group-title="(.*);(.*);",Radio Yugra
 http://ugra.cdnradio.ru/radiougra
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTJp0PIOnR-py1VmeNXA2lSg0BSPa8igXd9g&s" group-title="pop;world",Radio Yuldash 105.5
+https://uldash.hostingradio.ru/uldash192.mp3
 #EXTINF:-1 tvg-logo="https://www.radiobells.com/stations/ufm.jpg" group-title="(.*);(.*);",Radio Yunost
 http://icecast-vgtrk.cdnvideo.ru/unost_mp3_192kbps
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREzXmcCsIH9pepOLa9WGMsAIhZju3wMuX25Q&s" group-title="60s;70s;culture",Radio Zvezda 95.6
+https://zvezda-radio-rzv.mediacdn.ru/radio/zvezda/zvezda_128
 #EXTINF:-1 tvg-logo="http://online-red.com/images/radio-logo/melodia-spb.png" group-title="(.*);(.*);",Radiokanal Melodiya
 http://stream128.melodiafm.spb.ru:8000/melodia128
 #EXTINF:-1 tvg-logo="http://radiola.ru/img/logoekb.png" group-title="(.*);(.*);",Radiola
@@ -1595,8 +1625,10 @@ http://silverrain.hostingradio.ru/silver128.mp3
 https://listen1.myradio24.com/6262
 #EXTINF:-1 tvg-logo="https://spravedlivo.ru/pictbank/051/05147704500150.png" group-title="(.*);(.*);",Spravedlivaya Rossiya
 https://spravedlivo.hostingradio.ru:8022/spravedlivo128.mp3
-#EXTINF:-1 tvg-logo="https://bash.news/images/logo-sputnik.svg" group-title="(.*);(.*);",Sputnik Fm Ufimskaya Volna
+#EXTINF:-1 tvg-logo="https://bash.news/images/logo-sputnik.svg" group-title="variety;news;pop",Sputnik FM Ufimskaya Volna
 https://radio.mediacdn.ru/sputnik_fm.mp3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBXgvFoSlW1nXd2r-3JRouiShpm-66USmbyg&s" group-title="turkish;news",Sputnik Turkiye 106.4
+https://nfw.ria.ru/flv/audio.aspx?ID=98318704&type=mp3
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdOIR2j5dQ2kjShWVr8tqZ2ajXFVHz9ifzpst9HjlkER6u1QT4vsXB8_GoLq2PQDMs9pc&usqp=CAU" group-title="(.*);(.*);",Staroye Radio
 http://195.91.237.50:8000/ices128
 #EXTINF:-1 tvg-logo="http://www.staroeradio.ru/i/players/detskoe.gif" group-title="(.*);(.*);",Staroye Radio Detskoye
@@ -1605,6 +1637,8 @@ http://195.91.237.50:8000/detskoe128
 http://195.91.237.50:8000/music128
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRokpwBI_dEASCjjQ6LhI6cD_VUWAa8ADbwCA&s" group-title="(.*);(.*);",Strana FM
 http://icecast.stranafm.cdnvideo.ru/stranafm
+#EXTINF:-1 tvg-logo="https://api.my-radios.com/images/thumb.php?countryCode=RU&name=29962-5427582.png&size=200" group-title="chillout;disco;electro",Svoe Radio
+https://svoeradiofm.hostingradio.ru:8032/svoe-320.mp3
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJwc5zxHVV4IQyugajmXL6oshvSbNNilAgbrdA=s900-c-k-c0xffffffff-no-rj-mo" group-title="(.*);(.*);",Taksi 96.4
 http://online-1.gkvr.ru:8000/taxi_kaz_64.aac
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/66yHZ0Rv/tatarstan-avazy.png" group-title="(.*);(.*);",Tatarstan Avazi
