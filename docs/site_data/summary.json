@@ -1,6 +1,6 @@
 {
   "total_stations": 597,
-  "total_countries": 226,
+  "total_countries": 227,
   "countries": [
     {
       "code": "AE",
@@ -264,6 +264,10 @@
     },
     {
       "code": "HK",
+      "count": 0
+    },
+    {
+      "code": "SX",
       "count": 0
     },
     {
@@ -1239,6 +1243,11 @@
       "count": 0
     },
     {
+      "code": "SX",
+      "file": "streams/sx/sx.m3u",
+      "count": 0
+    },
+    {
       "code": "BH",
       "file": "streams/bh/bh.m3u",
       "count": 0
@@ -2211,5 +2220,5 @@
       }
     ]
   },
-  "updated": "2025-04-03T09:08:36Z"
+  "updated": "2025-04-03T09:37:03Z"
 }
