@@ -1,6 +1,7 @@
 ---
 layout: default
 title: IPRD - International Public Radio Directory
+nav_order: 1
 ---
 
 # International Public Radio Directory

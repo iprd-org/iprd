@@ -1,6 +1,7 @@
 ---
 layout: default
 title: IPRD Catalog Documentation
+nav_order: 4
 ---
 
 # IPRD Catalog

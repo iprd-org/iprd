@@ -1,6 +1,7 @@
 ---
 layout: default
 title: IPRD API Documentation
+nav_order: 3
 ---
 
 # IPRD API Documentation
