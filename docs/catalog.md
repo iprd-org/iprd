@@ -21,16 +21,17 @@ The complete collection is available as a single M3U file:
 
 Browse stations by country:
 
-{% assign summary_file = site.pages | where: "path", "site_data/summary.json" | first %}
-{% if summary_file %}
-  {% assign data = summary_file.content | strip | replace: "=>", ":" | json_parse %}
-  {% for country in data.countries %}
+{% assign countries = site.data.summary.countries | sort: "name" %}
+{% if countries.size > 0 %}
+  <ul>
+  {% for country in countries %}
     {% if country.count > 0 %}
-- [{{ country.code }}](/site_data/by_country/{{ country.code | downcase }}.m3u) ({{ country.count }} stations)
+    <li><strong>{{ country.name }}</strong> - <a href="/site_data/by_country/{{ country.code | downcase }}.m3u">{{ country.code }}.m3u</a> ({{ country.count }} stations)</li>
     {% endif %}
   {% endfor %}
+  </ul>
 {% else %}
-  <p>Data currently unavailable. Please check back later.</p>
+  <p>Country data currently unavailable. Please check back later.</p>
 {% endif %}
 
 For a complete list of all data files organized in an easy-to-browse format, check our [Radio Data Files](./data_files.md) page.
