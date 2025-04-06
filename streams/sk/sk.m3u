@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://www.bbfm.sk/images/apple-icon-114x114.png" group-title="(.*);(.*);",BB FM
 http://stream.bbfm.sk/bbfm128.mp3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuZr64NYFyP90_uOap1EMRVpg2fDEHb1fCAw&s" group-title="oldies;hits",Best FM 95.6
+https://stream3.bestfm.sk:8000/160.aac
 #EXTINF:-1 tvg-logo="http://www.dobreradio.sk/favicon.ico" group-title="(.*);(.*);",Dobre Radio
 http://stream.dobreradio.sk:8813/dobreradio.mp3
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/be7vcTfpmVL235GLEX5tgMCOfalLjGZE_QnFAF6tvf8w_iX95rPIWKDv14tWiFkV3nc" group-title="(.*);(.*);",Duflo Radio
@@ -77,6 +79,8 @@ http://185.98.208.12:8000/
 https://listen.radioking.com/radio/276343/stream/321988
 #EXTINF:-1 tvg-logo="https://www.radia.sk/_radia/loga/nadpis/parada.webp?v=1" group-title="(.*);(.*);",Radio Parada
 https://extra.mediacp.eu/stream/RadioParada,o.z.
+#EXTINF:-1 tvg-logo="https://www.liveradio.ie/files/images/319004/resized/180x172c/patria_radio.jpg" group-title="pop;talk;variety",Radio Patria
+https://icecast.stv.livebox.sk/patria_128.mp3
 #EXTINF:-1 tvg-logo="https://www.radiopiestany.sk/wp-content/uploads/2020/06/radiopiestany-favicon.png" group-title="(.*);(.*);",Radio Piestany 90.2
 http://live.radiopiestany.sk:8000/live.mp3
 #EXTINF:-1 tvg-logo="https://www.radiorocksv.eu/favicon.ico" group-title="(.*);(.*);",Radio Rock
