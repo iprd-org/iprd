@@ -103,19 +103,19 @@ You can access the data in several ways:
 
 1. **Direct JSON**: Access the raw JSON files directly from the GitHub Pages URL
    ```
-   https://iprd-org.github.io/IPRD/metadata/catalog.json
-   https://iprd-org.github.io/IPRD/site_data/summary.json
+   https://iprd-org.github.io/iprd/metadata/catalog.json
+   https://iprd-org.github.io/iprd/site_data/summary.json
    ```
 
 2. **Playlists**: Access M3U playlists directly
    ```
-   https://iprd-org.github.io/IPRD/site_data/all_stations.m3u
-   https://iprd-org.github.io/IPRD/site_data/by_country/us.m3u
+   https://iprd-org.github.io/iprd/site_data/all_stations.m3u
+   https://iprd-org.github.io/iprd/site_data/by_country/us.m3u
    ```
 
 3. **GitHub Repository**: Clone or download the repository to access all files locally
    ```
-   git clone https://github.com/iprd-org/IPRD.git
+   git clone https://github.com/iprd-org/iprd.git
    ```
 
 ## Examples
@@ -124,7 +124,7 @@ You can access the data in several ways:
 
 ```javascript
 // Fetch the catalog and display station count
-fetch('https:/iprd-org.github.io/IPRD/metadata/catalog.json')
+fetch('https:/iprd-org.github.io/iprd/metadata/catalog.json')
   .then(response => response.json())
   .then(data => {
     console.log(`Found ${data.stations.length} radio stations`);
@@ -145,7 +145,7 @@ import requests
 import json
 
 # Fetch the catalog
-response = requests.get('https://iprd-org.github.io/IPRD/metadata/catalog.json')
+response = requests.get('https://iprd-org.github.io/iprd/metadata/catalog.json')
 catalog = response.json()
 
 # Get all stations with high reliability
