@@ -13,8 +13,7 @@ on:
 jobs:
   validate:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+    permissions: write-all
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4.2.2
