@@ -162,14 +162,14 @@ def parse_m3u_file(file_path):
                 
             if line.startswith('#EXTINF:'):
                 # Parse the EXTINF line
-                match = re.search(r'tvg-logo="([^"]*)".*group-title="([^;"]*)",(.*)', line)
+                match = re.search(r'tvg-logo="([^"]*)".*group-title="([^"]*)",(.*)', line)
                 if match:
                     logo_url = match.group(1)
                     group_title = match.group(2)
                     station_name = match.group(3).strip()
                     
                     # Extract genres
-                    genres = [genre.strip() for genre in group_title.split(',')]
+                    genres = [genre.strip() for genre in group_title.split(';')]
                     
                     current_station = {
                         'name': station_name,
