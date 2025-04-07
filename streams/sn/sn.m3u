@@ -11,7 +11,15 @@ http://listen.senemultimedia.net:8070/stream
 https://listen.radioking.com/radio/250102/stream/294397
 #EXTINF:-1 tvg-logo="https://www.radio.net/300/medinabaye.png?version=dc2c7c1f8fcb6e75b07c19afc1ce0301" group-title="(.*);(.*);",Radio Medinabaye
 http://stream.zeno.fm/w4v1hckvewwtv?rj-ttl=5&rj-token=AAABZjcDL3GcLe-oq7bxP93xUwuPc3wHfEc68bGEdvD-4s2pJdkDlQ&rj-tok=AAABfd2NcZoA8rvw-AwtE5mLLA
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/dxcfxuk4patz.png" group-title="news;talk;variety",Radio Senegal Internationale 92.5
+https://10gb1.acangroup.org:8000/rsi
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-ipBGUfgJoHClcXMAhRor0IuZtpNzURuyPQ&s" group-title="(.*);(.*);",RFM Radio 94.0
 http://stream.zeno.fm/kuk0syz5puquv?rj-ttl=5&rj-tok=AAABfd4rGPsACxJs7d-7MeiPfA
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/0/0e/Sud_FM_logo.jpg" group-title="(.*);(.*);",Sud FM 98.5
 http://stream.zeno.fm/8hddc402zbruv?rj-ttl=5&rj-tok=AAABfd3TscAAj-4IdCVqTfVL6w
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk9XAZ8zHfcgacbeOoFpbdPNUsAGrUabLlSw&s" group-title="talk;business",Walf FM 99.0
+https://10gb1.acangroup.org:8000/walffm
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvsJS9cd1hD81tkmA9SbGtOqq0cPI1it88tQ&s" group-title="world;news",West Africa Democracy Radio
+https://westafricademocracyradio.ice.infomaniak.ch/westafricademocracyradio.mp3?westafricaradio
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/93/Zik_Fm_logo.jpg" group-title="pop;news;talk",Zik FM 89.7
+https://10gb1.acangroup.org:8000/zikfm
