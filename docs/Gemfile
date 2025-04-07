@@ -1,22 +1,31 @@
 source "https://rubygems.org"
 
-gem "jekyll", "~> 4.3.0"
-gem "just-the-docs", "~> 0.5.4"
+# Utilisation de github-pages gem pour assurer la compatibilité avec GitHub Actions
+gem "github-pages", group: :jekyll_plugins
+# Garder la référence à just-the-docs comme thème
+gem "just-the-docs"
+gem "faraday-retry"
 
+# Plugins supplémentaires nécessaires
 group :jekyll_plugins do
-  # Add any Jekyll plugins here
+  gem "jekyll-remote-theme"
+  gem "jekyll-include-cache"
+  gem "jekyll-seo-tag"
 end
 
-# Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
-# and associated library.
+# Windows et JRuby n'incluent pas les fichiers zoneinfo, alors nous ajoutons les gems tzinfo-data
+# et la bibliothèque associée.
 platforms :mingw, :x64_mingw, :mswin, :jruby do
   gem "tzinfo", ">= 1", "< 3"
   gem "tzinfo-data"
 end
 
-# Performance-booster for watching directories on Windows
+# Optimiseur de performance pour surveiller les répertoires sur Windows
 gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 
-# Lock `http_parser.rb` gem to `v0.6.x` on JRuby builds since newer versions of the gem
-# do not have a Java counterpart.
+# Blocage de la gem `http_parser.rb` à `v0.6.x` pour les builds JRuby car les nouvelles versions
+# n'ont pas d'équivalent Java.
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
+
+# Webrick n'est plus inclus par défaut dans Ruby 3.0+
+gem "webrick", "~> 1.7"

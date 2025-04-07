@@ -21,17 +21,24 @@ The complete collection is available as a single M3U file:
 
 Browse stations by country:
 
-{% assign countries = site.data.summary.countries | sort: "name" %}
-{% if countries.size > 0 %}
+<!-- Improved error handling for GitHub Actions -->
+{% if site.data.summary and site.data.summary.countries and site.data.summary.countries.size > 0 %}
+  {% assign countries = site.data.summary.countries | sort: "name" %}
+  {% if countries.size > 0 %}
   <ul>
-  {% for country in countries %}
-    {% if country.count > 0 %}
-    <li><strong>{{ country.name }}</strong> - <a href="/site_data/by_country/{{ country.code | downcase }}.m3u">{{ country.code }}.m3u</a> ({{ country.count }} stations)</li>
-    {% endif %}
-  {% endfor %}
+    {% for country in countries %}
+      {% if country.count > 0 %}
+      <li><strong>{{ country.name }}</strong> - <a href="/site_data/by_country/{{ country.code | downcase }}.m3u">{{ country.code }}.m3u</a> ({{ country.count }} stations)</li>
+      {% endif %}
+    {% endfor %}
   </ul>
+  {% else %}
+  <p>No countries with stations found. Please check back later.</p>
+  {% endif %}
 {% else %}
-  <p>Country data currently unavailable. Please check back later.</p>
+  <!-- Fallback static content when data is not available in GitHub Actions -->
+  <p>Country-specific playlists are available in the repository under <code>/site_data/by_country/</code>.</p>
+  <p>Please visit our website for a complete list of countries and stations.</p>
 {% endif %}
 
 For a complete list of all data files organized in an easy-to-browse format, check our [Radio Data Files](./data_files.md) page.
