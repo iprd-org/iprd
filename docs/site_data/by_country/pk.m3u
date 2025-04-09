@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKLUyIhMVJbSnizstm0ZsX09HoDaCDEuLPDA&s" group-title="talk;world",Apna Karachi 107
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKLUyIhMVJbSnizstm0ZsX09HoDaCDEuLPDA&s" group-title="(.*);(.*);",Apna Karachi 107
 http://72.255.62.220:7070/live107
-#EXTINF:-1 tvg-logo="https://fm100pakistan.com/beta/wp-content/uploads/2021/02/FM-100-Pakistan-Logo.jpg" group-title="folk;talk",FM 100 Pakistan
+#EXTINF:-1 tvg-logo="https://fm100pakistan.com/beta/wp-content/uploads/2021/02/FM-100-Pakistan-Logo.jpg" group-title="(.*);(.*);",FM 100 Pakistan
 http://162.244.80.118:4900/;stream.mp3
-#EXTINF:-1 tvg-logo="http://www.hotfm.com.pk/img/logos/thumb_2002001388444747.jpg" group-title="news;sports;talk",Hot 105
+#EXTINF:-1 tvg-logo="http://www.hotfm.com.pk/img/logos/thumb_2002001388444747.jpg" group-title="(.*);(.*);",Hot 105
 http://172.93.237.106:8000/listen.mp3
-#EXTINF:-1 tvg-logo="https://samaafm.com/wp-content/uploads/2021/02/logo-sm.png" group-title="news;talk",Radio Mera 107.4
+#EXTINF:-1 tvg-logo="https://samaafm.com/wp-content/uploads/2021/02/logo-sm.png" group-title="(.*);(.*);",Radio Mera 107.4
 https://samaakhi107-itelservices.radioca.st/stream
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Logo_-_Pakistan_Broadcasting_Corporation.jpg" group-title="news;talk",Radio Pakistan World Service
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Logo_-_Pakistan_Broadcasting_Corporation.jpg" group-title="(.*);(.*);",Radio Pakistan World Service
 https://whmsonic.radio.gov.pk:7005/stream?type=http&nocache=12

@@ -1,11 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s218931/images/logog.png?t=163119" group-title="afropop;news;pop",KT Radio 96.7
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s218931/images/logog.png?t=163119" group-title="(.*);(.*);",KT Radio 96.7
 http://197.243.1.130:8006/k2dlivemp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJgq2h3F/47501.png" group-title="variety;news;talk",Radio1 91.1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJgq2h3F/47501.png" group-title="(.*);(.*);",Radio1 91.1
 http://80.241.215.175:5000/listen.pls
-#EXTINF:-1 tvg-logo="http://www.radiomaria.rw/wp-content/uploads/2017/11/cropped-per-favicon-270x270.jpg" group-title="catholic;christian;religious",Radio Maria 97.3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZm0OIIZXjT6TFl7kL_eJIVd5ZZELu7PUGTA&s" group-title="news;talk;variety",Radio10 87.6
+https://radio10rwanda-atunwadigital.streamguys1.com/Radio10Rwanda
+#EXTINF:-1 tvg-logo="http://www.radiomaria.rw/wp-content/uploads/2017/11/cropped-per-favicon-270x270.jpg" group-title="(.*);(.*);",Radio Maria 97.3
 http://dreamsiteradiocp.com:8044/stream
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s177322g.png" group-title="hip hop;world;pop",Radio10 87.6
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTachm3M00UkJrNI8St4U812o9oDD34STzCag&s" group-title="talk;news",Radio Rwanda 100.7
+http://listen.rba.co.rw:8000/;
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s177322g.png" group-title="(.*);(.*);",Radio10 87.6
 http://radio10-876fm.ice.infomaniak.ch/radio10-kigali.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/25ctkZQV/kfcrdjpskmne.jpg" group-title="news;public;talk",Royal FM 94.3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/25ctkZQV/kfcrdjpskmne.jpg" group-title="(.*);(.*);",Royal FM 94.3
 http://80.241.215.175:3000/listen.pls

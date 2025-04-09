@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://la1ere.francetvinfo.fr/assets/img/logos/logo_200x200.jpg" group-title="news;talk",Polynesie 1ere
+#EXTINF:-1 tvg-logo="https://la1ere.francetvinfo.fr/assets/img/logos/logo_200x200.jpg" group-title="(.*);(.*);",Polynesie 1ere
 https://polynesie.ice.infomaniak.ch/polynesie-128.mp3
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/uPQ_qzM_DjcsiHvKq4BKztqfsO1OFPpnKpQB6U2YPnEZO-ino7dEtfaHt3XXzRYlsIc" group-title="pop;news;top 40",Radio 1
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/uPQ_qzM_DjcsiHvKq4BKztqfsO1OFPpnKpQB6U2YPnEZO-ino7dEtfaHt3XXzRYlsIc" group-title="(.*);(.*);",Radio 1
 https://live.radio1.pf:8443/radio1
-#EXTINF:-1 tvg-logo="https://nz.radio.net/300/tiarefm.png?version=1e1831c6841a6d26f39b2bbf4ba63907" group-title="pop;reggae;zouk",Tiare 104.2
+#EXTINF:-1 tvg-logo="https://nz.radio.net/300/tiarefm.png?version=1e1831c6841a6d26f39b2bbf4ba63907" group-title="(.*);(.*);",Tiare 104.2
 https://live.tiarefm.pf:8443/tiarefm

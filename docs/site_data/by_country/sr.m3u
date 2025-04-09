@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://www.apintie.sr/apple-touch-icon-114x114-precomposed.png" group-title="pop;news;top 40",Apintie Radio 97.1
+#EXTINF:-1 tvg-logo="http://www.apintie.sr/apple-touch-icon-114x114-precomposed.png" group-title="(.*);(.*);",Apintie Radio 97.1
 http://s6.voscast.com:8150/
-#EXTINF:-1 tvg-logo="https://rtv-garudasuriname.com/wp-content/uploads/2018/12/logo.png" group-title="adult;contemporary;pop",Radio Garuda
+#EXTINF:-1 tvg-logo="https://rtv-garudasuriname.com/wp-content/uploads/2018/12/logo.png" group-title="(.*);(.*);",Radio Garuda
 http://162.244.80.245:8012/
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s100605/images/logog.jpg?t=164466" group-title="hindi;bollywood;world",Radio Ishara 100.7
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s100605/images/logog.jpg?t=164466" group-title="(.*);(.*);",Radio Ishara 100.7
 http://nickerie.webhop.net:8000/;stream.mp3

@@ -1,17 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/7/71/Aljazeera.svg/1200px-Aljazeera.svg.png" group-title="news;talk;arabic",Al Jazeera
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/7/71/Aljazeera.svg/1200px-Aljazeera.svg.png" group-title="(.*);(.*);",Al Jazeera
 https://live-hls-audio-web-aja.getaj.net/VOICE-AJA/01.m3u8
-#EXTINF:-1 tvg-logo="https://holaqatar.qa/assets/img/logo-ORANGE.png" group-title="spanish;variety",Hola Qatar Radio 92.0
+#EXTINF:-1 tvg-logo="https://holaqatar.qa/assets/img/logo-ORANGE.png" group-title="(.*);(.*);",Hola Qatar Radio 92.0
 https://67c7c75ff03cf.streamlock.net/SPANISH/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/DjHAU5Pr9xCH2MCYGaqnwPCGuo0TojBZM6ojmCERk8_abfu9i1zNV6fjKxSYwfwlth0" group-title="religious;islam",Holy Quran Radio 1 103.4
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/DjHAU5Pr9xCH2MCYGaqnwPCGuo0TojBZM6ojmCERk8_abfu9i1zNV6fjKxSYwfwlth0" group-title="(.*);(.*);",Holy Quran Radio 1 103.4
 https://67c7c75ff03cf.streamlock.net/QURAN/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/DjHAU5Pr9xCH2MCYGaqnwPCGuo0TojBZM6ojmCERk8_abfu9i1zNV6fjKxSYwfwlth0" group-title="religious;islam",Holy Quran Radio 2 106.0
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/DjHAU5Pr9xCH2MCYGaqnwPCGuo0TojBZM6ojmCERk8_abfu9i1zNV6fjKxSYwfwlth0" group-title="(.*);(.*);",Holy Quran Radio 2 106.0
 https://67c7c75ff03cf.streamlock.net/QURAN2/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.oryxradio.qa/assets/images/logo-black.png" group-title="french;variety",Oryx Radio 94.0
+#EXTINF:-1 tvg-logo="https://www.oryxradio.qa/assets/images/logo-black.png" group-title="(.*);(.*);",Oryx Radio 94.0
 https://67c7c75ff03cf.streamlock.net/ORYX/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://saadalsuwaidimed327blog.wordpress.com/wp-content/uploads/2017/05/qatar-radio1.png" group-title="variety;news",Qatar Radio 96.0
+#EXTINF:-1 tvg-logo="https://saadalsuwaidimed327blog.wordpress.com/wp-content/uploads/2017/05/qatar-radio1.png" group-title="(.*);(.*);",Qatar Radio 96.0
 https://65ec766567528.streamlock.net/QRS/myStream/chunklist_w109216624.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOVSFbl3MWQ755FxILmKvwdrOdm1iD7oPF8g&s" group-title="arabic;talk;world",QBS Radio 97.5
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOVSFbl3MWQ755FxILmKvwdrOdm1iD7oPF8g&s" group-title="(.*);(.*);",QBS Radio 97.5
 https://67c7c75ff03cf.streamlock.net/QBS/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://onlineradiofm.in/assets/image/radio/180/urdu-radio-doha.jpg" group-title="talk;folk;culture",Urdu Radio 107.0
+#EXTINF:-1 tvg-logo="https://onlineradiofm.in/assets/image/radio/180/urdu-radio-doha.jpg" group-title="(.*);(.*);",Urdu Radio 107.0
 https://67c7c75ff03cf.streamlock.net/URDU/myStream/playlist.m3u8

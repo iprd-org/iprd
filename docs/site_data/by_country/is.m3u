@@ -1,41 +1,41 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://vefutvarp.visir.is/favicons/apple-touch-icon.png" group-title="80s;oldies",80s Bylgjan
+#EXTINF:-1 tvg-logo="http://vefutvarp.visir.is/favicons/apple-touch-icon.png" group-title="(.*);(.*);",80s Bylgjan
 http://icecast.365net.is:8000/orb80s.aac
-#EXTINF:-1 tvg-logo="http://spilarinn.is//img/auglysing-spilarinn-facebookshare.jpg" group-title="pop;top 40",Apparatid
+#EXTINF:-1 tvg-logo="http://spilarinn.is//img/auglysing-spilarinn-facebookshare.jpg" group-title="(.*);(.*);",Apparatid
 http://icecast.365net.is:8000/orbApparatid.aac
-#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/object-images/3ce71e1f401554d4d004a91888272f7c.jpg" group-title="news;sports;talk",Bylgjan 98.9
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/object-images/3ce71e1f401554d4d004a91888272f7c.jpg" group-title="(.*);(.*);",Bylgjan 98.9
 http://icecast.365net.is:8000/orbbylgjan.aac
-#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/cd/1e/106644/2/c300.png" group-title="60s;oldies",Flashback 60s Online
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/cd/1e/106644/2/c300.png" group-title="(.*);(.*);",Flashback 60s Online
 http://radio.is:443/60flashback
-#EXTINF:-1 tvg-logo="http://flashback.is/img/channels/80s/channel.svg" group-title="80s;oldies",Flashback 80s 101.5
+#EXTINF:-1 tvg-logo="http://flashback.is/img/channels/80s/channel.svg" group-title="(.*);(.*);",Flashback 80s 101.5
 http://www.radio.is:443/80flashback
-#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/78/2c/106647/2/c300.png" group-title="90s;oldies",Flashback 90s Online
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/78/2c/106647/2/c300.png" group-title="(.*);(.*);",Flashback 90s Online
 http://www.radio.is:443/90flashback
-#EXTINF:-1 tvg-logo="http://flashback.is//img/favicon/flashback.png" group-title="pop;hits",Flashback 91.9
+#EXTINF:-1 tvg-logo="http://flashback.is//img/favicon/flashback.png" group-title="(.*);(.*);",Flashback 91.9
 http://www.radio.is:443/flashback
-#EXTINF:-1 tvg-logo="http://spilarinn.is/uploads/1487000023233.png" group-title="rock;oldies;community",Gull Bylgjan 90.9
+#EXTINF:-1 tvg-logo="http://spilarinn.is/uploads/1487000023233.png" group-title="(.*);(.*);",Gull Bylgjan 90.9
 http://icecast.365net.is:8000/orbGullBylgjan.aac
-#EXTINF:-1 tvg-logo="https://www.onlineradiobin.com/radio-icon/is/iskanninfm1005k100reykjavik.webp" group-title="contemporary;hits;top 40",K100
+#EXTINF:-1 tvg-logo="https://www.onlineradiobin.com/radio-icon/is/iskanninfm1005k100reykjavik.webp" group-title="(.*);(.*);",K100
 https://www.onlineradiobin.com/ajax/live.php?id=60711
-#EXTINF:-1 tvg-logo="http://spilarinn.is/uploads/1486999256323.png" group-title="contemporary;hits;top 40",Kannin 100.5 K100
+#EXTINF:-1 tvg-logo="http://spilarinn.is/uploads/1486999256323.png" group-title="(.*);(.*);",Kannin 100.5 K100
 http://www.radio.is:443/kaninnmobile
-#EXTINF:-1 tvg-logo="http://static.radio.net/images/broadcasts/c6/eb/16434/c175.png" group-title="easy listening;community",Létt Bylgjan
+#EXTINF:-1 tvg-logo="http://static.radio.net/images/broadcasts/c6/eb/16434/c175.png" group-title="(.*);(.*);",Létt Bylgjan
 http://icecast.365net.is:8000/orbLettBylgjan.aac
-#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s102576q.png" group-title="religion;christian",Radio Bodun 105.5
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s102576q.png" group-title="(.*);(.*);",Radio Bodun 105.5
 http://radio.bodun.is:8000/stream
-#EXTINF:-1 tvg-logo="https://www.ruv.is/sites/all/themes/at_ruv/images/favicons/mstile-70x70.png" group-title="culture;youth",Rás 2
+#EXTINF:-1 tvg-logo="https://www.ruv.is/sites/all/themes/at_ruv/images/favicons/mstile-70x70.png" group-title="(.*);(.*);",Rás 2
 http://netradio.ruv.is/ras2.aac
-#EXTINF:-1 tvg-logo="http://spilarinn.is/uploads/1486993521538.png" group-title="hits;oldies",Retro 89.5
+#EXTINF:-1 tvg-logo="http://spilarinn.is/uploads/1486993521538.png" group-title="(.*);(.*);",Retro 89.5
 http://www.radio.is:443/retromobile
-#EXTINF:-1 tvg-logo="https://www.ruv.is/sites/all/themes/at_ruv/images/svg/ruv-logo-36.svg?v=1.3" group-title="culture;news",Rás 1
+#EXTINF:-1 tvg-logo="https://www.ruv.is/sites/all/themes/at_ruv/images/svg/ruv-logo-36.svg?v=1.3" group-title="(.*);(.*);",Rás 1
 http://netradio.ruv.is/ras1.aac
-#EXTINF:-1 tvg-logo="http://utvarpsaga.is/file/2016/05/merki-toppur.png" group-title="news;talk;variety",Saga 99.4
+#EXTINF:-1 tvg-logo="http://utvarpsaga.is/file/2016/05/merki-toppur.png" group-title="(.*);(.*);",Saga 99.4
 http://www.radio.is:443/saga
-#EXTINF:-1 tvg-logo="http://spilarinn.is/uploads/1486999431932.png" group-title="contemporary;top 40",Trolli 103.7
+#EXTINF:-1 tvg-logo="http://spilarinn.is/uploads/1486999431932.png" group-title="(.*);(.*);",Trolli 103.7
 http://live.trolli.is:8200/listen.pls
-#EXTINF:-1 tvg-logo="http://us0-cdn.onlineradiobox.com/img/logo/5/11115.png" group-title="contemporary;hits;top 40",Visir FM 957 95.7 Extra
+#EXTINF:-1 tvg-logo="http://us0-cdn.onlineradiobox.com/img/logo/5/11115.png" group-title="(.*);(.*);",Visir FM 957 95.7 Extra
 http://icecast.365net.is:8000/orbFmExtra.aac
-#EXTINF:-1 tvg-logo="https://lh4.ggpht.com/iwWwymHV6NjFdRtXszPlt6AtrMZlSBfM2nUOzO5LN_X99cyVF2IClyw80OQovZD0o-V8=w300" group-title="community;pop",Visir FM 957 95.7
+#EXTINF:-1 tvg-logo="https://lh4.ggpht.com/iwWwymHV6NjFdRtXszPlt6AtrMZlSBfM2nUOzO5LN_X99cyVF2IClyw80OQovZD0o-V8=w300" group-title="(.*);(.*);",Visir FM 957 95.7
 http://icecast.365net.is:8000/orbFm957.aac
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s81854/images/logog.jpg?t=163345" group-title="community;rock",X977 97.7
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s81854/images/logog.jpg?t=163345" group-title="(.*);(.*);",X977 97.7
 http://icecast.365net.is:8000/orbXid.aac

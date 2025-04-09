@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://www.amoriginal.net/favicon.ico" group-title="folk;latino;world",AM Original 1180
+#EXTINF:-1 tvg-logo="http://www.amoriginal.net/favicon.ico" group-title="(.*);(.*);",AM Original 1180
 http://rosetta.shoutca.st:9264/stream
-#EXTINF:-1 tvg-logo="http://www.coolfmpanama.com/favicon.ico" group-title="blues;jazz",Cool 89.3
+#EXTINF:-1 tvg-logo="http://www.coolfmpanama.com/favicon.ico" group-title="(.*);(.*);",Cool 89.3
 https://playerservices.streamtheworld.com/api/livestream-redirect/COOLFMAAC_SC
-#EXTINF:-1 tvg-logo="http://los40pa00.epimg.net/iconos/v1.x/v1.0/promos/promo_og_los40.png" group-title="latin;pop;top 40",Los 40 105.7
+#EXTINF:-1 tvg-logo="http://los40pa00.epimg.net/iconos/v1.x/v1.0/promos/promo_og_los40.png" group-title="(.*);(.*);",Los 40 105.7
 https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_PAN_SC
-#EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/favicon_d4482afc.png?region=0%2C0%2C860%2C860" group-title="teen;pop",Radio Disney
+#EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/favicon_d4482afc.png?region=0%2C0%2C860%2C860" group-title="(.*);(.*);",Radio Disney
 http://ic.streann.com:8000/disneypanama
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQLY-Jkkh5P_NjCIIyvM1ogoX7dz4eQAORwQ&s" group-title="catholic;religion;talk",Radio Maria
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQLY-Jkkh5P_NjCIIyvM1ogoX7dz4eQAORwQ&s" group-title="(.*);(.*);",Radio Maria
 http://dreamsiteradiocp.com:8082/stream

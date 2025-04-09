@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/907071695864737792/UzxYjjop_400x400.jpg" group-title="pop;talk;top 40",Radio One Cambodia 103.7
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/907071695864737792/UzxYjjop_400x400.jpg" group-title="(.*);(.*);",Radio One Cambodia 103.7
 http://radio99.servradio.com:9298/;
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXrIK9wTF6CE13b-2mJa5NQZctw-32DM5UFQ&s" group-title="news;talk",RNK FM
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXrIK9wTF6CE13b-2mJa5NQZctw-32DM5UFQ&s" group-title="(.*);(.*);",RNK FM
 http://119.82.252.6:8181/broadwave.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Gm51fVVh/42810-v3.png" group-title="news;politics;talk",Vayo FM
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Gm51fVVh/42810-v3.png" group-title="(.*);(.*);",Vayo FM
 http://50.21.176.38:8010/vayofm

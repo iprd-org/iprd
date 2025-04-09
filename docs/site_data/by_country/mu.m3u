@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.radiomoris.com/favicon.ico" group-title="pop;folk;soul",Radio Moris
+#EXTINF:-1 tvg-logo="https://www.radiomoris.com/favicon.ico" group-title="(.*);(.*);",Radio Moris
 http://cp.radiomoris.com:443/stream

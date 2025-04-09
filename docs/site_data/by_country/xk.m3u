@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.capital921.com/images/logo.png" group-title="albanian;world;pop",92.1 Capital FM
+#EXTINF:-1 tvg-logo="https://www.capital921.com/images/logo.png" group-title="(.*);(.*);",92.1 Capital FM
 http://cfm.albaservers.com:8010/
-#EXTINF:-1 tvg-logo="https://kosovo.mom-gmr.org/uploads/tx_lfrogmom/media/1115-2018_import.png" group-title="top 40;pop",Klan Kosova FM
+#EXTINF:-1 tvg-logo="https://kosovo.mom-gmr.org/uploads/tx_lfrogmom/media/1115-2018_import.png" group-title="(.*);(.*);",Klan Kosova FM
 http://s4.radio.co/sd1d1904dc/listen
-#EXTINF:-1 tvg-logo="http://db.radioline.fr/pictures/radio_a8a0bad4d97ae81ef9971e714a00f3d9/logo200.jpg?size=200" group-title="world;albanian",Radio Dukagjini
+#EXTINF:-1 tvg-logo="http://db.radioline.fr/pictures/radio_a8a0bad4d97ae81ef9971e714a00f3d9/logo200.jpg?size=200" group-title="(.*);(.*);",Radio Dukagjini
 http://s6.voscast.com:8824/;stream.mp3
-#EXTINF:-1 tvg-logo="https://www.radiomariakosove.org/wp-content/uploads/2017/10/cropped-per-favicon-270x270.jpg" group-title="catholic;religion",Radio Maria 107.4
+#EXTINF:-1 tvg-logo="https://www.radiomariakosove.org/wp-content/uploads/2017/10/cropped-per-favicon-270x270.jpg" group-title="(.*);(.*);",Radio Maria 107.4
 http://dreamsiteradiocp2.com:8124/stream

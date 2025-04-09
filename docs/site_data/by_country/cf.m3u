@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.radiondekeluka.org/templates/radiondekeluka/images/logo.png" group-title="community;news;talk",Radio Ndeke Luka 100.8
+#EXTINF:-1 tvg-logo="https://www.radiondekeluka.org/templates/radiondekeluka/images/logo.png" group-title="(.*);(.*);",Radio Ndeke Luka 100.8
 http://stream.radiondekeluka.org:8001/ndekeluka

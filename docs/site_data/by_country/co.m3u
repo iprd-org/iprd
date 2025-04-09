@@ -1,229 +1,229 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/countries/colombia-logo_1200x630.png" group-title="latin;local",123 Vallenato
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/countries/colombia-logo_1200x630.png" group-title="(.*);(.*);",123 Vallenato
 http://radiolatina.info:7087/listen.pls
-#EXTINF:-1 tvg-logo="https://zeno.fm/static/icons/apple-icon-120x120.png" group-title="pop;80s;rock",Bravo 80
+#EXTINF:-1 tvg-logo="https://zeno.fm/static/icons/apple-icon-120x120.png" group-title="(.*);(.*);",Bravo 80
 http://stream.zeno.fm/hyvv0ya2es8uv
-#EXTINF:-1 tvg-logo="https://acuarioestereo.com/wp-content/plugins/player-widget/acuario.png" group-title="bolero;ballads",HJCC Acuario Estéreo 1010
+#EXTINF:-1 tvg-logo="https://acuarioestereo.com/wp-content/plugins/player-widget/acuario.png" group-title="(.*);(.*);",HJCC Acuario Estéreo 1010
 https://playerservices.streamtheworld.com/api/livestream-redirect/ACUARIOAAC_SC
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s253628d.png" group-title="hardcore;house;minimal",All About That Music
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s253628d.png" group-title="(.*);(.*);",All About That Music
 http://88.198.10.229:9500/stream
-#EXTINF:-1 tvg-logo="https://www.antena2.com/programas/colombia-la-nuestra" group-title="news;sports;talk",Antena 2
+#EXTINF:-1 tvg-logo="https://www.antena2.com/programas/colombia-la-nuestra" group-title="(.*);(.*);",Antena 2
 https://mdstrm.com/audio/632c9b439234f869e9a50e2b/live.m3u8
-#EXTINF:-1 tvg-logo="http://arizsantafmstereo.blogspot.com/favicon.ico" group-title="ballads;pop;traditional",Arizsanta
+#EXTINF:-1 tvg-logo="http://arizsantafmstereo.blogspot.com/favicon.ico" group-title="(.*);(.*);",Arizsanta
 http://163.172.77.142:8261/
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s160644/images/logog.png?t=1" group-title="local;news;zipaquirá",HJHV Armoniaz 1600
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s160644/images/logog.png?t=1" group-title="(.*);(.*);",HJHV Armoniaz 1600
 http://www.colombiaemite.com:10248/listen.pls
-#EXTINF:-1 tvg-logo="https://aviva2.com/web/wp-content/uploads/2020/04/LOGO-AVIVA2-PAGINA-2.png" group-title="christian;gospel",Radio AVIVA2 1280
+#EXTINF:-1 tvg-logo="https://aviva2.com/web/wp-content/uploads/2020/04/LOGO-AVIVA2-PAGINA-2.png" group-title="(.*);(.*);",Radio AVIVA2 1280
 https://stream.avivamientoradio.net/radio/8000/radio.mp3
-#EXTINF:-1 tvg-logo="https://barranquillaestereo.com/wp-content/uploads/cropped-favicon-180x180.png" group-title="80s;cumbia;latin",Barranquilla Estereo 91.1
+#EXTINF:-1 tvg-logo="https://barranquillaestereo.com/wp-content/uploads/cropped-favicon-180x180.png" group-title="(.*);(.*);",Barranquilla Estereo 91.1
 http://radio.yaservers.com:8197/;stream.mp3
-#EXTINF:-1 tvg-logo="https://zenoimages.s3.us-west-001.backblazeb2.com/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICw2NS8gwoMCxIOU3RhdGlvblByb2ZpbGUYgICw2JfF2QkMogEEemVubw/images/logo" group-title="80s;pop;rock",BBC 80s 107.0
+#EXTINF:-1 tvg-logo="https://zenoimages.s3.us-west-001.backblazeb2.com/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICw2NS8gwoMCxIOU3RhdGlvblByb2ZpbGUYgICw2JfF2QkMogEEemVubw/images/logo" group-title="(.*);(.*);",BBC 80s 107.0
 http://stream.zeno.fm/hyvv0ya2es8uv
-#EXTINF:-1 tvg-logo="http://envivo.besame.fm/build/assets/besamecolombia/img/favicons/apple-icon-120x120.png" group-title="baladas;cali;romantica",HJQ46 Bésame Cali 106.5
+#EXTINF:-1 tvg-logo="http://envivo.besame.fm/build/assets/besamecolombia/img/favicons/apple-icon-120x120.png" group-title="(.*);(.*);",HJQ46 Bésame Cali 106.5
 https://playerservices.streamtheworld.com/api/livestream-redirect/BESAME_CALIAAC_SC
-#EXTINF:-1 tvg-logo="https://www.bluradio.com////images/logo.png" group-title="live;sports;news",HJH27 Blu Radio Barranquilla 100.1
+#EXTINF:-1 tvg-logo="https://www.bluradio.com////images/logo.png" group-title="(.*);(.*);",HJH27 Blu Radio Barranquilla 100.1
 https://playerservices.streamtheworld.com/api/livestream-redirect/BLU_BARRANQUILLA.mp3
-#EXTINF:-1 tvg-logo="https://www.bluradio.com/images/logo.png" group-title="talk;live;sports",HJCK Blu Radio Señal Nacional
+#EXTINF:-1 tvg-logo="https://www.bluradio.com/images/logo.png" group-title="(.*);(.*);",HJCK Blu Radio Señal Nacional
 https://playerservices.streamtheworld.com/api/livestream-redirect/BLURADIO_SC
-#EXTINF:-1 tvg-logo="https://uploads.candelaestereo.com/1/2019/06/cropped-logo-candela-llama-100x100.png" group-title="latin;variety",HJPU Candela Estéreo 101.9
+#EXTINF:-1 tvg-logo="https://uploads.candelaestereo.com/1/2019/06/cropped-logo-candela-llama-100x100.png" group-title="(.*);(.*);",HJPU Candela Estéreo 101.9
 https://playerservices.streamtheworld.com/api/livestream-redirect/CANDELAESTEREO_SC
-#EXTINF:-1 tvg-logo="http://cr00.epimg.net/iconos/v1.x/v1.0/promos/promo_og_radio.png" group-title="armenia;live;sports",HJFI Caracol Radio Armenia 1150
+#EXTINF:-1 tvg-logo="http://cr00.epimg.net/iconos/v1.x/v1.0/promos/promo_og_radio.png" group-title="(.*);(.*);",HJFI Caracol Radio Armenia 1150
 https://playerservices.streamtheworld.com/api/livestream-redirect/CR_AM_ARMENIAAAC
-#EXTINF:-1 tvg-logo="http://cr00.epimg.net/iconos/v1.x/v1.0/promos/promo_og_radio.png" group-title="live;sports;news",HJNW Caracol Radio Cartagena de Indias 1070
+#EXTINF:-1 tvg-logo="http://cr00.epimg.net/iconos/v1.x/v1.0/promos/promo_og_radio.png" group-title="(.*);(.*);",HJNW Caracol Radio Cartagena de Indias 1070
 https://playerservices.streamtheworld.com/api/livestream-redirect/CR_AM_CARTAGENAAAC
-#EXTINF:-1 tvg-logo="http://cr00.epimg.net/iconos/v1.x/v1.0/promos/promo_og_radio.png" group-title="news;talk",HJGL Caracol Radio Colombia 100.9
+#EXTINF:-1 tvg-logo="http://cr00.epimg.net/iconos/v1.x/v1.0/promos/promo_og_radio.png" group-title="(.*);(.*);",HJGL Caracol Radio Colombia 100.9
 https://playerservices.streamtheworld.com/api/livestream-redirect/CARACOL_RADIOAAC_SC
-#EXTINF:-1 tvg-logo="http://cr00.epimg.net/favicon.png" group-title="magdalena;news;talk",HJPM Caracol Radio Santa Marta 890
+#EXTINF:-1 tvg-logo="http://cr00.epimg.net/favicon.png" group-title="(.*);(.*);",HJPM Caracol Radio Santa Marta 890
 https://playerservices.streamtheworld.com/api/livestream-redirect/CARACOL_STAMARTAAAC_SC
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/logo/2/44772.v12.png" group-title="bolero;colombia;corridos",Colombia Bohemia
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/logo/2/44772.v12.png" group-title="(.*);(.*);",Colombia Bohemia
 http://64.37.50.226:8024/listen.pls
-#EXTINF:-1 tvg-logo="https://colombiavallenatos.blogspot.com/favicon.ico" group-title="vallenata;world",Colombia Vallenata
+#EXTINF:-1 tvg-logo="https://colombiavallenatos.blogspot.com/favicon.ico" group-title="(.*);(.*);",Colombia Vallenata
 http://64.37.50.226:8042/stream/1/
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/logo/6/68976.v10.png" group-title="vallenata;colombian",Colombia Vallenata
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/logo/6/68976.v10.png" group-title="(.*);(.*);",Colombia Vallenata
 http://64.37.50.226:8042/listen.pls
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/ujdf4tajgxsf.jpg" group-title="colombian;vallenata;live",Colombia Vallenata En Vivo
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/ujdf4tajgxsf.jpg" group-title="(.*);(.*);",Colombia Vallenata En Vivo
 http://64.37.50.226:8042/listen.pls
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/UDE-GyAgzu8ZgixDVVEyW11KN7PuIeTVn7CTSnNkBBjaJ4k08gom2yqHUA3EndvidDg" group-title="electronic;rock;disco",Ctb Stereo
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/UDE-GyAgzu8ZgixDVVEyW11KN7PuIeTVn7CTSnNkBBjaJ4k08gom2yqHUA3EndvidDg" group-title="(.*);(.*);",Ctb Stereo
 http://stream.zeno.fm/r4t5dkavfzzuv
-#EXTINF:-1 tvg-logo="http://emisora.caroycuervo.gov.co/wp-content/uploads/logoicc.png" group-title="classical;college;culture",CyC Radio (Instituto Caro y Cuervo)
+#EXTINF:-1 tvg-logo="http://emisora.caroycuervo.gov.co/wp-content/uploads/logoicc.png" group-title="(.*);(.*);",CyC Radio (Instituto Caro y Cuervo)
 https://stream.radio.co/s978e5f6bd/listen
-#EXTINF:-1 tvg-logo="http://dicomania.com/wp-content/uploads/2020/07/LogoDicomaniaHorizontalbordeblanco.png" group-title="dance;electronic;reggaeton",Dicomania
+#EXTINF:-1 tvg-logo="http://dicomania.com/wp-content/uploads/2020/07/LogoDicomaniaHorizontalbordeblanco.png" group-title="(.*);(.*);",Dicomania
 https://streaming.tresbi.com/8304/dicomania
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/wv7mdkepcqeb.png" group-title="local;news;talk",HJNC Ecos del Combeima 790
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/wv7mdkepcqeb.png" group-title="(.*);(.*);",HJNC Ecos del Combeima 790
 http://s2.viastreaming.net:8030/listen.pls
-#EXTINF:-1 tvg-logo="http://www.elsol.com.co/wp-content/themes/elsol-old/logo2.png" group-title="latin;salsa;tropical",HJXW El Sol Medellín 107.9
+#EXTINF:-1 tvg-logo="http://www.elsol.com.co/wp-content/themes/elsol-old/logo2.png" group-title="(.*);(.*);",HJXW El Sol Medellín 107.9
 https://live1.rcnmundo.com/elsolmedellin.mp3
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s99249g.png" group-title="local;news;talk",HJTD Estrella Estéreo 104.3
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s99249g.png" group-title="(.*);(.*);",HJTD Estrella Estéreo 104.3
 http://68.233.236.92:8006/listen.pls
-#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/rtvc-assets-qa-sistemasenalcolombia.gov.co/styles/400x225/s3/noticias/exploremos-canal-tdt-2.jpg?itok=h8mn6D0H" group-title="education;public",Exploremos
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/rtvc-assets-qa-sistemasenalcolombia.gov.co/styles/400x225/s3/noticias/exploremos-canal-tdt-2.jpg?itok=h8mn6D0H" group-title="(.*);(.*);",Exploremos
 https://streaming.rtvc.gov.co/Radio_Digital/Radionacional_Digital.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://fantasticainternacional.com/wp-content/uploads/2017/05/header-2.png" group-title="leticia;local;news",HJF92 Fantástica Internacional 103.9
+#EXTINF:-1 tvg-logo="http://fantasticainternacional.com/wp-content/uploads/2017/05/header-2.png" group-title="(.*);(.*);",HJF92 Fantástica Internacional 103.9
 http://51.15.160.78:8326/listen.pls
-#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/6d/98/20727/c300.png" group-title="classical;cultura;cultural",HJCK El Mundo en Bogotá
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/6d/98/20727/c300.png" group-title="(.*);(.*);",HJCK El Mundo en Bogotá
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_HJCK_SC
-#EXTINF:-1 tvg-logo="https://www.humanaradio.com.co/wp-content/uploads/2018/10/cropped-Imagen1-1-270x270.png" group-title="economics;política;noticias",Humana Radio
+#EXTINF:-1 tvg-logo="https://www.humanaradio.com.co/wp-content/uploads/2018/10/cropped-Imagen1-1-270x270.png" group-title="(.*);(.*);",Humana Radio
 http://stream.zeno.fm/xbx98rvqbxquv
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_l09w1HDruEouLLUvItssTWKyMzKc3L98yTQGgOXw=s176-c-k-c0x00ffffff-no-rj" group-title="news;top 40",INCI Radio
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_l09w1HDruEouLLUvItssTWKyMzKc3L98yTQGgOXw=s176-c-k-c0x00ffffff-no-rj" group-title="(.*);(.*);",INCI Radio
 https://radiolatina.live/8038/stream
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1629132409416318977/BYhcti7b_400x400.jpg" group-title="classical;jazz;talk",Javeriana Estereo 91.9
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1629132409416318977/BYhcti7b_400x400.jpg" group-title="(.*);(.*);",Javeriana Estereo 91.9
 http://lira.servidoranonimo.org/proxy/javerian?mp=/stream
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s152305q.png" group-title="tropical;salsa",Jazmar Estereo 101.3
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s152305q.png" group-title="(.*);(.*);",Jazmar Estereo 101.3
 http://radiohd.streaminghd.co:9398/stream
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s16344d.png" group-title="local;news",HJCG La 1070 de Radio Santa Fe 1070
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s16344d.png" group-title="(.*);(.*);",HJCG La 1070 de Radio Santa Fe 1070
 https://playerservices.streamtheworld.com/api/livestream-redirect/QHUBO_BOGOTAAAC_SC
-#EXTINF:-1 tvg-logo="https://colombia.mom-gmr.org/uploads/_processed_/e/3/csm_526-941_import_3b6397516f.png" group-title="folk;rumba;spanish",La Carinosa 610
+#EXTINF:-1 tvg-logo="https://colombia.mom-gmr.org/uploads/_processed_/e/3/csm_526-941_import_3b6397516f.png" group-title="(.*);(.*);",La Carinosa 610
 https://mdstrm.com/audio/632c9c3d202d6801a3178028/live.m3u8
-#EXTINF:-1 tvg-logo="https://lacrossoveronline.com/favicon.ico" group-title="latin;meregue;bachata",La CrossOver
+#EXTINF:-1 tvg-logo="https://lacrossoveronline.com/favicon.ico" group-title="(.*);(.*);",La CrossOver
 https://listen.usuarios.space/lacrossover/
-#EXTINF:-1 tvg-logo="https://www.lafm.com.co/themes/custom/la_fm_theme/build/assets/images/apple-touch-icon.png" group-title="actualidad;entrevistas;latina",La FM 94.9
+#EXTINF:-1 tvg-logo="https://www.lafm.com.co/themes/custom/la_fm_theme/build/assets/images/apple-touch-icon.png" group-title="(.*);(.*);",La FM 94.9
 https://playerservices.streamtheworld.com/api/livestream-redirect/LA_FM_BOGAAC
-#EXTINF:-1 tvg-logo="http://lakalle.bluradio.com/images/favicon.png" group-title="folk;pop;ranchera",La Kalle 96.9
+#EXTINF:-1 tvg-logo="http://lakalle.bluradio.com/images/favicon.png" group-title="(.*);(.*);",La Kalle 96.9
 https://playerservices.streamtheworld.com/api/livestream-redirect/LA_KALLE_SC
-#EXTINF:-1 tvg-logo="http://www.lamega.com.co///favicon.ico" group-title="latin;pop;reggaeton",HJYY La Mega Bogotá 90.9
+#EXTINF:-1 tvg-logo="http://www.lamega.com.co///favicon.ico" group-title="(.*);(.*);",HJYY La Mega Bogotá 90.9
 https://playerservices.streamtheworld.com/api/livestream-redirect/LA_MEGA_BOG_SC
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s179330/images/logog.png?t=156707" group-title="latin;world",La Pachanguera 95.1
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s179330/images/logog.png?t=156707" group-title="(.*);(.*);",La Pachanguera 95.1
 http://radiolatina.info:8772/
-#EXTINF:-1 tvg-logo="https://zeno.fm/static/icons/apple-icon-120x120.png" group-title="religious;catolica",La Voz de Jesús
+#EXTINF:-1 tvg-logo="https://zeno.fm/static/icons/apple-icon-120x120.png" group-title="(.*);(.*);",La Voz de Jesús
 http://stream.zeno.fm/phybdd3ph98uv
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/CLNJwsMB48.jpg" group-title="religious;catolica",La Voz de Jesús
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/CLNJwsMB48.jpg" group-title="(.*);(.*);",La Voz de Jesús
 http://stream.zeno.fm/phybdd3ph98uv
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQ_P7WqAoMCxIOU3RhdGlvblByb2ZpbGUYgICQ-siMlggMogEEemVubw/image/" group-title="comunitaria;variety",La Voz de Mi Tierrita 94.1
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQ_P7WqAoMCxIOU3RhdGlvblByb2ZpbGUYgICQ-siMlggMogEEemVubw/image/" group-title="(.*);(.*);",La Voz de Mi Tierrita 94.1
 http://stream.zeno.fm/u8zxutp7mzzuv
-#EXTINF:-1 tvg-logo="https://www.lavozsalsa.com/wp-content/uploads/thegem-logos/logo_69ec910b63abad5528dc6c6a66a2558e_3x.png" group-title="salsa;romantica",La Voz Salsa
+#EXTINF:-1 tvg-logo="https://www.lavozsalsa.com/wp-content/uploads/thegem-logos/logo_69ec910b63abad5528dc6c6a66a2558e_3x.png" group-title="(.*);(.*);",La Voz Salsa
 https://estructuraweb.com.co:9108/live
-#EXTINF:-1 tvg-logo="http://www.laxmasmusica.com/static/images/apple-icon-120x120.14171d53f668.png" group-title="pop;electronic",HJG54 La X 103.9
+#EXTINF:-1 tvg-logo="http://www.laxmasmusica.com/static/images/apple-icon-120x120.14171d53f668.png" group-title="(.*);(.*);",HJG54 La X 103.9
 https://www.laxmasmusica.com/static/web_dataNormal.mp3
-#EXTINF:-1 tvg-logo="http://latinastereo.com/wp-content/uploads/2020/06/LatinaStereo-1.png" group-title="envigado;latin;salsa",Latina Stereo 100.9
+#EXTINF:-1 tvg-logo="http://latinastereo.com/wp-content/uploads/2020/06/LatinaStereo-1.png" group-title="(.*);(.*);",Latina Stereo 100.9
 http://198.27.68.65:8296/live
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s162449/images/logod.png?t=636905804240000000" group-title="academia;alternative;classical",HJUD LAUD Estéreo 90.4
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s162449/images/logod.png?t=636905804240000000" group-title="(.*);(.*);",HJUD LAUD Estéreo 90.4
 http://200.69.103.69:8000/laud
-#EXTINF:-1 tvg-logo="http://lunaestereo.com/wp-content/uploads/logo-luna-estereo.png" group-title="entretenimiento;local;news",Luna Estéreo 106.4
+#EXTINF:-1 tvg-logo="http://lunaestereo.com/wp-content/uploads/logo-luna-estereo.png" group-title="(.*);(.*);",Luna Estéreo 106.4
 https://play10.tikast.com/proxy/webvir?mp=/stream
-#EXTINF:-1 tvg-logo="https://madradio.co/wp-content/uploads/2021/07/cropped-favicon-180x180.png" group-title="salsa;pop;electronic",Mad Radio Barcelona
+#EXTINF:-1 tvg-logo="https://madradio.co/wp-content/uploads/2021/07/cropped-favicon-180x180.png" group-title="(.*);(.*);",Mad Radio Barcelona
 https://c2.radioboss.fm/stream/588
-#EXTINF:-1 tvg-logo="https://madradio.co/wp-content/uploads/2021/07/cropped-favicon-180x180.png" group-title="salsa;pop;electronic",Mad Radio Bogotà
+#EXTINF:-1 tvg-logo="https://madradio.co/wp-content/uploads/2021/07/cropped-favicon-180x180.png" group-title="(.*);(.*);",Mad Radio Bogotà
 https://s4.radio.co/s512b6f4ed/listen
-#EXTINF:-1 tvg-logo="https://madradio.co/wp-content/uploads/2021/07/cropped-favicon-180x180.png" group-title="salsa;pop;electronic",Mad Radio Medellín
+#EXTINF:-1 tvg-logo="https://madradio.co/wp-content/uploads/2021/07/cropped-favicon-180x180.png" group-title="(.*);(.*);",Mad Radio Medellín
 https://s2.radio.co/s953724e99/listen
-#EXTINF:-1 tvg-logo="http://www.cadenamelodia.com/images/logo_azul.jpg" group-title="ambient;easy listening;lounge",HJCU Melodía Stereo 730
+#EXTINF:-1 tvg-logo="http://www.cadenamelodia.com/images/logo_azul.jpg" group-title="(.*);(.*);",HJCU Melodía Stereo 730
 https://master.letio.com/io/?gs=7000&type=master.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/mi-ruta-mi-musica-5517.jpg" group-title="dance;electronic;pop",Mi Ruta Mi Musica
+#EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/mi-ruta-mi-musica-5517.jpg" group-title="(.*);(.*);",Mi Ruta Mi Musica
 http://stream.zeno.fm/7bmzawfhms8uv
-#EXTINF:-1 tvg-logo="https://kuasark.com/files/stations-logos/mi-ruta-mi-musica-retro.png" group-title="dance;dj sets;edm",Mi Ruta Mi Musica Retro
+#EXTINF:-1 tvg-logo="https://kuasark.com/files/stations-logos/mi-ruta-mi-musica-retro.png" group-title="(.*);(.*);",Mi Ruta Mi Musica Retro
 http://stream.zeno.fm/whvx8sy8hv8uv
-#EXTINF:-1 tvg-logo="http://mixradio.co/wp-content/uploads/2019/04/texto-1.jpg" group-title="champeta;reggaeton",Mix Radio 103.9
+#EXTINF:-1 tvg-logo="http://mixradio.co/wp-content/uploads/2019/04/texto-1.jpg" group-title="(.*);(.*);",Mix Radio 103.9
 https://master.letio.com/io/?gs=9156&type=master.m3u8
-#EXTINF:-1 tvg-logo="https://www.musicallanera.co/wp-content/uploads/2018/08/MusicaLlaneralogo.jpg" group-title="local;news;variety",Música Llanera y Sus Novedades
+#EXTINF:-1 tvg-logo="https://www.musicallanera.co/wp-content/uploads/2018/08/MusicaLlaneralogo.jpg" group-title="(.*);(.*);",Música Llanera y Sus Novedades
 http://192.99.203.81:8704/
-#EXTINF:-1 tvg-logo="http://olimpicastereo.com.co/wp-pics/themes/olimpica/img/icn/logo.png" group-title="merengue;salsa;tropical",HJO83 Olímpica Stéreo Armenia 96.1
+#EXTINF:-1 tvg-logo="http://olimpicastereo.com.co/wp-pics/themes/olimpica/img/icn/logo.png" group-title="(.*);(.*);",HJO83 Olímpica Stéreo Armenia 96.1
 https://master.letio.com/io/?gs=9162&type=master.m3u8
-#EXTINF:-1 tvg-logo="http://olimpicastereo.com.co/wp-pics/themes/olimpica/img/icn/logo.png" group-title="merengue;salsa;tropical",HJOJ Olímpica Stéreo Barranquilla 92.1
+#EXTINF:-1 tvg-logo="http://olimpicastereo.com.co/wp-pics/themes/olimpica/img/icn/logo.png" group-title="(.*);(.*);",HJOJ Olímpica Stéreo Barranquilla 92.1
 https://master.letio.com/io/?gs=9102&type=master.m3u8
-#EXTINF:-1 tvg-logo="http://olimpicastereo.com.co/wp-pics/themes/olimpica/img/icn/logo.png" group-title="merengue;salsa;tropical",HJIT Olímpica Stéreo Bogotá 105.9
+#EXTINF:-1 tvg-logo="http://olimpicastereo.com.co/wp-pics/themes/olimpica/img/icn/logo.png" group-title="(.*);(.*);",HJIT Olímpica Stéreo Bogotá 105.9
 https://master.letio.com/io/?gs=9114&type=master.m3u8
-#EXTINF:-1 tvg-logo="http://olimpicastereo.com.co/wp-pics/themes/olimpica/img/icn/logo.png" group-title="merengue;salsa;tropical",HJP23 Olímpica Stéreo Bucaramanga 97.7
+#EXTINF:-1 tvg-logo="http://olimpicastereo.com.co/wp-pics/themes/olimpica/img/icn/logo.png" group-title="(.*);(.*);",HJP23 Olímpica Stéreo Bucaramanga 97.7
 https://master.letio.com/io/?gs=9122&type=master.m3u8
-#EXTINF:-1 tvg-logo="http://olimpicastereo.com.co/wp-pics/themes/olimpica/img/icn/logo.png" group-title="merengue;salsa;tropical",HJUL Olímpica Stéreo Cali 104.5
+#EXTINF:-1 tvg-logo="http://olimpicastereo.com.co/wp-pics/themes/olimpica/img/icn/logo.png" group-title="(.*);(.*);",HJUL Olímpica Stéreo Cali 104.5
 https://master.letio.com/io/?gs=9120&type=master.m3u8
-#EXTINF:-1 tvg-logo="http://olimpicastereo.com.co/wp-pics/themes/olimpica/img/icn/logo.png" group-title="merengue;salsa;tropical",HJQW Olímpica Stéreo Cartagena 90.5
+#EXTINF:-1 tvg-logo="http://olimpicastereo.com.co/wp-pics/themes/olimpica/img/icn/logo.png" group-title="(.*);(.*);",HJQW Olímpica Stéreo Cartagena 90.5
 https://master.letio.com/io/?gs=9108&type=master.m3u8
-#EXTINF:-1 tvg-logo="http://olimpicastereo.com.co/wp-pics/themes/olimpica/img/icn/logo.png" group-title="merengue;salsa;tropical",HJAE Olímpica Stéreo Cúcuta 94.7
+#EXTINF:-1 tvg-logo="http://olimpicastereo.com.co/wp-pics/themes/olimpica/img/icn/logo.png" group-title="(.*);(.*);",HJAE Olímpica Stéreo Cúcuta 94.7
 https://master.letio.com/io/?gs=9134&type=master.m3u8
-#EXTINF:-1 tvg-logo="http://olimpicastereo.com.co/wp-pics/themes/olimpica/img/icn/logo.png" group-title="merengue;salsa;tropical",HJP93 Olímpica Stéreo Ibagué 94.3
+#EXTINF:-1 tvg-logo="http://olimpicastereo.com.co/wp-pics/themes/olimpica/img/icn/logo.png" group-title="(.*);(.*);",HJP93 Olímpica Stéreo Ibagué 94.3
 https://master.letio.com/io/?gs=9130&type=master.m3u8
-#EXTINF:-1 tvg-logo="http://olimpicastereo.com.co/wp-pics/themes/olimpica/img/icn/logo.png" group-title="merengue;salsa;tropical",HJI41 Olímpica Stéreo Manizales 89.7
+#EXTINF:-1 tvg-logo="http://olimpicastereo.com.co/wp-pics/themes/olimpica/img/icn/logo.png" group-title="(.*);(.*);",HJI41 Olímpica Stéreo Manizales 89.7
 https://master.letio.com/io/?gs=9126&type=master.m3u8
-#EXTINF:-1 tvg-logo="http://olimpicastereo.com.co/wp-pics/themes/olimpica/img/icn/logo.png" group-title="merengue;salsa;tropical",HJFK Olímpica Stéreo Medellín 104.9
+#EXTINF:-1 tvg-logo="http://olimpicastereo.com.co/wp-pics/themes/olimpica/img/icn/logo.png" group-title="(.*);(.*);",HJFK Olímpica Stéreo Medellín 104.9
 https://master.letio.com/io/?gs=9128&type=master.m3u8
-#EXTINF:-1 tvg-logo="http://olimpicastereo.com.co/wp-pics/themes/olimpica/img/icn/logo.png" group-title="merengue;salsa;tropical",HJIY Olímpica Stéreo Montería 90.5
+#EXTINF:-1 tvg-logo="http://olimpicastereo.com.co/wp-pics/themes/olimpica/img/icn/logo.png" group-title="(.*);(.*);",HJIY Olímpica Stéreo Montería 90.5
 https://master.letio.com/io/?gs=9112&type=master.m3u8
-#EXTINF:-1 tvg-logo="http://olimpicastereo.com.co/wp-pics/themes/olimpica/img/icn/logo.png" group-title="merengue;salsa;tropical",HJIV Olímpica Stéreo Neiva 100.3
+#EXTINF:-1 tvg-logo="http://olimpicastereo.com.co/wp-pics/themes/olimpica/img/icn/logo.png" group-title="(.*);(.*);",HJIV Olímpica Stéreo Neiva 100.3
 https://master.letio.com/io/?gs=9136&type=master.m3u8
-#EXTINF:-1 tvg-logo="http://olimpicastereo.com.co/wp-pics/themes/olimpica/img/icn/logo.png" group-title="merengue;salsa;tropical",HJO89 Olímpica Stéreo Pereira 102.7
+#EXTINF:-1 tvg-logo="http://olimpicastereo.com.co/wp-pics/themes/olimpica/img/icn/logo.png" group-title="(.*);(.*);",HJO89 Olímpica Stéreo Pereira 102.7
 https://master.letio.com/io/?gs=9124&type=master.m3u8
-#EXTINF:-1 tvg-logo="http://olimpicastereo.com.co/wp-pics/themes/olimpica/img/icn/logo.png" group-title="merengue;salsa;tropical",HJDP Olímpica Stéreo Santa Marta 97.1
+#EXTINF:-1 tvg-logo="http://olimpicastereo.com.co/wp-pics/themes/olimpica/img/icn/logo.png" group-title="(.*);(.*);",HJDP Olímpica Stéreo Santa Marta 97.1
 https://master.letio.com/io/?gs=9110&type=master.m3u8
-#EXTINF:-1 tvg-logo="http://olimpicastereo.com.co/wp-pics/themes/olimpica/img/icn/logo.png" group-title="merengue;salsa;tropical",HJVM Olímpica Stéreo Sincelejo 101.5
+#EXTINF:-1 tvg-logo="http://olimpicastereo.com.co/wp-pics/themes/olimpica/img/icn/logo.png" group-title="(.*);(.*);",HJVM Olímpica Stéreo Sincelejo 101.5
 https://master.letio.com/io/?gs=9116&type=master.m3u8
-#EXTINF:-1 tvg-logo="http://olimpicastereo.com.co/wp-pics/themes/olimpica/img/icn/logo.png" group-title="merengue;salsa;tropical",HJN46 Olímpica Stéreo Villavicencio 105.3
+#EXTINF:-1 tvg-logo="http://olimpicastereo.com.co/wp-pics/themes/olimpica/img/icn/logo.png" group-title="(.*);(.*);",HJN46 Olímpica Stéreo Villavicencio 105.3
 https://master.letio.com/io/?gs=9132&type=master.m3u8
-#EXTINF:-1 tvg-logo="https://radioly.app/images/31776.jpg" group-title="party;reggeton;urbano",HJL81 Oxigeno 100.4
+#EXTINF:-1 tvg-logo="https://radioly.app/images/31776.jpg" group-title="(.*);(.*);",HJL81 Oxigeno 100.4
 https://playerservices.streamtheworld.com/api/livestream-redirect/OXIGENO_SC
-#EXTINF:-1 tvg-logo="https://pinguinoestereo1069.com/images/pinguinoH.png" group-title="community;talk",Pingüino Estéreo 106.9
+#EXTINF:-1 tvg-logo="https://pinguinoestereo1069.com/images/pinguinoH.png" group-title="(.*);(.*);",Pingüino Estéreo 106.9
 http://radiolatina.info:9750/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Radio_Uno_%28Colombia%29_logo.png/225px-Radio_Uno_%28Colombia%29_logo.png" group-title="merengue;latin;world",Radio 1 88.9
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Radio_Uno_%28Colombia%29_logo.png/225px-Radio_Uno_%28Colombia%29_logo.png" group-title="(.*);(.*);",Radio 1 88.9
 https://mdstrm.com/audio/632c9bbcaa9ace684913b81b/live.m3u8
-#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/ee/c2/eec2bf6022d119ae0de90cfefeac9883.jpg" group-title="catholic;classical;college",HJA94 Radio Bolivariana 92.4
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/ee/c2/eec2bf6022d119ae0de90cfefeac9883.jpg" group-title="(.*);(.*);",HJA94 Radio Bolivariana 92.4
 http://streaming.radiobolivarianavirtual.com:7630/
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/ypvtkgkBhW.jpg" group-title="catolica;religious",Radio CCB
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/ypvtkgkBhW.jpg" group-title="(.*);(.*);",Radio CCB
 http://stream.zeno.fm/dstzbmmx5x8uv
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/bsbtthn9ajt2.jpeg" group-title="cristiana;gospel",Radio G
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/bsbtthn9ajt2.jpeg" group-title="(.*);(.*);",Radio G
 http://stream.zeno.fm/mp3w4yvp07zuv
-#EXTINF:-1 tvg-logo="http://www.radioipiales.co/wp-content/uploads/2018/02/cropped-logo-site-radio-ipiales-caracol-1-270x270.png" group-title="culture;ipiales;sports",HJJJ Radio Ipiales Caracol 1400
+#EXTINF:-1 tvg-logo="http://www.radioipiales.co/wp-content/uploads/2018/02/cropped-logo-site-radio-ipiales-caracol-1-270x270.png" group-title="(.*);(.*);",HJJJ Radio Ipiales Caracol 1400
 http://radiolatina.info:9456/;stream.nsv
-#EXTINF:-1 tvg-logo="https://i0.wp.com/radiokronos.com/wp-content/uploads/2018/11/cropped-cropped-radio-kronos.png?fit=180%2c180&#038;ssl=1" group-title="world;latin",Radio Kronos
+#EXTINF:-1 tvg-logo="https://i0.wp.com/radiokronos.com/wp-content/uploads/2018/11/cropped-cropped-radio-kronos.png?fit=180%2c180&#038;ssl=1" group-title="(.*);(.*);",Radio Kronos
 https://playerservices.streamtheworld.com/api/livestream-redirect/KRONOSAAC_SC
-#EXTINF:-1 tvg-logo="https://ca.radio.net/images/broadcasts/64/6c/19460/c300.png" group-title="aguachica;barranquilla;religion",HJKR Radio María
+#EXTINF:-1 tvg-logo="https://ca.radio.net/images/broadcasts/64/6c/19460/c300.png" group-title="(.*);(.*);",HJKR Radio María
 http://dreamsiteradiocp.com:8076/
-#EXTINF:-1 tvg-logo="https://www.radio.net/300/naccolombia.png?version=a6eee1689aa5c8b4c976c44df40ac58e" group-title="news;talk;variety",Radio Nacional de Colombia
+#EXTINF:-1 tvg-logo="https://www.radio.net/300/naccolombia.png?version=a6eee1689aa5c8b4c976c44df40ac58e" group-title="(.*);(.*);",Radio Nacional de Colombia
 http://shoutcast.rtvc.gov.co:8000/;
-#EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/radio-sonar-151.jpg" group-title="pop;news;culture",Radio Sonar 1260
+#EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/radio-sonar-151.jpg" group-title="(.*);(.*);",Radio Sonar 1260
 http://stream.zeno.fm/v6f2gp5hzk8uv
-#EXTINF:-1 tvg-logo="https://emisorasenvivo.co/sites/default/files/radio/logos/logo-radio-tiempo-medellin.jpg" group-title="balada;latin;romantica",Radio Tiempo Barranquilla 96.1
+#EXTINF:-1 tvg-logo="https://emisorasenvivo.co/sites/default/files/radio/logos/logo-radio-tiempo-medellin.jpg" group-title="(.*);(.*);",Radio Tiempo Barranquilla 96.1
 https://master.letio.com/io/?gs=9100&type=master.m3u8
-#EXTINF:-1 tvg-logo="https://emisorasenvivo.co/sites/default/files/radio/logos/logo-radio-tiempo-medellin.jpg" group-title="latin;romantica",HJB52 Radio Tiempo Cali 89.5
+#EXTINF:-1 tvg-logo="https://emisorasenvivo.co/sites/default/files/radio/logos/logo-radio-tiempo-medellin.jpg" group-title="(.*);(.*);",HJB52 Radio Tiempo Cali 89.5
 https://master.letio.com/io/?gs=9164&type=master.m3u8
-#EXTINF:-1 tvg-logo="https://emisorasenvivo.co/sites/default/files/radio/logos/logo-radio-tiempo-medellin.jpg" group-title="balada;latin;romantica",HJJL Radio Tiempo Cartagena de Indias 88.5
+#EXTINF:-1 tvg-logo="https://emisorasenvivo.co/sites/default/files/radio/logos/logo-radio-tiempo-medellin.jpg" group-title="(.*);(.*);",HJJL Radio Tiempo Cartagena de Indias 88.5
 https://master.letio.com/io/?gs=9140&type=master.m3u8
-#EXTINF:-1 tvg-logo="https://emisorasenvivo.co/sites/default/files/radio/logos/logo-radio-tiempo-medellin.jpg" group-title="balada;latin;pop",HJG55 Radio Tiempo Medellín 105.9
+#EXTINF:-1 tvg-logo="https://emisorasenvivo.co/sites/default/files/radio/logos/logo-radio-tiempo-medellin.jpg" group-title="(.*);(.*);",HJG55 Radio Tiempo Medellín 105.9
 https://master.letio.com/io/?gs=9144&type=master.m3u8
-#EXTINF:-1 tvg-logo="https://emisorasenvivo.co/sites/default/files/radio/logos/logo-radio-tiempo-medellin.jpg" group-title="pop;top 40;latin",Radio Tiempo Montería 104.5
+#EXTINF:-1 tvg-logo="https://emisorasenvivo.co/sites/default/files/radio/logos/logo-radio-tiempo-medellin.jpg" group-title="(.*);(.*);",Radio Tiempo Montería 104.5
 https://master.letio.com/io/?gs=9142&type=master.m3u8
-#EXTINF:-1 tvg-logo="http://www.radioacktiva.com/wp-content/themes/radioacktiva-outspoken/images/logo.png" group-title="classic;rock",RadioActiva 97.9
+#EXTINF:-1 tvg-logo="http://www.radioacktiva.com/wp-content/themes/radioacktiva-outspoken/images/logo.png" group-title="(.*);(.*);",RadioActiva 97.9
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ACTIVAAAC_SC
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Se%C3%B1al_Radionica_logo.svg/245px-Se%C3%B1al_Radionica_logo.svg.png" group-title="electronic;metal;rock",HJYM Radiónica 99.1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Se%C3%B1al_Radionica_logo.svg/245px-Se%C3%B1al_Radionica_logo.svg.png" group-title="(.*);(.*);",HJYM Radiónica 99.1
 http://shoutcast.rtvc.gov.co:8010/listen.pls
-#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s271963q.png" group-title="hip hop;rap;public",Radiónica 3
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s271963q.png" group-title="(.*);(.*);",Radiónica 3
 http://shoutcast.rtvc.gov.co:8070/listen.pls
-#EXTINF:-1 tvg-logo="https://www.rcnradio.com/favicon-32x32.png" group-title="deportes;news;noticias",RCN 93.9
+#EXTINF:-1 tvg-logo="https://www.rcnradio.com/favicon-32x32.png" group-title="(.*);(.*);",RCN 93.9
 https://playerservices.streamtheworld.com/api/livestream-redirect/RCN_RADIO_FM
-#EXTINF:-1 tvg-logo="https://www.rcnmundo.com/favicon.ico" group-title="musica;noticias",Rumba Ocaña
+#EXTINF:-1 tvg-logo="https://www.rcnmundo.com/favicon.ico" group-title="(.*);(.*);",Rumba Ocaña
 https://playerservices.streamtheworld.com/api/livestream-redirect/RUMBA_OCANAAAC
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s139027q.png" group-title="salsa;cali;jazz",Salsa Gorda Radio
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s139027q.png" group-title="(.*);(.*);",Salsa Gorda Radio
 http://stream.zeno.fm/u27pdewuq74tv
-#EXTINF:-1 tvg-logo="http://i64.tinypic.com/a4vhmo.png" group-title="guajira;jazz;latin",Salsa Gorda Radio
+#EXTINF:-1 tvg-logo="http://i64.tinypic.com/a4vhmo.png" group-title="(.*);(.*);",Salsa Gorda Radio
 http://stream.zeno.fm/s4s85axxaseuv
-#EXTINF:-1 tvg-logo="https://ibb.co/MhG8SCF" group-title="jazz;salsa;timba",Salsa Gorda Radio
+#EXTINF:-1 tvg-logo="https://ibb.co/MhG8SCF" group-title="(.*);(.*);",Salsa Gorda Radio
 http://stream.zeno.fm/s4s85axxaseuv
-#EXTINF:-1 tvg-logo="https://www.rtvc.gov.co/favicon.ico" group-title="classical;baroque",Señal Clásica RNC
+#EXTINF:-1 tvg-logo="https://www.rtvc.gov.co/favicon.ico" group-title="(.*);(.*);",Señal Clásica RNC
 http://shoutcast.rtvc.gov.co:8040/listen.pls
-#EXTINF:-1 tvg-logo="https://supresenciaradio.com/wp-content/uploads/2017/12/logo-spradio.png" group-title="cristiana;gospel;religious",Su Presencia Radio 1520
+#EXTINF:-1 tvg-logo="https://supresenciaradio.com/wp-content/uploads/2017/12/logo-spradio.png" group-title="(.*);(.*);",Su Presencia Radio 1520
 https://supresenciaradio.out.airtime.pro/supresenciaradio_a
-#EXTINF:-1 tvg-logo="https://supresenciaradio.com/wp-content/uploads/2017/12/logo-spradio.png" group-title="cristiana;gospel;religious",Su Presencia Radio 1520
+#EXTINF:-1 tvg-logo="https://supresenciaradio.com/wp-content/uploads/2017/12/logo-spradio.png" group-title="(.*);(.*);",Su Presencia Radio 1520
 http://supresenciaradio.out.airtime.pro:8000/supresenciaradio_c
-#EXTINF:-1 tvg-logo="http://superclasica.com/wp/wp-content/uploads/2013/11/logo-peq-color-mini.bmp" group-title="baladas;pop;romantica",Super Clásica
+#EXTINF:-1 tvg-logo="http://superclasica.com/wp/wp-content/uploads/2013/11/logo-peq-color-mini.bmp" group-title="(.*);(.*);",Super Clásica
 http://sclasica-stream.sytes.net:8012/listen.pls
-#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s161501q.png" group-title="60s;70s;80s",Super Clásica
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s161501q.png" group-title="(.*);(.*);",Super Clásica
 http://77.73.69.238:8000/stream
-#EXTINF:-1 tvg-logo="http://www.tropicanafm.com/wp-content/themes/tropicana-outspoken/images/favicon.ico" group-title="salsa;tropical;vallenato",HJRX Tropicana 102.9
+#EXTINF:-1 tvg-logo="http://www.tropicanafm.com/wp-content/themes/tropicana-outspoken/images/favicon.ico" group-title="(.*);(.*);",HJRX Tropicana 102.9
 https://playerservices.streamtheworld.com/api/livestream-redirect/TROPICANA_SC
-#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/t3BFeWXb5a.png" group-title="salsa;tropical;vallenato",Tropicana Cali 93.1
+#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/t3BFeWXb5a.png" group-title="(.*);(.*);",Tropicana Cali 93.1
 https://playerservices.streamtheworld.com/api/livestream-redirect/TR_CALIAAC
-#EXTINF:-1 tvg-logo="http://www.tropicanafm.com/bogota/wp-content/themes/tropicana-outspoken/images/favicon.ico" group-title="latin;merengue;salsa",HJN49 Tropicana Villavicencio 99.3
+#EXTINF:-1 tvg-logo="http://www.tropicanafm.com/bogota/wp-content/themes/tropicana-outspoken/images/favicon.ico" group-title="(.*);(.*);",HJN49 Tropicana Villavicencio 99.3
 https://playerservices.streamtheworld.com/api/livestream-redirect/TR_VILLAVICENCIOAAC_SC
-#EXTINF:-1 tvg-logo="http://www.unicauca.edu.co/sitioemisora/sites/all/themes/radio/imagenes/favicon.ico" group-title="folklore;local;university",Unicauca Estereo 104.1
+#EXTINF:-1 tvg-logo="http://www.unicauca.edu.co/sitioemisora/sites/all/themes/radio/imagenes/favicon.ico" group-title="(.*);(.*);",Unicauca Estereo 104.1
 http://ftpemisora.unicauca.edu.co:8000/stream
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6a2bfc_1c82b7fa2fb54d35a772866687b6cefb%7emv2.png/v1/fill/w_32%2ch_32%2clg_1%2cusm_0.66_1.00_0.01/6a2bfc_1c82b7fa2fb54d35a772866687b6cefb%7emv2.png" group-title="college;local;university",Unisabana Radio
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6a2bfc_1c82b7fa2fb54d35a772866687b6cefb%7emv2.png/v1/fill/w_32%2ch_32%2clg_1%2cusm_0.66_1.00_0.01/6a2bfc_1c82b7fa2fb54d35a772866687b6cefb%7emv2.png" group-title="(.*);(.*);",Unisabana Radio
 http://unisabana.out.airtime.pro:8000/unisabana_a
-#EXTINF:-1 tvg-logo="http://emisora.univalle.edu.co//wp-content/uploads/2013/12/univallestereo-appletouch.png" group-title="world;college;culture",HJC37 Univalle Estéreo 105.3
+#EXTINF:-1 tvg-logo="http://emisora.univalle.edu.co//wp-content/uploads/2013/12/univallestereo-appletouch.png" group-title="(.*);(.*);",HJC37 Univalle Estéreo 105.3
 http://uv-stereo.univalle.edu.co:8000/envivo.mp3
-#EXTINF:-1 tvg-logo="https://www.vibra.fm/favicon.ico" group-title="latin;pop;salsa",Vibra Bogotá 104.9
+#EXTINF:-1 tvg-logo="https://www.vibra.fm/favicon.ico" group-title="(.*);(.*);",Vibra Bogotá 104.9
 https://playerservices.streamtheworld.com/api/livestream-redirect/VIBRAAAC_SC
-#EXTINF:-1 tvg-logo="https://www.vozdelacapilla.com/" group-title="pop;ranchera;romantic",Voz de la Capilla
+#EXTINF:-1 tvg-logo="https://www.vozdelacapilla.com/" group-title="(.*);(.*);",Voz de la Capilla
 https://sonic.paulatina.co/7446/stream
-#EXTINF:-1 tvg-logo="http://ipcdesperanza.com/wp-content/uploads/2018/07/esperanza.jpg" group-title="cristiana;social",La Voz de la Esperanza
+#EXTINF:-1 tvg-logo="http://ipcdesperanza.com/wp-content/uploads/2018/07/esperanza.jpg" group-title="(.*);(.*);",La Voz de la Esperanza
 http://server2.ejeserver.com:8895/autodj
-#EXTINF:-1 tvg-logo="https://emisorasenvivo.com.co/uploads/img/w-radio.jpg" group-title="news;talk",HJCZ W Radio 690/99.9
+#EXTINF:-1 tvg-logo="https://emisorasenvivo.com.co/uploads/img/w-radio.jpg" group-title="(.*);(.*);",HJCZ W Radio 690/99.9
 https://playerservices.streamtheworld.com/api/livestream-redirect/WRADIOAAC
-#EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/zonasalsa-radio-3066.jpg" group-title="jazz;latino;salsa",ZonaSalsa
+#EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/zonasalsa-radio-3066.jpg" group-title="(.*);(.*);",ZonaSalsa
 http://s40.myradiostream.com:8520/listen.mp3

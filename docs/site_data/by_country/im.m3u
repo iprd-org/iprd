@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://assets.laut.fm/c5b66326c7964f1773717720cae4a181?t=_640x640" group-title="blues;rock;live",Alive
+#EXTINF:-1 tvg-logo="https://assets.laut.fm/c5b66326c7964f1773717720cae4a181?t=_640x640" group-title="(.*);(.*);",Alive
 http://alive.stream.laut.fm/alive?t302=2021-12-21_15-24-35&uuid=6ca76a18-1f97-4132-889d-d17aff4c4bb4
-#EXTINF:-1 tvg-logo="https://platform.aiircdn.com/sitelogos/147-T9L9fKDrZLR6Boqmmu5h.png" group-title="pop;news;contemporary",Manx Radio 1368
+#EXTINF:-1 tvg-logo="https://platform.aiircdn.com/sitelogos/147-T9L9fKDrZLR6Boqmmu5h.png" group-title="(.*);(.*);",Manx Radio 1368
 http://edge-audio-06-thn.sharp-stream.com/manxradiofm.aac?

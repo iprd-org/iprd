@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://thenonstopradio.com/images/radio/9461119.jpg" group-title="hip hop;world;top 40",NauFM 96.5
+#EXTINF:-1 tvg-logo="https://thenonstopradio.com/images/radio/9461119.jpg" group-title="(.*);(.*);",NauFM 96.5
 https://playerservices.streamtheworld.com/api/livestream-redirect/NAUFMAAC_SC
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ8-92E4Q7-h3c6rnkw8fKz1I2j7Y5uUN-zg&s" group-title="world;pop",Yumi 93.1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ8-92E4Q7-h3c6rnkw8fKz1I2j7Y5uUN-zg&s" group-title="(.*);(.*);",Yumi 93.1
 https://playerservices.streamtheworld.com/api/livestream-redirect/YUMIFMAAC_SC

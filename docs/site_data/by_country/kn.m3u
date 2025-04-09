@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://vonradio.com/wp-content/uploads/2019/10/von-logo-560x560.jpg" group-title="news;talk;sports",VON Radio 860
+#EXTINF:-1 tvg-logo="https://vonradio.com/wp-content/uploads/2019/10/von-logo-560x560.jpg" group-title="(.*);(.*);",VON Radio 860
 http://ais-sa1.streamon.fm/7008_24k.aac?type=.mp3/

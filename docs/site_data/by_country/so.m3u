@@ -1,13 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://zenoimages.s3.us-west-001.backblazeb2.com/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDQobzf9AgMCxIOU3RhdGlvblByb2ZpbGUYgIDQ4YTvkAoMogEEemVubw/images/logo" group-title="news;talk",Raadiyo Baydhabo 89.5
+#EXTINF:-1 tvg-logo="https://zenoimages.s3.us-west-001.backblazeb2.com/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDQobzf9AgMCxIOU3RhdGlvblByb2ZpbGUYgIDQ4YTvkAoMogEEemVubw/images/logo" group-title="(.*);(.*);",Raadiyo Baydhabo 89.5
 http://stream.zeno.fm/yxsfn746kg8uv?rj-ttl=5&rj-tok=AAABfd4qBj8AV8XM1RrZpl7OPA
-#EXTINF:-1 tvg-logo="https://gdb.voanews.com/01000000-0aff-0242-75c2-08dc42b55a67_w1200_r1.png" group-title="english;news;talk",Idaacadda Subaxnimo VOA
+#EXTINF:-1 tvg-logo="https://gdb.voanews.com/01000000-0aff-0242-75c2-08dc42b55a67_w1200_r1.png" group-title="(.*);(.*);",Idaacadda Subaxnimo VOA
 https://av.voanews.com/clips/VSO/2021/04/29/20210429-033000-VSO065-program_48k.mp3
-#EXTINF:-1 tvg-logo="https://radiorisaala.com/wp-content/uploads/2021/12/Logo-radio-risaala-somalia-e1638735560259.png" group-title="jazz;talk;country",Radio Risaala 102.2
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1558915399/RadioMogadishu_logo_400x400.jpg" group-title="talk;news",Radio Mugdisho 87.7
+https://ap02.iqplay.tv:8082/g1/r14iomog/icecast.audio
+#EXTINF:-1 tvg-logo="https://radiorisaala.com/wp-content/uploads/2021/12/Logo-radio-risaala-somalia-e1638735560259.png" group-title="(.*);(.*);",Radio Risaala 102.2
 http://stream.zeno.fm/3xk17bzdd3quv?rj-ttl=5&rj-tok=AAABfdr5aRsAVAGltOZCKvwY_w
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1090598614408273920/nvTIz2KJ_400x400.jpg" group-title="news;talk",Radio Shabelle
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1090598614408273920/nvTIz2KJ_400x400.jpg" group-title="(.*);(.*);",Radio Shabelle
 http://stream.zeno.fm/0qwev88fkf9uv?rj-ttl=5&rj-tok=AAABfd39V4cAul3gSF3jqV7-Gg
-#EXTINF:-1 tvg-logo="https://zeno.fm/_ipx/q_85&fit_cover&s_288x288/https://images.zeno.fm/TbkIaupSoTNcT3hOu2AdeY0qi8NN8OprID8AhOK4pq8/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJRGdvc2Fxd3dvTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ3drcHpoekFrTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MTc1ODU4NDAwMA.webp" group-title="news;variety",Roob Habeen
+#EXTINF:-1 tvg-logo="https://zeno.fm/_ipx/q_85&fit_cover&s_288x288/https://images.zeno.fm/TbkIaupSoTNcT3hOu2AdeY0qi8NN8OprID8AhOK4pq8/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJRGdvc2Fxd3dvTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ3drcHpoekFrTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MTc1ODU4NDAwMA.webp" group-title="(.*);(.*);",Roob Habeen
 http://stream.zeno.fm/t0dhv78c9s8uv?rj-ttl=5&rj-tok=AAABfd2eR7EASA1BnZUUNKd1XQ
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoHzYcQGA5Ukt2qk4whpHOmAK8YqjX3_qXaQ&s" group-title="news;talk",VOA Somali
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoHzYcQGA5Ukt2qk4whpHOmAK8YqjX3_qXaQ&s" group-title="(.*);(.*);",VOA Somali
 https://n08.radiojar.com/sgbs60fgq3quv?rj-ttl=5&rj-tok=AAABfdr2G2EADxu-4bkpX2oQ_Q
