@@ -5,6 +5,8 @@ http://radyomarabesk.kesintisizyayin.com:9968/stream?type=http&nocache=20866
 https://trkvz-radyolar.ercdn.net/ahaberradyo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://isbh.tmgrup.com.tr/sbh/site/v3/apara/i/favicon.png" group-title="(.*);(.*);",A Para Radyo
 https://trkvz-radyolar.ercdn.net/apararadyo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.radio.net/300/aspor.png?version=" group-title="pop;world",A Spor Radyo
+https://trkvz-radyolar.ercdn.net/asporradyo/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://acikradyo.com.tr/themes/custom/acikradyo/img/favicon/apple-touch-icon.png" group-title="(.*);(.*);",Acik Radyo
 http://stream.34bit.net/ar64.mp3
 #EXTINF:-1 tvg-logo="http://www.afneurope.net/portals/100/Images/Incirlik_AFN360Revamped-01.png" group-title="(.*);(.*);",AFN 360 Incirlik
@@ -29,6 +31,8 @@ https://sslyayin.netyayin.net:10909/
 http://46.20.7.116/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/bc/Bat%C4%B1_Radyo_logo.png" group-title="(.*);(.*);",Bati Radyo 93.6
 https://sslyayin.netyayin.net:10902/
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/51890847.jpg" group-title="islam;religious",Bayram FM 95.8
+https://sslyayin.netyayin.net/3442/stream
 #EXTINF:-1 tvg-logo="http://www.bestfm.com.tr//assets/client/img/logo.png" group-title="(.*);(.*);",Best FM
 http://46.20.7.125/
 #EXTINF:-1 tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/best-fm-dinle-100x100.png" group-title="(.*);(.*);",Best FM
@@ -51,6 +55,8 @@ https://stream.radyolarburada.com/radio/8280/1
 http://yayin1.yayindakiler.com:3124/listen.pls
 #EXTINF:-1 tvg-logo="https://www.cazkolik.com/resimler/genel/cazkoliklogo-buyuk.png" group-title="(.*);(.*);",Radyo Cazkolik
 https://streams.radio.co/s2cf477bcd/listen
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/d/d5/Cnnturkradyo.jpg" group-title="news;talk",CNN Turk Radyo 92.5
+https://moondigitaledge2.radyotvonline.net/cnnturk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.damarturkfm.com/wp-content/uploads/2021/02/cropped-d79x1zt-ce1a98f2-2213-42a5-a71b-8b15c64ce713-180x180.png" group-title="(.*);(.*);",Damar Turk FM
 https://live.radyositesihazir.com:10997/
 #EXTINF:-1 tvg-logo="https://www.damarturkfm.com/wp-content/uploads/2021/06/LOGO4.png" group-title="(.*);(.*);",Damar Turk FM
@@ -75,6 +81,10 @@ http://channels.dinamo.fm/sleep-mp3
 http://channels.dinamo.fm/smog-mp3
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI5kFuyS1Ijk8jG4EUZZMbIc12iHgMReiCrw&s" group-title="(.*);(.*);",Diyanet Kur'an Radyo
 https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c14192aa92.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQipBxb6ZCV6H14uW9o2Nw_8xtECNVg0joWaA&s" group-title="islam;world",Diyanet Radyo
+https://eustr76.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c1171d7d2a.smil/mt.m3u8
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/80/0c/800cb41b602da427f7eddf674cf89eb7.jpg" group-title="religious;islam",Diyanet Risalet Radyo
+https://eustr76.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c1520b2626.smil/mt.m3u8
 #EXTINF:-1 tvg-logo="https://www.radio.net/300/dogan21.png?version=37ab35b48ef85ac0ea69e5b81b64b2a7" group-title="(.*);(.*);",Doğan21 103.0
 http://yayin1.yayindakiler.com:3024/listen.pls
 #EXTINF:-1 tvg-logo="https://online-radio.eu/logo/8/8539.jpg" group-title="(.*);(.*);",Dogu Radyo 90.9
@@ -83,6 +93,8 @@ http://198.7.59.28:8146/
 http://yayin1.yayindakiler.com:3156/listen.pls
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKbhfT2_xMgWyVRwZBDlktH-91hD0_SAS57Q&s" group-title="(.*);(.*);",Enderun FM 88.2
 http://yayin2.canliyayin.org:7052/;*.mp3
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Hf0NtOQoXmIPWe2Hz8C5nptvA6Hx4QOvPmuE1bOkDhjcV6bJgRZBWAXS3Cjtf64QvD0=w240-h480-rw" group-title="news;sports;variety",Erkam Radyo 105.0
+https://api-tv5.yayin.com.tr:8002/mp3
 #EXTINF:-1 tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/erzincan-radyo-cem-dinle.jpg" group-title="(.*);(.*);",Radyo Cem 95.5
 https://erzincan.80.yayin.com.tr/stream
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/0ESBrqi-iqLY6MhNOt-hgXXxS7iOFK9RCQt70KE-kJW5IQVdCTDjpRbwFUS8SiBX0g" group-title="(.*);(.*);",Radyo Nostalji
@@ -115,6 +127,10 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/SC062_SO1AAC.a
 https://playerservices.streamtheworld.com/api/livestream-redirect/SC058_SO1AAC.aac
 #EXTINF:-1 tvg-logo="https://pickasso.spotifycdn.com/image/ab67c0de0000deef/dt/v1/img/radio/artist/1WntYpvVHloEvmoMr3ioGi/en" group-title="(.*);(.*);",Kafa Radyo
 http://37.247.98.17/
+#EXTINF:-1 tvg-logo="https://radyodinle.com/wp-content/uploads/2025/02/kalpfm.jpg" group-title="ballads;chanson",Kalp FM 102.2
+https://yayin.kalpfm.com:8080/
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/n2T76ygmxoIOUxYsQxN8fYV601EXgAMdgNurr0VQk25taCNUtT_1CLEk6LjmYId70A" group-title="hits;world",Karadeniz FM 98.2
+https://moondigitaledge.radyotvonline.net/karadenizfm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/album_media/24037/albumcover_400x400/cover_24037.jpg?v=080616054218" group-title="(.*);(.*);",Karnaval 2000'ler
 https://playerservices.streamtheworld.com/api/livestream-redirect/SC087_SO1AAC.aac
 #EXTINF:-1 tvg-logo="https://images.streamitter.com/logos/364WCT.png" group-title="(.*);(.*);",Karnaval 80'ler
@@ -133,8 +149,12 @@ http://yayin.radyomadyo.com:8002/stream
 http://46.20.3.204/
 #EXTINF:-1 tvg-logo="https://cdn1.kralmuzik.com.tr/media/content/i/web/Assets/i/logolar/kral-pop-radyo-small.png" group-title="(.*);(.*);",Kral Pop
 http://46.20.3.201/
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS7Brb0152YVSAz7r15e3Ds6SQjLhYF7vf4Q&s" group-title="pop;hits",Kupe FM
+https://icecast.netmedya.net/kupefm
 #EXTINF:-1 tvg-logo="https://kuasark.com/files/stations-logos/kurd-fm-de.png" group-title="(.*);(.*);",Kurd FM
 http://radio.kurdfm.com:4747/listen.pls
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-4Z0R3twTaL_sPQFXcui7L4awWUWh0PD8rA&s" group-title="culture;top 40",Lalegul FM 88.4
+https://icecast.netmedya.net/lalegulfm
 #EXTINF:-1 tvg-logo="https://www.ligradyo.com.tr/assets/img/ligradyo-apple-touch-icon.png" group-title="(.*);(.*);",Lig Radyo
 https://turkmedya.radyotvonline.com/turkmedya/ligradyo.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ligradyo.radyotvonline.net/ligradyo" group-title="(.*);(.*);",Lig Radyo
@@ -155,20 +175,32 @@ http://live.radyotvonline.com:8090/listen.pls
 http://medradyo.kesintisizyayin.com:8062/stream
 #EXTINF:-1 tvg-logo="https://megaaskfm.listen2myshow.com/assets/images/uploads/user_322791905/radio_468527181/logo_banner/logo/1232786724.png" group-title="(.*);(.*);",Mega Ask FM
 https://fps4.listen2myradio.com:2199/listen.php?ip=109.169.23.123&port=8350&type=s1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH6eyE2-k6i-PFw9OVrKx9clkSP1jzR0jdVA&s" group-title="news;weather;variety",Meteorolojinin Sesi Radyosu
+http://radyo.yayin.com.tr:6227/stream
 #EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/2/icons/apple-touch-icon-120x120.png" group-title="(.*);(.*);",Metro 97.2
 https://playerservices.streamtheworld.com/api/livestream-redirect/METRO_FMAAC_SC
 #EXTINF:-1 tvg-logo="https://www.norradyo.com/favicon.ico" group-title="(.*);(.*);",Nor Radyo
 http://www.norradyo.com:8000/live
 #EXTINF:-1 tvg-logo="http://www.ntvradyo.com.tr/favicon.ico" group-title="(.*);(.*);",NTV Radyo
 http://46.20.3.207/
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/5M8Pz7xdTslLSDVLN7IXsTfg52ICXhEBT8C3PQkuA43Hxf7ARadz25cHat3oNbCuR5zo" group-title="top 40;pop",Number1 FM 102.4
+https://n10101m.mediatriple.net/hls/media_rOoy4UFX_2.aac
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/96/be/96be5655a0321725e6af59c4a668d926.png" group-title="top 40;pop",Number1 Turk FM
+https://n10101m.mediatriple.net/hls/media_VMzl4RxO_5.aac
 #EXTINF:-1 tvg-logo="https://resim.firmarehberim.com/thumb/uye_1568792502cxBC1.jpg/0/300" group-title="(.*);(.*);",Onur Radyo
 http://anadolu.liderhost.com.tr:8094/
 #EXTINF:-1 tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/ozgur-radyo.jpg" group-title="(.*);(.*);",Radyo Ozgur 105.1
 http://95.173.188.170:9898/
 #EXTINF:-1 tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/pal-alaturka-canli.jpg" group-title="(.*);(.*);",Radyo Pal Alaturka
 http://shoutcast.radyogrup.com:3050/listen.pls
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/eUfyyhuRx7O9goCZXg5xFMO9jv4xvLq7h8V10U675xbUKmKWjRrrQN6RvKtv7-exSwE" group-title="(.*);(.*);",Radyo Pal DOGA 100.9
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/eUfyyhuRx7O9goCZXg5xFMO9jv4xvLq7h8V10U675xbUKmKWjRrrQN6RvKtv7-exSwE" group-title="(.*);(.*);",Pal Doga 100.9
 http://shoutcast.radyogrup.com:1040/;*.mp3
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/FrLR1GqlUlYum79uzLeiyTjYxsVndVbGPu-XTVbcu_21Xn_rV6wF85uG9V-UDTj_3g" group-title="pop;world",Pal FM 99.2
+https://moondigitaledge.radyotvonline.net/palfm/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQpE45wMxSg-KrVFQIiWLcILxrL27jwWId7A&s" group-title="pop;oldies",Pal Nostalji
+https://moondigitaledge.radyotvonline.net/palnostalji/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/71/7a/717aadb23b8194b30f2dbd80314c17ca.jpg" group-title="news;variety",Pal Station 106.0
+https://moondigitaledge.radyotvonline.net/palstation/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pashpashradio.com/PashPash_90s_Logo_360x191.png" group-title="(.*);(.*);",PashPash Radio
 https://90s.pashpashradio.com:7001/
 #EXTINF:-1 tvg-logo="https://pashpashradio.com/PashPash_Logo_512x512.png" group-title="(.*);(.*);",PashPash Radio
@@ -195,6 +227,10 @@ https://my.radiolize.com/radio/8000/radio.mp3
 http://radyo.yayin.com.tr:5898/
 #EXTINF:-1 tvg-logo="http://www.radyo7.com/application/assets/home/common/images/apple-touch-icon.png" group-title="(.*);(.*);",Radyo 7
 http://46.20.3.250/;stream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/100791368.png" group-title="variety;talk",Radyo 2000 90.6
+https://edge1.socialsmart.tv/radyo2000/bant1/icecast.audio
+#EXTINF:-1 tvg-logo="https://radyo45lik.com/wp-content/uploads/2022/12/radyo45lik_c1a.jpg" group-title="pop;world",Radyo 45'lik
+https://stream.radyo45lik.com:4545/
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScItOEZf1lZjjbdwOV3vzBDx76Dv-0rbat4A&s" group-title="(.*);(.*);",Radyo Anadolu Universitesi 101.7
 http://canli.radyoa.anadolu.edu.tr:44445/Radyo_A_MP3
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s249838g.png" group-title="(.*);(.*);",Radyo Arkadas 90.2
@@ -203,10 +239,16 @@ https://ssl120.radyotelekom.com.tr/9998/stream
 http://162.254.207.45:9300/stream
 #EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/103913904.png" group-title="(.*);(.*);",Radyo Bilim 97.0
 http://gitassi.com:8750/stream
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/f5/ee/f5ee88c98c8c01030dd597cccf939930.jpg" group-title="rap;r'n'b",Radyo BoomBox 100.2
+https://ssldyg2.radyotvonline.com/boombox/boombox.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/107864282.png" group-title="(.*);(.*);",Radyo Can 93.4
 http://yayin2.yayindakiler.com:4174/;stream.mp3
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/cElIGDapSdwSX0obDaKtjygh8FTv5tps5xh8cyeJqWMSlPPrWsGdbjVtULSysmu4aV_q=w240-h480-rw" group-title="world;pop",Radyo D 104.0
+https://moondigitaledge2.radyotvonline.net/radyod/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.radyodejavu.com/images/fb_promo.jpg" group-title="(.*);(.*);",Radyo Dejavu
 http://radyodejavu.canliyayinda.com:8054/
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/76/02/7602929e8902ea9a9e9f4cd42aa7d660.jpg" group-title="world;variety",Radyo Delal 95.9
+https://wowza1.radyotvonline.com/idilpr/radyodelal.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://uk.radio.net/300/demradyo.png?version=0e74690f241fe617018785e4fa48dfe8" group-title="(.*);(.*);",Radyo Dem
 https://yayin.radyodem.com:8000/
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s9395/images/logog.png?t=636449" group-title="(.*);(.*);",Radyo Ekin 94.3
@@ -215,6 +257,8 @@ http://yayin.turkhosted.com:6006/
 http://eksenwmp.radyotvonline.com/;stream.mp3
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/bc/0a/bc0aaf5936db725282623be42bf97ba2.png" group-title="(.*);(.*);",Radyo Erkan 93.3
 http://sunucu2.radyolarburada.com:8095/
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1855940270455439360/05RRY2pA_200x200.jpg" group-title="sports;news",Radyo Fenerbahce 97.0
+http://91.232.174.18:8000/Stream
 #EXTINF:-1 tvg-logo="https://cdn.radyofenomen.com/artwork/logo20.png" group-title="(.*);(.*);",Radyo Fenomen
 https://listen.radyofenomen.com/fenomen/256/icecast.audio
 #EXTINF:-1 tvg-logo="http://radyogedik.com.tr/wp-content/uploads/2019/02/rg-logo-s.png" group-title="(.*);(.*);",Radyo Gedik
@@ -227,6 +271,8 @@ http://yayin2.canliyayin.org:8866/;*.mp3
 http://live4.radyotvonline.com:9450/
 #EXTINF:-1 tvg-logo="http://www.radyokuran.net//uploads/site/favicon.png" group-title="(.*);(.*);",Radyo Kur'an
 http://yayin.liderhost.net:8555/;*.mp3
+#EXTINF:-1 tvg-logo="https://radyodinle.com/wp-content/uploads/2024/08/Radyo-Megasite-3-min.jpg" group-title="world;rock",Radyo Mars
+https://yayin.radyomadyo.com:9400/stream
 #EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000696234343-1v7nan-t240x240.jpg" group-title="(.*);(.*);",Radyo MODyAn
 http://stream.radio.co/s55d598f42/listen
 #EXTINF:-1 tvg-logo="http://www.radyoodtu.com.tr/images/header_logo.png" group-title="(.*);(.*);",Radyo ODTU 103.1
@@ -249,6 +295,10 @@ http://46.20.7.103:8040/listen.pls
 https://moondigitaledge.radyotvonline.net/radyospor/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/38279206.jpg" group-title="(.*);(.*);",Radyo Taksi
 https://live.radyo.in/8006/stream
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/hgg2k7Rj0wQt5vlBdhYdl_A539_mnz8nxvfpOzB4lSwg8iZxjkwacyPX40XiadyA3Ys" group-title="pop;rock",Radyo Trio 97.6
+https://radyotrio.radyotvonline.net/radyotrio
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbIrw6PXU-gTXpk7eeGqD8QPqHm-STFfZCYA&s" group-title="pop;rock",Radyo Turkuvaz 90.2
+https://trkvz-radyolar.ercdn.net/radyoturkuvaz/media-us72i4ovd_148430.aac
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwyadA2D5KchG4OHH7N2zAypapxFZACK46Xg&s" group-title="(.*);(.*);",Radyo Vatan Turku
 http://95.0.173.195:9000/turku
 #EXTINF:-1 tvg-logo="https://radyoviva.com.tr/wp-content/uploads/2021/01/VivaLogo.png" group-title="(.*);(.*);",Radyo Viva 90.0
@@ -269,10 +319,14 @@ http://yayin1.canliyayin.org:7010/;*.mp3
 https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c1520b2626.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://rootradio.live/wp-content/uploads/2020/04/cropped-r-root-16x16px-01-32x32.png" group-title="(.*);(.*);",Root Radio
 http://n02.radiojar.com/q1mgvh4u4yzuv?rj-ttl=5&rj-tok=AAABfds9uKcAI15Gq5yMknyrFA
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/e0/a8/e0a871e788ce2482fdfa05c0250818b2.jpg" group-title="talk;variety",Radyo Sada El Furat 101.3
+https://wowza1.radyotvonline.com/idilpr/sadaelfurat.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.semerkandradyo.com.tr/" group-title="(.*);(.*);",Semerkand Radyo
 http://mtisvwurbfcyslive.mediatriple.net/mtisvwurbfcyslive/broadcast_58e23cb112296.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://kuasark.com/files/stations-logos/serhad-fm.png" group-title="(.*);(.*);",Serhad FM 103.0
 http://yayin2.canliyayin.org:9372/
+#EXTINF:-1 tvg-logo="https://images.radiovolna.net/_files/images/stations/401745/bayf59a99f5a2a5af049073800_165x165.webp" group-title="pop;world",Seyr FM 102.3
+https://sslyayin.netyayin.net/8024/stream
 #EXTINF:-1 tvg-logo="http://www.showradyo.com.tr/favicon.ico" group-title="(.*);(.*);",Show Radyo
 http://46.20.3.229/;stream.nsv
 #EXTINF:-1 tvg-logo="http://slowtime.com.tr/wp-content/uploads/2015/04/logo-slowtime-100x100.png" group-title="(.*);(.*);",Slow Time
@@ -281,28 +335,48 @@ http://46.20.7.103:8030/listen.pls
 https://radyo.duhnet.tv/slowturk
 #EXTINF:-1 tvg-logo="http://www.standart.fm/static/icons/apple-touch-icon.png" group-title="(.*);(.*);",Standart.fm
 https://moondigitaledge.radyotvonline.net/standartfm/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.sunrtv.com.tr" group-title="(.*);(.*);",Sun Radyo 96.1
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/c6/31/c631859addc941b0c4aaeea3afcf8f43.jpg" group-title="(.*);(.*);",Sun Radyo 96.1
 https://tr.socialsmart.tv/sunradyo/bant1/icecast.audio
+#EXTINF:-1 tvg-logo="https://www.radio.net/300/superfm.png?version=21651a0054a13b08cc9617fce83ab158" group-title="pop;world",Super FM
+https://29053.live.streamtheworld.com/SUPER_FM128AAC.aac
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s110604g.png" group-title="(.*);(.*);",Super Show Radyo 97.3
 http://yayin.netyayin.net:6065/listen.pls
 #EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/27517874.jpg" group-title="(.*);(.*);",Tezene
 http://37.247.98.8/stream/22/.mp3?%26token=Bsx3vK2u28-xMp98IZDV2Q%26expires=1618686860%27%20type=%27audio/mp3%27&rd2=%27https://radyo.vip/stream
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5MpTR2POidR10151aTFaS2IbDCWp8r5wHIA&s" group-title="top 40;world",TGRT FM 93.2
+https://icecasttgrt.ihlasdigitalassets.com/tgrtfm
 #EXTINF:-1 tvg-logo="https://therock.com.tr/images/favicon.png" group-title="(.*);(.*);",The Rock Radio
 https://ssl4.radyotvonline.com/radyohome/therockradio.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvPdjChX-nBrKnARLEqzOG5Uu2CdS7-XT3Qg&s" group-title="news;talk",TRT Antalya
+https://radio-trtantalya.medya.trt.com.tr/master_128.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlpBAsMrzir2QPX4Okkx1RPavEfLclwfIczw&s" group-title="news;talk",TRT Cukurova 105.1
+https://radio-trtcukurova.medya.trt.com.tr/master_128.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPLZxowaXOwNnissDMF2rVGO_lEpUhmBOiKQ&s" group-title="news;talk",TRT Erzurum
+https://radio-trterzurum.medya.trt.com.tr/master_128.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/TRT_FM_logo.svg/640px-TRT_FM_logo.svg.png" group-title="(.*);(.*);",TRT FM
 https://ssl4.radyotvonline.com/radyohome/trtfm.stream_aac/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1755099510529777664/-uz8LeWS_400x400.jpg" group-title="news;talk",TRT GAP Diyarbakir
+https://radio-trtgap.medya.trt.com.tr/master_128.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCEhvJRWyQImLDiiom35LqOSrU-YVVmhIxKQ&s" group-title="world;variety",TRT Memleketim FM
+https://radio-trtmemleketimfm.medya.trt.com.tr/master_128.m3u8
 #EXTINF:-1 tvg-logo="https://static.tuneyou.com/images/logos/500_500/83/12783/TRTNagme.png" group-title="(.*);(.*);",TRT Nagme 102.8
 https://radio-trtnagme.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.tuneyou.com/images/logos/500_500/83/12783/TRTNagme.png" group-title="(.*);(.*);",TRT Nagme 102.8
 https://ssl4.radyotvonline.com/radyohome/trtnagme.stream_aac/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://radyo.trt.net.tr/Data/Arsiv/Kanal/425b95f9-101d-46b0-8513-2433226199b1k.png" group-title="(.*);(.*);",TRT Radyo 3
 https://radio-trtradyo3.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-DR0YkgM2OVWXN1ayHyCULMnGVIF9DIZ0HA&s" group-title="kurdish;variety",TRT Radyo Kurdi
+https://radio-trtradyo6.medya.trt.com.tr/master_128.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeLTBOh8yTL2zGa9d0jnAEx5uQs2vxFH_sRQ&s" group-title="news;talk",TRT Trabzon 97.0
+https://radio-trttrabzon.medya.trt.com.tr/master_128.m3u8
 #EXTINF:-1 tvg-logo="https://www.trtworld.com/images/favicons/apple-touch-icon.png" group-title="(.*);(.*);",TRT TSR
 https://radio-trttsr.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="http://radyo.trt.net.tr/icons/apple-icon-120x120.png" group-title="(.*);(.*);",TRT Turku 98.6
 https://radio-trtturku.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.trtworld.com/images/favicons/apple-touch-icon.png" group-title="(.*);(.*);",TRT VOT East 2
+#EXTINF:-1 tvg-logo="https://www.trtworld.com/images/favicons/apple-touch-icon.png" group-title="(.*);(.*);",TRT VOT East 
 https://radio-trtvoteast.live.trt.com.tr/master_128.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKeG7Wy7DGf4pxuU-9jvD8-WqdB7AvaVNhvA&s" group-title="news;variety",TRT VOT West 
+https://radio-trtvotwest.medya.trt.com.tr/master_128.m3u8
 #EXTINF:-1 tvg-logo="https://www.trtworld.com/images/favicons/apple-touch-icon.png" group-title="(.*);(.*);",TRT VOT World
 http://tv-trtworld.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.trt.net.tr/anasayfa/images2012/trtlogo.png" group-title="(.*);(.*);",TRT-Haber Radyo
@@ -325,3 +399,5 @@ https://trkvz-radyolar.ercdn.net/radyovav/playlist.m3u8
 https://playerservices.streamtheworld.com/api/livestream-redirect/VIRGIN_RADIO_SC
 #EXTINF:-1 tvg-logo="https://kuasark.com/files/stations-logos/yon-radyo.png" group-title="(.*);(.*);",Yon Radyo 96.6
 https://stream.radyolarburada.com/radio/8020/yonradyo
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/ea/7c/ea7c4d949a147fdc98184f2826dba830.jpg" group-title="world;variety",Yurt FM 97.8
+https://wowza1.radyotvonline.com/idilpr/yurtfm.stream/playlist.m3u8
