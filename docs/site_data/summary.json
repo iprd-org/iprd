@@ -1,5 +1,5 @@
 {
-  "total_stations": 21886,
+  "total_stations": 21930,
   "total_countries": 228,
   "countries": [
     {
@@ -75,6 +75,10 @@
       "count": 247
     },
     {
+      "code": "TR",
+      "count": 201
+    },
+    {
       "code": "UA",
       "count": 192
     },
@@ -93,10 +97,6 @@
     {
       "code": "CZ",
       "count": 174
-    },
-    {
-      "code": "TR",
-      "count": 163
     },
     {
       "code": "IN",
@@ -207,6 +207,10 @@
       "count": 37
     },
     {
+      "code": "TH",
+      "count": 37
+    },
+    {
       "code": "MY",
       "count": 35
     },
@@ -224,10 +228,6 @@
     },
     {
       "code": "BY",
-      "count": 34
-    },
-    {
-      "code": "TH",
       "count": 34
     },
     {
@@ -591,6 +591,10 @@
       "count": 4
     },
     {
+      "code": "TG",
+      "count": 4
+    },
+    {
       "code": "GD",
       "count": 4
     },
@@ -671,6 +675,10 @@
       "count": 2
     },
     {
+      "code": "SX",
+      "count": 2
+    },
+    {
       "code": "BF",
       "count": 2
     },
@@ -708,10 +716,6 @@
     },
     {
       "code": "KY",
-      "count": 2
-    },
-    {
-      "code": "TG",
       "count": 2
     },
     {
@@ -780,10 +784,6 @@
     },
     {
       "code": "SB",
-      "count": 1
-    },
-    {
-      "code": "SX",
       "count": 1
     },
     {
@@ -964,7 +964,7 @@
     {
       "code": "TR",
       "file": "streams/tr/tr.m3u",
-      "count": 163
+      "count": 201
     },
     {
       "code": "AU",
@@ -1254,7 +1254,7 @@
     {
       "code": "SX",
       "file": "streams/sx/sx.m3u",
-      "count": 1
+      "count": 2
     },
     {
       "code": "BH",
@@ -1334,7 +1334,7 @@
     {
       "code": "TH",
       "file": "streams/th/th.m3u",
-      "count": 34
+      "count": 37
     },
     {
       "code": "SK",
@@ -2014,7 +2014,7 @@
     {
       "code": "TG",
       "file": "streams/tg/tg.m3u",
-      "count": 2
+      "count": 4
     },
     {
       "code": "DK",
@@ -2213,7 +2213,7 @@
     }
   ],
   "genre_stats": {
-    "total_unique_genres": 341,
+    "total_unique_genres": 343,
     "top_genres": [
       {
         "name": "(.*)",
@@ -2225,27 +2225,27 @@
       },
       {
         "name": "pop",
-        "count": 328
+        "count": 342
       },
       {
         "name": "news",
-        "count": 299
+        "count": 312
       },
       {
         "name": "talk",
-        "count": 172
+        "count": 181
       },
       {
         "name": "rock",
-        "count": 164
+        "count": 168
       },
       {
         "name": "hits",
-        "count": 163
+        "count": 165
       },
       {
         "name": "variety",
-        "count": 99
+        "count": 109
       },
       {
         "name": "public",
@@ -2253,26 +2253,30 @@
       },
       {
         "name": "world",
-        "count": 78
+        "count": 92
       },
       {
         "name": "top 40",
-        "count": 73
+        "count": 77
       },
       {
         "name": "sports",
-        "count": 73
+        "count": 75
       },
       {
         "name": "contemporary",
         "count": 58
       },
       {
+        "name": "culture",
+        "count": 57
+      },
+      {
         "name": "community",
         "count": 56
       },
       {
-        "name": "culture",
+        "name": "religious",
         "count": 55
       },
       {
@@ -2288,16 +2292,12 @@
         "count": 53
       },
       {
-        "name": "religious",
-        "count": 53
-      },
-      {
         "name": "information",
         "count": 53
       },
       {
         "name": "oldies",
-        "count": 49
+        "count": 50
       },
       {
         "name": "folk",
@@ -2352,11 +2352,11 @@
         "count": 21
       },
       {
-        "name": "catholic",
-        "count": 19
+        "name": "gospel",
+        "count": 20
       },
       {
-        "name": "gospel",
+        "name": "catholic",
         "count": 19
       },
       {
@@ -2380,6 +2380,10 @@
         "count": 14
       },
       {
+        "name": "r'n'b",
+        "count": 13
+      },
+      {
         "name": "60s",
         "count": 13
       },
@@ -2388,34 +2392,30 @@
         "count": 12
       },
       {
-        "name": "r'n'b",
+        "name": "dutch",
         "count": 12
       },
       {
-        "name": "dutch",
-        "count": 12
+        "name": "indie",
+        "count": 11
+      },
+      {
+        "name": "education",
+        "count": 11
       },
       {
         "name": "music",
         "count": 11
       },
       {
-        "name": "indie",
-        "count": 10
-      },
-      {
-        "name": "education",
+        "name": "islam",
         "count": 10
       },
       {
         "name": "metal",
         "count": 10
-      },
-      {
-        "name": "baroque",
-        "count": 10
       }
     ]
   },
-  "updated": "2025-04-09T01:51:47Z"
+  "updated": "2025-04-13T02:23:15Z"
 }

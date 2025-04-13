@@ -5,7 +5,7 @@ https://radio10.plathong.net/7064/;stream.mp3
 http://radio11.plathong.net:8896/;stream.mp3
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/6zZpWOo58_i5RbuWA87CeR7Npt5WhG5nr8dbRojFulcCsDBVM179Jw1pMHAiSo0ORms" group-title="(.*);(.*);",99 Active Radio
 http://mcotdigital-gvwieh.cdn.byteark.com/radiocdn_edge/fm99.stream_aac/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYZm_WJIiPCiJy8ydkhQ9EWFsKaTyJnEz6fJai1pLZwjcCHz1cqhmB1R6GCyq8f7i6p-U&usqp=CAU" group-title="(.*);(.*);",BigFM RadioSocial
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYZm_WJIiPCiJy8ydkhQ9EWFsKaTyJnEz6fJai1pLZwjcCHz1cqhmB1R6GCyq8f7i6p-U&usqp=CAU" group-title="(.*);(.*);",Big FM RadioSocial
 http://media.login.in.th:8195/;stream.mp3
 #EXTINF:-1 tvg-logo="https://bkk.fm/images/favicons/favicon-32x32.png" group-title="(.*);(.*);",BKK.FM
 https://rsas.bkk.fm/radio
@@ -17,12 +17,16 @@ https://coolism-web.cdn.byteark.com/;stream/1
 https://coolism-web3rd.cdn.byteark.com/stream/1/
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s25847/images/logog.png?t=152405" group-title="(.*);(.*);",CU Radio 101.5
 https://media.curadio.chula.ac.th/live/liveradio128/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/RgZwkGWveY.png" group-title="education;culture",Education FM 92
+http://www.moeradiothai.net:1935/live/moe32.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/ddqtw2szlcdc.png" group-title="(.*);(.*);",Huahin Radio Thailand
 https://inter1.plathong.net/7008/;stream.mp3
 #EXTINF:-1 tvg-logo="http://www.isanfm.com/images/isanfm.png" group-title="(.*);(.*);",Isan FM 98
 http://radio11.plathong.net:8900/stream.mp3
 #EXTINF:-1 tvg-logo="https://dx7vbl8yjmzxy.cloudfront.net/new_images/radioapp_188217.png" group-title="(.*);(.*);",KISS FM Pattaya 91.75
 http://s1.thailandstreaming.net:8020/kiss.mp3
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/oOc3Fo2xu78/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCpexIZOFHO2DWp6W1Nifie7qTQgA" group-title="indie;pop",Looktung Network 98.5
+https://cdn-th2.livestreaming.in.th/shoutcast/8200
 #EXTINF:-1 tvg-logo="https://imgs.mcot.net/images/2018/02/1518753602128-0x100.png" group-title="(.*);(.*);",MCOT News Network 100.5
 http://rstream.mcot.net:8000/fm1005
 #EXTINF:-1 tvg-logo="https://imgs.mcot.net/images/2018/02/1518753602128-0x100.png" group-title="(.*);(.*);",MCOT News Network 100.5
@@ -51,6 +55,8 @@ http://27.254.142.208:8100/stream
 https://cast.requestradio.in.th:830/stream/
 #EXTINF:-1 tvg-logo="https://www.requestradio.in.th/favicon.ico" group-title="(.*);(.*);",RequestRadio Looktung
 http://27.254.142.208:8300/
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/106592137.jpg" group-title="gospel;buddhist",Siangdham Radio 87.5
+http://122.155.12.107:8000/siangdham.mp3
 #EXTINF:-1 tvg-logo="https://www.allradio.net/500/WPmS1HBtCeX0cMibuCPgF.webp" group-title="easy listening;",Star Radio 95.25
 http://112.121.151.133:8152/live
 #EXTINF:-1 tvg-logo="http://www.sunshinefm.com/favicon/favicon-194x194.png" group-title="(.*);(.*);",Sunshine Radio Pattaya 107.75
