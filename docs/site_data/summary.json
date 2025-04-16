@@ -1,5 +1,5 @@
 {
-  "total_stations": 21930,
+  "total_stations": 21942,
   "total_countries": 228,
   "countries": [
     {
@@ -80,7 +80,7 @@
     },
     {
       "code": "UA",
-      "count": 192
+      "count": 196
     },
     {
       "code": "BE",
@@ -275,6 +275,10 @@
       "count": 24
     },
     {
+      "code": "TZ",
+      "count": 24
+    },
+    {
       "code": "KR",
       "count": 23
     },
@@ -292,10 +296,6 @@
     },
     {
       "code": "IS",
-      "count": 20
-    },
-    {
-      "code": "TZ",
       "count": 20
     },
     {
@@ -344,6 +344,10 @@
     },
     {
       "code": "MD",
+      "count": 15
+    },
+    {
+      "code": "UG",
       "count": 15
     },
     {
@@ -397,10 +401,6 @@
     {
       "code": "SV",
       "count": 12
-    },
-    {
-      "code": "UG",
-      "count": 11
     },
     {
       "code": "JM",
@@ -1119,7 +1119,7 @@
     {
       "code": "UA",
       "file": "streams/ua/ua.m3u",
-      "count": 192
+      "count": 196
     },
     {
       "code": "DM",
@@ -1424,7 +1424,7 @@
     {
       "code": "UG",
       "file": "streams/ug/ug.m3u",
-      "count": 11
+      "count": 15
     },
     {
       "code": "VU",
@@ -2134,7 +2134,7 @@
     {
       "code": "TZ",
       "file": "streams/tz/tz.m3u",
-      "count": 20
+      "count": 24
     },
     {
       "code": "KE",
@@ -2229,11 +2229,11 @@
       },
       {
         "name": "news",
-        "count": 312
+        "count": 317
       },
       {
         "name": "talk",
-        "count": 181
+        "count": 185
       },
       {
         "name": "rock",
@@ -2241,11 +2241,11 @@
       },
       {
         "name": "hits",
-        "count": 165
+        "count": 167
       },
       {
         "name": "variety",
-        "count": 109
+        "count": 114
       },
       {
         "name": "public",
@@ -2253,7 +2253,7 @@
       },
       {
         "name": "world",
-        "count": 92
+        "count": 93
       },
       {
         "name": "top 40",
@@ -2261,7 +2261,7 @@
       },
       {
         "name": "sports",
-        "count": 75
+        "count": 76
       },
       {
         "name": "contemporary",
@@ -2272,20 +2272,20 @@
         "count": 57
       },
       {
+        "name": "religious",
+        "count": 56
+      },
+      {
+        "name": "christian",
+        "count": 56
+      },
+      {
         "name": "community",
         "count": 56
       },
       {
-        "name": "religious",
-        "count": 55
-      },
-      {
-        "name": "christian",
-        "count": 54
-      },
-      {
         "name": "adult",
-        "count": 54
+        "count": 55
       },
       {
         "name": "dance",
@@ -2297,7 +2297,7 @@
       },
       {
         "name": "oldies",
-        "count": 50
+        "count": 51
       },
       {
         "name": "folk",
@@ -2344,16 +2344,16 @@
         "count": 25
       },
       {
+        "name": "gospel",
+        "count": 21
+      },
+      {
         "name": "70s",
         "count": 21
       },
       {
         "name": "latin",
         "count": 21
-      },
-      {
-        "name": "gospel",
-        "count": 20
       },
       {
         "name": "catholic",
@@ -2388,6 +2388,10 @@
         "count": 13
       },
       {
+        "name": "education",
+        "count": 12
+      },
+      {
         "name": "blues",
         "count": 12
       },
@@ -2397,10 +2401,6 @@
       },
       {
         "name": "indie",
-        "count": 11
-      },
-      {
-        "name": "education",
         "count": 11
       },
       {
@@ -2417,5 +2417,5 @@
       }
     ]
   },
-  "updated": "2025-04-13T02:23:15Z"
+  "updated": "2025-04-16T01:54:55Z"
 }

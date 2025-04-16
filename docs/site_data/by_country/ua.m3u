@@ -7,6 +7,8 @@ https://stream.brokenbeats.net/tune
 http://live.bumblebeefm.ru:8000/radio
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s131672/images/logog.png?t=1706893742000" group-title="(.*);(.*);",DJFM 96.8
 https://cast.brg.ua/djfm96.aacp
+#EXTINF:-1 tvg-logo="https://svitle.org/images/svitle2016.png" group-title="christian;religious",Emmanuel Svitle Radio 67.28
+https://online.svitle.org/hls/svitle/aac_hifi.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/9/133759.v1.png" group-title="(.*);(.*);",EverHoof
 http://everhoof.ru:8000/320
 #EXTINF:-1 tvg-logo="https://www.galychyna.fm/wp-content/uploads/2017/12/favicon.png" group-title="(.*);(.*);",Galychyna 89.7 FM
@@ -21,6 +23,8 @@ http://stream.freshrock.net/128.mp3
 http://online.hitfm.ua/HitFM
 #EXTINF:-1 tvg-logo="http://www.hitfm.ua/static/img/HitFM_1200x630.png" group-title="(.*);(.*);",Hit FM
 http://195.95.206.17/HitFM
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/radio/hh/holos-kyyeva-ua.png" group-title="news;variety",Holos Kyyeva 105.0
+http://radio.ukr.radio:8000/ur1-kyiv-mp3
 #EXTINF:-1 tvg-logo="http://holos.fm/webplayer/img/coverart.png" group-title="(.*);(.*);",Holos.fm
 http://holos.fm:8000/holos
 #EXTINF:-1 tvg-logo="https://www.radiojazz.ua/static/img/RadioJAZZ_1200x630.jpg" group-title="(.*);(.*);",Jazz FM 104.6
@@ -77,6 +81,8 @@ https://a1.radioheart.ru:9008/radio-metal
 https://a1.radioheart.ru:8008/radio-metal
 #EXTINF:-1 tvg-logo="http://www.radio-n.com/favicon.ico" group-title="(.*);(.*);",Radio Nezalezhnist 106.7
 http://82.207.109.117:8000/
+#EXTINF:-1 tvg-logo="https://www.radio.net/300/radionv.png?version=83058f5bcfa5e0adb798725c1e9e0e87" group-title="news;talk",Radio NV
+https://online-radio.nv.ua/radionv.mp3
 #EXTINF:-1 tvg-logo="https://radio.obozrevatel.com/assets/img/apple-touch-icon-120x120.png" group-title="(.*);(.*);",Radio Obozrevatel
 https://radio-stream-2.obozrevatel.com/Trash_Metal128.mp3
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/K4m-eXUpKulYMI78K6lY8M6UETXWNGwG7QO2c6h3zQYc5mlkYFOAeyyXglXOjyi0tB8" group-title="(.*);(.*);",Radio ROKS
@@ -93,6 +99,8 @@ http://online.radioroks.ua/RadioROKS_NewRock_HD
 http://online.radioroks.ua/RadioROKS_Ukr_HD
 #EXTINF:-1 tvg-logo="http://radioskovoroda.com/favicon.png?v=7ab70b6" group-title="(.*);(.*);",Radio Skovoroda
 http://stream.radioskovoroda.com:8000/radioskovoroda
+#EXTINF:-1 tvg-logo="https://ukr.radio/images/ckeditor/files/files/Logo_RadioTochka_Website%20300x135.png" group-title="oldies;hits",Radio Tochka
+https://radio.ukr.radio/ur5-mp3
 #EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/yefHwktXGz.png" group-title="(.*);(.*);",Retro FM
 http://cast.retro.ua/retro
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s212936/images/logog.png?t=636403" group-title="(.*);(.*);",Radio ROKS Ballads
