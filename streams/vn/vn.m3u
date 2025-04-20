@@ -1,21 +1,37 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/d6/56/d6562e4099f90b45f4154f0221131dba.png" group-title="talk;variety",Binh Thuan Radio 92.3
+https://64d0d74b76158.streamlock.net/BTVR/binhthuanradio/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cf/Ha_Giang_Radio_logo.png/revision/latest/scale-to-width-down/512?cb=20211006141454&path-prefix=vi" group-title="talk;variety",Ha Giang Radio
+http://113.162.84.113:8081/
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6c/HTTV_HD_logo_b%E1%BA%A3n_2.png/revision/latest/scale-to-width-down/200?cb=20240622001112&path-prefix=vi" group-title="talk;variety",Ha Tinh Radio
+https://wse.hatinhtv.net/radio/voht/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ktv.org.vn/wp-content/themes/ktv/assets/img/radio.gif" group-title="(.*);(.*);",Khanh Hoa Radio 106.5
 http://210.245.20.94/hls/radio.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGl_-2wmc3cdVBY55a6Kk2gtxY5nylIXev5E6RfTTr9gZXemL6NtGDPrv0EelnzHkgEFs&usqp=CAU" group-title="(.*);(.*);",Kien Giang Radio 99.4
 http://tv.kgtv.vn/live/kgaudio/kgaudio.m3u8
-#EXTINF:-1 tvg-logo="http://www.thtg.vn/wp-content/themes/thtg/images/favicon.ico" group-title="(.*);(.*);",Tien Giang Radio
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/3/33/Logo_Radio97_L%C3%A2m_%C4%90%E1%BB%93ng.jpg/revision/latest/scale-to-width-down/732?cb=20211212162740&path-prefix=vi" group-title="talk;variety",Lam Dong Radio 97.0
+http://118.107.85.4:1935/radio/lamdong_aac/chunklist_w1647434900.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/JQsDpHG8xXajp7iEe8NNBbiClz7c36kFJWOyGI9tvzEgC3iU8P2t1PaffsH1QWMB8Q=w526-h296-rw" group-title="talk;variety",Quang Nam Radio
+https://beta.qrt.vn/phatthanh/QRT.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaewvubDCUXHzbXGT6uMFE2Jg-uJLXWYKdpIhd0YgbfM1IZQHeQlLbzMon1Y1bdp3exwo&usqp=CAU" group-title="talk;variety",Son La Radio
+https://cdn.sonlatv.vn/live/285bfb76d0d7a3c4615b853fe7a698e150c/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Thainguyentv.png" group-title="talk;variety",Thai Nguyen FM
+https://radio.thainguyentv.vn/hls/livestream.m3u8
+#EXTINF:-1 tvg-logo="http://www.thtg.vn/wp-content/themes/thtg/images/favicon.ico" group-title="talk;variety",Tien Giang Radio
 http://thtg.vn/live/radio/radiolive.m3u8
 #EXTINF:-1 tvg-logo="https://voh.com.vn/favicon.ico" group-title="(.*);(.*);",VOH 610
 https://strm.voh.com.vn/radio/channel2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmVyac8k2PWLAZM3AuajQqxiMZ8iNd0z4uog&s" group-title="talk;variety",VOH 87.7
+https://strm.voh.com.vn/radio/channel5/media_w1483803128_375239.aac
 #EXTINF:-1 tvg-logo="https://voh.com.vn/favicon.ico" group-title="(.*);(.*);",VOH 95.6
 https://strm.voh.com.vn/radio/channel1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://voh.com.vn/favicon.ico" group-title="(.*);(.*);",VOH 99.9
 https://strm.voh.com.vn/radio/channel3/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://vovmedia.vn/upload/1609732355.png" group-title="(.*);(.*);",VOV1
+#EXTINF:-1 tvg-logo="http://vovmedia.vn/upload/1609732355.png" group-title="(.*);(.*);",VOV 1
 http://media.kythuatvov.vn:7001/;stream/
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-Kn2r-KxX-07oBubrb4iXHTB9bDbw62YuXA&s" group-title="(.*);(.*);",VOV2 102.7
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-Kn2r-KxX-07oBubrb4iXHTB9bDbw62YuXA&s" group-title="(.*);(.*);",VOV 2 102.7
 http://media.kythuatvov.vn:7003/;stream/
-#EXTINF:-1 tvg-logo="http://vovmedia.vn/upload/1609732383.png" group-title="(.*);(.*);",VOV3 104.5
+#EXTINF:-1 tvg-logo="http://vovmedia.vn/upload/1609732383.png" group-title="(.*);(.*);",VOV 3 104.5
 http://media.kythuatvov.vn:7005/;stream/
-#EXTINF:-1 tvg-logo="http://vovmedia.vn/upload/logo/1609730384.png" group-title="(.*);(.*);",VOV5 World
+#EXTINF:-1 tvg-logo="http://vovmedia.vn/upload/logo/1609730384.png" group-title="(.*);(.*);",VOV 5 World
 http://media.kythuatvov.vn:7007/;stream/
