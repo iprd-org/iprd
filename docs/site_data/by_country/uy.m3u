@@ -43,6 +43,8 @@ http://radiolatina.live:9202/stream/1/
 http://rfm.radio.netgate.com.uy:8000/centenario
 #EXTINF:-1 tvg-logo="https://www.radiomaria.org.uy/favicon.ico" group-title="(.*);(.*);",CX28 Radio Maria
 http://dreamsiteradiocp.com:8088/stream
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqYfR-vzrSDYVR2nA2v3zJIGWE04AcVUZ1dQ&s" group-title="christian;religious",Radio Nuevo Tiempo 101.3
+https://stream.live.novotempo.com/radio/smil:rntMontevideoUY.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://radiopedal.uy/wp-content/uploads/2015/04/favicon.png" group-title="(.*);(.*);",Radio Pedal
 https://streaming1.hostingmontevideo.com:7003/stream.mp3
 #EXTINF:-1 tvg-logo="https://publicar.uy/wp-content/uploads/2021/03/pcucu.jpg" group-title="(.*);(.*);",Radio Pipi Cucu
