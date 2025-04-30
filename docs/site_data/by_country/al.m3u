@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvJG-d4ujr6RxvS3AQTmJxxh3YswM13Sb7ZA&s" group-title="sports;variety",Club FM 100.4
+https://cp1.sednastream.com/proxy/clubfm?mp=/stream
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s48061/images/logog.jpg?t=1662750750000" group-title="top 40;pop",Energy Radio NRG
 http://ice31.securenetsystems.net/AL09?type=.mp3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/48/My-Music-logo.jpg" group-title="pop;world",My Music Radio 97.3
@@ -7,14 +9,18 @@ https://live.top-media.al/mmr
 http://n12.radiojar.com/sx7zrht0pg0uv
 #EXTINF:-1 tvg-logo="https://www.radio-home.net/logos/Radio%20Emigranti%20albania.jpg" group-title="folk;oldies",Radio Emigranti 98.5
 http://www.radioemigranti.com:8000/radio
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrus3XNx0ZAM0HXeQB1tI0HHE2UGnfULBbOw&s" group-title="rock;r'n'b;pop",Radio Klan 92.9
+https://klanradio.tvklan.al/live/klanmusicradio1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio124009_1572983507.jpg" group-title="pop;folk",Radio Kontakt 89.3
 http://84.20.83.24:88/broadwavehigh.mp3
 #EXTINF:-1 tvg-logo="https://radiologos.al/wp-content/uploads/2018/01/default-featured-image.png" group-title="christian;religious",Radio Logos 94.2
 http://s2.stationplaylist.com:8240/
-#EXTINF:-1 tvg-logo="https://www.radiomaria.al/wp-content/uploads/2018/01/cropped-per-itunes-270x270.jpg" group-title="catholic;religious",Radio Maria Albania 91.4
+#EXTINF:-1 tvg-logo="https://www.radiomaria.al/wp-content/uploads/2018/01/cropped-per-itunes-270x270.jpg" group-title="catholic;religious",Radio Maria 91.4
 http://dreamsiteradiocp2.com:8028/stream
 #EXTINF:-1 tvg-logo="https://radioone.al/assets/logo.jpg" group-title="dance;disco",Radio One Albania
 https://cp1.sednastream.com/proxy/radioone94?mp=/stream
+#EXTINF:-1 tvg-logo="https://www.radio.net/300/tirana1.png?version=ec5282fc41115646ba48d567bcee14d9" group-title="culture;sports;talk",Radio Tirana 1
+http://79.106.48.2:8000/radiotirana1.m3u
 #EXTINF:-1 tvg-logo="https://tiranajazzradio.com/img/logo.jpg" group-title="jazz;blues",Tirana Jazz Radio
 http://live.tiranajazzradio.com:8000/stream
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3U1Qe5oGzEAF5MZvszqKWjJL9KkgLY_4oDQ&s" group-title="pop;top 40",Top Albania Radio

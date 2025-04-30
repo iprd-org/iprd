@@ -1,9 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ZFnT47D_4Ip7oHK1PaGWnkln34MLzLr_Z_dABGtP1aYgAjJRP1g5t-wdcyqB1iNKbE8" group-title="pop;news",Antigua Observer Radio 91.1
+#EXTINF:-1 tvg-logo="https://i0.wp.com/radiolighthouse.org/wp-content/uploads/2018/12/cropped-CRL_blue.jpg?fit=512%2C512&ssl=1" group-title="christian;religious",Caribbean Radio Lighthouse 1160/92.3
+https://streaming.live365.com/a51931
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/c0/bf/c0bf1df6e34b064f087ad26aac6bc23e.jpg" group-title="religious;christian",Catholic Radio 89.7
+https://sapircast.caster.fm:13574/47cY2?token=647bd538338267aaac72b5c4bfe7facc
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/f6/f8/f6f80880705e20e64825ff9890b12dd7.jpg" group-title="news;talk",Liberty Radio ZDK 97.1 FM
+https://s7.voscast.com:10053/stream
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ZFnT47D_4Ip7oHK1PaGWnkln34MLzLr_Z_dABGtP1aYgAjJRP1g5t-wdcyqB1iNKbE8" group-title="pop;news",Observer Radio 91.1
 http://s8.voscast.com:8176/listen.pls
 #EXTINF:-1 tvg-logo="http://nicefmradio.com/favicon.ico" group-title="news;talk",Nice 104.3
 https://s1.voscast.com:11077/stream
-#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/58/45/5845b85daee0a39ae0b66f6c7d716768.jpg" group-title="calypso;caribbean;reggae;soca",VibzFM 92.9
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/6d/11/6d11dff813116bce434044196623592f.jpg" group-title="pop;news;hits",Pointe 99.1 FM
+https://18213.live.streamtheworld.com/SP_R3743588.aac
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/51/05/5105e04fe4a2dc9a09764d054e991648.jpg" group-title="reggae;gospel;contemporary",Progressive FM 107.3
+http://ca10.rcast.net:8010/;stream.mp3
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/58/45/5845b85daee0a39ae0b66f6c7d716768.jpg" group-title="calypso;caribbean;reggae",Vibz FM 92.9
 https://testvibz-silcomwireless.radioca.st/stream.mp3
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s240017d.png" group-title="jazz;R'n'B;soul",Zoom Radio 95.7 [Not 24/7]
 http://108.178.13.122:8170/listen.pls
