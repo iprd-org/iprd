@@ -9,9 +9,29 @@ http://stream.hopemedia.com.au/hope-mp3
 https://mediaserviceslive.akamaized.net/hls/live/2038160/localriverland/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.sen.com.au/images/favicon-180x180.png" group-title="sport;news;talk",SEN 1170
 https://d11fwwlrb0wuhh.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/t75h9xCLMw.png" group-title="hits;oldies",1053 2CA
+https://25003.live.streamtheworld.com/2CAAAC.aac
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/Logo_radio_2CC_Canberra.jpg" group-title="news;talk",1206 2CC
+https://18233.live.streamtheworld.com/2CCAAC.aac
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/87.8_UCFM_Logo.jpg" group-title="college;pop;indie",1A12 UCFM 87.8
+https://listen.radioking.com/radio/570932/stream/631505
+#EXTINF:-1 tvg-logo="https://artsound.fm/wp-content/uploads/2024/07/artsound-512x512-2-300x300-1.png" group-title="classical;culture",1ART ArtSound FM 90.3
+https://stream.artsound.fm/mp3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Mix_106.3_logo_2020.svg/640px-Mix_106.3_logo_2020.svg.png" group-title="adult;contemporary",1CBR Mix 106.3
+https://14533.live.streamtheworld.com/ARN_MIX1063AAC/HLS/04413447-857b-4366-ae9e-5db141f18034/0/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR43niHAKhSxQSQ8m1Lgqc47rLRaK0_nNw0KA&s" group-title="community;culture",1CMS CMS 91.1
+https://c13.radioboss.fm:18190/stream
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b7/1rph_radio_logo.png" group-title="community;talk",1RPH 1125
+https://securestreams.autopo.st:2540/stream
+#EXTINF:-1 tvg-logo="https://amrap-pages-image.s3.amazonaws.com/profile/11304.jpg?cacbeb=53872542" group-title="community;variety",1VFM 89.5
+https://28793.live.streamtheworld.com/1VFMAAC.aac
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000007659662-hm6rig-t240x240.jpg" group-title="christian;talk",1WAY 91.9 FM
+https://23093.live.streamtheworld.com/1WAY.mp3
+#EXTINF:-1 tvg-logo="https://www.radio.net/300/1xxr.png?version=1acafca2409da2545e8b76f0d228a871" group-title="community;variety",1XXR 2XX 98.3 FM
+https://28893.live.streamtheworld.com/2XX.mp3
 #EXTINF:-1 tvg-logo="http://www.2ay.com.au/site/assets/img/logos/2ay.png" group-title="classic;hits;talk",2AY 1494
 https://playerservices.streamtheworld.com/api/livestream-redirect/ACE_2AYAAC.aac
-#EXTINF:-1 tvg-logo="https://liveonlineradio.net/wp-content/uploads/2012/07/2cr-radio.jpg" group-title="public;talk;chinese",2CR澳洲中文广播电台
+#EXTINF:-1 tvg-logo="https://liveonlineradio.net/wp-content/uploads/2012/07/2cr-radio.jpg" group-title="public;talk;chinese",2CR Australian Chinese Radio
 http://s6.voscast.com:8016/stream1479405503139/1
 #EXTINF:-1 tvg-logo="https://www.radioapp.com.au/wp-content/uploads/2018/12/2Day104.1_Transparent450x450.png" group-title="top 40;hits",2Day 104.1
 http://legacy.scahw.com.au/2day_32
@@ -329,13 +349,15 @@ http://cc.net2streams.com:8565/kissfm.mp3
 https://playerservices.streamtheworld.com/api/livestream-redirect/2LNDAAC.aac
 #EXTINF:-1 tvg-logo="https://www.mix1023.com.au/wp-content/themes/arn/assets/favicons/favicon_1023/apple-touch-icon.png" group-title="hot;adult;contemporary",Mix 102.3
 https://ais-arn.streamguys1.com/au_003_icy
+#EXTINF:-1 tvg-logo="https://i0.wp.com/nicheradio.com.au/wp-content/uploads/2021/10/cropped-Asset-2-1.png?fit=512%2C512&ssl=1" group-title="world;talk",Niche Radio Network 1593
+https://nicherad.radioca.st/stream2
 #EXTINF:-1 tvg-logo="http://prod-filesbucket-7hmmorphht20.s3-ap-southeast-2.amazonaws.com/favicon_0.ico" group-title="adult;contemporary;hits",Nova 100.3
 https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_100_AAC48.aac?src=redirect
 #EXTINF:-1 tvg-logo="http://prod-filesbucket-7hmmorphht20.s3-ap-southeast-2.amazonaws.com/favicon_0.ico" group-title="adult;contemporary;hits",Nova 106.9
 https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_1069_AAC48.aac?src=redirect
 #EXTINF:-1 tvg-logo="http://prod-filesbucket-7hmmorphht20.s3-ap-southeast-2.amazonaws.com/favicon_0.ico" group-title="adult;contemporary;hits",Nova 91.9
 https://23203.live.streamtheworld.com:443/NOVA_919_AAC48.aac
-#EXTINF:-1 tvg-logo="http://prod-filesbucket-7hmmorphht20.s3-ap-southeast-2.amazonaws.com/favicon_0.ico" group-title="adult;contemporary;hits",Nova 919
+#EXTINF:-1 tvg-logo="http://prod-filesbucket-7hmmorphht20.s3-ap-southeast-2.amazonaws.com/favicon_0.ico" group-title="adult;contemporary;hits",Nova 91.9
 https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_919_AAC48.aac?src=redirect
 #EXTINF:-1 tvg-logo="http://prod-filesbucket-7hmmorphht20.s3-ap-southeast-2.amazonaws.com/favicon_0.ico" group-title="adult;contemporary;hits",Nova 93.7
 https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_937_AAC48.aac?src=redirect
@@ -403,6 +425,8 @@ https://sbs-ice.streamguys1.com/sbs-popasia-sbs-web
 http://sbs-ice.streamguys1.com/sbs-popdesi
 #EXTINF:-1 tvg-logo="https://territoryfm.com/wp-content/uploads/2019/03/serene-square-170x170.jpg" group-title="ambient;chillout;dance",Serene
 https://usa7.fastcast4u.com/proxy/umevpocf?mp=/1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a5/2KY_%28Sky_Sports_Radio%29.jpg" group-title="sports;talk",Sky Sports Radio 1008
+https://video.news.sky.com/snr/news/snrnews.mp3
 #EXTINF:-1 tvg-logo="http://skylab-radio.com/images/ba174bd0da1efd13ce41afccf5a9e063.png" group-title="ambient;eclectic;experimental",Skylab Radio
 http://stream.skylab-radio.com:8000/live
 #EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab67616d0000b2731fcab5220aa669082bf3e4e6" group-title="90s;hits;smooth",Smooth 90s

@@ -27,8 +27,10 @@ http://darksynthradio.stream.laut.fm/darksynthradio?t302=2021-12-21_05-16-32&uui
 https://www.djing.com/tv/s-28062-05-electro-rock.m3u8
 #EXTINF:-1 tvg-logo="https://energy.at/wp-content/uploads/2021/05/cropped-favicon-180x180.png" group-title="pop;hits",NRJ Energy Innsbruck
 http://stream1.energy.at:8000/ibk
-#EXTINF:-1 tvg-logo="http://www.erf.at/wp-content/uploads/2016/06/cropped-erf_logo-e1465488646667-270x270.png" group-title="christian;contemporay",ERF Plus Oesterreich
+#EXTINF:-1 tvg-logo="http://www.erf.at/wp-content/uploads/2016/06/cropped-erf_logo-e1465488646667-270x270.png" group-title="christian;contemporary",ERF Plus Oesterreich
 http://stream.erf.at/erfplus_192
+#EXTINF:-1 tvg-logo="https://www.radio.net/300/erf-sued.png?version=d6b83da9e41c6d46b0bd0cc1f93b52c8" group-title="christian;traditional",ERF Sud
+https://erfradio.com/ERF_Sued
 #EXTINF:-1 tvg-logo="https://tubestatic.orf.at/mojo/1_3/storyserver//tube/fm4/images/touch-icon-iphone-retina.png" group-title="alternative;electronic",FM4
 https://orf-live.ors-shoutcast.at/fm4-q1a
 #EXTINF:-1 tvg-logo="https://www.frf.at/favicon.ico" group-title="variety;community",Freies Radio Freistadt
@@ -163,11 +165,11 @@ http://radio-himmelberg.stream.laut.fm/radio-himmelberg?t302=2021-12-21_20-06-55
 http://orf-live.ors-shoutcast.at/ktn-q2a
 #EXTINF:-1 tvg-logo="https://radioklassik.at/wp-content/themes/weeklynews-child/img/favicon.png" group-title="classical;baroque",radio klassik Stephansdom
 http://radioklassikstephansdom.ice.infomaniak.ch/radioklassikstephansdom.mp3
-#EXTINF:-1 tvg-logo="http://www.radiomaria.at//favicon.ico" group-title="catholic;religious",Radio Maria Austria
+#EXTINF:-1 tvg-logo="http://www.radiomaria.at//favicon.ico" group-title="catholic;religious",Radio Maria
 http://live.radiomaria.at:8000/rma
-#EXTINF:-1 tvg-logo="http://www.radiomaria.at//favicon.ico" group-title="catholic;christian;religion",Radio Maria Austria
+#EXTINF:-1 tvg-logo="http://www.radiomaria.at//favicon.ico" group-title="catholic;christian;religion",Radio Maria
 http://dreamsiteradiocp2.com:8022/stream
-#EXTINF:-1 tvg-logo="http://www.radiomaria.at//favicon.ico" group-title="catholic;christian;religion",Radio Maria Austria
+#EXTINF:-1 tvg-logo="http://www.radiomaria.at//favicon.ico" group-title="catholic;christian;religion",Radio Maria
 http://live.radiomaria.at:8000/rma2
 #EXTINF:-1 tvg-logo="http://www.radiomax.at/favicon.ico" group-title="pop;rock;classical",Radio Max Billa
 http://listen.radiomax.technology/billa
@@ -213,9 +215,11 @@ http://live.datamatix.at:8024/listen.pls
 http://orf-live.ors-shoutcast.at/wie-q2a
 #EXTINF:-1 tvg-logo="http://www.radio-xmas.at/assets/img/santa.png" group-title="christmas;holidays",Radio Xmas
 http://www.radio-xmas.at:443/xmas?1512905036085
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6aAMGMD_U3V_4noHFgkqUHsu9LlpyRVmLcw&s" group-title="oldies;r'n'b;rock",Radio Ypsilon 94.5
+http://mp3.radioypsilon.at:8000/mp3-160
 #EXTINF:-1 tvg-logo="https://radiofabrik.at//favicon.ico" group-title="pop;indie;world",Radiofabrik
 http://stream.radiofabrik.at/rf_low.mp3
-#EXTINF:-1 tvg-logo="https://res.radio/img/RES.Vektor.png" group-title="culture;indie",RES.RADIO
+#EXTINF:-1 tvg-logo="https://res.radio/img/RES.Vektor.png" group-title="culture;non-commercial",RES.RADIO
 https://edge.mixlr.com/channel/zwtuo
 #EXTINF:-1 tvg-logo="https://www.rockantenne.at/assets/icons/rockantenne-de/apple-touch-icon-120x120.png?v=2" group-title="classic;rock",Rock Antenne Österreich
 http://s2-webradio.webradio.de/rockantenne-oesterreich
