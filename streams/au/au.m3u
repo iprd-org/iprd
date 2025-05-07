@@ -41,7 +41,7 @@ https://wz2liw.scahw.com.au/live/2day_128.stream/playlist.m3u8?dist=listnr-web
 http://198.74.51.37:9986/
 #EXTINF:-1 tvg-logo="http://fbiradio.com/wp-content/themes/fbi_sf/images/favicon.ico" group-title="eclectic;community",2FBI 94.5
 https://streamer.fbiradio.com/stream
-#EXTINF:-1 tvg-logo="https://www.2gb.com/wp-content/uploads/sites/2/2017/01/top_logo.png" group-title="conservative;news;sport;talk",2GB 873
+#EXTINF:-1 tvg-logo="https://www.2gb.com/wp-content/uploads/sites/2/2017/01/top_logo.png" group-title="news;sport;talk",2GB 873
 https://playerservices.streamtheworld.com/api/livestream-redirect/2GBAAC.aac
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s7641/images/logoq.png?t=158837" group-title="news;sport;talk",2GB 873
 http://syd2gbaud-lh.akamaihd.net/i/sydneygbaudio_1@367120/master.m3u8
@@ -55,13 +55,19 @@ https://streaming.2me.com.au/2me
 https://www.2me.com.au/listen-to-2me-gold/
 #EXTINF:-1 tvg-logo="https://www.2mfm.org/wp-content/uploads/2023/04/TTTT.png" group-title="religion;talk",2MFM 92.1
 http://www.2mfm.org.au:8000/live
-#EXTINF:-1 tvg-logo="https://assets.2ser.com/wp-content/aws/uploads/2017/12/06225117/logo.png" group-title="community;variety",2ser 107.3
+#EXTINF:-1 tvg-logo="https://www.radio.net/300/2one.png?version=3a73c6e7f6d71cb18f3b25ac89e79edf" group-title="urban;hits",2ONE 96.1
+https://28793.live.streamtheworld.com/ARN_CADAAAC/HLS/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://assets.2ser.com/wp-content/aws/uploads/2017/12/06225117/logo.png" group-title="community;variety",2SER 107.3
 http://livestream.2ser.com:8000/streamrelay
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuwPAFlG31WYwnKr9ogw7w4dBFoowHV4RhAQ&s" group-title="top 40;hits",2SKI 97.7 Snow FM
+https://19273.live.streamtheworld.com/SNOW_FMAAC.aac
 #EXTINF:-1 tvg-logo="http://2smsupernetwork.com/wp/wp-content/uploads/2013/03/LogoA.png" group-title="news;talk",2SM 1269
 http://144.140.228.109:8220/mp3
+#EXTINF:-1 tvg-logo="https://au.radio.net/300/2ue.png?version=584f6097647c9c8294a17c71b131fc57" group-title="oldies;hits",2UE 954
+https://wz2liw.scahw.com.au/live/2ue_128.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.3abnaustralia.org.au/core/wp-content/themes/3ABN%20Australia%202015/library/images/channel-icons/Icon_Radio_Aust@2x.png" group-title="gospel;christian",3ABN Australia Radio
 https://stream.3abnaustralia.org.au:8443/stream
-#EXTINF:-1 tvg-logo="https://www.3aw.com.au/wp-content/uploads/sites/12/2017/03/logo-v2.png" group-title="entertainment;lifestyle;news;talks",3AW 693
+#EXTINF:-1 tvg-logo="https://www.3aw.com.au/wp-content/uploads/sites/12/2017/03/logo-v2.png" group-title="entertainment;lifestyle;news",3AW 693
 https://playerservices.streamtheworld.com/api/livestream-redirect/3AWAAC.aac?dist=onlineradiobox
 #EXTINF:-1 tvg-logo="https://www.3aw.com.au/wp-content/uploads/sites/12/2017/03/logo-v2.png" group-title="news;sport;talk",3AW 693
 http://melb3awaud-lh.akamaihd.net/i/melbourneaud_1@109380/master.m3u8
@@ -347,6 +353,8 @@ https://ais-arn.streamguys1.com/au_001_icy
 https://ais-arn.streamguys1.com/au_007_icy
 #EXTINF:-1 tvg-logo="http://kissfm.com.au/wp-content/uploads/2016/05/kiss-logo-105px.png" group-title="dance;electronica",Kiss 87.6/87.8/88.0
 http://cc.net2streams.com:8565/kissfm.mp3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bc/KIX_Country_logo.jpg" group-title="country;new country",KIX Country
+https://playerservices.streamtheworld.com/api/livestream-redirect/KIXCOUNTRYAAC.m3u8
 #EXTINF:-1 tvg-logo="https://www.kooriradio.com/favicon.ico" group-title="aboriginal;indigenous",Koori Radio 93.7
 https://playerservices.streamtheworld.com/api/livestream-redirect/2LNDAAC.aac
 #EXTINF:-1 tvg-logo="https://www.mix1023.com.au/wp-content/themes/arn/assets/favicons/favicon_1023/apple-touch-icon.png" group-title="hot;adult;contemporary",Mix 102.3
@@ -371,6 +379,8 @@ http://clanhost.com.au:9330/;.mp3
 https://s4.radio.co/s99b8a01f4/listen
 #EXTINF:-1 tvg-logo="https://www.outbackradio.com.au/wp-content/uploads/2015/06/2weblogo.jpg" group-title="oldies;country",Outback Radio 2WEB 585
 http://stream.outbackradio.com.au:7230/listen.pls
+#EXTINF:-1 tvg-logo="https://nz.radio.net/300/ozarabradio.png?version=f02ba8bf78ecc6e90121e8cee74fcaf2" group-title="arabic;world",Oz Arab Radio
+https://s2.radio.co/s3ec20c9a3/listen
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2KibzT3n4gtNhvELI2KUkkEvWz6V54TI0eRjnN44_-aUNov5Z92tAzHOaG5mN2Lng2aw&usqp=CAU" group-title="indigenous;culture;variety",PAKAM
 https://firstnationsmedia.stream:7001/stream
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2KibzT3n4gtNhvELI2KUkkEvWz6V54TI0eRjnN44_-aUNov5Z92tAzHOaG5mN2Lng2aw&usqp=CAU" group-title="indigenous;culture;variety",PAW Radio
