@@ -9,9 +9,9 @@ http://stream.hopemedia.com.au/hope-mp3
 https://mediaserviceslive.akamaized.net/hls/live/2038160/localriverland/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.sen.com.au/images/favicon-180x180.png" group-title="sport;news;talk",SEN 1170
 https://d11fwwlrb0wuhh.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/t75h9xCLMw.png" group-title="hits;oldies",1053 2CA
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/t75h9xCLMw.png" group-title="hits;oldies",2CA 1053
 https://25003.live.streamtheworld.com/2CAAAC.aac
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/Logo_radio_2CC_Canberra.jpg" group-title="news;talk",1206 2CC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/Logo_radio_2CC_Canberra.jpg" group-title="news;talk",2CC 1206 
 https://18233.live.streamtheworld.com/2CCAAC.aac
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/87.8_UCFM_Logo.jpg" group-title="college;pop;indie",1A12 UCFM 87.8
 https://listen.radioking.com/radio/570932/stream/631505
@@ -39,7 +39,7 @@ http://legacy.scahw.com.au/2day_32
 https://wz2liw.scahw.com.au/live/2day_128.stream/playlist.m3u8?dist=listnr-web
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQskEC5_9TBIzhS6t3V64b5dj3c24rHcWhMNIISLW3HJfpp2jzs" group-title="community;variety;top 40",2EAR 102.9/107.5
 http://198.74.51.37:9986/
-#EXTINF:-1 tvg-logo="http://fbiradio.com/wp-content/themes/fbi_sf/images/favicon.ico" group-title="eclectic;community",2FBI 94.5
+#EXTINF:-1 tvg-logo="http://fbiradio.com/wp-content/themes/fbi_sf/images/favicon.ico" group-title="variety;community",2FBI 94.5
 https://streamer.fbiradio.com/stream
 #EXTINF:-1 tvg-logo="https://www.2gb.com/wp-content/uploads/sites/2/2017/01/top_logo.png" group-title="conservative;news;sport;talk",2GB 873
 https://playerservices.streamtheworld.com/api/livestream-redirect/2GBAAC.aac
@@ -55,13 +55,13 @@ https://streaming.2me.com.au/2me
 https://www.2me.com.au/listen-to-2me-gold/
 #EXTINF:-1 tvg-logo="https://www.2mfm.org/wp-content/uploads/2023/04/TTTT.png" group-title="religion;talk",2MFM 92.1
 http://www.2mfm.org.au:8000/live
-#EXTINF:-1 tvg-logo="https://assets.2ser.com/wp-content/aws/uploads/2017/12/06225117/logo.png" group-title="community;variety",2ser 107.3
+#EXTINF:-1 tvg-logo="https://assets.2ser.com/wp-content/aws/uploads/2017/12/06225117/logo.png" group-title="community;variety",2SER 107.3
 http://livestream.2ser.com:8000/streamrelay
 #EXTINF:-1 tvg-logo="http://2smsupernetwork.com/wp/wp-content/uploads/2013/03/LogoA.png" group-title="news;talk",2SM 1269
 http://144.140.228.109:8220/mp3
 #EXTINF:-1 tvg-logo="https://www.3abnaustralia.org.au/core/wp-content/themes/3ABN%20Australia%202015/library/images/channel-icons/Icon_Radio_Aust@2x.png" group-title="gospel;christian",3ABN Australia Radio
 https://stream.3abnaustralia.org.au:8443/stream
-#EXTINF:-1 tvg-logo="https://www.3aw.com.au/wp-content/uploads/sites/12/2017/03/logo-v2.png" group-title="entertainment;lifestyle;news;talks",3AW 693
+#EXTINF:-1 tvg-logo="https://www.3aw.com.au/wp-content/uploads/sites/12/2017/03/logo-v2.png" group-title="entertainment;lifestyle;news",3AW 693
 https://playerservices.streamtheworld.com/api/livestream-redirect/3AWAAC.aac?dist=onlineradiobox
 #EXTINF:-1 tvg-logo="https://www.3aw.com.au/wp-content/uploads/sites/12/2017/03/logo-v2.png" group-title="news;sport;talk",3AW 693
 http://melb3awaud-lh.akamaihd.net/i/melbourneaud_1@109380/master.m3u8
@@ -75,7 +75,7 @@ http://bris4bcaud-lh.akamaihd.net/i/brisbanebcaud_1@110990/master.m3u8
 https://playerservices.streamtheworld.com/api/livestream-redirect/BUN_4BUAAC_SC
 #EXTINF:-1 tvg-logo="https://www.4ca.com.au/wp-content/uploads/sites/14/2022/10/NQL_CNS_4CA-300x150-fullcolour.png" group-title="talk;news",4CA 846
 https://playerservices.streamtheworld.com/api/livestream-redirect/CAI_4CAAAC.aac
-#EXTINF:-1 tvg-logo="https://www.4ca.com.au/wp-content/uploads/sites/14/2022/10/NQL_CNS_4CA-300x150-fullcolour.png" group-title="",4CA 846 AM Far North QLD Classic Hits
+#EXTINF:-1 tvg-logo="https://www.4ca.com.au/wp-content/uploads/sites/14/2022/10/NQL_CNS_4CA-300x150-fullcolour.png" group-title="",4CA 846 Far North QLD Classic Hits
 https://playerservices.streamtheworld.com/api/livestream-redirect/CAI_4CAAAC_SC
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/fblogo/9/26799.v9.png" group-title="classic;rock;comedy;education;indigenous;news",4K1G 107.1
 https://usa4.fastcast4u.com/proxy/4k1g?mp=/stream
