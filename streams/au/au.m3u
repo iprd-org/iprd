@@ -57,6 +57,8 @@ https://www.2me.com.au/listen-to-2me-gold/
 http://www.2mfm.org.au:8000/live
 #EXTINF:-1 tvg-logo="https://www.radio.net/300/2one.png?version=3a73c6e7f6d71cb18f3b25ac89e79edf" group-title="urban;hits",2ONE 96.1
 https://28793.live.streamtheworld.com/ARN_CADAAAC/HLS/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://2re.com.au/public-static/logos/2re.png" group-title="talk;news;hits",2RE 88.9
+https://cast4.asurahosting.com/proxy/2sm1269/stream
 #EXTINF:-1 tvg-logo="https://assets.2ser.com/wp-content/aws/uploads/2017/12/06225117/logo.png" group-title="community;variety",2SER 107.3
 http://livestream.2ser.com:8000/streamrelay
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuwPAFlG31WYwnKr9ogw7w4dBFoowHV4RhAQ&s" group-title="top 40;hits",2SKI 97.7 Snow FM
@@ -65,6 +67,8 @@ https://19273.live.streamtheworld.com/SNOW_FMAAC.aac
 http://144.140.228.109:8220/mp3
 #EXTINF:-1 tvg-logo="https://au.radio.net/300/2ue.png?version=584f6097647c9c8294a17c71b131fc57" group-title="oldies;hits",2UE 954
 https://wz2liw.scahw.com.au/live/2ue_128.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://newmedia.com.au/wp-content/uploads/2you.jpg" group-title="oldies;hits",2YOU 88.9
+https://stream.889fmtamworth.com.au:8443/stream
 #EXTINF:-1 tvg-logo="https://www.3abnaustralia.org.au/core/wp-content/themes/3ABN%20Australia%202015/library/images/channel-icons/Icon_Radio_Aust@2x.png" group-title="gospel;christian",3ABN Australia Radio
 https://stream.3abnaustralia.org.au:8443/stream
 #EXTINF:-1 tvg-logo="https://www.3aw.com.au/wp-content/uploads/sites/12/2017/03/logo-v2.png" group-title="entertainment;lifestyle;news",3AW 693
@@ -81,7 +85,7 @@ http://bris4bcaud-lh.akamaihd.net/i/brisbanebcaud_1@110990/master.m3u8
 https://playerservices.streamtheworld.com/api/livestream-redirect/BUN_4BUAAC_SC
 #EXTINF:-1 tvg-logo="https://www.4ca.com.au/wp-content/uploads/sites/14/2022/10/NQL_CNS_4CA-300x150-fullcolour.png" group-title="talk;news",4CA 846
 https://playerservices.streamtheworld.com/api/livestream-redirect/CAI_4CAAAC.aac
-#EXTINF:-1 tvg-logo="https://www.4ca.com.au/wp-content/uploads/sites/14/2022/10/NQL_CNS_4CA-300x150-fullcolour.png" group-title="",4CA 846 AM Far North QLD Classic Hits
+#EXTINF:-1 tvg-logo="https://www.4ca.com.au/wp-content/uploads/sites/14/2022/10/NQL_CNS_4CA-300x150-fullcolour.png" group-title="",4CA 846 Far North QLD Classic Hits
 https://playerservices.streamtheworld.com/api/livestream-redirect/CAI_4CAAAC_SC
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/fblogo/9/26799.v9.png" group-title="classic;rock;comedy;education;indigenous;news",4K1G 107.1
 https://usa4.fastcast4u.com/proxy/4k1g?mp=/stream
@@ -325,10 +329,12 @@ http://c3.radioboss.fm:8018/stream
 http://stream1.faithfm.com.au/FaithFM.mp3
 #EXTINF:-1 tvg-logo="https://fresh927.com.au/wp-content/uploads/2014/08/Fresh_favicon.png" group-title="community;pop",Fresh 92.7
 https://live.fresh927.com.au/freshaac
-#EXTINF:-1 tvg-logo="https://www.gold1043.com.au/wp-content/themes/arn/assets/favicons/favicon_gold/apple-touch-icon.png" group-title="classic;hits",Gold 104.3
+#EXTINF:-1 tvg-logo="https://www.gold1043.com.au/wp-content/themes/arn/assets/favicons/favicon_gold/apple-touch-icon.png" group-title="oldies;hits",Gold 104.3
 https://ais-arn.streamguys1.com/au_004/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.gold1043.com.au/wp-content/themes/arn/assets/favicons/favicon_gold/apple-touch-icon.png" group-title="classic;hits",Gold 104.3
+#EXTINF:-1 tvg-logo="https://www.gold1043.com.au/wp-content/themes/arn/assets/favicons/favicon_gold/apple-touch-icon.png" group-title="oldies;hits",Gold 104.3
 https://ais-arn.streamguys1.com/au_004_icy
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/34/7b/347b242b67913e5929ee015554066c6f.png" group-title="oldies;hits",Gold 1611
+https://ic2666.c2017.fastserv.com/GoldMX1
 #EXTINF:-1 tvg-logo="https://goldendaysradio.com/wp-content/themes/radio/images/favicons/apple-touch-icon-120x120.png" group-title="classical;community;oldies",Golden Days Radio
 http://1.ice1.firststreaming.com/gndr_fm.aac
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/5bd44d_7b729268969e4661af90f7ca6ae67ae0.jpg" group-title="rock;metal",Hand of Doom Radio
