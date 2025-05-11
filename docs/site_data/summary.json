@@ -1,5 +1,5 @@
 {
-  "total_stations": 22053,
+  "total_stations": 22069,
   "total_countries": 228,
   "countries": [
     {
@@ -68,7 +68,7 @@
     },
     {
       "code": "AU",
-      "count": 259
+      "count": 275
     },
     {
       "code": "AR",
@@ -1509,7 +1509,7 @@
     {
       "code": "AU",
       "file": "streams/au/au.m3u",
-      "count": 259
+      "count": 275
     },
     {
       "code": "BD",
@@ -2213,7 +2213,7 @@
     }
   ],
   "genre_stats": {
-    "total_unique_genres": 347,
+    "total_unique_genres": 345,
     "top_genres": [
       {
         "name": "(.*)",
@@ -2225,19 +2225,19 @@
       },
       {
         "name": "pop",
-        "count": 362
+        "count": 363
       },
       {
         "name": "news",
-        "count": 330
+        "count": 331
       },
       {
         "name": "talk",
-        "count": 215
+        "count": 217
       },
       {
         "name": "hits",
-        "count": 174
+        "count": 180
       },
       {
         "name": "rock",
@@ -2245,11 +2245,11 @@
       },
       {
         "name": "variety",
-        "count": 140
+        "count": 145
       },
       {
         "name": "world",
-        "count": 108
+        "count": 109
       },
       {
         "name": "public",
@@ -2261,23 +2261,23 @@
       },
       {
         "name": "top 40",
-        "count": 78
+        "count": 79
       },
       {
         "name": "christian",
-        "count": 78
+        "count": 79
       },
       {
         "name": "religious",
         "count": 73
       },
       {
-        "name": "contemporary",
-        "count": 66
+        "name": "community",
+        "count": 71
       },
       {
-        "name": "community",
-        "count": 66
+        "name": "contemporary",
+        "count": 67
       },
       {
         "name": "culture",
@@ -2285,11 +2285,11 @@
       },
       {
         "name": "adult",
-        "count": 59
+        "count": 60
       },
       {
         "name": "oldies",
-        "count": 55
+        "count": 60
       },
       {
         "name": "information",
@@ -2305,7 +2305,7 @@
       },
       {
         "name": "classic",
-        "count": 46
+        "count": 44
       },
       {
         "name": "electronic",
@@ -2404,18 +2404,18 @@
         "count": 13
       },
       {
+        "name": "arabic",
+        "count": 12
+      },
+      {
         "name": "islam",
         "count": 12
       },
       {
         "name": "dutch",
         "count": 12
-      },
-      {
-        "name": "music",
-        "count": 11
       }
     ]
   },
-  "updated": "2025-05-07T01:57:49Z"
+  "updated": "2025-05-11T00:59:35Z"
 }
