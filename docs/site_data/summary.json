@@ -1,5 +1,5 @@
 {
-  "total_stations": 22069,
+  "total_stations": 22090,
   "total_countries": 228,
   "countries": [
     {
@@ -68,7 +68,7 @@
     },
     {
       "code": "AU",
-      "count": 275
+      "count": 296
     },
     {
       "code": "AR",
@@ -1509,7 +1509,7 @@
     {
       "code": "AU",
       "file": "streams/au/au.m3u",
-      "count": 275
+      "count": 296
     },
     {
       "code": "BD",
@@ -2213,7 +2213,7 @@
     }
   ],
   "genre_stats": {
-    "total_unique_genres": 345,
+    "total_unique_genres": 344,
     "top_genres": [
       {
         "name": "(.*)",
@@ -2229,23 +2229,23 @@
       },
       {
         "name": "news",
-        "count": 331
+        "count": 333
       },
       {
         "name": "talk",
-        "count": 217
+        "count": 220
       },
       {
         "name": "hits",
-        "count": 180
+        "count": 181
       },
       {
         "name": "rock",
-        "count": 173
+        "count": 174
       },
       {
         "name": "variety",
-        "count": 145
+        "count": 158
       },
       {
         "name": "world",
@@ -2256,8 +2256,12 @@
         "count": 97
       },
       {
+        "name": "community",
+        "count": 87
+      },
+      {
         "name": "sports",
-        "count": 80
+        "count": 81
       },
       {
         "name": "top 40",
@@ -2272,12 +2276,8 @@
         "count": 73
       },
       {
-        "name": "community",
-        "count": 71
-      },
-      {
         "name": "contemporary",
-        "count": 67
+        "count": 69
       },
       {
         "name": "culture",
@@ -2285,19 +2285,19 @@
       },
       {
         "name": "adult",
-        "count": 60
+        "count": 61
       },
       {
         "name": "oldies",
         "count": 60
       },
       {
-        "name": "information",
+        "name": "dance",
         "count": 53
       },
       {
-        "name": "dance",
-        "count": 52
+        "name": "information",
+        "count": 53
       },
       {
         "name": "folk",
@@ -2316,12 +2316,12 @@
         "count": 34
       },
       {
-        "name": "classical",
+        "name": "local",
         "count": 31
       },
       {
-        "name": "local",
-        "count": 31
+        "name": "classical",
+        "count": 30
       },
       {
         "name": "90s",
@@ -2364,12 +2364,12 @@
         "count": 21
       },
       {
-        "name": "house",
+        "name": "schlager",
         "count": 18
       },
       {
-        "name": "schlager",
-        "count": 18
+        "name": "house",
+        "count": 17
       },
       {
         "name": "ambient",
@@ -2380,15 +2380,15 @@
         "count": 15
       },
       {
+        "name": "indie",
+        "count": 14
+      },
+      {
         "name": "electro",
         "count": 14
       },
       {
         "name": "education",
-        "count": 13
-      },
-      {
-        "name": "indie",
         "count": 13
       },
       {
@@ -2417,5 +2417,5 @@
       }
     ]
   },
-  "updated": "2025-05-11T00:59:35Z"
+  "updated": "2025-05-14T00:41:51Z"
 }
