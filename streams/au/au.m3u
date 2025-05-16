@@ -85,6 +85,8 @@ https://streaming.2me.com.au/2me
 https://www.2me.com.au/listen-to-2me-gold/
 #EXTINF:-1 tvg-logo="https://www.2mfm.org/wp-content/uploads/2023/04/TTTT.png" group-title="religion;talk",2MFM 92.1
 http://www.2mfm.org.au:8000/live
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/51/2mm_radio_logo.png" group-title="greek;world",2MM 1665
+http://110.175.9.78:8001/8001
 #EXTINF:-1 tvg-logo="https://au.radio.net/300/2mno-monaro-fm.png?version=d626969bccd364676fa94d1e4f35d2d9" group-title="community;variety",2MNO Monaro Community Radio
 http://220.233.66.253:88/broadwave.mp3?src=1&rate=1&ref=
 #EXTINF:-1 tvg-logo="https://lh4.googleusercontent.com/proxy/f_SKPApy4EcS57znrFzeueP0XjdLVav7i3yXqTrnYsLJH_FgpljfhRTlpwgXX1ABIGQ78Bz3YSEJ1YKUUaMGzgHrco3f" group-title="community;variety",2NIM 102.3
@@ -125,8 +127,20 @@ https://stream.3abnaustralia.org.au:8443/stream
 https://playerservices.streamtheworld.com/api/livestream-redirect/3AWAAC.aac?dist=onlineradiobox
 #EXTINF:-1 tvg-logo="https://www.3aw.com.au/wp-content/uploads/sites/12/2017/03/logo-v2.png" group-title="news;sport;talk",3AW 693
 http://melb3awaud-lh.akamaihd.net/i/melbourneaud_1@109380/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f7/3CR_Melbourne_logo.jpg" group-title="community;variety",3CR 855
+https://23203.live.streamtheworld.com/3CRAAC.aac
+#EXTINF:-1 tvg-logo="https://ca.radio.net/300/3ee.png?version=ca869ede2aa10edd46c5c7a988bc2687" group-title="oldies;hits",3EE Magic 1278
+https://wz3liw.scahw.com.au/live/3ee_128.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS19JIw29yP2qZSzOYqimRaZmewt0UJF4Q8ZQ&s" group-title="indigenous;community",3KND 1503
+https://23093.live.streamtheworld.com/3KNDAAC.aac
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/3MP1377_Logo.png" group-title="oldies;easy listening",3MP 1377
+https://wz3liw.scahw.com.au/live/3mp_128.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSREKJwGxlDKS6EVWGOmwbYlatBtOF-X25_RA&s" group-title="community;talk",3RPH 1179
+https://23153.live.streamtheworld.com/3RPHAAC.aac
 #EXTINF:-1 tvg-logo="http://www.rrr.org.au/assets/main/assets/public/favicon/favicon-192.a118bf57.png" group-title="community;indie",3RRR 102.7
 http://realtime.rrr.org.au/p1l
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFm84WClqk2iezl9qiu8-tpOwlEykQolJTFA&s" group-title="sports;talk",3UZ 927
+https://28803.live.streamtheworld.com/RSN_RACINGSPORT.mp3
 #EXTINF:-1 tvg-logo="https://www.4am.com.au/images/4AM-IMAGE.jpg" group-title="talk;news",4AM 558
 http://198.74.51.37:8435/;stream.mp3
 #EXTINF:-1 tvg-logo="https://www.4bc.com.au/wp-content/uploads/sites/10/2017/01/4bc_hires_logo-2.png" group-title="news;sport;talk",4BC 882
@@ -403,6 +417,8 @@ http://1.ice1.firststreaming.com/gndr_fm.aac
 http://158.69.114.190:8042/
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/vm4MNLoGipHAGWqkjedwLyLmuMJFUC0bsXmm6Cos21uOGzGaNaZfBjv8oAxc7m8dug=w240-h480-rw" group-title="indian;punjabi;world",Harman Radio Australia
 http://harmanradio.net:8000/main_48.mp3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/1683am_Hellenic_Radio_Logo.png" group-title="greek;world",Hellenic Radio 1683
+https://radio.plegma.host/radio/8000/greekradio.mp3
 #EXTINF:-1 tvg-logo="https://www.highlandfm.org.au//wp-content/uploads/2020/08/Highlands-FM-logo1.png" group-title="community;talk",Highland FM
 https://28893.live.streamtheworld.com/HIGHLAND_FM.mp3
 #EXTINF:-1 tvg-logo="https://play.listnr.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fyxg7lydfj6tc%2Fbaefbef0-1fc2-4b19-b430-8a80a8bf307e%2F70b743e8a6f6d0c1ad373395e4308c53%2F0045-carnarvon-997.png%3Fw%3D320%26h%3D320%26fit%3Dfill&w=640&q=75" group-title="top 40;pop",Hit 99.7 
@@ -413,6 +429,8 @@ https://ais-arn.streamguys1.com/au_005/playlist.m3u8
 https://wz6liw.scahw.com.au/live/6bun_128.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/59f8f25d18b27d43f7354624/1510877651671-3YBVYYC8OGGG72SS3VIB/android-icon-192x192.png" group-title="community;eclectic;underground",Hope St. Radio
 http://hopestreetradio.out.airtime.pro:8000/hopestreetradio_a
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/mzUJBsP1DTID-aSKcs2DGGKc8gZcSi2qGk1zqbDFK-3m7EgqzW8mfO_bpSBkxRswtmat" group-title="islam;religious",Islamic Voice Radio
+http://streamer3.rightclickitservices.com:9755/;
 #EXTINF:-1 tvg-logo="https://storage.googleapis.com/wzukusers/user-27173994/images/58b118eda1abdgoQWCAr/ItaliaFm3.1.2.1_d200.png" group-title="italian;pop",ItaliaFM
 http://andromeda.shoutca.st:8634/stream
 #EXTINF:-1 tvg-logo="http://www.joy.org.au//wp-content/themes/joy-public-website-joy949-theme/images/favicons/android-chrome-192x192.png?x66054" group-title="community;lgbtiqa*;non-commercial",JOY 94.9 Out Loud Proud
@@ -493,6 +511,8 @@ http://s3.myradiostream.com:10968/
 http://61.69.112.50:88/broadwave.mp3
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/6f/51/6f515d8eccb40e11c649c1d4f4cef12a.jpg" group-title="variety;news",Radio Great Southern 1422
 http://procyon.shoutca.st:8377/stream
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/MVohgV33hvjcm4An1Bhio8NFmO4Iqp7BDQKJA8At4UuC8yD_GtZJw_ARdUXz-1ar6hA" group-title="hindi;world",Radio Haanji 1674
+https://cast1.my-control-panel.com/proxy/haanji_mel/stream
 #EXTINF:-1 tvg-logo="http://www.radiostreamlive.com/images/logos_radioitalianmusic.png" group-title="italian;pop",Radio Italian Music
 https://streaming.radiostreamlive.com/radioitalianmusic_devices
 #EXTINF:-1 tvg-logo="https://store-images.s-microsoft.com/image/apps.5027.14343190908724800.98ef5ae3-fc39-42b3-b5cb-8c67ecd6b7f7.8e52cc54-02eb-4015-82c4-c1c5a4d4cce7" group-title="aboriginal;world;community",First Nations Radio 94.5
@@ -513,6 +533,8 @@ https://stream.radio.co/s259dda3d7/listen
 https://live.rtrfm.com.au/stream1
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s282623/images/logod.png?t=162800" group-title="community;rock",SA Rock Radio 105.9
 https://sarock.radioca.st/stream
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGYQbVChIDCjlblbn5Ykfg_jKYwoiGtZEUMg&s" group-title="greek;world",Rythmos Radio
+https://n13.radiojar.com/80ywsf43knuvv.mp3
 #EXTINF:-1 tvg-logo="https://www.sbs.com.au/radio/profiles/sbsdistribution/themes/global/images/logo/radio.png" group-title="chillout;ambient",SBS Chill
 http://sbs-ice.streamguys1.com/sbschill
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/mhYTYPmw-9HSETeTaQJyqgELwE6U45EzRqja6R98C_4gcGAV4vUBDE9B2VDhRXaKJRXx=s512" group-title="c-pop;cantonese;chinese",SBS PopAsia
