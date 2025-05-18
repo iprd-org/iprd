@@ -133,16 +133,26 @@ http://melb3awaud-lh.akamaihd.net/i/melbourneaud_1@109380/master.m3u8
 https://23203.live.streamtheworld.com/3CRAAC.aac
 #EXTINF:-1 tvg-logo="https://ca.radio.net/300/3ee.png?version=ca869ede2aa10edd46c5c7a988bc2687" group-title="oldies;hits",3EE Magic 1278
 https://wz3liw.scahw.com.au/live/3ee_128.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/australianradio/images/9/91/FOX101.9_2020.png/revision/latest?cb=20250109135807" group-title="adult;contemporary",3FOX Fox 101.9
+https://wz3liw.scahw.com.au/live/3fox_128.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwGGxcR2LNX527j_0xEN9h8CscB9XafPNLDQ&s" group-title="community;hits",3INR Inner 96.5 FM
 https://28853.live.streamtheworld.com/3NRAAC.aac
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS19JIw29yP2qZSzOYqimRaZmewt0UJF4Q8ZQ&s" group-title="indigenous;community",3KND 1503
 https://23093.live.streamtheworld.com/3KNDAAC.aac
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/hbhqlakyvUZXXrwxkBEc8qH0J67fWLDexiY1J4o-i6TFaUfbvSpANsQu8TnyYPwaIAjYwjygdw=s900-c-k-c0x00ffffff-no-rj" group-title="classical;baroque",3MBS Music Broadcasting Society of Victoria 103.5
+https://23093.live.streamtheworld.com/3MBS.mp3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/3mdrlogo.jpg" group-title="world;community",3MDR 97.1
 https://23093.live.streamtheworld.com/3MDRAAC.aac
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/3MP1377_Logo.png" group-title="oldies;easy listening",3MP 1377
 https://wz3liw.scahw.com.au/live/3mp_128.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKUKYFdA9KaBuY7AhJcmRjiUVclgicKJoAsA&s" group-title="community;variety",3NRG 99.3
+http://216.144.240.58:8047/stream
+#EXTINF:-1 tvg-logo="https://nz.radio.net/300/3pbs.png?version=b71b3931cf37767e2fa819880554abe4" group-title="contemporary;progressive;community",3PBS 106.7
+https://28853.live.streamtheworld.com/3PBS_FMAAC128.aac
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSREKJwGxlDKS6EVWGOmwbYlatBtOF-X25_RA&s" group-title="community;talk",3RPH 1179
 https://23153.live.streamtheworld.com/3RPHAAC.aac
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/77/3RPP_Radio_Logo.jpg" group-title="community;talk",3RPP 98.7
+https://streaming.radio.co/sfbd79db12/listen
 #EXTINF:-1 tvg-logo="http://www.rrr.org.au/assets/main/assets/public/favicon/favicon-192.a118bf57.png" group-title="community;indie",3RRR 102.7
 http://realtime.rrr.org.au/p1l
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFm84WClqk2iezl9qiu8-tpOwlEykQolJTFA&s" group-title="sports;talk",3UZ 927
@@ -367,6 +377,8 @@ http://live-radio01.mediahubaustralia.com/UNEW/mp3/
 http://live-radio01.mediahubaustralia.com/UNEW/aac/
 #EXTINF:-1 tvg-logo="https://andrewhaug.com/favicon.ico" group-title="hard;rock;metal",Andrew Haug Metal Radio
 http://streamer.radio.co/s6a349b3a2/listen
+#EXTINF:-1 tvg-logo="https://andrewhaug.com/favicon.ico" group-title="hard;rock;metal",Andrew Haug Metal Radio
+http://streamer.radio.co/s6a349b3a2/listen
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s304479/images/logog.png?t=157176" group-title="pop;rock",Australian Made Music
 https://listen10.as.amplifystreaming.com/radio/8000/amm_128.aac
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/6f/ea/6fea607f45adff83fa2871aca26ce7c7.jpg" group-title="country;new country",Big Country Radio
@@ -521,6 +533,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/GLA_4CCAAC.aac
 http://abcradiolivehls-lh.akamaihd.net/i/raeng_1@433109/master.m3u8
 #EXTINF:-1 tvg-logo="https://resize.abcradio.net.au/UZkS0akQ8ehY2igY1uLkm9r6GUY=/100x100/center/middle/http://www.abc.net.au/radio/images/service/ra_ml.png" group-title="multilingual;news;public",Radio Australia Multi Language
 http://abcradiolivehls-lh.akamaihd.net/i/ramultilang_1@176827/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnJKdeVaJI-SvCUuLPnq-I88zsUcE57_6akg&s" group-title="community;variety",Radio Eastern 98.1
+https://28803.live.streamtheworld.com/3ECBAAC.aac
 #EXTINF:-1 tvg-logo="http://www.radioena.com.au/wp-content/uploads/logo-1.png" group-title="ethnic;world",Radio Ena
 http://s3.myradiostream.com:10968/
 #EXTINF:-1 tvg-logo="https://www.fiveoplus.com.au/WEFiles/Image/WEImage/LetterHeadSmallTrans-WEb1294d859d%20cropped-WE8be816a7f7.png" group-title="community;variety",Radio Five-O-Plus 93.3
@@ -667,5 +681,7 @@ https://23093.live.streamtheworld.com/3SYN.mp3
 https://firstnationsmedia.stream:8048/stream
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvNTYohiIefLRhVz7tddp5PLuFuSWyhL1kCw&s" group-title="community;variety",Wyn 88.9 FM
 https://streamer5.rightclickitservices.com:19740/aac
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuSw7ppKpQsxUWQaOJT2t6bq7fBnPvJUF7KA&s" group-title="community;variety",Yarra Valley FM
+https://live.yarravalleyfm.org.au:8443/stream
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTVD_hMjDJu_wQOckG6rjDbmYXFq2f6eRgfg&s" group-title="community;variety",Yass 100.3 FM
 https://28863.live.streamtheworld.com/2YAS.mp3
