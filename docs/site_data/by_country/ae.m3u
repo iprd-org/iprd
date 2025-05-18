@@ -1,32 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfHqBQt4FMgfpxq5s2aVV9LFZkxqzkkgNxsg&s" group-title="variety;talk",Abu Dhabi FM 90.0
-https://vo-live-media.cdb.cdn.orange.com/Content/Channel/abu_dhabi_fm/DASH/master.mpd?expires=1734440680&md5=R9dE5Y057eHmfwLybi0GCw
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTQs-4UOeAElI-HH-DEODUpLcrPnpqGgHTeg&s" group-title="classical;jazz;chill",Classic FM 91.6
-https://vo-live-media.cdb.cdn.orange.com/Content/Channel/classic_fm/DASH/master.mpd?expires=1734441066&md5=5yiYwF9LCSpOygMQKBr-IQ
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s170068/images/logog.jpg?t=161435" group-title="arabic;news;talk",Dubai Radio 93.0
-https://dmithrvllta.cdn.mgmlcdn.com/dubairdo/dubairdo_aac/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://edsfze.com/wp-content/uploads/2022/06/emaratlogo.jpg" group-title="world;variety;talk",Emarat 95.8 FM
-https://vo-live-media.cdb.cdn.orange.com/Content/Channel/emarat_fm/DASH/master.mpd?expires=1734441766&md5=4Cc-gSJzxvDi_ltqd6nTRA
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQhzfwoCPRUwWi1qIVMoY_0yzQC_5MvC5w8w&s" group-title="variety;talk",Fujairah 92.6 FM
-https://live.kwikmotion.com/fujairahradiolive/fujairahradio/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/70255703.jpg" group-title="bollywood;hindi",Kadak FM
-https://vo-live-media.cdb.cdn.orange.com/Content/Channel/kadak_fm/DASH/master.mpd?expires=1734442365&md5=M4FDB57SkWxQYphj0YQPoA
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s140482/images/logog.jpg?t=161435" group-title="news;talk;sports",Pulse 95
-https://svs.itworkscdn.net/pulse95live/pulse96/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://www.radio.net/300/quranalkareem.png?version=b1ad43339670d2b6a64a615cfeb32ff4" group-title="islam;religious",Quran Al Kareem 98.1
-https://vo-live-media.cdb.cdn.orange.com/Content/Channel/quran_kareem/DASH/master.mpd?expires=1734443037&md5=bmG5yVSYxwAFMXAUrkT2vg
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkkKRZ565z6OQXkovLAAH670avSwN_rsSYSA&s" group-title="top 40;pop",Radio 1 104.1
-https://vo-live-media.cdb.cdn.orange.com/Content/Channel/Radio1/DASH/master.mpd?expires=1734443257&md5=-P8IwxAMqAtFzFigWUG5LQ
-#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/48711036.jpg" group-title="bollywood;pop",Radio Suno 102.4
-http://51.255.235.165:5476/stream?type=http&nocache=78657
-#EXTINF:-1 tvg-logo="https://www.radioguide.fm/uploads/images/radiostation/shj%20quran.png" group-title="islam;religious;pop",Sharjah Quran 102.7
-https://l3.itworkscdn.net/smcquranlive/quranradiolive/icecast.audio
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s3036/images/logog.png?t=1" group-title="world;arabic;folk",Sharjah Radio 94.4
-http://svs.itworkscdn.net/smcradiolive/smcradiolive/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgDdjXsbDT83KsnFeTJO_nHntIqySE9U7Www&s" group-title="pop;arabic;world",Star FM 92.4
-https://vo-live-media.cdb.cdn.orange.com/Content/Channel/star_fm/DASH/master.mpd?expires=1734443869&md5=SEH5gxdBr5zlUQhfRsc5Uw
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/8/18998.v1.png" group-title="islam;religious",Zayed Radio 97.6
-https://zayedquran.gov.ae/stream.php
 #EXTINF:-1 tvg-logo="https://manager.uber.radio/static/uploads/station/67e34ab0-2235-4bc6-9e23-7f9d47338765.jpg" group-title="",10Cc
 https://streaming.exclusive.radio/er/10cc/icecast.audio
 #EXTINF:-1 tvg-logo="https://manager.uber.radio/static/uploads/station/fa7472fb-6de4-46ed-b256-beef49c7867e.jpg" group-title="",10Cc - Hits
@@ -1213,3 +1185,31 @@ https://drive.uber.radio/uber/bollywoodyoyohoneysingh/icecast.audio
 https://streaming.exclusive.radio/er/ziggymarley/icecast.audio
 #EXTINF:-1 tvg-logo="https://manager.uber.radio/static/uploads/station/e094b0d0-43ee-420a-ae44-f5c2d9eb51b4.jpg" group-title="",Zz Top
 https://streaming.exclusive.radio/er/zztop/icecast.audio
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfHqBQt4FMgfpxq5s2aVV9LFZkxqzkkgNxsg&s" group-title="variety;talk",Abu Dhabi FM 90.0
+https://vo-live-media.cdb.cdn.orange.com/Content/Channel/abu_dhabi_fm/DASH/master.mpd?expires=1734440680&md5=R9dE5Y057eHmfwLybi0GCw
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTQs-4UOeAElI-HH-DEODUpLcrPnpqGgHTeg&s" group-title="classical;jazz;chill",Classic FM 91.6
+https://vo-live-media.cdb.cdn.orange.com/Content/Channel/classic_fm/DASH/master.mpd?expires=1734441066&md5=5yiYwF9LCSpOygMQKBr-IQ
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s170068/images/logog.jpg?t=161435" group-title="arabic;news;talk",Dubai Radio 93.0
+https://dmithrvllta.cdn.mgmlcdn.com/dubairdo/dubairdo_aac/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://edsfze.com/wp-content/uploads/2022/06/emaratlogo.jpg" group-title="world;variety;talk",Emarat 95.8 FM
+https://vo-live-media.cdb.cdn.orange.com/Content/Channel/emarat_fm/DASH/master.mpd?expires=1734441766&md5=4Cc-gSJzxvDi_ltqd6nTRA
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQhzfwoCPRUwWi1qIVMoY_0yzQC_5MvC5w8w&s" group-title="variety;talk",Fujairah 92.6 FM
+https://live.kwikmotion.com/fujairahradiolive/fujairahradio/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/70255703.jpg" group-title="bollywood;hindi",Kadak FM
+https://vo-live-media.cdb.cdn.orange.com/Content/Channel/kadak_fm/DASH/master.mpd?expires=1734442365&md5=M4FDB57SkWxQYphj0YQPoA
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s140482/images/logog.jpg?t=161435" group-title="news;talk;sports",Pulse 95
+https://svs.itworkscdn.net/pulse95live/pulse96/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.radio.net/300/quranalkareem.png?version=b1ad43339670d2b6a64a615cfeb32ff4" group-title="islam;religious",Quran Al Kareem 98.1
+https://vo-live-media.cdb.cdn.orange.com/Content/Channel/quran_kareem/DASH/master.mpd?expires=1734443037&md5=bmG5yVSYxwAFMXAUrkT2vg
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkkKRZ565z6OQXkovLAAH670avSwN_rsSYSA&s" group-title="top 40;pop",Radio 1 104.1
+https://vo-live-media.cdb.cdn.orange.com/Content/Channel/Radio1/DASH/master.mpd?expires=1734443257&md5=-P8IwxAMqAtFzFigWUG5LQ
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/48711036.jpg" group-title="bollywood;pop",Radio Suno 102.4
+http://51.255.235.165:5476/stream?type=http&nocache=78657
+#EXTINF:-1 tvg-logo="https://www.radioguide.fm/uploads/images/radiostation/shj%20quran.png" group-title="islam;religious;pop",Sharjah Quran 102.7
+https://l3.itworkscdn.net/smcquranlive/quranradiolive/icecast.audio
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s3036/images/logog.png?t=1" group-title="world;arabic;folk",Sharjah Radio 94.4
+http://svs.itworkscdn.net/smcradiolive/smcradiolive/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgDdjXsbDT83KsnFeTJO_nHntIqySE9U7Www&s" group-title="pop;arabic;world",Star FM 92.4
+https://vo-live-media.cdb.cdn.orange.com/Content/Channel/star_fm/DASH/master.mpd?expires=1734443869&md5=SEH5gxdBr5zlUQhfRsc5Uw
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/8/18998.v1.png" group-title="islam;religious",Zayed Radio 97.6
+https://zayedquran.gov.ae/stream.php
