@@ -1,5 +1,5 @@
 {
-  "total_stations": 22146,
+  "total_stations": 22169,
   "total_countries": 228,
   "countries": [
     {
@@ -55,12 +55,12 @@
       "count": 459
     },
     {
-      "code": "ES",
-      "count": 364
+      "code": "AU",
+      "count": 375
     },
     {
-      "code": "AU",
-      "count": 352
+      "code": "ES",
+      "count": 364
     },
     {
       "code": "NL",
@@ -2059,7 +2059,7 @@
     {
       "code": "AU",
       "file": "streams/au/au.m3u",
-      "count": 352
+      "count": 375
     },
     {
       "code": "TC",
@@ -2229,31 +2229,31 @@
       },
       {
         "name": "news",
-        "count": 335
+        "count": 336
       },
       {
         "name": "talk",
         "count": 225
       },
       {
-        "name": "hits",
-        "count": 188
+        "name": "variety",
+        "count": 195
       },
       {
-        "name": "variety",
-        "count": 177
+        "name": "hits",
+        "count": 190
       },
       {
         "name": "rock",
-        "count": 175
-      },
-      {
-        "name": "world",
-        "count": 115
+        "count": 174
       },
       {
         "name": "community",
-        "count": 115
+        "count": 134
+      },
+      {
+        "name": "world",
+        "count": 116
       },
       {
         "name": "public",
@@ -2273,7 +2273,7 @@
       },
       {
         "name": "contemporary",
-        "count": 79
+        "count": 80
       },
       {
         "name": "religious",
@@ -2281,11 +2281,11 @@
       },
       {
         "name": "adult",
-        "count": 66
+        "count": 67
       },
       {
         "name": "oldies",
-        "count": 64
+        "count": 66
       },
       {
         "name": "culture",
@@ -2417,5 +2417,5 @@
       }
     ]
   },
-  "updated": "2025-05-21T01:59:38Z"
+  "updated": "2025-05-25T01:01:41Z"
 }
