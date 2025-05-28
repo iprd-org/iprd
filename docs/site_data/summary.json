@@ -1,5 +1,5 @@
 {
-  "total_stations": 22191,
+  "total_stations": 22202,
   "total_countries": 228,
   "countries": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "code": "AU",
-      "count": 397
+      "count": 408
     },
     {
       "code": "ES",
@@ -2059,7 +2059,7 @@
     {
       "code": "AU",
       "file": "streams/au/au.m3u",
-      "count": 397
+      "count": 408
     },
     {
       "code": "TC",
@@ -2233,11 +2233,11 @@
       },
       {
         "name": "talk",
-        "count": 226
+        "count": 227
       },
       {
         "name": "variety",
-        "count": 208
+        "count": 216
       },
       {
         "name": "hits",
@@ -2249,7 +2249,7 @@
       },
       {
         "name": "community",
-        "count": 151
+        "count": 160
       },
       {
         "name": "world",
@@ -2348,11 +2348,11 @@
         "count": 23
       },
       {
-        "name": "70s",
-        "count": 22
+        "name": "r'n'b",
+        "count": 23
       },
       {
-        "name": "r'n'b",
+        "name": "70s",
         "count": 22
       },
       {
@@ -2417,5 +2417,5 @@
       }
     ]
   },
-  "updated": "2025-05-28T00:42:37Z"
+  "updated": "2025-05-28T02:00:16Z"
 }
