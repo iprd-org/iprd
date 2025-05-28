@@ -1,5 +1,5 @@
 {
-  "total_stations": 22169,
+  "total_stations": 22191,
   "total_countries": 228,
   "countries": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "code": "AU",
-      "count": 375
+      "count": 397
     },
     {
       "code": "ES",
@@ -2059,7 +2059,7 @@
     {
       "code": "AU",
       "file": "streams/au/au.m3u",
-      "count": 375
+      "count": 397
     },
     {
       "code": "TC",
@@ -2233,15 +2233,15 @@
       },
       {
         "name": "talk",
-        "count": 225
+        "count": 226
       },
       {
         "name": "variety",
-        "count": 195
+        "count": 208
       },
       {
         "name": "hits",
-        "count": 190
+        "count": 194
       },
       {
         "name": "rock",
@@ -2249,7 +2249,7 @@
       },
       {
         "name": "community",
-        "count": 134
+        "count": 151
       },
       {
         "name": "world",
@@ -2265,14 +2265,14 @@
       },
       {
         "name": "christian",
-        "count": 81
-      },
-      {
-        "name": "top 40",
-        "count": 80
+        "count": 82
       },
       {
         "name": "contemporary",
+        "count": 82
+      },
+      {
+        "name": "top 40",
         "count": 80
       },
       {
@@ -2281,11 +2281,11 @@
       },
       {
         "name": "adult",
-        "count": 67
+        "count": 68
       },
       {
         "name": "oldies",
-        "count": 66
+        "count": 68
       },
       {
         "name": "culture",
@@ -2305,7 +2305,7 @@
       },
       {
         "name": "classic",
-        "count": 44
+        "count": 42
       },
       {
         "name": "electronic",
@@ -2336,11 +2336,11 @@
         "count": 27
       },
       {
-        "name": "jazz",
-        "count": 26
+        "name": "alternative",
+        "count": 27
       },
       {
-        "name": "alternative",
+        "name": "jazz",
         "count": 26
       },
       {
@@ -2364,12 +2364,12 @@
         "count": 21
       },
       {
-        "name": "schlager",
+        "name": "easy listening",
         "count": 18
       },
       {
-        "name": "easy listening",
-        "count": 17
+        "name": "schlager",
+        "count": 18
       },
       {
         "name": "house",
@@ -2392,10 +2392,6 @@
         "count": 14
       },
       {
-        "name": "education",
-        "count": 13
-      },
-      {
         "name": "blues",
         "count": 13
       },
@@ -2408,6 +2404,10 @@
         "count": 13
       },
       {
+        "name": "education",
+        "count": 12
+      },
+      {
         "name": "arabic",
         "count": 12
       },
@@ -2417,5 +2417,5 @@
       }
     ]
   },
-  "updated": "2025-05-25T01:01:41Z"
+  "updated": "2025-05-28T00:42:37Z"
 }
