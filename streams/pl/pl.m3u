@@ -247,6 +247,10 @@ https://stream.profeto.pl/noweradio.mp3
 http://stream4.nadaje.com:13332/offradiokrakow
 #EXTINF:-1 tvg-logo="http://open.fm/img/logo-open-fm-200x200.png" group-title="(.*);(.*);",OpenFM Praca
 https://stream.open.fm/109?type=.aac
+#EXTINF:-1 tvg-logo="https://www.radio-eurodance-classic.eu/images/logo_rec_kdj.png" group-title="(.*);(.*);",Radio Eurodance Classic (128K MP3)
+http://quincy.torontocast.com:2380/stream
+#EXTINF:-1 tvg-logo="https://www.radio-eurodance-classic.eu/images/logo_rec_kdj.png" group-title="(.*);(.*);",Radio Eurodance Classic (64K AAC)
+https://quincy.torontocast.com:2965/stream
 #EXTINF:-1 tvg-logo="http://static.fm.tuba.pl/stations/_img/zlote-przeboje_512.png" group-title="(.*);(.*);",Radio Zlote Przeboje
 http://stream.open.fm/201
 #EXTINF:-1 tvg-logo="http://open.fm/logo/200x200/72" group-title="(.*);(.*);",OpenFM 00s Hits
