@@ -1019,24 +1019,6 @@ https://streaming.broadcastradio.com:11925/wfmcr
 http://radio.canstream.co.uk:8039/live.mp3
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/db/9c/db9c7e329c6fe3a8b97ffe8962549caf.jpg" group-title="(.*);(.*);",Zonkers Radio
 http://128.199.35.208:8000//highres.mp3
-#EXTINF:-1 tvg-logo="https://assets.planetradio.co.uk/img/ConfigWebListenBarLogoImageUrl/1.png" group-title="(.*);(.*);",Absolute Radio
-https://edge-bauerall-01-gos2.sharp-stream.com/absoluteradiohigh.aac
-#EXTINF:-1 tvg-logo="https://planetradio.co.uk/tesla/static/favicons/absolute/favicon.ico" group-title="(.*);(.*);",Absolute Radio 00s
-https://edge-bauerall-01-gos2.sharp-stream.com/absolute00shigh.aac
-#EXTINF:-1 tvg-logo="https://planetradio.co.uk/tesla/static/favicons/planet-radio/apple-touch-icon.png" group-title="(.*);(.*);",Absolute Radio 10s
-https://edge-bauerall-01-gos2.sharp-stream.com/absolute10shigh.aac
-#EXTINF:-1 tvg-logo="https://planetradio.co.uk/tesla/static/favicons/absolute/favicon.ico" group-title="(.*);(.*);",Absolute Radio 60s
-https://edge-bauerall-01-gos2.sharp-stream.com/absolute60shigh.aac
-#EXTINF:-1 tvg-logo="https://planetradio.co.uk/tesla/static/favicons/absolute/apple-touch-icon.png" group-title="(.*);(.*);",Absolute Radio 70s
-https://edge-bauerall-01-gos2.sharp-stream.com/absolute70shigh.aac
-#EXTINF:-1 tvg-logo="https://planetradio.co.uk/tesla/static/favicons/absolute/favicon.ico" group-title="(.*);(.*);",Absolute Radio 80s
-https://edge-bauerall-01-gos2.sharp-stream.com/absolute80shigh.aac
-#EXTINF:-1 tvg-logo="https://planetradio.co.uk/tesla/static/favicons/absolute/favicon.ico" group-title="(.*);(.*);",Absolute Radio 90s
-https://edge-bauerall-01-gos2.sharp-stream.com/absolute90shigh.aac
-#EXTINF:-1 tvg-logo="https://assets.planetradio.co.uk/img/ConfigWebListenBarLogoImageUrl/2.png?ver=1465293129" group-title="(.*);(.*);",Absolute Radio Classic Rock
-https://edge-bauerall-01-gos2.sharp-stream.com/absoluteclassicrockhigh.aac
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjgd4NTvEoGNAxBI29TsjcfDxxgei6_gxMZg&s" group-title="(.*);(.*);",KISStory
-https://edge-bauerall-01-gos2.sharp-stream.com/kisstory.aac
 #EXTINF:-1 tvg-logo="https://www.bbc.com/favicon.ico" group-title="(.*);(.*);",BBC Afrique Radio
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_afrique_radio/bbc_afrique_radio.isml/master.norewind.m3u8
 #EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s6866q.png" group-title="(.*);(.*);",BBC Arabic Radio
@@ -1187,3 +1169,21 @@ http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_world_service_australas
 https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_east_asia
 #EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/6/6.1563228219.png" group-title="(.*);(.*);",BBC World Service East Asia
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_world_service_east_asia/bbc_world_service_east_asia.isml/master.norewind.m3u8
+#EXTINF:-1 tvg-logo="https://assets.planetradio.co.uk/img/ConfigWebListenBarLogoImageUrl/1.png" group-title="(.*);(.*);",Absolute Radio
+https://edge-bauerall-01-gos2.sharp-stream.com/absoluteradiohigh.aac
+#EXTINF:-1 tvg-logo="https://planetradio.co.uk/tesla/static/favicons/absolute/favicon.ico" group-title="(.*);(.*);",Absolute Radio 00s
+https://edge-bauerall-01-gos2.sharp-stream.com/absolute00shigh.aac
+#EXTINF:-1 tvg-logo="https://planetradio.co.uk/tesla/static/favicons/planet-radio/apple-touch-icon.png" group-title="(.*);(.*);",Absolute Radio 10s
+https://edge-bauerall-01-gos2.sharp-stream.com/absolute10shigh.aac
+#EXTINF:-1 tvg-logo="https://planetradio.co.uk/tesla/static/favicons/absolute/favicon.ico" group-title="(.*);(.*);",Absolute Radio 60s
+https://edge-bauerall-01-gos2.sharp-stream.com/absolute60shigh.aac
+#EXTINF:-1 tvg-logo="https://planetradio.co.uk/tesla/static/favicons/absolute/apple-touch-icon.png" group-title="(.*);(.*);",Absolute Radio 70s
+https://edge-bauerall-01-gos2.sharp-stream.com/absolute70shigh.aac
+#EXTINF:-1 tvg-logo="https://planetradio.co.uk/tesla/static/favicons/absolute/favicon.ico" group-title="(.*);(.*);",Absolute Radio 80s
+https://edge-bauerall-01-gos2.sharp-stream.com/absolute80shigh.aac
+#EXTINF:-1 tvg-logo="https://planetradio.co.uk/tesla/static/favicons/absolute/favicon.ico" group-title="(.*);(.*);",Absolute Radio 90s
+https://edge-bauerall-01-gos2.sharp-stream.com/absolute90shigh.aac
+#EXTINF:-1 tvg-logo="https://assets.planetradio.co.uk/img/ConfigWebListenBarLogoImageUrl/2.png?ver=1465293129" group-title="(.*);(.*);",Absolute Radio Classic Rock
+https://edge-bauerall-01-gos2.sharp-stream.com/absoluteclassicrockhigh.aac
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjgd4NTvEoGNAxBI29TsjcfDxxgei6_gxMZg&s" group-title="(.*);(.*);",KISStory
+https://edge-bauerall-01-gos2.sharp-stream.com/kisstory.aac

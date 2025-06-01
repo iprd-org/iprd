@@ -1,4 +1,34 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7m1x2z41-5WQq3ev5Q71QphAeZfd-UV82TA&s" group-title=";",SNRT Al Amazighia 104.6
+https://cdn-globecast.akamaized.net/live/eds/radio_amazigh/hls_snrt_radio/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title=";",SNRT Chaine Internationale
+https://cdn-globecast.akamaized.net/live/eds/radio_chaine_inter/hls_snrt_radio/index.m3u8
+#EXTINF:-1 tvg-logo="https://snrtlive.ma/sites/default/files/styles/vignette/public/2023-04/idaawataniya-16x9.jpeg" group-title=";",SNRT Idaa Al Watania 96.0
+https://cdn-globecast.akamaized.net/live/eds/radio_idaa_watanya/hls_snrt_radio/index.m3u8
+#EXTINF:-1 tvg-logo="https://snrtlive.ma/sites/default/files/styles/vignette/public/2023-04/idaatmohammedassadiss-16x9.jpeg" group-title="(.*);(.*);",SNRT Idaa Mohamed Assadiis
+https://cdn-globecast.akamaized.net/live/eds/radio_mohammed_6/hls_snrt_radio/index.m3u8
+#EXTINF:-1 tvg-logo="https://snrtlive.ma/sites/default/files/styles/vignette/public/2023-04/idaawataniya-16x9.jpeg" group-title=";",SNRT Régional Agadir 87.9
+https://cdn-globecast.akamaized.net/live/eds/radio_agadir/hls_snrt_radio/index.m3u8
+#EXTINF:-1 tvg-logo="https://snrtlive.ma/sites/default/files/styles/vignette/public/2023-04/idaawataniya-16x9.jpeg" group-title=";",SNRT Régional Al-Hoceima 95.3
+https://cdn-globecast.akamaized.net/live/eds/radio_el_hoceima/hls_snrt_radio/index.m3u8
+#EXTINF:-1 tvg-logo="https://snrtlive.ma/sites/default/files/styles/vignette/public/2023-04/idaawataniya-16x9.jpeg" group-title=";",SNRT Régional Casablanca 103.10
+https://cdn-globecast.akamaized.net/live/eds/radio_casa/hls_snrt_radio/index.m3u8
+#EXTINF:-1 tvg-logo="https://snrtlive.ma/sites/default/files/styles/vignette/public/2023-04/idaawataniya-16x9.jpeg" group-title=";",SNRT Régional Dakhla 89.3
+https://cdn-globecast.akamaized.net/live/eds/radio_dakhla/hls_snrt_radio/index.m3u8
+#EXTINF:-1 tvg-logo="https://snrtlive.ma/sites/default/files/styles/vignette/public/2023-04/idaawataniya-16x9.jpeg" group-title=";",SNRT Régional Fès 98.4
+https://cdn-globecast.akamaized.net/live/eds/radio_fes/hls_snrt_radio/index.m3u8
+#EXTINF:-1 tvg-logo="https://snrtlive.ma/sites/default/files/styles/vignette/public/2023-04/idaawataniya-16x9.jpeg" group-title=";",SNRT Régional Laâyoune 91.0
+https://cdn-globecast.akamaized.net/live/eds/radio_laayoune/hls_snrt_radio/index.m3u8
+#EXTINF:-1 tvg-logo="https://snrtlive.ma/sites/default/files/styles/vignette/public/2023-04/idaawataniya-16x9.jpeg" group-title=";",SNRT Régional Marrakech 91.7
+https://cdn-globecast.akamaized.net/live/eds/radio_marrakech/hls_snrt_radio/index.m3u8
+#EXTINF:-1 tvg-logo="https://snrtlive.ma/sites/default/files/styles/vignette/public/2023-04/idaawataniya-16x9.jpeg" group-title=";",SNRT Régional Meknès 92.5
+https://cdn-globecast.akamaized.net/live/eds/radio_meknes/hls_snrt_radio/index.m3u8
+#EXTINF:-1 tvg-logo="https://snrtlive.ma/sites/default/files/styles/vignette/public/2023-04/idaawataniya-16x9.jpeg" group-title=";",SNRT Régional Oujda 104.0
+https://cdn-globecast.akamaized.net/live/eds/radio_oujda/hls_snrt_radio/index.m3u8
+#EXTINF:-1 tvg-logo="https://snrtlive.ma/sites/default/files/styles/vignette/public/2023-04/idaawataniya-16x9.jpeg" group-title=";",SNRT Régional Tanger 88.7
+https://cdn-globecast.akamaized.net/live/eds/radio_tanger/hls_snrt_radio/index.m3u8
+#EXTINF:-1 tvg-logo="https://snrtlive.ma/sites/default/files/styles/vignette/public/2023-04/idaawataniya-16x9.jpeg" group-title=";",SNRT Régional Tetouan 96.1
+https://cdn-globecast.akamaized.net/live/eds/radio_tetouan/hls_snrt_radio/index.m3u8
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/94/44/9444f1327e303a6e64796262e0e23af9.jpg" group-title="(.*);(.*);",Atlantic Radio 92.5
 https://atlantic-sonic.nindohost.net:9300/stream
 #EXTINF:-1 tvg-logo="http://www.radioaswat.ma/favicon.ico" group-title="(.*);(.*);",Aswat Radio
@@ -75,33 +105,3 @@ http://radiomars.ice.infomaniak.ch/radiomars-128.mp3
 http://radiotangermed-22.ice.infomaniak.ch/radiotangermed-22-128.mp3
 #EXTINF:-1 tvg-logo="https://www.rimradio.ma/sites/all/themes/rim/logo.png" group-title="(.*);(.*);",RIM Radio
 https://streaming.rimradio.ma/live
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7m1x2z41-5WQq3ev5Q71QphAeZfd-UV82TA&s" group-title=";",SNRT Al Amazighia 104.6
-https://cdn-globecast.akamaized.net/live/eds/radio_amazigh/hls_snrt_radio/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title=";",SNRT Chaine Internationale
-https://cdn-globecast.akamaized.net/live/eds/radio_chaine_inter/hls_snrt_radio/index.m3u8
-#EXTINF:-1 tvg-logo="https://snrtlive.ma/sites/default/files/styles/vignette/public/2023-04/idaawataniya-16x9.jpeg" group-title=";",SNRT Idaa Al Watania 96.0
-https://cdn-globecast.akamaized.net/live/eds/radio_idaa_watanya/hls_snrt_radio/index.m3u8
-#EXTINF:-1 tvg-logo="https://snrtlive.ma/sites/default/files/styles/vignette/public/2023-04/idaatmohammedassadiss-16x9.jpeg" group-title="(.*);(.*);",SNRT Idaa Mohamed Assadiis
-https://cdn-globecast.akamaized.net/live/eds/radio_mohammed_6/hls_snrt_radio/index.m3u8
-#EXTINF:-1 tvg-logo="https://snrtlive.ma/sites/default/files/styles/vignette/public/2023-04/idaawataniya-16x9.jpeg" group-title=";",SNRT Régional Agadir 87.9
-https://cdn-globecast.akamaized.net/live/eds/radio_agadir/hls_snrt_radio/index.m3u8
-#EXTINF:-1 tvg-logo="https://snrtlive.ma/sites/default/files/styles/vignette/public/2023-04/idaawataniya-16x9.jpeg" group-title=";",SNRT Régional Al-Hoceima 95.3
-https://cdn-globecast.akamaized.net/live/eds/radio_el_hoceima/hls_snrt_radio/index.m3u8
-#EXTINF:-1 tvg-logo="https://snrtlive.ma/sites/default/files/styles/vignette/public/2023-04/idaawataniya-16x9.jpeg" group-title=";",SNRT Régional Casablanca 103.10
-https://cdn-globecast.akamaized.net/live/eds/radio_casa/hls_snrt_radio/index.m3u8
-#EXTINF:-1 tvg-logo="https://snrtlive.ma/sites/default/files/styles/vignette/public/2023-04/idaawataniya-16x9.jpeg" group-title=";",SNRT Régional Dakhla 89.3
-https://cdn-globecast.akamaized.net/live/eds/radio_dakhla/hls_snrt_radio/index.m3u8
-#EXTINF:-1 tvg-logo="https://snrtlive.ma/sites/default/files/styles/vignette/public/2023-04/idaawataniya-16x9.jpeg" group-title=";",SNRT Régional Fès 98.4
-https://cdn-globecast.akamaized.net/live/eds/radio_fes/hls_snrt_radio/index.m3u8
-#EXTINF:-1 tvg-logo="https://snrtlive.ma/sites/default/files/styles/vignette/public/2023-04/idaawataniya-16x9.jpeg" group-title=";",SNRT Régional Laâyoune 91.0
-https://cdn-globecast.akamaized.net/live/eds/radio_laayoune/hls_snrt_radio/index.m3u8
-#EXTINF:-1 tvg-logo="https://snrtlive.ma/sites/default/files/styles/vignette/public/2023-04/idaawataniya-16x9.jpeg" group-title=";",SNRT Régional Marrakech 91.7
-https://cdn-globecast.akamaized.net/live/eds/radio_marrakech/hls_snrt_radio/index.m3u8
-#EXTINF:-1 tvg-logo="https://snrtlive.ma/sites/default/files/styles/vignette/public/2023-04/idaawataniya-16x9.jpeg" group-title=";",SNRT Régional Meknès 92.5
-https://cdn-globecast.akamaized.net/live/eds/radio_meknes/hls_snrt_radio/index.m3u8
-#EXTINF:-1 tvg-logo="https://snrtlive.ma/sites/default/files/styles/vignette/public/2023-04/idaawataniya-16x9.jpeg" group-title=";",SNRT Régional Oujda 104.0
-https://cdn-globecast.akamaized.net/live/eds/radio_oujda/hls_snrt_radio/index.m3u8
-#EXTINF:-1 tvg-logo="https://snrtlive.ma/sites/default/files/styles/vignette/public/2023-04/idaawataniya-16x9.jpeg" group-title=";",SNRT Régional Tanger 88.7
-https://cdn-globecast.akamaized.net/live/eds/radio_tanger/hls_snrt_radio/index.m3u8
-#EXTINF:-1 tvg-logo="https://snrtlive.ma/sites/default/files/styles/vignette/public/2023-04/idaawataniya-16x9.jpeg" group-title=";",SNRT Régional Tetouan 96.1
-https://cdn-globecast.akamaized.net/live/eds/radio_tetouan/hls_snrt_radio/index.m3u8
