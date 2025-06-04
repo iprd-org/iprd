@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/58158837.jpg" group-title="top 40;pop",90 FM
+https://stream.itv.az/rtmp:/radio/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/2489254.jpg" group-title="pop;hits",Araz 103.3
 http://s39.myradiostream.com:5458/listen.mp3
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/f84zKSqbh56R_U3YHO6Sv4cgFMSQKuPoDSXITsPIyIxnGY8wqq2yctN4pjbfyITSlOpk" group-title="public;world;folk",ASAN Radio 100
@@ -9,6 +11,8 @@ https://str.yodacdn.net/radio_respublica/tracks-a1/mono.m3u8
 http://radio.autoliferadio.com:8090/radio
 #EXTINF:-1 tvg-logo="http://avtofm.az/wp-content/uploads/2019/07/cropped-Безымянный-1-4-180x180.jpg" group-title="pop;top 40",AvtoFm 107.7
 http://5.191.241.101:8000/avtofm
+#EXTINF:-1 tvg-logo="https://thenonstopradio.com/images/radio/88444054.jpg" group-title="pop;top 40",Azad 106.3
+https://audiostr.atv.az/106.3fm
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s263460/images/logog.png?t=636344" group-title="rock;garage;psychedelic",Baku Jukebox
 http://78.109.52.73:8000/bkjbox
 #EXTINF:-1 tvg-logo="https://fmcube.net/images/stations/64f1e8292b2cf.jpg" group-title="60s;70s;80s",Baku Retro 93.3
