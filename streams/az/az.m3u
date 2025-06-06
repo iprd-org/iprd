@@ -21,22 +21,34 @@ http://5.191.241.101:8000/bakuhitfm
 http://78.109.52.73:8000/bkjbox
 #EXTINF:-1 tvg-logo="https://fmcube.net/images/stations/64f1e8292b2cf.jpg" group-title="60s;70s;80s",Baku Retro 93.3
 http://5.191.241.101:8000/bakuretrofm
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/fblogo/4/145084.v1.png" group-title="hits;news",Bolmart
+https://listen.radioking.com/radio/697904/stream/762854
 #EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/34078259.jpg" group-title="folk;world",Day.Az Radio
 https://radio.day.az:9443/128m
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/62/47/a462475e-e8b3-6577-9b7a-9ec74c950e4b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1200x600wa.png" group-title="dance;world",DFM
+http://557e041d4bdc.sn.mynetname.net:8000/onefm
 #EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/28784202.jpg" group-title="pop;hits",Europa Plus Baku 107.7
 https://hls-02-europaplus.emgsound.ru/11/128/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/fblogo/2/145082.v1.png" group-title="pop;hits",Grandmart
+https://listen.radioking.com/radio/697901/stream/762842
 #EXTINF:-1 tvg-logo="https://big-radio.net/uploads/posts/2021-12/1639657063_ctimai-radio-big-radio_org.png" group-title="top 40;pop",Ictimai Radio 90.0
 https://stream.itv.az/rtmp:/radio/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s266844g.png" group-title="variety;talk;world",Kepez 93.3
 http://85.132.78.122:3344/now
+#EXTINF:-1 tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/284/mak-online.cf54c746.png" group-title="country;jazz;rock",Mak Online
+https://s05.volnorez.com/live-app/cid/843862/5205ffbe084c295e
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsHePAYR4MS7lEzKlEC9r-F0YZvUhhc83w3A&s" group-title="top 40;hits",MediaFM 105.5
+https://icecast.livetv.az/mediafm
 #EXTINF:-1 tvg-logo="https://online-radio.eu/logo/18/18203.jpg" group-title="folk;community;news",Naxcivan Radio 104.1
 https://str.yodacdn.net/naxcivanradio/tracks-a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_Y9tcJcS_EE_yVOCR1W14Lfef8dA0HmTNtg&s" group-title="top 40;hits",Radio 106 106.0
 https://stream.atv.az/WebRTCAppEE/streams/612758375034657638703581_720p1500kbps.m3u8
 #EXTINF:-1 tvg-logo="https://turkic.world/media/2022/02/01/radio_tmb_010222_1.jpg" group-title="pop;news;folk",Radio TMB 100.5
 https://s39.myradiostream.com/:5458/listen.mp3
-#EXTINF:-1 tvg-logo="https://www.radioguide.fm/uploads/images/radiostation/radioveten-2.jpg" group-title="pop;classic",Radio Veten 92.3
+#EXTINF:-1 tvg-logo="https://www.radioguide.fm/uploads/images/radiostation/radioveten-2.jpg" group-title="pop;oldies",Radio Veten 92.3
 http://stream.zeno.fm/p1hx0c3y14zuv
+#EXTINF:-1 tvg-logo="https://www.liveradio.ie/files/images/552057/resized/180x172c/radiocto.jpg" group-title="pop;hits",Radiocto
+https://yayin5.radyohizmeti.com/8196/stream
 #EXTINF:-1 tvg-logo="https://thenonstopradio.com/images/radio/9726793.jpg" group-title="pop;news;talk",Space Radio 104.0
 http://5.191.241.101:8000/spaceradio
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEkAlzrERS2sqF6ZryR1JEzW7uI8N-iqIvkg&s" group-title="hip hop;pop;r'n'b",Xezer 103.0
