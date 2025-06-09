@@ -29,20 +29,40 @@ http://178.209.2.100:10000/live.mp3
 http://server1.tnt.ba:8010/
 #EXTINF:-1 tvg-logo="http://www.nesradio.com//favicon.ico" group-title="contemporary;hits",Nes Radio
 http://188.40.62.20:8070/listen.pls
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBwKRIY9HXr59IESaYda77VZDisY6i8DggLg&s" group-title="variety;pop;folk",ORV Radio
+https://otv.ovh/live_radio/orv/icecast.audio
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mXIypEpxNifxG2cXn74QFDv_JHeZK1RvXvYX0N75keog=s900-c-k-c0x00ffffff-no-rj" group-title="folk;world",OSM Radio 93.6
+https://de1.internet-radio.com/proxy/radioosm?mp=/stream
 #EXTINF:-1 tvg-logo="https://www.pakaoradio.net/img/bigthumb.jpg" group-title="rock;hits",Pakao Radio
 https://securestream.pakaoradio.net/live
 #EXTINF:-1 tvg-logo="https://dvw7f7sqjk3ag.cloudfront.net/images/radio/63366.jpg" group-title="news;hits",Radio ASK 89.9
 http://198.7.62.157:10000/;
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMvCMBxzgH0Srqcyi97f4yJlAyVLW_0aKlhA&s" group-title="news;talk;variety",Radio Bihac 94.7
+https://radiobihaclive.radioca.st/;
+#EXTINF:-1 tvg-logo="https://www.uzivoradio.net/wp-content/uploads/2018/09/bileca.jpg" group-title="news;talk;variety",Radio Bileca 92.2
+https://radio.dukahosting.com/8087/stream
 #EXTINF:-1 tvg-logo="https://www.bir.ba/images/bir_favicon.png" group-title="religion;talk",Radio Bir
 http://188.40.62.20:8090/?DIST=TuneIn&TGT=TuneIn&maxServers=2&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTY0MDA1MDQ3NCwiaXNzIjoidGlzcnYifQ.gKy4ApHWbaZHE0Brf2r3aTr34vvtnx0r-o9ZlPTj_-4
 #EXTINF:-1 tvg-logo="https://www.rtvbn.com/storage/settings/res_1617023473_favicon.png" group-title="folk;world",Radio BN
 http://stream.rtvbn.com:8522/;.mp3
+#EXTINF:-1 tvg-logo="https://radiobk.ba/wp-content/uploads/2025/01/Radio1.png" group-title="news;talk;variety",Radio Bosanska Krupa 97.5
+https://stream.leftor.com/proxy/radiobk/stream/;stream.mp3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg5cMWNSe8MiI9okTXPuhOZAWOwH6unBIyCQ&s" group-title="news;talk;variety",Radio Bosanski Petrovac 90.9
+http://89.111.229.113:7200/petrovac
 #EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/84/ad/12631/c300.png" group-title="talk;news",Radio Brcko District
 http://91.191.0.45:8000/
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbIiM1oKnJGzfQv7AvR-pBrwcDN2Vgc_BbvA&s" group-title="talk;news;variety",Radio Brod 92.2
+http://194.145.208.251:8010/stream
+#EXTINF:-1 tvg-logo="https://www.uzivoradio.net/wp-content/uploads/2020/09/bugojno.jpg" group-title="talk;news;variety",Radio Bugojno 101.0
+https://s3.free-shoutcast.com/stream/18156
+#EXTINF:-1 tvg-logo="https://radio-busovaca.eu/wp-content/uploads/2023/10/cropped-viber_slika_2023-10-23_20-12-00-633.jpg" group-title="talk;news;variety",Radio Busovaca 101.9
+https://ec2s.crolive.com.hr:1510/stream
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/RTV_Herceg-Bosne_Logo.jpg/250px-RTV_Herceg-Bosne_Logo.jpg" group-title="variety;talk",Radio Herceg-Bosne 98.1
 https://s3.free-shoutcast.com/stream/18038/;
 #EXTINF:-1 tvg-logo="https://images.keepone.net/912126-2017-03-14.jpg" group-title="variety;sports;talk",Radio Ilijas 89.7
 https://stream.leftor.com/proxy/radioili/stream/
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/dwUNc2IAlCIC7fIWaoSaRjIwxFkJFKPeyqKzbn4rUaqYnLaSzdIuKvGCGc_hUtpILY0" group-title="news;talk;variety",Radio IS 105.6
+https://stream.leftor.com/proxy/radiois/stream/;stream.mp3
 #EXTINF:-1 tvg-logo="https://bosnia-herzegovina.mom-gmr.org/uploads/tx_lfrogmom/media/722-2443_import.png" group-title="variety;folk",Radio Kalman 91.2
 http://188.40.62.20:8004/stream
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvGfzE_BUvu1D2rs5eAxV2ovF_KK8kwO44eA&s" group-title="contemporary;hits",Radio Kiss FM 92.7
@@ -51,7 +71,7 @@ http://stream.kissfm.ba:8010/live
 https://s3.free-shoutcast.com/stream/18056ic-uzivo/
 #EXTINF:-1 tvg-logo="https://www.radio.net/300/radiom.png?version=582eb1b30a96b431ae1d9a15843afd3a" group-title="contemporary;hits",Radio M 98.7
 https://team-data.ba:9030//;
-#EXTINF:-1 tvg-logo="https://www.radiomarija.ba///favicon.ico" group-title="catholic;religion",Radio Maria
+#EXTINF:-1 tvg-logo="https://www.radiomarija.ba///favicon.ico" group-title="catholic;religion",Radio Marija 103.3
 http://dreamsiteradiocp.com:8034/stream
 #EXTINF:-1 tvg-logo="https://img2.tubidy.fm/img350bf361888400808b9.png" group-title="variety;folk",Radio Miljacka 95.2
 https://radiomiljacka-bhcloud.radioca.st/stream.mp3
