@@ -19,6 +19,12 @@ https://stream.radiobn.net/;?type=http&nocache=11
 http://94.130.11.28:9010/stream/1/
 #EXTINF:-1 tvg-logo="https://www.uzivoradio.net/wp-content/uploads/2011/08/college-banja-luka.jpg" group-title="college;variety;pop",College Radio Banja Luka 87.6
 http://198.178.123.8:8600/;*.mp3
+#EXTINF:-1 tvg-logo="https://www.allradio.net/500/mCkwOg7jIssdVpsQKZzC2.webp" group-title="news;variety;talk",Dub Radio 96.7
+https://s1.mojstream.eu:8162/;
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/Logo_of_RTV_Cazin.jpg" group-title="news;talk;variety",Radio Cazin
+http://195.222.33.217:8095/;stream.mp3
+#EXTINF:-1 tvg-logo="https://www.exyuradio.net/pub/catalog/radio-foca-uzivo.jpg" group-title="news;talk;variety",Radio Foca 92.5
+https://stream.leftor.com/proxy/radiofo2/stream/;stream.mp3
 #EXTINF:-1 tvg-logo="https://www.uzivoradio.net/wp-content/uploads/2020/11/federalni-radio-sarajevo-600x315.jpg" group-title="variety;news;talk",Federalni Radio 89.3
 https://s2.free-shoutcast.com/stream/18170
 #EXTINF:-1 tvg-logo="https://www.internet-radio-gvm.com/images/Web/gvm_novi_logo.png" group-title="pop;rock;hip hop",Internet Radio GVM
@@ -81,6 +87,14 @@ https://mirm.live/mir.mp3
 https://stream.rsgmedia.ba/listen/radio_mix/radio.mp3
 #EXTINF:-1 tvg-logo="https://sradiospush-10741.kxcdn.com/uploads/fm_49151.jpg" group-title="community;talk",Radio Otvorena mreza 98.4
 http://s8.iqstreaming.com:8050/stream
+#EXTINF:-1 tvg-logo="https://capljina.ba/wp-content/uploads/2018/01/Radiopostaj-aCapljina.png" group-title="community;talk;variety",Radiopostaja Capljina 91.3
+http://s8.iqstreaming.com:8016/stream
+#EXTINF:-1 tvg-logo="https://www.exyuradio.net/pub/catalog/rtv-doboj-uzivo.jpg" group-title="news;talk;variety",Radio Doboj 96.3
+https://stream.leftor.com/proxy/rtvdobo1/stream/;stream.mp3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-FIHr-PXXM-Y2ozbLGZ_fCZaT2VMhx9u64Q&s" group-title="news;talk;variety",Radio Donji Vakuf 88.0
+http://5.9.71.122:8134/;stream.mp3
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/uYcbvVkF2ZU/hqdefault.jpg" group-title="news;talk;variety",Radio Drvar 89.5
+http://89.111.241.37:8090/live1
 #EXTINF:-1 tvg-logo="https://www.phonostar.de/images/auto_created/Radio_Posusje3184x184.png" group-title="dance;rock;blues",Radio Posušje 102.9
 http://136.243.144.93:9994/
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxV_g3qfuvavKXYkbP_ML2KqGmiJQuriKv4dNg0QIaka2B-wWGjOjAzOmjhXrVv3L7_sw&usqp=CAU" group-title="news;talk;public",Radio Republike Srpske
