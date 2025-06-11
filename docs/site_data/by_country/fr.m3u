@@ -1,4 +1,52 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://www.hotmixradios.fr/images/logos/320/HOTMIXRADIO-2000.jpg" group-title="(.*);(.*);",Hotmix Radio 2000
+http://streaming.hotmix-radio.net/hotmixradio-2k-128.mp3
+#EXTINF:-1 tvg-logo="http://www.hotmixradios.fr/images/logos/320/HOTMIXRADIO-80s.jpg" group-title="(.*);(.*);",Hotmix Radio 80
+http://streaming.hotmix-radio.net/hotmixradio-80-128.mp3
+#EXTINF:-1 tvg-logo="http://www.hotmixradios.fr/images/logos/320/HOTMIXRADIO-90s.jpg" group-title="(.*);(.*);",Hotmix Radio 90
+http://streaming.hotmix-radio.net/hotmixradio-90-128.mp3
+#EXTINF:-1 tvg-logo="http://www.hotmixradios.fr/images/logos/320/HOTMIXRADIO-Dance.jpg" group-title="(.*);(.*);",Hotmix Radio Dance
+http://streaming.hotmix-radio.net/hotmixradio-dance-128.mp3
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s105866g.png" group-title="(.*);(.*);",Hotmix Radio Frenchy
+https://streamingp.shoutcast.com/hotmixradio-frenchy-64.mp3
+#EXTINF:-1 tvg-logo="http://www.hotmixradios.fr/images/logos/320/HOTMIXRADIO-Funky.jpg" group-title="(.*);(.*);",Hotmix Radio Funky
+http://streaming.hotmix-radio.net/hotmixradio-funky-128.mp3
+#EXTINF:-1 tvg-logo="http://www.hotmixradios.fr/images/logos/320/HOTMIXRADIO-Hiphop.jpg" group-title="(.*);(.*);",Hotmix Radio Hip-Hop
+http://streaming.hotmix-radio.net/hotmixradio-hiphop-128.mp3
+#EXTINF:-1 tvg-logo="https://static.hotmixradio.fr/wp-content/uploads/cropped-favico-trans-1-70x70.png" group-title="(.*);(.*);",Hotmix Radio Hits
+http://streaming.hotmix-radio.net/hotmixradio-hits-128.mp3
+#EXTINF:-1 tvg-logo="https://static.hotmixradio.fr/wp-content/uploads/cropped-favico-trans-1-70x70.png" group-title="(.*);(.*);",Hotmix Radio Platinum
+https://streamingp.shoutcast.com/hotmixradio-platinium-128.mp3
+#EXTINF:-1 tvg-logo="https://static.hotmixradio.fr/wp-content/uploads/logo_hmr_platinum_1000x1000-460x460.jpg" group-title="(.*);(.*);",Hotmix Radio Platinum
+https://streamingp.shoutcast.com/hotmixradio-platinium-48.aac
+#EXTINF:-1 tvg-logo="https://static.hotmixradio.fr/wp-content/uploads/cropped-favico-trans-1-70x70.png" group-title="(.*);(.*);",Hotmix Radio Platinum
+https://streamingp.shoutcast.com/hotmixradio-platinium-64.aac
+#EXTINF:-1 tvg-logo="https://static.hotmixradio.fr/wp-content/uploads/logo_hmr_platinum_1000x1000-460x460.jpg" group-title="(.*);(.*);",Hotmix Radio Platinum
+https://streamingp.shoutcast.com/hotmixradio-platinium-320.mp3
+#EXTINF:-1 tvg-logo="https://static.hotmixradio.fr/wp-content/themes/remix/img/loading.gif" group-title="(.*);(.*);",Hotmix Radio Rock
+https://streamingp.shoutcast.com/hotmixradio-rock-128.mp3?newsession=1605962434596&p=true&gdpr=true&gdpr_consent=CO9OfHqO9OfHqAKATAFRBBCsAP_AAH_AAAqIHGtd_X_fb39j-_59_9t0eY1f9_7_v20zjgeds-8Nyd_X_L8X42M7vB36pq4KuR4Eu3LBAQFlHOHcTUmw6IkVqTPsak2Mr7NKJ7PEinMbe2dYGHtfn9VTuZKYr97s___z__-__v__79f_r-3_3_vp9V---2BxIBJhqXwEWYljgSTRpVCiBCFcSHQAgAooRhaJrCAlcFOyuAj9BAwAQGoCMCIEGIKMWQQAAAABJREBIAeCARAEQCAAEAKkBCAAjQBBYASBgEAAoBoWAEUAQgSEGRwVHKYEBEi0UE8lYAlF3sYYQhlFADQIAAAA.f_gAAAAAAAAA
+#EXTINF:-1 tvg-logo="http://www.hotmixradios.fr/images/logos/320/HOTMIXRADIO-Rock.jpg" group-title="(.*);(.*);",Hotmix Radio Rock
+https://streamingp.shoutcast.com/hotmixradio-rock-64.mp3
+#EXTINF:-1 tvg-logo="http://ecouter.lesindesradios.fr/applications/latina/latina.png" group-title="(.*);(.*);",Latina
+https://start-latina.ice.infomaniak.ch/start-latina-high.mp3
+#EXTINF:-1 tvg-logo="https://ecouter.lesindesradios.net/logos/orange323.png" group-title="(.*);(.*);",LATINA @WORK
+https://latinawork.ice.infomaniak.ch/latinawork.mp3
+#EXTINF:-1 tvg-logo="https://ecouter.lesindesradios.net/logos/orange324.png" group-title="(.*);(.*);",LATINA BACHATA
+https://latinabachata.ice.infomaniak.ch/latinabachata.mp3
+#EXTINF:-1 tvg-logo="https://ecouter.lesindesradios.net/logos/orange329.png" group-title="(.*);(.*);",LATINA FIESTA
+https://latinafiesta.ice.infomaniak.ch/latinafiesta.mp3
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/angdguktmyqv.png" group-title="(.*);(.*);",LATINA KIZOMBA
+https://latinakizomba.ice.infomaniak.ch/latinakizomba.mp3
+#EXTINF:-1 tvg-logo="https://ecouter.lesindesradios.net/logos/orange326.png" group-title="(.*);(.*);",LATINA LOVE
+https://latinalove.ice.infomaniak.ch/latinalove.mp3
+#EXTINF:-1 tvg-logo="https://ecouter.lesindesradios.net/logos/orange327.png" group-title="(.*);(.*);",LATINA REGGAETON
+https://latinareggaeton.ice.infomaniak.ch/latinareggaeton.mp3
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/grygplpc5wmd.png" group-title="(.*);(.*);",LATINA SALSA
+https://latinasalsa.ice.infomaniak.ch/latinasalsa.mp3
+#EXTINF:-1 tvg-logo="https://i3.radionomy.com/radios/400/e9f92890-11fb-4bf8-bcc6-04cd4759e809.png" group-title="(.*);(.*);",BFM
+https://audio.bfmtv.com/bfmradio_128.mp3
+#EXTINF:-1 tvg-logo="http://static.radio.fr/images/broadcasts/b1/97/1441/1/c300.png" group-title="(.*);(.*);",BFM Business
+https://audio.bfmtv.com/bfmbusiness_128.mp3
 #EXTINF:-1 tvg-logo="http://www.centpourcent.com/uploads/flux/image-desktop/100---80.png" group-title="(.*);(.*);",100%Radio 80
 http://100radio-80.ice.infomaniak.ch/100radio-80-128.mp3
 #EXTINF:-1 tvg-logo="http://www.centpourcent.com/uploads/flux/image-desktop/100---90.png" group-title="(.*);(.*);",100%Radio 90
@@ -29,16 +77,202 @@ http://100radio-stgaudens.ice.infomaniak.ch/100radio-stgaudens-128.mp3
 http://100radio-tarbes.ice.infomaniak.ch/100radio-tarbes-128.mp3
 #EXTINF:-1 tvg-logo="https://centpourcent.com/uploads/flux/image-desktop/toulouse.png" group-title="(.*);(.*);",100%Radio Toulouse
 http://100radio-toulouse.ice.infomaniak.ch/100radio-toulouse-128.mp3
-#EXTINF:-1 tvg-logo="http://www.mistralfm.fr/upload/5b3f2b9be12f43.34166908.ico" group-title="(.*);(.*);",Mistral FM
-http://icepe8.infomaniak.ch:80/mistralfm-high.mp3
-#EXTINF:-1 tvg-logo="http://www.mistralfm.com/upload/52d7bd22c7f545.12490394.ico" group-title="(.*);(.*);",Mistral FM Marseille
-https://mistralfmaubagne.ice.infomaniak.ch/mistralfmaubagne-128.mp3
-#EXTINF:-1 tvg-logo="http://www.mistralfm.com/upload/52d7bd22c7f545.12490394.ico" group-title="(.*);(.*);",Mistral FM Nice
-https://mistralfmnice.ice.infomaniak.ch/mistralfmnice-192.mp3
-#EXTINF:-1 tvg-logo="http://www.mistralfm.com/upload/52d7bd22c7f545.12490394.ico" group-title="(.*);(.*);",Mistral FM Toulon
-http://mistralfm.ice.infomaniak.ch/mistralfm-high.mp3
-#EXTINF:-1 tvg-logo="http://www.mistralfm.com/upload/52d7bd22c7f545.12490394.ico" group-title="(.*);(.*);",RCT La Radio
-https://rctlaradio.ice.infomaniak.ch/rctlaradio-128.mp3
+#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/champagnefm/radiostream/yX0MCLvoee/vignette_0a4hbFXuBR.jpeg" group-title="(.*);(.*);",Champagne FM Acoustic
+https://stream.rcs.revma.com/7m29ad1at18uv
+#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/champagnefm/radiostream/chHQL0maML/vignette_GE0oGotCSM.png" group-title="(.*);(.*);",Champagne FM Châlons-en-Champagne
+https://chalons.ice.infomaniak.ch/chalons-128.mp3
+#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/champagnefm/radiostream/chHQL0maML/vignette_GE0oGotCSM.png" group-title="(.*);(.*);",Champagne FM Château-Thierry
+https://chateauthierry.ice.infomaniak.ch/chateauthierry-128.mp3
+#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/champagnefm/radiostream/chHQL0maML/vignette_GE0oGotCSM.png" group-title="(.*);(.*);",Champagne FM Charleville-Mézières
+https://charleville.ice.infomaniak.ch/charleville-128.mp3
+#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/champagnefm/radiostream/chHQL0maML/vignette_GE0oGotCSM.png" group-title="(.*);(.*);",Champagne FM Epernay
+https://epernay.ice.infomaniak.ch/epernay-128.mp3
+#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/champagnefm/radiostream/SbiQhZfdCN/vignette_jhZtGIeqSE.jpeg" group-title="(.*);(.*);",Champagne FM Love
+https://stream.rcs.revma.com/gxsrs20at18uv
+#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/champagnefm/radiostream/aAfHdr27SB/vignette_lR8HHg5rzr.jpeg" group-title="(.*);(.*);",Champagne FM Party
+https://stream.rcs.revma.com/w1f0060at18uv
+#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/champagnefm/radiostream/szK6ySxSUW/vignette_87NYlNfmgD.jpeg" group-title="(.*);(.*);",Champagne FM Pop Music
+https://stream.rcs.revma.com/5q0f594at18uv
+#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/champagnefm/radiostream/chHQL0maML/vignette_GE0oGotCSM.png" group-title="(.*);(.*);",Champagne FM Reims
+https://reims.ice.infomaniak.ch/reims-128.mp3
+#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/champagnefm/radiostream/chHQL0maML/vignette_GE0oGotCSM.png" group-title="(.*);(.*);",Champagne FM Reims
+https://stream.rcs.revma.com/9nq0kz1gy7uvv
+#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/champagnefm/radiostream/chHQL0maML/vignette_GE0oGotCSM.png" group-title="(.*);(.*);",Champagne FM Rethel
+https://rethel.ice.infomaniak.ch/rethel-128.mp3
+#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/champagnefm/radiostream/chHQL0maML/vignette_GE0oGotCSM.png" group-title="(.*);(.*);",Champagne FM Troyes
+https://troyes.ice.infomaniak.ch/troyes-128.mp3
+#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/champagnefm/radiostream/chHQL0maML/vignette_GE0oGotCSM.png" group-title="(.*);(.*);",Champagne FM Vitry-le-François/Saint-Dizier
+https://vitry-stdizier.ice.infomaniak.ch/vitry-stdizier-128.mp3
+#EXTINF:-1 tvg-logo="https://www.allzicradio.com/apple-touch-icon.png" group-title="(.*);(.*);",Allzic Africa
+http://allzic49.ice.infomaniak.ch/allzic51.mp3
+#EXTINF:-1 tvg-logo="https://www.allzicradio.com/media/radios/allzic-classic-piano_600px-carre.png" group-title="(.*);(.*);",Allzic Classic Piano
+http://allzic47.ice.infomaniak.ch/allzic47.mp3
+#EXTINF:-1 tvg-logo="https://www.allzicradio.com/apple-touch-icon.png" group-title="(.*);(.*);",Allzic Faire La Fête
+http://allzic26.ice.infomaniak.ch/allzic26.mp3
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/98/af/32795/1/c300.png" group-title="(.*);(.*);",Allzic Humour
+http://allzic25.ice.infomaniak.ch/allzic25.mp3
+#EXTINF:-1 tvg-logo="https://www.allzicradio.com/apple-touch-icon.png" group-title="(.*);(.*);",Allzic Jazz Lounge
+http://allzic03.ice.infomaniak.ch/allzic03.mp3
+#EXTINF:-1 tvg-logo="https://www.allzicradio.com/apple-touch-icon.png" group-title="(.*);(.*);",Allzic Nationale 7
+http://allzic38.ice.infomaniak.ch/allzic38.mp3
+#EXTINF:-1 tvg-logo="https://www.allzicradio.com/media/radios/thumb/195x195_allzic-lounge_600px-carre.png" group-title="(.*);(.*);",Allzic Lounge
+http://allzic21.ice.infomaniak.ch/allzic21.mp3
+#EXTINF:-1 tvg-logo="https://www.allzicradio.com/media/radios/allzic-zen_600px-carre.png" group-title="(.*);(.*);",Allzic Zen
+http://allzic20.ice.infomaniak.ch/allzic20.mp3
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/13/3a/32775/1/c300.png" group-title="(.*);(.*);",Allzic 0/4 Ans
+http://allzic14.ice.infomaniak.ch/allzic14.mp3
+#EXTINF:-1 tvg-logo="https://www.allzicradio.com/icon-normal.png" group-title="(.*);(.*);",Allzic 2000s
+http://allzic49.ice.infomaniak.ch/allzic49.mp3
+#EXTINF:-1 tvg-logo="https://uk.radio.net/images/broadcasts/87/ec/32776/1/c300.png" group-title="(.*);(.*);",Allzic 4/7 Ans
+http://allzic15.ice.infomaniak.ch/allzic15.mp3
+#EXTINF:-1 tvg-logo="https://www.allzicradio.com/media/radios/allzic-annees-_50_600px-carre.png" group-title="(.*);(.*);",Allzic 50s
+http://allzic29.ice.infomaniak.ch/allzic29.mp3
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/27/04/32766/1/c300.png" group-title="(.*);(.*);",Allzic 7-12 Ans
+http://allzic16.ice.infomaniak.ch/allzic16.mp3
+#EXTINF:-1 tvg-logo="https://www.allzicradio.com/icon-normal.png" group-title="(.*);(.*);",Allzic 80s
+http://allzic08.ice.infomaniak.ch/allzic08.mp3
+#EXTINF:-1 tvg-logo="https://www.allzicradio.com/icon-normal.png" group-title="(.*);(.*);",Allzic 90s
+http://allzic24.ice.infomaniak.ch/allzic24.mp3
+#EXTINF:-1 tvg-logo="https://www.allzicradio.com/icon-normal.png" group-title="(.*);(.*);",Allzic Black
+http://allzic04.ice.infomaniak.ch/allzic04.mp3
+#EXTINF:-1 tvg-logo="https://www.allzicradio.com/icon-normal.png" group-title="(.*);(.*);",Allzic Blues
+http://allzic09.ice.infomaniak.ch/allzic09.mp3
+#EXTINF:-1 tvg-logo="https://www.allzicradio.com/icon-normal.png" group-title="(.*);(.*);",Allzic Brazil
+http://allzic19.ice.infomaniak.ch/allzic19.mp3
+#EXTINF:-1 tvg-logo="https://www.allzicradio.com/icon-normal.png" group-title="(.*);(.*);",Allzic Chill Out
+http://allzic53.ice.infomaniak.ch/allzic53.mp3
+#EXTINF:-1 tvg-logo="http://www.allzicradio.com/media/radios/thumb/50x84_allzic-classic-107x179.png" group-title="(.*);(.*);",Allzic Classic
+http://allzic06.ice.infomaniak.ch/allzic06.mp3
+#EXTINF:-1 tvg-logo="https://www.allzicradio.com/icon-normal.png" group-title="(.*);(.*);",Allzic Classic Violon
+http://allzic48.ice.infomaniak.ch/allzic48.mp3
+#EXTINF:-1 tvg-logo="https://www.allzicradio.com/media/radios/allzic-classic-violon_600px-carre.png" group-title="(.*);(.*);",Allzic Classic Violon
+http://allzic48.ice.infomaniak.ch/allzic48.aac
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/7d/8b/32772/1/c300.png" group-title="(.*);(.*);",Allzic Comptines
+http://allzic05.ice.infomaniak.ch/allzic05.mp3
+#EXTINF:-1 tvg-logo="https://www.allzicradio.com/icon-normal.png" group-title="(.*);(.*);",Allzic Country
+http://allzic32.ice.infomaniak.ch/allzic32.mp3
+#EXTINF:-1 tvg-logo="https://www.allzicradio.com/icon-normal.png" group-title="(.*);(.*);",Allzic Dance Floor
+http://allzic07.ice.infomaniak.ch/allzic07.mp3
+#EXTINF:-1 tvg-logo="https://www.allzicradio.com/icon-normal.png" group-title="(.*);(.*);",Allzic Deep Disco
+http://allzic31.ice.infomaniak.ch/allzic31.mp3
+#EXTINF:-1 tvg-logo="https://www.allzicradio.com/icon-normal.png" group-title="(.*);(.*);",Allzic Disco
+http://allzic36.ice.infomaniak.ch/allzic36.mp3
+#EXTINF:-1 tvg-logo="https://www.allzicradio.com/icon-normal.png" group-title="(.*);(.*);",Allzic Disney
+http://allzic52.ice.infomaniak.ch/allzic52.mp3
+#EXTINF:-1 tvg-logo="https://www.radio.net/s/allzicenfoires" group-title="(.*);(.*);",Allzic Enfoirés
+http://allzic12.ice.infomaniak.ch/allzic12.mp3
+#EXTINF:-1 tvg-logo="https://www.allzicradio.com/icon-normal.png" group-title="(.*);(.*);",Allzic Fitness
+http://allzic13.ice.infomaniak.ch/allzic13.mp3
+#EXTINF:-1 tvg-logo="https://www.allzicradio.com/icon-normal.png" group-title="(.*);(.*);",Allzic Funk
+http://allzic08.ice.infomaniak.ch/allzic11.mp3
+#EXTINF:-1 tvg-logo="https://www.allzicradio.com/icon-normal.png" group-title="(.*);(.*);",Allzic Gothique
+http://allzic27.ice.infomaniak.ch/allzic27.mp3
+#EXTINF:-1 tvg-logo="https://www.allzicradio.com/icon-normal.png" group-title="(.*);(.*);",Allzic Hard Heavy
+http://allzic18.ice.infomaniak.ch/allzic18.mp3
+#EXTINF:-1 tvg-logo="https://www.allzicradio.com/icon-normal.png" group-title="(.*);(.*);",Allzic Italia
+http://allzic35.ice.infomaniak.ch/allzic35.mp3
+#EXTINF:-1 tvg-logo="https://www.allzicradio.com/icon-normal.png" group-title="(.*);(.*);",Allzic Latino
+http://allzic39.ice.infomaniak.ch/allzic39.mp3
+#EXTINF:-1 tvg-logo="https://www.allzicradio.com/icon-normal.png" group-title="(.*);(.*);",Allzic R&B
+http://allzic08.ice.infomaniak.ch/allzic10.mp3
+#EXTINF:-1 tvg-logo="https://www.allzicradio.com/icon-normal.png" group-title="(.*);(.*);",Allzic Rap
+http://allzic01.ice.infomaniak.ch/allzic01.mp3
+#EXTINF:-1 tvg-logo="https://www.allzicradio.com/icon-normal.png" group-title="(.*);(.*);",Allzic Reggae
+http://allzic43.ice.infomaniak.ch/allzic43.mp3
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/d5/a7/32792/1/c300.png" group-title="(.*);(.*);",Allzic Rock
+http://allzic17.ice.infomaniak.ch/allzic17.mp3
+#EXTINF:-1 tvg-logo="https://www.allzicradio.com/icon-normal.png" group-title="(.*);(.*);",Allzic Top 20
+http://allzic41.ice.infomaniak.ch/allzic41.mp3
+#EXTINF:-1 tvg-logo="https://www.allzicradio.com/icon-normal.png" group-title="(.*);(.*);",Allzic Top 50
+http://allzic55.ice.infomaniak.ch/allzic55.mp3
+#EXTINF:-1 tvg-logo="https://www.allzicradio.com/apple-touch-icon.png" group-title="(.*);(.*);",Allzic Rap FR
+http://allzic02.ice.infomaniak.ch/allzic02.mp3
+#EXTINF:-1 tvg-logo="https://www.allzicradio.com/apple-touch-icon.png" group-title="(.*);(.*);",Allzic Zouk
+http://allzic28.ice.infomaniak.ch/allzic28.mp3
+#EXTINF:-1 tvg-logo="http://mradio.fr/icon-normal.png" group-title="(.*);(.*);",M Radio
+http://mfm.ice.infomaniak.ch/mfm-128.mp3
+#EXTINF:-1 tvg-logo="https://mradio.fr/apple-touch-icon-120x120.png" group-title="(.*);(.*);",M Radio 100% Céline Dion
+http://mfmwr-023.ice.infomaniak.ch/mfmwr-023.mp3
+#EXTINF:-1 tvg-logo="http://mradio.fr/icon-normal.png" group-title="(.*);(.*);",M Radio 100% Comédies Musicales
+http://mfmwr-014.ice.infomaniak.ch/mfmwr-014.mp3
+#EXTINF:-1 tvg-logo="http://mradio.fr/icon-normal.png" group-title="(.*);(.*);",M Radio 100% Enfoirés
+http://mfmwr-011.ice.infomaniak.ch/mfmwr-011.mp3
+#EXTINF:-1 tvg-logo="https://mradio.fr/apple-touch-icon-120x120.png" group-title="(.*);(.*);",M Radio 100% Goldman
+http://mfmwr-016.ice.infomaniak.ch/mfmwr-016.mp3
+#EXTINF:-1 tvg-logo="http://mradio.fr/icon-normal.png" group-title="(.*);(.*);",M Radio 100% Johnny
+http://mfmwr-006.ice.infomaniak.ch/mfmwr-006.mp3
+#EXTINF:-1 tvg-logo="https://mradio.fr/media/radio/thumb/90x90_live-52658.png" group-title="(.*);(.*);",M Radio 100% Live
+http://mfmwr-008.ice.infomaniak.ch/mfmwr-008.mp3
+#EXTINF:-1 tvg-logo="https://mradio.fr/apple-touch-icon-120x120.png" group-title="(.*);(.*);",M Radio 100% Nougaro
+http://mfmwr-007.ice.infomaniak.ch/mfmwr-007.mp3
+#EXTINF:-1 tvg-logo="https://mradio.fr/apple-touch-icon-120x120.png" group-title="(.*);(.*);",M Radio 100% Québec
+http://mfmwr-004.ice.infomaniak.ch/mfmwr-004.mp3
+#EXTINF:-1 tvg-logo="http://mradio.fr/icon-normal.png" group-title="(.*);(.*);",M Radio Années 80 et 90
+http://mfmwr-010.ice.infomaniak.ch/mfmwr-010.mp3
+#EXTINF:-1 tvg-logo="https://uk.radio.net/images/broadcasts/03/34/131223/1/c300.png" group-title="(.*);(.*);",M Radio Chansons d'Amour
+http://mfmwr-026.ice.infomaniak.ch/mfmwr-026.mp3
+#EXTINF:-1 tvg-logo="http://mradio.fr/icon-normal.png" group-title="(.*);(.*);",M Radio Culte Années 60 et 70
+http://mfmwr-022.ice.infomaniak.ch/mfmwr-022.mp3
+#EXTINF:-1 tvg-logo="https://mradio.fr/apple-touch-icon-120x120.png" group-title="(.*);(.*);",M Radio Duos
+http://mfmwr-015.ice.infomaniak.ch/mfmwr-015.mp3
+#EXTINF:-1 tvg-logo="http://mradio.fr/icon-normal.png" group-title="(.*);(.*);",M Radio Francophonie
+http://mfmwr-018.ice.infomaniak.ch/mfmwr-018.mp3
+#EXTINF:-1 tvg-logo="http://mradio.fr/icon-normal.png" group-title="(.*);(.*);",M Radio French Touch
+http://mfmwr-003.ice.infomaniak.ch/mfmwr-003.mp3
+#EXTINF:-1 tvg-logo="https://mradio.fr/favicon-144.png" group-title="(.*);(.*);",M Radio Génériques TV
+http://mfmwr-021.ice.infomaniak.ch/mfmwr-021.mp3
+#EXTINF:-1 tvg-logo="http://mradio.fr/icon-normal.png" group-title="(.*);(.*);",M Radio Nouvelle Scène
+http://mfmwr-012.ice.infomaniak.ch/mfmwr-012.mp3
+#EXTINF:-1 tvg-logo="https://mradio.fr/apple-touch-icon-120x120.png" group-title="(.*);(.*);",M Radio Séducteurs
+http://mfmwr-017.ice.infomaniak.ch/mfmwr-017.mp3
+#EXTINF:-1 tvg-logo="https://mradio.fr/apple-touch-icon-120x120.png" group-title="(.*);(.*);",M Radio St Valentin
+http://mfm-thema.ice.infomaniak.ch/mfm-thema.mp3
+#EXTINF:-1 tvg-logo="https://mradio.fr/apple-touch-icon-120x120.png" group-title="(.*);(.*);",M Radio Talents TV
+http://mfmwr-025.ice.infomaniak.ch/mfmwr-025.mp3
+#EXTINF:-1 tvg-logo="https://mradio.fr/apple-touch-icon-120x120.png" group-title="(.*);(.*);",M Radio Tubes du Grenier
+http://mfmwr-001.ice.infomaniak.ch/mfmwr-001.mp3
+#EXTINF:-1 tvg-logo="http://mradio.fr/icon-normal.png" group-title="(.*);(.*);",M Radio Voix du Sud
+http://voix-du-sud.ice.infomaniak.ch/voix-du-sud.mp3
+#EXTINF:-1 tvg-logo="http://mradio.fr/icon-normal.png" group-title="(.*);(.*);",M Radio Voix Féminines
+http://mfmwr-013.ice.infomaniak.ch/mfmwr-013.mp3
+#EXTINF:-1 tvg-logo="http://mradio.fr/icon-normal.png" group-title="(.*);(.*);",M Radio Yéyé
+http://mfmwr-009.ice.infomaniak.ch/mfmwr-009.mp3
+#EXTINF:-1 tvg-logo="http://www.radiovinciautoroutes.com//logo.png" group-title="(.*);(.*);",107.7 FM Ouest Centre
+http://str0.creacast.com/radio_vinci_autoroutes_1
+#EXTINF:-1 tvg-logo="http://www.radiovinciautoroutes.com//logo.png" group-title="(.*);(.*);",107.7 FM Grand Ouest
+http://str0.creacast.com/radio_vinci_autoroutes_2
+#EXTINF:-1 tvg-logo="http://www.radiovinciautoroutes.com//logo.png" group-title="(.*);(.*);",107.7 FM Sud Ouest
+http://str0.creacast.com/radio_vinci_autoroutes_3
+#EXTINF:-1 tvg-logo="http://www.radiovinciautoroutes.com//logo.png" group-title="(.*);(.*);",107.7 FM Languedoc Roussillon
+http://str0.creacast.com/radio_vinci_autoroutes_4
+#EXTINF:-1 tvg-logo="http://www.radiovinciautoroutes.com//logo.png" group-title="(.*);(.*);",107.7 FM Auvergne Vallée du Rhône
+http://str0.creacast.com/radio_vinci_autoroutes_5
+#EXTINF:-1 tvg-logo="http://www.radiovinciautoroutes.com//logo.png" group-title="(.*);(.*);",107.7 FM Alpes Provence
+http://str0.creacast.com/radio_vinci_autoroutes_6
+#EXTINF:-1 tvg-logo="http://www.radiovinciautoroutes.com//logo.png" group-title="(.*);(.*);",107.7 FM Côte d'Azur
+http://str0.creacast.com/radio_vinci_autoroutes_7
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Logo_EVASION_Officiel.png" group-title="(.*);(.*);",Evasion
+https://evasion75.ice.infomaniak.ch/evasion75-128.mp3
+#EXTINF:-1 tvg-logo="http://www.evasionfm.com/assets/ico/favicon.ico" group-title="(.*);(.*);",Evasion FM Essonne
+https://evasion91.ice.infomaniak.ch/evasion91-128.mp3
+#EXTINF:-1 tvg-logo="http://www.evasionfm.com/assets/ico/favicon.ico" group-title="(.*);(.*);",Evasion FM Oise
+https://evasion60e.ice.infomaniak.ch/evasion60e-128.mp3
+#EXTINF:-1 tvg-logo="http://www.evasionfm.com/assets/ico/favicon.ico" group-title="(.*);(.*);",Evasion FM Seine-et-Marne Nord
+https://evasion77n.ice.infomaniak.ch/evasion77n-128.mp3
+#EXTINF:-1 tvg-logo="http://www.evasionfm.com/assets/ico/favicon.ico" group-title="(.*);(.*);",Evasion FM Seine-et-Marne Sud
+https://evasion77s.ice.infomaniak.ch/evasion77s-128.mp3
+#EXTINF:-1 tvg-logo="http://www.evasionfm.com/assets/ico/favicon.ico" group-title="(.*);(.*);",Evasion FM Somme
+https://evasion80.ice.infomaniak.ch/evasion80-128.mp3
+#EXTINF:-1 tvg-logo="http://www.evasionfm.com/assets/ico/favicon.ico" group-title="(.*);(.*);",Evasion FM Yvelines
+https://evasion78s.ice.infomaniak.ch/evasion78s-128.mp3
+#EXTINF:-1 tvg-logo="http://www.essentielradio.com/upload/Radios%20digitales/ESSENTIELBible1200.png" group-title="(.*);(.*);",ESSENTIEL Bible
+http://essentielradioing.streamakaci.com/essentielbible.mp3
+#EXTINF:-1 tvg-logo="http://www.essentielradio.com/upload/Radios%20digitales/ESSENTIELKidz1200.png" group-title="(.*);(.*);",ESSENTIEL Kidz
+http://essentielradioing.streamakaci.com/essentielkidz.mp3
+#EXTINF:-1 tvg-logo="http://www.essentielradio.com/upload/Radios%20digitales/ER1200.png" group-title="(.*);(.*);",ESSENTIEL Radio
+http://essentielradioing.streamakaci.com/essentielradio.mp3
+#EXTINF:-1 tvg-logo="http://www.essentielradio.com/upload/Radios%20digitales/ESSENTIEL.fr1200.png" group-title="(.*);(.*);",ESSENTIEL.fr
+http://cdnradio.streamakaci.com/essentielfr.mp3
 #EXTINF:-1 tvg-logo="http://static.radio.fr/images/broadcasts/76/1c/35493/c300.png" group-title="(.*);(.*);",Monte Carlo Doualiya
 http://live02.mc-doualiya.com/mc-doualiya.mp3
 #EXTINF:-1 tvg-logo="http://www.atlantica-radio.fr/logo_oldie.jpg" group-title="(.*);(.*);",Atlantica Oldies
@@ -1583,68 +1817,6 @@ http://rfirusse96k.ice.infomaniak.ch/rfirusse-96k.mp3
 http://rme.stream.dicast.fr:8000/rme-192.mp3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RFI_logo_2013.svg/150px-RFI_logo_2013.svg.png" group-title="(.*);(.*);",Radio France Internationale
 https://rfienchinois64k.ice.infomaniak.ch/rfienchinois-64.mp3
-#EXTINF:-1 tvg-logo="https://www.h2oradio.fr/images/logo_h2O_reseaux.png" group-title="(.*);(.*);",H2O Radio Lac d'Annecy 94.8
-https://rod.frequence3.net/h2oradio.flac
-#EXTINF:-1 tvg-logo="https://www.radio.fr/300/h2o.png?version=c0e59ed89c8e4e9bf8dd5e86db3db08e" group-title="(.*);(.*);",H2O Radio a l'Heure de l'Ouest 90.1
-https://rod.frequence3.net/h2o-90al.mp3
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1FgdIv7fY6BwWuWuGNNMsDqyrXolhS0oHgDHhXVSJMWL0TLYj1XBh-M_hpPT6f2s1pI8&usqp=CAU" group-title="(.*);(.*);",H2O Radio Grand Annecy
-https://rod.frequence3.net/h2o-annecy-dab
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1FgdIv7fY6BwWuWuGNNMsDqyrXolhS0oHgDHhXVSJMWL0TLYj1XBh-M_hpPT6f2s1pI8&usqp=CAU" group-title="(.*);(.*);",H2O Radio Chambéry
-https://rod.frequence3.net/h2o-chambery-dab
-#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/oui-fm/radiostream/QnaHBfM52n/vignette.png" group-title="(.*);(.*);",OÜI FM
-https://ouifm.ice.infomaniak.ch/ouifm-high.mp3
-#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/oui-fm/radiostream/NSzUtv6XGF/vignette.png" group-title="(.*);(.*);",OÜI FM Acoustic
-https://ouifmacoustic.ice.infomaniak.ch/ouifmacoustic.mp3
-#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/oui-fm/radiostream/tBdigJT2rb/vignette.png" group-title="(.*);(.*);",OÜI FM Bring The Noise
-https://ouifmbringthenoise.ice.infomaniak.ch/ouifmbringthenoise.mp3
-#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/oui-fm/radiostream/3qhtSltZ27/vignette.png" group-title="(.*);(.*);",OÜI FM Classic Rock
-https://ouifm3.ice.infomaniak.ch/ouifm3.mp3
-#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/ouifm/radiostream/PVQ1nX8P2i/vignette_X52HTWr00S.png" group-title="(.*);(.*);",OÜI FM Garage Rock
-https://ouifmgaragerock.ice.infomaniak.ch/ouifmgaragerock-128.mp3
-#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/oui-fm/radiostream/xD29y7pjPX/vignette.png" group-title="(.*);(.*);",OÜI FM Génération Woodstock
-https://ouifmwoodstock.ice.infomaniak.ch/ouifmwoodstock.mp3
-#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/oui-fm/radiostream/0hw7uCfIT8/vignette.png" group-title="(.*);(.*);",OÜI FM Girls Rock
-https://ouifmgirlsrock.ice.infomaniak.ch/ouifmgirlsrock.mp3
-#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/oui-fm/radiostream/QqHO8qpoE2/vignette.png" group-title="(.*);(.*);",OÜI FM Les Slows du Rock
-https://ouifmlesslowsdurock.ice.infomaniak.ch/ouifmslowrock.mp3
-#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/oui-fm/radiostream/ufIfkfDXSl/vignette.png" group-title="(.*);(.*);",OÜI FM Reggae
-https://ouifmganja.ice.infomaniak.ch/ouifmganja-128.mp3
-#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/oui-fm/radiostream/3fkpVzB8Cc/vignette.png" group-title="(.*);(.*);",OÜI FM Rock Français
-https://ouifmrockfrancais.ice.infomaniak.ch/ouifmrockfrancais.mp3
-#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/oui-fm/radiostream/fkYz8mdU3T/vignette.png" group-title="(.*);(.*);",OÜI FM Rock Inde
-https://ouifm5.ice.infomaniak.ch/ouifm5.mp3
-#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/oui-fm/radiostream/RN2oOuAbDH/vignette.png" group-title="(.*);(.*);",OÜI FM Summertime
-https://ouifmsummertime.ice.infomaniak.ch/ouifmsummertime.mp3
-#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/oui-fm/radiostream/RFWji6sMSN/vignette.png" group-title="(.*);(.*);",OUI FM Top Of The Week
-https://ouifmtopoftheweek.ice.infomaniak.ch/ouifmtopweek.mp3
-#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/oui-fm/radiostream/S2UWS5S3lJ/vignette.png" group-title="(.*);(.*);",OÜI FM Alternatif
-https://ouifm2.ice.infomaniak.ch/ouifm2.mp3
-#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/oui-fm/radiostream/OSdEHZc03t/vignette.png" group-title="(.*);(.*);",OÜI FM Blues’n’Rock
-https://ouifmbluesnrock.ice.infomaniak.ch/ouifmbluesnrock-128.mp3
-#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/oui-fm/radiostream/Jhdp1QoWCO/vignette.png" group-title="(.*);(.*);",OÜI FM Rock 60's
-https://ouifmrock60s.ice.infomaniak.ch/ouifmsixties.mp3
-#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/oui-fm/radiostream/GlXr8ww38P/vignette.png" group-title="(.*);(.*);",Oui FM Rock 70's
-https://ouifmrock70s.ice.infomaniak.ch/ouifmseventies.mp3
-#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/oui-fm/radiostream/6fo6l1uD2X/vignette.png" group-title="(.*);(.*);",OÜI FM Rock 80's
-https://ouifmrock80s.ice.infomaniak.ch/ouifmeighties.mp3
-#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/oui-fm/radiostream/OQiFGri4ef/vignette.png" group-title="(.*);(.*);",OÜI FM Rock 90's
-https://ouifmrock90s.ice.infomaniak.ch/ouifmnineties.mp3
-#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/oui-fm/radiostream/PS5mho8vsS/vignette.png" group-title="(.*);(.*);",OÜI FM Rock 2000
-https://ouifmrock2000s.ice.infomaniak.ch/ouifmrock2000.mp3
-#EXTINF:-1 tvg-logo="https://ca.radio.net/images/broadcasts/40/2b/4397/4/c300.png" group-title="(.*);(.*);",Africa N°1
-http://african1paris.ice.infomaniak.ch/african1paris-128.mp3
-#EXTINF:-1 tvg-logo="https://ca.radio.net/images/broadcasts/40/2b/4397/4/c300.png" group-title="(.*);(.*);",Africa N°1 Club
-http://webradio5.ice.infomaniak.ch/webradio5-128.mp3
-#EXTINF:-1 tvg-logo="https://ca.radio.net/images/broadcasts/40/2b/4397/4/c300.png" group-title="(.*);(.*);",Africa N°1 Coupé Décalé
-http://webradio1.ice.infomaniak.ch/webradio1-128.mp3
-#EXTINF:-1 tvg-logo="https://ca.radio.net/images/broadcasts/40/2b/4397/4/c300.png" group-title="(.*);(.*);",Africa N°1 Mandingue
-http://webradio2.ice.infomaniak.ch/webradio2-64.mp3
-#EXTINF:-1 tvg-logo="https://ca.radio.net/images/broadcasts/40/2b/4397/4/c300.png" group-title="(.*);(.*);",Africa N°1 Naija
-http://webradio3.ice.infomaniak.ch/webradio3-128.mp3
-#EXTINF:-1 tvg-logo="https://ca.radio.net/images/broadcasts/40/2b/4397/4/c300.png" group-title="(.*);(.*);",Africa N°1 Rumba
-http://webradio4.ice.infomaniak.ch/webradio4-128.mp3
-#EXTINF:-1 tvg-logo="https://ca.radio.net/images/broadcasts/40/2b/4397/4/c300.png" group-title="(.*);(.*);",Africa N°1 Selecta
-http://webradio6.ice.infomaniak.ch/webradio6-128.mp3
 #EXTINF:-1 tvg-logo="https://api2.frequence3.net/static/img/stations/horizontal/frequence3.png" group-title="(.*);(.*);",Fréquence3
 https://frequence3.net-radio.fr/frequence3-256.mp3
 #EXTINF:-1 tvg-logo="https://api2.frequence3.net/static/img/stations/horizontal/frequence3.png" group-title="(.*);(.*);",Fréquence3
@@ -1703,122 +1875,56 @@ https://rod.frequence3.net/cno-96.aac
 https://master.net-radio.fr/cno-96.aac
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1dwBVGGSZvRD1BEgKyvQO_EMk_qbObDw7pw&s" group-title="(.*);(.*);",Forum Radio 95.6
 https://rod.frequence3.net/forum-tuner37.mp3
-#EXTINF:-1 tvg-logo="https://www.nova.fr/wp-content/uploads/sites/2/2024/08/logo.png" group-title="(.*);(.*);",Radio Nova
-https://novazz.ice.infomaniak.ch/novazz-128.mp3
-#EXTINF:-1 tvg-logo="https://www.nova.fr/wp-content/uploads/sites/2/2024/08/logo.png" group-title="(.*);(.*);",Nova Bordeaux
-https://snb.ice.infomaniak.ch/snb-high.mp3
-#EXTINF:-1 tvg-logo="https://www.nova.fr/wp-content/thumbnails/uploads/sites/2/2024/04/NOVA-CLASSICS-400x496-1-t-503x503-crop.png" group-title="(.*);(.*);",Nova Classics
-https://nova-vnt.ice.infomaniak.ch/nova-vnt-128.mp3
-#EXTINF:-1 tvg-logo="https://www.nova.fr/wp-content/thumbnails/uploads/sites/2/2024/04/NOVA-danse-400x496-1-t-503x503-crop.png" group-title="(.*);(.*);",Nova Danse
-https://nova-dance.ice.infomaniak.ch/nova-dance-128.mp3
-#EXTINF:-1 tvg-logo="https://www.nova.fr/wp-content/thumbnails/uploads/sites/2/2024/04/NOVA-nuit-400x496-1-t-503x503-crop.png" group-title="(.*);(.*);",Nova La Nuit
-https://nova-ln.ice.infomaniak.ch/nova-ln-128.mp3
-#EXTINF:-1 tvg-logo="https://www.nova.fr/wp-content/thumbnails/uploads/sites/2/2024/04/NOVA-HIPHOP-400x496-1-t-503x503-crop.png" group-title="(.*);(.*);",Nova Hip-Hop
-https://nova-odn.ice.infomaniak.ch/nova-odn-128.mp3
-#EXTINF:-1 tvg-logo="https://www.nova.fr/wp-content/thumbnails/uploads/sites/2/2024/05/NOVA-LAPLAGE-400x496-1-t-503x503-crop.png" group-title="(.*);(.*);",Nova La Plage
-https://nova-sm.ice.infomaniak.ch/nova-sm-128.mp3
-#EXTINF:-1 tvg-logo="https://www.nova.fr/wp-content/thumbnails/uploads/sites/2/2024/04/NOVA-reggea-400x496-1-t-503x503-crop.png" group-title="(.*);(.*);",Nova Reggae
-https://nova-reggae.ice.infomaniak.ch/nova-reggae-128.mp3
-#EXTINF:-1 tvg-logo="https://www.nova.fr/wp-content/thumbnails/uploads/sites/2/2024/04/NOVA-SOUL-400x496-1-t-503x503-crop.png" group-title="(.*);(.*);",Nova Soul
-https://nova-soul.ice.infomaniak.ch/nova-soul-128.mp3
-#EXTINF:-1 tvg-logo="https://www.nova.fr/wp-content/thumbnails/uploads/sites/2/2024/04/NOVA-NOUVO-400x496-1-t-503x503-crop.png" group-title="(.*);(.*);",Nouvo Nova
-https://nova-nouvo.ice.infomaniak.ch/nova-nouvo-128.mp3
-#EXTINF:-1 tvg-logo="https://www.allzicradio.com/apple-touch-icon.png" group-title="(.*);(.*);",Allzic Africa
-http://allzic49.ice.infomaniak.ch/allzic51.mp3
-#EXTINF:-1 tvg-logo="https://www.allzicradio.com/media/radios/allzic-classic-piano_600px-carre.png" group-title="(.*);(.*);",Allzic Classic Piano
-http://allzic47.ice.infomaniak.ch/allzic47.mp3
-#EXTINF:-1 tvg-logo="https://www.allzicradio.com/apple-touch-icon.png" group-title="(.*);(.*);",Allzic Faire La Fête
-http://allzic26.ice.infomaniak.ch/allzic26.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/98/af/32795/1/c300.png" group-title="(.*);(.*);",Allzic Humour
-http://allzic25.ice.infomaniak.ch/allzic25.mp3
-#EXTINF:-1 tvg-logo="https://www.allzicradio.com/apple-touch-icon.png" group-title="(.*);(.*);",Allzic Jazz Lounge
-http://allzic03.ice.infomaniak.ch/allzic03.mp3
-#EXTINF:-1 tvg-logo="https://www.allzicradio.com/apple-touch-icon.png" group-title="(.*);(.*);",Allzic Nationale 7
-http://allzic38.ice.infomaniak.ch/allzic38.mp3
-#EXTINF:-1 tvg-logo="https://www.allzicradio.com/media/radios/thumb/195x195_allzic-lounge_600px-carre.png" group-title="(.*);(.*);",Allzic Lounge
-http://allzic21.ice.infomaniak.ch/allzic21.mp3
-#EXTINF:-1 tvg-logo="https://www.allzicradio.com/media/radios/allzic-zen_600px-carre.png" group-title="(.*);(.*);",Allzic Zen
-http://allzic20.ice.infomaniak.ch/allzic20.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/13/3a/32775/1/c300.png" group-title="(.*);(.*);",Allzic 0/4 Ans
-http://allzic14.ice.infomaniak.ch/allzic14.mp3
-#EXTINF:-1 tvg-logo="https://www.allzicradio.com/icon-normal.png" group-title="(.*);(.*);",Allzic 2000s
-http://allzic49.ice.infomaniak.ch/allzic49.mp3
-#EXTINF:-1 tvg-logo="https://uk.radio.net/images/broadcasts/87/ec/32776/1/c300.png" group-title="(.*);(.*);",Allzic 4/7 Ans
-http://allzic15.ice.infomaniak.ch/allzic15.mp3
-#EXTINF:-1 tvg-logo="https://www.allzicradio.com/media/radios/allzic-annees-_50_600px-carre.png" group-title="(.*);(.*);",Allzic 50s
-http://allzic29.ice.infomaniak.ch/allzic29.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/27/04/32766/1/c300.png" group-title="(.*);(.*);",Allzic 7-12 Ans
-http://allzic16.ice.infomaniak.ch/allzic16.mp3
-#EXTINF:-1 tvg-logo="https://www.allzicradio.com/icon-normal.png" group-title="(.*);(.*);",Allzic 80s
-http://allzic08.ice.infomaniak.ch/allzic08.mp3
-#EXTINF:-1 tvg-logo="https://www.allzicradio.com/icon-normal.png" group-title="(.*);(.*);",Allzic 90s
-http://allzic24.ice.infomaniak.ch/allzic24.mp3
-#EXTINF:-1 tvg-logo="https://www.allzicradio.com/icon-normal.png" group-title="(.*);(.*);",Allzic Black
-http://allzic04.ice.infomaniak.ch/allzic04.mp3
-#EXTINF:-1 tvg-logo="https://www.allzicradio.com/icon-normal.png" group-title="(.*);(.*);",Allzic Blues
-http://allzic09.ice.infomaniak.ch/allzic09.mp3
-#EXTINF:-1 tvg-logo="https://www.allzicradio.com/icon-normal.png" group-title="(.*);(.*);",Allzic Brazil
-http://allzic19.ice.infomaniak.ch/allzic19.mp3
-#EXTINF:-1 tvg-logo="https://www.allzicradio.com/icon-normal.png" group-title="(.*);(.*);",Allzic Chill Out
-http://allzic53.ice.infomaniak.ch/allzic53.mp3
-#EXTINF:-1 tvg-logo="http://www.allzicradio.com/media/radios/thumb/50x84_allzic-classic-107x179.png" group-title="(.*);(.*);",Allzic Classic
-http://allzic06.ice.infomaniak.ch/allzic06.mp3
-#EXTINF:-1 tvg-logo="https://www.allzicradio.com/icon-normal.png" group-title="(.*);(.*);",Allzic Classic Violon
-http://allzic48.ice.infomaniak.ch/allzic48.mp3
-#EXTINF:-1 tvg-logo="https://www.allzicradio.com/media/radios/allzic-classic-violon_600px-carre.png" group-title="(.*);(.*);",Allzic Classic Violon
-http://allzic48.ice.infomaniak.ch/allzic48.aac
-#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/7d/8b/32772/1/c300.png" group-title="(.*);(.*);",Allzic Comptines
-http://allzic05.ice.infomaniak.ch/allzic05.mp3
-#EXTINF:-1 tvg-logo="https://www.allzicradio.com/icon-normal.png" group-title="(.*);(.*);",Allzic Country
-http://allzic32.ice.infomaniak.ch/allzic32.mp3
-#EXTINF:-1 tvg-logo="https://www.allzicradio.com/icon-normal.png" group-title="(.*);(.*);",Allzic Dance Floor
-http://allzic07.ice.infomaniak.ch/allzic07.mp3
-#EXTINF:-1 tvg-logo="https://www.allzicradio.com/icon-normal.png" group-title="(.*);(.*);",Allzic Deep Disco
-http://allzic31.ice.infomaniak.ch/allzic31.mp3
-#EXTINF:-1 tvg-logo="https://www.allzicradio.com/icon-normal.png" group-title="(.*);(.*);",Allzic Disco
-http://allzic36.ice.infomaniak.ch/allzic36.mp3
-#EXTINF:-1 tvg-logo="https://www.allzicradio.com/icon-normal.png" group-title="(.*);(.*);",Allzic Disney
-http://allzic52.ice.infomaniak.ch/allzic52.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.net/s/allzicenfoires" group-title="(.*);(.*);",Allzic Enfoirés
-http://allzic12.ice.infomaniak.ch/allzic12.mp3
-#EXTINF:-1 tvg-logo="https://www.allzicradio.com/icon-normal.png" group-title="(.*);(.*);",Allzic Fitness
-http://allzic13.ice.infomaniak.ch/allzic13.mp3
-#EXTINF:-1 tvg-logo="https://www.allzicradio.com/icon-normal.png" group-title="(.*);(.*);",Allzic Funk
-http://allzic08.ice.infomaniak.ch/allzic11.mp3
-#EXTINF:-1 tvg-logo="https://www.allzicradio.com/icon-normal.png" group-title="(.*);(.*);",Allzic Gothique
-http://allzic27.ice.infomaniak.ch/allzic27.mp3
-#EXTINF:-1 tvg-logo="https://www.allzicradio.com/icon-normal.png" group-title="(.*);(.*);",Allzic Hard Heavy
-http://allzic18.ice.infomaniak.ch/allzic18.mp3
-#EXTINF:-1 tvg-logo="https://www.allzicradio.com/icon-normal.png" group-title="(.*);(.*);",Allzic Italia
-http://allzic35.ice.infomaniak.ch/allzic35.mp3
-#EXTINF:-1 tvg-logo="https://www.allzicradio.com/icon-normal.png" group-title="(.*);(.*);",Allzic Latino
-http://allzic39.ice.infomaniak.ch/allzic39.mp3
-#EXTINF:-1 tvg-logo="https://www.allzicradio.com/icon-normal.png" group-title="(.*);(.*);",Allzic R&B
-http://allzic08.ice.infomaniak.ch/allzic10.mp3
-#EXTINF:-1 tvg-logo="https://www.allzicradio.com/icon-normal.png" group-title="(.*);(.*);",Allzic Rap
-http://allzic01.ice.infomaniak.ch/allzic01.mp3
-#EXTINF:-1 tvg-logo="https://www.allzicradio.com/icon-normal.png" group-title="(.*);(.*);",Allzic Reggae
-http://allzic43.ice.infomaniak.ch/allzic43.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/d5/a7/32792/1/c300.png" group-title="(.*);(.*);",Allzic Rock
-http://allzic17.ice.infomaniak.ch/allzic17.mp3
-#EXTINF:-1 tvg-logo="https://www.allzicradio.com/icon-normal.png" group-title="(.*);(.*);",Allzic Top 20
-http://allzic41.ice.infomaniak.ch/allzic41.mp3
-#EXTINF:-1 tvg-logo="https://www.allzicradio.com/icon-normal.png" group-title="(.*);(.*);",Allzic Top 50
-http://allzic55.ice.infomaniak.ch/allzic55.mp3
-#EXTINF:-1 tvg-logo="https://www.allzicradio.com/apple-touch-icon.png" group-title="(.*);(.*);",Allzic Rap FR
-http://allzic02.ice.infomaniak.ch/allzic02.mp3
-#EXTINF:-1 tvg-logo="https://www.allzicradio.com/apple-touch-icon.png" group-title="(.*);(.*);",Allzic Zouk
-http://allzic28.ice.infomaniak.ch/allzic28.mp3
-#EXTINF:-1 tvg-logo="https://www.radioespace.com/apple-touch-icon-120x120.png" group-title="(.*);(.*);",Espace Club
-http://espace100.ice.infomaniak.ch/espace100-high.mp3
-#EXTINF:-1 tvg-logo="http://www.radioespace.com/favicon.ico" group-title="(.*);(.*);",Espace Dance 90
-http://espace-disco.ice.infomaniak.ch/espace-disco-high.mp3
-#EXTINF:-1 tvg-logo="http://www.radioespace.com/favicon.ico" group-title="(.*);(.*);",Espace Dancefloor
-http://espace-dancefloor.ice.infomaniak.ch/espace-dancefloor-high.mp3
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/4dng5KHp5p.png" group-title="(.*);(.*);",Espace FM
-http://listen.radioking.com/radio/16769/stream/49487
-#EXTINF:-1 tvg-logo="http://www.radioespace.com/favicon.ico" group-title="(.*);(.*);",Espace Hot 30
-http://espace-vintage.ice.infomaniak.ch/espace-vintage-high.mp3
+#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/oui-fm/radiostream/QnaHBfM52n/vignette.png" group-title="(.*);(.*);",OÜI FM
+https://ouifm.ice.infomaniak.ch/ouifm-high.mp3
+#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/oui-fm/radiostream/NSzUtv6XGF/vignette.png" group-title="(.*);(.*);",OÜI FM Acoustic
+https://ouifmacoustic.ice.infomaniak.ch/ouifmacoustic.mp3
+#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/oui-fm/radiostream/tBdigJT2rb/vignette.png" group-title="(.*);(.*);",OÜI FM Bring The Noise
+https://ouifmbringthenoise.ice.infomaniak.ch/ouifmbringthenoise.mp3
+#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/oui-fm/radiostream/3qhtSltZ27/vignette.png" group-title="(.*);(.*);",OÜI FM Classic Rock
+https://ouifm3.ice.infomaniak.ch/ouifm3.mp3
+#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/ouifm/radiostream/PVQ1nX8P2i/vignette_X52HTWr00S.png" group-title="(.*);(.*);",OÜI FM Garage Rock
+https://ouifmgaragerock.ice.infomaniak.ch/ouifmgaragerock-128.mp3
+#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/oui-fm/radiostream/xD29y7pjPX/vignette.png" group-title="(.*);(.*);",OÜI FM Génération Woodstock
+https://ouifmwoodstock.ice.infomaniak.ch/ouifmwoodstock.mp3
+#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/oui-fm/radiostream/0hw7uCfIT8/vignette.png" group-title="(.*);(.*);",OÜI FM Girls Rock
+https://ouifmgirlsrock.ice.infomaniak.ch/ouifmgirlsrock.mp3
+#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/oui-fm/radiostream/QqHO8qpoE2/vignette.png" group-title="(.*);(.*);",OÜI FM Les Slows du Rock
+https://ouifmlesslowsdurock.ice.infomaniak.ch/ouifmslowrock.mp3
+#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/oui-fm/radiostream/ufIfkfDXSl/vignette.png" group-title="(.*);(.*);",OÜI FM Reggae
+https://ouifmganja.ice.infomaniak.ch/ouifmganja-128.mp3
+#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/oui-fm/radiostream/3fkpVzB8Cc/vignette.png" group-title="(.*);(.*);",OÜI FM Rock Français
+https://ouifmrockfrancais.ice.infomaniak.ch/ouifmrockfrancais.mp3
+#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/oui-fm/radiostream/fkYz8mdU3T/vignette.png" group-title="(.*);(.*);",OÜI FM Rock Inde
+https://ouifm5.ice.infomaniak.ch/ouifm5.mp3
+#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/oui-fm/radiostream/RN2oOuAbDH/vignette.png" group-title="(.*);(.*);",OÜI FM Summertime
+https://ouifmsummertime.ice.infomaniak.ch/ouifmsummertime.mp3
+#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/oui-fm/radiostream/RFWji6sMSN/vignette.png" group-title="(.*);(.*);",OUI FM Top Of The Week
+https://ouifmtopoftheweek.ice.infomaniak.ch/ouifmtopweek.mp3
+#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/oui-fm/radiostream/S2UWS5S3lJ/vignette.png" group-title="(.*);(.*);",OÜI FM Alternatif
+https://ouifm2.ice.infomaniak.ch/ouifm2.mp3
+#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/oui-fm/radiostream/OSdEHZc03t/vignette.png" group-title="(.*);(.*);",OÜI FM Blues’n’Rock
+https://ouifmbluesnrock.ice.infomaniak.ch/ouifmbluesnrock-128.mp3
+#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/oui-fm/radiostream/Jhdp1QoWCO/vignette.png" group-title="(.*);(.*);",OÜI FM Rock 60's
+https://ouifmrock60s.ice.infomaniak.ch/ouifmsixties.mp3
+#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/oui-fm/radiostream/GlXr8ww38P/vignette.png" group-title="(.*);(.*);",Oui FM Rock 70's
+https://ouifmrock70s.ice.infomaniak.ch/ouifmseventies.mp3
+#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/oui-fm/radiostream/6fo6l1uD2X/vignette.png" group-title="(.*);(.*);",OÜI FM Rock 80's
+https://ouifmrock80s.ice.infomaniak.ch/ouifmeighties.mp3
+#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/oui-fm/radiostream/OQiFGri4ef/vignette.png" group-title="(.*);(.*);",OÜI FM Rock 90's
+https://ouifmrock90s.ice.infomaniak.ch/ouifmnineties.mp3
+#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/oui-fm/radiostream/PS5mho8vsS/vignette.png" group-title="(.*);(.*);",OÜI FM Rock 2000
+https://ouifmrock2000s.ice.infomaniak.ch/ouifmrock2000.mp3
+#EXTINF:-1 tvg-logo="http://www.mistralfm.fr/upload/5b3f2b9be12f43.34166908.ico" group-title="(.*);(.*);",Mistral FM
+http://icepe8.infomaniak.ch:80/mistralfm-high.mp3
+#EXTINF:-1 tvg-logo="http://www.mistralfm.com/upload/52d7bd22c7f545.12490394.ico" group-title="(.*);(.*);",Mistral FM Marseille
+https://mistralfmaubagne.ice.infomaniak.ch/mistralfmaubagne-128.mp3
+#EXTINF:-1 tvg-logo="http://www.mistralfm.com/upload/52d7bd22c7f545.12490394.ico" group-title="(.*);(.*);",Mistral FM Nice
+https://mistralfmnice.ice.infomaniak.ch/mistralfmnice-192.mp3
+#EXTINF:-1 tvg-logo="http://www.mistralfm.com/upload/52d7bd22c7f545.12490394.ico" group-title="(.*);(.*);",Mistral FM Toulon
+http://mistralfm.ice.infomaniak.ch/mistralfm-high.mp3
+#EXTINF:-1 tvg-logo="http://www.mistralfm.com/upload/52d7bd22c7f545.12490394.ico" group-title="(.*);(.*);",RCT La Radio
+https://rctlaradio.ice.infomaniak.ch/rctlaradio-128.mp3
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/z4h5rylqeqsv.png" group-title="(.*);(.*);",Jazz Radio Afro
 http://jazz-radio-afro.ice.infomaniak.ch/jazz-radio-afro.mp3
 #EXTINF:-1 tvg-logo="http://www.jazzradio.fr/apple-touch-icon-120x120.png" group-title="(.*);(.*);",Jazz Radio
@@ -1883,72 +1989,26 @@ http://jzr-sunset.ice.infomaniak.ch/jzr-sunset.mp3
 http://zen-attitude.ice.infomaniak.ch/zen-attitude.mp3
 #EXTINF:-1 tvg-logo="http://www.jazzradio.fr/media/radio/thumb/90x90_nouveautes-soul.png" group-title="(.*);(.*);",Jazz Radio Nouveautés Soul
 http://jzr-wr19.ice.infomaniak.ch/jzr-wr19-128.mp3
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Logo_EVASION_Officiel.png" group-title="(.*);(.*);",Evasion
-https://evasion75.ice.infomaniak.ch/evasion75-128.mp3
-#EXTINF:-1 tvg-logo="http://www.evasionfm.com/assets/ico/favicon.ico" group-title="(.*);(.*);",Evasion FM Essonne
-https://evasion91.ice.infomaniak.ch/evasion91-128.mp3
-#EXTINF:-1 tvg-logo="http://www.evasionfm.com/assets/ico/favicon.ico" group-title="(.*);(.*);",Evasion FM Oise
-https://evasion60e.ice.infomaniak.ch/evasion60e-128.mp3
-#EXTINF:-1 tvg-logo="http://www.evasionfm.com/assets/ico/favicon.ico" group-title="(.*);(.*);",Evasion FM Seine-et-Marne Nord
-https://evasion77n.ice.infomaniak.ch/evasion77n-128.mp3
-#EXTINF:-1 tvg-logo="http://www.evasionfm.com/assets/ico/favicon.ico" group-title="(.*);(.*);",Evasion FM Seine-et-Marne Sud
-https://evasion77s.ice.infomaniak.ch/evasion77s-128.mp3
-#EXTINF:-1 tvg-logo="http://www.evasionfm.com/assets/ico/favicon.ico" group-title="(.*);(.*);",Evasion FM Somme
-https://evasion80.ice.infomaniak.ch/evasion80-128.mp3
-#EXTINF:-1 tvg-logo="http://www.evasionfm.com/assets/ico/favicon.ico" group-title="(.*);(.*);",Evasion FM Yvelines
-https://evasion78s.ice.infomaniak.ch/evasion78s-128.mp3
-#EXTINF:-1 tvg-logo="http://www.radiovinciautoroutes.com//logo.png" group-title="(.*);(.*);",107.7 FM Ouest Centre
-http://str0.creacast.com/radio_vinci_autoroutes_1
-#EXTINF:-1 tvg-logo="http://www.radiovinciautoroutes.com//logo.png" group-title="(.*);(.*);",107.7 FM Grand Ouest
-http://str0.creacast.com/radio_vinci_autoroutes_2
-#EXTINF:-1 tvg-logo="http://www.radiovinciautoroutes.com//logo.png" group-title="(.*);(.*);",107.7 FM Sud Ouest
-http://str0.creacast.com/radio_vinci_autoroutes_3
-#EXTINF:-1 tvg-logo="http://www.radiovinciautoroutes.com//logo.png" group-title="(.*);(.*);",107.7 FM Languedoc Roussillon
-http://str0.creacast.com/radio_vinci_autoroutes_4
-#EXTINF:-1 tvg-logo="http://www.radiovinciautoroutes.com//logo.png" group-title="(.*);(.*);",107.7 FM Auvergne Vallée du Rhône
-http://str0.creacast.com/radio_vinci_autoroutes_5
-#EXTINF:-1 tvg-logo="http://www.radiovinciautoroutes.com//logo.png" group-title="(.*);(.*);",107.7 FM Alpes Provence
-http://str0.creacast.com/radio_vinci_autoroutes_6
-#EXTINF:-1 tvg-logo="http://www.radiovinciautoroutes.com//logo.png" group-title="(.*);(.*);",107.7 FM Côte d'Azur
-http://str0.creacast.com/radio_vinci_autoroutes_7
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Black_Box_Bordeaux.png" group-title="(.*);(.*);",Blackbox
-http://start-blackbox.ice.infomaniak.ch/start-blackbox-high.mp3
-#EXTINF:-1 tvg-logo="http://ecouter.lesindesradios.fr/logos/orange305.png" group-title="(.*);(.*);",Blackbox @Work
-http://blackboxwork.ice.infomaniak.ch/blackboxwork-128.mp3
-#EXTINF:-1 tvg-logo="https://api.my-radios.com/images/thumb.php?countryCode=FR&name=28645-6758989.png&size=200" group-title="(.*);(.*);",Blackbox 9.3
-https://blackbox-93.ice.infomaniak.ch/blackbox-93.mp3
-#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio176943_1616020679.jpg" group-title="(.*);(.*);",Blackbox Classic FR
-https://blackbox-classic-fr.ice.infomaniak.ch/blackbox-classic-fr.mp3
-#EXTINF:-1 tvg-logo="https://api.my-radios.com/images/thumb.php?countryCode=FR&name=28648-9209191.png&size=200" group-title="(.*);(.*);",Blackbox Classic US
-https://blackbox-classic-us.ice.infomaniak.ch/blackbox-classic-us.mp3
-#EXTINF:-1 tvg-logo="https://api.my-radios.com/images/thumb.php?countryCode=FR&name=28650-1216766.png&size=200" group-title="(.*);(.*);",Blackbox FR
-https://blackbox-fr.ice.infomaniak.ch/blackbox-fr.mp3
-#EXTINF:-1 tvg-logo="http://ecouter.lesindesradios.fr/logos/orange310.png" group-title="(.*);(.*);",Blackbox Latina
-http://blackboxlatina.ice.infomaniak.ch/blackboxlatina-128.mp3
-#EXTINF:-1 tvg-logo="https://api.my-radios.com/images/thumb.php?countryCode=FR&name=28644-4219740.png&size=200" group-title="(.*);(.*);",Blackbox Marseille
-https://blackbox-marseille.ice.infomaniak.ch/blackbox-marseille.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/66/bb/38898/3/c300.png" group-title="(.*);(.*);",Blackbox US
-https://blackbox-us.ice.infomaniak.ch/blackbox-us.mp3
-#EXTINF:-1 tvg-logo="https://ecouter.lesindesradios.fr/logos/orange65.png" group-title="(.*);(.*);",Radio FG
-https://n13.rcs.revma.com/7081n2b6p98uv
-#EXTINF:-1 tvg-logo="https://ecouter.lesindesradios.fr/logos/orange65.png" group-title="(.*);(.*);",Radio FG
-https://n10a-eu.rcs.revma.com/7081n2b6p98uv
-#EXTINF:-1 tvg-logo="https://ecouter.lesindesradios.fr/logos/orange235.png" group-title="(.*);(.*);",Radio FG Chic
-https://n05a-eu.rcs.revma.com/cgvrymb6p98uv
-#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/77/a8/22108/2/c300.png" group-title="(.*);(.*);",Radio FG Club
-https://n18a-eu.rcs.revma.com/5kucq079n98uv
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/n5484PGSEt.jpg" group-title="(.*);(.*);",Radio FG Deep Dance
-https://n05a-eu.rcs.revma.com/tmbhq479n98uv
-#EXTINF:-1 tvg-logo="https://ecouter.lesindesradios.fr/logos/orange238.png" group-title="(.*);(.*);",Radio FG Non Stop
-https://n07.rcs.revma.com/2v1zz979n98uv
-#EXTINF:-1 tvg-logo="https://ecouter.lesindesradios.fr/logos/orange238.png" group-title="(.*);(.*);",Radio FG Non Stop
-https://n14a-eu.rcs.revma.com/2v1zz979n98uv
-#EXTINF:-1 tvg-logo="https://www.radio.fr/images/broadcasts/e0/48/22109/5/c300.png" group-title="(.*);(.*);",Radio FG Starter
-https://n09.rcs.revma.com/vww68g69n98uv
-#EXTINF:-1 tvg-logo="https://ecouter.lesindesradios.fr/logos/orange233.png" group-title="(.*);(.*);",Radio FG Underground
-https://n06a-eu.rcs.revma.com/vb3b5749n98uv
-#EXTINF:-1 tvg-logo="" group-title="(.*);(.*);",Radio FG Underground
-https://n14.rcs.revma.com/vb3b5749n98uv
+#EXTINF:-1 tvg-logo="https://www.nova.fr/wp-content/uploads/sites/2/2024/08/logo.png" group-title="(.*);(.*);",Radio Nova
+https://novazz.ice.infomaniak.ch/novazz-128.mp3
+#EXTINF:-1 tvg-logo="https://www.nova.fr/wp-content/uploads/sites/2/2024/08/logo.png" group-title="(.*);(.*);",Nova Bordeaux
+https://snb.ice.infomaniak.ch/snb-high.mp3
+#EXTINF:-1 tvg-logo="https://www.nova.fr/wp-content/thumbnails/uploads/sites/2/2024/04/NOVA-CLASSICS-400x496-1-t-503x503-crop.png" group-title="(.*);(.*);",Nova Classics
+https://nova-vnt.ice.infomaniak.ch/nova-vnt-128.mp3
+#EXTINF:-1 tvg-logo="https://www.nova.fr/wp-content/thumbnails/uploads/sites/2/2024/04/NOVA-danse-400x496-1-t-503x503-crop.png" group-title="(.*);(.*);",Nova Danse
+https://nova-dance.ice.infomaniak.ch/nova-dance-128.mp3
+#EXTINF:-1 tvg-logo="https://www.nova.fr/wp-content/thumbnails/uploads/sites/2/2024/04/NOVA-nuit-400x496-1-t-503x503-crop.png" group-title="(.*);(.*);",Nova La Nuit
+https://nova-ln.ice.infomaniak.ch/nova-ln-128.mp3
+#EXTINF:-1 tvg-logo="https://www.nova.fr/wp-content/thumbnails/uploads/sites/2/2024/04/NOVA-HIPHOP-400x496-1-t-503x503-crop.png" group-title="(.*);(.*);",Nova Hip-Hop
+https://nova-odn.ice.infomaniak.ch/nova-odn-128.mp3
+#EXTINF:-1 tvg-logo="https://www.nova.fr/wp-content/thumbnails/uploads/sites/2/2024/05/NOVA-LAPLAGE-400x496-1-t-503x503-crop.png" group-title="(.*);(.*);",Nova La Plage
+https://nova-sm.ice.infomaniak.ch/nova-sm-128.mp3
+#EXTINF:-1 tvg-logo="https://www.nova.fr/wp-content/thumbnails/uploads/sites/2/2024/04/NOVA-reggea-400x496-1-t-503x503-crop.png" group-title="(.*);(.*);",Nova Reggae
+https://nova-reggae.ice.infomaniak.ch/nova-reggae-128.mp3
+#EXTINF:-1 tvg-logo="https://www.nova.fr/wp-content/thumbnails/uploads/sites/2/2024/04/NOVA-SOUL-400x496-1-t-503x503-crop.png" group-title="(.*);(.*);",Nova Soul
+https://nova-soul.ice.infomaniak.ch/nova-soul-128.mp3
+#EXTINF:-1 tvg-logo="https://www.nova.fr/wp-content/thumbnails/uploads/sites/2/2024/04/NOVA-NOUVO-400x496-1-t-503x503-crop.png" group-title="(.*);(.*);",Nouvo Nova
+https://nova-nouvo.ice.infomaniak.ch/nova-nouvo-128.mp3
 #EXTINF:-1 tvg-logo="https://www.cheriefm.fr/uploads/assets/cherie/icons/apple-icon-120x120.png" group-title="(.*);(.*);",Chérie 80
 https://scdn.nrjaudio.fm/adwz1/fr/30237/mp3_128.mp3
 #EXTINF:-1 tvg-logo="https://www.cheriefm.fr/uploads/assets/cherie/icons/apple-icon-120x120.png" group-title="(.*);(.*);",Chérie 90
@@ -2281,6 +2341,262 @@ https://scdn.nrjaudio.fm/audio1/fr/55670/mp3_128.mp3
 https://scdn.nrjaudio.fm/audio1/fr/30427/mp3_128.mp3
 #EXTINF:-1 tvg-logo="https://players.nrjaudio.fm/live-metadata/player/img/player-files/rire/logos/173x173/P-RIRE-WR-100-Live.jpg" group-title="(.*);(.*);",RIRE ET CHANSONS 100% Live
 https://scdn.nrjaudio.fm/adwz1/fr/30409/mp3_128.mp3
+#EXTINF:-1 tvg-logo="https://www.radioespace.com/apple-touch-icon-120x120.png" group-title="(.*);(.*);",Espace Club
+http://espace100.ice.infomaniak.ch/espace100-high.mp3
+#EXTINF:-1 tvg-logo="http://www.radioespace.com/favicon.ico" group-title="(.*);(.*);",Espace Dance 90
+http://espace-disco.ice.infomaniak.ch/espace-disco-high.mp3
+#EXTINF:-1 tvg-logo="http://www.radioespace.com/favicon.ico" group-title="(.*);(.*);",Espace Dancefloor
+http://espace-dancefloor.ice.infomaniak.ch/espace-dancefloor-high.mp3
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/4dng5KHp5p.png" group-title="(.*);(.*);",Espace FM
+http://listen.radioking.com/radio/16769/stream/49487
+#EXTINF:-1 tvg-logo="http://www.radioespace.com/favicon.ico" group-title="(.*);(.*);",Espace Hot 30
+http://espace-vintage.ice.infomaniak.ch/espace-vintage-high.mp3
+#EXTINF:-1 tvg-logo="https://ca.radio.net/images/broadcasts/40/2b/4397/4/c300.png" group-title="(.*);(.*);",Africa N°1
+http://african1paris.ice.infomaniak.ch/african1paris-128.mp3
+#EXTINF:-1 tvg-logo="https://ca.radio.net/images/broadcasts/40/2b/4397/4/c300.png" group-title="(.*);(.*);",Africa N°1 Club
+http://webradio5.ice.infomaniak.ch/webradio5-128.mp3
+#EXTINF:-1 tvg-logo="https://ca.radio.net/images/broadcasts/40/2b/4397/4/c300.png" group-title="(.*);(.*);",Africa N°1 Coupé Décalé
+http://webradio1.ice.infomaniak.ch/webradio1-128.mp3
+#EXTINF:-1 tvg-logo="https://ca.radio.net/images/broadcasts/40/2b/4397/4/c300.png" group-title="(.*);(.*);",Africa N°1 Mandingue
+http://webradio2.ice.infomaniak.ch/webradio2-64.mp3
+#EXTINF:-1 tvg-logo="https://ca.radio.net/images/broadcasts/40/2b/4397/4/c300.png" group-title="(.*);(.*);",Africa N°1 Naija
+http://webradio3.ice.infomaniak.ch/webradio3-128.mp3
+#EXTINF:-1 tvg-logo="https://ca.radio.net/images/broadcasts/40/2b/4397/4/c300.png" group-title="(.*);(.*);",Africa N°1 Rumba
+http://webradio4.ice.infomaniak.ch/webradio4-128.mp3
+#EXTINF:-1 tvg-logo="https://ca.radio.net/images/broadcasts/40/2b/4397/4/c300.png" group-title="(.*);(.*);",Africa N°1 Selecta
+http://webradio6.ice.infomaniak.ch/webradio6-128.mp3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Black_Box_Bordeaux.png" group-title="(.*);(.*);",Blackbox
+http://start-blackbox.ice.infomaniak.ch/start-blackbox-high.mp3
+#EXTINF:-1 tvg-logo="http://ecouter.lesindesradios.fr/logos/orange305.png" group-title="(.*);(.*);",Blackbox @Work
+http://blackboxwork.ice.infomaniak.ch/blackboxwork-128.mp3
+#EXTINF:-1 tvg-logo="https://api.my-radios.com/images/thumb.php?countryCode=FR&name=28645-6758989.png&size=200" group-title="(.*);(.*);",Blackbox 9.3
+https://blackbox-93.ice.infomaniak.ch/blackbox-93.mp3
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio176943_1616020679.jpg" group-title="(.*);(.*);",Blackbox Classic FR
+https://blackbox-classic-fr.ice.infomaniak.ch/blackbox-classic-fr.mp3
+#EXTINF:-1 tvg-logo="https://api.my-radios.com/images/thumb.php?countryCode=FR&name=28648-9209191.png&size=200" group-title="(.*);(.*);",Blackbox Classic US
+https://blackbox-classic-us.ice.infomaniak.ch/blackbox-classic-us.mp3
+#EXTINF:-1 tvg-logo="https://api.my-radios.com/images/thumb.php?countryCode=FR&name=28650-1216766.png&size=200" group-title="(.*);(.*);",Blackbox FR
+https://blackbox-fr.ice.infomaniak.ch/blackbox-fr.mp3
+#EXTINF:-1 tvg-logo="http://ecouter.lesindesradios.fr/logos/orange310.png" group-title="(.*);(.*);",Blackbox Latina
+http://blackboxlatina.ice.infomaniak.ch/blackboxlatina-128.mp3
+#EXTINF:-1 tvg-logo="https://api.my-radios.com/images/thumb.php?countryCode=FR&name=28644-4219740.png&size=200" group-title="(.*);(.*);",Blackbox Marseille
+https://blackbox-marseille.ice.infomaniak.ch/blackbox-marseille.mp3
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/66/bb/38898/3/c300.png" group-title="(.*);(.*);",Blackbox US
+https://blackbox-us.ice.infomaniak.ch/blackbox-us.mp3
+#EXTINF:-1 tvg-logo="https://ecouter.lesindesradios.fr/logos/orange65.png" group-title="(.*);(.*);",Radio FG
+https://n13.rcs.revma.com/7081n2b6p98uv
+#EXTINF:-1 tvg-logo="https://ecouter.lesindesradios.fr/logos/orange65.png" group-title="(.*);(.*);",Radio FG
+https://n10a-eu.rcs.revma.com/7081n2b6p98uv
+#EXTINF:-1 tvg-logo="https://ecouter.lesindesradios.fr/logos/orange235.png" group-title="(.*);(.*);",Radio FG Chic
+https://n05a-eu.rcs.revma.com/cgvrymb6p98uv
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/77/a8/22108/2/c300.png" group-title="(.*);(.*);",Radio FG Club
+https://n18a-eu.rcs.revma.com/5kucq079n98uv
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/n5484PGSEt.jpg" group-title="(.*);(.*);",Radio FG Deep Dance
+https://n05a-eu.rcs.revma.com/tmbhq479n98uv
+#EXTINF:-1 tvg-logo="https://ecouter.lesindesradios.fr/logos/orange238.png" group-title="(.*);(.*);",Radio FG Non Stop
+https://n07.rcs.revma.com/2v1zz979n98uv
+#EXTINF:-1 tvg-logo="https://ecouter.lesindesradios.fr/logos/orange238.png" group-title="(.*);(.*);",Radio FG Non Stop
+https://n14a-eu.rcs.revma.com/2v1zz979n98uv
+#EXTINF:-1 tvg-logo="https://www.radio.fr/images/broadcasts/e0/48/22109/5/c300.png" group-title="(.*);(.*);",Radio FG Starter
+https://n09.rcs.revma.com/vww68g69n98uv
+#EXTINF:-1 tvg-logo="https://ecouter.lesindesradios.fr/logos/orange233.png" group-title="(.*);(.*);",Radio FG Underground
+https://n06a-eu.rcs.revma.com/vb3b5749n98uv
+#EXTINF:-1 tvg-logo="" group-title="(.*);(.*);",Radio FG Underground
+https://n14.rcs.revma.com/vb3b5749n98uv
+#EXTINF:-1 tvg-logo="https://rcf.fr/favicon.ico" group-title="(.*);(.*);",RCF Allier
+https://rcf.streamakaci.com/rcf03.mp3
+#EXTINF:-1 tvg-logo="https://rcf.fr/favicon.ico" group-title="(.*);(.*);",RCF Alpha
+https://rcf.streamakaci.com/rcf35.mp3
+#EXTINF:-1 tvg-logo="https://rcf.fr/favicon.ico" group-title="(.*);(.*);",RCF Alsace
+https://rcf.streamakaci.com/rcf67.mp3
+#EXTINF:-1 tvg-logo="https://rcf.fr/favicon.ico" group-title="(.*);(.*);",RCF Anjou
+https://rcf.streamakaci.com/rcf49.mp3
+#EXTINF:-1 tvg-logo="https://rcf.fr/favicon.ico" group-title="(.*);(.*);",RCF Besançon
+https://rcf.streamakaci.com/rcf25.mp3
+#EXTINF:-1 tvg-logo="https://rcf.fr/favicon.ico" group-title="(.*);(.*);",RCF Bordeaux
+https://rcf.streamakaci.com/rcf33.mp3
+#EXTINF:-1 tvg-logo="https://rcf.fr/favicon.ico" group-title="(.*);(.*);",RCF Calvados
+https://rcf.streamakaci.com/rcf14.mp3
+#EXTINF:-1 tvg-logo="https://rcf.fr/favicon.ico" group-title="(.*);(.*);",RCF Cœur de Champagne
+https://rcf.streamakaci.com/rcf51c.mp3
+#EXTINF:-1 tvg-logo="https://rcf.fr/favicon.ico" group-title="(.*);(.*);",RCF Corrèze
+https://rcf.streamakaci.com/rcf19.mp3
+#EXTINF:-1 tvg-logo="https://rcf.fr/favicon.ico" group-title="(.*);(.*);",RCF Corsica
+https://rcf.streamakaci.com/rcf20.mp3
+#EXTINF:-1 tvg-logo="https://rcf.fr/favicon.ico" group-title="(.*);(.*);",RCF Côtes d'Armor
+https://rcf.streamakaci.com/rcf22.mp3
+#EXTINF:-1 tvg-logo="https://rcf.fr/favicon.ico" group-title="(.*);(.*);",RCF Drôme
+https://rcf.streamakaci.com/rcf26.mp3
+#EXTINF:-1 tvg-logo="https://rcf.fr/favicon.ico" group-title="(.*);(.*);",RCF en Berry
+https://rcf.streamakaci.com/rcf18.mp3
+#EXTINF:-1 tvg-logo="https://rcf.fr/favicon.ico" group-title="(.*);(.*);",RCF en Bourgogne
+https://rcf.streamakaci.com/rcf21.mp3
+#EXTINF:-1 tvg-logo="https://rcf.fr/favicon.ico" group-title="(.*);(.*);",RCF Finistère
+https://rcf.streamakaci.com/rcf29.mp3
+#EXTINF:-1 tvg-logo="https://rcf.fr/favicon.ico" group-title="(.*);(.*);",RCF Haute-Loire
+https://rcf.streamakaci.com/rcf43.mp3
+#EXTINF:-1 tvg-logo="https://rcf.fr/favicon.ico" group-title="(.*);(.*);",RCF Haute-Normandie
+https://rcf.streamakaci.com/rcf76.mp3
+#EXTINF:-1 tvg-logo="https://rcf.fr/favicon.ico" group-title="(.*);(.*);",RCF Haute-Savoie
+https://rcf.streamakaci.com/rcf74.mp3
+#EXTINF:-1 tvg-logo="https://rcf.fr/favicon.ico" group-title="(.*);(.*);",RCF Hauts de France
+https://rcf.streamakaci.com/rcf59.mp3
+#EXTINF:-1 tvg-logo="https://rcf.fr/favicon.ico" group-title="(.*);(.*);",RCF Isère
+https://rcf.streamakaci.com/rcf38.mp3
+#EXTINF:-1 tvg-logo="https://rcf.fr/favicon.ico" group-title="(.*);(.*);",RCF Jura
+https://rcf.streamakaci.com/rcf39.mp3
+#EXTINF:-1 tvg-logo="https://rcf.fr/favicon.ico" group-title="(.*);(.*);",RCF Jerico Moselle
+https://rcf.streamakaci.com/rcf57.mp3
+#EXTINF:-1 tvg-logo="https://rcf.fr/favicon.ico" group-title="(.*);(.*);",RCF Limousin
+https://rcf.streamakaci.com/rcf87.mp3
+#EXTINF:-1 tvg-logo="https://rcf.fr/favicon.ico" group-title="(.*);(.*);",RCF Loir-et-Cher
+https://rcf.streamakaci.com/rcf41.mp3
+#EXTINF:-1 tvg-logo="https://rcf.fr/favicon.ico" group-title="(.*);(.*);",RCF Loiret
+https://rcf.streamakaci.com/rcf45.mp3
+#EXTINF:-1 tvg-logo="https://rcf.fr/favicon.ico" group-title="(.*);(.*);",RCF Lozère
+https://rcf.streamakaci.com/rcf48.mp3
+#EXTINF:-1 tvg-logo="https://rcf.fr/favicon.ico" group-title="(.*);(.*);",RCF Lyon
+https://rcf.streamakaci.com/rcf69.mp3
+#EXTINF:-1 tvg-logo="https://rcf.fr/favicon.ico" group-title="(.*);(.*);",RCF Maguelone Hérault
+https://rcf.streamakaci.com/rcf34.mp3
+#EXTINF:-1 tvg-logo="https://rcf.fr/favicon.ico" group-title="(.*);(.*);",RCF Méditerranée
+https://rcf.streamakaci.com/rcf83.mp3
+#EXTINF:-1 tvg-logo="https://rcf.fr/favicon.ico" group-title="(.*);(.*);",RCF Méditerranée est-Var
+https://rcfing.streamakaci.com/rcf83ev.mp3
+#EXTINF:-1 tvg-logo="https://rcf.fr/favicon.ico" group-title="(.*);(.*);",RCF National
+https://rcf.streamakaci.com/rcfdigital.mp3
+#EXTINF:-1 tvg-logo="https://rcf.fr/favicon.ico" group-title="(.*);(.*);",RCF Nice Côte d'Azur
+https://rcf.streamakaci.com/rcf06.mp3
+#EXTINF:-1 tvg-logo="https://rcf.fr/favicon.ico" group-title="(.*);(.*);",RCF Nièvre
+https://rcf.streamakaci.com/rcf58.mp3
+#EXTINF:-1 tvg-logo="https://rcf.fr/favicon.ico" group-title="(.*);(.*);",RCF Occitanie
+https://rcf.streamakaci.com/rcfoccitanie.mp3
+#EXTINF:-1 tvg-logo="https://rcf.fr/favicon.ico" group-title="(.*);(.*);",RCF Orne
+https://rcf.streamakaci.com/rcf61.mp3
+#EXTINF:-1 tvg-logo="https://rcf.fr/favicon.ico" group-title="(.*);(.*);",RCF Pays d'Aude
+https://rcf.streamakaci.com/rcf11.mp3
+#EXTINF:-1 tvg-logo="https://rcf.fr/favicon.ico" group-title="(.*);(.*);",RCF Pays de l'Ain
+https://rcf.streamakaci.com/rcf01.mp3
+#EXTINF:-1 tvg-logo="https://rcf.fr/favicon.ico" group-title="(.*);(.*);",RCF Pays Tarnais
+https://rcf.streamakaci.com/rcf81.mp3
+#EXTINF:-1 tvg-logo="https://rcf.fr/favicon.ico" group-title="(.*);(.*);",RCF Poitou
+https://rcf.streamakaci.com/rcf86.mp3
+#EXTINF:-1 tvg-logo="https://rcf.fr/favicon.ico" group-title="(.*);(.*);",RCF Puy-de-Dôme
+https://rcf.streamakaci.com/rcf63.mp3
+#EXTINF:-1 tvg-logo="https://rcf.fr/favicon.ico" group-title="(.*);(.*);",RCF Saint-Étienne
+https://rcf.streamakaci.com/rcf42.mp3
+#EXTINF:-1 tvg-logo="https://rcf.fr/favicon.ico" group-title="(.*);(.*);",RCF Sarthe
+https://rcf.streamakaci.com/rcf72.mp3
+#EXTINF:-1 tvg-logo="https://rcf.fr/favicon.ico" group-title="(.*);(.*);",RCF Savoie
+https://rcf.streamakaci.com/rcf73.mp3
+#EXTINF:-1 tvg-logo="https://rcf.fr/favicon.ico" group-title="(.*);(.*);",RCF Sud Bretagne
+https://rcf.streamakaci.com/rcf56v.mp3
+#EXTINF:-1 tvg-logo="https://rcf.fr/favicon.ico" group-title="(.*);(.*);",RCF Touraine
+https://rcf.streamakaci.com/rcf37.mp3
+#EXTINF:-1 tvg-logo="https://rcf.fr/favicon.ico" group-title="(.*);(.*);",RCF Vaucluse
+https://rcf.streamakaci.com/rcf84.mp3
+#EXTINF:-1 tvg-logo="https://rcf.fr/favicon.ico" group-title="(.*);(.*);",RCF Vendée
+https://rcf.streamakaci.com/rcf85.mp3
+#EXTINF:-1 tvg-logo="http://www.chantefrance.com/public/img/logo.png" group-title="(.*);(.*);",Chante France
+https://chantefrance.ice.infomaniak.ch/chantefrance-128.mp3
+#EXTINF:-1 tvg-logo="http://www.chantefrance.com/public/img/logo.png" group-title="(.*);(.*);",Chante France 60's
+https://chantefrance60s.ice.infomaniak.ch/chantefrance60s-128.mp3
+#EXTINF:-1 tvg-logo="http://www.chantefrance.com/public/img/logo.png" group-title="(.*);(.*);",Chante France 70's
+https://chantefrance70s.ice.infomaniak.ch/chantefrance70s-128.mp3
+#EXTINF:-1 tvg-logo="http://www.chantefrance.com/public/img/logo.png" group-title="(.*);(.*);",Chante France 80's
+https://chantefrance80s.ice.infomaniak.ch/chantefrance80s-128.mp3
+#EXTINF:-1 tvg-logo="http://www.chantefrance.com/public/img/logo.png" group-title="(.*);(.*);",Chante France Emotion
+https://chantefranceemotion.ice.infomaniak.ch/chantefranceemotion-128.mp3
+#EXTINF:-1 tvg-logo="https://www.chantefrance.com/public/img/favico.png" group-title="(.*);(.*);",Chante France Nouveautés
+https://chantefrancenouveautes.ice.infomaniak.ch/chantefrancenouveautes-96.aac
+#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_generations.png" group-title="(.*);(.*);",Generations
+http://generationfm.ice.infomaniak.ch/generationfm-high.aac
+#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_generations.png" group-title="(.*);(.*);",Generations
+http://generationfm.ice.infomaniak.ch/generationfm-high.mp3
+#EXTINF:-1 tvg-logo="https://generations.fr/apple-touch-icon-120x120.png" group-title="(.*);(.*);",Generations 2015
+http://generations-thema.ice.infomaniak.ch/generations-thema.mp3
+#EXTINF:-1 tvg-logo="https://generations.fr/apple-touch-icon-120x120.png" group-title="(.*);(.*);",Generations 2015
+http://generations-thema.ice.infomaniak.ch/generations-thema.aac
+#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_booba1.png" group-title="(.*);(.*);",Generations Booba
+http://generations-booba.ice.infomaniak.ch/generations-booba.mp3
+#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_booba1.png" group-title="(.*);(.*);",Generations Booba
+http://generations-booba.ice.infomaniak.ch/generations-booba.aac
+#EXTINF:-1 tvg-logo="https://generations.fr/apple-touch-icon-120x120.png" group-title="(.*);(.*);",Generations Dance Hall
+http://generations-dancehall.ice.infomaniak.ch/generations-dancehall.mp3
+#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_brandnew.png" group-title="(.*);(.*);",Generations En Mode Brand New
+http://gene-wr10.ice.infomaniak.ch/gene-wr10.mp3
+#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_brandnew.png" group-title="(.*);(.*);",Generations En Mode Brand New
+http://gene-wr10.ice.infomaniak.ch/gene-wr10.aac
+#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_generations-freestyle-logo-smartphone.jpg" group-title="(.*);(.*);",Generations Freestyle
+http://gene-wr09.ice.infomaniak.ch/gene-wr09.mp3
+#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_generations-freestyle-logo-smartphone.jpg" group-title="(.*);(.*);",Generations Freestyle
+http://gene-wr09.ice.infomaniak.ch/gene-wr09.aac
+#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_funk.png" group-title="(.*);(.*);",Generations Funk
+http://gene-wr05.ice.infomaniak.ch/gene-wr05.mp3
+#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_funk.png" group-title="(.*);(.*);",Generations Funk
+http://gene-wr05.ice.infomaniak.ch/gene-wr05.aac
+#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_generations-girl-logo-smartphone1.png" group-title="(.*);(.*);",Generations Girl
+http://generations-girls.ice.infomaniak.ch/generations-girls.mp3
+#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_generations-girl-logo-smartphone1.png" group-title="(.*);(.*);",Generations Girl
+http://generations-girls.ice.infomaniak.ch/generations-girls.aac
+#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_generations-la-fouine-logo-smartphone.png" group-title="(.*);(.*);",Generations 100% La Fouine
+http://generations-la-fouine.ice.infomaniak.ch/generations-la-fouine.mp3
+#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_generations-la-fouine-logo-smartphone.png" group-title="(.*);(.*);",Generations 100% La Fouine
+http://generations-la-fouine.ice.infomaniak.ch/generations-la-fouine.aac
+#EXTINF:-1 tvg-logo="http://www.radioscope.fr/lien/local/generationslyon.png" group-title="(.*);(.*);",Générations Lyon
+http://radiosun.ice.infomaniak.ch/radiosun-high.mp3
+#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_generations-newjack-logo-smartphone.png" group-title="(.*);(.*);",Generations NewJack
+http://generations-njs.ice.infomaniak.ch/generations-njs.mp3
+#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_generations-newjack-logo-smartphone.png" group-title="(.*);(.*);",Generations NewJack
+http://generations-njs.ice.infomaniak.ch/generations-njs.aac
+#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_rnb.png" group-title="(.*);(.*);",Generations R&B
+http://generationfm-slowjam.ice.infomaniak.ch/generationfm-slowjam-high.aac
+#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_rnb.png" group-title="(.*);(.*);",Generations R&B
+http://generationfm-slowjam.ice.infomaniak.ch/generationfm-slowjam-high.mp3
+#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_rnb-gold.png" group-title="(.*);(.*);",Generations R&B Gold
+http://generations-rnb-gold.ice.infomaniak.ch/generations-rnb-gold.mp3
+#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_rnb-gold.png" group-title="(.*);(.*);",Generations R&B Gold
+http://generations-rnb-gold.ice.infomaniak.ch/generations-rnb-gold.aac
+#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_rapfr.png" group-title="(.*);(.*);",Generations Rap FR
+http://generationfm-rap.ice.infomaniak.ch/generationfm-rap-high.aac
+#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_rapfr.png" group-title="(.*);(.*);",Generations Rap FR
+http://generationfm-rap.ice.infomaniak.ch/generationfm-rap-high.mp3
+#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_rap_fr1.png" group-title="(.*);(.*);",Generations Rap FR Gold
+http://gene-wr06.ice.infomaniak.ch/gene-wr06.aac
+#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_rap_fr1.png" group-title="(.*);(.*);",Generations Rap FR Gold
+http://gene-wr06.ice.infomaniak.ch/gene-wr06.mp3
+#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_rap_us.png" group-title="(.*);(.*);",Generations Rap US
+http://generationfm-underground.ice.infomaniak.ch/generationfm-underground-high.aac
+#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_rap_us.png" group-title="(.*);(.*);",Generations Rap US
+http://generationfm-underground.ice.infomaniak.ch/generationfm-underground-high.mp3
+#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_rap_us_gold.png" group-title="(.*);(.*);",Generations Rap US Gold
+http://gene-wr08.ice.infomaniak.ch/gene-wr08.aac
+#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_rap_us_gold.png" group-title="(.*);(.*);",Generations Rap US Gold
+http://gene-wr08.ice.infomaniak.ch/gene-wr08.mp3
+#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_-reggae.png" group-title="(.*);(.*);",Generations Reggae
+http://generations-caraibes.ice.infomaniak.ch/generations-caraibes-high.mp3
+#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_-reggae.png" group-title="(.*);(.*);",Generations Reggae
+http://generations-caraibes.ice.infomaniak.ch/generations-caraibes-high.aac
+#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_reggaeton1.png" group-title="(.*);(.*);",Generations Reggaeton
+http://gene-rgton.ice.infomaniak.ch/generations-rgton.mp3
+#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_reggaeton1.png" group-title="(.*);(.*);",Generations Reggaeton
+http://gene-rgton.ice.infomaniak.ch/generations-rgton.aac
+#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_generations-rohff-logo-smartphone1.png" group-title="(.*);(.*);",Generations Rohff
+http://generation-rohff.ice.infomaniak.ch/generation-rohff.mp3
+#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_generations-rohff-logo-smartphone1.png" group-title="(.*);(.*);",Generations Rohff
+http://generation-rohff.ice.infomaniak.ch/generation-rohff.aac
+#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_slowjam.png" group-title="(.*);(.*);",Generations SlowJam
+http://gene-wr11.ice.infomaniak.ch/gene-wr11.mp3
+#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_slowjam.png" group-title="(.*);(.*);",Generations SlowJam
+http://gene-wr11.ice.infomaniak.ch/gene-wr11.aac
+#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_soul.png" group-title="(.*);(.*);",Generations Soul
+http://gene-wr07.ice.infomaniak.ch/gene-wr07.mp3
+#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_soul.png" group-title="(.*);(.*);",Generations Soul
+http://gene-wr07.ice.infomaniak.ch/gene-wr07.aac
+#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_generations-wati-b-logo-smartphone.png" group-title="(.*);(.*);",Generations Wati B
+http://generations-wati-b.ice.infomaniak.ch/generations-wati-b.mp3
+#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_generations-wati-b-logo-smartphone.png" group-title="(.*);(.*);",Generations Wati B
+http://generations-wati-b.ice.infomaniak.ch/generations-wati-b.aac
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/d/d5/FIP_logo_2005.svg/512px-FIP_logo_2005.svg.png" group-title="(.*);(.*);",FIP
 https://icecast.radiofrance.fr/fip-hifi.aac
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/d/d5/FIP_logo_2005.svg/512px-FIP_logo_2005.svg.png" group-title="(.*);(.*);",FIP
@@ -2577,327 +2893,11 @@ https://stream.radiofrance.fr/francemusiqueocoramonde/francemusiqueocoramonde.m3
 https://icecast.radiofrance.fr/francemusiqueopera-hifi.aac
 #EXTINF:-1 tvg-logo="https://www.radiofrance.com/sites/default/files/press_releases/3873.jpg" group-title="(.*);(.*);",France Musique Opéra
 https://stream.radiofrance.fr/francemusiqueopera/francemusiqueopera.m3u8?id=radiofrance
-#EXTINF:-1 tvg-logo="http://www.essentielradio.com/upload/Radios%20digitales/ESSENTIELBible1200.png" group-title="(.*);(.*);",ESSENTIEL Bible
-http://essentielradioing.streamakaci.com/essentielbible.mp3
-#EXTINF:-1 tvg-logo="http://www.essentielradio.com/upload/Radios%20digitales/ESSENTIELKidz1200.png" group-title="(.*);(.*);",ESSENTIEL Kidz
-http://essentielradioing.streamakaci.com/essentielkidz.mp3
-#EXTINF:-1 tvg-logo="http://www.essentielradio.com/upload/Radios%20digitales/ER1200.png" group-title="(.*);(.*);",ESSENTIEL Radio
-http://essentielradioing.streamakaci.com/essentielradio.mp3
-#EXTINF:-1 tvg-logo="http://www.essentielradio.com/upload/Radios%20digitales/ESSENTIEL.fr1200.png" group-title="(.*);(.*);",ESSENTIEL.fr
-http://cdnradio.streamakaci.com/essentielfr.mp3
-#EXTINF:-1 tvg-logo="https://rcf.fr/favicon.ico" group-title="(.*);(.*);",RCF Allier
-https://rcf.streamakaci.com/rcf03.mp3
-#EXTINF:-1 tvg-logo="https://rcf.fr/favicon.ico" group-title="(.*);(.*);",RCF Alpha
-https://rcf.streamakaci.com/rcf35.mp3
-#EXTINF:-1 tvg-logo="https://rcf.fr/favicon.ico" group-title="(.*);(.*);",RCF Alsace
-https://rcf.streamakaci.com/rcf67.mp3
-#EXTINF:-1 tvg-logo="https://rcf.fr/favicon.ico" group-title="(.*);(.*);",RCF Anjou
-https://rcf.streamakaci.com/rcf49.mp3
-#EXTINF:-1 tvg-logo="https://rcf.fr/favicon.ico" group-title="(.*);(.*);",RCF Besançon
-https://rcf.streamakaci.com/rcf25.mp3
-#EXTINF:-1 tvg-logo="https://rcf.fr/favicon.ico" group-title="(.*);(.*);",RCF Bordeaux
-https://rcf.streamakaci.com/rcf33.mp3
-#EXTINF:-1 tvg-logo="https://rcf.fr/favicon.ico" group-title="(.*);(.*);",RCF Calvados
-https://rcf.streamakaci.com/rcf14.mp3
-#EXTINF:-1 tvg-logo="https://rcf.fr/favicon.ico" group-title="(.*);(.*);",RCF Cœur de Champagne
-https://rcf.streamakaci.com/rcf51c.mp3
-#EXTINF:-1 tvg-logo="https://rcf.fr/favicon.ico" group-title="(.*);(.*);",RCF Corrèze
-https://rcf.streamakaci.com/rcf19.mp3
-#EXTINF:-1 tvg-logo="https://rcf.fr/favicon.ico" group-title="(.*);(.*);",RCF Corsica
-https://rcf.streamakaci.com/rcf20.mp3
-#EXTINF:-1 tvg-logo="https://rcf.fr/favicon.ico" group-title="(.*);(.*);",RCF Côtes d'Armor
-https://rcf.streamakaci.com/rcf22.mp3
-#EXTINF:-1 tvg-logo="https://rcf.fr/favicon.ico" group-title="(.*);(.*);",RCF Drôme
-https://rcf.streamakaci.com/rcf26.mp3
-#EXTINF:-1 tvg-logo="https://rcf.fr/favicon.ico" group-title="(.*);(.*);",RCF en Berry
-https://rcf.streamakaci.com/rcf18.mp3
-#EXTINF:-1 tvg-logo="https://rcf.fr/favicon.ico" group-title="(.*);(.*);",RCF en Bourgogne
-https://rcf.streamakaci.com/rcf21.mp3
-#EXTINF:-1 tvg-logo="https://rcf.fr/favicon.ico" group-title="(.*);(.*);",RCF Finistère
-https://rcf.streamakaci.com/rcf29.mp3
-#EXTINF:-1 tvg-logo="https://rcf.fr/favicon.ico" group-title="(.*);(.*);",RCF Haute-Loire
-https://rcf.streamakaci.com/rcf43.mp3
-#EXTINF:-1 tvg-logo="https://rcf.fr/favicon.ico" group-title="(.*);(.*);",RCF Haute-Normandie
-https://rcf.streamakaci.com/rcf76.mp3
-#EXTINF:-1 tvg-logo="https://rcf.fr/favicon.ico" group-title="(.*);(.*);",RCF Haute-Savoie
-https://rcf.streamakaci.com/rcf74.mp3
-#EXTINF:-1 tvg-logo="https://rcf.fr/favicon.ico" group-title="(.*);(.*);",RCF Hauts de France
-https://rcf.streamakaci.com/rcf59.mp3
-#EXTINF:-1 tvg-logo="https://rcf.fr/favicon.ico" group-title="(.*);(.*);",RCF Isère
-https://rcf.streamakaci.com/rcf38.mp3
-#EXTINF:-1 tvg-logo="https://rcf.fr/favicon.ico" group-title="(.*);(.*);",RCF Jura
-https://rcf.streamakaci.com/rcf39.mp3
-#EXTINF:-1 tvg-logo="https://rcf.fr/favicon.ico" group-title="(.*);(.*);",RCF Jerico Moselle
-https://rcf.streamakaci.com/rcf57.mp3
-#EXTINF:-1 tvg-logo="https://rcf.fr/favicon.ico" group-title="(.*);(.*);",RCF Limousin
-https://rcf.streamakaci.com/rcf87.mp3
-#EXTINF:-1 tvg-logo="https://rcf.fr/favicon.ico" group-title="(.*);(.*);",RCF Loir-et-Cher
-https://rcf.streamakaci.com/rcf41.mp3
-#EXTINF:-1 tvg-logo="https://rcf.fr/favicon.ico" group-title="(.*);(.*);",RCF Loiret
-https://rcf.streamakaci.com/rcf45.mp3
-#EXTINF:-1 tvg-logo="https://rcf.fr/favicon.ico" group-title="(.*);(.*);",RCF Lozère
-https://rcf.streamakaci.com/rcf48.mp3
-#EXTINF:-1 tvg-logo="https://rcf.fr/favicon.ico" group-title="(.*);(.*);",RCF Lyon
-https://rcf.streamakaci.com/rcf69.mp3
-#EXTINF:-1 tvg-logo="https://rcf.fr/favicon.ico" group-title="(.*);(.*);",RCF Maguelone Hérault
-https://rcf.streamakaci.com/rcf34.mp3
-#EXTINF:-1 tvg-logo="https://rcf.fr/favicon.ico" group-title="(.*);(.*);",RCF Méditerranée
-https://rcf.streamakaci.com/rcf83.mp3
-#EXTINF:-1 tvg-logo="https://rcf.fr/favicon.ico" group-title="(.*);(.*);",RCF Méditerranée est-Var
-https://rcfing.streamakaci.com/rcf83ev.mp3
-#EXTINF:-1 tvg-logo="https://rcf.fr/favicon.ico" group-title="(.*);(.*);",RCF National
-https://rcf.streamakaci.com/rcfdigital.mp3
-#EXTINF:-1 tvg-logo="https://rcf.fr/favicon.ico" group-title="(.*);(.*);",RCF Nice Côte d'Azur
-https://rcf.streamakaci.com/rcf06.mp3
-#EXTINF:-1 tvg-logo="https://rcf.fr/favicon.ico" group-title="(.*);(.*);",RCF Nièvre
-https://rcf.streamakaci.com/rcf58.mp3
-#EXTINF:-1 tvg-logo="https://rcf.fr/favicon.ico" group-title="(.*);(.*);",RCF Occitanie
-https://rcf.streamakaci.com/rcfoccitanie.mp3
-#EXTINF:-1 tvg-logo="https://rcf.fr/favicon.ico" group-title="(.*);(.*);",RCF Orne
-https://rcf.streamakaci.com/rcf61.mp3
-#EXTINF:-1 tvg-logo="https://rcf.fr/favicon.ico" group-title="(.*);(.*);",RCF Pays d'Aude
-https://rcf.streamakaci.com/rcf11.mp3
-#EXTINF:-1 tvg-logo="https://rcf.fr/favicon.ico" group-title="(.*);(.*);",RCF Pays de l'Ain
-https://rcf.streamakaci.com/rcf01.mp3
-#EXTINF:-1 tvg-logo="https://rcf.fr/favicon.ico" group-title="(.*);(.*);",RCF Pays Tarnais
-https://rcf.streamakaci.com/rcf81.mp3
-#EXTINF:-1 tvg-logo="https://rcf.fr/favicon.ico" group-title="(.*);(.*);",RCF Poitou
-https://rcf.streamakaci.com/rcf86.mp3
-#EXTINF:-1 tvg-logo="https://rcf.fr/favicon.ico" group-title="(.*);(.*);",RCF Puy-de-Dôme
-https://rcf.streamakaci.com/rcf63.mp3
-#EXTINF:-1 tvg-logo="https://rcf.fr/favicon.ico" group-title="(.*);(.*);",RCF Saint-Étienne
-https://rcf.streamakaci.com/rcf42.mp3
-#EXTINF:-1 tvg-logo="https://rcf.fr/favicon.ico" group-title="(.*);(.*);",RCF Sarthe
-https://rcf.streamakaci.com/rcf72.mp3
-#EXTINF:-1 tvg-logo="https://rcf.fr/favicon.ico" group-title="(.*);(.*);",RCF Savoie
-https://rcf.streamakaci.com/rcf73.mp3
-#EXTINF:-1 tvg-logo="https://rcf.fr/favicon.ico" group-title="(.*);(.*);",RCF Sud Bretagne
-https://rcf.streamakaci.com/rcf56v.mp3
-#EXTINF:-1 tvg-logo="https://rcf.fr/favicon.ico" group-title="(.*);(.*);",RCF Touraine
-https://rcf.streamakaci.com/rcf37.mp3
-#EXTINF:-1 tvg-logo="https://rcf.fr/favicon.ico" group-title="(.*);(.*);",RCF Vaucluse
-https://rcf.streamakaci.com/rcf84.mp3
-#EXTINF:-1 tvg-logo="https://rcf.fr/favicon.ico" group-title="(.*);(.*);",RCF Vendée
-https://rcf.streamakaci.com/rcf85.mp3
-#EXTINF:-1 tvg-logo="http://www.hotmixradios.fr/images/logos/320/HOTMIXRADIO-2000.jpg" group-title="(.*);(.*);",Hotmix Radio 2000
-http://streaming.hotmix-radio.net/hotmixradio-2k-128.mp3
-#EXTINF:-1 tvg-logo="http://www.hotmixradios.fr/images/logos/320/HOTMIXRADIO-80s.jpg" group-title="(.*);(.*);",Hotmix Radio 80
-http://streaming.hotmix-radio.net/hotmixradio-80-128.mp3
-#EXTINF:-1 tvg-logo="http://www.hotmixradios.fr/images/logos/320/HOTMIXRADIO-90s.jpg" group-title="(.*);(.*);",Hotmix Radio 90
-http://streaming.hotmix-radio.net/hotmixradio-90-128.mp3
-#EXTINF:-1 tvg-logo="http://www.hotmixradios.fr/images/logos/320/HOTMIXRADIO-Dance.jpg" group-title="(.*);(.*);",Hotmix Radio Dance
-http://streaming.hotmix-radio.net/hotmixradio-dance-128.mp3
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s105866g.png" group-title="(.*);(.*);",Hotmix Radio Frenchy
-https://streamingp.shoutcast.com/hotmixradio-frenchy-64.mp3
-#EXTINF:-1 tvg-logo="http://www.hotmixradios.fr/images/logos/320/HOTMIXRADIO-Funky.jpg" group-title="(.*);(.*);",Hotmix Radio Funky
-http://streaming.hotmix-radio.net/hotmixradio-funky-128.mp3
-#EXTINF:-1 tvg-logo="http://www.hotmixradios.fr/images/logos/320/HOTMIXRADIO-Hiphop.jpg" group-title="(.*);(.*);",Hotmix Radio Hip-Hop
-http://streaming.hotmix-radio.net/hotmixradio-hiphop-128.mp3
-#EXTINF:-1 tvg-logo="https://static.hotmixradio.fr/wp-content/uploads/cropped-favico-trans-1-70x70.png" group-title="(.*);(.*);",Hotmix Radio Hits
-http://streaming.hotmix-radio.net/hotmixradio-hits-128.mp3
-#EXTINF:-1 tvg-logo="https://static.hotmixradio.fr/wp-content/uploads/cropped-favico-trans-1-70x70.png" group-title="(.*);(.*);",Hotmix Radio Platinum
-https://streamingp.shoutcast.com/hotmixradio-platinium-128.mp3
-#EXTINF:-1 tvg-logo="https://static.hotmixradio.fr/wp-content/uploads/logo_hmr_platinum_1000x1000-460x460.jpg" group-title="(.*);(.*);",Hotmix Radio Platinum
-https://streamingp.shoutcast.com/hotmixradio-platinium-48.aac
-#EXTINF:-1 tvg-logo="https://static.hotmixradio.fr/wp-content/uploads/cropped-favico-trans-1-70x70.png" group-title="(.*);(.*);",Hotmix Radio Platinum
-https://streamingp.shoutcast.com/hotmixradio-platinium-64.aac
-#EXTINF:-1 tvg-logo="https://static.hotmixradio.fr/wp-content/uploads/logo_hmr_platinum_1000x1000-460x460.jpg" group-title="(.*);(.*);",Hotmix Radio Platinum
-https://streamingp.shoutcast.com/hotmixradio-platinium-320.mp3
-#EXTINF:-1 tvg-logo="https://static.hotmixradio.fr/wp-content/themes/remix/img/loading.gif" group-title="(.*);(.*);",Hotmix Radio Rock
-https://streamingp.shoutcast.com/hotmixradio-rock-128.mp3?newsession=1605962434596&p=true&gdpr=true&gdpr_consent=CO9OfHqO9OfHqAKATAFRBBCsAP_AAH_AAAqIHGtd_X_fb39j-_59_9t0eY1f9_7_v20zjgeds-8Nyd_X_L8X42M7vB36pq4KuR4Eu3LBAQFlHOHcTUmw6IkVqTPsak2Mr7NKJ7PEinMbe2dYGHtfn9VTuZKYr97s___z__-__v__79f_r-3_3_vp9V---2BxIBJhqXwEWYljgSTRpVCiBCFcSHQAgAooRhaJrCAlcFOyuAj9BAwAQGoCMCIEGIKMWQQAAAABJREBIAeCARAEQCAAEAKkBCAAjQBBYASBgEAAoBoWAEUAQgSEGRwVHKYEBEi0UE8lYAlF3sYYQhlFADQIAAAA.f_gAAAAAAAAA
-#EXTINF:-1 tvg-logo="http://www.hotmixradios.fr/images/logos/320/HOTMIXRADIO-Rock.jpg" group-title="(.*);(.*);",Hotmix Radio Rock
-https://streamingp.shoutcast.com/hotmixradio-rock-64.mp3
-#EXTINF:-1 tvg-logo="https://i3.radionomy.com/radios/400/e9f92890-11fb-4bf8-bcc6-04cd4759e809.png" group-title="(.*);(.*);",BFM
-https://audio.bfmtv.com/bfmradio_128.mp3
-#EXTINF:-1 tvg-logo="http://static.radio.fr/images/broadcasts/b1/97/1441/1/c300.png" group-title="(.*);(.*);",BFM Business
-https://audio.bfmtv.com/bfmbusiness_128.mp3
-#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_generations.png" group-title="(.*);(.*);",Generations
-http://generationfm.ice.infomaniak.ch/generationfm-high.aac
-#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_generations.png" group-title="(.*);(.*);",Generations
-http://generationfm.ice.infomaniak.ch/generationfm-high.mp3
-#EXTINF:-1 tvg-logo="https://generations.fr/apple-touch-icon-120x120.png" group-title="(.*);(.*);",Generations 2015
-http://generations-thema.ice.infomaniak.ch/generations-thema.mp3
-#EXTINF:-1 tvg-logo="https://generations.fr/apple-touch-icon-120x120.png" group-title="(.*);(.*);",Generations 2015
-http://generations-thema.ice.infomaniak.ch/generations-thema.aac
-#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_booba1.png" group-title="(.*);(.*);",Generations Booba
-http://generations-booba.ice.infomaniak.ch/generations-booba.mp3
-#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_booba1.png" group-title="(.*);(.*);",Generations Booba
-http://generations-booba.ice.infomaniak.ch/generations-booba.aac
-#EXTINF:-1 tvg-logo="https://generations.fr/apple-touch-icon-120x120.png" group-title="(.*);(.*);",Generations Dance Hall
-http://generations-dancehall.ice.infomaniak.ch/generations-dancehall.mp3
-#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_brandnew.png" group-title="(.*);(.*);",Generations En Mode Brand New
-http://gene-wr10.ice.infomaniak.ch/gene-wr10.mp3
-#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_brandnew.png" group-title="(.*);(.*);",Generations En Mode Brand New
-http://gene-wr10.ice.infomaniak.ch/gene-wr10.aac
-#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_generations-freestyle-logo-smartphone.jpg" group-title="(.*);(.*);",Generations Freestyle
-http://gene-wr09.ice.infomaniak.ch/gene-wr09.mp3
-#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_generations-freestyle-logo-smartphone.jpg" group-title="(.*);(.*);",Generations Freestyle
-http://gene-wr09.ice.infomaniak.ch/gene-wr09.aac
-#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_funk.png" group-title="(.*);(.*);",Generations Funk
-http://gene-wr05.ice.infomaniak.ch/gene-wr05.mp3
-#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_funk.png" group-title="(.*);(.*);",Generations Funk
-http://gene-wr05.ice.infomaniak.ch/gene-wr05.aac
-#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_generations-girl-logo-smartphone1.png" group-title="(.*);(.*);",Generations Girl
-http://generations-girls.ice.infomaniak.ch/generations-girls.mp3
-#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_generations-girl-logo-smartphone1.png" group-title="(.*);(.*);",Generations Girl
-http://generations-girls.ice.infomaniak.ch/generations-girls.aac
-#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_generations-la-fouine-logo-smartphone.png" group-title="(.*);(.*);",Generations 100% La Fouine
-http://generations-la-fouine.ice.infomaniak.ch/generations-la-fouine.mp3
-#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_generations-la-fouine-logo-smartphone.png" group-title="(.*);(.*);",Generations 100% La Fouine
-http://generations-la-fouine.ice.infomaniak.ch/generations-la-fouine.aac
-#EXTINF:-1 tvg-logo="http://www.radioscope.fr/lien/local/generationslyon.png" group-title="(.*);(.*);",Générations Lyon
-http://radiosun.ice.infomaniak.ch/radiosun-high.mp3
-#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_generations-newjack-logo-smartphone.png" group-title="(.*);(.*);",Generations NewJack
-http://generations-njs.ice.infomaniak.ch/generations-njs.mp3
-#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_generations-newjack-logo-smartphone.png" group-title="(.*);(.*);",Generations NewJack
-http://generations-njs.ice.infomaniak.ch/generations-njs.aac
-#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_rnb.png" group-title="(.*);(.*);",Generations R&B
-http://generationfm-slowjam.ice.infomaniak.ch/generationfm-slowjam-high.aac
-#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_rnb.png" group-title="(.*);(.*);",Generations R&B
-http://generationfm-slowjam.ice.infomaniak.ch/generationfm-slowjam-high.mp3
-#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_rnb-gold.png" group-title="(.*);(.*);",Generations R&B Gold
-http://generations-rnb-gold.ice.infomaniak.ch/generations-rnb-gold.mp3
-#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_rnb-gold.png" group-title="(.*);(.*);",Generations R&B Gold
-http://generations-rnb-gold.ice.infomaniak.ch/generations-rnb-gold.aac
-#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_rapfr.png" group-title="(.*);(.*);",Generations Rap FR
-http://generationfm-rap.ice.infomaniak.ch/generationfm-rap-high.aac
-#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_rapfr.png" group-title="(.*);(.*);",Generations Rap FR
-http://generationfm-rap.ice.infomaniak.ch/generationfm-rap-high.mp3
-#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_rap_fr1.png" group-title="(.*);(.*);",Generations Rap FR Gold
-http://gene-wr06.ice.infomaniak.ch/gene-wr06.aac
-#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_rap_fr1.png" group-title="(.*);(.*);",Generations Rap FR Gold
-http://gene-wr06.ice.infomaniak.ch/gene-wr06.mp3
-#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_rap_us.png" group-title="(.*);(.*);",Generations Rap US
-http://generationfm-underground.ice.infomaniak.ch/generationfm-underground-high.aac
-#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_rap_us.png" group-title="(.*);(.*);",Generations Rap US
-http://generationfm-underground.ice.infomaniak.ch/generationfm-underground-high.mp3
-#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_rap_us_gold.png" group-title="(.*);(.*);",Generations Rap US Gold
-http://gene-wr08.ice.infomaniak.ch/gene-wr08.aac
-#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_rap_us_gold.png" group-title="(.*);(.*);",Generations Rap US Gold
-http://gene-wr08.ice.infomaniak.ch/gene-wr08.mp3
-#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_-reggae.png" group-title="(.*);(.*);",Generations Reggae
-http://generations-caraibes.ice.infomaniak.ch/generations-caraibes-high.mp3
-#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_-reggae.png" group-title="(.*);(.*);",Generations Reggae
-http://generations-caraibes.ice.infomaniak.ch/generations-caraibes-high.aac
-#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_reggaeton1.png" group-title="(.*);(.*);",Generations Reggaeton
-http://gene-rgton.ice.infomaniak.ch/generations-rgton.mp3
-#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_reggaeton1.png" group-title="(.*);(.*);",Generations Reggaeton
-http://gene-rgton.ice.infomaniak.ch/generations-rgton.aac
-#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_generations-rohff-logo-smartphone1.png" group-title="(.*);(.*);",Generations Rohff
-http://generation-rohff.ice.infomaniak.ch/generation-rohff.mp3
-#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_generations-rohff-logo-smartphone1.png" group-title="(.*);(.*);",Generations Rohff
-http://generation-rohff.ice.infomaniak.ch/generation-rohff.aac
-#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_slowjam.png" group-title="(.*);(.*);",Generations SlowJam
-http://gene-wr11.ice.infomaniak.ch/gene-wr11.mp3
-#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_slowjam.png" group-title="(.*);(.*);",Generations SlowJam
-http://gene-wr11.ice.infomaniak.ch/gene-wr11.aac
-#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_soul.png" group-title="(.*);(.*);",Generations Soul
-http://gene-wr07.ice.infomaniak.ch/gene-wr07.mp3
-#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_soul.png" group-title="(.*);(.*);",Generations Soul
-http://gene-wr07.ice.infomaniak.ch/gene-wr07.aac
-#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_generations-wati-b-logo-smartphone.png" group-title="(.*);(.*);",Generations Wati B
-http://generations-wati-b.ice.infomaniak.ch/generations-wati-b.mp3
-#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_generations-wati-b-logo-smartphone.png" group-title="(.*);(.*);",Generations Wati B
-http://generations-wati-b.ice.infomaniak.ch/generations-wati-b.aac
-#EXTINF:-1 tvg-logo="http://ecouter.lesindesradios.fr/applications/latina/latina.png" group-title="(.*);(.*);",Latina
-https://start-latina.ice.infomaniak.ch/start-latina-high.mp3
-#EXTINF:-1 tvg-logo="https://ecouter.lesindesradios.net/logos/orange323.png" group-title="(.*);(.*);",LATINA @WORK
-https://latinawork.ice.infomaniak.ch/latinawork.mp3
-#EXTINF:-1 tvg-logo="https://ecouter.lesindesradios.net/logos/orange324.png" group-title="(.*);(.*);",LATINA BACHATA
-https://latinabachata.ice.infomaniak.ch/latinabachata.mp3
-#EXTINF:-1 tvg-logo="https://ecouter.lesindesradios.net/logos/orange329.png" group-title="(.*);(.*);",LATINA FIESTA
-https://latinafiesta.ice.infomaniak.ch/latinafiesta.mp3
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/angdguktmyqv.png" group-title="(.*);(.*);",LATINA KIZOMBA
-https://latinakizomba.ice.infomaniak.ch/latinakizomba.mp3
-#EXTINF:-1 tvg-logo="https://ecouter.lesindesradios.net/logos/orange326.png" group-title="(.*);(.*);",LATINA LOVE
-https://latinalove.ice.infomaniak.ch/latinalove.mp3
-#EXTINF:-1 tvg-logo="https://ecouter.lesindesradios.net/logos/orange327.png" group-title="(.*);(.*);",LATINA REGGAETON
-https://latinareggaeton.ice.infomaniak.ch/latinareggaeton.mp3
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/grygplpc5wmd.png" group-title="(.*);(.*);",LATINA SALSA
-https://latinasalsa.ice.infomaniak.ch/latinasalsa.mp3
-#EXTINF:-1 tvg-logo="http://www.chantefrance.com/public/img/logo.png" group-title="(.*);(.*);",Chante France
-https://chantefrance.ice.infomaniak.ch/chantefrance-128.mp3
-#EXTINF:-1 tvg-logo="http://www.chantefrance.com/public/img/logo.png" group-title="(.*);(.*);",Chante France 60's
-https://chantefrance60s.ice.infomaniak.ch/chantefrance60s-128.mp3
-#EXTINF:-1 tvg-logo="http://www.chantefrance.com/public/img/logo.png" group-title="(.*);(.*);",Chante France 70's
-https://chantefrance70s.ice.infomaniak.ch/chantefrance70s-128.mp3
-#EXTINF:-1 tvg-logo="http://www.chantefrance.com/public/img/logo.png" group-title="(.*);(.*);",Chante France 80's
-https://chantefrance80s.ice.infomaniak.ch/chantefrance80s-128.mp3
-#EXTINF:-1 tvg-logo="http://www.chantefrance.com/public/img/logo.png" group-title="(.*);(.*);",Chante France Emotion
-https://chantefranceemotion.ice.infomaniak.ch/chantefranceemotion-128.mp3
-#EXTINF:-1 tvg-logo="https://www.chantefrance.com/public/img/favico.png" group-title="(.*);(.*);",Chante France Nouveautés
-https://chantefrancenouveautes.ice.infomaniak.ch/chantefrancenouveautes-96.aac
-#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/champagnefm/radiostream/yX0MCLvoee/vignette_0a4hbFXuBR.jpeg" group-title="(.*);(.*);",Champagne FM Acoustic
-https://stream.rcs.revma.com/7m29ad1at18uv
-#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/champagnefm/radiostream/chHQL0maML/vignette_GE0oGotCSM.png" group-title="(.*);(.*);",Champagne FM Châlons-en-Champagne
-https://chalons.ice.infomaniak.ch/chalons-128.mp3
-#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/champagnefm/radiostream/chHQL0maML/vignette_GE0oGotCSM.png" group-title="(.*);(.*);",Champagne FM Château-Thierry
-https://chateauthierry.ice.infomaniak.ch/chateauthierry-128.mp3
-#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/champagnefm/radiostream/chHQL0maML/vignette_GE0oGotCSM.png" group-title="(.*);(.*);",Champagne FM Charleville-Mézières
-https://charleville.ice.infomaniak.ch/charleville-128.mp3
-#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/champagnefm/radiostream/chHQL0maML/vignette_GE0oGotCSM.png" group-title="(.*);(.*);",Champagne FM Epernay
-https://epernay.ice.infomaniak.ch/epernay-128.mp3
-#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/champagnefm/radiostream/SbiQhZfdCN/vignette_jhZtGIeqSE.jpeg" group-title="(.*);(.*);",Champagne FM Love
-https://stream.rcs.revma.com/gxsrs20at18uv
-#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/champagnefm/radiostream/aAfHdr27SB/vignette_lR8HHg5rzr.jpeg" group-title="(.*);(.*);",Champagne FM Party
-https://stream.rcs.revma.com/w1f0060at18uv
-#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/champagnefm/radiostream/szK6ySxSUW/vignette_87NYlNfmgD.jpeg" group-title="(.*);(.*);",Champagne FM Pop Music
-https://stream.rcs.revma.com/5q0f594at18uv
-#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/champagnefm/radiostream/chHQL0maML/vignette_GE0oGotCSM.png" group-title="(.*);(.*);",Champagne FM Reims
-https://reims.ice.infomaniak.ch/reims-128.mp3
-#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/champagnefm/radiostream/chHQL0maML/vignette_GE0oGotCSM.png" group-title="(.*);(.*);",Champagne FM Reims
-https://stream.rcs.revma.com/9nq0kz1gy7uvv
-#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/champagnefm/radiostream/chHQL0maML/vignette_GE0oGotCSM.png" group-title="(.*);(.*);",Champagne FM Rethel
-https://rethel.ice.infomaniak.ch/rethel-128.mp3
-#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/champagnefm/radiostream/chHQL0maML/vignette_GE0oGotCSM.png" group-title="(.*);(.*);",Champagne FM Troyes
-https://troyes.ice.infomaniak.ch/troyes-128.mp3
-#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/champagnefm/radiostream/chHQL0maML/vignette_GE0oGotCSM.png" group-title="(.*);(.*);",Champagne FM Vitry-le-François/Saint-Dizier
-https://vitry-stdizier.ice.infomaniak.ch/vitry-stdizier-128.mp3
-#EXTINF:-1 tvg-logo="http://mradio.fr/icon-normal.png" group-title="(.*);(.*);",M Radio
-http://mfm.ice.infomaniak.ch/mfm-128.mp3
-#EXTINF:-1 tvg-logo="https://mradio.fr/apple-touch-icon-120x120.png" group-title="(.*);(.*);",M Radio 100% Céline Dion
-http://mfmwr-023.ice.infomaniak.ch/mfmwr-023.mp3
-#EXTINF:-1 tvg-logo="http://mradio.fr/icon-normal.png" group-title="(.*);(.*);",M Radio 100% Comédies Musicales
-http://mfmwr-014.ice.infomaniak.ch/mfmwr-014.mp3
-#EXTINF:-1 tvg-logo="http://mradio.fr/icon-normal.png" group-title="(.*);(.*);",M Radio 100% Enfoirés
-http://mfmwr-011.ice.infomaniak.ch/mfmwr-011.mp3
-#EXTINF:-1 tvg-logo="https://mradio.fr/apple-touch-icon-120x120.png" group-title="(.*);(.*);",M Radio 100% Goldman
-http://mfmwr-016.ice.infomaniak.ch/mfmwr-016.mp3
-#EXTINF:-1 tvg-logo="http://mradio.fr/icon-normal.png" group-title="(.*);(.*);",M Radio 100% Johnny
-http://mfmwr-006.ice.infomaniak.ch/mfmwr-006.mp3
-#EXTINF:-1 tvg-logo="https://mradio.fr/media/radio/thumb/90x90_live-52658.png" group-title="(.*);(.*);",M Radio 100% Live
-http://mfmwr-008.ice.infomaniak.ch/mfmwr-008.mp3
-#EXTINF:-1 tvg-logo="https://mradio.fr/apple-touch-icon-120x120.png" group-title="(.*);(.*);",M Radio 100% Nougaro
-http://mfmwr-007.ice.infomaniak.ch/mfmwr-007.mp3
-#EXTINF:-1 tvg-logo="https://mradio.fr/apple-touch-icon-120x120.png" group-title="(.*);(.*);",M Radio 100% Québec
-http://mfmwr-004.ice.infomaniak.ch/mfmwr-004.mp3
-#EXTINF:-1 tvg-logo="http://mradio.fr/icon-normal.png" group-title="(.*);(.*);",M Radio Années 80 et 90
-http://mfmwr-010.ice.infomaniak.ch/mfmwr-010.mp3
-#EXTINF:-1 tvg-logo="https://uk.radio.net/images/broadcasts/03/34/131223/1/c300.png" group-title="(.*);(.*);",M Radio Chansons d'Amour
-http://mfmwr-026.ice.infomaniak.ch/mfmwr-026.mp3
-#EXTINF:-1 tvg-logo="http://mradio.fr/icon-normal.png" group-title="(.*);(.*);",M Radio Culte Années 60 et 70
-http://mfmwr-022.ice.infomaniak.ch/mfmwr-022.mp3
-#EXTINF:-1 tvg-logo="https://mradio.fr/apple-touch-icon-120x120.png" group-title="(.*);(.*);",M Radio Duos
-http://mfmwr-015.ice.infomaniak.ch/mfmwr-015.mp3
-#EXTINF:-1 tvg-logo="http://mradio.fr/icon-normal.png" group-title="(.*);(.*);",M Radio Francophonie
-http://mfmwr-018.ice.infomaniak.ch/mfmwr-018.mp3
-#EXTINF:-1 tvg-logo="http://mradio.fr/icon-normal.png" group-title="(.*);(.*);",M Radio French Touch
-http://mfmwr-003.ice.infomaniak.ch/mfmwr-003.mp3
-#EXTINF:-1 tvg-logo="https://mradio.fr/favicon-144.png" group-title="(.*);(.*);",M Radio Génériques TV
-http://mfmwr-021.ice.infomaniak.ch/mfmwr-021.mp3
-#EXTINF:-1 tvg-logo="http://mradio.fr/icon-normal.png" group-title="(.*);(.*);",M Radio Nouvelle Scène
-http://mfmwr-012.ice.infomaniak.ch/mfmwr-012.mp3
-#EXTINF:-1 tvg-logo="https://mradio.fr/apple-touch-icon-120x120.png" group-title="(.*);(.*);",M Radio Séducteurs
-http://mfmwr-017.ice.infomaniak.ch/mfmwr-017.mp3
-#EXTINF:-1 tvg-logo="https://mradio.fr/apple-touch-icon-120x120.png" group-title="(.*);(.*);",M Radio St Valentin
-http://mfm-thema.ice.infomaniak.ch/mfm-thema.mp3
-#EXTINF:-1 tvg-logo="https://mradio.fr/apple-touch-icon-120x120.png" group-title="(.*);(.*);",M Radio Talents TV
-http://mfmwr-025.ice.infomaniak.ch/mfmwr-025.mp3
-#EXTINF:-1 tvg-logo="https://mradio.fr/apple-touch-icon-120x120.png" group-title="(.*);(.*);",M Radio Tubes du Grenier
-http://mfmwr-001.ice.infomaniak.ch/mfmwr-001.mp3
-#EXTINF:-1 tvg-logo="http://mradio.fr/icon-normal.png" group-title="(.*);(.*);",M Radio Voix du Sud
-http://voix-du-sud.ice.infomaniak.ch/voix-du-sud.mp3
-#EXTINF:-1 tvg-logo="http://mradio.fr/icon-normal.png" group-title="(.*);(.*);",M Radio Voix Féminines
-http://mfmwr-013.ice.infomaniak.ch/mfmwr-013.mp3
-#EXTINF:-1 tvg-logo="http://mradio.fr/icon-normal.png" group-title="(.*);(.*);",M Radio Yéyé
-http://mfmwr-009.ice.infomaniak.ch/mfmwr-009.mp3
+#EXTINF:-1 tvg-logo="https://www.h2oradio.fr/images/logo_h2O_reseaux.png" group-title="(.*);(.*);",H2O Radio Lac d'Annecy 94.8
+https://rod.frequence3.net/h2oradio.flac
+#EXTINF:-1 tvg-logo="https://www.radio.fr/300/h2o.png?version=c0e59ed89c8e4e9bf8dd5e86db3db08e" group-title="(.*);(.*);",H2O Radio a l'Heure de l'Ouest 90.1
+https://rod.frequence3.net/h2o-90al.mp3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1FgdIv7fY6BwWuWuGNNMsDqyrXolhS0oHgDHhXVSJMWL0TLYj1XBh-M_hpPT6f2s1pI8&usqp=CAU" group-title="(.*);(.*);",H2O Radio Grand Annecy
+https://rod.frequence3.net/h2o-annecy-dab
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1FgdIv7fY6BwWuWuGNNMsDqyrXolhS0oHgDHhXVSJMWL0TLYj1XBh-M_hpPT6f2s1pI8&usqp=CAU" group-title="(.*);(.*);",H2O Radio Chambéry
+https://rod.frequence3.net/h2o-chambery-dab
