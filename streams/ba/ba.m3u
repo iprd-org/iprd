@@ -39,6 +39,8 @@ https://de1.internet-radio.com/proxy/radioosm?mp=/stream
 https://securestream.pakaoradio.net/live
 #EXTINF:-1 tvg-logo="http://radio8.ba/img/radio_favicon.png" group-title="classic;rock;pop",Radio 8 106.8
 https://radio8-bhcloud.radioca.st/1.mp3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Logotip_rebrendirani_ATV.png" group-title="news;talk;variety",Radio A 94.4
+https://aradiostream.atvbl.com/live
 #EXTINF:-1 tvg-logo="https://dvw7f7sqjk3ag.cloudfront.net/images/radio/63366.jpg" group-title="news;hits",Radio ASK 89.9
 http://198.7.62.157:10000/;
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMvCMBxzgH0Srqcyi97f4yJlAyVLW_0aKlhA&s" group-title="news;talk;variety",Radio Bihac 94.7
@@ -167,10 +169,20 @@ http://185.252.234.112:30000/;stream
 https://c2.radioboss.fm:18249/stream
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Logo_of_RTVUSK.png/250px-Logo_of_RTVUSK.png" group-title="news;talk;variety",Radio USK
 https://radiousk.radioca.st/stream
+#EXTINF:-1 tvg-logo="https://www.exyuradio.net/pub/catalog/thumbs1/radio-usora-bih-uzivo.jpg" group-title="news;talk;variety",Radio Usora 98.7
+http://78.46.64.6:8080/;
+#EXTINF:-1 tvg-logo="https://www.radio.net/300/rvk.png?version=ba8d7faf698380746904642102b370f4" group-title="news;talk;variety",Radio Velika Kladusa 89.1
+https://rvk2021.radioca.st/stream
+#EXTINF:-1 tvg-logo="https://fastcast4u.com/player/radiovgd/_user/logo/r/radiovgd/ch0.png" group-title="news;talk;variety",Radio Visegrad 104.0
+https://usa7.fastcast4u.com/proxy/radiovgd?mp=/1
 #EXTINF:-1 tvg-logo="https://www.visoko-rtv.ba/wp-content/uploads/2019/07/visocka_icon.png" group-title="talk;news",Radio Visoko 92.3
 http://188.40.62.20:8080/
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC2wTRHiYWEqSRBrlfaVfsWe6pqWxqeOa-WA&s" group-title="talk;news;variety",Radio Vitez 91.3
+https://radio.iti.hr/listen/radio_vitez/radio.mp3
 #EXTINF:-1 tvg-logo="http://www.rtvvogosca.ba/favicon.ico" group-title="news;talk;variety",Radio Vogošca 88.2
 http://188.40.62.20:8018/
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT4FCFy9lIQXlUQtbp73LH2o-1DG6r2ci9gOx2r4qs85HcTniNS" group-title="news;talk;variety",Radio Zenica
+http://server1.tnt.ba:9010/;
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/RSG_Logo.jpg" group-title="contemporary;hits;talk",RSG Radio 97.5
 https://stream.rsgmedia.ba/listen/radio_stari_grad/radio.mp3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/RSG_Logo.jpg" group-title="top 40;adult;contemporary",RSG Radio Stari Grad 102.8
