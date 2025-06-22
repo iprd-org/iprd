@@ -19,10 +19,22 @@ https://stream.radiobn.net/;?type=http&nocache=11
 http://94.130.11.28:9010/stream/1/
 #EXTINF:-1 tvg-logo="https://www.uzivoradio.net/wp-content/uploads/2011/08/college-banja-luka.jpg" group-title="college;variety;pop",College Radio Banja Luka 87.6
 http://198.178.123.8:8600/;*.mp3
+#EXTINF:-1 tvg-logo="https://tvradiotuner.com/radio/wp-content/uploads/Das-Extra-Radio-Bijeljina.jpg" group-title="contemporary;hits",Das Extra Radio 90.8
+http://158.69.119.6:8085/stream?type=http&nocache=454
+#EXTINF:-1 tvg-logo="https://www.radio.net/300/radiodas.png?version=0c91372edd06eb170a957265d340d144" group-title="contemporary;hits",Das Radio
+http://158.69.119.6:8095/stream?type=http&nocache=32
+#EXTINF:-1 tvg-logo="https://www.uzivoradio.net/wp-content/uploads/2015/01/drukciji-radio-novi-travnik.jpg" group-title="news;talk;variety",Drukciji Radio 94.7
+https://stream.drukciji.ba:9998/4
 #EXTINF:-1 tvg-logo="https://www.allradio.net/500/mCkwOg7jIssdVpsQKZzC2.webp" group-title="news;variety;talk",Dub Radio 96.7
 https://s1.mojstream.eu:8162/;
 #EXTINF:-1 tvg-logo="https://www.uzivoradio.net/wp-content/uploads/2020/11/federalni-radio-sarajevo-600x315.jpg" group-title="variety;news;talk",Federalni Radio 89.3
 https://s2.free-shoutcast.com/stream/18170
+#EXTINF:-1 tvg-logo="https://freeradioprijedor.com/wp-content/uploads/2024/06/images.png" group-title="variety;news;talk",Free Radio Prijedor 98.3
+https://vestreams.com/8008/stream
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvPi8VA5Y8nE9rB3w12Wtv_DH8mOSMnGPYBQ&s" group-title="rock;metal",Hard Rock Radio 102.7
+https://stream.hardrockradio.net/live
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKgKi-gcQzQvVh4L_5P0fY6PcpzgP1S658wQ&s" group-title="news;talk;variety",Hrvatski Radio Bobovac
+https://sonicpanel.vmakerhost.com/8027/stream
 #EXTINF:-1 tvg-logo="https://www.internet-radio-gvm.com/images/Web/gvm_novi_logo.png" group-title="pop;rock;hip hop",Internet Radio GVM
 http://178.33.135.246:5726/arabellavie
 #EXTINF:-1 tvg-logo="https://www.kupreskiradio.com/favicon.ico" group-title="pop;top 40",Kupreški Radio
