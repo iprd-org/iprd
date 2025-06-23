@@ -37,18 +37,30 @@ https://stream.hardrockradio.net/live
 https://sonicpanel.vmakerhost.com/8027/stream
 #EXTINF:-1 tvg-logo="https://www.internet-radio-gvm.com/images/Web/gvm_novi_logo.png" group-title="pop;rock;hip hop",Internet Radio GVM
 http://178.33.135.246:5726/arabellavie
+#EXTINF:-1 tvg-logo="https://www.slusaj-radio.com/medias/thumbnail/929/200-radio-k3.jpg" group-title="news;talk;variety",K3 Radio Prnjavor
+https://s1.mojstream.eu:9164/stream?icy=http
+#EXTINF:-1 tvg-logo="https://www.uzivoradio.net/wp-content/uploads/2012/11/korona-trebinje-1.jpg" group-title="news;talk;variety",Korona Radio 1
+https://stream.koronafm100.hu/mp3
 #EXTINF:-1 tvg-logo="https://www.kupreskiradio.com/favicon.ico" group-title="pop;top 40",Kupreški Radio
 http://178.209.2.100:10000/live.mp3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2cmLAze.png" group-title="pop;news;talk",Narodni Radio 105.2
 http://server1.tnt.ba:8010/
+#EXTINF:-1 tvg-logo="https://www.radio-feral.ba/wp-content/uploads/2022/10/FERAL-LOGO-STRANICA-WEB.jpg" group-title="rock;world",Neovisni Radio Feral 100.4
+http://185.50.56.3/;
 #EXTINF:-1 tvg-logo="http://www.nesradio.com//favicon.ico" group-title="contemporary;hits",Nes Radio
 http://188.40.62.20:8070/listen.pls
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/b0/65/b06580d1be661e014350d3b02fc5d99a.png" group-title="contemporary;hits",Novi Radio Bihac
+http://cast2.name.ba:8119/stream/;
+#EXTINF:-1 tvg-logo="https://dvw7f7sqjk3ag.cloudfront.net/images/radio/63427.jpg" group-title="urban;talk;news",Obican Radio
+https://stream.leftor.com/proxy/obicanin/stream/;stream.mp3
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBwKRIY9HXr59IESaYda77VZDisY6i8DggLg&s" group-title="variety;pop;folk",ORV Radio
 https://otv.ovh/live_radio/orv/icecast.audio
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mXIypEpxNifxG2cXn74QFDv_JHeZK1RvXvYX0N75keog=s900-c-k-c0x00ffffff-no-rj" group-title="folk;world",OSM Radio 93.6
 https://de1.internet-radio.com/proxy/radioosm?mp=/stream
 #EXTINF:-1 tvg-logo="https://www.pakaoradio.net/img/bigthumb.jpg" group-title="rock;hits",Pakao Radio
 https://securestream.pakaoradio.net/live
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT65Dx78z9-BuBLbKkLeKlQy40-g0r_qs0LKQ&s" group-title="news;talk;variety",Plavi 105.3
+http://www.s7.voscast.com:9922/;
 #EXTINF:-1 tvg-logo="http://radio8.ba/img/radio_favicon.png" group-title="classic;rock;pop",Radio 8 106.8
 https://radio8-bhcloud.radioca.st/1.mp3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Logotip_rebrendirani_ATV.png" group-title="news;talk;variety",Radio A 94.4
