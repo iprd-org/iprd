@@ -61,12 +61,24 @@ https://de1.internet-radio.com/proxy/radioosm?mp=/stream
 https://securestream.pakaoradio.net/live
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT65Dx78z9-BuBLbKkLeKlQy40-g0r_qs0LKQ&s" group-title="news;talk;variety",Plavi 105.3
 http://www.s7.voscast.com:9922/;
+#EXTINF:-1 tvg-logo="https://dvw7f7sqjk3ag.cloudfront.net/images/radio/63413.jpg" group-title="news;talk;variety",Pop 97.6
+https://solid1.streamupsolutions.com/proxy/bnwmfvnq/POPFM
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Current_Logo_of_the_radio_station_WPST_on_94.5_FM.png" group-title="contemporary;hits",PST Radio 94.5
+https://solid1.streamupsolutions.com/proxy/bnwmfvnq/POPFM
 #EXTINF:-1 tvg-logo="http://radio8.ba/img/radio_favicon.png" group-title="classic;rock;pop",Radio 8 106.8
 https://radio8-bhcloud.radioca.st/1.mp3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGCb55nwbXlGdt0kDoQoKjG1_Eo7Du5BR7AQ&s" group-title="variety;talk",Radio 1503 Zavidovici
+http://cast2.name.ba:8077/;
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Logotip_rebrendirani_ATV.png" group-title="news;talk;variety",Radio A 94.4
 https://aradiostream.atvbl.com/live
+#EXTINF:-1 tvg-logo="https://radioarena.ba/wp-content/uploads/2021/06/Radio-Arena-Logo-2-300x232.jpg" group-title="news;talk;variety",Radio Arena 104.6
+http://dione.shoutca.st:8229/;
 #EXTINF:-1 tvg-logo="https://dvw7f7sqjk3ag.cloudfront.net/images/radio/63366.jpg" group-title="news;hits",Radio ASK 89.9
 http://198.7.62.157:10000/;
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA6wAIYvw6DyL06hxokVgGv7IF4-I1qkkXcg&s" group-title="news;talk;variety",Radio Avaz
+http://51.254.61.148:8222/;
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/Logo_of_Radio_BA.png" group-title="contemporary;hits",Radio BA
+https://radioba.ba:9443/stream/1/
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMvCMBxzgH0Srqcyi97f4yJlAyVLW_0aKlhA&s" group-title="news;talk;variety",Radio Bihac 94.7
 https://radiobihaclive.radioca.st/;
 #EXTINF:-1 tvg-logo="https://www.uzivoradio.net/wp-content/uploads/2018/09/bileca.jpg" group-title="news;talk;variety",Radio Bileca 92.2
@@ -81,6 +93,8 @@ https://stream.leftor.com/proxy/radiobk/stream/;stream.mp3
 http://89.111.229.113:7200/petrovac
 #EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/84/ad/12631/c300.png" group-title="talk;news",Radio Brcko District
 http://91.191.0.45:8000/
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3RQyHYDX2nF9f55jaoigCyTN3vOVTS65yBw&s" group-title="talk;news;variety",Radio Breza 100.1
+https://sonicpanel.vmakerhost.com/8192/stream
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbIiM1oKnJGzfQv7AvR-pBrwcDN2Vgc_BbvA&s" group-title="talk;news;variety",Radio Brod 92.2
 http://194.145.208.251:8010/stream
 #EXTINF:-1 tvg-logo="https://www.uzivoradio.net/wp-content/uploads/2020/09/bugojno.jpg" group-title="talk;news;variety",Radio Bugojno 101.0
