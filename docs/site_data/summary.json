@@ -1,5 +1,5 @@
 {
-  "total_stations": 22303,
+  "total_stations": 22340,
   "total_countries": 228,
   "countries": [
     {
@@ -127,6 +127,10 @@
       "count": 114
     },
     {
+      "code": "BA",
+      "count": 113
+    },
+    {
       "code": "ID",
       "count": 103
     },
@@ -153,10 +157,6 @@
     {
       "code": "ZA",
       "count": 77
-    },
-    {
-      "code": "BA",
-      "count": 76
     },
     {
       "code": "DZ",
@@ -1839,7 +1839,7 @@
     {
       "code": "BA",
       "file": "streams/ba/ba.m3u",
-      "count": 76
+      "count": 113
     },
     {
       "code": "MK",
@@ -2224,48 +2224,48 @@
         "count": 20627
       },
       {
+        "name": "news",
+        "count": 401
+      },
+      {
         "name": "pop",
         "count": 382
       },
       {
-        "name": "news",
-        "count": 372
-      },
-      {
         "name": "variety",
-        "count": 271
+        "count": 300
       },
       {
         "name": "talk",
-        "count": 264
+        "count": 294
       },
       {
         "name": "hits",
-        "count": 211
+        "count": 216
+      },
+      {
+        "name": "rock",
+        "count": 178
       },
       {
         "name": "community",
         "count": 177
       },
       {
-        "name": "rock",
-        "count": 176
-      },
-      {
         "name": "world",
-        "count": 125
+        "count": 126
       },
       {
         "name": "public",
         "count": 97
       },
       {
-        "name": "top 40",
-        "count": 91
+        "name": "contemporary",
+        "count": 95
       },
       {
-        "name": "contemporary",
-        "count": 90
+        "name": "top 40",
+        "count": 91
       },
       {
         "name": "sports",
@@ -2417,5 +2417,5 @@
       }
     ]
   },
-  "updated": "2025-06-18T02:02:21Z"
+  "updated": "2025-06-25T02:04:07Z"
 }
