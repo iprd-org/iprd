@@ -143,12 +143,20 @@ https://stream.leftor.com/proxy/radiois/stream/;stream.mp3
 https://stream.leftor.com/proxy/rtvjablanica/stream/;stream.mp3
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkW6P-Bo7o1b_SAlmxqnczIAIcCNR2l2SyVg&s" group-title="news;talk;variety",Radio Jajce 92.0
 https://s8.iqstreaming.com:8034/stream
+#EXTINF:-1 tvg-logo="https://radiokakanj.co.ba/wp-content/uploads/2023/01/RadioKakanj_logo_02.png" group-title="variety;folk",Radio Kakanj 87.9
+http://cast2.name.ba:8067/;
 #EXTINF:-1 tvg-logo="https://bosnia-herzegovina.mom-gmr.org/uploads/tx_lfrogmom/media/722-2443_import.png" group-title="variety;folk",Radio Kalman 91.2
 http://188.40.62.20:8004/stream
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/PHWEJy-oWLhUbrtX2Cr7C_QLqlDiWfwFmy4EJWOHL2r1Q9ri3cLvJACAYOItcpwL2SQ" group-title="top 40;pop",Radio Kameleon 102.7
+https://radiokameleon.radioca.st/;?1750912058131
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvGfzE_BUvu1D2rs5eAxV2ovF_KK8kwO44eA&s" group-title="contemporary;hits",Radio Kiss 92.7
 http://stream.kissfm.ba:8010/live
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9kxo5nIk9kfhzDrCLe6gMrDUBetx8u5fFPQ&s" group-title="news;talk;variety",Radio Konjic 95.0
 https://s3.free-shoutcast.com/stream/18056ic-uzivo/
+#EXTINF:-1 tvg-logo="https://dvw7f7sqjk3ag.cloudfront.net/images/radio/63407.png" group-title="news;talk;variety",Radio Kontakt 99.3
+http://s1.mojstream.eu:8114/;?type=http&nocache=453
+#EXTINF:-1 tvg-logo="https://www.uzivoradio.net/wp-content/uploads/2018/03/kozara-gradiska-1-240x126.jpg" group-title="news;talk;variety",Radio Kozara
+http://51.254.61.148:11111/;stream.mp3
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS5enkNjsS8f53kigmnz3xe6nYxQmHesF6mA&s" group-title="news;talk;variety",Radio Kupres
 https://ec2s.crolive.com.hr:1265/stream
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTcB4VwCNlJgSqYnb9dVGp2b-KkGwjkwjkAQ&s" group-title="news;talk;variety",Radio Livno 91.5
@@ -159,6 +167,10 @@ https://s8.iqstreaming.com:8044/stream
 http://195.222.33.217:8022/;stream
 #EXTINF:-1 tvg-logo="https://www.radio.net/300/radiom.png?version=582eb1b30a96b431ae1d9a15843afd3a" group-title="contemporary;hits",Radio M 98.7
 https://team-data.ba:9030//;
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb_QcqBUnpUgkn3UJ7Cuq7hCyR7CwGszl8cg&s" group-title="folk;pop;talk",Radio Magic
+https://stream.iradio.pro/proxy/magicnarodniradio?mp=/streamig
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHn5JQArCgG09JvWdqeopHUDYeF6zerssS4w&s" group-title="news;talk;variety",Radio Majevica 87.9
+https://live.radiomajevica.com:7520/live
 #EXTINF:-1 tvg-logo="https://www.radiomarija.ba///favicon.ico" group-title="catholic;religion",Radio Marija 103.3
 http://dreamsiteradiocp.com:8034/stream
 #EXTINF:-1 tvg-logo="https://img2.tubidy.fm/img350bf361888400808b9.png" group-title="variety;folk",Radio Miljacka 95.2
