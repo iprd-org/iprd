@@ -231,6 +231,10 @@ https://live-hls-web-ajb-fa.thehlive.com/AJB/index.m3u8
 http://radio.studiod.ba:8018/;
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/yCIx26EVr_ceGXcumonJkgR5RR1XXteXyQY4F8ttaLl0kR6GEYkMtE6qWGMKlFN6J64" group-title="news;talk;variety",Radio Studio M
 https://stream.leftor.com/proxy/studiom2/stream/;stream.mp3;
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgK-bVQ-1i7wN3jErRFjgdrXuOzWu4HuyPkA&s" group-title="news;talk;variety",Radio Tesanj 92.2
+http://radio.daj.ba:8082/;
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO1y19AeuqyVTHAN0oVjnBeNQgY5sG0l0GNw&s" group-title="news;talk;variety",Radio TNT Sarajevo 101.2
+https://server1.tnt.ba/proxy/tntsa?mp=/stream1
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkmsE8OAlnBpZkSUVFh9l6H6q0ZNvOwrNc8A&s" group-title="news;talk;variety",Radio Tomislavgrad
 https://a4.asurahosting.com:7110/radio.mp3
 #EXTINF:-1 tvg-logo="https://www.exyuradio.net/pub/catalog/radio-trebinje.jpg" group-title="news;talk;variety",Radio Trebinje
@@ -247,6 +251,8 @@ https://radiousk.radioca.st/stream
 http://78.46.64.6:8080/;
 #EXTINF:-1 tvg-logo="https://www.radio.net/300/rvk.png?version=ba8d7faf698380746904642102b370f4" group-title="news;talk;variety",Radio Velika Kladusa 89.1
 https://rvk2021.radioca.st/stream
+#EXTINF:-1 tvg-logo="https://bosnia-herzegovina.mom-gmr.org/uploads/_processed_/b/1/csm_726-2443_import_0abfb7c5f5.png" group-title="news;talk;variety",Radio Velkaton 107.0
+http://188.40.62.20:8044/;stream.mp3?_=1
 #EXTINF:-1 tvg-logo="https://fastcast4u.com/player/radiovgd/_user/logo/r/radiovgd/ch0.png" group-title="news;talk;variety",Radio Visegrad 104.0
 https://usa7.fastcast4u.com/proxy/radiovgd?mp=/1
 #EXTINF:-1 tvg-logo="https://www.visoko-rtv.ba/wp-content/uploads/2019/07/visocka_icon.png" group-title="talk;news",Radio Visoko 92.3
@@ -257,7 +263,13 @@ https://radio.iti.hr/listen/radio_vitez/radio.mp3
 http://188.40.62.20:8018/
 #EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT4FCFy9lIQXlUQtbp73LH2o-1DG6r2ci9gOx2r4qs85HcTniNS" group-title="news;talk;variety",Radio Zenica
 http://server1.tnt.ba:9010/;
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT48j4AZkP6j_ViU_A3l5Q5kVGZJ3rNA-Nytw&s" group-title="news;talk;variety",Radio Zenit 100.7
+https://uzivo.zenit.ba/stream/
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/v1dh69NZT-ZPVzeJxvxubHisyHWtmy19N-QZjJ3xmYMkRtFrbKsKjFQ-6qTLV8LXPmWH6E6S_g=s900-c-k-c0x00ffffff-no-rj" group-title="news;talk;variety",Radio Zos 107.0
+https://zosradio.radioca.st/;
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/RSG_Logo.jpg" group-title="contemporary;hits;talk",RSG Radio 97.5
 https://stream.rsgmedia.ba/listen/radio_stari_grad/radio.mp3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/RSG_Logo.jpg" group-title="top 40;adult;contemporary",RSG Radio Stari Grad 102.8
 https://stream.rsgmedia.ba/listen/radio_stari_grad/radio.mp3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmguaOfEuM7LoJrDIVRTTKgoRek0HuOfI7qw&s" group-title="news;talk;variety",Trend Radio 91.6
+https://trendradio-codus.radioca.st/;
