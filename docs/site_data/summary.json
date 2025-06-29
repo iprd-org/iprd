@@ -1,5 +1,5 @@
 {
-  "total_stations": 22340,
+  "total_stations": 22364,
   "total_countries": 228,
   "countries": [
     {
@@ -115,6 +115,10 @@
       "count": 147
     },
     {
+      "code": "BA",
+      "count": 137
+    },
+    {
       "code": "AT",
       "count": 133
     },
@@ -125,10 +129,6 @@
     {
       "code": "CO",
       "count": 114
-    },
-    {
-      "code": "BA",
-      "count": 113
     },
     {
       "code": "ID",
@@ -1839,7 +1839,7 @@
     {
       "code": "BA",
       "file": "streams/ba/ba.m3u",
-      "count": 113
+      "count": 137
     },
     {
       "code": "MK",
@@ -2225,19 +2225,19 @@
       },
       {
         "name": "news",
-        "count": 401
+        "count": 420
       },
       {
         "name": "pop",
-        "count": 382
+        "count": 385
       },
       {
         "name": "variety",
-        "count": 300
+        "count": 318
       },
       {
         "name": "talk",
-        "count": 294
+        "count": 315
       },
       {
         "name": "hits",
@@ -2245,7 +2245,7 @@
       },
       {
         "name": "rock",
-        "count": 178
+        "count": 179
       },
       {
         "name": "community",
@@ -2265,7 +2265,7 @@
       },
       {
         "name": "top 40",
-        "count": 91
+        "count": 92
       },
       {
         "name": "sports",
@@ -2293,7 +2293,7 @@
       },
       {
         "name": "folk",
-        "count": 60
+        "count": 62
       },
       {
         "name": "dance",
@@ -2400,6 +2400,10 @@
         "count": 13
       },
       {
+        "name": "urban",
+        "count": 13
+      },
+      {
         "name": "blues",
         "count": 13
       },
@@ -2410,12 +2414,8 @@
       {
         "name": "education",
         "count": 12
-      },
-      {
-        "name": "baroque",
-        "count": 12
       }
     ]
   },
-  "updated": "2025-06-25T02:04:07Z"
+  "updated": "2025-06-29T01:04:51Z"
 }
