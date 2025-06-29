@@ -71,6 +71,8 @@ https://radio8-bhcloud.radioca.st/1.mp3
 http://cast2.name.ba:8077/;
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Logotip_rebrendirani_ATV.png" group-title="news;talk;variety",Radio A 94.4
 https://aradiostream.atvbl.com/live
+#EXTINF:-1 tvg-logo="https://podcast.rs/wp-content/uploads/2021/04/radiyo-active-podcast.jpg.webp" group-title="community;variety",RadiyoActive 88.5
+https://activezenica.radiokitstream.org/activezenica.mp3
 #EXTINF:-1 tvg-logo="https://radioarena.ba/wp-content/uploads/2021/06/Radio-Arena-Logo-2-300x232.jpg" group-title="news;talk;variety",Radio Arena 104.6
 http://dione.shoutca.st:8229/;
 #EXTINF:-1 tvg-logo="https://dvw7f7sqjk3ag.cloudfront.net/images/radio/63366.jpg" group-title="news;hits",Radio ASK 89.9
@@ -113,6 +115,10 @@ http://5.9.71.122:8134/;stream.mp3
 http://89.111.241.37:8090/live1
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYZCyels-3XAnc-6IfSa-448DI5oZzLLm5Sw&s" group-title="news;talk;variety",Radio Dzungla
 https://cast2.name.ba/proxy/dzungla/stream
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYZCyels-3XAnc-6IfSa-448DI5oZzLLm5Sw&s" group-title="world;variety",Radio Dzungla 2
+https://cast2.name.ba/proxy/dzungla2/stream;
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYZCyels-3XAnc-6IfSa-448DI5oZzLLm5Sw&s" group-title="party;urban",Radio Dzungla 3
+https://cast2.name.ba/proxy/dzungla3/stream;
 #EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab67656300005f1fea92cba8db1f5c0100321565" group-title="news;talk;variety",Radio Feniks 94.7
 https://c30.radioboss.fm:18234/stream
 #EXTINF:-1 tvg-logo="https://www.exyuradio.net/pub/catalog/radio-foca-uzivo.jpg" group-title="news;talk;variety",Radio Foca 92.5
