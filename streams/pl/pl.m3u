@@ -864,7 +864,7 @@ http://s1.slotex.pl:7310/listen.pls
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/3/1893.v4.png" group-title="(.*);(.*);",Radio TOP80
 https://top80.pl:8000/listen.mp3
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUCS83EiYCX-OgmEN9wsu4MgpKGAmmOrhZLg&s" group-title="(.*);(.*);",Radio UWM 95.9
-http://213.184.18.156:8000/
+http://213.184.18.156:8000/;
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/5/1425.v5.png" group-title="(.*);(.*);",Radio Vanessa
 http://s1.slotex.pl:7358/listen.pls
 #EXTINF:-1 tvg-logo="https://www.radio.net/300/radiovictoriapl.png?version=78982e795c2452bdf493e8c6ad57b2ad" group-title="(.*);(.*);",Radio Victoria
