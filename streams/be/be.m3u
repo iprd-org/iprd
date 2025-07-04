@@ -5,9 +5,11 @@ http://centauri.shoutca.st:9021/listen.pls
 http://centauri.shoutca.st:9064/listen.pls
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSzelF4ogs_a6kyoGtn4oJD7imOEQQ-slYt8mdS7xL31KFQ1inbI5_uuv7NkhnVcbd2Rs&usqp=CAU" group-title="Variety;News;Culture",1 Mini 3
 http://centauri.shoutca.st:9060/listen.pls
+#EXTINF:-1 tvg-logo="https://48fm.com/wp-content/uploads/48FM_Logo-e1675251583838.webp" group-title="Rock;Arts;Culture",48FM 100.1
+https://stream.48fm.com:8000/48fm-64?rp_source=1&=&&___cb=592738638262229
 #EXTINF:-1 tvg-logo="https://www.ard-media.de/fileadmin/user_upload/radio/sender_und_kombis/bilder/sender_logo/Neue_Logos/Einzelsender/100-5_hitradio.png" group-title="Hits;News;Pop",100.5 Das Hitradio
 http://dashitradio-de-hz-fal-stream07-cluster01.radiohost.de/dashitradio_48?listenerrmid=31363430313039353030-34352e37372e36322e313631-3338303430-53747265616d436865636b426f742f302e312e30
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s218406/images/logog.png" group-title="Talk;Sports;News",American Forces Network 360 Benelux
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s218406/images/logog.png" group-title="Talk;Sports;News",AFN Benelux
 https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_BLX_SC
 #EXTINF:-1 tvg-logo="http://www.arabel.fm/wp-content/uploads/logo.jpg" group-title="Pop;Arabic;Berbér",AraBel 106.8
 http://arabelfm.ice.infomaniak.ch/arabelprodcastfm.mp3
@@ -17,9 +19,11 @@ https://arlradio.ice.infomaniak.ch/poste01.mp3
 http://belrtl.ice.infomaniak.ch/belrtl-mp3-192.mp3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f8/BelRTL_2008_%28logo%29.svg/langfr-220px-BelRTL_2008_%28logo%29.svg.png" group-title="Rock;Pop;Sports",Bel RTL
 http://audiostream.rtl.be/belrtl128
-#EXTINF:-1 tvg-logo="http://1.brf.be/wp-content/themes/brf-eins/assets/img/favicons/Icon-60@3x.png" group-title="Pop;Rock;German",BRF1
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ARGlwX6TosZUsLaB0e_Jkjjp896HdBXEiZ6jm-l3zZHu_GI2etKYODIDs8e2SqZ8XABu=w240-h480-rw" group-title="Armenian;Variety",BelgaHAY Radio
+https://streamer.radio.co/sa1357f891/listen?ver=667093
+#EXTINF:-1 tvg-logo="http://1.brf.be/wp-content/themes/brf-eins/assets/img/favicons/Icon-60@3x.png" group-title="Pop;Rock;German",BRF 1
 http://streaming.brf.be/brf1-high.mp3
-#EXTINF:-1 tvg-logo="http://2.brf.be/wp-content/themes/brf-zwei/assets/img/favicons/Icon-60@3x.png" group-title="German;Folk;Schlager",BRF2
+#EXTINF:-1 tvg-logo="http://2.brf.be/wp-content/themes/brf-zwei/assets/img/favicons/Icon-60@3x.png" group-title="German;Folk;Schlager",BRF 2
 http://streaming.brf.be/brf2-high.mp3
 #EXTINF:-1 tvg-logo="https://www.bruce-radio.be/uploads/3/9/6/3/3963899/editor/facebook-artwork-oktober-2021-miljoen.png?1635421307" group-title="Oldies;Rock",Bruce
 https://powerradio.level27.be/stream
@@ -47,10 +51,14 @@ http://equinoxefm.ddns.net:8000/stream.ogg
 http://live.radiostudio.be/enjoyfm
 #EXTINF:-1 tvg-logo="http://www.familyradio.be/images/jocks/jock_660_huisje.png" group-title="Classic;Hits;Schlager",Family Radio
 http://www.clubfmserver.be:8000/family.mp3
+#EXTINF:-1 tvg-logo="https://www.radioszene.de/wp-content/uploads/2020/02/fantasy-967-dancefm-fb2.png" group-title="Dance;Hip Hop;House",Fantasy Dance 96.7
+https://comeon.stream.laut.fm/comeon
 #EXTINF:-1 tvg-logo="https://groover-images.s3.eu-west-3.amazonaws.com/prod/influencer/0.flash-fm/profile_picture/200_200" group-title="80s;Chanson;Pop",Flash 88.4
 http://flashfm.ice.infomaniak.ch/flashfm-128
-#EXTINF:-1 tvg-logo="https://focusfantastic.com/wp-content/uploads/2020/10/focus-fantastic-80s-music.png" group-title="Dldies;Hits",Focus Fantastic
+#EXTINF:-1 tvg-logo="https://focusfantastic.com/wp-content/uploads/2020/10/focus-fantastic-80s-music.png" group-title="Oldies;Hits",Focus Fantastic
 http://sonic.magicdragon.nl:8002/stream
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/60/Logo-fr%C3%A9quence-eghez%C3%A9e.png" group-title="Pop;News;Top 40",Frequence Eghezee 104.9
+http://stream.fr-eghezee.be:8054/FE
 #EXTINF:-1 tvg-logo="http://frequenceplus.be/images/favicon_000.png" group-title="Hits;News",Fréquence Plus Andenne 106.6
 http://frequenceplusandenne.ice.infomaniak.ch/frequenceplusandenne-192
 #EXTINF:-1 tvg-logo="http://www.funradio.be/wp-content/themes/rise/assets/img/fav/apple-touch-icon.png" group-title="Contemporary;R'n'B;Dance",Fun Radio 104.7
@@ -171,6 +179,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_2_LIMBUR
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_2_OOSTVL_128.mp3
 #EXTINF:-1 tvg-logo="http://be.radioonline.fm/images/Radio-2-Vlaams-Brabant.png" group-title="Pop;Dutch",Radio 2 Vlaams-Brabant
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_2_VLAAMSBR_128.mp3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7CV7LIXEZ_Za8SWlHPTBNX8DWWENOT3yqOA&s" group-title="Oldies;German;Hits",Radio 700 90.1
+https://streaming.radio700.eu/radio700.mp3
 #EXTINF:-1 tvg-logo="https://www.radioaccent.be/favicon.ico" group-title="Pop;Rock",Radio Accent
 https://www.clubfmserver.be/accent.mp3
 #EXTINF:-1 tvg-logo="http://www.radioairlibre.be/bbpub.JPG" group-title="Alternative;News",Radio Air Libre 87.7
@@ -239,6 +249,8 @@ https://stream.radioscorpio.be/stream
 http://stream2.radiostad.org:8344/
 #EXTINF:-1 tvg-logo="http://www.rs1.be/img/RS1-logo.png" group-title="electronic;house;",Radio Studio One 107.1
 http://studiooneasbl.ice.infomaniak.ch/studiooneasbl-128.mp3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYW-nOwJF9WG5_eGCjOfVMNWEi7SOF09zB3g&s" group-title="Folk;Hits",Radio Sunshine 97.5
+http://stream.radio-sunshine.info/live
 #EXTINF:-1 tvg-logo="http://www.radiotamara.be/favicon.ico" group-title="70s;80s;90s;",Radio Tamara
 http://audiostreamen.nl:8006/
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s10358/images/logoq.jpg?t=152396" group-title="pop;hits;",Radio Tequila 105.1
@@ -331,7 +343,7 @@ https://25643.live.streamtheworld.com:443/TOPRETRO.mp3
 https://22603.live.streamtheworld.com:443/TOP_RADIO.mp3
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoZVpC0feNkpO9nFoK9Bl5na_HWf7WJ_7-6AVvOT-aKpkxNRluBCc7z5ldWPDHwQSIJr0&usqp=CAU" group-title="dance;edm;",TOPradio one world
 https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_DAB.mp3
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s48146g.png" group-title="dance;top 40;",Trendy fm
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s48146g.png" group-title="Dance;Top 40",Trendy fm
 http://stream.trendyfm.be/
 #EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/d3/5a/9479/1/c300.png" group-title="hip hop;R'n'B;rap;",ULTRASON
 http://broadcast.infomaniak.ch/ultrason-high.mp3
@@ -341,6 +353,8 @@ http://urgentstream.radiostudio.be:8000/live
 http://stream.vbro.be:9400/evergreen
 #EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/db/a1/4692/c300.png" group-title="Pop;Dutch",VBRO Radio
 http://stream.vbro.be:9100/vbro
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEIfiA8JnByRVZ4JBOLvZmLAD_nqDJx1OfHQ&s" group-title="Trance;EDM;Techno",Vibration 107.2
+http://broadcast.infomaniak.ch/vibrationbelgique-high.mp3
 #EXTINF:-1 tvg-logo="https://www.lalettre.pro/photo/art/default/78598583-57031909.jpg?v=1709030589" group-title="Adult;Contemporary;Sports",VivaCite
 https://redbeemedia.streamabc.net/redbm-vivabxl-aac-128-1428473
 #EXTINF:-1 tvg-logo="https://www.ketnet.be//sites/all/themes/ketnet/images/favicons/apple-touch-icon.png" group-title="Hits;Youth",VRT Ketnet Hits
@@ -365,21 +379,23 @@ http://icecast-servers.vrtcdn.be/ra2ovl.aac
 http://icecast-servers.vrtcdn.be/radio2_unwind-high.mp3
 #EXTINF:-1 tvg-logo="https://radio2.be/themes/vrt/radio2/radio2/dist/images/radio2-logo.svg" group-title="pop;adult;contemporary;",VRT Radio 2 Vlaams-Brabant
 http://icecast-servers.vrtcdn.be/ra2vlb.aac
-#EXTINF:-1 tvg-logo="https://s3.eu-central-1.amazonaws.com/radioportals/radioviainternet-be/images/stations/radio-2-oost-vlaanderen-cover.png" group-title="pop;adult;contemporary;",VRT Radio 2 West-Vlaanderen
+#EXTINF:-1 tvg-logo="https://s3.eu-central-1.amazonaws.com/radioportals/radioviainternet-be/images/stations/radio-2-oost-vlaanderen-cover.png" group-title="Pop;Adult;Contemporary",VRT Radio 2 West-Vlaanderen
 http://icecast-servers.vrtcdn.be/ra2wvl.aac
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s25706/images/logog.jpg?t=159076" group-title="pop;adult;contemporary;",VRT Radio 2 Limburg
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s25706/images/logog.jpg?t=159076" group-title="Pop;Adult;Contemporary",VRT Radio 2 Limburg
 http://icecast-servers.vrtcdn.be/ra2lim.aac
-#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/artworks-BCnIYEAeArE8CT4R-h5AYSQ-t500x500.jpg" group-title="dance;electronic;",VRT StuBru UNTZ
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/artworks-BCnIYEAeArE8CT4R-h5AYSQ-t500x500.jpg" group-title="Dance;Electronic",VRT StuBru UNTZ
 http://icecast-servers.vrtcdn.be/stubru_untz.aac
-#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/artworks-BCnIYEAeArE8CT4R-h5AYSQ-t500x500.jpg" group-title="dance;electronic;",VRT StuBru UNTZ 
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/artworks-BCnIYEAeArE8CT4R-h5AYSQ-t500x500.jpg" group-title="Dance;Electronic",VRT StuBru UNTZ 
 http://icecast-servers.vrtcdn.be/stubru_untz-high.mp3
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Studio_Brussel_logo_%282023-%29.svg" group-title="rock;alternative;",VRT Studio Brussel 100.6
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Studio_Brussel_logo_%282023-%29.svg" group-title="Rock;Alternative",VRT Studio Brussel 100.6
 http://icecast-servers.vrtcdn.be/stubru_bruut-high.mp3
-#EXTINF:-1 tvg-logo="https://i3.radionomy.com/radios/400/0990ed5f-6121-4af2-be84-9827b8c1c4a4.png" group-title="electronic;community;",Warm 104.2
+#EXTINF:-1 tvg-logo="https://i3.radionomy.com/radios/400/0990ed5f-6121-4af2-be84-9827b8c1c4a4.png" group-title="Electronic;Community",Warm 104.2
 http://stream05.warm.fm:9002/warm
 #EXTINF:-1 tvg-logo="https://i.ibb.co/khs8V7M/willyfavicon.png" group-title="Rock;Pop;Electronic",Willy
 https://icecast-qmusicbe-cdp.triple-it.nl/willy.aac
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOZr7Z6HZ5A27xtbJ51iPQFMex_bD2iJHpzlCNBdNKY_QxPuMIzLn0XSCb5MfunT7meeQ&usqp=CAU" group-title="lounge;chillout;",Zen FM
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPiwMXC2BWRuKFUpu66frt3-AJqliZTi2O2w&s" group-title="Pop;News;Talk",YOUFM 106.9
+https://youfm.ice.infomaniak.ch/youfm-96
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOZr7Z6HZ5A27xtbJ51iPQFMex_bD2iJHpzlCNBdNKY_QxPuMIzLn0XSCb5MfunT7meeQ&usqp=CAU" group-title="Lounge;Chillout",Zen FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/TOPZEN.mp3
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/66/fe/66fe6fb22c9442318963e7c3ef73f652.jpg" group-title="60s;70s;oldies;",Zoe 104.9/107.9
 http://streams.movemedia.eu:8000/zoefmmp3
