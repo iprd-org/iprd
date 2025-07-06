@@ -219,6 +219,8 @@ http://stream4.nadaje.com:8624/mcradio
 https://n05a-eu.rcs.revma.com/q18ty3qhwzzuv?rj-ttl=5&rj-tok=AAABfdxNvKwAQvtPAwS1UzIRTA
 #EXTINF:-1 tvg-logo="https://gfx-player.radiozet.pl/var/player/storage/images/player-meloradio/kanaly-muzyczne/meloradio-acoustic/819216-2-pol-PL/MELORADIO-Acoustic_size-140x140.jpg" group-title="(.*);(.*);",Meloradio Acoustic
 https://ml02.cdn.eurozet.pl/MELACO.mp3?redirected=02
+#EXTINF:-1 tvg-logo="" group-title="(.*);(.*);",Meloradio Olsztyn
+https://ml.cdn.eurozet.pl/mel-ols.mp3
 #EXTINF:-1 tvg-logo="https://www.liveradio.ie/files/images/282629/resized/180x172c/metalliveradiologo400jpg.jpg" group-title="(.*);(.*);",Metal Live Radio
 http://51.255.8.139:8738/stream
 #EXTINF:-1 tvg-logo="http://player.mittendrin.pl/themes/mittendrinrwd2/img/radio-altneu.jpg" group-title="(.*);(.*);",Mittendrin ALT!NEU Radio der deutschen Minderheit
@@ -481,8 +483,12 @@ http://s1.slotex.pl:7074/stream
 https://pa02.cdn.eurozet.pl/pla-net.mp3?redirected=02
 #EXTINF:-1 tvg-logo="http://www.planetafm.pl/favicon.ico" group-title="(.*);(.*);",Planeta Trance
 http://pl01.cdn.eurozet.pl/PLATRA.mp3
+#EXTINF:-1 tvg-logo="" group-title="(.*);(.*);",Radio Elblag
+https://rostr1.radioolsztyn.pl:8543/ELBLAG
 #EXTINF:-1 tvg-logo="https://www.radio.net/300/radiopluspolska.png?version=2e0929385853530c9a61c4787d668aee" group-title="(.*);(.*);",Radio Plus
 https://pl04.cdn.eurozet.pl/plu-gdn.mp3?redirected=04
+#EXTINF:-1 tvg-logo="" group-title="(.*);(.*);",Radio Plus Olsztyn
+https://waw.ic.smcdn.pl/4110-1.aac
 #EXTINF:-1 tvg-logo="https://bi.im-g.pl/im/8/26025/m26025658.png" group-title="(.*);(.*);",Radio Pogoda Wroclaw
 https://pl-play.adtonos.com/8102/radio-pogoda-wrocaw?cache=1598128880
 #EXTINF:-1 tvg-logo="https://www.icma-info.com/wp-content/uploads/2018/04/Polskie-Radio-Chopin-e1524727306965.jpg" group-title="(.*);(.*);",Polskie Radio Chopin
@@ -499,14 +505,20 @@ https://stream11.polskieradio.pl/pr1/pr1.sdp/playlist.m3u8
 http://stream4.nadaje.com:9212/radiokatowice
 #EXTINF:-1 tvg-logo="https://radiokierowcow.pl/images/favicon.png" group-title="(.*);(.*);",Polskie Radio Kierowców
 http://stream3.polskieradio.pl:8918/listen.pls
+#EXTINF:-1 tvg-logo="https://radiokierowcow.pl/images/favicon.png" group-title="(.*);(.*);",Polskie Radio Olsztyn
+https://rostr1.radioolsztyn.pl:8443/RO.mp3
 #EXTINF:-1 tvg-logo="http://radiopoznan.fm//favicon/favicon-96x96.png" group-title="(.*);(.*);",Polskie Radio Poznan
 http://stream4.nadaje.com:8578/poznan
 #EXTINF:-1 tvg-logo="http://moje.polskieradio.pl/_img/kanaly/pr3.jpg" group-title="(.*);(.*);",Polskie Radio Program 3
 http://41.dktr.pl:8000/trojka.ogg
+#EXTINF:-1 tvg-logo="" group-title="(.*);(.*);",Polskie Radio Rajdowe
+https://rostr1.radioolsztyn.pl:8643/ELK
 #EXTINF:-1 tvg-logo="http://www.rdc.pl/wp-content/uploads/2015/03/logo_RDC_PR-600x400.jpg" group-title="(.*);(.*);",Polskie Radio RDC
 http://stream2.nadaje.com:11140/rdc
 #EXTINF:-1 tvg-logo="http://moje.polskieradio.pl/_img/kanaly/136.jpg" group-title="(.*);(.*);",Polskie Radio Rytm
 http://stream3.polskieradio.pl:8594/listen.pls
+#EXTINF:-1 tvg-logo="" group-title="(.*);(.*);",Polskie Radio Warmii i Mazur
+https://rostr1.radioolsztyn.pl:8843/RWiM
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk2PyCcHIJyoTD3Yv0qvWKtWHIet6xNAfn3w&s" group-title="(.*);(.*);",Polskie Radio 24
 https://stream15.polskieradio.pl/pr24/pr24.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://open.fm/logo/200x200/104" group-title="(.*);(.*);",OpenFM Praca
@@ -864,7 +876,7 @@ http://s1.slotex.pl:7310/listen.pls
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/3/1893.v4.png" group-title="(.*);(.*);",Radio TOP80
 https://top80.pl:8000/listen.mp3
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUCS83EiYCX-OgmEN9wsu4MgpKGAmmOrhZLg&s" group-title="(.*);(.*);",Radio UWM 95.9
-http://213.184.18.156:8000/
+http://213.184.18.156:8000/;
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/5/1425.v5.png" group-title="(.*);(.*);",Radio Vanessa
 http://s1.slotex.pl:7358/listen.pls
 #EXTINF:-1 tvg-logo="https://www.radio.net/300/radiovictoriapl.png?version=78982e795c2452bdf493e8c6ad57b2ad" group-title="(.*);(.*);",Radio Victoria
