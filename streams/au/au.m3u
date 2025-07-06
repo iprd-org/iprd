@@ -1,14 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://static.radio.de/images/broadcasts/da/ab/111193/2/c175.png" group-title="Hits;World",Radio Oberlausitz International
-https://radiooberlausitzinternational.stream.laut.fm/radiooberlausitzinternational?ref=radiode&t302=2019-09-26_21-39-50&uuid=5c364ff2-ab71-4f14-9807-1ac3773f28e1
-#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/1994/screenshots/25763/shot_1276042565.jpg" group-title="World;Ethnic",Radio Iliria
-https://stream.zeno.fm/1peycypauwzuv
-#EXTINF:-1 tvg-logo="https://hope1032.com.au/wp-content/themes/hope/images/favicon.png" group-title="Christian;Religious",Hope 103.2
-http://stream.hopemedia.com.au/hope-mp3
-#EXTINF:-1 tvg-logo="https://www.abc.net.au/cm/rimage/9593036-1x1-large.png?v=12" group-title="Talk;News",ABC Riverland 1062
-https://mediaserviceslive.akamaized.net/hls/live/2038160/localriverland/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.sen.com.au/images/favicon-180x180.png" group-title="Sports;News;Talk",SEN 1170
-https://d11fwwlrb0wuhh.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsvsST7-btPMc_ijFw41tNuchL-iFdgmn7yg&s" group-title="Community;Variety",3RIM 979fm
 https://s15.myradiostream.com:12846/listen.mp3
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/282/cooloola-christian-radio.9b501123.jpg" group-title="Christian;Contemporary",91Five 91.5
@@ -37,7 +27,7 @@ https://28893.live.streamtheworld.com/2XX.mp3
 https://stream.tripleafm.com.au//
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/SGN3Ax7TQN.jpg" group-title="Community;Variety",2AIR 107.9
 https://s10.myradiostream.com:10122/;&type=mp3
-#EXTINF:-1 tvg-logo="https://2arm.net.au/wp-content/uploads/2024/06/2ARM-Vector-Logo-web-outer-glow-3.png" group-title=Community;Variety",2ARM 92.1
+#EXTINF:-1 tvg-logo="https://2arm.net.au/wp-content/uploads/2024/06/2ARM-Vector-Logo-web-outer-glow-3.png" group-title="Community;Variety",2ARM 92.1
 https://samcloud.spacial.com/api/listen?sid=74050
 #EXTINF:-1 tvg-logo="http://www.2ay.com.au/site/assets/img/logos/2ay.png" group-title="Classic;Hits;Talk",2AY 1494
 https://playerservices.streamtheworld.com/api/livestream-redirect/ACE_2AYAAC.aac
@@ -99,115 +89,115 @@ http://220.233.66.253:88/broadwave.mp3?src=1&rate=1&ref=
 https://uk5.internet-radio.com/proxy/nimfm?mp=/stream
 #EXTINF:-1 tvg-logo="https://www.liveradio.ie/files/images/362993/resized/180x172c/2nurfm.jpg" group-title="College;Variety",2NUR University of Newcastle 103.7
 https://28853.live.streamtheworld.com/2NURFM.mp3
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhBGqJTBRwGLUOixwUO9cIoeJiyi7MsLbKYw&s" group-title="community;variety;",2NVR 105.9
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhBGqJTBRwGLUOixwUO9cIoeJiyi7MsLbKYw&s" group-title="Community;Variety",2NVR 105.9
 https://s14.myradiostream.com/19092/listen.mp3?_=1
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2vxtc6vnwweer-6nFZe3iM3gl5Gq6a1CVRw&s" group-title="community;variety;",2 Oceans 91.7
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2vxtc6vnwweer-6nFZe3iM3gl5Gq6a1CVRw&s" group-title="Community;Variety",2 Oceans 91.7
 https://23093.live.streamtheworld.com/6AUG.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.net/300/2one.png?version=3a73c6e7f6d71cb18f3b25ac89e79edf" group-title="urban;hits;",2ONE 96.1
+#EXTINF:-1 tvg-logo="https://www.radio.net/300/2one.png?version=3a73c6e7f6d71cb18f3b25ac89e79edf" group-title="Urban;Hits",2ONE 96.1
 https://28793.live.streamtheworld.com/ARN_CADAAAC/HLS/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/fblogo/0/90900.v7.png" group-title="community;variety;",2PSR Port Stephens 100.9 FM
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/fblogo/0/90900.v7.png" group-title="Community;Variety",2PSR Port Stephens 100.9 FM
 https://streams.radiomast.io/8df8102b-51bf-45fb-aac5-aa0254d6b177?t=heatwave&cachebuster=2435890681678494.5
-#EXTINF:-1 tvg-logo="https://www.radio.net/300/2one.png?version=3a73c6e7f6d71cb18f3b25ac89e79edf" group-title="news;talk;hits;",2QN 1521
+#EXTINF:-1 tvg-logo="https://www.radio.net/300/2one.png?version=3a73c6e7f6d71cb18f3b25ac89e79edf" group-title="News;Talk;Hits",2QN 1521
 https://wz2liw.scahw.com.au/live/2qn_128.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://2re.com.au/public-static/logos/2re.png" group-title="talk;news;hits;",2RE 88.9
+#EXTINF:-1 tvg-logo="https://2re.com.au/public-static/logos/2re.png" group-title="Talk;News;Hits",2RE 88.9
 https://cast4.asurahosting.com/proxy/2sm1269/stream
-#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/9d/66/9d66c7ddf5ec25ad05e9f6451d96bf2d.png" group-title="talk;news;",2RPH 93.3
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/9d/66/9d66c7ddf5ec25ad05e9f6451d96bf2d.png" group-title="Talk;News",2RPH 93.3
 https://23163.live.streamtheworld.com/2RPH.mp3
-#EXTINF:-1 tvg-logo="https://assets.2ser.com/wp-content/aws/uploads/2017/12/06225117/logo.png" group-title="community;variety;",2SER 107.3
+#EXTINF:-1 tvg-logo="https://assets.2ser.com/wp-content/aws/uploads/2017/12/06225117/logo.png" group-title="Community;Variety",2SER 107.3
 http://livestream.2ser.com:8000/streamrelay
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuwPAFlG31WYwnKr9ogw7w4dBFoowHV4RhAQ&s" group-title="top 40;hits;",2SKI 97.7 Snow FM
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuwPAFlG31WYwnKr9ogw7w4dBFoowHV4RhAQ&s" group-title="Top 40;Hits",2SKI 97.7 Snow FM
 https://19273.live.streamtheworld.com/SNOW_FMAAC.aac
-#EXTINF:-1 tvg-logo="http://2smsupernetwork.com/wp/wp-content/uploads/2013/03/LogoA.png" group-title="news;talk;",2SM 1269
+#EXTINF:-1 tvg-logo="http://2smsupernetwork.com/wp/wp-content/uploads/2013/03/LogoA.png" group-title="News;Talk",2SM 1269
 http://144.140.228.109:8220/mp3
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQViTeaEyIrVMFNXkY7GWuYJpUuyfZuY5G2YQ&s" group-title="community;variety;",2TLP Ngarralinyi Radio 103.3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQViTeaEyIrVMFNXkY7GWuYJpUuyfZuY5G2YQ&s" group-title="Community;Variety",2TLP Ngarralinyi Radio 103.3
 https://stream.wwolfco.com/listen/2tlp/radio.mp3
-#EXTINF:-1 tvg-logo="https://au.radio.net/300/2ue.png?version=584f6097647c9c8294a17c71b131fc57" group-title="oldies;hits;",2UE 954
+#EXTINF:-1 tvg-logo="https://au.radio.net/300/2ue.png?version=584f6097647c9c8294a17c71b131fc57" group-title="Oldies;Hits",2UE 954
 https://wz2liw.scahw.com.au/live/2ue_128.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvCFs2jhhZjcNyzRbPfubYjRM3cgWtcAjmiQ&s" group-title="community;variety;",2WET Tank 103.1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvCFs2jhhZjcNyzRbPfubYjRM3cgWtcAjmiQ&s" group-title="Community;Variety",2WET Tank 103.1
 https://28803.live.streamtheworld.com/2WETAAC.aac
-#EXTINF:-1 tvg-logo="https://newmedia.com.au/wp-content/uploads/2you.jpg" group-title="oldies;hits;",2YOU 88.9
+#EXTINF:-1 tvg-logo="https://newmedia.com.au/wp-content/uploads/2you.jpg" group-title="Oldies;Hits",2YOU 88.9
 https://stream.889fmtamworth.com.au:8443/stream
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/76faeaab-c211-4e72-84d7-d49ec91dd1a8/image/?u=1713873237000" group-title="community;variety;",2YYY 92.3
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/76faeaab-c211-4e72-84d7-d49ec91dd1a8/image/?u=1713873237000" group-title="Community;Variety",2YYY 92.3
 https://streaming.2yyyradio.com/radio/8000/radio.mp3
-#EXTINF:-1 tvg-logo="https://www.3abnaustralia.org.au/core/wp-content/themes/3ABN%20Australia%202015/library/images/channel-icons/Icon_Radio_Aust@2x.png" group-title="gospel;christian;",3ABN Australia Radio
+#EXTINF:-1 tvg-logo="https://www.3abnaustralia.org.au/core/wp-content/themes/3ABN%20Australia%202015/library/images/channel-icons/Icon_Radio_Aust@2x.png" group-title="Gospel;Christian",3ABN Australia Radio
 https://stream.3abnaustralia.org.au:8443/stream
-#EXTINF:-1 tvg-logo="https://www.3aw.com.au/wp-content/uploads/sites/12/2017/03/logo-v2.png" group-title="entertainment;lifestyle;news;",3AW 693
+#EXTINF:-1 tvg-logo="https://www.3aw.com.au/wp-content/uploads/sites/12/2017/03/logo-v2.png" group-title="Variety;Lifestyle;News",3AW 693
 https://playerservices.streamtheworld.com/api/livestream-redirect/3AWAAC.aac?dist=onlineradiobox
-#EXTINF:-1 tvg-logo="https://www.3aw.com.au/wp-content/uploads/sites/12/2017/03/logo-v2.png" group-title="news;sport;talk;",3AW 693
+#EXTINF:-1 tvg-logo="https://www.3aw.com.au/wp-content/uploads/sites/12/2017/03/logo-v2.png" group-title="News;Sports;Talk",3AW 693
 http://melb3awaud-lh.akamaihd.net/i/melbourneaud_1@109380/master.m3u8
-#EXTINF:-1 tvg-logo="https://3bbrfm.org.au/wp-content/uploads/2021/09/BBR-logo-GH-1-Color-450x300-1.png" group-title="community;variety;",3BBR 103.1
+#EXTINF:-1 tvg-logo="https://3bbrfm.org.au/wp-content/uploads/2021/09/BBR-logo-GH-1-Color-450x300-1.png" group-title="Community;Variety",3BBR 103.1
 https://bbr0.radioca.st/stream
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f7/3CR_Melbourne_logo.jpg" group-title="community;variety;",3CR 855
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f7/3CR_Melbourne_logo.jpg" group-title="Community;Variety",3CR 855
 https://23203.live.streamtheworld.com/3CRAAC.aac
-#EXTINF:-1 tvg-logo="https://ca.radio.net/300/3ee.png?version=ca869ede2aa10edd46c5c7a988bc2687" group-title="oldies;hits;",3EE Magic 1278
+#EXTINF:-1 tvg-logo="https://ca.radio.net/300/3ee.png?version=ca869ede2aa10edd46c5c7a988bc2687" group-title="Oldies;Hits",3EE Magic 1278
 https://wz3liw.scahw.com.au/live/3ee_128.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/australianradio/images/9/91/FOX101.9_2020.png/revision/latest?cb=20250109135807" group-title="adult;contemporary;",3FOX Fox 101.9
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/australianradio/images/9/91/FOX101.9_2020.png/revision/latest?cb=20250109135807" group-title="Adult;Contemporary",3FOX Fox 101.9
 https://wz3liw.scahw.com.au/live/3fox_128.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/7el8kp3lu3ht.jpeg" group-title="oldies;hits;",3GG 531
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/7el8kp3lu3ht.jpeg" group-title="Oldies;Hits",3GG 531
 https://17843.live.streamtheworld.com/3GGAAC.aac
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwGGxcR2LNX527j_0xEN9h8CscB9XafPNLDQ&s" group-title="community;hits;",3INR Inner 96.5 FM
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwGGxcR2LNX527j_0xEN9h8CscB9XafPNLDQ&s" group-title="Community;Hits",3INR Inner 96.5 FM
 https://28853.live.streamtheworld.com/3NRAAC.aac
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS19JIw29yP2qZSzOYqimRaZmewt0UJF4Q8ZQ&s" group-title="indigenous;community;",3KND 1503
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS19JIw29yP2qZSzOYqimRaZmewt0UJF4Q8ZQ&s" group-title="Indigenous;Community",3KND 1503
 https://23093.live.streamtheworld.com/3KNDAAC.aac
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/hbhqlakyvUZXXrwxkBEc8qH0J67fWLDexiY1J4o-i6TFaUfbvSpANsQu8TnyYPwaIAjYwjygdw=s900-c-k-c0x00ffffff-no-rj" group-title="classical;baroque;",3MBS Music Broadcasting Society of Victoria 103.5
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/hbhqlakyvUZXXrwxkBEc8qH0J67fWLDexiY1J4o-i6TFaUfbvSpANsQu8TnyYPwaIAjYwjygdw=s900-c-k-c0x00ffffff-no-rj" group-title="Classical;Baroque",3MBS Music Broadcasting Society of Victoria 103.5
 https://23093.live.streamtheworld.com/3MBS.mp3
-#EXTINF:-1 tvg-logo="https://au.radio.net/300/3mcr.png?version=cfa20775bdbe9b761a8a34c838bad66e" group-title="variety;community;",3MCR 99.7
+#EXTINF:-1 tvg-logo="https://au.radio.net/300/3mcr.png?version=cfa20775bdbe9b761a8a34c838bad66e" group-title="Variety;Community",3MCR 99.7
 https://c7.radioboss.fm:18291/stream
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/3mdrlogo.jpg" group-title="world;community;",3MDR 97.1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/3mdrlogo.jpg" group-title="World;Community",3MDR 97.1
 https://23093.live.streamtheworld.com/3MDRAAC.aac
-#EXTINF:-1 tvg-logo="https://www.3mgb.org.au/wp-content/uploads/2022/08/3MGB-30Years-FBInstaProfile.jpeg" group-title="variety;community;",3MGB 101.7
+#EXTINF:-1 tvg-logo="https://www.3mgb.org.au/wp-content/uploads/2022/08/3MGB-30Years-FBInstaProfile.jpeg" group-title="Variety;Community",3MGB 101.7
 https://28803.live.streamtheworld.com/3MGBAAC.aac
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/3MP1377_Logo.png" group-title="oldies;easy listening;",3MP 1377
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/3MP1377_Logo.png" group-title="Oldies;Easy Listening",3MP 1377
 https://wz3liw.scahw.com.au/live/3mp_128.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlCfaxjYYiD_ej74zNaEj3exOm2pPFQ7DD7Q&s" group-title="oldies;hits;",3NE 1566
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlCfaxjYYiD_ej74zNaEj3exOm2pPFQ7DD7Q&s" group-title="Oldies;Hits",3NE 1566
 https://wz3liw.scahw.com.au/live/3ne_128.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKUKYFdA9KaBuY7AhJcmRjiUVclgicKJoAsA&s" group-title="community;variety;",3NRG 99.3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKUKYFdA9KaBuY7AhJcmRjiUVclgicKJoAsA&s" group-title="Community;Variety",3NRG 99.3
 http://216.144.240.58:8047/stream
-#EXTINF:-1 tvg-logo="https://nz.radio.net/300/3pbs.png?version=b71b3931cf37767e2fa819880554abe4" group-title="contemporary;progressive;community;",3PBS 106.7
+#EXTINF:-1 tvg-logo="https://nz.radio.net/300/3pbs.png?version=b71b3931cf37767e2fa819880554abe4" group-title="Contemporary;Progressive;Community",3PBS 106.7
 https://28853.live.streamtheworld.com/3PBS_FMAAC128.aac
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRc__968KipIDQmi93bzTW3uS7NXq9xb5JQA&s" group-title="variety;community;",3REG 90.7
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRc__968KipIDQmi93bzTW3uS7NXq9xb5JQA&s" group-title="Variety;Community",3REG 90.7
 https://regfm.radioca.st/stream
-#EXTINF:-1 tvg-logo="https://liveradioau.com/uploads/img/3rpc-community-radio.jpg" group-title="variety;community;",3RPC 99.3
+#EXTINF:-1 tvg-logo="https://liveradioau.com/uploads/img/3rpc-community-radio.jpg" group-title="Variety;Community",3RPC 99.3
 https://shaincast.caster.fm:42423/listen.mp3?authn4eeb4c248d9b5598affab1a64d3ec9bf
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSREKJwGxlDKS6EVWGOmwbYlatBtOF-X25_RA&s" group-title="community;talk;",3RPH 1179
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSREKJwGxlDKS6EVWGOmwbYlatBtOF-X25_RA&s" group-title="Community;Talk",3RPH 1179
 https://23153.live.streamtheworld.com/3RPHAAC.aac
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/77/3RPP_Radio_Logo.jpg" group-title="community;talk;",3RPP 98.7
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/77/3RPP_Radio_Logo.jpg" group-title="Community;Talk",3RPP 98.7
 https://streaming.radio.co/sfbd79db12/listen
-#EXTINF:-1 tvg-logo="http://www.rrr.org.au/assets/main/assets/public/favicon/favicon-192.a118bf57.png" group-title="community;indie;",3RRR 102.7
+#EXTINF:-1 tvg-logo="http://www.rrr.org.au/assets/main/assets/public/favicon/favicon-192.a118bf57.png" group-title="Community;Indie",3RRR 102.7
 http://realtime.rrr.org.au/p1l
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS67zo8AgNsQzBSOaZyJ6BxkiU7Sv2s89AHQ&s" group-title="community;variety;",3SEY 103.9
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS67zo8AgNsQzBSOaZyJ6BxkiU7Sv2s89AHQ&s" group-title="Community;Variety",3SEY 103.9
 http://albireo.shoutca.st:8112/stream
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFm84WClqk2iezl9qiu8-tpOwlEykQolJTFA&s" group-title="sports;talk;",3UZ 927
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFm84WClqk2iezl9qiu8-tpOwlEykQolJTFA&s" group-title="Sports;Talk",3UZ 927
 https://28803.live.streamtheworld.com/RSN_RACINGSPORT.mp3
-#EXTINF:-1 tvg-logo="https://nz.radio.net/300/3vyv.png?version=08d07be7c9b37668af3e76d6a8fbb865" group-title="community;variety;",3VYV 99.1
+#EXTINF:-1 tvg-logo="https://nz.radio.net/300/3vyv.png?version=08d07be7c9b37668af3e76d6a8fbb865" group-title="Community;Variety",3VYV 99.1
 https://live.yarravalleyfm.org.au:8443/stream?1747926548559
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpCRhCzQova8DlpLKcnMuzeobXKaVtRFxaUQ&s" group-title="community;variety;",3WAY 103.7
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpCRhCzQova8DlpLKcnMuzeobXKaVtRFxaUQ&s" group-title="Community;Variety",3WAY 103.7
 http://120.151.226.109:88/broadwave.mp3
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/3wbc-logo-new.png" group-title="community;variety;",3WBC 94.1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/3wbc-logo-new.png" group-title="Community;Variety",3WBC 94.1
 https://stream.tcom.net.au/3wbc
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFHQbOYDOAKyWG-qm32nfVhunlK6Ntb-0www&s" group-title="community;multilingual;",3ZZZ 92.3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFHQbOYDOAKyWG-qm32nfVhunlK6Ntb-0www&s" group-title="Community;Multilingual",3ZZZ 92.3
 https://23193.live.streamtheworld.com/3ZZZAAC.aac
-#EXTINF:-1 tvg-logo="https://nz.radio.net/300/4aaa.jpeg?version=d69274dcfd980597622d215a82ebbec7" group-title="indigenous;community;",4AAA 98.9
+#EXTINF:-1 tvg-logo="https://nz.radio.net/300/4aaa.jpeg?version=d69274dcfd980597622d215a82ebbec7" group-title="Indigenous;Community",4AAA 98.9
 https://28863.live.streamtheworld.com/989FMAAC.aac
-#EXTINF:-1 tvg-logo="https://www.4am.com.au/images/4AM-IMAGE.jpg" group-title="talk;news;",4AM 558
+#EXTINF:-1 tvg-logo="https://www.4am.com.au/images/4AM-IMAGE.jpg" group-title="Talk;News",4AM 558
 http://198.74.51.37:8435/;stream.mp3
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-y6JErr9oLDuviGLqxTfWhS21NCvkZD1Y7g&s" group-title="community;variety;",4BAY Bay FM 100.3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-y6JErr9oLDuviGLqxTfWhS21NCvkZD1Y7g&s" group-title="Community;Variety",4BAY Bay FM 100.3
 https://28853.live.streamtheworld.com/4BAYAAC.aac
-#EXTINF:-1 tvg-logo="https://www.4bc.com.au/wp-content/uploads/sites/10/2017/01/4bc_hires_logo-2.png" group-title="news;sport;talk;",4BC 882
+#EXTINF:-1 tvg-logo="https://www.4bc.com.au/wp-content/uploads/sites/10/2017/01/4bc_hires_logo-2.png" group-title="News;Sports;Talk",4BC 882
 http://bris4bcaud-lh.akamaihd.net/i/brisbanebcaud_1@110990/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/84/7f/126272/1/c300.png" group-title="classic;hits;",4BU 1332
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/84/7f/126272/1/c300.png" group-title="Oldies;Hits",4BU 1332
 https://playerservices.streamtheworld.com/api/livestream-redirect/BUN_4BUAAC_SC
-#EXTINF:-1 tvg-logo="https://www.4ca.com.au/wp-content/uploads/sites/14/2022/10/NQL_CNS_4CA-300x150-fullcolour.png" group-title="talk;news;",4CA 846
+#EXTINF:-1 tvg-logo="https://www.4ca.com.au/wp-content/uploads/sites/14/2022/10/NQL_CNS_4CA-300x150-fullcolour.png" group-title="Talk;News",4CA 846
 https://playerservices.streamtheworld.com/api/livestream-redirect/CAI_4CAAAC.aac
-#EXTINF:-1 tvg-logo="https://www.4ca.com.au/wp-content/uploads/sites/14/2022/10/NQL_CNS_4CA-300x150-fullcolour.png" group-title="oldies;hits",4CA 846 Far North QLD Classic Hits
+#EXTINF:-1 tvg-logo="https://www.4ca.com.au/wp-content/uploads/sites/14/2022/10/NQL_CNS_4CA-300x150-fullcolour.png" group-title="Oldies;Hits",4CA 846 Far North QLD Classic Hits
 https://playerservices.streamtheworld.com/api/livestream-redirect/CAI_4CAAAC_SC
-#EXTINF:-1 tvg-logo="https://nz.radio.net/300/4cbl.png?version=5b6589a4838d1ddadc0f19dd0dc3913f" group-title="news;variety",4CBL 101.1
+#EXTINF:-1 tvg-logo="https://nz.radio.net/300/4cbl.png?version=5b6589a4838d1ddadc0f19dd0dc3913f" group-title="News;Variety",4CBL 101.1
 https://playerservices.streamtheworld.com/api/livestream-redirect/4CBLAAC.aac
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCCAHREEnRdzDSNz6N7m4XkL3ZduRxDroSWQ&s" group-title="oldies;hits",4CC 927
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCCAHREEnRdzDSNz6N7m4XkL3ZduRxDroSWQ&s" group-title="Oldies;Hits",4CC 927
 https://22963.live.streamtheworld.com/GLA_4CCAAC_SC
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR5aOTzRdyljaTssLbxa5gVgO82DLFwid9OA&s" group-title="indigenous;community",4CIM 98.7
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR5aOTzRdyljaTssLbxa5gVgO82DLFwid9OA&s" group-title="Indigenous;Community",4CIM 98.7
 https://audio-edge-vqwx4.yyz.g.radiomast.io/8793edda-b581-48e9-bf45-b045bbdc4224?t=nightvision&cachebuster=1372003720832893.8
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/2/28682.v5.png" group-title="variety;community",4CRB 89.3
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/2/28682.v5.png" group-title="Variety;Community",4CRB 89.3
 https://28903.live.streamtheworld.com/4CRBAAC.aac
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9n82R9TXuajQTUTydMAbNWoq8x8Ee3aJPwQ&s" group-title="news;community;talk",4CRM 107.5
 http://198.74.51.37:9970/;audio.mp3
@@ -441,6 +431,8 @@ https://mediaserviceslive.akamaized.net/hls/live/2038328/localtoowoomba/masterhq
 https://mediaserviceslive.akamaized.net/hls/live/2109415/locallongreach-u1/v0-221.m3u8
 #EXTINF:-1 tvg-logo="https://www.abc.net.au/radio/riverina/" group-title="local;news;talk",ABC Riverina
 http://live-radio04.mediahubaustralia.com/2WAGW/mp3/
+#EXTINF:-1 tvg-logo="https://www.abc.net.au/cm/rimage/9593036-1x1-large.png?v=12" group-title="Talk;News",ABC Riverland 1062
+https://mediaserviceslive.akamaized.net/hls/live/2038160/localriverland/index.m3u8
 #EXTINF:-1 tvg-logo="https://ca.radio.net/300/abc-sport.png?version=d4282e73775d4e09b9d128b7542637c0" group-title="sports;talk;news",ABC Sport
 http://live-radio01.mediahubaustralia.com/GSDW/aac/
 #EXTINF:-1 tvg-logo="https://www.abc.net.au/cm/rimage/9614460-1x1-large.png?v=7" group-title="local;news",ABC Sunshine Coast
@@ -557,6 +549,8 @@ https://wz6liw.scahw.com.au/live/6car_128.stream/playlist.m3u8
 https://ais-arn.streamguys1.com/au_005/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play.listnr.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fyxg7lydfj6tc%2Faa668a8b-bd14-4be2-8d9c-65ccf7c3ab2b%2F0317c2d505e0586945a708c9b5c74b92%2F0011-southwest.png%3Fw%3D320%26h%3D320%26fit%3Dfill&w=640&q=75" group-title="top 40;pop",hit Southwest
 https://wz6liw.scahw.com.au/live/6bun_128.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://hope1032.com.au/wp-content/themes/hope/images/favicon.png" group-title="Christian;Religious",Hope 103.2
+http://stream.hopemedia.com.au/hope-mp3
 #EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/59f8f25d18b27d43f7354624/1510877651671-3YBVYYC8OGGG72SS3VIB/android-icon-192x192.png" group-title="community;eclectic;underground",Hope St. Radio
 http://hopestreetradio.out.airtime.pro:8000/hopestreetradio_a
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/mzUJBsP1DTID-aSKcs2DGGKc8gZcSi2qGk1zqbDFK-3m7EgqzW8mfO_bpSBkxRswtmat" group-title="islam;religious",Islamic Voice Radio
@@ -671,10 +665,14 @@ https://firstnationsmedia.stream/8012/stream
 http://procyon.shoutca.st:8377/stream
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/MVohgV33hvjcm4An1Bhio8NFmO4Iqp7BDQKJA8At4UuC8yD_GtZJw_ARdUXz-1ar6hA" group-title="hindi;world",Radio Haanji 1674
 https://cast1.my-control-panel.com/proxy/haanji_mel/stream
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/1994/screenshots/25763/shot_1276042565.jpg" group-title="World;Ethnic",Radio Iliria
+https://stream.zeno.fm/1peycypauwzuv
 #EXTINF:-1 tvg-logo="http://www.radiostreamlive.com/images/logos_radioitalianmusic.png" group-title="italian;pop",Radio Italian Music
 https://streaming.radiostreamlive.com/radioitalianmusic_devices
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Trans-RadioMetro-Solid.png" group-title="top 40;r'n'b;dance",Radio Metro 105.7
 https://stream.radiometro.com.au/
+#EXTINF:-1 tvg-logo="https://static.radio.de/images/broadcasts/da/ab/111193/2/c175.png" group-title="Hits;World",Radio Oberlausitz International
+https://radiooberlausitzinternational.stream.laut.fm/radiooberlausitzinternational?ref=radiode&t302=2019-09-26_21-39-50&uuid=5c364ff2-ab71-4f14-9807-1ac3773f28e1
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2JOEiFhP-ObVtU4EJMfnTkqwEwpv3kvpe7g&s" group-title="community;variety",Radio VCA 88.5
 http://uk5.internet-radio.com:8035/live
 #EXTINF:-1 tvg-logo="https://store-images.s-microsoft.com/image/apps.5027.14343190908724800.98ef5ae3-fc39-42b3-b5cb-8c67ecd6b7f7.8e52cc54-02eb-4015-82c4-c1c5a4d4cce7" group-title="aboriginal;world;community",First Nations Radio 94.5
@@ -709,6 +707,8 @@ https://sbs-ice.streamguys1.com/sbs-popasia-sbs-web
 http://sbs-ice.streamguys1.com/sbs-popdesi
 #EXTINF:-1 tvg-logo="https://www.radioapp.com.au/wp-content/uploads/2018/12/05-Medium_Square_Logo_Transparent_Radioapp_450x450_GC-1.png" group-title="contemporary;hits",Sea FM 90.9
 https://wz4liw.scahw.com.au/live/4sea_128.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.sen.com.au/images/favicon-180x180.png" group-title="Sports;News;Talk",SEN 1170
+https://d11fwwlrb0wuhh.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://territoryfm.com/wp-content/uploads/2019/03/serene-square-170x170.jpg" group-title="ambient;chillout;dance",Serene
 https://usa7.fastcast4u.com/proxy/umevpocf?mp=/1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a5/2KY_%28Sky_Sports_Radio%29.jpg" group-title="sports;talk",Sky Sports Radio 1008
