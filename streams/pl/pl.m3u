@@ -1231,3 +1231,7 @@ http://zethit-02.cdn.eurozet.pl:8428/
 http://zetkid-02.cdn.eurozet.pl:8434/
 #EXTINF:-1 tvg-logo="http://static.fm.tuba.pl/stations/_img/zlote-przeboje_512.png" group-title="(.*);(.*);",Zlote Przeboje Poznan
 http://radiostream.pl/tuba8926-1.mp3
+#EXTINF:-1 tvg-logo="https://www.radio-eurodance-classic.eu/images/logo_rec_kdj.png" group-title="(.*);(.*);",Radio Eurodance Classic (128K MP3)
+http://quincy.torontocast.com:2380/stream
+#EXTINF:-1 tvg-logo="https://www.radio-eurodance-classic.eu/images/logo_rec_kdj.png" group-title="(.*);(.*);",Radio Eurodance Classic (64K AAC)
+https://quincy.torontocast.com:2965/stream
