@@ -1,5 +1,5 @@
 {
-  "total_stations": 22402,
+  "total_stations": 22397,
   "total_countries": 228,
   "countries": [
     {
@@ -40,7 +40,7 @@
     },
     {
       "code": "PL",
-      "count": 616
+      "count": 618
     },
     {
       "code": "AE",
@@ -48,7 +48,7 @@
     },
     {
       "code": "GB",
-      "count": 594
+      "count": 586
     },
     {
       "code": "BR",
@@ -56,7 +56,7 @@
     },
     {
       "code": "AU",
-      "count": 423
+      "count": 424
     },
     {
       "code": "ES",
@@ -994,7 +994,7 @@
     {
       "code": "AU",
       "file": "streams/au/au.m3u",
-      "count": 423
+      "count": 424
     },
     {
       "code": "CO",
@@ -1644,7 +1644,7 @@
     {
       "code": "PL",
       "file": "streams/pl/pl.m3u",
-      "count": 616
+      "count": 618
     },
     {
       "code": "PG",
@@ -2169,7 +2169,7 @@
     {
       "code": "GB",
       "file": "streams/gb/gb.m3u",
-      "count": 510
+      "count": 502
     },
     {
       "code": "GB",
@@ -2213,39 +2213,39 @@
     }
   ],
   "genre_stats": {
-    "total_unique_genres": 323,
+    "total_unique_genres": 317,
     "top_genres": [
       {
         "name": "(.*)",
-        "count": 39908
+        "count": 39896
       },
       {
         "name": "",
-        "count": 20623
+        "count": 20567
       },
       {
         "name": "news",
         "count": 423
       },
       {
+        "name": "talk",
+        "count": 392
+      },
+      {
         "name": "pop",
         "count": 389
       },
       {
-        "name": "talk",
-        "count": 339
-      },
-      {
         "name": "variety",
-        "count": 335
+        "count": 337
       },
       {
         "name": "hits",
-        "count": 214
+        "count": 215
       },
       {
         "name": "community",
-        "count": 182
+        "count": 183
       },
       {
         "name": "rock",
@@ -2265,23 +2265,19 @@
       },
       {
         "name": "sports",
-        "count": 88
+        "count": 90
       },
       {
         "name": "christian",
         "count": 87
       },
       {
-        "name": "religious",
-        "count": 82
-      },
-      {
         "name": "oldies",
-        "count": 82
+        "count": 87
       },
       {
-        "name": "public",
-        "count": 82
+        "name": "religious",
+        "count": 85
       },
       {
         "name": "adult",
@@ -2289,7 +2285,7 @@
       },
       {
         "name": "folk",
-        "count": 66
+        "count": 69
       },
       {
         "name": "culture",
@@ -2300,16 +2296,12 @@
         "count": 58
       },
       {
-        "name": "information",
-        "count": 51
-      },
-      {
         "name": "electronic",
         "count": 36
       },
       {
         "name": "classical",
-        "count": 32
+        "count": 31
       },
       {
         "name": "noticias",
@@ -2328,11 +2320,11 @@
         "count": 29
       },
       {
-        "name": "classic",
-        "count": 28
+        "name": "alternative",
+        "count": 27
       },
       {
-        "name": "alternative",
+        "name": "public",
         "count": 27
       },
       {
@@ -2349,6 +2341,10 @@
       },
       {
         "name": "catholic",
+        "count": 23
+      },
+      {
+        "name": "classic",
         "count": 23
       },
       {
@@ -2374,10 +2370,6 @@
       {
         "name": "schlager",
         "count": 18
-      },
-      {
-        "name": "local",
-        "count": 17
       },
       {
         "name": "latin",
@@ -2412,10 +2404,18 @@
         "count": 13
       },
       {
+        "name": "local",
+        "count": 13
+      },
+      {
         "name": "arabic",
+        "count": 12
+      },
+      {
+        "name": "spanish",
         "count": 12
       }
     ]
   },
-  "updated": "2025-07-06T01:03:53Z"
+  "updated": "2025-07-09T02:06:00Z"
 }
