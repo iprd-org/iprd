@@ -1,145 +1,147 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm3BUaC2RoLnSbR6YlyJHnzeKYCWrDkgqzew&s" group-title="top 40;pop;hits;",Radio N-Joy 106.5
-https://cdn.bweb.bg/radio/njoy.mp3
-#EXTINF:-1 tvg-logo="https://www.boyanov.com/wp-content/uploads/2006/04/fmplus.png" group-title="pop;adult;contemporary;",Radio FM+
-http://193.108.24.6:8000/fmplusnew?file=.mp3
-#EXTINF:-1 tvg-logo="https://greenbalkans.org/natura2000/newhorisons/thumbs/files/A_0/714/logo200-LyEM.jpg&w=962&fltr[]=wmi%7C../watermark.png%7CBR%7C90%7C5%7C5&code=A714" group-title="news;sports;world;",Darik Radio Burgas
-https://darikradio.by.host.bg:8000/Burgas
-#EXTINF:-1 tvg-logo="https://greenbalkans.org/natura2000/newhorisons/thumbs/files/A_0/714/logo200-LyEM.jpg&w=962&fltr[]=wmi%7C../watermark.png%7CBR%7C90%7C5%7C5&code=A714" group-title="news;sports;world;",Darik Radio Ruse
-https://darikradio.by.host.bg:8000/Ruse
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/gIISdyzEFwg2Pl_2q99HDuI6OljLaDyBjCU6eid2qC63qEkUSuLe5uYXdqoEQ8NGoUss" group-title="pop;news;hits;",Avto Radio 101.8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/gIISdyzEFwg2Pl_2q99HDuI6OljLaDyBjCU6eid2qC63qEkUSuLe5uYXdqoEQ8NGoUss" group-title="Pop;News;Hits",Avto Radio 101.8
 https://25483.live.streamtheworld.com/AVTORADIOAAC_L.aac
-#EXTINF:-1 tvg-logo="https://static-cdn.radioto.info/images/brands/bg/thumb_btvradio.png" group-title="world;variety;",bTV Radio 101.1
-https://cdn.bweb.bg/radio/btv-radio.mp3
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/972/jazz-fm-bulgaria.4fc08b51.png" group-title="jazz;blues;soul;",Jazz FM
-https://cdn.bweb.bg/radio/jazz-fm.mp3
-#EXTINF:-1 tvg-logo="http://www.radio1rock.bg/theme_assets/radio1rock/images/favicon.png" group-title="rock;classic;",Radio 1 Rock 98.3
-http://31.13.223.148:8000/1_rock.mp3
-#EXTINF:-1 tvg-logo="http://www.predavatel.com/bg/radio/bgradio.png" group-title="local;pop;",BG Radio
-http://stream.radioreklama.bg/bgradio128
-#EXTINF:-1 tvg-logo="http://www.predavatel.com/bg/radio/bgradio.png" group-title="local;pop;",BG Radio
-http://stream.metacast.eu/bgradio128
-#EXTINF:-1 tvg-logo="http://www.predavatel.com/bg/radio/online/bgradio-estrada.png" group-title="schlager;traditional;pop;",BG Estrada
+#EXTINF:-1 tvg-logo="http://www.predavatel.com/bg/radio/online/bgradio-estrada.png" group-title="Schlager;Folk;Pop",BG Estrada
 http://149.13.0.81/bgestrada
-#EXTINF:-1 tvg-logo="http://bnr.bg/favicon.ico" group-title="pop;culture;",BNR Radio Shumen 87.6
-http://stream.bnr.bg:8033/radio-shumen.aac
-#EXTINF:-1 tvg-logo="http://bnr.bg/img/logos/radio_sofia.png" group-title="public;pop;",BNR Radio Sofia 94.5
-http://stream.bnr.bg:8030/radio-sofia.aac
-#EXTINF:-1 tvg-logo="http://bnr.bg/img/logos/starazagora.png" group-title="public;pop;",BNR Stara Zagora 88.3
-http://82.103.99.99:8000/radiosz
-#EXTINF:-1 tvg-logo="http://bnr.bg/img/logos/varna.png" group-title="pop;public;",BNR Varna 103.4
-http://broadcast.masters.bg:8000/live
-#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/artworks-000079500926-8o6ksn-t500x500.jpg" group-title="hits;pop;",City Bulgaria 99.7
-http://31.13.223.148:8000/city.mp3
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/zfe23cuhjzfd.png" group-title="variety;talk;",Bulgaria On Air
-https://live.radio.bgonair.bg/RadioBOA
-#EXTINF:-1 tvg-logo="http://www.dancewithme-bg.com/images/liveradio/logo.png" group-title="dance;electronic;",Radio Dance With Me
-http://g5.turbohost.eu:8002/stream320
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s1003d.png" group-title="pop;news;politics;",Darik Radio 91.5
-https://darikradio.by.host.bg:8000/S2-128
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/radio/ee/eparkhiiski-glas-bg.png" group-title="orthodox;christian;",Eparkhiiski Glas
-https://radio.mitropolia-sofia.org:7610/stream
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Puj33j-pJOhUK8jFBaBNAzS97xswCXfHlWGa73ecQCrj5WDZvXfdwbTvIIVb-hDtUCo" group-title="dance;retro;",Radio Energy 89.5
-http://149.13.0.80/nrj128
-#EXTINF:-1 tvg-logo="http://radioenergy.bg/theme_assets/radioenergy/images/sharing/radio_default_banner.jpg" group-title="dance;retro;",Radio Energy 89.5
-http://stream.radioreklama.bg/energy-90s.ogg
-#EXTINF:-1 tvg-logo="https://www.allonlineradio.com/wp-content/uploads/2024/02/Bulgaria-radio-Radio-Focus-Sofia-logo.jpg" group-title="news;talk;variety;",Radio Focus Sofia 103.6
-https://focusradio.dataserv.cc/1
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLu4DtnX9gr8kl0cqDzhePl5QaN3Yy2ox1g-t1TEtwiaQ27rY4S4DY-Lg4qARbC6v56DI&usqp=CAU" group-title="rock;pop;news;",Radio Fresh 100.3
-http://31.13.223.148:8000/fresh.mp3
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/_RoR-1v43z1E/TToGkbRBWuI/AAAAAAAAAU0/0VrxqD0ipm8/s1600/radiofresh.jpg" group-title="hits;rock;pop;",Radio Fresh!
-http://193.108.24.21:8000/fresh
-#EXTINF:-1 tvg-logo="https://images.radiovolna.net/_files/images/stations/420844/5631443b51425cbd97b47afb17c9b244.jpg" group-title="pop;hits;",Radio Hot 93.9
-http://77.76.184.254:8000/hfm-public
-#EXTINF:-1 tvg-logo="https://radiomelody.bg/i/logo.png" group-title="classic;hits;oldies;",Radio Melody 93.4
-http://193.108.24.6:8000/melody?file=.mp3
-#EXTINF:-1 tvg-logo="http://www.predavatel.com/bg/3/plovdiv_snimki/kat.jpg" group-title="contemporary;hits;",Radio Katra 100.4
-http://www.katrafm.com:8000/live
-#EXTINF:-1 tvg-logo="https://www.magic.bg/img/og-image.jpg" group-title="rock;pop;top 40;",Magic 92.4/100.2
-https://bss.neterra.tv/rtplive/magicfmradio_live.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://radiomaia.com/wp-content/uploads/2015/08/cropped-maq9-e1430946025479-192x192.png" group-title="hits;hot;adult;",Maya Burgas
-http://rnmediagroup.com:9000/listen.pls
-#EXTINF:-1 tvg-logo="http://radiomaia.com/wp-content/uploads/2015/08/cropped-maq9-e1430946025479-192x192.png" group-title="contemporary;hits;dance;",Maya Varna
-http://rnmediagroup.com:10000/listen.pls
-#EXTINF:-1 tvg-logo="https://metrocast.top/favicon.ico" group-title="club;dance;news;talk;",Metro DANCE Radio
-https://eu1.reliastream.com/proxy/mdr?mp=/MDR
-#EXTINF:-1 tvg-logo="https://metrocast.top/favicon.ico" group-title="hits;news;pop;talk;top 40;",Metro HITS Radio
-https://eu1.reliastream.com/proxy/mhr?mp=/MHR
-#EXTINF:-1 tvg-logo="http://njsradio.com/wp-content/uploads/2019/04/njsavatar.png" group-title="R'n'B;urban;",NJS Radio New Jack Swing
-http://162.244.80.106:11198/
-#EXTINF:-1 tvg-logo="http://www.predavatel.com/bg/1/sofia_snimki/nova.png" group-title="dance;electronic;house;",Radio Nova 101.7
-http://stream.metacast.eu/nova.ogg
-#EXTINF:-1 tvg-logo="http://www.predavatel.com/bg/1/sofia_snimki/nova.png" group-title="dance;electronic;house;",Radio Nova 101.7
-http://31.13.223.148:8000/nova.mp3
-#EXTINF:-1 tvg-logo="https://static.nova.bg/files/nova/images/favicon.ico?v=1" group-title="news;talk;",Radio Nova News
-http://stream.radioreklama.bg/novanews.aac
-#EXTINF:-1 tvg-logo="https://static.nova.bg/files/nova/images/logo_big.jpg" group-title="news;talk;",Radio Nova News
-http://149.13.0.80/novanews.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/l87cQhVxInGBHVukgOhfzTbhWluA5uDC4EcGbDl8oo5szzNkbBCwPPPNmzvKIFETDldIQkno6wd1Pt_U42h95UdBc1hhLXIBqwR9wQEp8y_ObRQfsgpmv2MGy6xHYB4" group-title="electronic;dance;edm;",onlineDJradio
-https://play.onlinedjradio.com:7000/live
-#EXTINF:-1 tvg-logo="http://www.predavatel.com/bg/radio/radio1.png" group-title="hits;classic;",Radio 1 BG
-http://stream.metacast.eu/radio1128
-#EXTINF:-1 tvg-logo="http://www.predavatel.com/bg/radio/radio1.png" group-title="hits;classic;",Radio 1 BG
-http://149.13.0.81/radio1.ogg
-#EXTINF:-1 tvg-logo="http://www.predavatel.com/bg/radio/radio1rock.png" group-title="rock;hits;",Radio 1 Rock 98.3
-http://stream.metacast.eu/radio1rock.ogg
-#EXTINF:-1 tvg-logo="http://radio1.bg/theme_assets/radio1/images/logo.png" group-title="classic;hits;news;",Radio 1
-http://stream.radioreklama.bg/radio164
-#EXTINF:-1 tvg-logo="http://www.predavatel.com/bg/radio/radio1.png" group-title="hits;classic;",Radio 1 BG
-http://62.204.158.5:8081/live
-#EXTINF:-1 tvg-logo="http://www.predavatel.com/bg/radio/melody.png" group-title="classic;hits;oldies;",Radio Melody
-http://193.108.24.6:8000/melody
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/4/71214.v10.png" group-title="electronic;oldies;",Radio Viva 94.5
-http://stream.radioextra-bg.net:8000/viva-eurodance
-#EXTINF:-1 tvg-logo="http://www.radiotangra.com/img/logo_tangra.png" group-title="hard;rock;metal;",Radio Tangra
-http://stream-bg-01.radiotangra.com:8000/Tangra-high
-#EXTINF:-1 tvg-logo="http://media.metacast.eu/pictures/05_2016/1u3XLwvIqfH9hrgS24iT-12813.png" group-title="90s;pop;",Test NRJ Sergio IP
-http://149.13.0.80/energy-90s
-#EXTINF:-1 tvg-logo="https://i0.wp.com/trafficradio.org/wp-content/uploads/2011/09/cropped-175x175-75.jpg?fit=270%2C270" group-title="club;house;",Traffic Radio Station
-http://radio.networx.bg:8000/TrafficRadio
-#EXTINF:-1 tvg-logo="http://www.predavatel.com/bg/2/blagoevgrad_snimki/ultra.gif" group-title="pop;english;",Ultra Blagoevgrad 92.6
-http://88.80.96.25:3060/
-#EXTINF:-1 tvg-logo="http://www.predavatel.com/bg/2/blagoevgrad_snimki/ultra.gif" group-title="pop;folk;",Ultra Sandanski 103.4
-http://88.80.96.25:8000/
-#EXTINF:-1 tvg-logo="http://www.radiovega.bg/images/yootheme/logo.png" group-title="00s;80s;90s;",Radio Vega Sandaski
-http://88.80.96.25:8040/
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/_RoR-1v43z1E/TTlk7rMLNPI/AAAAAAAAAUQ/pptgTF1uKBI/s1600/radioveronika.jpg" group-title="world;folk;",Radio Veronika 96.7
-http://stream.metacast.eu/veronika.ogg
-#EXTINF:-1 tvg-logo="http://www.radiovitosha.com/img/og_image.png" group-title="hot;adult;contemporary;",Radio Vitosha 97.6
-https://bss.neterra.tv/rtplive/vitosharadio_live.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://zrockradio.bg/wp-content/uploads/2017/08/cropped-Z-Rock-Logo-32x32.png" group-title="metal;rock;metal;",Radio Z-Rock
-http://193.108.24.6:8000/zrock
-#EXTINF:-1 tvg-logo="http://bgradio.bg/theme_assets/bgradio/images/sharing/radio_default_banner.jpg" group-title="dance;party;pop;",BG Radio
+#EXTINF:-1 tvg-logo="http://www.predavatel.com/bg/radio/bgradio.png" group-title="Talk;Pop",BG Radio
+http://stream.radioreklama.bg/bgradio128
+#EXTINF:-1 tvg-logo="http://www.predavatel.com/bg/radio/bgradio.png" group-title="Talk;Pop",BG Radio
+http://stream.metacast.eu/bgradio128
+#EXTINF:-1 tvg-logo="http://bgradio.bg/theme_assets/bgradio/images/sharing/radio_default_banner.jpg" group-title="Dance;Party;Pop",BG Radio
 http://stream.radioreklama.bg/bgradio.opus
-#EXTINF:-1 tvg-logo="https://bnr.bg/img/logos/bnr.png" group-title="public;kids;children;",BNR Children's Program
+#EXTINF:-1 tvg-logo="https://bnr.bg/img/logos/bnr.png" group-title="Youth;Talk",BNR Children's Program
 http://stream.bnr.bg:8013/detskoto-bnr.aac
-#EXTINF:-1 tvg-logo="https://bnr.bg/img/logos/blagoevgrad.png" group-title="public;pop;news;",BNR Radio Blagoevgrad 90.9/106.6
-http://stream.bnr.bg:8035/radio-blagoevgrad.aac
-#EXTINF:-1 tvg-logo="https://bnr.bg/img/logos/burgas.png" group-title="public;traditional;hits;",BNR Radio Burgas 92.5
-http://stream.bnr.bg:8037/radio-burgas.aac
-#EXTINF:-1 tvg-logo="https://bnr.bg/img/logos/vidin.png" group-title="pop;news;talk;",BNR Radio Vidin 97.1
-http://stream.bnr.bg:8036/radio-vidin.aac
-#EXTINF:-1 tvg-logo="https://bnr.bg/img/logos/kardzhali.png" group-title="pop;news;talk;",BNR Radio Kardzhali 90.0
-http://stream.bnr.bg:8038/radio-kardzhali.aac
-#EXTINF:-1 tvg-logo="https://bnr.bg/img/logos/plovdiv.png" group-title="pop;news;talk;",BNR Radio Plovdiv 94.0
-http://stream.bnr.bg:8032/radio-plovdiv.aac
-#EXTINF:-1 tvg-logo="https://bnr.bg/img/logos/starazagora.png" group-title="pop;news;talk;",BNR Radio Stara Zagora
-http://stream.bnr.bg:8034/radio-stara-zagora.aac
-#EXTINF:-1 tvg-logo="http://bnr.bg/img/logos/horizont.png" group-title="world;news;talk;",BNR Horizont 103.0
+#EXTINF:-1 tvg-logo="http://bnr.bg/img/logos/horizont.png" group-title="World;News;Talk",BNR Horizont 103.0
 http://stream.bnr.bg:8011/horizont.aac
-#EXTINF:-1 tvg-logo="http://bnr.bg/img/logos/hristobotev.png" group-title="classical;opera;",BNR Hristo Botev
+#EXTINF:-1 tvg-logo="http://bnr.bg/img/logos/hristobotev.png" group-title="Classical;Opera",BNR Hristo Botev
 http://stream.bnr.bg:8012/hristo-botev.aac
-#EXTINF:-1 tvg-logo="http://dariknostalgie.bg/wp-content/uploads/2015/03/DARIK-NOSTALGIE-COLOR1.jpg" group-title="oldies;hits;",Darrik Nostalgie 90.0
+#EXTINF:-1 tvg-logo="https://bnr.bg/img/logos/blagoevgrad.png" group-title="Talk;Pop;News",BNR Radio Blagoevgrad 90.9/106.6
+http://stream.bnr.bg:8035/radio-blagoevgrad.aac
+#EXTINF:-1 tvg-logo="https://bnr.bg/img/logos/burgas.png" group-title="Talk;Folk;Hits",BNR Radio Burgas 92.5
+http://stream.bnr.bg:8037/radio-burgas.aac
+#EXTINF:-1 tvg-logo="https://bnr.bg/img/logos/kardzhali.png" group-title="Pop;News;Talk",BNR Radio Kardzhali 90.0
+http://stream.bnr.bg:8038/radio-kardzhali.aac
+#EXTINF:-1 tvg-logo="https://bnr.bg/img/logos/plovdiv.png" group-title="Pop;News;Talk",BNR Radio Plovdiv 94.0
+http://stream.bnr.bg:8032/radio-plovdiv.aac
+#EXTINF:-1 tvg-logo="http://bnr.bg/favicon.ico" group-title="Pop;Culture",BNR Radio Shumen 87.6
+http://stream.bnr.bg:8033/radio-shumen.aac
+#EXTINF:-1 tvg-logo="http://bnr.bg/img/logos/radio_sofia.png" group-title="Talk;Pop",BNR Radio Sofia 94.5
+http://stream.bnr.bg:8030/radio-sofia.aac
+#EXTINF:-1 tvg-logo="http://bnr.bg/img/logos/starazagora.png" group-title="Talk;Pop",BNR Stara Zagora 88.3
+http://82.103.99.99:8000/radiosz
+#EXTINF:-1 tvg-logo="https://bnr.bg/img/logos/starazagora.png" group-title="Pop;News;Talk",BNR Stara Zagora 88.3
+http://stream.bnr.bg:8034/radio-stara-zagora.aac
+#EXTINF:-1 tvg-logo="http://bnr.bg/img/logos/varna.png" group-title="Pop;Talk",BNR Varna 103.4
+http://broadcast.masters.bg:8000/live
+#EXTINF:-1 tvg-logo="https://bnr.bg/img/logos/vidin.png" group-title="Pop;News;Talk",BNR Radio Vidin 97.1
+http://stream.bnr.bg:8036/radio-vidin.aac
+#EXTINF:-1 tvg-logo="https://static-cdn.radioto.info/images/brands/bg/thumb_btvradio.png" group-title="World;Variety",bTV Radio 101.1
+https://cdn.bweb.bg/radio/btv-radio.mp3
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/zfe23cuhjzfd.png" group-title="Variety;Talk",Bulgaria On Air
+https://live.radio.bgonair.bg/RadioBOA
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/artworks-000079500926-8o6ksn-t500x500.jpg" group-title="Hits;Pop",City Bulgaria 99.7
+http://31.13.223.148:8000/city.mp3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkUfrL3B18YO4xAOGRsEVa6opQli_-2KnFeg&s" group-title="Classical;Opera",Classic FM 88.0
+https://cdn.bweb.bg/radio/classic-fm.mp3
+#EXTINF:-1 tvg-logo="https://greenbalkans.org/natura2000/newhorisons/thumbs/files/A_0/714/logo200-LyEM.jpg&w=962&fltr[]=wmi%7C../watermark.png%7CBR%7C90%7C5%7C5&code=A714" group-title="News;Sports;World",Darik Radio Burgas
+https://darikradio.by.host.bg:8000/Burgas
+#EXTINF:-1 tvg-logo="https://greenbalkans.org/natura2000/newhorisons/thumbs/files/A_0/714/logo200-LyEM.jpg&w=962&fltr[]=wmi%7C../watermark.png%7CBR%7C90%7C5%7C5&code=A714" group-title="News;Sports;World",Darik Radio Ruse
+https://darikradio.by.host.bg:8000/Ruse
+#EXTINF:-1 tvg-logo="http://dariknostalgie.bg/wp-content/uploads/2015/03/DARIK-NOSTALGIE-COLOR1.jpg" group-title="Oldies;Hits",Darik Nostalgie 90.0
 https://darikradio.by.host.bg:8000/Nostalgie
-#EXTINF:-1 tvg-logo="http://radioenergy.bg/theme_assets/radioenergy/images/sharing/radio_default_banner.jpg" group-title="dance;hits;party;",Radio ENERGY
-http://stream.radioreklama.bg/nrj.opus
-#EXTINF:-1 tvg-logo="https://radiorazgrad.com/wp-content/uploads/2019/05/razgrad-300-250.png" group-title="community;variety;",Radio Razgrad
-http://188.126.1.25:8000/razgrad
-#EXTINF:-1 tvg-logo="https://www.radioveselina.bg//img/fav.ico" group-title="pop;news;talk;",Radio Veselina 99.1
-https://bss.neterra.tv/rtplive/veselinaradio_live.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.radiokanon.com/images/favicon.png" group-title="christian;orthodox;religious;",Radio Kanon
-http://79.98.108.170:8059/stream
-#EXTINF:-1 tvg-logo="https://www.powerfm.bg/assets/images/logo.png" group-title="pop;rock;hip hop;",Power FM 91.1
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s1003d.png" group-title="Pop;News;Politics",Darik Radio 91.5
+https://darikradio.by.host.bg:8000/S2-128
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/radio/ee/eparkhiiski-glas-bg.png" group-title="Orthodox;Christian",Eparkhiiski Glas
+https://radio.mitropolia-sofia.org:7610/stream
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/972/jazz-fm-bulgaria.4fc08b51.png" group-title="Jazz;Blues;Soul",Jazz FM
+https://cdn.bweb.bg/radio/jazz-fm.mp3
+#EXTINF:-1 tvg-logo="https://www.magic.bg/img/og-image.jpg" group-title="Rock;Pop;Top 40",Magic 92.4/100.2
+https://bss.neterra.tv/rtplive/magicfmradio_live.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://radiomaia.com/wp-content/uploads/2015/08/cropped-maq9-e1430946025479-192x192.png" group-title="Hits;Hot;Adult",Maya Burgas
+http://rnmediagroup.com:9000/listen.pls
+#EXTINF:-1 tvg-logo="http://radiomaia.com/wp-content/uploads/2015/08/cropped-maq9-e1430946025479-192x192.png" group-title="Contemporary;Hits;Dance",Maya Varna
+http://rnmediagroup.com:10000/listen.pls
+#EXTINF:-1 tvg-logo="https://metrocast.top/favicon.ico" group-title="Club;Dance;News",Metro DANCE Radio
+https://eu1.reliastream.com/proxy/mdr?mp=/MDR
+#EXTINF:-1 tvg-logo="https://metrocast.top/favicon.ico" group-title="Hits;News;Pop",Metro HITS Radio
+https://eu1.reliastream.com/proxy/mhr?mp=/MHR
+#EXTINF:-1 tvg-logo="http://njsradio.com/wp-content/uploads/2019/04/njsavatar.png" group-title="R'n'B;Urban",NJS Radio New Jack Swing
+http://162.244.80.106:11198/
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/l87cQhVxInGBHVukgOhfzTbhWluA5uDC4EcGbDl8oo5szzNkbBCwPPPNmzvKIFETDldIQkno6wd1Pt_U42h95UdBc1hhLXIBqwR9wQEp8y_ObRQfsgpmv2MGy6xHYB4" group-title="Electronic;Dance;EDM",onlineDJradio
+https://play.onlinedjradio.com:7000/live
+#EXTINF:-1 tvg-logo="https://www.powerfm.bg/assets/images/logo.png" group-title="Pop;Rock;Hip Hop",Power FM 91.1
 http://a1.virtualradio.eu:8000/powerfm.mp3
-#EXTINF:-1 tvg-logo="https://www.radioexpert.net/radio-logo/bulgaria/radio-horo-23-%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82-%D1%80%D0%B0%D0%B4%D0%B8%D0%BE-bulgaria-320.jpg" group-title="folk;world;",Radio Horo
+#EXTINF:-1 tvg-logo="http://radio1.bg/theme_assets/radio1/images/logo.png" group-title="Oldies;Hits;News",Radio 1
+http://stream.radioreklama.bg/radio164
+#EXTINF:-1 tvg-logo="http://www.predavatel.com/bg/radio/radio1.png" group-title="Hits;Oldies",Radio 1 BG
+http://stream.metacast.eu/radio1128
+#EXTINF:-1 tvg-logo="http://www.predavatel.com/bg/radio/radio1.png" group-title="Hits;Oldies",Radio 1 BG
+http://149.13.0.81/radio1.ogg
+#EXTINF:-1 tvg-logo="http://www.predavatel.com/bg/radio/radio1.png" group-title="Hits;Oldies",Radio 1 BG
+http://62.204.158.5:8081/live
+#EXTINF:-1 tvg-logo="http://www.predavatel.com/bg/radio/radio1rock.png" group-title="Rock;Hits",Radio 1 Rock 98.3
+http://stream.metacast.eu/radio1rock.ogg
+#EXTINF:-1 tvg-logo="http://www.radio1rock.bg/theme_assets/radio1rock/images/favicon.png" group-title="Rock;Oldies",Radio 1 Rock 98.3
+http://31.13.223.148:8000/1_rock.mp3
+#EXTINF:-1 tvg-logo="http://www.dancewithme-bg.com/images/liveradio/logo.png" group-title="Dance;Electronic",Radio Dance With Me
+http://g5.turbohost.eu:8002/stream320
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Puj33j-pJOhUK8jFBaBNAzS97xswCXfHlWGa73ecQCrj5WDZvXfdwbTvIIVb-hDtUCo" group-title="Dance;Retro",Radio Energy 89.5
+http://149.13.0.80/nrj128
+#EXTINF:-1 tvg-logo="http://radioenergy.bg/theme_assets/radioenergy/images/sharing/radio_default_banner.jpg" group-title="Dance;Retro",Radio Energy 89.5
+http://stream.radioreklama.bg/energy-90s.ogg
+#EXTINF:-1 tvg-logo="https://www.boyanov.com/wp-content/uploads/2006/04/fmplus.png" group-title="Pop;Adult;Contemporary",Radio FM+
+http://193.108.24.6:8000/fmplusnew?file=.mp3
+#EXTINF:-1 tvg-logo="https://www.allonlineradio.com/wp-content/uploads/2024/02/Bulgaria-radio-Radio-Focus-Sofia-logo.jpg" group-title="News;Talk;Variety",Radio Focus Sofia 103.6
+https://focusradio.dataserv.cc/1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLu4DtnX9gr8kl0cqDzhePl5QaN3Yy2ox1g-t1TEtwiaQ27rY4S4DY-Lg4qARbC6v56DI&usqp=CAU" group-title="Rock;Pop;News",Radio Fresh 100.3
+http://31.13.223.148:8000/fresh.mp3
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/_RoR-1v43z1E/TToGkbRBWuI/AAAAAAAAAU0/0VrxqD0ipm8/s1600/radiofresh.jpg" group-title="Hits;Rock;Pop",Radio Fresh!
+http://193.108.24.21:8000/fresh
+#EXTINF:-1 tvg-logo="https://www.radioexpert.net/radio-logo/bulgaria/radio-horo-23-%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82-%D1%80%D0%B0%D0%B4%D0%B8%D0%BE-bulgaria-320.jpg" group-title="Folk;World",Radio Horo
 http://g5.turbohost.eu:8020/stream256
+#EXTINF:-1 tvg-logo="https://images.radiovolna.net/_files/images/stations/420844/5631443b51425cbd97b47afb17c9b244.jpg" group-title="Pop;Hits",Radio Hot 93.9
+http://77.76.184.254:8000/hfm-public
+#EXTINF:-1 tvg-logo="http://www.radiokanon.com/images/favicon.png" group-title="Christian;Orthodox;Religious",Radio Kanon
+http://79.98.108.170:8059/stream
+#EXTINF:-1 tvg-logo="http://www.predavatel.com/bg/3/plovdiv_snimki/kat.jpg" group-title="Contemporary;Hits",Radio Katra 100.4
+http://www.katrafm.com:8000/live
+#EXTINF:-1 tvg-logo="https://radiomelody.bg/i/logo.png" group-title="Hits;Oldies",Radio Melody 93.4
+http://193.108.24.6:8000/melody?file=.mp3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm3BUaC2RoLnSbR6YlyJHnzeKYCWrDkgqzew&s" group-title="Top 40;Pop;Hits",Radio N-Joy 106.5
+https://cdn.bweb.bg/radio/njoy.mp3
+#EXTINF:-1 tvg-logo="http://www.predavatel.com/bg/1/sofia_snimki/nova.png" group-title="Dance;Electronic;House",Radio Nova 101.7
+http://stream.metacast.eu/nova.ogg
+#EXTINF:-1 tvg-logo="http://www.predavatel.com/bg/1/sofia_snimki/nova.png" group-title="Dance;Electronic;House",Radio Nova 101.7
+http://31.13.223.148:8000/nova.mp3
+#EXTINF:-1 tvg-logo="https://static.nova.bg/files/nova/images/favicon.ico?v=1" group-title="News;Talk",Radio Nova News
+http://stream.radioreklama.bg/novanews.aac
+#EXTINF:-1 tvg-logo="https://static.nova.bg/files/nova/images/logo_big.jpg" group-title="News;Talk",Radio Nova News
+http://149.13.0.80/novanews.mp4
+#EXTINF:-1 tvg-logo="https://radiorazgrad.com/wp-content/uploads/2019/05/razgrad-300-250.png" group-title="Community;Variety",Radio Razgrad
+http://188.126.1.25:8000/razgrad
+#EXTINF:-1 tvg-logo="http://www.radiotangra.com/img/logo_tangra.png" group-title="Hard;Rock;Metal",Radio Tangra
+http://stream-bg-01.radiotangra.com:8000/Tangra-high
+#EXTINF:-1 tvg-logo="http://www.radiovega.bg/images/yootheme/logo.png" group-title="00s;80s;90s",Radio Vega Sandaski
+http://88.80.96.25:8040/
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/_RoR-1v43z1E/TTlk7rMLNPI/AAAAAAAAAUQ/pptgTF1uKBI/s1600/radioveronika.jpg" group-title="World;Folk",Radio Veronika 96.7
+http://stream.metacast.eu/veronika.ogg
+#EXTINF:-1 tvg-logo="https://www.radioveselina.bg//img/fav.ico" group-title="Pop;News;Talk",Radio Veselina 99.1
+https://bss.neterra.tv/rtplive/veselinaradio_live.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.radiovitosha.com/img/og_image.png" group-title="Hot;Adult;Contemporary",Radio Vitosha 97.6
+https://bss.neterra.tv/rtplive/vitosharadio_live.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/4/71214.v10.png" group-title="Electronic;Oldies",Radio Viva 94.5
+http://stream.radioextra-bg.net:8000/viva-eurodance
+#EXTINF:-1 tvg-logo="http://zrockradio.bg/wp-content/uploads/2017/08/cropped-Z-Rock-Logo-32x32.png" group-title="Metal;Rock;Metal",Radio Z-Rock
+http://193.108.24.6:8000/zrock
+#EXTINF:-1 tvg-logo="http://media.metacast.eu/pictures/05_2016/1u3XLwvIqfH9hrgS24iT-12813.png" group-title="90s;Pop",Test NRJ Sergio IP
+http://149.13.0.80/energy-90s
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/__faa_zrq1h4WsHDxXc0UyzNZ1fa0TZVFDwQSPZOij9Jim4sMP5Kh5LWcUnw8Ktiq-PuIMf-GA=s900-c-k-c0x00ffffff-no-rj" group-title="contemporary;hits",The Voice
+https://bss1.neterra.tv/thevoicefm/stream_0.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/trafficradio.org/wp-content/uploads/2011/09/cropped-175x175-75.jpg?fit=270%2C270" group-title="Club;House",Traffic Radio Station
+http://radio.networx.bg:8000/TrafficRadio
+#EXTINF:-1 tvg-logo="http://www.predavatel.com/bg/2/blagoevgrad_snimki/ultra.gif" group-title="Pop;English",Ultra Blagoevgrad 92.6
+http://88.80.96.25:3060/
+#EXTINF:-1 tvg-logo="http://www.predavatel.com/bg/2/blagoevgrad_snimki/ultra.gif" group-title="Pop;Folk",Ultra Sandanski 103.4
+http://88.80.96.25:8000/
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/65/Zrock_bulgaria.gif" group-title="Rock;Pop",Z-Rock
+http://193.108.24.6:8000/zrock
