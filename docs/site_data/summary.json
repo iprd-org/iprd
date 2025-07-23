@@ -1,5 +1,5 @@
 {
-  "total_stations": 22414,
+  "total_stations": 22455,
   "total_countries": 228,
   "countries": [
     {
@@ -195,6 +195,10 @@
       "count": 53
     },
     {
+      "code": "BO",
+      "count": 47
+    },
+    {
       "code": "TW",
       "count": 44
     },
@@ -205,10 +209,6 @@
     {
       "code": "LT",
       "count": 41
-    },
-    {
-      "code": "BO",
-      "count": 37
     },
     {
       "code": "TH",
@@ -303,6 +303,10 @@
       "count": 21
     },
     {
+      "code": "BI",
+      "count": 21
+    },
+    {
       "code": "IS",
       "count": 20
     },
@@ -379,6 +383,10 @@
       "count": 15
     },
     {
+      "code": "BJ",
+      "count": 14
+    },
+    {
       "code": "NA",
       "count": 14
     },
@@ -451,15 +459,15 @@
       "count": 9
     },
     {
-      "code": "BI",
-      "count": 9
-    },
-    {
       "code": "GN",
       "count": 9
     },
     {
       "code": "MG",
+      "count": 8
+    },
+    {
+      "code": "BM",
       "count": 8
     },
     {
@@ -523,6 +531,10 @@
       "count": 6
     },
     {
+      "code": "BN",
+      "count": 6
+    },
+    {
       "code": "MW",
       "count": 6
     },
@@ -544,10 +556,6 @@
     },
     {
       "code": "MC",
-      "count": 5
-    },
-    {
-      "code": "BM",
       "count": 5
     },
     {
@@ -628,10 +636,6 @@
     },
     {
       "code": "SM",
-      "count": 3
-    },
-    {
-      "code": "BJ",
       "count": 3
     },
     {
@@ -768,10 +772,6 @@
     },
     {
       "code": "WS",
-      "count": 1
-    },
-    {
-      "code": "BN",
       "count": 1
     },
     {
@@ -954,7 +954,7 @@
     {
       "code": "BJ",
       "file": "streams/bj/bj.m3u",
-      "count": 3
+      "count": 14
     },
     {
       "code": "EC",
@@ -1239,7 +1239,7 @@
     {
       "code": "BO",
       "file": "streams/bo/bo.m3u",
-      "count": 37
+      "count": 47
     },
     {
       "code": "CL",
@@ -1449,7 +1449,7 @@
     {
       "code": "BN",
       "file": "streams/bn/bn.m3u",
-      "count": 1
+      "count": 6
     },
     {
       "code": "IO",
@@ -1619,7 +1619,7 @@
     {
       "code": "BM",
       "file": "streams/bm/bm.m3u",
-      "count": 5
+      "count": 8
     },
     {
       "code": "MA",
@@ -2049,7 +2049,7 @@
     {
       "code": "BI",
       "file": "streams/bi/bi.m3u",
-      "count": 9
+      "count": 21
     },
     {
       "code": "ZM",
@@ -2213,7 +2213,7 @@
     }
   ],
   "genre_stats": {
-    "total_unique_genres": 316,
+    "total_unique_genres": 317,
     "top_genres": [
       {
         "name": "(.*)",
@@ -2221,43 +2221,43 @@
       },
       {
         "name": "",
-        "count": 20348
+        "count": 20339
       },
       {
         "name": "news",
-        "count": 427
+        "count": 434
       },
       {
         "name": "talk",
-        "count": 412
+        "count": 419
       },
       {
         "name": "pop",
-        "count": 392
+        "count": 397
       },
       {
         "name": "variety",
-        "count": 348
+        "count": 371
       },
       {
         "name": "hits",
-        "count": 216
+        "count": 217
       },
       {
         "name": "community",
-        "count": 186
+        "count": 189
       },
       {
         "name": "rock",
-        "count": 182
+        "count": 184
       },
       {
         "name": "world",
-        "count": 137
+        "count": 141
       },
       {
         "name": "contemporary",
-        "count": 102
+        "count": 103
       },
       {
         "name": "top 40",
@@ -2265,35 +2265,35 @@
       },
       {
         "name": "oldies",
+        "count": 98
+      },
+      {
+        "name": "religious",
         "count": 95
+      },
+      {
+        "name": "christian",
+        "count": 93
       },
       {
         "name": "sports",
         "count": 92
       },
       {
-        "name": "christian",
-        "count": 89
-      },
-      {
-        "name": "religious",
-        "count": 88
-      },
-      {
         "name": "adult",
-        "count": 73
+        "count": 74
       },
       {
         "name": "folk",
-        "count": 71
+        "count": 72
       },
       {
         "name": "culture",
-        "count": 66
+        "count": 67
       },
       {
         "name": "dance",
-        "count": 57
+        "count": 59
       },
       {
         "name": "electronic",
@@ -2308,12 +2308,12 @@
         "count": 31
       },
       {
-        "name": "90s",
+        "name": "hip hop",
         "count": 30
       },
       {
-        "name": "hip hop",
-        "count": 29
+        "name": "90s",
+        "count": 30
       },
       {
         "name": "80s",
@@ -2324,19 +2324,19 @@
         "count": 27
       },
       {
+        "name": "catholic",
+        "count": 26
+      },
+      {
+        "name": "r'n'b",
+        "count": 26
+      },
+      {
         "name": "jazz",
         "count": 26
       },
       {
-        "name": "catholic",
-        "count": 25
-      },
-      {
         "name": "70s",
-        "count": 24
-      },
-      {
-        "name": "r'n'b",
         "count": 24
       },
       {
@@ -2352,6 +2352,10 @@
         "count": 19
       },
       {
+        "name": "latino",
+        "count": 19
+      },
+      {
         "name": "schlager",
         "count": 18
       },
@@ -2364,15 +2368,19 @@
         "count": 18
       },
       {
-        "name": "latin",
+        "name": "french",
         "count": 17
       },
       {
-        "name": "latino",
-        "count": 16
+        "name": "urban",
+        "count": 15
       },
       {
-        "name": "urban",
+        "name": "islam",
+        "count": 15
+      },
+      {
+        "name": "latin",
         "count": 15
       },
       {
@@ -2380,11 +2388,11 @@
         "count": 14
       },
       {
-        "name": "youth",
+        "name": "blues",
         "count": 14
       },
       {
-        "name": "islam",
+        "name": "youth",
         "count": 14
       },
       {
@@ -2396,7 +2404,7 @@
         "count": 13
       },
       {
-        "name": "blues",
+        "name": "education",
         "count": 13
       },
       {
@@ -2406,16 +2414,8 @@
       {
         "name": "dutch",
         "count": 12
-      },
-      {
-        "name": "baroque",
-        "count": 12
-      },
-      {
-        "name": "education",
-        "count": 12
       }
     ]
   },
-  "updated": "2025-07-16T02:09:44Z"
+  "updated": "2025-07-23T02:12:11Z"
 }
