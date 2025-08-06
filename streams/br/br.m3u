@@ -235,6 +235,8 @@ https://cloud1.cdnseguro.com:9758/listen.pls
 http://stream.zeno.fm/acu0vhxxe48uv?rj-ttl=5&rj-tok=AAABfdxZHBMACmzLsfkUXpVlpA
 #EXTINF:-1 tvg-logo="http://fm.radioliberal.com.br/logo_liberal_fm.png" group-title="Oldies;Hits",Liberal 97.5
 http://177.105.192.70:9750/liberalfm.mp3
+#EXTINF:-1 tvg-logo="https://imgproxy.zenomedia.com/insecure/fit/192/192/ce/0/plain/https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDQvLi93wgMCxIOU3RhdGlvblByb2ZpbGUYgIDQoq3CjwkMogEEemVubw/image/%3Fresize=192x192&v=1" group-title="Rock;Blues;Folk",Lightness of Rock
+http://stream.zeno.fm/n0dt87vrnd0uv?rj-ttl=5&rj-tok=AAABfd5C_xEADXHYae2fRZm9lw
 #EXTINF:-1 tvg-logo="https://www.litoralfm.com.br/wp-content/uploads/2018/05/cropped-icon2-192x192.png" group-title="Pop;Hits",Litoral 95.9 Sul
 http://260045b.ha.azioncdn.net/0045b/_definst_/lfms.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.livemix.com.br/imagens/logo-preto.jpg" group-title="Pop;Hits",Live Mix
@@ -575,105 +577,101 @@ http://streaming12.hstbr.net:8116/live
 https://fmfortaleza.jmvstream.com/FMFortaleza_live
 #EXTINF:-1 tvg-logo="https://jb.fm/wp-content/uploads/2019/03/favicon.ico" group-title="Pop;Hits",Radio JB 99.9
 https://playerservices.streamtheworld.com/api/livestream-redirect/JBFMAAC.aac
+#EXTINF:-1 tvg-logo="https://public-rf-upload.minhawebradio.net/3671/favicon/420a5576457aef31ad934fd5ae284f74.png" group-title="Christian;Gospel",Rádio Jesus a Vida 96.3
+https://servidor40-3.brlogic.com:8004/live
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a50a7a_81465ac4da92440e8e9dbca4534a3a02~mv2.png" group-title="Alternative;Rock;Blues",Rádio LAM
+https://stream1.svrdedicado.org/8028/stream
+#EXTINF:-1 tvg-logo="https://radioleve.com/imagens/thumbs/d6af888479e65e9be9a508ee3341d9c1.png" group-title="Adulta;Oldies;Romântica",Radio Leve
+https://s09.maxcast.com.br:8098/live
 #EXTINF:-1 tvg-logo="http://www.pampa.com.br/favicon.ico" group-title="World;MPB",Radio Liberdade 95.9 Porto Alegre
 http://cast4.audiostream.com.br:8655/mp3
-#EXTINF:-1 tvg-logo="https://imgproxy.zenomedia.com/insecure/fit/192/192/ce/0/plain/https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDQvLi93wgMCxIOU3RhdGlvblByb2ZpbGUYgIDQoq3CjwkMogEEemVubw/image/%3Fresize=192x192&v=1" group-title="Rock;Blues;Folk",Lightness of Rock
-http://stream.zeno.fm/n0dt87vrnd0uv?rj-ttl=5&rj-tok=AAABfd5C_xEADXHYae2fRZm9lw
-#EXTINF:-1 tvg-logo="https://sradiospush-10741.kxcdn.com/uploads/fm_30649.jpg" group-title="(.*);(.*)",Radio Maanaim
-http://radiostream01.radiomaanaim.com.br:1935/liverm/rmaac/chunklist_w1919834617.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s118092/images/logoq.jpg?t=636256" group-title="(.*);(.*)",Radio Máquina do Tempo Internacional
-http://servidor28.brlogic.com:8212/live
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s227840q.png" group-title="(.*);(.*)",Radio Máquina do Tempo Web Radio
-http://servidor27.brlogic.com:8124/live
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s98651/images/logod.jpg?t=160215" group-title="(.*);(.*)",Radio Maranata 103.9
-https://player.srvaudio.com.br/player-ssl/10348
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgMjQXzUZa-ByEoRawCcL0wdAv7tRakV15-Q&s" group-title="(.*);(.*)",Radio Meio Norte FM 99.9
-https://webradio.amsolution.com.br/radio/8280/meionorte
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8TMO81rof3mx_eVIHivxVfTBM_4dfxlKVKNcIgLiw3fTB8QfpE76H06CCgxBak4EuQ0g&usqp=CAU" group-title="(.*);(.*)",Radio Melhor Da MPB
-http://stream.zeno.fm/8b3b34apta0uv?rj-ttl=5&rj-tok=AAABfdt3zBIAGKthX1JHcJ9shg
-#EXTINF:-1 tvg-logo="https://fundacaoculturaldevarginha.com.br/wp-content/uploads/2019/01/cropped-favicon-32x32.png" group-title="(.*);(.*)",Radio Melodia 102.3 Varginha
-https://server01.ouvir.radio.br:8033/stream
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s121927/images/logoq.jpg?t=636255" group-title="(.*);(.*)",Radio MPB Máquina do Tempo
-http://servidor28.brlogic.com:8032/live
-#EXTINF:-1 tvg-logo="https://bissau.radio/_next/image?url=%2Fstatic%2Fstations%2Frap-nacional-24-horas.png&w=384&q=75" group-title="rap;hip hop",Rap Nacional 24 Horas
-https://bissau.radio/listen/11099
-#EXTINF:-1 tvg-logo="http://fmnova.radio12345.com/favicon.ico" group-title="(.*);(.*)",Radio NOVA 98.5
-http://hd3.matutos.com.br:8394/stream?1561472887177
-#EXTINF:-1 tvg-logo="https://public-rf-upload.minhawebradio.net/3671/favicon/420a5576457aef31ad934fd5ae284f74.png" group-title="public;gospel",Rádio Jesus a Vida 96.3
-https://servidor40-3.brlogic.com:8004/live
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a50a7a_81465ac4da92440e8e9dbca4534a3a02~mv2.png" group-title="alternative;rock;blues",Rádio LAM
-https://stream1.svrdedicado.org/8028/stream
-#EXTINF:-1 tvg-logo="https://radioleve.com/imagens/thumbs/d6af888479e65e9be9a508ee3341d9c1.png" group-title="adulta;flashback;romântica",Radio Leve
-https://s09.maxcast.com.br:8098/live
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/TYwzeqTm7crAyn7t48jK80di8rh7t4nRHmGyirRXMr25O1D9pUktwsJtbnTL9ogGlg" group-title="pop;reggae;rock",Rádio Lost
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/TYwzeqTm7crAyn7t48jK80di8rh7t4nRHmGyirRXMr25O1D9pUktwsJtbnTL9ogGlg" group-title="Pop;Reggae;Rock",Rádio Lost
 http://srv1.uaihost.audio:7026/
-#EXTINF:-1 tvg-logo="https://public-rf-assets.minhawebradio.net/img/favicon.ico" group-title="instrumental;orquesta",Rádio Máquina Instrumental
+#EXTINF:-1 tvg-logo="https://sradiospush-10741.kxcdn.com/uploads/fm_30649.jpg" group-title="Talk;Christian;Gospel",Radio Maanaim
+http://radiostream01.radiomaanaim.com.br:1935/liverm/rmaac/chunklist_w1919834617.m3u8
+#EXTINF:-1 tvg-logo="https://public-rf-assets.minhawebradio.net/img/favicon.ico" group-title="Instrumental;Orquesta",Rádio Máquina Instrumental
 https://servidor29-2.brlogic.com:8578/live
-#EXTINF:-1 tvg-logo="https://public-rf-upload.minhawebradio.net/101977/favicon/e2a561846ce49fbec3a5b807390d37d8.jpg" group-title="rock;hits",Radio Maquina no Rock
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s118092/images/logoq.jpg?t=636256" group-title="MPB;Instrumental",Radio Máquina do Tempo Internacional
+http://servidor28.brlogic.com:8212/live
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s227840q.png" group-title="Adult;Oldies",Radio Máquina do Tempo Web Radio
+http://servidor27.brlogic.com:8124/live
+#EXTINF:-1 tvg-logo="https://public-rf-upload.minhawebradio.net/101977/favicon/e2a561846ce49fbec3a5b807390d37d8.jpg" group-title="Rock;Hits",Radio Maquina no Rock
 https://servidor20-4.brlogic.com:8582/live
-#EXTINF:-1 tvg-logo="https://www.radio.fr/images/broadcasts/0c/57/19456/c300.png" group-title="catholic;christian;talk",Radio Maria
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s98651/images/logod.jpg?t=160215" group-title="Gospel;Christian",Radio Maranata 103.9
+https://player.srvaudio.com.br/player-ssl/10348
+#EXTINF:-1 tvg-logo="https://www.radio.fr/images/broadcasts/0c/57/19456/c300.png" group-title="Catholic;Christian;Talk",Radio Maria
 http://dreamsiteradiocp.com:8064/stream
-#EXTINF:-1 tvg-logo="https://radiomarumby.com.br/wp-content/uploads/2021/08/favicon-marumby.png" group-title="gospel;christian",Rádio Marumby 730
+#EXTINF:-1 tvg-logo="https://radiomarumby.com.br/wp-content/uploads/2021/08/favicon-marumby.png" group-title="Gospel;Christian",Rádio Marumby 730
 http://wz4.dnip.com.br/marumbyaac/marumbyaac.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.webradiomegadance.com/admin/assets/img/favicon.jpg" group-title="dance;electronic",Rádio Mega Dance
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgMjQXzUZa-ByEoRawCcL0wdAv7tRakV15-Q&s" group-title="Latin;Variety",Radio Meio Norte FM 99.9
+https://webradio.amsolution.com.br/radio/8280/meionorte
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8TMO81rof3mx_eVIHivxVfTBM_4dfxlKVKNcIgLiw3fTB8QfpE76H06CCgxBak4EuQ0g&usqp=CAU" group-title="MPB;World",Radio Melhor Da MPB
+http://stream.zeno.fm/8b3b34apta0uv?rj-ttl=5&rj-tok=AAABfdt3zBIAGKthX1JHcJ9shg
+#EXTINF:-1 tvg-logo="https://fundacaoculturaldevarginha.com.br/wp-content/uploads/2019/01/cropped-favicon-32x32.png" group-title="Adult;MPB;Sports",Radio Melodia 102.3 Varginha
+https://server01.ouvir.radio.br:8033/stream
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s121927/images/logoq.jpg?t=636255" group-title="MPB;World",Radio MPB Máquina do Tempo
+http://servidor28.brlogic.com:8032/live
+#EXTINF:-1 tvg-logo="http://www.webradiomegadance.com/admin/assets/img/favicon.jpg" group-title="Dance;Electronic",Rádio Mega Dance
 http://live3.livemus.com.br:7002/stream
-#EXTINF:-1 tvg-logo="https://metropolitanafm.com.br/wp-content/themes/metro/assets/imgs/favicon/favicon-96x96-2.png" group-title="electronic;hip hop;top 40",Rádio Metropolitana 98.5
+#EXTINF:-1 tvg-logo="https://metropolitanafm.com.br/wp-content/themes/metro/assets/imgs/favicon/favicon-96x96-2.png" group-title="Electronic;Hip Hop;Top 40",Rádio Metropolitana 98.5
 https://f32.fabricahost.com.br/metropolitana985sp?f=1640105220N788e9ba99181baae5eaaa0321d2f252d
-#EXTINF:-1 tvg-logo="https://radiomixuberlandia.com.br/wp-content/themes/mix-fm/img/logo.png" group-title="hits;pop;rock",Rádio Mix Uberlandia 106.5
+#EXTINF:-1 tvg-logo="https://radiomixuberlandia.com.br/wp-content/themes/mix-fm/img/logo.png" group-title="Hits;Pop;Rock",Rádio Mix Uberlandia 106.5
 https://26523.live.streamtheworld.com/MIXFM_UBERLANDIAAAC.aac
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Ncgyq9tGyDOfhJSldhWv8n7bUlyiBuFIy3EXz-Uic9roCe_cWGMXXsHA1eCsRt__DTk=s180-rw" group-title="mpb;folk",Radio MPB
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Ncgyq9tGyDOfhJSldhWv8n7bUlyiBuFIy3EXz-Uic9roCe_cWGMXXsHA1eCsRt__DTk=s180-rw" group-title="MPB;Folk",Radio MPB
 http://stream.zeno.fm/qytqk36wm8quv?rj-ttl=5&rj-tok=AAABfd4SaacAyTw2lko_UHhoUw
-#EXTINF:-1 tvg-logo="http://mzfm.com.br/images/logo01.jpg" group-title="pop;hits",Rádio MZ 90.7
+#EXTINF:-1 tvg-logo="http://mzfm.com.br/images/logo01.jpg" group-title="Pop;Hits",Rádio MZ 90.7
 http://audio1.cmaudioevideo.com:8108/stream
-#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/64cef4f7bf698.png" group-title="debate;governo;noticias",Rádio Nacional AM de Brasilia 980
+#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/64cef4f7bf698.png" group-title="Debate;Governo;Noticias",Rádio Nacional AM de Brasilia 980
 https://radionacionalbrasilia-stream.ebc.com.br/index.m3u8
-#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/artworks-000104635326-mixxme-t500x500.jpg" group-title="debate;governo;noticias",Rádio Nacional da Amazonia
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/artworks-000104635326-mixxme-t500x500.jpg" group-title="Debate;Governo;Noticias",Rádio Nacional da Amazonia
 https://radionacionalamazonia-stream.ebc.com.br/ebc/radionacionalamazonia/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/artworks-000104635326-mixxme-t500x500.jpg" group-title="debate;governo;noticias",Rádio Nacional do Rio de Janeiro
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/artworks-000104635326-mixxme-t500x500.jpg" group-title="Debate;Governo;Noticias",Rádio Nacional do Rio de Janeiro
 https://radionacionalrio-stream.ebc.com.br/ebc/radionacionalriodejaneiro/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYgHPisC1soXeTAlSuz4fuleX121muYI2Oxg&s" group-title="debate;governo;noticias",Rádio Nacional FM de Brasilia 96.1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYgHPisC1soXeTAlSuz4fuleX121muYI2Oxg&s" group-title="Debate;Governo;Noticias",Rádio Nacional FM de Brasilia 96.1
 https://radionacionalfm-stream.ebc.com.br/ebc/radionacionalfm/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.guiademidia.com.br/imagens/radios/al/arapiraca/radio-nn-fm.png" group-title="news;noticias;sports",Rádio NN 91.5
+#EXTINF:-1 tvg-logo="https://www.guiademidia.com.br/imagens/radios/al/arapiraca/radio-nn-fm.png" group-title="News;Noticias;Sports",Rádio NN 91.5
 http://cast2.hoost.com.br:8705/stream
-#EXTINF:-1 tvg-logo="https://radionortelondrina.com.br/images/sampledata/logos/logo.svg" group-title="(.*);(.*)",Radio Norte 100.3
+#EXTINF:-1 tvg-logo="https://radionortelondrina.com.br/images/sampledata/logos/logo.svg" group-title="Pop;World",Radio Norte 100.3
 https://servidor17.brlogic.com:9394/live
-#EXTINF:-1 tvg-logo="http://radionos.com.br/site/wp-content/uploads/2017/01/cropped-RadioCirculo512-192x192.png" group-title="workout;fitness",RadioNOS Fitness & Workout
+#EXTINF:-1 tvg-logo="http://radionos.com.br/site/wp-content/uploads/2017/01/cropped-RadioCirculo512-192x192.png" group-title="Workout;Fitness",RadioNOS Fitness & Workout
 http://channels.radionos.com/stream/14/?1465137886635.aac
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ClakDxW.png" group-title="christian;religious",Rádio Novo Tempo 920
+#EXTINF:-1 tvg-logo="http://fmnova.radio12345.com/favicon.ico" group-title="Pop;Hits",Radio NOVA 98.5
+http://hd3.matutos.com.br:8394/stream?1561472887177
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ClakDxW.png" group-title="Christian;Religious",Rádio Novo Tempo 920
 http://stream.novotempo.com:1935/radio/radionovotempo.stream/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YhdtDCW/radionovotempo.jpg" group-title="adventist;christian;gospel",Rádio Novo Tempo 920
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YhdtDCW/radionovotempo.jpg" group-title="Adventist;Christian;Gospel",Rádio Novo Tempo 920
 https://stream.live.novotempo.com/radio/smil:radionovotempo.smil/live.m3u8
-#EXTINF:-1 tvg-logo="http://www.radiooestefm.com.br/favicon.ico" group-title="pop;news;talk",Radio Oeste 94.5
+#EXTINF:-1 tvg-logo="http://www.radiooestefm.com.br/favicon.ico" group-title="Pop;News;Talk",Radio Oeste 94.5
 http://radio.viaflux.com:5599/live
-#EXTINF:-1 tvg-logo="https://radiosomdoceudefloriano.blogspot.com/favicon.ico" group-title="gospel;public",Rádio O Som Do Céu
+#EXTINF:-1 tvg-logo="https://radiosomdoceudefloriano.blogspot.com/favicon.ico" group-title="Gospel;Public",Rádio O Som Do Céu
 http://stream.zeno.fm/t5y50e2ekbruv?rj-ttl=5&rj-tok=AAABfd4wfuAAz9IvOJMrQFuVjw
-#EXTINF:-1 tvg-logo="https://radioosorio.com.br/wp-content/uploads/2021/01/cropped-logo-2-180x180.png" group-title="pop;news;talk",Rádio Osório 106.9
+#EXTINF:-1 tvg-logo="https://radioosorio.com.br/wp-content/uploads/2021/01/cropped-logo-2-180x180.png" group-title="Pop;News;Talk",Rádio Osório 106.9
 http://r17.ciclano.io:8425/stream
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/5941bc_0fc0378d00444dcd8e811087f406cf20~mv2.png/v1/fill/w_346,h_242,al_c,q_85,usm_0.66_1.00_0.01/AF_logotipo_2020_OuroVerdeFM-01.webp" group-title="classic;hits;paraná",Rádio Ouro Verde 105.5
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/5941bc_0fc0378d00444dcd8e811087f406cf20~mv2.png/v1/fill/w_346,h_242,al_c,q_85,usm_0.66_1.00_0.01/AF_logotipo_2020_OuroVerdeFM-01.webp" group-title="Oldies;Hits;Paraná",Rádio Ouro Verde 105.5
 http://servidor18.brlogic.com:7484/live
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/8nFAeEVQsByh5cwPtxvAMu-q_3w2OM7cnyEhBLEn1pkclS9x8ldx9pnK5Y2x1AOsrS2F=s180-rw" group-title="news;talk;samba",Radio Pagode
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/8nFAeEVQsByh5cwPtxvAMu-q_3w2OM7cnyEhBLEn1pkclS9x8ldx9pnK5Y2x1AOsrS2F=s180-rw" group-title="News;Talk;Samba",Radio Pagode
 http://stream.zeno.fm/ffup286wm8quv?rj-ttl=5&rj-tok=AAABfd4sWPIAirB2mSLVxNNMtQ
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s54187/images/logod.jpg?t=1676567023000" group-title="news;local",Radio Paiquere 98.9
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s54187/images/logod.jpg?t=1676567023000" group-title="News;Community",Radio Paiquere 98.9
 http://stm01.virtualcast.com.br:8294/live
-#EXTINF:-1 tvg-logo="http://www.radiopampa.com.br/favicon.ico" group-title="news;talk",Radio Pampa 97.5
+#EXTINF:-1 tvg-logo="http://www.radiopampa.com.br/favicon.ico" group-title="News;Talk",Radio Pampa 97.5
 http://cast4.audiostream.com.br:8653/aac
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/1UICJJF7mmJnoAcaujKiPw_uKvJtjAgBdX40vNDKYQn6vn4q48AeSTz9TroxuHeZeWo=s180-rw" group-title="bahia;samba",Radio Paredão PAGODAO
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/1UICJJF7mmJnoAcaujKiPw_uKvJtjAgBdX40vNDKYQn6vn4q48AeSTz9TroxuHeZeWo=s180-rw" group-title="Bahia;Samba",Radio Paredão PAGODAO
 http://stream.zeno.fm/3vwwc66wm8quv?rj-ttl=5&rj-tok=AAABfdtGICsAqinEej6JqcGD4Q
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/0WNEX6h2xVPBkuY7p6tZK1cQ9j8gs2N4R79FsRWCAJF1s8D_qfnuFjBJ_QBbh_8iHI5f" group-title="adult;contemporary;community",Rádio Petrolina 98.3
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/0WNEX6h2xVPBkuY7p6tZK1cQ9j8gs2N4R79FsRWCAJF1s8D_qfnuFjBJ_QBbh_8iHI5f" group-title="Adult;Contemporary;Community",Rádio Petrolina 98.3
 http://hd4.matutos.com.br:8324/;stream.mp3
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngTuv1idqhyc1kFNqSh7qm-pRaGbOEnfw9LYp9iog=s900-c-k-c0x00ffffff-no-rj" group-title="(.*);(.*)",Radio Pop 95.1
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngTuv1idqhyc1kFNqSh7qm-pRaGbOEnfw9LYp9iog=s900-c-k-c0x00ffffff-no-rj" group-title="Pop;Hits",Radio Pop 95.1
 https://servidor39.brlogic.com:8152/live
-#EXTINF:-1 tvg-logo="https://radiopoty.com.br/wp-content/uploads/2021/01/logo-poty.png" group-title="pop;news;talk",Rádio Poty 100.5
+#EXTINF:-1 tvg-logo="https://radiopoty.com.br/wp-content/uploads/2021/01/logo-poty.png" group-title="Pop;News;Talk",Rádio Poty 100.5
 http://streaming10.hstbr.net:8142/live
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/1PwXgvhTFkEP8ROMwPfkDC5XHY90RLDEUj5YX5hzSGV85I2y0pyyb2W77jck-Kldgw" group-title="news;talk;variety",Radio Prefacio
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/1PwXgvhTFkEP8ROMwPfkDC5XHY90RLDEUj5YX5hzSGV85I2y0pyyb2W77jck-Kldgw" group-title="News;Talk;Variety",Radio Prefacio
 https://s10.maxcast.com.br:8014/live
-#EXTINF:-1 tvg-logo="http://www.redeprincesa.com.br/imagens/favicon.ico" group-title="pop;talk;hits",Rádio Princesa 1130
+#EXTINF:-1 tvg-logo="http://www.redeprincesa.com.br/imagens/favicon.ico" group-title="Pop;Talk;Hits",Rádio Princesa 1130
 http://radioweb.audiosul.com:8273/stream
-#EXTINF:-1 tvg-logo="https://public-rf-upload.minhawebradio.net/79866/favicon/aca58f7e098bfbe87cea7faccfd3740f.jpeg" group-title="(.*);(.*)",Radio Principe
+#EXTINF:-1 tvg-logo="https://public-rf-upload.minhawebradio.net/79866/favicon/aca58f7e098bfbe87cea7faccfd3740f.jpeg" group-title="Oldies;Hits",Radio Principe
 https://servidor35-1.brlogic.com:8036/live
-#EXTINF:-1 tvg-logo="https://radio.pt.org.br/img/logo.png" group-title="community;music;news",Rádio PT
+#EXTINF:-1 tvg-logo="https://radio.pt.org.br/img/logo.png" group-title="Community;News",Rádio PT
 https://s39.maxcast.com.br:8072/live
-#EXTINF:-1 tvg-logo="http://radioputzgrila.com.br/site/wp-content/uploads/2016/10/LOGO-PUTZ-COM-FUNDO-PRETO-2016-e1490300862784.jpg" group-title="alternative;rock;classic",Radio Putzgrila
+#EXTINF:-1 tvg-logo="http://radioputzgrila.com.br/site/wp-content/uploads/2016/10/LOGO-PUTZ-COM-FUNDO-PRETO-2016-e1490300862784.jpg" group-title="Alternative;Rock;Oldies",Radio Putzgrila
 https://stream.ouveai.com.br/proxy/putzgrila?mp=/stream
 #EXTINF:-1 tvg-logo="https://bissau.radio/_next/image?url=%2Fstatic%2Fstations%2Fradio-rap-a-voz-do-gueto.png&w=384&q=75" group-title="rap;hip hop",Radio Rap A Voz do Gueto
 https://bissau.radio/listen/10047
@@ -803,6 +801,8 @@ https://s06.maxcast.com.br:8090/live
 http://servidor34.brlogic.com:8080/live?1583625685800
 #EXTINF:-1 tvg-logo="https://imgproxy.zenomedia.com/insecure/fit/500/500/ce/0/plain/https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICgkqX-gQkMCxIOU3RhdGlvblByb2ZpbGUYgICwv5LN1AsMogEEemVubw/image/%3Fresize=500x500&v=1" group-title="asmr;chill;music",Radio Whisper ASMR
 http://stream.zeno.fm/309e0b84p48uv?rj-ttl=5&rj-tok=AAABfdt7mPkAtq37WnXjxPZC8w
+#EXTINF:-1 tvg-logo="https://bissau.radio/_next/image?url=%2Fstatic%2Fstations%2Frap-nacional-24-horas.png&w=384&q=75" group-title="Rap;Hip Hop",Rap Nacional 24 Horas
+https://bissau.radio/listen/11099
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/5e/fc/5efc9687688d809c199db5d00146f2bc.jpg" group-title="christian;gospel;religious",RBC 93.3
 https://directradios.net/proxy/rbc2?mp=/stream
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHkfPoBuvcTwU7dCDMwJaOMEMo8TCGVjmE0g&s" group-title="(.*);(.*)",RBR Brasileira Sat
