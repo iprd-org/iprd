@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/89_FM_logo.png/250px-89_FM_logo.png" group-title="Pop;Ballads",89 89.9 FM
+https://streaming.livespanel.com:8990/stream
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/R0-U-WQtLilDNkUNCQxTKUoRtRe93L3jJ60TU_vtw7d3tHIO4se3or3rwjFntB9fz8Uo" group-title="Oldies;Rock",91 Rock
 http://servidor40.brlogic.com:8044/live
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/5b329aa2d7566.png" group-title="Adult;Contemporary;Top 40",94 94.3
@@ -35,6 +37,8 @@ http://centova2.ipstm.net:9317/stream
 http://s01.transmissaodigital.com:6750/
 #EXTINF:-1 tvg-logo="https://imgproxy.zenomedia.com/insecure/fit/500/500/ce/0/plain/https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICw3Zi6lwsMCxIOU3RhdGlvblByb2ZpbGUYgICwvbyE_gsMogEEemVubw/image/%3Fresize=500x500&v=1" group-title="Chill;Relax",ASMR On LGBT
 http://stream.zeno.fm/47ykhbg3h18uv?rj-ttl=5&rj-tok=AAABfdwMBPYAd5acYm_RrHNC-A
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Atl%C3%A2ntico_Sul_FM_logo.png/250px-Atl%C3%A2ntico_Sul_FM_logo.png" group-title="Adult;Contemporary",Atlantico Sul 105.7 FM
+https://streaming.livespanel.com:21057/stream
 #EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/cf/5f/7247/1/c300.png" group-title="Indie;Disco",Audiogrooves Nu Vibes
 http://soul.audiogrooves.net/nu-vibes.aac
 #EXTINF:-1 tvg-logo="https://audiogrooves.net/assets/icons/apple-touch-icon.png" group-title="Soul;Blues",Audiogrooves Soul Channel
@@ -57,6 +61,8 @@ https://s09.hstbr.net:8238/live?1514038524061
 http://rdbrasilia-lh.akamaihd.net/i/rdbrasilia_1@190557/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.cancaonova.com/favicons/apple-touch-icon-120x120.png" group-title="Catholic;Religious",Canção Nova
 http://rdfmchp-lh.akamaihd.net/i/rdfmchp_1_0@190586/master.m3u8
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio11147_1525713292.jpg" group-title="Catholic;Religious",Cantate FM 104.5
+https://stream3.svrdedicado.org/8118/stream
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/1D8qx_h_svve2_0SSai_yYhJX7kfri9LWa6W00u4ID-1hTDYyQLfh95ZRGS6fbjvpvE" group-title="70s;80s;90s",Capao 90.7
 https://cast4.audiostream.com.br:2656/mp3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Capital_FM_Curitiba.png" group-title="Pop;Variety;Sports",Capital 98.3
@@ -97,6 +103,8 @@ http://cast4.audiostream.com.br:8657/aac?1735784356312
 https://usa6.fastcast4u.com/proxy/ch247?mp=/classichits
 #EXTINF:-1 tvg-logo="http://www.clubepe.fm/img/favicon.png" group-title="Pop;Dance",Clube 99.1
 https://radio.saopaulo01.com.br:10913/stream
+#EXTINF:-1 tvg-logo="https://radiocostadosol.com.br/wp-content/uploads/2021/02/logo-nova-site-2.png" group-title="Adult;Contemporary;Pop",Costa do Sol FM 101.7
+https://ice.fabricahost.com.br/radiocostadosol
 #EXTINF:-1 tvg-logo="https://ca.radio.net/images/broadcasts/70/f1/103530/1/c300.png" group-title="Jazz;Blues",Digital Jazz
 http://stm01.virtualcast.com.br:8190/live
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s8825d.png" group-title="Pop;World",Diplomata 105.3
@@ -125,6 +133,8 @@ http://stream.zeno.fm/f7p7wg20zf8uv?rj-ttl=5&rj-tok=AAABfd4vdiMA6SEq4QpqXZxYoQ
 http://stream.zeno.fm/94adwcqw7k0uv?rj-ttl=5&rj-tok=AAABfd5HUu4A2RvX0-QfwMi8FQ
 #EXTINF:-1 tvg-logo="https://estudio-fm.webnode.com/_files/200000005-a13f6a13f8/200/a.png" group-title="Religious;Christian",Estudio FM Ministerio Jovem
 http://stream.zeno.fm/duppd1ufqm0uv?rj-ttl=5&rj-tok=AAABfdqGkFgAdX2xPCGUf8sm7g
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio25876_1713167295.png" group-title="News;Sports",Expresso FM 104.3
+http://stream.7br.com.br:10230/stream?1754846085689
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/bd/96/bd965bbdebd22780aca8e775c7ea5757.jpg" group-title="Forro;World",Fay Só Forró das Antigas
 https://ssl.xcast.com.br:7132/stremig
 #EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/14515600.png" group-title="Gospel;Christian",Feliz FM 95.7
