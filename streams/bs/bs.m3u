@@ -3,8 +3,6 @@
 http://s1.radio.lclhst.net:1437/r1
 #EXTINF:-1 tvg-logo="http://radio.lclhst.net//favicon.ico" group-title="Electronic;Techno",LCLHST R2
 http://s1.radio.lclhst.net:1437/r2
-#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s3082q.png" group-title="Adult;Hits",Love 97.5
-http://radiocdn1.streamcomedia.com:5670/love975fm
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/85/Bahamian_or_Nuttin.png" group-title="World;Junkanoo",ZNBN 92.5
 https://s2.reliastream.com/proxy/rumcayme?mp=/stream
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s206590q.png" group-title="Soul;R'n'B",ZNGB Global 99.5
@@ -15,3 +13,13 @@ https://radiostreams.streamcomedia.com:8000/969guardianradio
 https://ice25.securenetsystems.net/HOT917FM?playSessionID=710D5C01-046D-9576-C12304D78ABC2B35
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/100JAMZ-logo.png/250px-100JAMZ-logo.png" group-title="Urban;Adult;Contemporary",ZNJ Jamz 100.3
 https://ice66.securenetsystems.net/100JAMZ?playSessionID=FC4CE2DB-E2A1-4253-990CFF74D2475210
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/Kiss96-logo.jpg" group-title="Adult;Contemporary",ZNK Kiss 96.1
+https://ice42.securenetsystems.net/96KISSFM
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s3082q.png" group-title="Adult;Hits",ZNL Love 97.5
+http://radiocdn1.streamcomedia.com:5670/love975fm
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/GOSPEL_107.1.png/250px-GOSPEL_107.1.png" group-title="Gospel;Christian",ZNNG Gospel 107.1
+https://c25.radioboss.fm:8186/stream
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/77/ZNS-1_logo.png" group-title="News;Talk",ZNS-1 The National Voice 1540/104.5
+https://radiostreams.streamcomedia.com:8008/zns1540am
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/ZNS-2_logo.png" group-title="Variety;Religious",ZNS-2 Inspiration 1240/107.9
+https://radiostreams.streamcomedia.com:8006/zns1079fm
