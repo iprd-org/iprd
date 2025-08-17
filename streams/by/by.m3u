@@ -1,71 +1,75 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://radioslovo.net/img/microphone.png" group-title="(.*);(.*);",Аdkrytaje Slova
+#EXTINF:-1 tvg-logo="https://radioslovo.net/img/microphone.png" group-title="Christian;Spiritual",Аdkrytaje Slova
 https://rs.radioslovo.net:4005/radio?1619348678875
-#EXTINF:-1 tvg-logo="https://alfaradio.by/icons/120x120.png" group-title="(.*);(.*);",Alfa Radio
+#EXTINF:-1 tvg-logo="https://alfaradio.by/icons/120x120.png" group-title="Pop;Rock;Hip Hop",Alfa Radio
 http://live.alpha.by:8000/alpha
-#EXTINF:-1 tvg-logo="http://avtoradio.by/media/cache/player_current/empty.png" group-title="(.*);(.*);",Autoradio 98.0
+#EXTINF:-1 tvg-logo="http://avtoradio.by/media/cache/player_current/empty.png" group-title="Rock;Pop",Autoradio 98.0
 http://live.humorfm.by:8000/avtoradio-high
-#EXTINF:-1 tvg-logo="http://avtoradio.by/media/cache/player_current/empty.png" group-title="(.*);(.*);",Аutoradio 98.0
+#EXTINF:-1 tvg-logo="http://avtoradio.by/media/cache/player_current/empty.png" group-title="Rock;Pop",Аutoradio 98.0
 http://live.humorfm.by:8000/rock
 #EXTINF:-1 tvg-logo="https://lh5.googleusercontent.com/proxy/eGBEzj2TuNvHVMkJ83JIE6GBu2swErCwHSjHLZKqqA1wlbXEl3vX3_66dqE7dPHSYIpgtrKeG3sAsRwPjEOSzE5d538" group-title="Culture;Education;Classical",BR Channel Culture 70.43
 https://stream2.datacenter.by/kultura
-#EXTINF:-1 tvg-logo="https://dushevnoeradio.by/wp-content/uploads/2023/01/cropped-logo.png" group-title="(.*);(.*);",Dushevnoe 105.7
-http://stream.hoster.by:8081/pilotfm/audio/icecast.audio
-#EXTINF:-1 tvg-logo="http://radiogomelfm.by/local/templates/.default/img/logo-2018.png" group-title="(.*);(.*);",Gomel 101.3
-http://s1.radioheart.ru:8001/radiogomelfm
-#EXTINF:-1 tvg-logo="https://www.megapolis-reklama.by/assets/images/ikonki_uslug/Radio/gomel_plus.jpg" group-title="(.*);(.*);",Gomel Plius 103.7
+#EXTINF:-1 tvg-logo="https://images.radiovolna.net/_files/images/stations/400728/1486139474_2viretdzsga.jpg-470470.png" group-title="Adult;Contemporary",BR Radius 72.11
+https://stream2.datacenter.by/radiusfm_main
+#EXTINF:-1 tvg-logo="https://www.megapolis-reklama.by/assets/images/ikonki_uslug/Radio/gomel_plus.jpg" group-title="Adult;Contemporary;Pop",Gomel Plius 103.7
 http://s1.radioheart.ru:8001/radiogomel
-#EXTINF:-1 tvg-logo="http://humorfm.by/favicon.ico" group-title="(.*);(.*);",Humor 93.7
+#EXTINF:-1 tvg-logo="http://humorfm.by/favicon.ico" group-title="Comedy;Talk;Variety",Humor 93.7
 http://live.humorfm.by:8000/veseloe
-#EXTINF:-1 tvg-logo="http://humorfm.by/favicon.ico" group-title="(.*);(.*);",Humor FM
+#EXTINF:-1 tvg-logo="http://humorfm.by/favicon.ico" group-title="Comedy;Talk;Variety",Humor FM
 http://live.humorfm.by:8000/veseloeradio
-#EXTINF:-1 tvg-logo="https://euroradio.fm/sites/default/themes/neweuroradio/favicon.ico" group-title="(.*);(.*);",Jeuraradyjo Alternative
+#EXTINF:-1 tvg-logo="https://euroradio.fm/sites/default/themes/neweuroradio/favicon.ico" group-title="Alternative;Rock",Jeuraradyjo Alternative
 http://stream1.euroradio.fm:8000/euroradio1?seed=1493710910
-#EXTINF:-1 tvg-logo="https://euroradio.fm/sites/default/themes/neweuroradio/favicon.ico" group-title="(.*);(.*);",Jeuraradyjo BY
+#EXTINF:-1 tvg-logo="https://euroradio.fm/sites/default/themes/neweuroradio/favicon.ico" group-title="World;Variety",Jeuraradyjo BY
 http://stream1.euroradio.fm:8000/euroradio1
-#EXTINF:-1 tvg-logo="https://euroradio.fm/sites/default/themes/neweuroradio/favicon.ico" group-title="(.*);(.*);",Jeuraradyjo Soft Rock
+#EXTINF:-1 tvg-logo="https://euroradio.fm/sites/default/themes/neweuroradio/favicon.ico" group-title="Soft;Rock",Jeuraradyjo Soft Rock
 http://stream1.euroradio.fm:8000/euroradio3?seed=1493711245
 #EXTINF:-1 tvg-logo="https://liderfm.by/wp-content/uploads/2018/12/cropped-logo_f-180x180.png" group-title="(.*);(.*);",Lider 94.3
 https://icecast.lider-fm.by/liderfm
 #EXTINF:-1 tvg-logo="http://loveisradio.by/gallery_gen/5d379494eea729c6053eb80f69389951.png" group-title="(.*);(.*);",Lider 94.3
 https://listen1.myradio24.com/3355
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s139349g.png" group-title="(.*);(.*);",Pilot 101.2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgfQv5utqUM5Xjn-QpvCORIXcy6ArHsK4U_w&s" group-title="Pop;World",People's Radio 87.9
+https://live.novoeradio.by:444/live/narodnoeradio_aac128/icecast.audio
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s139349g.png" group-title="Top 40;Adult;Contemporary",Pilot 101.2
 https://stream.hoster.by/pilotfm/pilot/icecast.audio
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s139349g.png" group-title="(.*);(.*);",Pilot 101.2
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s139349g.png" group-title="Top 40;Adult;Contemporary",Pilot 101.2
 http://hfm.amgradio.ru/HypeFM
-#EXTINF:-1 tvg-logo="https://4you-fm.ru/assets/images/favicon/apple-touch-icon-new.png" group-title="(.*);(.*);",Radio 4YOU
+#EXTINF:-1 tvg-logo="https://4you-fm.ru/assets/images/favicon/apple-touch-icon-new.png" group-title="EDM;Future;Chill",Radio 4YOU
 http://a1.radioheart.ru:8003/RH17982
-#EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/logo/5/385.v9.png" group-title="(.*);(.*);",Radio Aplus.FM Relax
-https://s.aplus.fm/aplus_relax_64
-#EXTINF:-1 tvg-logo="https://www.radiobells.com/stations/aplusdeep.jpg" group-title="(.*);(.*);",Radio Aplus.FM Deep
+#EXTINF:-1 tvg-logo="https://www.radiobells.com/stations/aplusdeep.jpg" group-title="Dance;Easy Listening;Electronic",Radio Aplus.FM Deep
 http://s.aplus.fm:9000/aplus_deep_48.aac
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/iuF5QVz1BbyShEopA_2gD9kX91qAMum-69xycXdQPJ5EEGTbN44-nkBfrUXtxyCjUzMfkPEXDxz0m4CqzSw7iV4nE-TKR1u6ShedXLeyAkY" group-title="(.*);(.*);",Radio Aplus.FM ONE
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/iuF5QVz1BbyShEopA_2gD9kX91qAMum-69xycXdQPJ5EEGTbN44-nkBfrUXtxyCjUzMfkPEXDxz0m4CqzSw7iV4nE-TKR1u6ShedXLeyAkY" group-title="Dance;EDM;Trance",Radio Aplus.FM ONE
 http://s.aplus.fm:9000/aplus_16.aac
-#EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/logo/5/385.v9.png" group-title="(.*);(.*);",Radio Aplus.FM Relax
+#EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/logo/5/385.v9.png" group-title="Relax;Ambient",Radio Aplus.FM Relax
 http://s.aplus.fm:9000/aplus_relax_24.aac
-#EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/logo/5/385.v9.png" group-title="(.*);(.*);",Radio Aplus.FM Relax
+#EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/logo/5/385.v9.png" group-title="Relax;Ambient",Radio Aplus.FM Relax
+https://s.aplus.fm/aplus_relax_64
+#EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/logo/5/385.v9.png" group-title="Relax;Ambient",Radio Aplus.FM Relax
 https://s.aplus.fm/aplus_relax_128
-#EXTINF:-1 tvg-logo="https://static1.squarespace.com/static/51a013dee4b0a2a2d2ef73e9/t/56fd5737d210b8b9ba82cdf6/1459443519168/?format=1500w" group-title="(.*);(.*);",Radio Belarus International
+#EXTINF:-1 tvg-logo="https://static1.squarespace.com/static/51a013dee4b0a2a2d2ef73e9/t/56fd5737d210b8b9ba82cdf6/1459443519168/?format=1500w" group-title="News;Talk",Radio Belarus International
 https://stream2.datacenter.by/belarus
-#EXTINF:-1 tvg-logo="https://radioplato.by//favicon.ico?v=BG77QLOy5Q" group-title="(.*);(.*);",Radio Plato
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/de/Europaplus-logo.jpg/250px-Europaplus-logo.jpg" group-title="CHR;Dance;Top 40",Radio Europe Plus 92.8
+https://air.sammit.tv/europa
+#EXTINF:-1 tvg-logo="http://radiogomelfm.by/local/templates/.default/img/logo-2018.png" group-title="Adult;Contemporary;Pop",Radio Gomel 101.3
+http://s1.radioheart.ru:8001/radiogomelfm
+#EXTINF:-1 tvg-logo="https://online-radio.eu/logo/27/27036.jpg" group-title="Pop;Top 40",Radio Minsk 92.4
+https://radio.mk.by:8443/radiominsk
+#EXTINF:-1 tvg-logo="https://radioplato.by//favicon.ico?v=BG77QLOy5Q" group-title="Community;Variety",Radio Plato
 https://azura.radioplato.by/radio/8000/radio.mp3
-#EXTINF:-1 tvg-logo="http://radio.uvaga.by/images/logo.gif" group-title="(.*);(.*);",Radyo Uvaga.by
-http://up.uvaga.by:8100/aacp64
-#EXTINF:-1 tvg-logo="https://f4.bcbits.com/img/a2324243614_65" group-title="(.*);(.*);",Radyo Peremen
-https://listen.radioking.com/radio/365563/stream/415378
-#EXTINF:-1 tvg-logo="http://www.racyja.com/favicon.ico" group-title="(.*);(.*);",Radyo Racyja 99.2
-http://air.racyja.com:8000/racja128
-#EXTINF:-1 tvg-logo="http://radiorelax.by//apple-touch-icon.png" group-title="(.*);(.*);",Radyo Relax
-http://live.humorfm.by:8000/radiorelax
-#EXTINF:-1 tvg-logo="https://www.bbg.gov/wp-content/media/2011/11/logo_rferl.png" group-title="(.*);(.*);",Radyo Svaboda Naviny Bielarusi
-https://n07.radiojar.com/zv9u3eapn3quv?rj-ttl=5&rj-tok=AAABfdrPVTsAS9kUS8KUWiKkQA
-#EXTINF:-1 tvg-logo="http://top-radio.ru/assets/image/radio/180/vitebsk.jpg" group-title="(.*);(.*);",Radyo-Vitebsk 91.2
-https://live.radiovitebsk.by/live
-#EXTINF:-1 tvg-logo="https://rusradio.by/apple-touch-icon.png" group-title="(.*);(.*);",Russkoi Radyo Радио
-https://stream.hoster.by/rusradio/russkoe/icecast.audio
-#EXTINF:-1 tvg-logo="https://unistar.by/favicon-32x32.png" group-title="(.*);(.*);",Unistar Radio 99.5
+#EXTINF:-1 tvg-logo="https://unistar.by/favicon-32x32.png" group-title="00s;Hits",Radio Unistar 99.5
 https://stream.hoster.by/unistar/unistar-128kb/icecast.audio
-#EXTINF:-1 tvg-logo="https://media.vaticannews.va/media/content/dam-archive/vaticannews/multimedia/2021/02/09/logo-rv-90-ITA.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg" group-title="(.*);(.*);",Vatykanskaje Rady
+#EXTINF:-1 tvg-logo="https://f4.bcbits.com/img/a2324243614_65" group-title="Rock;Pop",Radyo Peremen
+https://listen.radioking.com/radio/365563/stream/415378
+#EXTINF:-1 tvg-logo="http://www.racyja.com/favicon.ico" group-title="Rock;News",Radyo Racyja 99.2
+http://air.racyja.com:8000/racja128
+#EXTINF:-1 tvg-logo="http://radiorelax.by//apple-touch-icon.png" group-title="Russian;Variety",Radyo Relax 87.5
+http://live.humorfm.by:8000/radiorelax
+#EXTINF:-1 tvg-logo="https://www.bbg.gov/wp-content/media/2011/11/logo_rferl.png" group-title="News;Talk",Radyo Svaboda Navin Belarusi
+https://n07.radiojar.com/zv9u3eapn3quv?rj-ttl=5&rj-tok=AAABfdrPVTsAS9kUS8KUWiKkQA
+#EXTINF:-1 tvg-logo="http://radio.uvaga.by/images/logo.gif" group-title="Contemporary;Hits",Radyo Uvaga.by
+http://up.uvaga.by:8100/aacp64
+#EXTINF:-1 tvg-logo="http://top-radio.ru/assets/image/radio/180/vitebsk.jpg" group-title="Pop;Oldies;Variety",Radyo-Vitebsk 91.2
+https://live.radiovitebsk.by/live
+#EXTINF:-1 tvg-logo="https://media.vaticannews.va/media/content/dam-archive/vaticannews/multimedia/2021/02/09/logo-rv-90-ITA.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg" group-title="Catholic;Religious",Vatykanskaje Rady
 https://radio.vaticannews.va/stream-be
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s299488/images/logog.jpg?t=151240" group-title="(.*);(.*);",Zеfir 95.4
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s299488/images/logog.jpg?t=151240" group-title="Top 40;Pop",Zеfir 95.4
 http://178.124.152.212:8008/Zefir
