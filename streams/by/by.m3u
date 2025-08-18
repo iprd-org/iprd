@@ -23,9 +23,9 @@ http://stream1.euroradio.fm:8000/euroradio1?seed=1493710910
 http://stream1.euroradio.fm:8000/euroradio1
 #EXTINF:-1 tvg-logo="https://euroradio.fm/sites/default/themes/neweuroradio/favicon.ico" group-title="Soft;Rock",Jeuraradyjo Soft Rock
 http://stream1.euroradio.fm:8000/euroradio3?seed=1493711245
-#EXTINF:-1 tvg-logo="https://liderfm.by/wp-content/uploads/2018/12/cropped-logo_f-180x180.png" group-title="(.*);(.*);",Lider 94.3
+#EXTINF:-1 tvg-logo="https://liderfm.by/wp-content/uploads/2018/12/cropped-logo_f-180x180.png" group-title="Top 40;Hits",Lider 94.3
 https://icecast.lider-fm.by/liderfm
-#EXTINF:-1 tvg-logo="http://loveisradio.by/gallery_gen/5d379494eea729c6053eb80f69389951.png" group-title="(.*);(.*);",Lider 94.3
+#EXTINF:-1 tvg-logo="http://loveisradio.by/gallery_gen/5d379494eea729c6053eb80f69389951.png" group-title="Top 40;Hits",Lider 94.3
 https://listen1.myradio24.com/3355
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgfQv5utqUM5Xjn-QpvCORIXcy6ArHsK4U_w&s" group-title="Pop;World",People's Radio 87.9
 https://live.novoeradio.by:444/live/narodnoeradio_aac128/icecast.audio
@@ -51,10 +51,18 @@ https://stream2.datacenter.by/belarus
 https://air.sammit.tv/europa
 #EXTINF:-1 tvg-logo="http://radiogomelfm.by/local/templates/.default/img/logo-2018.png" group-title="Adult;Contemporary;Pop",Radio Gomel 101.3
 http://s1.radioheart.ru:8001/radiogomelfm
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTxWRcuIiUPIavk2I2qGTbFfS2BfEfU-dp-A&s" group-title="Russian;Hits",Radio Legends 94.1
+https://livefm.legendy.by/legendy
 #EXTINF:-1 tvg-logo="https://online-radio.eu/logo/27/27036.jpg" group-title="Pop;Top 40",Radio Minsk 92.4
 https://radio.mk.by:8443/radiominsk
+#EXTINF:-1 tvg-logo="https://top-radio.ru/assets/image/radio/180/Mv-radio.png" group-title="Pop;CHR",Radio Minsk Wave 97.4
+https://stream2.datacenter.by/mvradio
 #EXTINF:-1 tvg-logo="https://radioplato.by//favicon.ico?v=BG77QLOy5Q" group-title="Community;Variety",Radio Plato
 https://azura.radioplato.by/radio/8000/radio.mp3
+#EXTINF:-1 tvg-logo="https://www.prfm.ru/logo/radio-pobeda-belarus-130.jpg" group-title="Pop;Hits;News",Radio Pobeda 96.2
+https://stream.sb.by/den_pobedy
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDhhzInjpjZVt-k1gRlujHy9jKqYd6QuAkWA&s" group-title="70s;80s;90s",Radio Retro 96.9
+https://air.sammit.tv/retro
 #EXTINF:-1 tvg-logo="https://unistar.by/favicon-32x32.png" group-title="00s;Hits",Radio Unistar 99.5
 https://stream.hoster.by/unistar/unistar-128kb/icecast.audio
 #EXTINF:-1 tvg-logo="https://f4.bcbits.com/img/a2324243614_65" group-title="Rock;Pop",Radyo Peremen
