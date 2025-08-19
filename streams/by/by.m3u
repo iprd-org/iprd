@@ -27,6 +27,8 @@ http://stream1.euroradio.fm:8000/euroradio3?seed=1493711245
 https://icecast.lider-fm.by/liderfm
 #EXTINF:-1 tvg-logo="http://loveisradio.by/gallery_gen/5d379494eea729c6053eb80f69389951.png" group-title="Top 40;Hits",Lider 94.3
 https://listen1.myradio24.com/3355
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSlfM7M0BTLNYJ7fQ_Dk1YP_KG1xfPcwk2Dw&s" group-title="Contemporary;Hits",New Radio 98.4
+https://live.novoeradio.by:444/live/novoeradio_aac128/icecast.audio
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgfQv5utqUM5Xjn-QpvCORIXcy6ArHsK4U_w&s" group-title="Pop;World",People's Radio 87.9
 https://live.novoeradio.by:444/live/narodnoeradio_aac128/icecast.audio
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s139349g.png" group-title="Top 40;Adult;Contemporary",Pilot 101.2
@@ -47,6 +49,10 @@ https://s.aplus.fm/aplus_relax_64
 https://s.aplus.fm/aplus_relax_128
 #EXTINF:-1 tvg-logo="https://static1.squarespace.com/static/51a013dee4b0a2a2d2ef73e9/t/56fd5737d210b8b9ba82cdf6/1459443519168/?format=1500w" group-title="News;Talk",Radio Belarus International
 https://stream2.datacenter.by/belarus
+#EXTINF:-1 tvg-logo="https://www.radiogrom.com/paint_new/logo_belarus_fm/center-fm-belarus.jpg" group-title="Pop;Dance;Rap",Radio Center FM 101.7
+https://stream2.datacenter.by/stream
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3A1d_hEf7c1jueaSTIRsi_8I6108aqVz5FQ&s" group-title="Pop;Hits;News",Radio Energy 100.4
+https://stream2.datacenter.by/energy
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/de/Europaplus-logo.jpg/250px-Europaplus-logo.jpg" group-title="CHR;Dance;Top 40",Radio Europe Plus 92.8
 https://air.sammit.tv/europa
 #EXTINF:-1 tvg-logo="http://radiogomelfm.by/local/templates/.default/img/logo-2018.png" group-title="Adult;Contemporary;Pop",Radio Gomel 101.3
@@ -77,6 +83,8 @@ https://n07.radiojar.com/zv9u3eapn3quv?rj-ttl=5&rj-tok=AAABfdrPVTsAS9kUS8KUWiKkQ
 http://up.uvaga.by:8100/aacp64
 #EXTINF:-1 tvg-logo="http://top-radio.ru/assets/image/radio/180/vitebsk.jpg" group-title="Pop;Oldies;Variety",Radyo-Vitebsk 91.2
 https://live.radiovitebsk.by/live
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcL-RDiPl6NS_Qx_nTKep1d1ZE4E20ShyWvg&s" group-title="Russian;World",Russian Radio 98.9
+https://stream.rusradio.by:8443/live128
 #EXTINF:-1 tvg-logo="https://media.vaticannews.va/media/content/dam-archive/vaticannews/multimedia/2021/02/09/logo-rv-90-ITA.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg" group-title="Catholic;Religious",Vatykanskaje Rady
 https://radio.vaticannews.va/stream-be
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s299488/images/logog.jpg?t=151240" group-title="Top 40;Pop",Zеfir 95.4
