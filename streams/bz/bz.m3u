@@ -1,5 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9BNbyCv/92wvywzzq7as.png" group-title="(.*);(.*);",VPM KREM Radio 96.5
-http://159.65.32.199:8016/listen.pls
-#EXTINF:-1 tvg-logo="https://lovefm.com/favicon.ico" group-title="(.*);(.*);",VPL Love 95.1 
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/8d/5b/8d5bb5a00071978cb7d50e88c3800d3b.jpg" group-title="Adult;Contemporary",Estereo Amor Belize 97.5 
+https://s1.voscast.com:10379/stream
+#EXTINF:-1 tvg-logo="https://www.radio.net/300/maximumradio.png?version=844aac80519061ccfaf0dc335bb81026" group-title="Christian;Religious",Maximum Radio 104.1 
+http://159.65.32.199:8026/stream
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/db/a6/dba6340cdd6e407bd1a5161a781b5a4e.jpg" group-title="Caribbean;Community;News",Rainbow 107.7 
+https://c34.radioboss.fm:18225/stream
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQweXKIDUkqYtKkZesBm9_JA0sRfrpsongFOA&s" group-title="Community;News;Talk",Radio La Zona 107.5 
+https://stream-179.zeno.fm/h28h7cwhr68uv
+#EXTINF:-1 tvg-logo="https://lovefm.com/favicon.ico" group-title="Adult;Hits;Top 40",VPL Love 95.1 
 https://s1.voscast.com:10243/lovefm
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9BNbyCv/92wvywzzq7as.png" group-title="Pop;News;Talk",VPM KREM Radio 96.5
+http://159.65.32.199:8016/listen.pls
