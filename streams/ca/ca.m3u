@@ -1,4 +1,20 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://ca.radio.net/images/broadcasts/66/67/40992/1/c300.png" group-title="(.*);(.*);",1 Pure Alternative Radio
+https://jenny.torontocast.com:2000/stream/1purealternativeradio/stream
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/faa3fcf9adhd.jpg" group-title="(.*);(.*);",1 Pure EDM Radio
+https://maggie.torontocast.com:2020/stream/1pureedmradio
+#EXTINF:-1 tvg-logo="https://d1ujqdpfgkvqfi.cloudfront.net/favicon-generator/htdocs/favicons/2021-09-06/6c0563a4bb439ddd885e690af1987ba3.ico.png" group-title="(.*);(.*);",70 80 90 Italia D'Autore
+https://maggie.torontocast.com:2020/stream/708090italiadautore
+#EXTINF:-1 tvg-logo="https://d1ujqdpfgkvqfi.cloudfront.net/favicon-generator/htdocs/favicons/2021-09-06/ab1cf897abc8e06ed9c1557b028dce66.ico.png" group-title="(.*);(.*);",70 80 90 Vibrazioni Rock Radio
+https://maggie.torontocast.com:2020/stream/vibrazionirockradio
+#EXTINF:-1 tvg-logo="https://100-greatest-network.torontocast.stream/wp-content/uploads/2021/09/100-BEST-BALEARIC-TRANCE_OK_512.jpg" group-title="(.*);(.*);",100 Best Balearic Trance
+https://maggie.torontocast.com:2020/stream/100bestbalearictrance
+#EXTINF:-1 tvg-logo="https://100-greatest-network.torontocast.stream/wp-content/uploads/2021/08/100-GREATEST-LIVE-ROCK_512.png" group-title="(.*);(.*);",100 Greatest Live Rock
+https://maggie.torontocast.com:2020/stream/100greatestliverock
+#EXTINF:-1 tvg-logo="https://100-greatest-network.torontocast.stream/wp-content/uploads/2021/07/100-GREATEST-80S_LOGO_512-300x300.jpg" group-title="(.*);(.*);",100 Greatest of The 80s
+https://maggie.torontocast.com:2020/stream/100greatestofthe80s
+#EXTINF:-1 tvg-logo="https://www.680news.com/wp-content/blogs.dir/sites/2/2020/01/16/cropped-680news_nav-1-270x270.png" group-title="(.*);(.*);",680 News
+https://rogers-hls.leanstream.co/rogers/tor680.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/BFBS_logo.png" group-title="(.*);(.*);",CKBF BFBS Canada 104.1
 http://edge-audio-04-thn.sharp-stream.com/ssvcbfbs12.aac
 #EXTINF:-1 tvg-logo="https://www.lifeonline.fm/favicon.ico" group-title="(.*);(.*);",CJLF LIFE 100.3
@@ -11,16 +27,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/SAM01AAC23_SC
 https://www.ae-radiostation.com/stream/1
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/ssjnps8wxuez.png" group-title="(.*);(.*);",Classic Rock 109
 https://jenny.torontocast.com:2000/stream/ClassicRock109
-#EXTINF:-1 tvg-logo="https://ca.radio.net/images/broadcasts/66/67/40992/1/c300.png" group-title="(.*);(.*);",1 Pure Alternative Radio
-https://jenny.torontocast.com:2000/stream/1purealternativeradio/stream
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/faa3fcf9adhd.jpg" group-title="(.*);(.*);",1 Pure EDM Radio
-https://maggie.torontocast.com:2020/stream/1pureedmradio
-#EXTINF:-1 tvg-logo="https://100-greatest-network.torontocast.stream/wp-content/uploads/2021/09/100-BEST-BALEARIC-TRANCE_OK_512.jpg" group-title="(.*);(.*);",100 Best Balearic Trance
-https://maggie.torontocast.com:2020/stream/100bestbalearictrance
-#EXTINF:-1 tvg-logo="https://100-greatest-network.torontocast.stream/wp-content/uploads/2021/08/100-GREATEST-LIVE-ROCK_512.png" group-title="(.*);(.*);",100 Greatest Live Rock
-https://maggie.torontocast.com:2020/stream/100greatestliverock
-#EXTINF:-1 tvg-logo="https://100-greatest-network.torontocast.stream/wp-content/uploads/2021/07/100-GREATEST-80S_LOGO_512-300x300.jpg" group-title="(.*);(.*);",100 Greatest of The 80s
-https://maggie.torontocast.com:2020/stream/100greatestofthe80s
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/1061CHEZ_newlogo.jpg/250px-1061CHEZ_newlogo.jpg" group-title="(.*);(.*);",CHEZ 106.1
 https://rogers-hls.leanstream.co/rogers/ott1061.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://vocm.com/favicon.ico" group-title="(.*);(.*);",CKCM 620
@@ -29,16 +35,8 @@ https://nyc-edge1-entry1.leanstream-hd.com:2113/CKCMAM
 https://ais-sa1.streamon.fm/7267_64k.aac
 #EXTINF:-1 tvg-logo="https://vocm.com/favicon.ico" group-title="(.*);(.*);",CKGA 650
 https://nyc-edge1-entry1.leanstream-hd.com:2113/CKGAAM
-#EXTINF:-1 tvg-logo="https://www.680news.com/wp-content/blogs.dir/sites/2/2020/01/16/cropped-680news_nav-1-270x270.png" group-title="(.*);(.*);",680 News
-https://rogers-hls.leanstream.co/rogers/tor680.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://d1ujqdpfgkvqfi.cloudfront.net/favicon-generator/htdocs/favicons/2021-09-06/6c0563a4bb439ddd885e690af1987ba3.ico.png" group-title="(.*);(.*);",70 80 90 Italia D'Autore
-https://maggie.torontocast.com:2020/stream/708090italiadautore
-#EXTINF:-1 tvg-logo="https://d1ujqdpfgkvqfi.cloudfront.net/favicon-generator/htdocs/favicons/2021-09-06/ab1cf897abc8e06ed9c1557b028dce66.ico.png" group-title="(.*);(.*);",70 80 90 Vibrazioni Rock Radio
-https://maggie.torontocast.com:2020/stream/vibrazionirockradio
 #EXTINF:-1 tvg-logo="https://vocm.com/favicon.ico" group-title="(.*);(.*);",CFSX 840
 https://nyc-edge1-entry1.leanstream-hd.com:2113/CFSXAM
-#EXTINF:-1 tvg-logo="https://ca.radio.net/images/broadcasts/05/eb/126946/1/c300.png" group-title="(.*);(.*);",97.7 Outlaw Radio
-http://n04.radiojar.com/t4vut7ce8yzuv?rj-ttl=5&rj-tok=AAABfd41aNcAIfXckRq-hlOJSA
 #EXTINF:-1 tvg-logo="https://d1ujqdpfgkvqfi.cloudfront.net/favicon-generator/htdocs/favicons/2021-12-07/ef026f33a0097ace021d216c5f064026.ico.png" group-title="(.*);(.*);",A Mississippi Blues
 https://jenny.torontocast.com:2000/stream/amississippiblues
 #EXTINF:-1 tvg-logo="https://admin.a1chineseradio.ca/wp-content/uploads/2018/04/a1_logo.jpg" group-title="(.*);(.*);",A1中文电台
@@ -691,6 +689,8 @@ http://live.leanstream.co/CJOBAM-MP3
 https://playerservices.streamtheworld.com/api/livestream-redirect/CLASSICHITSAAC_SC
 #EXTINF:-1 tvg-logo="https://www.country933.com/wp-content/uploads/sites/35/2016/04/cropped-country933-512x512.png" group-title="(.*);(.*);",CJOK Country 93.3
 https://rogers-hls.leanstream.co/rogers/for933.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ca.radio.net/images/broadcasts/05/eb/126946/1/c300.png" group-title="(.*);(.*);",CKOR 97.7 Outlaw Radio
+http://n04.radiojar.com/t4vut7ce8yzuv?rj-ttl=5&rj-tok=AAABfd41aNcAIfXckRq-hlOJSA
 #EXTINF:-1 tvg-logo="https://boom997.com/wp-content/uploads/sites/31/2017/10/cropped-fm-logos_512x512_boom997.png?w=180" group-title="(.*);(.*);",CJOT Boom 99.7
 http://live.leanstream.co/CJOTFM-MP3
 #EXTINF:-1 tvg-logo="https://cjoy.com/wp-content/uploads/sites/27/2018/02/cropped-cjoy_512x512.png?w=180" group-title="(.*);(.*);",CJOY 1460 Greatest Hits
