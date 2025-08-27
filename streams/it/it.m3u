@@ -1749,3 +1749,7 @@ http://91.121.118.99:8082/stream
 http://178.32.138.88:8050/;stream.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.net/300/zeta.png?version=5e40fe23c9741b7f7c84cb999de4c6ab" group-title="(.*);(.*);",Radio Zeta 102.7
 https://rtl-radio-stream-thron.akamaized.net/live/radio3/radio3/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://www.paroledivita.org/images/logo/logo_radioparoledivita_1200x1200.png" group-title="(.*);(.*);",Radio Parole di Vita
+https://video2.azotosolutions.com:2020/stream/radioparoledivita2
+#EXTINF:-1 tvg-logo="https://www.paroledivita.org/images/logo/logo_radiolabibbia_1200x1200.png" group-title="(.*);(.*);",Radio La Bibbia
+https://stream1.multi-radio.com/radiobibbia
