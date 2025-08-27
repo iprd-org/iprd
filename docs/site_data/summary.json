@@ -1,5 +1,5 @@
 {
-  "total_stations": 22489,
+  "total_stations": 22512,
   "total_countries": 228,
   "countries": [
     {
@@ -200,7 +200,7 @@
     },
     {
       "code": "BY",
-      "count": 45
+      "count": 49
     },
     {
       "code": "LV",
@@ -304,6 +304,10 @@
     },
     {
       "code": "BD",
+      "count": 21
+    },
+    {
+      "code": "BZ",
       "count": 21
     },
     {
@@ -728,10 +732,6 @@
     },
     {
       "code": "TJ",
-      "count": 2
-    },
-    {
-      "code": "BZ",
       "count": 2
     },
     {
@@ -1509,7 +1509,7 @@
     {
       "code": "BY",
       "file": "streams/by/by.m3u",
-      "count": 45
+      "count": 49
     },
     {
       "code": "HU",
@@ -2159,7 +2159,7 @@
     {
       "code": "BZ",
       "file": "streams/bz/bz.m3u",
-      "count": 2
+      "count": 21
     },
     {
       "code": "NP",
@@ -2213,75 +2213,75 @@
     }
   ],
   "genre_stats": {
-    "total_unique_genres": 321,
+    "total_unique_genres": 324,
     "top_genres": [
       {
         "name": "(.*)",
-        "count": 39196
+        "count": 39178
       },
       {
         "name": "",
-        "count": 20289
+        "count": 20280
       },
       {
         "name": "pop",
-        "count": 500
+        "count": 504
       },
       {
         "name": "news",
-        "count": 495
+        "count": 500
       },
       {
         "name": "talk",
-        "count": 483
+        "count": 491
       },
       {
         "name": "variety",
-        "count": 409
+        "count": 410
       },
       {
         "name": "hits",
-        "count": 287
+        "count": 291
       },
       {
         "name": "rock",
-        "count": 215
+        "count": 216
       },
       {
         "name": "community",
-        "count": 204
+        "count": 207
       },
       {
         "name": "world",
-        "count": 199
+        "count": 200
       },
       {
         "name": "oldies",
-        "count": 135
-      },
-      {
-        "name": "contemporary",
-        "count": 129
+        "count": 137
       },
       {
         "name": "christian",
-        "count": 128
+        "count": 137
       },
       {
-        "name": "top 40",
-        "count": 117
+        "name": "contemporary",
+        "count": 133
       },
       {
         "name": "religious",
-        "count": 116
+        "count": 120
+      },
+      {
+        "name": "top 40",
+        "count": 118
       },
       {
         "name": "sports",
-        "count": 110
+        "count": 113
       },
       {
         "name": "adult",
-        "count": 94
+        "count": 100
       },
       {
         "name": "folk",
@@ -2297,7 +2297,7 @@
       },
       {
         "name": "gospel",
-        "count": 49
+        "count": 52
       },
       {
         "name": "80s",
@@ -2320,12 +2320,12 @@
         "count": 35
       },
       {
-        "name": "catholic",
-        "count": 35
+        "name": "hip hop",
+        "count": 34
       },
       {
-        "name": "hip hop",
-        "count": 32
+        "name": "catholic",
+        "count": 34
       },
       {
         "name": "jazz",
@@ -2349,15 +2349,15 @@
       },
       {
         "name": "ambient",
-        "count": 24
+        "count": 25
+      },
+      {
+        "name": "latin",
+        "count": 21
       },
       {
         "name": "esportes",
         "count": 21
-      },
-      {
-        "name": "latin",
-        "count": 20
       },
       {
         "name": "house",
@@ -2384,16 +2384,20 @@
         "count": 19
       },
       {
+        "name": "urban",
+        "count": 18
+      },
+      {
         "name": "schlager",
         "count": 18
       },
       {
-        "name": "urban",
+        "name": "french",
         "count": 17
       },
       {
-        "name": "french",
-        "count": 17
+        "name": "indie",
+        "count": 16
       },
       {
         "name": "islam",
@@ -2401,10 +2405,6 @@
       },
       {
         "name": "youth",
-        "count": 15
-      },
-      {
-        "name": "indie",
         "count": 15
       },
       {
@@ -2417,5 +2417,5 @@
       }
     ]
   },
-  "updated": "2025-08-20T01:56:45Z"
+  "updated": "2025-08-27T01:53:40Z"
 }
