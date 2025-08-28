@@ -15,7 +15,7 @@ https://maggie.torontocast.com:2020/stream/100greatestliverock
 https://maggie.torontocast.com:2020/stream/100greatestofthe80s
 #EXTINF:-1 tvg-logo="https://www.680news.com/wp-content/blogs.dir/sites/2/2020/01/16/cropped-680news_nav-1-270x270.png" group-title="Talk;News",680 News
 https://rogers-hls.leanstream.co/rogers/tor680.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://admin.a1chineseradio.ca/wp-content/uploads/2018/04/a1_logo.jpg" group-title="Chinese;World",A1中文电台
+#EXTINF:-1 tvg-logo="https://admin.a1chineseradio.ca/wp-content/uploads/2018/04/a1_logo.jpg" group-title="Chinese;World",A1
 http://s2.voscast.com:9530/
 #EXTINF:-1 tvg-logo="https://d1ujqdpfgkvqfi.cloudfront.net/favicon-generator/htdocs/favicons/2021-12-07/ef026f33a0097ace021d216c5f064026.ico.png" group-title="Blues;Soul",A Mississippi Blues
 https://jenny.torontocast.com:2000/stream/amississippiblues
@@ -41,75 +41,75 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/TV_BNNAAC_SC
 http://camoesradio.out.airtime.pro:8000/camoesradio_a#.mp3
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMDMSKcxKMtbBvipVj8VscZN6vc1XOANjt5Q&s" group-title="French;News;Audiobooks",Canal M
 http://cad.casthost.ca:8038/stream
-#EXTINF:-1 tvg-logo="http://images.cbcmusic.ca/v1/cbc-music/programs/1x1/default-share.png" group-title="(.*);(.*);",CBC Music Winnipeg
+#EXTINF:-1 tvg-logo="http://images.cbcmusic.ca/v1/cbc-music/programs/1x1/default-share.png" group-title="Alternative;Classical",CBC Music Winnipeg
 https://cbcliveradio2-lh.akamaihd.net/i/CBCR2_WPG@385274/master.m3u8
-#EXTINF:-1 tvg-logo="https://ici.radio-canada.ca/ohdio/assets/pwa/apple-touch-icon-180x180.png" group-title="(.*);(.*);",CBF 95.1 ICI Radio-Canada Première
+#EXTINF:-1 tvg-logo="https://ici.radio-canada.ca/ohdio/assets/pwa/apple-touch-icon-180x180.png" group-title="French;News;Talk",CBF 95.1 ICI Radio-Canada Première
 https://rcavliveaudio.akamaized.net/hls/live/2006635/P-2QMTL0_MTL/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s25283/images/logod.png?t=637193903780000000" group-title="(.*);(.*);",CBH 102.7 CBC Music Halifax
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s25283/images/logod.png?t=637193903780000000" group-title="Adult;Contemporary;Alternative",CBH 102.7 CBC Music Halifax
 https://cbcliveradio2-lh.akamaihd.net/i/CBCR2_HFX@382379/master.m3u8
-#EXTINF:-1 tvg-logo="http://images.cbcmusic.ca/v1/cbc-music/programs/1x1/default-share.png" group-title="(.*);(.*);",CBL 94.1 CBC Music Toronto
+#EXTINF:-1 tvg-logo="http://images.cbcmusic.ca/v1/cbc-music/programs/1x1/default-share.png" group-title="Adult;Contemporary;Classical",CBL 94.1 CBC Music Toronto
 https://cbcliveradio2-lh.akamaihd.net/i/CBCR2_TOR@382863/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.cbc.ca/1.4066392.1500303304!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/cbc-logo-horizontal.jpg" group-title="(.*);(.*);",CBO 91.5 CBC Radio 1
+#EXTINF:-1 tvg-logo="https://i.cbc.ca/1.4066392.1500303304!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/cbc-logo-horizontal.jpg" group-title="News;Talk",CBO 91.5 CBC Radio 1
 https://cbcliveradio-lh.akamaihd.net/i/CBCR1_OTT@348188/master.m3u8
-#EXTINF:-1 tvg-logo="http://images.cbcmusic.ca/v1/cbc-music/programs/1x1/default-share.png" group-title="(.*);(.*);",CBU 105.7 CBC Music Vancouver
+#EXTINF:-1 tvg-logo="http://images.cbcmusic.ca/v1/cbc-music/programs/1x1/default-share.png" group-title="Alternative;Classical;Jazz",CBU 105.7 CBC Music Vancouver
 https://cbcliveradio2-lh.akamaihd.net/i/CBCR2_VCR@353638/master.m3u8
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/7wjwrPxuLN.png" group-title="(.*);(.*);",CBU 88.1/690 CBC Radio 1
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/7wjwrPxuLN.png" group-title="News;Talk;Variety",CBU 88.1/690 CBC Radio 1
 https://cbcliveradio-lh.akamaihd.net/i/CBCR1_VCR@314572/master.m3u8
-#EXTINF:-1 tvg-logo="https://subscriptions.cbc.ca/newsletter_static/images/1581433263108-cbc-radio-one.png" group-title="(.*);(.*);",CBW 89.3 CBC Radio 1
+#EXTINF:-1 tvg-logo="https://subscriptions.cbc.ca/newsletter_static/images/1581433263108-cbc-radio-one.png" group-title="News;Talk",CBW 89.3 CBC Radio 1
 https://cbcliveradio-lh.akamaihd.net/i/CBCR1_WPG@384111/master.m3u8
-#EXTINF:-1 tvg-logo="http://images.cbcmusic.ca/v1/cbc-music/programs/1x1/default-share.png" group-title="(.*);(.*);",CBX 90.9 CBC Music Edmonton
+#EXTINF:-1 tvg-logo="http://images.cbcmusic.ca/v1/cbc-music/programs/1x1/default-share.png" group-title="Classical;Contemporary;Jazz",CBX 90.9 CBC Music Edmonton
 https://cbcliveradio2-lh.akamaihd.net/i/CBCR2_EDM@48972/master.m3u8
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/cYQNqVL3RU.png" group-title="(.*);(.*);",CBX 93.9 CBC Radio 1
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/cYQNqVL3RU.png" group-title="News;Talk",CBX 93.9 CBC Radio 1
 https://cbcliveradio-lh.akamaihd.net/i/CBCR1_EDM@372985/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.cbc.ca/1.4066392.1500303304!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/cbc-logo-horizontal.jpg" group-title="(.*);(.*);",CBAM 106.1 CBC Radio 1
+#EXTINF:-1 tvg-logo="https://i.cbc.ca/1.4066392.1500303304!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/cbc-logo-horizontal.jpg" group-title="News;Talk",CBAM 106.1 CBC Radio 1
 https://cbcliveradio-lh.akamaihd.net/i/CBCR1_MCT@360345/master.m3u8
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51TUX9Re3BL.png" group-title="(.*);(.*);",CBCS 99.9 CBC Radio 1
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51TUX9Re3BL.png" group-title="News;Talk;Variety",CBCS 99.9 CBC Radio 1
 https://cbcliveradio-lh.akamaihd.net/i/CBCR1_SUD@384513/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Cbc_radio_one_windsor.svg/1024px-Cbc_radio_one_windsor.svg.png" group-title="(.*);(.*);",CBEW 97.5 CBC Radio 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Cbc_radio_one_windsor.svg/1024px-Cbc_radio_one_windsor.svg.png" group-title="News;Talk",CBEW 97.5 CBC Radio 1
 https://cbcliveradio-lh.akamaihd.net/i/CBCR1_WDR@324611/master.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s20305/images/logod.png?t=158342" group-title="(.*);(.*);",CBHA 90.5 CBC Radio 1
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s20305/images/logod.png?t=158342" group-title="News;Talk",CBHA 90.5 CBC Radio 1
 https://cbcliveradio-lh.akamaihd.net/i/CBCR1_HFX@353708/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.cbc.ca/favicon.ico" group-title="(.*);(.*);",CBLA 99.1 CBC Radio 1
+#EXTINF:-1 tvg-logo="https://www.cbc.ca/favicon.ico" group-title="News;Talk",CBLA 99.1 CBC Radio 1
 http://liveradiocanada.cbc.ca/i/CBCR2_TOR@382863/master.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s12337/images/logod.png?t=637190219570000000" group-title="(.*);(.*);",CBLA-2 89.1 CBC Radio 1
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s12337/images/logod.png?t=637190219570000000" group-title="News;Talk",CBLA-2 89.1 CBC Radio 1
 https://cbcliveradio-lh.akamaihd.net/i/CBCR1_EKW@371992/master.m3u8
-#EXTINF:-1 tvg-logo="http://images.cbcmusic.ca/v1/cbc-music/programs/1x1/default-share.png" group-title="(.*);(.*);",CBME 88.5 CBC Radio 1
+#EXTINF:-1 tvg-logo="http://images.cbcmusic.ca/v1/cbc-music/programs/1x1/default-share.png" group-title="News;Talk",CBME 88.5 CBC Radio 1
 https://cbcliveradio-lh.akamaihd.net/i/CBCR1_MTL@360544/master.m3u8
-#EXTINF:-1 tvg-logo="https://ici.radio-canada.ca/ohdio/assets/pwa/apple-touch-icon-180x180.png" group-title="(.*),(.*),",CBOX 102.5 ICI Musique
+#EXTINF:-1 tvg-logo="https://ici.radio-canada.ca/ohdio/assets/pwa/apple-touch-icon-180x180.png" group-title="French;Classical;Alternative",CBOX 102.5 ICI Musique
 https://rcavliveaudio.akamaized.net/hls/live/2006986/M-7OOTT0_OTT/adaptive_128/chunklist_ao.m3u8
-#EXTINF:-1 tvg-logo="https://www.icimusique.ca//Content/_images/icon/ici-musique/asset-icon-apple-touch-60.png" group-title="(.*);(.*);",CBUX 90.9 Ici Musique
+#EXTINF:-1 tvg-logo="https://www.icimusique.ca//Content/_images/icon/ici-musique/asset-icon-apple-touch-60.png" group-title="French;Alternative;Jazz",CBUX 90.9 Ici Musique
 https://rcavliveaudio.akamaized.net/hls/live/2006996/M-7BVAN0_VAN/adaptive_128/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.sportsnet.ca/sn_favicon.ico" group-title="(.*);(.*);",CFAC Sportsnet 960
+#EXTINF:-1 tvg-logo="https://www.sportsnet.ca/sn_favicon.ico" group-title="Sports;Talk",CFAC Sportsnet 960
 https://rogers-hls.leanstream.co/rogers/cal960.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://993theriver.com/wp-content/uploads/sites/19/2017/07/CFAN_LOGO.png" group-title="(.*);(.*);",CFAN 99.3 The River
+#EXTINF:-1 tvg-logo="http://993theriver.com/wp-content/uploads/sites/19/2017/07/CFAN_LOGO.png" group-title="Community;Easy Listening",CFAN 99.3 The River
 http://mbsradio.leanstream.co/CFANFM-MP3
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNhHScxf2q81Tt_GwXgcsh6ITfuJWQzO4DMBOjdI3h73PmHcshKAMM2raWEwS3epwLXg&usqp=CAU" group-title="(.*);(.*);",CFAX 1070
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNhHScxf2q81Tt_GwXgcsh6ITfuJWQzO4DMBOjdI3h73PmHcshKAMM2raWEwS3epwLXg&usqp=CAU" group-title="News;Talk",CFAX 1070
 https://playerservices.streamtheworld.com/api/livestream-redirect/CFAXAMAAC_SC
-#EXTINF:-1 tvg-logo="http://www.bluewaterradio.ca///templates/shape5_vertex/favicon.ico" group-title="(.*);(.*);",CFBW BWR 91.3
+#EXTINF:-1 tvg-logo="http://www.bluewaterradio.ca///templates/shape5_vertex/favicon.ico" group-title="Community;Variety",CFBW BWR 91.3
 http://s41.myradiostream.com:29922/listen.mp3
-#EXTINF:-1 tvg-logo="https://cfbxsite.files.wordpress.com/2017/07/cropped-screen-shot-2017-07-27-at-10-12-33-pm2.png?w=200" group-title="(.*);(.*);",CFBX 92.5 The X Thompson Rivers University
+#EXTINF:-1 tvg-logo="https://cfbxsite.files.wordpress.com/2017/07/cropped-screen-shot-2017-07-27-at-10-12-33-pm2.png?w=200" group-title="University;Variety",CFBX 92.5 The X Thompson Rivers University
 http://198.162.21.84:8002/listen.pls
-#EXTINF:-1 tvg-logo="http://vocm.com/favicon.ico" group-title="(.*);(.*);",CFCB 570
+#EXTINF:-1 tvg-logo="http://vocm.com/favicon.ico" group-title="Variety;News",CFCB 570
 http://newcap.leanstream.co/CFCBAM
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/CFCO-AM_new_2008.jpg" group-title="(.*);(.*);",CFCO Country 92.9/630
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/CFCO-AM_new_2008.jpg" group-title="News;Sports;Country",CFCO Country 92.9/630
 http://live.leanstream.co/CFCOFM
-#EXTINF:-1 tvg-logo="http://media.socastsrm.com/uploads/station/754/fbShare.png?r=25597" group-title="(.*);(.*);",CFCW 840
+#EXTINF:-1 tvg-logo="http://media.socastsrm.com/uploads/station/754/fbShare.png?r=25597" group-title="Country;Folk",CFCW 840
 http://newcap.leanstream.co/CFCWAM
-#EXTINF:-1 tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/2286/files/2019/03/nc981herologo287x300.png" group-title="(.*);(.*);",CFCW 98.1 New Country
+#EXTINF:-1 tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/2286/files/2019/03/nc981herologo287x300.png" group-title="Country;New",CFCW 98.1 New Country
 http://newcap.leanstream.co/CFCWFM
-#EXTINF:-1 tvg-logo="http://cfcy.fm/wp-content/uploads/sites/5/2016/08/CFCY-2.png" group-title="(.*);(.*);",CFCY 95.1
+#EXTINF:-1 tvg-logo="http://cfcy.fm/wp-content/uploads/sites/5/2016/08/CFCY-2.png" group-title="Country;Folk",CFCY 95.1
 http://mbsradio.leanstream.co/CFCYFM-MP3
-#EXTINF:-1 tvg-logo="http://blvd.fm/img/logo-blvd.svg" group-title="(.*);(.*);",CFEL 102.1 BLVD FM
+#EXTINF:-1 tvg-logo="http://blvd.fm/img/logo-blvd.svg" group-title="French;Alternative;Rock",CFEL 102.1 BLVD FM
 http://streaming.cfel.leclerccommunication.ca:8000/cfel.mp3
-#EXTINF:-1 tvg-logo="http://www.seasidefm.com/favicon.ico" group-title="(.*);(.*);",CFEP 105.9 Seaside FM
+#EXTINF:-1 tvg-logo="http://www.seasidefm.com/favicon.ico" group-title="Community;Variety",CFEP 105.9 Seaside FM
 http://cassini.shoutca.st:8215/stream
-#EXTINF:-1 tvg-logo="http://media.socastsrm.com/uploads/station/286/home_screen_logo-569ff379f185e.jpg" group-title="(.*);(.*);",CFEX 92.9 X
+#EXTINF:-1 tvg-logo="http://media.socastsrm.com/uploads/station/286/home_screen_logo-569ff379f185e.jpg" group-title="Rock;Hits",CFEX 92.9 X
 http://ais-sa1.streamon.fm/7251_64k.aac
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s24837d.png" group-title="(.*);(.*);",CFFF 92.7 Trent Radio
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s24837d.png" group-title="University;Variety",CFFF 92.7 Trent Radio
 http://trentradio.ca:8800/hi-fi
-#EXTINF:-1 tvg-logo="https://www.660citynews.com/wp-content/themes/660news/images/favicon.ico" group-title="(.*);(.*);",CFFR 660 News
+#EXTINF:-1 tvg-logo="https://www.660citynews.com/wp-content/themes/660news/images/favicon.ico" group-title="News;Talk",CFFR 660 News
 https://rogers-hls.leanstream.co/rogers/cal660.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.tsn.ca/img/tsn/icons/apple-touch-icon-120x120.png" group-title="(.*);(.*);",CFGO TSN 1200
+#EXTINF:-1 tvg-logo="http://www.tsn.ca/img/tsn/icons/apple-touch-icon-120x120.png" group-title="Sports;Talk",CFGO TSN 1200
 https://playerservices.streamtheworld.com/api/livestream-redirect/CFGOAMAAC_SC
 #EXTINF:-1 tvg-logo="https://www.977rock.ca/wp-content/uploads/sites/38/2016/08/cropped-977_ROCK_logo-270x270.png" group-title="(.*);(.*);",CFGP 97.7 Rock
 https://rogers-hls.leanstream.co/rogers/gra977.stream/playlist.m3u8
