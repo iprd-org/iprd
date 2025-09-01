@@ -161,6 +161,8 @@ http://ais-sa1.streamon.fm/7161_64k.aac
 http://ice64.securenetsystems.net/CHMYF1
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/3db9f8_f28c819fe95e4303b62ae35cdf9685d9~mv2.png/v1/fill/w_374,h_190,al_c,usm_0.66_1.00_0.01/3db9f8_f28c819fe95e4303b62ae35cdf9685d9~mv2.png" group-title="Contemporary;Ethnic",CFMS 105.9 The Region
 http://s9.voscast.com:8708/stream
+#EXTINF:-1 tvg-logo="https://zeno.fm/_ipx/_/https://images.zeno.fm/FAvISLa813OTJoG3R6MA0yRt5DYKINLQpITD3PQz6MM/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvZjU2OGM2YzUtMGI1NS00NDdkLWE4NzgtMWI0ZmNmN2FmY2VjL2ltYWdlLz91PTE3MTM5Mzc3MDkwMDA.webp" group-title="Classical;Relax",CFMZ 96.3 Classical
+https://d3bpb7mfsuyfbo.cloudfront.net/out/v1/e3c2ceefd7b04d0ea50cf8c8d7ca6b08/index.m3u8
 #EXTINF:-1 tvg-logo="https://cfnj.net/wp-content/uploads/2020/10/cropped-favicon-cfnj-180x180.png" group-title="French;Community",CFNJ 99.1
 http://66.70.178.194:9700/stream
 #EXTINF:-1 tvg-logo="https://cfnj.net/wp-content/uploads/2020/10/cropped-favicon-cfnj-180x180.png" group-title="French;Community",CFNJ 99.1
@@ -423,117 +425,115 @@ http://ice41.securenetsystems.net/CHWE
 http://live.leanstream.co/CHYRFM
 #EXTINF:-1 tvg-logo="https://www.radios-quebecoises.com/wp-content/uploads/2020/01/logo-chyz-94-3-fm-en-direct.png" group-title="French;Campus;Variety",CHYZ 94.3 Universite Laval
 http://ecoutez.chyz.ca:8000/listen.pls
-#EXTINF:-1 tvg-logo="http://www.am530.ca/favicon.ico" group-title="(.*);(.*);",CIAO 530
+#EXTINF:-1 tvg-logo="http://www.am530.ca/favicon.ico" group-title="Multicultural;Hits",CIAO 530
 http://ice23.securenetsystems.net/CIAO
-#EXTINF:-1 tvg-logo="http://ciaufm.ca/wp-content/uploads/2017/11/cropped-ciau_fm_icon-192x192.png" group-title="(.*);(.*);",CIAU 103.1
+#EXTINF:-1 tvg-logo="http://ciaufm.ca/wp-content/uploads/2017/11/cropped-ciau_fm_icon-192x192.png" group-title="French;Community",CIAU 103.1
 http://stream02.ustream.ca:8000/ciau128.mp3
-#EXTINF:-1 tvg-logo="https://images.radio.orange.com/radios/large_cibl_1015_fm_montreal_qc.png" group-title="(.*);(.*);",CIBL 101.5
+#EXTINF:-1 tvg-logo="https://images.radio.orange.com/radios/large_cibl_1015_fm_montreal_qc.png" group-title="French;Community",CIBL 101.5
 http://stream02.ustream.ca:8000/cibl128.mp3
-#EXTINF:-1 tvg-logo="http://www.realcountrybrooks.ca/favicon.ico" group-title="(.*);(.*);",CIBQ 105.7 Real Country
+#EXTINF:-1 tvg-logo="http://www.realcountrybrooks.ca/favicon.ico" group-title="Country;New",CIBQ 105.7 Real Country
 http://newcap.leanstream.co/CIBQFM-MP3
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s88818/images/logog.jpg?t=1" group-title="(.*);(.*);",CIBU Classic Rock 94.5
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s88818/images/logog.jpg?t=1" group-title="Rock;Oldies",CIBU Classic Rock 94.5
 http://live.leanstream.co/CIBUFM
-#EXTINF:-1 tvg-logo="http://www.smithersradio.com/files/favicon_0.ico" group-title="(.*);(.*);",CICK 93.9
+#EXTINF:-1 tvg-logo="http://www.smithersradio.com/files/favicon_0.ico" group-title="Community;Variety",CICK 93.9
 http://usa13.fastcast4u.com:5148/listen.pls
-#EXTINF:-1 tvg-logo="http://whitebearfirstnation.ca/res/img/new-logo.png" group-title="(.*);(.*);",CIDD 97.7
+#EXTINF:-1 tvg-logo="http://whitebearfirstnation.ca/res/img/new-logo.png" group-title="Community;Indigenous",CIDD 97.7
 https://ais-sa1.streamon.fm/7176_32k.aac/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/6e/c4/177033/1/c300.png" group-title="(.*);(.*);",CIDI 99.1
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/6e/c4/177033/1/c300.png" group-title="French;Community",CIDI 99.1
 http://s2.radioservers.biz:9998/;stream
-#EXTINF:-1 tvg-logo="http://www.ciel103.com/ciel/images/logo_ciel.png" group-title="(.*);(.*);",CIEL 103.7
+#EXTINF:-1 tvg-logo="http://www.ciel103.com/ciel/images/logo_ciel.png" group-title="French;Contemporary",CIEL 103.7
 http://podcast.servlinks.com:8409/;stream/1
-#EXTINF:-1 tvg-logo="http://www.cieufm.com/images/logo-cieu-fm-fb2.jpg" group-title="(.*);(.*);",CIEU 94.9
+#EXTINF:-1 tvg-logo="http://www.cieufm.com/images/logo-cieu-fm-fb2.jpg" group-title="French;Community",CIEU 94.9
 http://stream.statsradio.com:8074/stream
-#EXTINF:-1 tvg-logo="http://www.mix97.com/favicon.ico" group-title="(.*);(.*);",CIGL 97.1 MIX 97
+#EXTINF:-1 tvg-logo="http://www.mix97.com/favicon.ico" group-title="Adult;Contemporary",CIGL 97.1 MIX 97
 http://live.leanstream.co/CIGLFM-MP3
-#EXTINF:-1 tvg-logo="http://www.hot935.ca/favicon.ico" group-title="(.*);(.*);",CIGM Hot 93.5
+#EXTINF:-1 tvg-logo="http://www.hot935.ca/favicon.ico" group-title="Hits;Top 40",CIGM Hot 93.5
 http://newcap.leanstream.co/CIGMFM
-#EXTINF:-1 tvg-logo="http://cignfm.ca/wp-content/themes/cign/img/cign-logo-400x200.png" group-title="(.*);(.*);",CIGN 96.7
+#EXTINF:-1 tvg-logo="http://cignfm.ca/wp-content/themes/cign/img/cign-logo-400x200.png" group-title="French;Community",CIGN 96.7
 http://stream02.ustream.ca:8000/cignfm128.mp3
-#EXTINF:-1 tvg-logo="http://media.socastsrm.com/wordpress/wp-content/blogs.dir/899/files/2017/09/New-Country-1007-Home-Logo260x300.png" group-title="(.*);(.*);",CIGV New Country 100.7
+#EXTINF:-1 tvg-logo="http://media.socastsrm.com/wordpress/wp-content/blogs.dir/899/files/2017/09/New-Country-1007-Home-Logo260x300.png" group-title="Country;New",CIGV New Country 100.7
 http://newcap.leanstream.co/CIGVFM
-#EXTINF:-1 tvg-logo="http://media.socastsrm.com/wordpress/wp-content/blogs.dir/881/files/2017/10/uplogo_hero_v003.png" group-title="(.*);(.*);",CIHI Up 93.1
+#EXTINF:-1 tvg-logo="http://media.socastsrm.com/wordpress/wp-content/blogs.dir/881/files/2017/10/uplogo_hero_v003.png" group-title="Top 40;Hits",CIHI Up 93.1
 http://newcap.leanstream.co/CIHIFM
-#EXTINF:-1 tvg-logo="http://www.cihofm.com//favicon.ico" group-title="(.*);(.*);",CIHO Charlevoix 96.3
+#EXTINF:-1 tvg-logo="http://www.cihofm.com//favicon.ico" group-title="French;Community",CIHO Charlevoix 96.3
 http://stream.cloudmjs.com:8000/ciho.mp3
-#EXTINF:-1 tvg-logo="http://mm.aiircdn.com/122/318909.png" group-title="(.*);(.*);",CIHR 104.7 Heart FM
+#EXTINF:-1 tvg-logo="http://mm.aiircdn.com/122/318909.png" group-title="Adult;Contemporary",CIHR 104.7 Heart FM
 http://ais-sa1.streamon.fm/7135_48k.aac
-#EXTINF:-1 tvg-logo="https://mm.aiircdn.com/122/528247.png" group-title="(.*);(.*);",CIHR Heart FM2
+#EXTINF:-1 tvg-logo="https://mm.aiircdn.com/122/528247.png" group-title="70s;80s;90s",CIHR Heart FM2
 https://stream2.statsradio.com:8104/stream
-#EXTINF:-1 tvg-logo="http://media.socastsrm.com/wordpress/wp-content/blogs.dir/981/files/2017/04/hotherologov003.png" group-title="(.*);(.*);",CIHT Hot 89.9
+#EXTINF:-1 tvg-logo="http://media.socastsrm.com/wordpress/wp-content/blogs.dir/981/files/2017/04/hotherologov003.png" group-title="Contemporary;Hits",CIHT Hot 89.9
 http://newcap.leanstream.co/CIHTFM
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/epuq8yAP8X.png" group-title="(.*);(.*);",CIJK 89.3 K-Rock
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/epuq8yAP8X.png" group-title="Oldies;Hits",CIJK 89.3 K-Rock
 http://newcap.leanstream.co/CIJKFM
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/Boom_Lac_La_Biche_Logo.png" group-title="(.*);(.*);",CILB Boom 103.5
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/Boom_Lac_La_Biche_Logo.png" group-title="Oldies;Hits",CILB Boom 103.5
 http://newcap.leanstream.co/CILBFM-MP3
-#EXTINF:-1 tvg-logo="http://www.cilemf.com/favicon.ico" group-title="(.*);(.*);",CILE 95.1
+#EXTINF:-1 tvg-logo="http://www.cilemf.com/favicon.ico" group-title="Community;French",CILE 95.1
 http://stream02.ustream.ca:8000/cile128.mp3
-#EXTINF:-1 tvg-logo="https://q107.com/wp-content/uploads/sites/12/2017/12/cropped-favicon_q107_square_transparent.png?w=180" group-title="(.*);(.*);",CILQ 107.1 Q107
+#EXTINF:-1 tvg-logo="https://q107.com/wp-content/uploads/sites/12/2017/12/cropped-favicon_q107_square_transparent.png?w=180" group-title="Rock;Hits",CILQ 107.1 Q107
 http://live.leanstream.co/CILQFM
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/84/CILS_RadioVictoria107.9_logo.jpg/225px-CILS_RadioVictoria107.9_logo.jpg" group-title="(.*);(.*);",CILS 107.9 Radio Victoria
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/84/CILS_RadioVictoria107.9_logo.jpg/225px-CILS_RadioVictoria107.9_logo.jpg" group-title="French;Community",CILS 107.9 Radio Victoria
 http://stream2.statsradio.com:8012/stream
-#EXTINF:-1 tvg-logo="http://www.myfmradio.ca/favicon.ico" group-title="(.*);(.*);",CIMA 92.1 MyFM
+#EXTINF:-1 tvg-logo="http://www.myfmradio.ca/favicon.ico" group-title="Adult;Contemporary",CIMA 92.1 MyFM
 http://ice23.securenetsystems.net/CIMAFM
-#EXTINF:-1 tvg-logo="https://magic106.com/wp-content/uploads/sites/7/2018/02/cropped-magic_512x512.png?w=180" group-title="(.*);(.*);",CIMJ 106.1 Magic 106
+#EXTINF:-1 tvg-logo="https://magic106.com/wp-content/uploads/sites/7/2018/02/cropped-magic_512x512.png?w=180" group-title="Adult;Contemporary",CIMJ 106.1 Magic 106
 http://live.leanstream.co/CIMJFM-MP3
-#EXTINF:-1 tvg-logo="http://www.myfmradio.ca/myfmradio.ca.hyperesources/myFM%20Logo%20Border1.png" group-title="(.*);(.*);",CIMY 104.9 myFM
+#EXTINF:-1 tvg-logo="http://www.myfmradio.ca/myfmradio.ca.hyperesources/myFM%20Logo%20Border1.png" group-title="Adult;Contemporary",CIMY 104.9 myFM
 http://ice23.securenetsystems.net/CIMY
-#EXTINF:-1 tvg-logo="http://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/632/2014/10/22215120/logo6.png" group-title="(.*);(.*);",CINA 1650
+#EXTINF:-1 tvg-logo="http://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/632/2014/10/22215120/logo6.png" group-title="Multicultural;Variety",CINA 1650
 http://ice8.securenetsystems.net/CINA
-#EXTINF:-1 tvg-logo="http://www.ncifm.com/wp-content/uploads/2014/01/logo-web.png" group-title="(.*);(.*);",CINC 105.5 NCI-FM
+#EXTINF:-1 tvg-logo="http://www.ncifm.com/wp-content/uploads/2014/01/logo-web.png" group-title="Indigenous;Community",CINC 105.5 NCI-FM
 http://180.obj.netromedia.com/NCIFM1/NCIFM1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Energy953_CING-FM_2019.png/375px-Energy953_CING-FM_2019.png" group-title="(.*);(.*);",CING 95.3 Energy
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Energy953_CING-FM_2019.png/375px-Energy953_CING-FM_2019.png" group-title="Adult;Contemporary",CING 95.3 Energy
 http://live.leanstream.co/CINGFM-MP3
-#EXTINF:-1 tvg-logo="https://www.ocean985.com/wp-content/uploads/sites/18/2018/02/cropped-985OCEAN-600x600-270x270.png" group-title="(.*);(.*);",CIOC Ocean 98.5
+#EXTINF:-1 tvg-logo="https://www.ocean985.com/wp-content/uploads/sites/18/2018/02/cropped-985OCEAN-600x600-270x270.png" group-title="Adult;Contemporary",CIOC Ocean 98.5
 https://rogers-hls.leanstream.co/rogers/vic985.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://1015thehawk.ca/favicon.ico" group-title="(.*);(.*);",CIOI 101.5 The Hawk
+#EXTINF:-1 tvg-logo="https://1015thehawk.ca/favicon.ico" group-title="Campus;Alternative",CIOI 101.5 The Hawk
 https://hawkstream.mohawkcollege.ca/1/
-#EXTINF:-1 tvg-logo="http://k100.ca/wp-content/uploads/sites/9/2016/08/cropped-K100_NewLogo-270x270.png" group-title="(.*);(.*);",CIOK 100.5 K-100
+#EXTINF:-1 tvg-logo="http://k100.ca/wp-content/uploads/sites/9/2016/08/cropped-K100_NewLogo-270x270.png" group-title="Adult;Contemporary",CIOK 100.5 K-100
 http://mbsradio.leanstream.co/CIOKFM-MP3
-#EXTINF:-1 tvg-logo="http://www.o991.ca/favicon.ico" group-title="(.*);(.*);",CIPC O 99.1
+#EXTINF:-1 tvg-logo="http://www.o991.ca/favicon.ico" group-title="Top 40;Rock",CIPC O 99.1
 http://stream.statsradio.com:8020/stream
-#EXTINF:-1 tvg-logo="https://1011bigfm.com/wp-content/uploads/sites/16/2018/02/cropped-big1011-logo-512x512.png?w=180" group-title="(.*);(.*);",CIQB Big 101.1
+#EXTINF:-1 tvg-logo="https://1011bigfm.com/wp-content/uploads/sites/16/2018/02/cropped-big1011-logo-512x512.png?w=180" group-title="Oldies;Hits",CIQB Big 101.1
 http://live.leanstream.co/CIQBFM-MP3
-#EXTINF:-1 tvg-logo="http://www.ciqifm.com/assets/favicons/safari-pinned-tab.svg" group-title="(.*);(.*);",CIQI 90.3
+#EXTINF:-1 tvg-logo="http://www.ciqifm.com/assets/favicons/safari-pinned-tab.svg" group-title="French;Adult;Contemporary",CIQI 90.3
 http://stream.statsradio.com:8044/stream
-#EXTINF:-1 tvg-logo="http://media.socastsrm.com/wordpress/wp-content/blogs.dir/888/files/2017/07/k97logo326x300.png" group-title="(.*);(.*);",CIRK 97.3 K-97
+#EXTINF:-1 tvg-logo="http://media.socastsrm.com/wordpress/wp-content/blogs.dir/888/files/2017/07/k97logo326x300.png" group-title="Oldies;Rock",CIRK 97.3 K-97
 http://newcap.leanstream.co/CIRKFM
-#EXTINF:-1 tvg-logo="https://redfm.ca/wp-content/uploads/2019/03/cropped-redfm_icon-180x180.png" group-title="(.*);(.*);",CIRV 88.9
-http://ice5.securenetsystems.net/CIRV
-#EXTINF:-1 tvg-logo="https://redfm.ca/wp-content/uploads/2019/01/redfm_vancouver.png" group-title="(.*);(.*);",CIRV Red 88.9
+#EXTINF:-1 tvg-logo="https://redfm.ca/wp-content/uploads/2019/01/redfm_vancouver.png" group-title="Multicultural;Variety",CIRV Red 88.9
 https://ice9.securenetsystems.net/CIRVFM
-#EXTINF:-1 tvg-logo="http://www.pulsefm.ca/wp-content/uploads/2017/11/PulseLogo-home5.png" group-title="(.*);(.*);",CISF 107.7 Pulse FM
+#EXTINF:-1 tvg-logo="http://www.pulsefm.ca/wp-content/uploads/2017/11/PulseLogo-home5.png" group-title="Community;Contemporary",CISF 107.7 Pulse FM
 http://ais-sa1.streamon.fm/7217_48k.aac
-#EXTINF:-1 tvg-logo="http://www.sportsnet.ca/wp-content/themes/sportsnet/images/sn_default_logo.gif" group-title="(.*);(.*);",CISL Sportsnet 650
+#EXTINF:-1 tvg-logo="http://www.sportsnet.ca/wp-content/themes/sportsnet/images/sn_default_logo.gif" group-title="Sports;Talk",CISL Sportsnet 650
 http://radioamd-i.akamaihd.net/hls/live/562166/cisl/master.m3u8
-#EXTINF:-1 tvg-logo="http://cism893.ca/public/default/images/placeholders/cism-5.png" group-title="(.*);(.*);",CISM 89.3 Université de Montréal
+#EXTINF:-1 tvg-logo="http://cism893.ca/public/default/images/placeholders/cism-5.png" group-title="Campus;Variety",CISM 89.3 Université de Montréal
 http://stream03.ustream.ca/cism128.mp3
-#EXTINF:-1 tvg-logo="https://cisnfm.com/wp-content/uploads/sites/30/2018/01/cropped-fm-logos_512x512_cisn.png?w=180" group-title="(.*);(.*);",CISN Country 103.9
+#EXTINF:-1 tvg-logo="https://cisnfm.com/wp-content/uploads/sites/30/2018/01/cropped-fm-logos_512x512_cisn.png?w=180" group-title="Country;New",CISN Country 103.9
 http://live.leanstream.co/CISNFM-MP3
-#EXTINF:-1 tvg-logo="https://www.mountainfm.com/wp-content/uploads/sites/33/2016/05/cropped-mountainfm-logo-frequency-270x270.png" group-title="(.*);(.*);",CISQ 107.1 Mountain FM
+#EXTINF:-1 tvg-logo="https://www.mountainfm.com/wp-content/uploads/sites/33/2016/05/cropped-mountainfm-logo-frequency-270x270.png" group-title="Adult;Contemporary",CISQ 107.1 Mountain FM
 https://rogers-hls.leanstream.co/rogers/squ1071.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/CISS-FM_logo.png" group-title="(.*);(.*);",CISS Kiss FM 105.3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/CISS-FM_logo.png" group-title="Adult;Contemporary",CISS Kiss FM 105.3
 http://rogers.leanstream.co/rogers/ott1053.stream/icy
-#EXTINF:-1 tvg-logo="https://www.kissottawa.com/wp-content/uploads/sites/9/2016/05/cropped-KiSS1053_Logo-270x270.png" group-title="(.*);(.*);",CISS KiSS 105.3
+#EXTINF:-1 tvg-logo="https://www.kissottawa.com/wp-content/uploads/sites/9/2016/05/cropped-KiSS1053_Logo-270x270.png" group-title="Adult;Contemporary",CISS KiSS 105.3
 http://rogers-hls.leanstream.co:8000/rogers/ott1053.stream/48k/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.921citi.ca/wp-content/uploads/sites/22/2016/05/cropped-92.1CITI_tm_RGB-270x270.png" group-title="(.*);(.*);",CITI 92.1
+#EXTINF:-1 tvg-logo="https://www.921citi.ca/wp-content/uploads/sites/22/2016/05/cropped-92.1CITI_tm_RGB-270x270.png" group-title="Rock;Hits",CITI 92.1
 https://rogers-hls.leanstream.co/rogers/win921.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.citr.ca/wp-content/themes/citr/assets/img/icons/favicon-48@2x.png" group-title="(.*);(.*);",CITR 101.9 University of British Columbia
+#EXTINF:-1 tvg-logo="http://www.citr.ca/wp-content/themes/citr/assets/img/icons/favicon-48@2x.png" group-title="Campus;Variety",CITR 101.9 University of British Columbia
 http://live.citr.ca:8000/live.mp3
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6a/CIUT_logo.png" group-title="(.*);(.*);",CIUT 89.5
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6a/CIUT_logo.png" group-title="Campus;Variety",CIUT 89.5
 https://ice23.securenetsystems.net/CIUT?playSessionID=1DBBC858-E044-417E-A879F4907537C4BA
 #EXTINF:-1 tvg-logo="https://www.vmcdn.ca/files/ui/rogers/at.png" group-title="News;Talk",CIWW CityNews
 https://rogers-hls.leanstream.co/rogers/ott1011.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/95/The_Boom_Brooks_Logo.png/375px-The_Boom_Brooks_Logo.png" group-title="(.*);(.*);",CIXF Boom 101.1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/95/The_Boom_Brooks_Logo.png/375px-The_Boom_Brooks_Logo.png" group-title="Oldies;Hits",CIXF Boom 101.1
 http://newcap.leanstream.co/CIXFFM
-#EXTINF:-1 tvg-logo="http://www.mix106.ca//favicon.ico" group-title="(.*);(.*);",CIXK MIX 106.5
+#EXTINF:-1 tvg-logo="http://www.mix106.ca//favicon.ico" group-title="Adult;Contemporary",CIXK MIX 106.5
 http://bayshore.leanstream.co/CIXKFM
-#EXTINF:-1 tvg-logo="https://www.promosuiteinteractive.com/onlinedb/ciymfm/pics/Oldies%20Favicon%20Brighton.ico" group-title="(.*);(.*);",CIYM Oldies 100.9
+#EXTINF:-1 tvg-logo="https://www.promosuiteinteractive.com/onlinedb/ciymfm/pics/Oldies%20Favicon%20Brighton.ico" group-title="Oldies;Hits",CIYM Oldies 100.9
 http://ice23.securenetsystems.net/CIYM
-#EXTINF:-1 tvg-logo="http://www.myfmradio.ca/myfmradio.ca.hyperesources/Kincardine%201.png" group-title="(.*);(.*);",CIYN 95.5/99.7 myFM
+#EXTINF:-1 tvg-logo="http://www.myfmradio.ca/myfmradio.ca.hyperesources/Kincardine%201.png" group-title="Oldies;Rock",CIYN 95.5/99.7 myFM
 http://ice23.securenetsystems.net/CIYN
-#EXTINF:-1 tvg-logo="http://media.socastsrm.com/uploads/station/674/home_screen_logo-586d102d70ca6.png" group-title="(.*);(.*);",CIZL 98.9 Z99
+#EXTINF:-1 tvg-logo="http://media.socastsrm.com/uploads/station/674/home_screen_logo-586d102d70ca6.png" group-title="Adult;Contemporary",CIZL 98.9 Z99
 http://rawlco.leanstream.co/CIZLFM
-#EXTINF:-1 tvg-logo="http://media.socastsrm.com/uploads/station/1213/fbShare.png?r=39022" group-title="(.*);(.*);",CIZZ Z 98.9
+#EXTINF:-1 tvg-logo="http://media.socastsrm.com/uploads/station/1213/fbShare.png?r=39022" group-title="Oldies;Rock",CIZZ Z 98.9
 http://newcap.leanstream.co/CIZZFM
 #EXTINF:-1 tvg-logo="http://www.iheartradio.ca/image/policy:1.2258734:1481257805/CJAD-800-am.png?a=16%3A9&w=1000&$p$a$w=d301f05" group-title="(.*);(.*);",CJAD 800
 https://playerservices.streamtheworld.com/api/livestream-redirect/CJADAMAAC_SC
