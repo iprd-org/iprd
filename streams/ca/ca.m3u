@@ -837,21 +837,21 @@ https://rogers-hls.leanstream.co/rogers/med1053.stream/playlist.m3u8
 http://ice9.securenetsystems.net/CKMO
 #EXTINF:-1 tvg-logo="http://media.socastsrm.com/wordpress/wp-content/blogs.dir/993/files/2017/06/ampherologo608x300.png" group-title="Top 40;Hits",CKMP 90.3 Amp Radio
 http://newcap.leanstream.co/CKMPFM
-#EXTINF:-1 tvg-logo="http://sites.mbsradio.com/cknb/wp-content/uploads/sites/20/2017/02/CKNB_Campbellton_New.png" group-title="(.*);(.*);",CKNB 950
+#EXTINF:-1 tvg-logo="http://sites.mbsradio.com/cknb/wp-content/uploads/sites/20/2017/02/CKNB_Campbellton_New.png" group-title="Adult;Contemporary",CKNB 950
 http://mbsradio.leanstream.co/CKNBAM-MP3
-#EXTINF:-1 tvg-logo="https://chuck925.com/wp-content/uploads/sites/19/2018/08/cropped-925_thechuck_512x512_v1.png?w=180" group-title="(.*);(.*);",CKNG Fresh Radio 92.5
+#EXTINF:-1 tvg-logo="https://chuck925.com/wp-content/uploads/sites/19/2018/08/cropped-925_thechuck_512x512_v1.png?w=180" group-title="Adult;Hits",CKNG Fresh Radio 92.5
 http://live.leanstream.co/CKNGFM-MP3
-#EXTINF:-1 tvg-logo="http://www.919thebend.ca/favicon.ico" group-title="(.*);(.*);",CKNI 91.9 The Bend
+#EXTINF:-1 tvg-logo="http://www.919thebend.ca/favicon.ico" group-title="Adult;Contemporary",CKNI 91.9 The Bend
 http://ais-sa1.streamon.fm/7232_48k.aac
-#EXTINF:-1 tvg-logo="http://www.nuxalkradio.com/sites/all/themes/nuxalk/images/favicon.png" group-title="(.*);(.*);",CKNN 91.1 Nuxaulk Radio
+#EXTINF:-1 tvg-logo="http://www.nuxalkradio.com/sites/all/themes/nuxalk/images/favicon.png" group-title="Indigenous;Community",CKNN 91.1 Nuxaulk Radio
 http://cknn.openbroadcaster.com:8000/CKNN
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/1023Now_logo.png" group-title="(.*);(.*);",CKNO 102.3 Now!
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/1023Now_logo.png" group-title="Adult;Contemporary",CKNO 102.3 Now!
 https://stream.jpbgdigital.com/CKNO.m3u8
-#EXTINF:-1 tvg-logo="https://globalnews.ca/wp-content/themes/shaw-globalnews/_img/pwa/news_square-144.png" group-title="(.*);(.*);",CKNW 980
+#EXTINF:-1 tvg-logo="https://globalnews.ca/wp-content/themes/shaw-globalnews/_img/pwa/news_square-144.png" group-title="News;Talk",CKNW 980
 http://live.leanstream.co/CKNWAM
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/4/17194.v3.png" group-title="(.*);(.*);",CKNX 920
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/4/17194.v3.png" group-title="Country;Variety",CKNX 920
 http://live.leanstream.co/CKNXAM
-#EXTINF:-1 tvg-logo="http://coastalradio.ca//wp-content/themes/yoo_avenue_wp/favicon.ico" group-title="(.*);(.*);",CKOA 89.7 The Coast
+#EXTINF:-1 tvg-logo="http://coastalradio.ca//wp-content/themes/yoo_avenue_wp/favicon.ico" group-title="Community;Contemporary",CKOA 89.7 The Coast
 http://198.100.145.187:15204/listen.pls
 #EXTINF:-1 tvg-logo="http://www.tsn.ca/content/dam/sports/images/favicon/tsn/apple-touch-icon.png" group-title="Sports;Talk",CKOC TSN 1150
 https://playerservices.streamtheworld.com/api/livestream-redirect/CKOCAMAAC_SC
@@ -859,135 +859,131 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/CKOCAMAAC_SC
 https://fsn-ais-relay2.leanstream.co/cogecomedia/CKOFFM.stream/playlist.m3u8?listeningSessionID=5fe4f8b6b7d8b376_2700625_iJpjxMv9_MTM4LjIwMS40MS4yMTc6ODAwMA!!_0000000qKGg&downloadSessionID=0&type=.ts&args=web_01
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrx3UUMfHbkp9ruEffuIOl2GQesOd6aO6uPg&s" group-title="(.*);(.*);",CKOI 96.9
 https://24483.live.streamtheworld.com/CKOIFMAAC/HLS/fdd444b7-964f-4913-9a65-def0f39dc8dc/0/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://media.socastsrm.com/uploads/station/541/fbShare.png?r=20302" group-title="(.*);(.*);",CKOM News/Talk 650
+#EXTINF:-1 tvg-logo="http://media.socastsrm.com/uploads/station/541/fbShare.png?r=20302" group-title="French;News",CKOM News/Talk 650
 http://rawlco.leanstream.co/CKOMAM
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/95/CKON-FM.png/200px-CKON-FM.png" group-title="(.*);(.*);",CKON 97.3 Mohawk Radio
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/95/CKON-FM.png/200px-CKON-FM.png" group-title="Contemporary;Country",CKON 97.3 Mohawk Radio
 https://playerservices.streamtheworld.com/api/livestream-redirect/CKONFM_SC
-#EXTINF:-1 tvg-logo="http://jewelradio.com/wp-content/uploads/2016/07/92.png" group-title="(.*);(.*);",CKPC 92.1 Jewel 92
+#EXTINF:-1 tvg-logo="http://jewelradio.com/wp-content/uploads/2016/07/92.png" group-title="Adult;Contemporary",CKPC 92.1 Jewel 92
 http://ice5.securenetsystems.net/CKPCFM
-#EXTINF:-1 tvg-logo="http://mbsradio.leanplayer.com/assets/uploads/mbsradio/CKPEFM/Cape_logo.png" group-title="(.*);(.*);",CKPE The Cape 94.9
+#EXTINF:-1 tvg-logo="http://mbsradio.leanplayer.com/assets/uploads/mbsradio/CKPEFM/Cape_logo.png" group-title="Oldies;Hits",CKPE The Cape 94.9
 http://mbsradio.leanstream.co/CKPEFM-MP3
-#EXTINF:-1 tvg-logo="http://www.ckpr.com/img/favicon/apple-touch-icon.png" group-title="(.*);(.*);",CKPR 91.5
+#EXTINF:-1 tvg-logo="http://www.ckpr.com/img/favicon/apple-touch-icon.png" group-title="Adult;Contemporary",CKPR 91.5
 http://ais-sa1.streamon.fm/7096_32k.aac
-#EXTINF:-1 tvg-logo="https://jumpradio.ca/wp-content/uploads/sites/15/2019/09/cropped-jump2019_512x512_v1.png?w=180" group-title="(.*);(.*);",CKQB JUMP! 106.9
+#EXTINF:-1 tvg-logo="https://jumpradio.ca/wp-content/uploads/sites/15/2019/09/cropped-jump2019_512x512_v1.png?w=180" group-title="Contemporary;Hits",CKQB JUMP! 106.9
 http://live.leanstream.co/CKQBFM
-#EXTINF:-1 tvg-logo="https://www.country1071.com/wp-content/uploads/sites/40/2019/03/cropped-icon_black_logo_country1071_512-270x270.png" group-title="(.*);(.*);",CKQC Country 107.1
+#EXTINF:-1 tvg-logo="https://www.country1071.com/wp-content/uploads/sites/40/2019/03/cropped-icon_black_logo_country1071_512-270x270.png" group-title="Country;New",CKQC Country 107.1
 https://rogers-hls.leanstream.co/rogers/abb1071.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://media.socastsrm.com/uploads/station/839/widgetListPlaceholder.png?r=35276" group-title="(.*);(.*);",CKQK 105.5 Hot 105
+#EXTINF:-1 tvg-logo="http://media.socastsrm.com/uploads/station/839/widgetListPlaceholder.png?r=35276" group-title="Top 40;Hits",CKQK 105.5 Hot 105
 http://newcap.leanstream.co/CKQKFM
-#EXTINF:-1 tvg-logo="http://media.socastsrm.com/wordpress/wp-content/blogs.dir/910/files/2017/11/Capital-Xmas-Hero-Logo.png" group-title="(.*);(.*);",CKRA Capital 96.3
+#EXTINF:-1 tvg-logo="http://media.socastsrm.com/wordpress/wp-content/blogs.dir/910/files/2017/11/Capital-Xmas-Hero-Logo.png" group-title="Adult;Contemporary",CKRA Capital 96.3
 http://newcap.leanstream.co/CKRAFM
-#EXTINF:-1 tvg-logo="http://www.coolfm.biz/assets/favicons/apple-touch-icon.png" group-title="(.*);(.*);",CKRB Cool 103.5
+#EXTINF:-1 tvg-logo="http://www.coolfm.biz/assets/favicons/apple-touch-icon.png" group-title="French;Contemporary",CKRB Cool 103.5
 http://podcast.servlinks.com/coolfm/lecture/
-#EXTINF:-1 tvg-logo="https://k1037.com/wp-content/uploads/2018/06/cropped-K103-Mini-Logo-Final-RGB-Transparent-High-Res-270x270.png" group-title="(.*);(.*);",CKRK K103.7
+#EXTINF:-1 tvg-logo="https://k1037.com/wp-content/uploads/2018/06/cropped-K103-Mini-Logo-Final-RGB-Transparent-High-Res-270x270.png" group-title="Community;Oldies",CKRK K103.7
 http://stream.statsradio.com:8092/stream
-#EXTINF:-1 tvg-logo="http://www.ckrl.qc.ca/apple-icon-120x120.png" group-title="(.*);(.*);",CKRL 89.1
+#EXTINF:-1 tvg-logo="http://www.ckrl.qc.ca/apple-icon-120x120.png" group-title="French;Community",CKRL 89.1
 http://stream02.ustream.ca:8000/ckrl128.mp3
 #EXTINF:-1 tvg-logo="https://streaming-player-assets.s3.amazonaws.com/CKRM/custom/images/CKRM+Logo1.png" group-title="Country;Talk",CKRM 620 The Source
 https://ais-sa1.streamon.fm/7267_64k.aac
-#EXTINF:-1 tvg-logo="https://1005freshradio.ca/wp-content/uploads/sites/26/2018/02/cropped-fresh_f_512x512.png?w=180" group-title="(.*);(.*);",CKRU 100.5 Fresh Radio
+#EXTINF:-1 tvg-logo="https://1005freshradio.ca/wp-content/uploads/sites/26/2018/02/cropped-fresh_f_512x512.png?w=180" group-title="Adult;Contemporary",CKRU 100.5 Fresh Radio
 http://live.leanstream.co/CKRUFM-MP3
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/K_97_Kamloops_Logo.png" group-title="(.*);(.*);",CKRV 97.5 The River
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/K_97_Kamloops_Logo.png" group-title="Oldies;Rock",CKRV 97.5 The River
 http://newcap.leanstream.co/CKRVFM
-#EXTINF:-1 tvg-logo="http://a.gmstatic.net/rush/logo.png" group-title="(.*);(.*);",CKRW 96.1 The Rush
+#EXTINF:-1 tvg-logo="http://a.gmstatic.net/rush/logo.png" group-title="Adult;Contemporary",CKRW 96.1 The Rush
 http://ais-sa1.streamon.fm/7222_32k.aac
-#EXTINF:-1 tvg-logo="https://country105.com/wp-content/uploads/sites/29/2018/01/cropped-fm-logos_512x512_countr105.png?w=180" group-title="(.*);(.*);",CKRY 105.1 Country 105
+#EXTINF:-1 tvg-logo="https://country105.com/wp-content/uploads/sites/29/2018/01/cropped-fm-logos_512x512_countr105.png?w=180" group-title="Country;New",CKRY 105.1 Country 105
 http://live.leanstream.co/CKRYFM-MP3
-#EXTINF:-1 tvg-logo="http://ckrzfm.com/wp-content/uploads/2014/12/ckrzlogo1.png" group-title="(.*);(.*);",CKRZ 100.3
+#EXTINF:-1 tvg-logo="http://ckrzfm.com/wp-content/uploads/2014/12/ckrzlogo1.png" group-title="Community;Indigenous",CKRZ 100.3
 http://178.obj.netromedia.net/ckrzfm/ckrzfm/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.realcountrylloydminster.ca/favicon.ico" group-title="(.*);(.*);",CKSA 95.9 Real Country
+#EXTINF:-1 tvg-logo="http://www.realcountrylloydminster.ca/favicon.ico" group-title="Country;New",CKSA 95.9 Real Country
 http://newcap.leanstream.co/CKSAFM
-#EXTINF:-1 tvg-logo="http://d2x3wmakafwqf5.cloudfront.net/uploads/station/367/fbShare.png?r=14635" group-title="(.*);(.*);",CKSG myFM 93.3 Northumberland
+#EXTINF:-1 tvg-logo="http://d2x3wmakafwqf5.cloudfront.net/uploads/station/367/fbShare.png?r=14635" group-title="Adult;Contemporary",CKSG myFM 93.3 Northumberland
 http://ice64.securenetsystems.net/CKSG
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s95963d.png" group-title="(.*);(.*);",CKSJ Coast 101.1
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s95963d.png" group-title="Oldies;Hits",CKSJ Coast 101.1
 https://canada1.reliastream.com/proxy/coastbr1?mp=/stream
-#EXTINF:-1 tvg-logo="http://realcountrystettler.ca/favicon.ico" group-title="(.*);(.*);",CKSQ 93.3 Real Country
+#EXTINF:-1 tvg-logo="http://realcountrystettler.ca/favicon.ico" group-title="Country;New",CKSQ 93.3 Real Country
 http://newcap.leanstream.co/CKSQFM
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Star_FM_98.3_CKSR.png/revision/latest?cb=20230311002439" group-title="(.*);(.*);",CKSR Star 98.3
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Star_FM_98.3_CKSR.png/revision/latest?cb=20230311002439" group-title="Adult;Alternative",CKSR Star 98.3
 https://rogers-hls.leanstream.co/rogers/chi983.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.tsn.ca//img/tsn/icons/apple-touch-icon.png" group-title="(.*);(.*);",CKST 1040 TSN
-https://playerservices.streamtheworld.com/api/livestream-redirect/CKSTAMAAC_SC
-#EXTINF:-1 tvg-logo="https://images.radio.orange.com/radios/large_cksy_943_chatham-kent_on.png" group-title="(.*);(.*);",CKSY 94.3
+#EXTINF:-1 tvg-logo="https://images.radio.orange.com/radios/large_cksy_943_chatham-kent_on.png" group-title="Adult;Contemporary",CKSY 94.3
 http://live.leanstream.co/CKSYFM
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a6/CKTB_AM.png" group-title="(.*);(.*);",CKTB News/Talk 610
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a6/CKTB_AM.png" group-title="News;Talk",CKTB News/Talk 610
 https://playerservices.streamtheworld.com/api/livestream-redirect/CKTBAMAAC_SC
-#EXTINF:-1 tvg-logo="http://www.country1053.ca/favicon.ico" group-title="(.*);(.*);",CKTG 105.3 Country 105
+#EXTINF:-1 tvg-logo="http://www.country1053.ca/favicon.ico" group-title="Country;New",CKTG 105.3 Country 105
 http://ais-sa1.streamon.fm/7238_48k.aac
-#EXTINF:-1 tvg-logo="http://957thewolf.ca/templates/95.7thewolf/images/logo.png" group-title="(.*);(.*);",CKTP 95.7 The Wolf
+#EXTINF:-1 tvg-logo="http://957thewolf.ca/templates/95.7thewolf/images/logo.png" group-title="Rock;Blues",CKTP 95.7 The Wolf
 http://149.56.234.138:8173/stream
-#EXTINF:-1 tvg-logo="https://ckua.com/wp-content/themes/ckua/assets/img/logo-mobile-dark.svg" group-title="(.*);(.*);",CKUA 94.9 Radio Network
+#EXTINF:-1 tvg-logo="https://ckua.com/wp-content/themes/ckua/assets/img/logo-mobile-dark.svg" group-title="Community;Variety",CKUA 94.9 Radio Network
 https://ais-sa1.streamon.fm/7000_48k.aac
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/CKUE_COOL95.1_logo.png" group-title="(.*);(.*);",CKUE Cool 95.1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/CKUE_COOL95.1_logo.png" group-title="Oldies;Hits",CKUE Cool 95.1
 http://live.leanstream.co/CKUEFM
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/86/CKUE-FM.png/150px-CKUE-FM.png" group-title="(.*);(.*);",CKUE FM2 Cool 100.7
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/86/CKUE-FM.png/150px-CKUE-FM.png" group-title="Rock;Hits",CKUE FM2 Cool 100.7
 http://live.leanstream.co/CKUEF2
-#EXTINF:-1 tvg-logo="http://media.socastsrm.com/wordpress/wp-content/blogs.dir/1000/files/2017/08/mix965herologoV6.png" group-title="(.*);(.*);",CKUL Mix 96.5
+#EXTINF:-1 tvg-logo="http://media.socastsrm.com/wordpress/wp-content/blogs.dir/1000/files/2017/08/mix965herologoV6.png" group-title="Adult;Contemporary",CKUL Mix 96.5
 http://newcap.leanstream.co/CKULFM
-#EXTINF:-1 tvg-logo="http://ckuw.ca/assets/img/ckuw_2014.png" group-title="(.*);(.*);",CKUW 95.9 University of Winnipeg
+#EXTINF:-1 tvg-logo="http://ckuw.ca/assets/img/ckuw_2014.png" group-title="Community;Variety",CKUW 95.9 University of Winnipeg
 http://shout.mtl.gameservers.com:9025/
-#EXTINF:-1 tvg-logo="http://www.country106.ca/favicon.ico" group-title="(.*);(.*);",CKVG Country 106.5
+#EXTINF:-1 tvg-logo="http://www.country106.ca/favicon.ico" group-title="Country;New",CKVG Country 106.5
 http://ais-sa1.streamon.fm/7156_48k.aac
-#EXTINF:-1 tvg-logo="http://www.realcountryhighprairie.ca/favicon.ico" group-title="(.*);(.*);",CKVH Real Country 93.5
+#EXTINF:-1 tvg-logo="http://www.realcountryhighprairie.ca/favicon.ico" group-title="Country;New",CKVH Real Country 93.5
 http://newcap.leanstream.co/CKVHFM
-#EXTINF:-1 tvg-logo="http://voiceoftheshuswap.ca/wp-content/uploads/2016/01/logo-6_header.png" group-title="(.*);(.*);",CKVS 93.7 Voice of The Shuswap
+#EXTINF:-1 tvg-logo="http://voiceoftheshuswap.ca/wp-content/uploads/2016/01/logo-6_header.png" group-title="Community;Variety",CKVS 93.7 Voice of The Shuswap
 http://s2.stationplaylist.com:9240/listen.aac
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/28/Real_Country_97.9_Logo.jpg" group-title="(.*);(.*);",CKWB Real Country 97.9
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/28/Real_Country_97.9_Logo.jpg" group-title="Country;New",CKWB Real Country 97.9
 http://newcap.leanstream.co/CKWBFM
-#EXTINF:-1 tvg-logo="http://www.ckwe1039.fm/wp-content/uploads/2015/09/CKWE-Logo-Land90.png" group-title="(.*);(.*);",CKWE 103.9
+#EXTINF:-1 tvg-logo="http://www.ckwe1039.fm/wp-content/uploads/2015/09/CKWE-Logo-Land90.png" group-title="Community;Indigenous",CKWE 103.9
 http://stream03.ustream.ca/kitiganzibi128.mp3
-#EXTINF:-1 tvg-logo="https://thewolf.ca/wp-content/uploads/sites/21/2021/06/wolf2021_512x512_v2.png?w=180" group-title="(.*);(.*);",CKWF 101.5 The Wolf
+#EXTINF:-1 tvg-logo="https://thewolf.ca/wp-content/uploads/sites/21/2021/06/wolf2021_512x512_v2.png?w=180" group-title="Rock;Hits",CKWF 101.5 The Wolf
 http://live.leanstream.co/CKWFFM-MP3
-#EXTINF:-1 tvg-logo="http://sites.mbsradio.com/magic949/wp-content/uploads/sites/14/2017/01/Magic_Outline.png" group-title="(.*);(.*);",CKWM Magic 94.9
+#EXTINF:-1 tvg-logo="http://sites.mbsradio.com/magic949/wp-content/uploads/sites/14/2017/01/Magic_Outline.png" group-title="Adult;Contemporary",CKWM Magic 94.9
 http://mbsradio.leanstream.co/CKWMFM-MP3
-#EXTINF:-1 tvg-logo="https://1043freshradio.ca/wp-content/uploads/sites/13/2018/02/cropped-fresh_f_512x512.png?w=180" group-title="(.*);(.*);",CKWS 104.3 Fresh Radio
+#EXTINF:-1 tvg-logo="https://1043freshradio.ca/wp-content/uploads/sites/13/2018/02/cropped-fresh_f_512x512.png?w=180" group-title="Adult;Contemporary",CKWS 104.3 Fresh Radio
 http://live.leanstream.co/CKWSFM?args=web_01
-#EXTINF:-1 tvg-logo="https://www.citynews1130.com/wp-content/blogs.dir/sites/9/2017/11/29/1130-1200x627.png" group-title="(.*);(.*);",CKWX News 1130
+#EXTINF:-1 tvg-logo="https://www.citynews1130.com/wp-content/blogs.dir/sites/9/2017/11/29/1130-1200x627.png" group-title="News;Talk",CKWX News 1130
 https://rogers-hls.leanstream.co/rogers/van1130.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4b/CKWY_HOT93.7_logo.png" group-title="(.*);(.*);",CKWY 93.7 Wayne FM
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4b/CKWY_HOT93.7_logo.png" group-title="Hits;Top 40",CKWY 93.7 Wayne FM
 http://newcap.leanstream.co/CKWYFM
-#EXTINF:-1 tvg-logo="http://www.987krock.com/favicon.ico" group-title="(.*);(.*);",CKXD 98.7 K Rock
+#EXTINF:-1 tvg-logo="http://www.987krock.com/favicon.ico" group-title="Rock;Oldies",CKXD 98.7 K Rock
 http://newcap.leanstream.co/CKXDFM
-#EXTINF:-1 tvg-logo="http://www.krocknl.com/favicon.ico" group-title="(.*);(.*);",CKXG 102.3 K-Rock
+#EXTINF:-1 tvg-logo="http://www.krocknl.com/favicon.ico" group-title="Rock;Oldies",CKXG 102.3 K-Rock
 http://newcap.leanstream.co/CKXGFM
-#EXTINF:-1 tvg-logo="https://www.promosuiteinteractive.com/onlinedb/ckxmfm/pics/favicon.ico" group-title="(.*);(.*);",CKXM 90.5 myFM
+#EXTINF:-1 tvg-logo="https://www.promosuiteinteractive.com/onlinedb/ckxmfm/pics/favicon.ico" group-title="Adult;Contemporary",CKXM 90.5 myFM
 http://ice23.securenetsystems.net/CKXM
-#EXTINF:-1 tvg-logo="http://ckxsfm.com/wp-content/uploads/2016/09/ckxs-991-logo6.png" group-title="(.*);(.*);",CKXS 99.1
+#EXTINF:-1 tvg-logo="http://ckxsfm.com/wp-content/uploads/2016/09/ckxs-991-logo6.png" group-title="Variety;Hits",CKXS 99.1
 http://ice9.securenetsystems.net/CKXSFM
-#EXTINF:-1 tvg-logo="http://www.k-rock1039.com/favicon.ico" group-title="(.*);(.*);",CKXX 103.9 K Rock
+#EXTINF:-1 tvg-logo="http://www.k-rock1039.com/favicon.ico" group-title="Oldies;Rock",CKXX 103.9 K Rock
 http://newcap.leanstream.co/CKXXFM
-#EXTINF:-1 tvg-logo="https://www.kiss1023.ca/wp-content/uploads/sites/10/2016/07/cropped-cky-logo-270x270.png" group-title="(.*);(.*);",CKY KISS 102.3
+#EXTINF:-1 tvg-logo="https://www.kiss1023.ca/wp-content/uploads/sites/10/2016/07/cropped-cky-logo-270x270.png" group-title="Adult;Contemporary",CKY KISS 102.3
 https://rogers-hls.leanstream.co/rogers/win1023.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.country93.ca//favicon.ico" group-title="(.*);(.*);",CKYC 93.7 Country 93
+#EXTINF:-1 tvg-logo="http://www.country93.ca//favicon.ico" group-title="Country;New",CKYC 93.7 Country 93
 http://bayshore.leanstream.co/CKYCFM
-#EXTINF:-1 tvg-logo="http://d2isblg909whrf.cloudfront.net/themes/ckyl/logo.png" group-title="(.*);(.*);",CKYL 610 YL Country
+#EXTINF:-1 tvg-logo="http://d2isblg909whrf.cloudfront.net/themes/ckyl/logo.png" group-title="Country;New",CKYL 610 YL Country
 https://playerservices.streamtheworld.com/api/livestream-redirect/CKYLFMAAC_SC
-#EXTINF:-1 tvg-logo="http://www.myfmradio.ca/myfmradio.ca.hyperesources/napanee1-1.png" group-title="(.*);(.*);",CKYM 88.7 myFM
+#EXTINF:-1 tvg-logo="http://www.myfmradio.ca/myfmradio.ca.hyperesources/napanee1-1.png" group-title="Adult;Hits",CKYM 88.7 myFM
 http://ice23.securenetsystems.net/CKYM
-#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s18202q.png" group-title="(.*);(.*);",CKYQ KYQ 95.7
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s18202q.png" group-title="Country;New",CKYQ KYQ 95.7
 http://stream.statsradio.com:8014/stream
-#EXTINF:-1 tvg-logo="https://www.979rock.ca/wp-content/uploads/sites/37/2017/10/cropped-979ROCK_LOGO_514-270x270.png" group-title="(.*);(.*);",CKYX 97.9 Rock
+#EXTINF:-1 tvg-logo="https://www.979rock.ca/wp-content/uploads/sites/37/2017/10/cropped-979ROCK_LOGO_514-270x270.png" group-title="Rock;Oldies",CKYX 97.9 Rock
 http://rogers-hls.leanstream.co:8000/rogers/for979.stream/48k/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.myfmradio.ca/myfmradio.ca.hyperesources/St%20Thomas%201.png" group-title="(.*);(.*);",CKZM 94.1 myFM
+#EXTINF:-1 tvg-logo="http://www.myfmradio.ca/myfmradio.ca.hyperesources/St%20Thomas%201.png" group-title="Adult;Contemporary",CKZM 94.1 myFM
 http://ice23.securenetsystems.net/CKZM
-#EXTINF:-1 tvg-logo="http://media.socastsrm.com/wordpress/wp-content/blogs.dir/870/files/2017/05/z-splash-logo.png" group-title="(.*);(.*);",CKZZ Z95.3
+#EXTINF:-1 tvg-logo="http://media.socastsrm.com/wordpress/wp-content/blogs.dir/870/files/2017/05/z-splash-logo.png" group-title="Adult;Contemporary",CKZZ Z95.3
 http://newcap.leanstream.co/CKZZFM
-#EXTINF:-1 tvg-logo="https://cladriteradio.com/wp-content/uploads/2018/07/cr_radio_thumb.jpg" group-title="(.*);(.*);",Cladrite Radio at Live365
+#EXTINF:-1 tvg-logo="https://cladriteradio.com/wp-content/uploads/2018/07/cr_radio_thumb.jpg" group-title="20s;30s;40s",Cladrite Radio at Live365
 http://ais-edge37-live365-dal02.cdnstream.com/a43564
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/ssjnps8wxuez.png" group-title="(.*);(.*);",Classic Rock 109
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/ssjnps8wxuez.png" group-title="Rock;Oldies",Classic Rock 109
 https://jenny.torontocast.com:2000/stream/ClassicRock109
-#EXTINF:-1 tvg-logo="https://open.spotify.com/playlist/6JEirgmAXJ91djJ9q308zg" group-title="(.*);(.*);",Classic Trance
+#EXTINF:-1 tvg-logo="https://open.spotify.com/playlist/6JEirgmAXJ91djJ9q308zg" group-title="EDM;Trance",Classic Trance
 http://prem1.di.fm/classictrance_hi?b1e8ab696a279ebb68c48cab
-#EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab67706c0000da84664f20365ad672a3d329ec91" group-title="(.*);(.*);",Classic Vocal Trance
+#EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab67706c0000da84664f20365ad672a3d329ec91" group-title="Vocal;Trance",Classic Vocal Trance
 http://prem1.di.fm/classicvocaltrance_hi?b1e8ab696a279ebb68c48cab
-#EXTINF:-1 tvg-logo="https://static.ctvnews.ca/bellmedia/cp24/img/apple-touch-icon.png" group-title="(.*);(.*);",CP24 Audio
+#EXTINF:-1 tvg-logo="https://static.ctvnews.ca/bellmedia/cp24/img/apple-touch-icon.png" group-title="News;Talk",CP24 Audio
 https://playerservices.streamtheworld.com/api/livestream-redirect/TV_CP24AAC_SC
-#EXTINF:-1 tvg-logo="http://jbccs.streamon.fm/custom/images/jbccs-logo-20151118152046.png" group-title="(.*);(.*);",Cree Radio Network
-http://ais-sa1.streamon.fm/7175_24k.aac
-#EXTINF:-1 tvg-logo="http://28vi5c11qlvo3esjm01s1a4x.wpengine.netdna-cdn.com/students/wp-content/uploads/sites/9/2014/10/the-heat-logo-2015.png" group-title="(.*);(.*);",CRNC 90.1 The Heat
+#EXTINF:-1 tvg-logo="http://28vi5c11qlvo3esjm01s1a4x.wpengine.netdna-cdn.com/students/wp-content/uploads/sites/9/2014/10/the-heat-logo-2015.png" group-title="Alternative;Campus",CRNC 90.1 The Heat
 http://crystalout.surfernetwork.com:8001/CRNC_MP3
-#EXTINF:-1 tvg-logo="http://crucialvelocity.ca/CrucialVelocityLogo.jpg" group-title="(.*);(.*);",Crucial Velocity Radio 
+#EXTINF:-1 tvg-logo="http://crucialvelocity.ca/CrucialVelocityLogo.jpg" group-title="Rock;Metal",Crucial Velocity Radio 
 http://ais-sa2.cdnstream1.com/1369_128
-#EXTINF:-1 tvg-logo="https://static.ctvnews.ca/bellmedia/common/img/logos/News_Header_logo.png" group-title="(.*);(.*);",CTV News Audio
+#EXTINF:-1 tvg-logo="https://static.ctvnews.ca/bellmedia/common/img/logos/News_Header_logo.png" group-title="News;Talk",CTV News Audio
 https://playerservices.streamtheworld.com/api/livestream-redirect/TV_CTV_NEWSAAC_SC
 #EXTINF:-1 tvg-logo="https://t.waziper.com/uploads/avatar/13150.jpg" group-title="(.*);(.*);",ddbradio
 https://www.ae-radiostation.com/stream/1
