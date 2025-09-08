@@ -237,6 +237,8 @@ http://newcap.leanstream.co/CFXLFM-MP3
 https://playerservices.streamtheworld.com/api/livestream-redirect/CFXMFMAAC_SC
 #EXTINF:-1 tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/2293/files/2019/03/967boomherologo.png" group-title="Oldies;Hits",CFXW Boom 96.7
 http://newcap.leanstream.co/CFXWFM
+#EXTINF:-1 tvg-logo="https://myradio580.com/wp-content/uploads/2020/06/fevi.png" group-title="Multilingual;Variety",CHAH MyRadio 580am
+http://ais-sa1.streamon.fm/7681_64k.mp3
 #EXTINF:-1 tvg-logo="https://931freshradio.ca/wp-content/uploads/sites/25/2018/02/cropped-fresh_f_512x512.png?w=180" group-title="Contemporary;Easy Listening",CHAY 93.1 Fresh Radio
 http://live.leanstream.co/CHAYFM-MP3
 #EXTINF:-1 tvg-logo="http://media.socastsrm.com/wordpress/wp-content/blogs.dir/906/files/2017/05/boomlogo-White_Socast3.png" group-title="Oldies;Hits",CHBM Boom 97.3
@@ -1103,49 +1105,47 @@ http://prem2.di.fm/jungle_hi?b1e8ab696a279ebb68c48cab
 https://stream3.305stream.com/proxy/client06/stream
 #EXTINF:-1 tvg-logo="http://khalsafm.com/favicon.ico" group-title="Sikh;World",Khalsa FM
 http://198.178.123.8:7798/;stream.mp3
-#EXTINF:-1 tvg-logo="https://labgateradio.com/wp-content/uploads/2020/07/FullColor_1280x1024_72dpi-e1595865561342.png" group-title="(.*);(.*);",Labgate Alt Rock Grunge
+#EXTINF:-1 tvg-logo="https://labgateradio.com/wp-content/uploads/2020/07/FullColor_1280x1024_72dpi-e1595865561342.png" group-title="Rock;Grunge",Labgate Alt Rock Grunge
 https://s2.ssl-stream.com/radio/8190/radio.mp3
-#EXTINF:-1 tvg-logo="https://labgateradio.com/wp-content/uploads/2020/07/FullColor_1280x1024_72dpi-e1595865561342.png" group-title="(.*);(.*);",Labgate Classic Rock
+#EXTINF:-1 tvg-logo="https://labgateradio.com/wp-content/uploads/2020/07/FullColor_1280x1024_72dpi-e1595865561342.png" group-title="Oldies;Rock",Labgate Classic Rock
 https://s2.ssl-stream.com/radio/8170/radio.mp3
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/6dqbd8yz2hqe.png" group-title="(.*);(.*);",Labgate Hard Rock
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/6dqbd8yz2hqe.png" group-title="Rock;Metal",Labgate Hard Rock
 https://s2.ssl-stream.com/radio/8210/radio.mp3
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/busasutqdkzq.png" group-title="(.*);(.*);",Labgate P.Y.G.
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/busasutqdkzq.png" group-title="70s;80s;90s",Labgate P.Y.G.
 https://s2.ssl-stream.com/radio/8160/radio.mp3
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/mqRUgKzLmt.png" group-title="(.*);(.*);",Labgate Pop Hits
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/mqRUgKzLmt.png" group-title="Pop;Hits",Labgate Pop Hits
 https://s2.ssl-stream.com/radio/8220/radio.mp3
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/ee9tcegajjus.png" group-title="(.*);(.*);",Labgate Pop Rock
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/ee9tcegajjus.png" group-title="Pop;Rock",Labgate Pop Rock
 https://s2.ssl-stream.com/radio/8200/radio.mp3
-#EXTINF:-1 tvg-logo="https://labgateradio.com/wp-content/uploads/2020/07/FullColor_1280x1024_72dpi-e1595865561342.png" group-title="(.*);(.*);",Labgate Progressive Rock
+#EXTINF:-1 tvg-logo="https://labgateradio.com/wp-content/uploads/2020/07/FullColor_1280x1024_72dpi-e1595865561342.png" group-title="Progressive;Prog;Rock",Labgate Progressive Rock
 https://s2.ssl-stream.com/radio/8180/radio.mp3
-#EXTINF:-1 tvg-logo="https://lapfoxradio.com//apple-touch-icon-180x180.png" group-title="(.*);(.*);",Lapfox Radio
+#EXTINF:-1 tvg-logo="https://lapfoxradio.com//apple-touch-icon-180x180.png" group-title="Electronic;Furry",Lapfox Radio
 https://radio.lapfoxradio.com/radio/8000/stream-ogg-320.ogg
-#EXTINF:-1 tvg-logo="https://d1ujqdpfgkvqfi.cloudfront.net/favicon-generator/htdocs/favicons/2021-09-11/13248eeafe8fb5ec0eb865f7a8516282.ico.png" group-title="(.*);(.*);",Latin A-Z Radio
+#EXTINF:-1 tvg-logo="https://d1ujqdpfgkvqfi.cloudfront.net/favicon-generator/htdocs/favicons/2021-09-11/13248eeafe8fb5ec0eb865f7a8516282.ico.png" group-title="Latin;World",Latin A-Z Radio
 https://maggie.torontocast.com:2020/stream/latinazradio
-#EXTINF:-1 tvg-logo="https://laveradio.com/favicon.ico" group-title="(.*);(.*);",Lave Radio
+#EXTINF:-1 tvg-logo="https://laveradio.com/favicon.ico" group-title="Rock;Pop",Lave Radio
 https://kathy.torontocast.com/lave
-#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/e6/08/e608fa06fe5a494bb38521aea4608881.jpg" group-title="(.*);(.*);",Lighthouse 96.7 VOAR-FM
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/e6/08/e608fa06fe5a494bb38521aea4608881.jpg" group-title="Christian;Religious",Lighthouse 96.7 VOAR-FM
 https://usa4.fastcast4u.com/proxy/lighthousefm?mp=/1
-#EXTINF:-1 tvg-logo="https://cdn-images.audioaddict.com/6/7/5/9/9/a/67599a0b4f3575ea5f6a74fe633899d7.jpg" group-title="(.*);(.*);",Liquid DNB
+#EXTINF:-1 tvg-logo="https://cdn-images.audioaddict.com/6/7/5/9/9/a/67599a0b4f3575ea5f6a74fe633899d7.jpg" group-title="D'n'B;Electronic",Liquid DNB
 http://prem2.di.fm/liquiddnb_hi?b1e8ab696a279ebb68c48cab
-#EXTINF:-1 tvg-logo="https://cdn-images.audioaddict.com/6/b/5/b/d/6/6b5bd66a99e46fa1258cb565d988ea7c.jpg" group-title="(.*);(.*);",Liquid Trap
+#EXTINF:-1 tvg-logo="https://cdn-images.audioaddict.com/6/b/5/b/d/6/6b5bd66a99e46fa1258cb565d988ea7c.jpg" group-title="Trap;House",Liquid Trap
 http://prem2.di.fm/liquidtrap_hi?b1e8ab696a279ebb68c48cab
-#EXTINF:-1 tvg-logo="https://cdn-images.audioaddict.com/c/f/7/0/d/a/cf70daf883c01687f321d72376227493.jpg" group-title="(.*);(.*);",LoFi Hip-Hop
+#EXTINF:-1 tvg-logo="https://cdn-images.audioaddict.com/c/f/7/0/d/a/cf70daf883c01687f321d72376227493.jpg" group-title="LoFi;Hip Hop",LoFi Hip-Hop
 http://prem2.di.fm/lofihiphop_hi?b1e8ab696a279ebb68c48cab
-#EXTINF:-1 tvg-logo="https://cdn-images.audioaddict.com/c/9/8/c/7/9/c98c792e458c3416874bc89ed8f29aa6.png?size=300x300" group-title="(.*);(.*);",Meditation
+#EXTINF:-1 tvg-logo="https://cdn-images.audioaddict.com/c/9/8/c/7/9/c98c792e458c3416874bc89ed8f29aa6.png?size=300x300" group-title="Relax;Ambient",Meditation
 http://prem2.radiotunes.com/meditation_hi?b1e8ab696a279ebb68c48cab
-#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/e2/d1/38948/1/c300.png" group-title="(.*);(.*);",metalrock.fm
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/e2/d1/38948/1/c300.png" group-title="Metal;Rock",metalrock.fm
 http://kathy.torontocast.com:2820/;?type=http&nocache=1594751889
-#EXTINF:-1 tvg-logo="https://cdn-images.audioaddict.com/a/9/1/b/1/4/a91b1414a8712794672e3ea1324ffe92.png" group-title="(.*);(.*);",Minimal
+#EXTINF:-1 tvg-logo="https://cdn-images.audioaddict.com/a/9/1/b/1/4/a91b1414a8712794672e3ea1324ffe92.png" group-title="Minimal;Electronic",Minimal
 http://prem2.di.fm/minimal_hi?b1e8ab696a279ebb68c48cab
-#EXTINF:-1 tvg-logo="https://storage.musopen.org/static/icons/icon192.5b0c6cf166c7.png" group-title="(.*);(.*);",Musopen
+#EXTINF:-1 tvg-logo="https://storage.musopen.org/static/icons/icon192.5b0c6cf166c7.png" group-title="Classical;Baroque",Musopen
 https://live.musopen.org:8085/streamvbr0
-#EXTINF:-1 tvg-logo="https://myradio580.com/wp-content/uploads/2020/06/fevi.png" group-title="(.*);(.*);",MyRadio 580am
-http://ais-sa1.streamon.fm/7681_64k.mp3
-#EXTINF:-1 tvg-logo="http://n10.as/logo.png" group-title="(.*);(.*);",N10.as Radio
+#EXTINF:-1 tvg-logo="http://n10.as/logo.png" group-title="Indie;Rock",N10.as Radio
 http://n10as.out.airtime.pro:8000/n10as_a
-#EXTINF:-1 tvg-logo="https://d1ujqdpfgkvqfi.cloudfront.net/favicon-generator/htdocs/favicons/2021-09-09/b725acffbdde96dbeb3fe5aa68be630c.ico.png" group-title="(.*);(.*);",Nature Radio Rain
+#EXTINF:-1 tvg-logo="https://d1ujqdpfgkvqfi.cloudfront.net/favicon-generator/htdocs/favicons/2021-09-09/b725acffbdde96dbeb3fe5aa68be630c.ico.png" group-title="Ambient;Relax",Nature Radio Rain
 https://maggie.torontocast.com:2020/stream/natureradiorain
-#EXTINF:-1 tvg-logo="https://cdn-images.audioaddict.com/f/2/3/7/8/a/f2378a19d61a3063a2a6271a29fb1595.png" group-title="(.*);(.*);",Nu Disco
+#EXTINF:-1 tvg-logo="https://cdn-images.audioaddict.com/f/2/3/7/8/a/f2378a19d61a3063a2a6271a29fb1595.png" group-title="Disco;Dance",Nu Disco
 http://prem2.di.fm/nudisco_hi?b1e8ab696a279ebb68c48cab
 #EXTINF:-1 tvg-logo="https://cache.usercontentapp.com/logo/44656.jpg?format=png&enlarge=0&quality=90&width=960" group-title="(.*);(.*);",Oldies Paradise.com
 http://www.oldiesparadise.com:8000/;stream.mp3
