@@ -649,6 +649,8 @@ http://live.leanstream.co/CJOTFM-MP3
 http://live.leanstream.co/CJOYAM
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/xSLFsBj2gR.png" group-title="Community;Variety",CJPE 99.3 County FM
 https://streaming.county.fm:8000/radio.acc
+#EXTINF:-1 tvg-logo="https://www.radio7toronto.com/wp-content/uploads/2022/11/cropped-Radio7-Orange512-170x170.png" group-title="Polish;Variety",CKPL Radio 7 Toronto
+https://s4.radio.co/s1b687cf20/low
 #EXTINF:-1 tvg-logo="http://www.realcountrysouthwest.ca/favicon.ico" group-title="Country;New",CJPR 94.9 Real Country Southwest
 http://newcap.leanstream.co/CJPRFM-MP3
 #EXTINF:-1 tvg-logo="https://www.wknd.fm/img/logo-wknd.png" group-title="French;Rock",CJPX 99.5
@@ -857,9 +859,9 @@ http://live.leanstream.co/CKNXAM
 http://198.100.145.187:15204/listen.pls
 #EXTINF:-1 tvg-logo="http://www.tsn.ca/content/dam/sports/images/favicon/tsn/apple-touch-icon.png" group-title="Sports;Talk",CKOC TSN 1150
 https://playerservices.streamtheworld.com/api/livestream-redirect/CKOCAMAAC_SC
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/d7/Logo_1047_2021_color_default.png" group-title="(.*);(.*);",CKOF 104.7
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/d7/Logo_1047_2021_color_default.png" group-title="French;Talk",CKOF 104.7
 https://fsn-ais-relay2.leanstream.co/cogecomedia/CKOFFM.stream/playlist.m3u8?listeningSessionID=5fe4f8b6b7d8b376_2700625_iJpjxMv9_MTM4LjIwMS40MS4yMTc6ODAwMA!!_0000000qKGg&downloadSessionID=0&type=.ts&args=web_01
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrx3UUMfHbkp9ruEffuIOl2GQesOd6aO6uPg&s" group-title="(.*);(.*);",CKOI 96.9
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrx3UUMfHbkp9ruEffuIOl2GQesOd6aO6uPg&s" group-title="French;Hits",CKOI 96.9
 https://24483.live.streamtheworld.com/CKOIFMAAC/HLS/fdd444b7-964f-4913-9a65-def0f39dc8dc/0/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://media.socastsrm.com/uploads/station/541/fbShare.png?r=20302" group-title="French;News",CKOM News/Talk 650
 http://rawlco.leanstream.co/CKOMAM
@@ -1147,29 +1149,25 @@ http://n10as.out.airtime.pro:8000/n10as_a
 https://maggie.torontocast.com:2020/stream/natureradiorain
 #EXTINF:-1 tvg-logo="https://cdn-images.audioaddict.com/f/2/3/7/8/a/f2378a19d61a3063a2a6271a29fb1595.png" group-title="Disco;Dance",Nu Disco
 http://prem2.di.fm/nudisco_hi?b1e8ab696a279ebb68c48cab
-#EXTINF:-1 tvg-logo="https://cache.usercontentapp.com/logo/44656.jpg?format=png&enlarge=0&quality=90&width=960" group-title="(.*);(.*);",Oldies Paradise.com
+#EXTINF:-1 tvg-logo="https://cache.usercontentapp.com/logo/44656.jpg?format=png&enlarge=0&quality=90&width=960" group-title="Oldies;60s;70s",Oldies Paradise.com
 http://www.oldiesparadise.com:8000/;stream.mp3
-#EXTINF:-1 tvg-logo="https://cdn-images.audioaddict.com/4/f/b/3/3/5/4fb335eebc4697629fe801431fbc8684.jpg?size=170x170&quality=95" group-title="(.*);(.*);",Perfect Sunsets
+#EXTINF:-1 tvg-logo="https://cdn-images.audioaddict.com/4/f/b/3/3/5/4fb335eebc4697629fe801431fbc8684.jpg?size=170x170&quality=95" group-title="Relax;Ambient",Perfect Sunsets
 http://prem4.zenradio.com/zrperfectsunsets?b1e8ab696a279ebb68c48cab
-#EXTINF:-1 tvg-logo="https://i0.wp.com/fmairchecks.com/wp-content/uploads/2011/01/kkfr-power92-mid1990s-new.gif?resize=431%2C200&ssl=1" group-title="(.*);(.*);",Power92 FM
-http://s12.myradiostream.com:5608/stream
-#EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/4/76924.v2.png" group-title="(.*);(.*);",Prog Frog
+#EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/4/76924.v2.png" group-title="Progressive;Rock",Prog Frog
 http://eagle.streemlion.com:4040/stream
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/f4ad9898-71f5-42e5-a958-dd2b33f2112e/1599849250468.png" group-title="(.*);(.*);",Prognosis
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/f4ad9898-71f5-42e5-a958-dd2b33f2112e/1599849250468.png" group-title="Progressive;Rock",Prognosis
 https://stream.rcast.net/66391
-#EXTINF:-1 tvg-logo="https://www.punkrockradio.ca/favicon.ico" group-title="(.*);(.*);",PunkRockRadio.ca
+#EXTINF:-1 tvg-logo="https://www.punkrockradio.ca/favicon.ico" group-title="Punk;Rock",PunkRockRadio.ca
 https://stream.radio.co/s904013bb1/listen
-#EXTINF:-1 tvg-logo="https://www.qub.radio/images/IMG_FB.png" group-title="(.*);(.*);",QUB Radio
+#EXTINF:-1 tvg-logo="https://www.qub.radio/images/IMG_FB.png" group-title="News;Talk",QUB Radio
 https://playerservices.streamtheworld.com/api/livestream-redirect/QUB_RADIOAAC_SC
-#EXTINF:-1 tvg-logo="https://www.radio7toronto.com/wp-content/uploads/2022/11/cropped-Radio7-Orange512-170x170.png" group-title="(.*);(.*);",Radio 7 Toronto
-https://s4.radio.co/s1b687cf20/low
-#EXTINF:-1 tvg-logo="http://www.radio42north.com/wp-content/uploads/2017/10/cropped-Radio42North-Logo_white-small-title-270x270.png" group-title="(.*);(.*);",Radio 42° North
+#EXTINF:-1 tvg-logo="http://www.radio42north.com/wp-content/uploads/2017/10/cropped-Radio42North-Logo_white-small-title-270x270.png" group-title="Rock;Pop",Radio 42° North
 http://ice66.securenetsystems.net/R42N
-#EXTINF:-1 tvg-logo="https://static.tuneyou.com/images/logos/500_500/73/15873/Radio854_4.jpg" group-title="(.*);(.*);",Radio 854
+#EXTINF:-1 tvg-logo="https://static.tuneyou.com/images/logos/500_500/73/15873/Radio854_4.jpg" group-title="Pop;Top 40",Radio 854
 https://jenny.torontocast.com:8034/stream
-#EXTINF:-1 tvg-logo="http://www.radioarina.ca/" group-title="(.*);(.*);",Radio Arina 88.9 HD4
+#EXTINF:-1 tvg-logo="http://www.radioarina.ca/" group-title="Farsi;News",Radio Arina 88.9 HD4
 http://192.34.153.102:8000/AMGRadio.mp3
-#EXTINF:-1 tvg-logo="https://bluesflac.com/wp-content/uploads/2019/11/cropped-skull-1-180x180.png" group-title="(.*);(.*);",Radio BluesFlac
+#EXTINF:-1 tvg-logo="https://bluesflac.com/wp-content/uploads/2019/11/cropped-skull-1-180x180.png" group-title="Jazz;Blues",Radio BluesFlac
 http://audio-edge-kef8b.ams.s.radiomast.io/radioblues-flac
 #EXTINF:-1 tvg-logo="http://radiofreepeterborough.ca//sites/radiofreepeterborough.ca/files/favicon_0.ico" group-title="Community;Indie",Radio Free Peterborough
 http://trentradio.ca:8800/rfp
