@@ -499,6 +499,8 @@ http://stream.statsradio.com:8020/stream
 http://live.leanstream.co/CIQBFM-MP3
 #EXTINF:-1 tvg-logo="http://www.ciqifm.com/assets/favicons/safari-pinned-tab.svg" group-title="French;Adult;Contemporary",CIQI 90.3
 http://stream.statsradio.com:8044/stream
+#EXTINF:-1 tvg-logo="https://direct.radiovm.com/wp-content/uploads/2020/03/cropped-logo-192x192.png" group-title="French;Community",CIRA Radio VM 91.3
+https://s5.radio.co/sec326ff8a/listen
 #EXTINF:-1 tvg-logo="http://media.socastsrm.com/wordpress/wp-content/blogs.dir/888/files/2017/07/k97logo326x300.png" group-title="Oldies;Rock",CIRK 97.3 K-97
 http://newcap.leanstream.co/CIRKFM
 #EXTINF:-1 tvg-logo="https://redfm.ca/wp-content/uploads/2019/01/redfm_vancouver.png" group-title="Multicultural;Variety",CIRV Red 88.9
@@ -675,6 +677,8 @@ http://ais-sa1.streamon.fm/7097_32k.aac
 https://ais-sa1.streamon.fm/7262_32k.aac/playlist.m3u8?NoPreroll=true&starttime=1&esPlayer&cb=453636.m4a
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b0/CJWF_windsorscountry95.9-92.7_logo.png" group-title="Country;New",CJSP/CJWF Windsor's Country 95.9/92.7
 http://live.leanstream.co/CJWFFM
+#EXTINF:-1 tvg-logo="https://www.radio.fr/images/broadcasts/1a/b8/36096/1/c300.png" group-title="French;Classical",CJSQ Radio-Classique 92.7
+https://listen.radioking.com/radio/228241/stream/271810
 #EXTINF:-1 tvg-logo="http://cjsr.com/wp-content/themes/bones/images/win8-tile-icon.png" group-title="Campus;Community",CJSR 88.5 University of Alberta
 http://ais-sa1.streamon.fm/7093_24k.aac
 #EXTINF:-1 tvg-logo="https://boom1019.com/wp-content/uploads/sites/8/2018/02/cropped-boom101_512x512.png?w=180" group-title="Oldies;Hits",CJSS Boom 101.9
@@ -1171,55 +1175,47 @@ http://192.34.153.102:8000/AMGRadio.mp3
 http://audio-edge-kef8b.ams.s.radiomast.io/radioblues-flac
 #EXTINF:-1 tvg-logo="http://radiofreepeterborough.ca//sites/radiofreepeterborough.ca/files/favicon_0.ico" group-title="Community;Indie",Radio Free Peterborough
 http://trentradio.ca:8800/rfp
-#EXTINF:-1 tvg-logo="http://www.radiostreamlive.com/images/logos_radioitaliacanada.png" group-title="(.*);(.*);",Radio Italia Canada
+#EXTINF:-1 tvg-logo="http://www.radiostreamlive.com/images/logos_radioitaliacanada.png" group-title="Italian;World",Radio Italia Canada
 https://streaming.radiostreamlive.com/radioitaliacanada_devices
-#EXTINF:-1 tvg-logo="https://www.radiomaria.ca/wp-content/uploads/2016/10/rm-favicon.png" group-title="(.*);(.*);",Radio Maria Canada
+#EXTINF:-1 tvg-logo="https://www.radiomaria.ca/wp-content/uploads/2016/10/rm-favicon.png" group-title="Catholic;Religious",Radio Maria Canada
 http://dreamsiteradiocp.com:8016/
-#EXTINF:-1 tvg-logo="https://www.radiomaria.ca/wp-content/uploads/2016/10/rm-favicon.png" group-title="(.*);(.*);",Radio Maria Canada Spanish
+#EXTINF:-1 tvg-logo="https://www.radiomaria.ca/wp-content/uploads/2016/10/rm-favicon.png" group-title="Catholic;Spanish",Radio Maria Canada Spanish
 http://rmcesp.radiomaria.ca:8050/;stream.mp3
-#EXTINF:-1 tvg-logo="http://www.quebec-country.com/favicon.ico" group-title="(.*);(.*);",Radio Quebec Country.com
+#EXTINF:-1 tvg-logo="http://www.quebec-country.com/favicon.ico" group-title="French;Country",Radio Quebec Country.com
 http://play.quebec-country.com/
-#EXTINF:-1 tvg-logo="http://radioquebecinternational.com/images/pic02.png" group-title="(.*);(.*);",Radio Québec International RQI1 Yesterday and Today
+#EXTINF:-1 tvg-logo="http://radioquebecinternational.com/images/pic02.png" group-title="Pop;French",Radio Québec International RQI1 Yesterday and Today
 https://us10a.serverse.com/proxy/rqi1
-#EXTINF:-1 tvg-logo="http://radioquebecinternational.com/images/pic02.png" group-title="(.*);(.*);",Radio Québec International RQI2 The Pioneers
+#EXTINF:-1 tvg-logo="http://radioquebecinternational.com/images/pic02.png" group-title="20s;30s;40s;French",Radio Québec International RQI2 The Pioneers
 https://us10a.serverse.com/proxy/rqi2
-#EXTINF:-1 tvg-logo="https://www.radioregent.com/images/radioregent_web.png" group-title="(.*);(.*);",Radio Regent.com
+#EXTINF:-1 tvg-logo="https://www.radioregent.com/images/radioregent_web.png" group-title="Variety;Talk",Radio Regent.com
 https://streamer.radio.co/se3e1e3815/low
-#EXTINF:-1 tvg-logo="https://direct.radiovm.com/wp-content/uploads/2020/03/cropped-logo-192x192.png" group-title="(.*);(.*);",Radio VM
-https://s5.radio.co/sec326ff8a/listen
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LIwmneC5inrUCejCQkXv9dJCUxrp4NbbRezr_Kg3EIWTK1q2wcIjbCa-EUIFfhtk6w" group-title="(.*);(.*);",Radio XY
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LIwmneC5inrUCejCQkXv9dJCUxrp4NbbRezr_Kg3EIWTK1q2wcIjbCa-EUIFfhtk6w" group-title="Alternative;Indie",Radio XY
 http://ais-edge09-live365-dal02.cdnstream.com/a41839
-#EXTINF:-1 tvg-logo="https://www.radio.fr/images/broadcasts/1a/b8/36096/1/c300.png" group-title="(.*);(.*);",Radio-Classique
-https://listen.radioking.com/radio/228241/stream/271810
-#EXTINF:-1 tvg-logo="https://www.getmeradio.com/stations/radioprogram-1916/logos/512x512.png" group-title="(.*);(.*);",RadioProgram
+#EXTINF:-1 tvg-logo="https://www.getmeradio.com/stations/radioprogram-1916/logos/512x512.png" group-title="Italian;Variety",RadioProgram
 http://radio.streemlion.com:2190/radioprogram
-#EXTINF:-1 tvg-logo="http://radioskymusic.com/img/favicon.png" group-title="(.*);(.*);",RadioSky Music Jazz
+#EXTINF:-1 tvg-logo="http://radioskymusic.com/img/favicon.png" group-title="Jazz;Blues",RadioSky Music Jazz
 http://jazz.radioskymusic.com:7006/live
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/rmcauley/rainwave/master/static/images4/logo_blue_on_white.png" group-title="(.*);(.*);",Rainwave All
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/rmcauley/rainwave/master/static/images4/logo_blue_on_white.png" group-title="Soundtracks;Chiptunes",Rainwave All
 http://allrelays.rainwave.cc/all.ogg
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/rmcauley/rainwave/master/static/images4/logo_blue_on_white.png" group-title="(.*);(.*);",Rainwave Covers
-https://relay.rainwave.cc/covers.ogg
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/rmcauley/rainwave/master/static/images4/logo_blue_on_white.png" group-title="(.*);(.*);",Rainwave Game
-http://allrelays.rainwave.cc/game.ogg
-#EXTINF:-1 tvg-logo="http://www.rainwave.cc/static/images4/ios/120.png" group-title="(.*);(.*);",Rainwave OC Remix
+#EXTINF:-1 tvg-logo="http://www.rainwave.cc/static/images4/ios/120.png" group-title="Soundtracks;Remixes",Rainwave OC Remix
 http://allrelays.rainwave.cc/ocremix.ogg
-#EXTINF:-1 tvg-logo="https://radiodimensionemix.torontocast.stream/wp-content/uploads/2021/03/RDMIX-70S-GOLDEN-HITS_OK-300x300.png " group-title="(.*);(.*);",RDMIX 70s Golden Hits
+#EXTINF:-1 tvg-logo="https://radiodimensionemix.torontocast.stream/wp-content/uploads/2021/03/RDMIX-70S-GOLDEN-HITS_OK-300x300.png " group-title="70s;Oldies",RDMIX 70s Golden Hits
 https://maggie.torontocast.com:2020/stream/rdmix70sgoldenhits
-#EXTINF:-1 tvg-logo="https://radiodimensionemix.torontocast.stream/wp-content/uploads/2020/12/RDMIX-EURODANCE-90S-300x300.png" group-title="(.*);(.*);",RDMIX Eurodance 90s
+#EXTINF:-1 tvg-logo="https://radiodimensionemix.torontocast.stream/wp-content/uploads/2020/12/RDMIX-EURODANCE-90S-300x300.png" group-title="90s;Dance;World",RDMIX Eurodance 90s
 https://maggie.torontocast.com:2020/stream/rdmixeurodance90s
-#EXTINF:-1 tvg-logo="https://radiodimensionemix.torontocast.stream/wp-content/uploads/2020/02/RDMIX_ITALIAN-VINTAGE-708090_512px.jpg" group-title="(.*);(.*);",RDMIX Italian Vintage
+#EXTINF:-1 tvg-logo="https://radiodimensionemix.torontocast.stream/wp-content/uploads/2020/02/RDMIX_ITALIAN-VINTAGE-708090_512px.jpg" group-title="Italian;World",RDMIX Italian Vintage
 https://maggie.torontocast.com:2020/stream/rdmixitalianvintage
-#EXTINF:-1 tvg-logo="https://radiodimensionemix.torontocast.stream/wp-content/uploads/2020/09/RDMIX-LOVE_SONGS_512_OK-150x150.png" group-title="(.*);(.*);",RDMIX Love Songs
+#EXTINF:-1 tvg-logo="https://radiodimensionemix.torontocast.stream/wp-content/uploads/2020/09/RDMIX-LOVE_SONGS_512_OK-150x150.png" group-title="Ballads;Chansons",RDMIX Love Songs
 http://maggie.torontocast.com:8022/stream
-#EXTINF:-1 tvg-logo="https://radiosuitenetwork.torontocast.stream/wp-content/uploads/2021/09/reggae.jpg" group-title="(.*);(.*);",Reggae Chill Cafe
+#EXTINF:-1 tvg-logo="https://radiosuitenetwork.torontocast.stream/wp-content/uploads/2021/09/reggae.jpg" group-title="Reggae;Chill",Reggae Chill Cafe
 https://maggie.torontocast.com:2020/stream/reggaechillcafe
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/82b05f_a03389eb8beb411b9960b57755fb3880%7Emv2.jpg" group-title="(.*);(.*);",RetroSouvenirs
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/82b05f_a03389eb8beb411b9960b57755fb3880%7Emv2.jpg" group-title="60s;70s;80s",Retro Souvenirs
 https://listen.radioking.com/radio/108/stream/61183
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/eyedsanjs6d5.jpeg" group-title="(.*);(.*);",rockXradio
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/eyedsanjs6d5.jpeg" group-title="Metal;Rock",RockXradio
 http://158.69.227.214:8000/stream
-#EXTINF:-1 tvg-logo="http://www.rpgamers.net/favicon.ico" group-title="(.*);(.*);",RPGamers Network
+#EXTINF:-1 tvg-logo="http://www.rpgamers.net/favicon.ico" group-title="Soundtracks;RPG",RPGamers Network
 http://stream.rpgamers.net:8000/rpgn
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s117856/images/logog.jpg?t=2" group-title="(.*);(.*);",Rumsey Retro Radio 1580
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s117856/images/logog.jpg?t=2" group-title="Jazz;OTR",Rumsey Retro Radio 1580
 https://jenny.torontocast.com:8042/stream
 #EXTINF:-1 tvg-logo="https://d1ujqdpfgkvqfi.cloudfront.net/favicon-generator/htdocs/favicons/2021-09-06/19f1778e81bf3742cbec1e18fad49a33.ico.png" group-title="(.*);(.*);",Sensual Lounge
 https://maggie.torontocast.com:2020/stream/sensuallounge
