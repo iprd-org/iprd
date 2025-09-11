@@ -525,6 +525,8 @@ https://rogers-hls.leanstream.co/rogers/win921.stream/playlist.m3u8
 http://live.citr.ca:8000/live.mp3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6a/CIUT_logo.png" group-title="Campus;Variety",CIUT 89.5
 https://ice23.securenetsystems.net/CIUT?playSessionID=1DBBC858-E044-417E-A879F4907537C4BA
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s304504/images/logog.png?t=1" group-title="Adult;Contemporary",CIWV WAVE.FM 98.3 
+https://playerservices.streamtheworld.com/api/livestream-redirect/CIWVFM_SC
 #EXTINF:-1 tvg-logo="https://www.vmcdn.ca/files/ui/rogers/at.png" group-title="News;Talk",CIWW CityNews
 https://rogers-hls.leanstream.co/rogers/ott1011.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/95/The_Boom_Brooks_Logo.png/375px-The_Boom_Brooks_Logo.png" group-title="Oldies;Hits",CIXF Boom 101.1
@@ -1217,51 +1219,49 @@ http://158.69.227.214:8000/stream
 http://stream.rpgamers.net:8000/rpgn
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s117856/images/logog.jpg?t=2" group-title="Jazz;OTR",Rumsey Retro Radio 1580
 https://jenny.torontocast.com:8042/stream
-#EXTINF:-1 tvg-logo="https://d1ujqdpfgkvqfi.cloudfront.net/favicon-generator/htdocs/favicons/2021-09-06/19f1778e81bf3742cbec1e18fad49a33.ico.png" group-title="(.*);(.*);",Sensual Lounge
+#EXTINF:-1 tvg-logo="https://d1ujqdpfgkvqfi.cloudfront.net/favicon-generator/htdocs/favicons/2021-09-06/19f1778e81bf3742cbec1e18fad49a33.ico.png" group-title="Lounge;Jazz",Sensual Lounge
 https://maggie.torontocast.com:2020/stream/sensuallounge
-#EXTINF:-1 tvg-logo="https://slowlyradio.com/wp-content/uploads/2020/03/SIGLE-SLOWLY-RADIO-800X800-trans.png" group-title="(.*);(.*);",Slowly Radio
+#EXTINF:-1 tvg-logo="https://slowlyradio.com/wp-content/uploads/2020/03/SIGLE-SLOWLY-RADIO-800X800-trans.png" group-title="Ambient;Easy Listening",Slowly Radio
 https://listen.radioking.com/radio/421816/stream/476452
-#EXTINF:-1 tvg-logo="http://soundstorm-radio.com/wp-content/uploads/2016/12/cropped-Soundstorm-LOGo-512x512-270x270.png" group-title="(.*);(.*);",Soundstorm Radio
+#EXTINF:-1 tvg-logo="http://soundstorm-radio.com/wp-content/uploads/2016/12/cropped-Soundstorm-LOGo-512x512-270x270.png" group-title="Ambient;Chillout",Soundstorm Radio
 http://stream.soundstorm-radio.com:8000/
-#EXTINF:-1 tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/1c/81/117442/1/c300.png" group-title="(.*);(.*);",Squirrel FM
+#EXTINF:-1 tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/1c/81/117442/1/c300.png" group-title="Dance;Electronic",Squirrel FM
 http://s25.myradiostream.com:10092/stream/1/listen.mp3
-#EXTINF:-1 tvg-logo="https://d1ujqdpfgkvqfi.cloudfront.net/favicon-generator/htdocs/favicons/2021-10-05/c532afe143ee04cef98099576fcb7a1f.ico.png" group-title="(.*);(.*);",Suite Jazz Radio
+#EXTINF:-1 tvg-logo="https://d1ujqdpfgkvqfi.cloudfront.net/favicon-generator/htdocs/favicons/2021-10-05/c532afe143ee04cef98099576fcb7a1f.ico.png" group-title="Jazz;Blues",Suite Jazz Radio
 https://jenny.torontocast.com:2000/stream/suitejazzradio
-#EXTINF:-1 tvg-logo="https://cdn-images.audioaddict.com/2/7/b/a/7/0/27ba70234566a810d9dd33745195f088.png" group-title="(.*);(.*);",Tech House
+#EXTINF:-1 tvg-logo="https://cdn-images.audioaddict.com/2/7/b/a/7/0/27ba70234566a810d9dd33745195f088.png" group-title="Electronic;House",Tech House
 http://prem2.di.fm/techhouse_hi?b1e8ab696a279ebb68c48cab
-#EXTINF:-1 tvg-logo="https://ca.radio.net/images/broadcasts/ed/df/103372/1/c300.png" group-title="(.*);(.*);",The Lounge Sound.ca
+#EXTINF:-1 tvg-logo="https://ca.radio.net/images/broadcasts/ed/df/103372/1/c300.png" group-title="Lounge;Ballads",The Lounge Sound.ca
 http://streams.theloungesound.ca:8059/;?.mp3
-#EXTINF:-1 tvg-logo="http://www.lynxradionetwork.com/favicon.ico" group-title="(.*);(.*);",The Lynx Classic Rock
+#EXTINF:-1 tvg-logo="http://www.lynxradionetwork.com/favicon.ico" group-title="Oldies;Rock",The Lynx Classic Rock
 http://streamingV2.shoutcast.com/CRIKFM-TheLynxClassicRock
-#EXTINF:-1 tvg-logo="http://www.lynxradionetwork.com/favicon.ico" group-title="(.*);(.*);",The Lynx Disco Classics
+#EXTINF:-1 tvg-logo="http://www.lynxradionetwork.com/favicon.ico" group-title="Disco;Dance",The Lynx Disco Classics
 http://streamingV2.shoutcast.com/CRIKFM-TheLynxDiscoClassics
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s49609/images/logoq.jpg" group-title="(.*);(.*);",The Lynx Retro 80s
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s49609/images/logoq.jpg" group-title="Oldies;80s",The Lynx Retro 80s
 http://80s-lynxradio.radioca.st/stream
-#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s49608/images/logoq.jpg" group-title="(.*);(.*);",The Lynx Super 70s
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s49608/images/logoq.jpg" group-title="Oldies;70s",The Lynx Super 70s
 http://70s-lynxradio.radioca.st/stream
-#EXTINF:-1 tvg-logo="https://liveonlineradio.net/wp-content/uploads/2020/12/The-Oasis-Modern-Easy-Listening.jpg" group-title="(.*);(.*);",The Oasis Modern Easy Listening
+#EXTINF:-1 tvg-logo="https://liveonlineradio.net/wp-content/uploads/2020/12/The-Oasis-Modern-Easy-Listening.jpg" group-title="Easy Listening;Contemporary",The Oasis Modern Easy Listening
 http://cheetah.streemlion.com:1320/stream
-#EXTINF:-1 tvg-logo="http://www.tni-rtn.com/wp-content/uploads/2018/05/cropped-official.tni_.c.textless-192x192.png" group-title="(.*);(.*);",TNI Radio 94.1
+#EXTINF:-1 tvg-logo="http://www.tni-rtn.com/wp-content/uploads/2018/05/cropped-official.tni_.c.textless-192x192.png" group-title="Inuktitut;Community",TNI Radio 94.1
 http://perseus.shoutca.st:8599/stream/1/
-#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/2a/80/2a80213c6636a5135b9aa50b93b04424.jpg" group-title="(.*);(.*);",Tokyo Rose Radio
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/2a/80/2a80213c6636a5135b9aa50b93b04424.jpg" group-title="20s;30s;40s",Tokyo Rose Radio
 http://bluford.torontocast.com:8006/autodj
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/488489687372165121/1ZRCNH9v_400x400.jpeg" group-title="(.*);(.*);",Trance
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/488489687372165121/1ZRCNH9v_400x400.jpeg" group-title="Trance;Dance",Trance
 http://prem1.di.fm/trance_hi?b1e8ab696a279ebb68c48cab
-#EXTINF:-1 tvg-logo="https://www.truckstopquebec.com/wp-content/uploads/2014/01/tsqapp.png" group-title="(.*);(.*);",Truck Stop Quebec
+#EXTINF:-1 tvg-logo="https://www.truckstopquebec.com/wp-content/uploads/2014/01/tsqapp.png" group-title="French;Variety",Truck Stop Quebec
 http://canada1.reliastream.com:8052/live
-#EXTINF:-1 tvg-logo="https://www.wavesofpower.com/wp-content/uploads/2019/03/Logo_vallamai.png" group-title="(.*);(.*);",Vallamaiyin Alaikal Waves of Power
+#EXTINF:-1 tvg-logo="https://www.wavesofpower.com/wp-content/uploads/2019/03/Logo_vallamai.png" group-title="Tamil;Gospel",Vallamaiyin Alaikal Waves of Power
 http://radio.pixelinmedia.com/vallamai
-#EXTINF:-1 tvg-logo="https://cdn-images.audioaddict.com/8/5/a/1/3/b/85a13bb220281bf22bf04d4f1f778b59.png" group-title="(.*);(.*);",Vocal House
+#EXTINF:-1 tvg-logo="https://cdn-images.audioaddict.com/8/5/a/1/3/b/85a13bb220281bf22bf04d4f1f778b59.png" group-title="House;Vocal",Vocal House
 http://prem2.di.fm/vocalhouse_hi?b1e8ab696a279ebb68c48cab
-#EXTINF:-1 tvg-logo="https://cdn-images.audioaddict.com/8/4/3/6/f/9/8436f9d3338ba7c8de0e88dbe45ea4d5.jpg" group-title="(.*);(.*);",Vocal Lounge
+#EXTINF:-1 tvg-logo="https://cdn-images.audioaddict.com/8/4/3/6/f/9/8436f9d3338ba7c8de0e88dbe45ea4d5.jpg" group-title="Ballads;Lounge",Vocal Lounge
 http://prem2.di.fm/vocallounge_hi?b1e8ab696a279ebb68c48cab
-#EXTINF:-1 tvg-logo="http://vocm.com/favicon.ico" group-title="(.*);(.*);",VOCM 590
+#EXTINF:-1 tvg-logo="http://vocm.com/favicon.ico" group-title="News;Variety",VOCM 590
 http://newcap.leanstream.co/VOCMAM
-#EXTINF:-1 tvg-logo="http://media.socastsrm.com/wordpress/wp-content/blogs.dir/1464/files/2017/11/206_primary_image.png" group-title="(.*);(.*);",VOCM 97.5 K-Rock
+#EXTINF:-1 tvg-logo="http://media.socastsrm.com/wordpress/wp-content/blogs.dir/1464/files/2017/11/206_primary_image.png" group-title="Rock;Variety",VOCM 97.5 K-Rock
 http://newcap.leanstream.co/VOCMFM
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/qgWmNtnshz.png" group-title="(.*);(.*);",VOWR 800
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/qgWmNtnshz.png" group-title="Community;Variety",VOWR 800
 https://playerservices.streamtheworld.com/api/livestream-redirect/VOWRAMAAC_SC
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s304504/images/logog.png?t=1" group-title="(.*);(.*);",WAVE.FM 98.3 
-https://playerservices.streamtheworld.com/api/livestream-redirect/CIWVFM_SC
-#EXTINF:-1 tvg-logo="http://cache.wefunkradio.com/images-small/outside/design/wefunk-logo-3d-vector2.png" group-title="(.*);(.*);",WEFUNK
+#EXTINF:-1 tvg-logo="http://cache.wefunkradio.com/images-small/outside/design/wefunk-logo-3d-vector2.png" group-title="Funk;R'n'B",WEFUNK
 https://s-14.wefunkradio.com:8443/wefunk64.mp3
