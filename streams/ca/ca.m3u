@@ -277,7 +277,7 @@ http://bayshore.leanstream.co/CHGBFM
 http://72.139.27.130:100/broadwave.mp3?src=1&rate=1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Miramichi_Sun_FM.png/200px-Miramichi_Sun_FM.png" group-title="Oldies;Hits",CHHI 95.9 Sun FM
 http://newcap.leanstream.co/CHHIFM
-#EXTINF:-1 tvg-logo="http://www.cnv.ca/images/CNV-MiniLogoEntete%20copy.png" group-title="Electronica;Lounge",Chill 365
+#EXTINF:-1 tvg-logo="http://www.cnv.ca/images/CNV-MiniLogoEntete%20copy.png" group-title="Electronic;Lounge",Chill 365
 http://xlnetwork.info:9998/;stream/1
 #EXTINF:-1 tvg-logo="https://cdn-images.audioaddict.com/2/9/0/1/e/f/2901ef5c923bb0f9ff856ac4007975f0.jpg" group-title="Tropical;House",Chill & Tropical House
 http://prem2.di.fm/chillntropicalhouse_hi?b1e8ab696a279ebb68c48cab
@@ -395,7 +395,7 @@ http://129.100.145.33:8000/stream
 http://ice7.securenetsystems.net/CHRY
 #EXTINF:-1 tvg-logo="http://www.country94.ca/favicon.ico" group-title="Country;Outlaw",CHSJ Country 94.1
 http://ais-sa1.streamon.fm/7230_48k.aac
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/AM_1250_Steinbach_Logo.jpg" group-title="Easy Listeninjg;Oldies",CHSM 1250 SteinbachOnline
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/AM_1250_Steinbach_Logo.jpg" group-title="Easy Listening;Oldies",CHSM 1250 SteinbachOnline
 https://goldenwest.leanstream.co/goldenwest/CHSMAM.stream/playlist.m3u8?args=app_02
 #EXTINF:-1 tvg-logo="http://www.realcountrystpaul.ca/favicon.ico" group-title="Country;New",CHSP Real Country 97.7
 http://newcap.leanstream.co/CHSPFM
@@ -417,6 +417,8 @@ http://rogers.leanstream.co/rogers/vic1031.stream/icy
 http://ice64.securenetsystems.net/CHUC
 #EXTINF:-1 tvg-logo="http://media.socastsrm.com/uploads/station/677/home_screen_logo-589213db253f9.jpg" group-title="Adult;Contemporary",CHUP Soft Rock 97.7
 http://rawlco.leanstream.co/CHUPFM-MP3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/91/CHVI_Logo.PNG/250px-CHVI_Logo.PNG" group-title="Christian;Religious",CHVI 88.7
+https://ais-sa1.streamon.fm/7155_48k.aac/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Chvo.jpg/250px-Chvo.jpg" group-title="Country;Outlaw",CHVO 103.9 KIXX Country
 http://newcap.leanstream.co/CHVOFM
 #EXTINF:-1 tvg-logo="http://www.1049thebeach.ca/favicon.ico" group-title="Country;Folk",CHWC 104.9 The Beach
@@ -427,6 +429,8 @@ http://ice41.securenetsystems.net/CHWE
 http://live.leanstream.co/CHYRFM
 #EXTINF:-1 tvg-logo="https://www.radios-quebecoises.com/wp-content/uploads/2020/01/logo-chyz-94-3-fm-en-direct.png" group-title="French;Campus;Variety",CHYZ 94.3 Universite Laval
 http://ecoutez.chyz.ca:8000/listen.pls
+#EXTINF:-1 tvg-logo="https://ciammedia.com/wp-content/uploads/2020/11/CIAM-Media-logo-box.jpg" group-title="Community;Christian",CIAM 92.7
+https://5b4aa1d044c5b.streamlock.net/ciam-live/ciamfv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.am530.ca/favicon.ico" group-title="Multicultural;Hits",CIAO 530
 http://ice23.securenetsystems.net/CIAO
 #EXTINF:-1 tvg-logo="http://ciaufm.ca/wp-content/uploads/2017/11/cropped-ciau_fm_icon-192x192.png" group-title="French;Community",CIAU 103.1
@@ -583,6 +587,8 @@ http://ice23.securenetsystems.net/CJGM
 http://live.leanstream.co/CJGVFM-MP3
 #EXTINF:-1 tvg-logo="http://d2x3wmakafwqf5.cloudfront.net/uploads/station/301/squareIcon.png?r=13277" group-title="Country;News",CJGX 940 GX94
 http://ais-sa1.streamon.fm/7259_64k.aac
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/CJGY_reach96.3fm_logo.jpg" group-title="Christian;Contemporary",CJGY 96.3
+https://goldenwest.leanstream.co/CJGYFM
 #EXTINF:-1 tvg-logo="http://www.cjhk.ca/favicon.ico" group-title="Country;Outlaw",CJHK Country 100.7
 https://ais-sa1.streamon.fm/7226_48k.aac/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://valleyheritageradio.ca/newsite/wp-content/uploads/2016/07/cropped-Untitled-1-270x270.png" group-title="Community;Variety",CJHR 98.7 Valley Heritage Radio
@@ -601,8 +607,8 @@ http://newcap.leanstream.co/CJKCFM-MP3?args=mobile_03
 http://live.leanstream.co/CJKRFM-MP3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/af/CJKX-FM.png/225px-CJKX-FM.png" group-title="Country;New",CJKX 95.9 KX96 New Country
 https://playerservices.streamtheworld.com/api/livestream-redirect/CJKXFMAAC_SC
-#EXTINF:-1 tvg-logo="https://www.lifeonline.fm/favicon.ico" group-title="Christian;Religious",CJLF LIFE 100.3
-http://netstream.lifeonline.fm/CJLF/aac_high
+#EXTINF:-1 tvg-logo="https://ca.radio.net/300/cjli-the-light-700-am.png?version=16238a391ce8ef0677f590bf282a8cd2" group-title="Christian;Religious",CJLI 700 The Light
+https://shinefm.streamguys1.com/cjli?aw_0_req.gdpr=true&us_privacy=1YNN
 #EXTINF:-1 tvg-logo="http://www.chinradioottawa.com///favicon.ico" group-title="Multilingual;Variety",CJLL 97.9 CHIN Radio
 http://ice7.securenetsystems.net/CJLLFM
 #EXTINF:-1 tvg-logo="http://www.m1035fm.com/favicon.ico" group-title="French;Contemporary",CJLM M 103.5
@@ -611,6 +617,8 @@ http://stream.statsradio.com:8024/stream
 http://rosetta.shoutca.st:8883/stream
 #EXTINF:-1 tvg-logo="http://www.cjls.com/favicon.ico" group-title="Oldies;Hits",CJLS Y95.5
 http://ais-sa1.streamon.fm/7228_48k.aac
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/UCB_Canada_logo.png/250px-UCB_Canada_logo.png" group-title="Christian;Religious",CJLT 93.7
+https://ucbmedia.streamguys1.com/mhat937/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://91x.fm/favicon.ico" group-title="Campus;Community",CJLX 91.3 91X Loyalist College
 http://lweb04.lcaat.ca:8000/91x.mp3
 #EXTINF:-1 tvg-logo="http://www.kootenaycoopradio.com/favicon.ico" group-title="Community;Variety",CJLY 93.5 Kootenay Coop Radio
@@ -671,6 +679,8 @@ https://jazzfm91.streamb.live/SB00009
 http://mbsradio.leanstream.co/CJRWFM-MP3
 #EXTINF:-1 tvg-logo="https://www.1067rock.ca/wp-content/uploads/sites/36/2016/05/cropped-106.7ROCK_tm_RGB-1-270x270.png" group-title="Oldies;Rock",CJRX 106.7 Rock
 https://rogers-hls.leanstream.co/rogers/let1067.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/FCTEkhBBUW.png" group-title="Christian;Religious",CJRY 105.9
+https://shinefm.streamguys1.com/cjry?aw_0_req.gdpr=true&us_privacy=1YNN
 #EXTINF:-1 tvg-logo="http://www.cj104radio.com/cjsb%20color%20copy.jpg" group-title="Adult;Contemporary",CJSB 104.5 CJ104
 http://dns4.83north.ca:8000/cjsb.mp3
 #EXTINF:-1 tvg-logo="http://www.rock94.com/img/favicon/apple-touch-icon.png" group-title="Rock;Hits",CJSD 94.3 Rock 94
@@ -873,6 +883,8 @@ https://24483.live.streamtheworld.com/CKOIFMAAC/HLS/fdd444b7-964f-4913-9a65-def0
 http://rawlco.leanstream.co/CKOMAM
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/95/CKON-FM.png/200px-CKON-FM.png" group-title="Contemporary;Country",CKON 97.3 Mohawk Radio
 https://playerservices.streamtheworld.com/api/livestream-redirect/CKONFM_SC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/UCB_Canada_logo.png/420px-UCB_Canada_logo.png" group-title="Christian;Contemporary",CKOS 91.1
+https://ucbmedia.streamguys1.com/fmac911/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://jewelradio.com/wp-content/uploads/2016/07/92.png" group-title="Adult;Contemporary",CKPC 92.1 Jewel 92
 http://ice5.securenetsystems.net/CKPCFM
 #EXTINF:-1 tvg-logo="http://mbsradio.leanplayer.com/assets/uploads/mbsradio/CKPEFM/Cape_logo.png" group-title="Oldies;Hits",CKPE The Cape 94.9
