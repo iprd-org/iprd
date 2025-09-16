@@ -279,6 +279,8 @@ http://bayshore.leanstream.co/CHGBFM
 http://72.139.27.130:100/broadwave.mp3?src=1&rate=1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Miramichi_Sun_FM.png/200px-Miramichi_Sun_FM.png" group-title="Oldies;Hits",CHHI 95.9 Sun FM
 http://newcap.leanstream.co/CHHIFM
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkSwM0Flvo3Ahk8lXnVVd37ihG3fWnXNwOuA&s" group-title="Christian;Contemporary",CHIC 88.7
+http://198.27.67.180:8002/;
 #EXTINF:-1 tvg-logo="http://www.cnv.ca/images/CNV-MiniLogoEntete%20copy.png" group-title="Electronic;Lounge",Chill 365
 http://xlnetwork.info:9998/;stream/1
 #EXTINF:-1 tvg-logo="https://cdn-images.audioaddict.com/2/9/0/1/e/f/2901ef5c923bb0f9ff856ac4007975f0.jpg" group-title="Tropical;House",Chill & Tropical House
@@ -443,6 +445,8 @@ https://5b4aa1d044c5b.streamlock.net/ciam-live/ciamfv.stream/playlist.m3u8
 http://ice23.securenetsystems.net/CIAO
 #EXTINF:-1 tvg-logo="http://ciaufm.ca/wp-content/uploads/2017/11/cropped-ciau_fm_icon-192x192.png" group-title="French;Community",CIAU 103.1
 http://stream02.ustream.ca:8000/ciau128.mp3
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/QucAV2gRBv.png" group-title="Contemporary;Christian",CIAY 100.7
+https://ais-sa1.streamon.fm/7154_24k.aac/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.radio.orange.com/radios/large_cibl_1015_fm_montreal_qc.png" group-title="French;Community",CIBL 101.5
 http://stream02.ustream.ca:8000/cibl128.mp3
 #EXTINF:-1 tvg-logo="http://www.realcountrybrooks.ca/favicon.ico" group-title="Country;New",CIBQ 105.7 Real Country
@@ -509,6 +513,10 @@ https://harvestersciog.radioca.st/CIOG
 https://hawkstream.mohawkcollege.ca/1/
 #EXTINF:-1 tvg-logo="http://k100.ca/wp-content/uploads/sites/9/2016/08/cropped-K100_NewLogo-270x270.png" group-title="Adult;Contemporary",CIOK 100.5 K-100
 http://mbsradio.leanstream.co/CIOKFM-MP3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/CION_RadioGalilee_logo.png" group-title="Christian;French",CION 90.9
+https://cast1.asurahosting.com/proxy/fondatio/stream2
+#EXTINF:-1 tvg-logo="https://static.tuneyou.com/images/logos/500_500/14/12114/CIOT104.1FM_9.png" group-title="Christian;Contemporary",CIOT 104.1
+https://media.staffcomm.net:8000/;?1758021014433
 #EXTINF:-1 tvg-logo="http://www.o991.ca/favicon.ico" group-title="Top 40;Rock",CIPC O 99.1
 http://stream.statsradio.com:8020/stream
 #EXTINF:-1 tvg-logo="https://1011bigfm.com/wp-content/uploads/sites/16/2018/02/cropped-big1011-logo-512x512.png?w=180" group-title="Oldies;Hits",CIQB Big 101.1
@@ -617,6 +625,8 @@ http://157.obj.netromedia.com/ValleyHeritageRadio/ValleyHeritageRadio/playlist.m
 https://ais-sa1.streamon.fm/7294_48k.aac/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cjiqfm.com/favicon.ico" group-title="Campus;Alternative",CJIQ 88.3 Tri-Cities Alternative
 https://conestoga.leanstream.co/CJIQFM?args=3rdparty_01&starttime=1605211812
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/CJJC_TheRock98five_logo.JPG" group-title="Christian;Contemporary",CJJC 98.5
+http://158.69.146.53:8000/CJJC/aac_high
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/15/CJJJ-FM.png/375px-CJJJ-FM.png" group-title="Campus;Variety",CJJJ CJ 106.5 Assiniboine Community College
 http://ics.assiniboine.net:8000/cj106-mp3
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/WeG0B2PuTgbgeXsmlCWQLLM0-sH5L-obGNzJWYBUKQ_OzCABBV40Qh0Dl56SJWtHsak" group-title="Country;Outlaw",CJJR 93.7 JR Country
