@@ -1,5 +1,5 @@
 {
-  "total_stations": 22505,
+  "total_stations": 22532,
   "total_countries": 228,
   "countries": [
     {
@@ -36,7 +36,7 @@
     },
     {
       "code": "CA",
-      "count": 661
+      "count": 688
     },
     {
       "code": "PL",
@@ -1784,7 +1784,7 @@
     {
       "code": "CA",
       "file": "streams/ca/ca.m3u",
-      "count": 635
+      "count": 662
     },
     {
       "code": "CA",
@@ -2218,119 +2218,131 @@
     }
   ],
   "genre_stats": {
-    "total_unique_genres": 362,
+    "total_unique_genres": 367,
     "top_genres": [
       {
         "name": "(.*)",
-        "count": 37954
+        "count": 37856
       },
       {
         "name": "",
-        "count": 19668
+        "count": 19619
       },
       {
         "name": "news",
-        "count": 544
+        "count": 545
       },
       {
         "name": "talk",
-        "count": 543
+        "count": 544
       },
       {
         "name": "pop",
-        "count": 518
+        "count": 519
       },
       {
         "name": "variety",
-        "count": 478
+        "count": 484
       },
       {
         "name": "hits",
-        "count": 385
+        "count": 386
       },
       {
         "name": "rock",
-        "count": 300
+        "count": 303
       },
       {
         "name": "community",
-        "count": 278
+        "count": 282
       },
       {
         "name": "contemporary",
-        "count": 225
+        "count": 244
       },
       {
         "name": "world",
-        "count": 215
+        "count": 218
       },
       {
         "name": "oldies",
-        "count": 210
+        "count": 215
       },
       {
         "name": "adult",
-        "count": 180
+        "count": 181
       },
       {
         "name": "christian",
-        "count": 143
+        "count": 171
       },
       {
         "name": "top 40",
         "count": 132
       },
       {
+        "name": "religious",
+        "count": 129
+      },
+      {
         "name": "sports",
         "count": 125
       },
       {
-        "name": "religious",
-        "count": 122
-      },
-      {
         "name": "dance",
-        "count": 86
+        "count": 90
       },
       {
         "name": "folk",
         "count": 83
       },
       {
+        "name": "french",
+        "count": 80
+      },
+      {
         "name": "country",
-        "count": 77
+        "count": 79
       },
       {
         "name": "culture",
         "count": 74
       },
       {
-        "name": "french",
-        "count": 73
-      },
-      {
         "name": "ambient",
-        "count": 60
+        "count": 62
       },
       {
         "name": "gospel",
-        "count": 53
+        "count": 55
       },
       {
         "name": "electronic",
-        "count": 51
+        "count": 54
       },
       {
         "name": "alternative",
-        "count": 50
+        "count": 51
       },
       {
         "name": "classical",
-        "count": 49
+        "count": 50
       },
       {
         "name": "80s",
-        "count": 47
+        "count": 49
+      },
+      {
+        "name": "jazz",
+        "count": 43
+      },
+      {
+        "name": "90s",
+        "count": 42
+      },
+      {
+        "name": "new",
+        "count": 42
       },
       {
         "name": "hip hop",
@@ -2341,35 +2353,27 @@
         "count": 41
       },
       {
-        "name": "90s",
-        "count": 41
-      },
-      {
-        "name": "new",
-        "count": 41
-      },
-      {
-        "name": "jazz",
+        "name": "70s",
         "count": 39
       },
       {
-        "name": "70s",
+        "name": "catholic",
         "count": 36
       },
       {
-        "name": "catholic",
-        "count": 34
-      },
-      {
         "name": "blues",
-        "count": 29
+        "count": 31
       },
       {
         "name": "r'n'b",
-        "count": 29
+        "count": 30
       },
       {
         "name": "easy listening",
+        "count": 29
+      },
+      {
+        "name": "house",
         "count": 26
       },
       {
@@ -2381,7 +2385,7 @@
         "count": 25
       },
       {
-        "name": "house",
+        "name": "indie",
         "count": 24
       },
       {
@@ -2389,12 +2393,8 @@
         "count": 24
       },
       {
-        "name": "indie",
-        "count": 23
-      },
-      {
         "name": "60s",
-        "count": 23
+        "count": 24
       },
       {
         "name": "indigenous",
@@ -2409,12 +2409,12 @@
         "count": 20
       },
       {
-        "name": "futebol",
+        "name": "metal",
         "count": 20
       },
       {
-        "name": "metal",
-        "count": 19
+        "name": "futebol",
+        "count": 20
       },
       {
         "name": "baroque",
@@ -2422,5 +2422,5 @@
       }
     ]
   },
-  "updated": "2025-09-10T01:48:01Z"
+  "updated": "2025-09-17T01:47:26Z"
 }
