@@ -215,6 +215,8 @@ http://176.31.118.39:14808/;.mp3
 https://playerservices.streamtheworld.com/api/livestream-redirect/CFTEAMAAC_SC
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/cxbkmxxP4L.jpeg" group-title="French;Sports",CFTX Pop 96.5
 http://icecast-cftx.rncm.ca/cftx.mp3
+#EXTINF:-1 tvg-logo="https://f4.bcbits.com/img/0010728931_10.jpg" group-title="Campus;Variety",CFUR 88.7 University of Northern British Columbia
+https://listen.cfur.ca/aac
 #EXTINF:-1 tvg-logo="http://cfuv.uvic.ca/cms/wp-content/uploads/2014/01/CFUVLogo.jpg" group-title="Campus;Community",CFUV 101.9 University of Victoria
 http://ais-sa1.streamon.fm/7132_64k.aac
 #EXTINF:-1 tvg-logo="http://media.socastsrm.com/uploads/station/299/fbShare.png?r=11905" group-title="Adult;Contemporary",CFVR Mix 103.7
@@ -237,6 +239,8 @@ http://newcap.leanstream.co/CFXJFM
 http://newcap.leanstream.co/CFXLFM-MP3
 #EXTINF:-1 tvg-logo="https://www.m105.ca/favicon.ico" group-title="French;Easy Listening",CFXM 104.9 M 105
 https://playerservices.streamtheworld.com/api/livestream-redirect/CFXMFMAAC_SC
+#EXTINF:-1 tvg-logo="https://ca.radio.net/300/cfxuthefox.png?version=1e459923b88852c67829e94ec3cecc77" group-title="Campus;Community",CFXU 93.3 St. Francis Xavier University
+https://cfxuradio.radioca.st/stream
 #EXTINF:-1 tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/2293/files/2019/03/967boomherologo.png" group-title="Oldies;Hits",CFXW Boom 96.7
 http://newcap.leanstream.co/CFXWFM
 #EXTINF:-1 tvg-logo="https://myradio580.com/wp-content/uploads/2020/06/fevi.png" group-title="Multilingual;Variety",CHAH MyRadio 580am
@@ -327,10 +331,14 @@ http://icecast-chlx.rncm.ca/chlx.aac
 http://icecast-chlx.rncm.ca/chlx.mp3
 #EXTINF:-1 tvg-logo="https://static1.squarespace.com/static/582cd3322994caad8bdc6c11/t/5b3c0442aa4a9983df485061/favicon.ico" group-title="Community;Variety",CHLY 101.7 Vancouver Island University
 http://184.69.114.194:8000/stream.mp3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/58/CHMA-FM_logo.png" group-title="Campus;Variety",CHMA 106.9 Mount Allison University
+https://securestreams6.autopo.st:2111/
 #EXTINF:-1 tvg-logo="https://globalnews.ca/wp-content/themes/shaw-globalnews/_img/pwa/news_square-144.png" group-title="Traffic;Talk",CHMJ 730
 http://live.leanstream.co/CHMJAM
 #EXTINF:-1 tvg-logo="https://www.mountainfm.ca/wp-content/uploads/sites/31/2016/07/cropped-icon-270x270.png" group-title="Adult;Contemporary",CHMN 106.5 Mountain FM
 https://rogers-hls.leanstream.co/rogers/can1065.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.mountainfm.ca/wp-content/uploads/sites/31/2016/07/cropped-icon-270x270.png" group-title="Campus;Community",CHMR 93.5 Memorial University of Newfoundland
+http://192.99.14.49:9005/live128
 #EXTINF:-1 tvg-logo="http://d2x3wmakafwqf5.cloudfront.net/uploads/station/290/squareIcon.png?r=13278" group-title="Adult;Contemporary",CHMX My 92.1
 http://ais-sa1.streamon.fm/7257_64k.aac
 #EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/185eb3c7-aba9-4bbc-8068-bd00d0222e06/dcb34d58-260e-4d64-aaf9-5615319244ee.jpg" group-title="Community;Variety",CHMZ 98.9 Tuff City Radio
@@ -555,6 +563,8 @@ https://rogers-hls.leanstream.co/rogers/win921.stream/playlist.m3u8
 http://live.citr.ca:8000/live.mp3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6a/CIUT_logo.png" group-title="Campus;Variety",CIUT 89.5
 https://ice23.securenetsystems.net/CIUT?playSessionID=1DBBC858-E044-417E-A879F4907537C4BA
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1Jyb_uuLr0XsTHyVFIHJuaZcYiX4ff0LPGw&s" group-title="Campus;Variety",CIVL 101.7 University of the Fraser Valley
+https://live.civl.ca:8000/live.mp3
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s304504/images/logog.png?t=1" group-title="Adult;Contemporary",CIWV WAVE.FM 98.3 
 https://playerservices.streamtheworld.com/api/livestream-redirect/CIWVFM_SC
 #EXTINF:-1 tvg-logo="https://www.vmcdn.ca/files/ui/rogers/at.png" group-title="News;Talk",CIWW CityNews
@@ -723,6 +733,8 @@ https://shinefm.streamguys1.com/cjry?aw_0_req.gdpr=true&us_privacy=1YNN
 http://dns4.83north.ca:8000/cjsb.mp3
 #EXTINF:-1 tvg-logo="http://www.rock94.com/img/favicon/apple-touch-icon.png" group-title="Rock;Hits",CJSD 94.3 Rock 94
 http://ais-sa1.streamon.fm/7097_32k.aac
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nG4SRy_Nx6hVonTUSmEZ_qisdh9TE0CNSQBPY3Pqnu2Xg=s900-c-k-c0x00ffffff-no-rj" group-title="Community;Variety",CJSF 90.1 Simon Fraser University
+https://www.cjsf.ca/streaming
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/CJSI-FM_88-9_Shine_FM_logo.png" group-title="Contemporary;Christian",CJSI Shine 88.9
 https://ais-sa1.streamon.fm/7262_32k.aac/playlist.m3u8?NoPreroll=true&starttime=1&esPlayer&cb=453636.m4a
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b0/CJWF_windsorscountry95.9-92.7_logo.png" group-title="Country;New",CJSP/CJWF Windsor's Country 95.9/92.7
@@ -735,9 +747,9 @@ http://ais-sa1.streamon.fm/7093_24k.aac
 http://live.leanstream.co/CJSSFM-MP3
 #EXTINF:-1 tvg-logo="https://www.radioclassique.ca/upload/design/5d1cc4fcaad749.59987287.png" group-title="French;Classical",CJSQ 92.7 Radio Classique 
 https://listen.radioking.com/radio/256885/stream/301510
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/CJSR_Red_Logo.png" group-title="Campus;Community",CJSR 88.5 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/CJSR_Red_Logo.png" group-title="Campus;Community",CJSR 88.5 University of Alberta
 https://ais-sa1.streamon.fm/7093_24k.aac/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://admin.cjsw.com/wp-content/uploads/2025/02/Logo_Oval_BW.png" group-title="Campus;Community",CJSW 90.9 
+#EXTINF:-1 tvg-logo="https://admin.cjsw.com/wp-content/uploads/2025/02/Logo_Oval_BW.png" group-title="Campus;Community",CJSW 90.9 University of Calgary
 https://cjsw.leanstream.co/CJSWFM
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ad/KFM-Internet-black.jpg" group-title="Christian;Contemporary",CJTK 103.5 
 https://us2.streamingpulse.com/ssl/KFM
@@ -815,6 +827,8 @@ http://live.leanstream.co/CKDJFM-MP3?tunein
 http://live.leanstream.co/CKDKFM-MP3
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/cdLbEVWuyX.png" group-title="Oldies;Hits",CKDO 1580/107.7
 https://playerservices.streamtheworld.com/api/livestream-redirect/CKDOFMAAC_SC
+#EXTINF:-1 tvg-logo="https://ca.radio.net/300/ckdu.png?version=6f89ee54b04cc0dcd0dc7b2927383d0e" group-title="Campus;Variety",CKDU 88.1 Dalhousie University
+https://archive1.ckdu.ca:9750/ckdu_1_on_air_low.mp3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/CKDQ_New_Country_92.5_Logo.png" group-title="Country;New",CKDQ 92.5
 https://stingray.leanstream.co/CKDQAM
 #EXTINF:-1 tvg-logo="http://www.ckdr.net/favicon.ico" group-title="Adult;Contemporary",CKDR 92.7
@@ -993,6 +1007,8 @@ http://live.leanstream.co/CKUEFM
 http://live.leanstream.co/CKUEF2
 #EXTINF:-1 tvg-logo="http://media.socastsrm.com/wordpress/wp-content/blogs.dir/1000/files/2017/08/mix965herologoV6.png" group-title="Adult;Contemporary",CKUL Mix 96.5
 http://newcap.leanstream.co/CKULFM
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/CKUM-FM.png" group-title="Campus;Community",CKUM 93.5 Universite de Moncton
+https://stream2.statsradio.com:8054/stream
 #EXTINF:-1 tvg-logo="http://ckuw.ca/assets/img/ckuw_2014.png" group-title="Community;Variety",CKUW 95.9 University of Winnipeg
 http://shout.mtl.gameservers.com:9025/
 #EXTINF:-1 tvg-logo="http://www.country106.ca/favicon.ico" group-title="Country;New",CKVG Country 106.5
@@ -1025,7 +1041,7 @@ http://newcap.leanstream.co/CKXGFM
 http://ice23.securenetsystems.net/CKXM
 #EXTINF:-1 tvg-logo="http://ckxsfm.com/wp-content/uploads/2016/09/ckxs-991-logo6.png" group-title="Variety;Hits",CKXS 99.1
 http://ice9.securenetsystems.net/CKXSFM
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEOWQRqDw3A-lj6FkVL7G39Os8DQybV7piYw&s" group-title="Campus;Community",CKXU 88.3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEOWQRqDw3A-lj6FkVL7G39Os8DQybV7piYw&s" group-title="Campus;Community",CKXU 88.3 University of Lethbridge
 https://stream.ckxu.com/listen/ckxu_radio_station/radio.mp3
 #EXTINF:-1 tvg-logo="http://www.k-rock1039.com/favicon.ico" group-title="Oldies;Rock",CKXX 103.9 K Rock
 http://newcap.leanstream.co/CKXXFM
