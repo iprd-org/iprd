@@ -235,6 +235,8 @@ http://icecast-cftx.rncm.ca/cftx.mp3
 https://listen.cfur.ca/aac
 #EXTINF:-1 tvg-logo="http://cfuv.uvic.ca/cms/wp-content/uploads/2014/01/CFUVLogo.jpg" group-title="Campus;Community",CFUV 101.9 University of Victoria
 http://ais-sa1.streamon.fm/7132_64k.aac
+#EXTINF:-1 tvg-logo="https://ca.radio.net/300/cfuz-peach-city-radio.png?version=efb1011e0b285b5222a3fde663b1dd6a" group-title="Community;Variety",CFUZ 92.9
+http://167.114.11.80:5073/peachcityradio
 #EXTINF:-1 tvg-logo="http://media.socastsrm.com/uploads/station/299/fbShare.png?r=11905" group-title="Adult;Contemporary",CFVR Mix 103.7
 http://ais-sa1.streamon.fm/7253_64k.aac
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Hot_Country_93.9_logo.png" group-title="Country;New",CFWC 93.9
@@ -279,6 +281,8 @@ http://stream.statsradio.com:8016/stream
 http://mbsradio.leanstream.co/CHERFM-MP3
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/dd31e6_23b129ebb50046a299120347141b26f7~mv2.jpg/v1/fill/w_189,h_153,al_c,q_80,usm_0.66_1.00_0.01/dd31e6_23b129ebb50046a299120347141b26f7~mv2.jpg" group-title="Community;Variety",CHES 91.7 Erin Radio
 http://streaming.radio.co/saa34f11f4/listen
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/42/c9/42c928525fe4bb3d826b5e88a6639fd1.png" group-title="Community;Campus",CHET 94.5
+https://streaming.peacefm.ca/radio
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/1061CHEZ_newlogo.jpg/250px-1061CHEZ_newlogo.jpg" group-title="Rock;Hits",CHEZ 106.1
 https://rogers-hls.leanstream.co/rogers/ott1061.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.creeradio.com/media/rokgallery/7/78d5abca-22c5-483c-abbb-d11eb28684c7/0cb63694-e6e5-4a93-e152-304c4374c68d.gif" group-title="Indigenous;Community",CHFG 101.1 Cree Radio
@@ -1033,6 +1037,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/CKTBAMAAC_SC
 http://ais-sa1.streamon.fm/7238_48k.aac
 #EXTINF:-1 tvg-logo="http://957thewolf.ca/templates/95.7thewolf/images/logo.png" group-title="Rock;Blues",CKTP 95.7 The Wolf
 http://149.56.234.138:8173/stream
+#EXTINF:-1 tvg-logo="https://cortesradio.ca/wp-content/uploads/2022/01/cropped-CKTZ-LOGO-512-x-512-website-banner.png" group-title="Community;Variety",CKTZ 89.5
+https://s5.voscast.com:8219/stream.mp3
 #EXTINF:-1 tvg-logo="https://ckua.com/wp-content/themes/ckua/assets/img/logo-mobile-dark.svg" group-title="Community;Variety",CKUA 94.9 Radio Network
 https://ais-sa1.streamon.fm/7000_48k.aac
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/CKUE_COOL95.1_logo.png" group-title="Oldies;Hits",CKUE Cool 95.1
