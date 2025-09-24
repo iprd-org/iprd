@@ -1,5 +1,5 @@
 {
-  "total_stations": 22532,
+  "total_stations": 22661,
   "total_countries": 228,
   "countries": [
     {
@@ -16,7 +16,7 @@
     },
     {
       "code": "FR",
-      "count": 1451
+      "count": 1534
     },
     {
       "code": "GR",
@@ -36,7 +36,7 @@
     },
     {
       "code": "CA",
-      "count": 688
+      "count": 734
     },
     {
       "code": "PL",
@@ -1504,7 +1504,7 @@
     {
       "code": "FR",
       "file": "streams/fr/fr_nrjgroup.m3u",
-      "count": 166
+      "count": 251
     },
     {
       "code": "FR",
@@ -1514,7 +1514,7 @@
     {
       "code": "FR",
       "file": "streams/fr/fr_blackbox.m3u",
-      "count": 9
+      "count": 7
     },
     {
       "code": "FR",
@@ -1784,7 +1784,7 @@
     {
       "code": "CA",
       "file": "streams/ca/ca.m3u",
-      "count": 662
+      "count": 708
     },
     {
       "code": "CA",
@@ -2222,11 +2222,11 @@
     "top_genres": [
       {
         "name": "(.*)",
-        "count": 37856
+        "count": 37522
       },
       {
         "name": "",
-        "count": 19619
+        "count": 19701
       },
       {
         "name": "news",
@@ -2242,23 +2242,23 @@
       },
       {
         "name": "variety",
-        "count": 484
+        "count": 502
       },
       {
         "name": "hits",
         "count": 386
       },
       {
+        "name": "community",
+        "count": 309
+      },
+      {
         "name": "rock",
         "count": 303
       },
       {
-        "name": "community",
-        "count": 282
-      },
-      {
         "name": "contemporary",
-        "count": 244
+        "count": 245
       },
       {
         "name": "world",
@@ -2266,7 +2266,7 @@
       },
       {
         "name": "oldies",
-        "count": 215
+        "count": 216
       },
       {
         "name": "adult",
@@ -2278,7 +2278,7 @@
       },
       {
         "name": "top 40",
-        "count": 132
+        "count": 133
       },
       {
         "name": "religious",
@@ -2289,6 +2289,10 @@
         "count": 125
       },
       {
+        "name": "french",
+        "count": 91
+      },
+      {
         "name": "dance",
         "count": 90
       },
@@ -2297,12 +2301,8 @@
         "count": 83
       },
       {
-        "name": "french",
-        "count": 80
-      },
-      {
         "name": "country",
-        "count": 79
+        "count": 81
       },
       {
         "name": "culture",
@@ -2322,6 +2322,10 @@
       },
       {
         "name": "alternative",
+        "count": 52
+      },
+      {
+        "name": "campus",
         "count": 51
       },
       {
@@ -2381,7 +2385,7 @@
         "count": 26
       },
       {
-        "name": "campus",
+        "name": "indigenous",
         "count": 25
       },
       {
@@ -2395,10 +2399,6 @@
       {
         "name": "60s",
         "count": 24
-      },
-      {
-        "name": "indigenous",
-        "count": 23
       },
       {
         "name": "esportes",
@@ -2422,5 +2422,5 @@
       }
     ]
   },
-  "updated": "2025-09-17T01:47:26Z"
+  "updated": "2025-09-24T01:49:59Z"
 }
