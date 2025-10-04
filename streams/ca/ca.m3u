@@ -13,8 +13,6 @@ https://maggie.torontocast.com:2020/stream/100bestbalearictrance
 https://maggie.torontocast.com:2020/stream/100greatestliverock
 #EXTINF:-1 tvg-logo="https://100-greatest-network.torontocast.stream/wp-content/uploads/2021/07/100-GREATEST-80S_LOGO_512-300x300.jpg" group-title="80s;Hits",100 Greatest of The 80s
 https://maggie.torontocast.com:2020/stream/100greatestofthe80s
-#EXTINF:-1 tvg-logo="https://www.680news.com/wp-content/blogs.dir/sites/2/2020/01/16/cropped-680news_nav-1-270x270.png" group-title="Talk;News",680 News
-https://rogers-hls.leanstream.co/rogers/tor680.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://admin.a1chineseradio.ca/wp-content/uploads/2018/04/a1_logo.jpg" group-title="Chinese;World",A1
 http://s2.voscast.com:9530/
 #EXTINF:-1 tvg-logo="https://d1ujqdpfgkvqfi.cloudfront.net/favicon-generator/htdocs/favicons/2021-12-07/ef026f33a0097ace021d216c5f064026.ico.png" group-title="Blues;Soul",A Mississippi Blues
@@ -83,6 +81,8 @@ https://cbcliveradio-lh.akamaihd.net/i/CBCR1_EKW@371992/master.m3u8
 https://cbcliveradio-lh.akamaihd.net/i/CBCR1_MTL@360544/master.m3u8
 #EXTINF:-1 tvg-logo="https://ici.radio-canada.ca/ohdio/assets/pwa/apple-touch-icon-180x180.png" group-title="French;Classical;Alternative",CBOX 102.5 ICI Musique
 https://rcavliveaudio.akamaized.net/hls/live/2006986/M-7OOTT0_OTT/adaptive_128/chunklist_ao.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcGJM1sKRaEiQ6z0g_SeQlHAS4Duh7FRW1mg&s" group-title="Contemporary;Classical;Jazz",CBX 90.9
+https://18303.live.streamtheworld.com/CBXFM_CBC.mp3
 #EXTINF:-1 tvg-logo="https://www.icimusique.ca//Content/_images/icon/ici-musique/asset-icon-apple-touch-60.png" group-title="French;Alternative;Jazz",CBUX 90.9 Ici Musique
 https://rcavliveaudio.akamaized.net/hls/live/2006996/M-7BVAN0_VAN/adaptive_128/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.sportsnet.ca/sn_favicon.ico" group-title="Sports;Talk",CFAC Sportsnet 960
@@ -95,6 +95,8 @@ http://mbsradio.leanstream.co/CFANFM-MP3
 https://playerservices.streamtheworld.com/api/livestream-redirect/CFAXAMAAC_SC
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/CFBO-FM.png" group-title="French;Contemporary",CFBO 90.7
 https://stream2.statsradio.com:8010/stream
+#EXTINF:-1 tvg-logo="https://station-images-prod.radio-assets.com/175/cfbr.png?version=e805337cd1011b4e98cf1ccfbd3e2088" group-title="Active;Rock",CFBR 100.3
+https://24923.live.streamtheworld.com/CFBRFM_ADP/HLS/afce2784-375a-4108-8617-8a3b7df3b198/0/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/609138_6ffccca15cfb4807b3140a5bd5becb7c~mv2.png" group-title="French;Community",CFBS 89.9
 https://stream02.ustream.ca/cfbs128.mp3.m3u
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrt_Kwz5n1tRxRIrKnONkMpQPggcuCSW7HPA&s" group-title="Campus;Community",CFBU 103.7 Brock University
@@ -113,6 +115,8 @@ http://newcap.leanstream.co/CFCWAM
 http://newcap.leanstream.co/CFCWFM
 #EXTINF:-1 tvg-logo="http://cfcy.fm/wp-content/uploads/sites/5/2016/08/CFCY-2.png" group-title="Country;Folk",CFCY 95.1
 http://mbsradio.leanstream.co/CFCYFM-MP3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/CFDV-FM_106.7_Rewind_Radio.webp/323px-CFDV-FM_106.7_Rewind_Radio.webp.png" group-title="Oldies;Hits",CFDV 106.7
+https://stream.jpbgdigital.com/CFDV.m3u8
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/e3/16/e316730f33325f986d61417beb45a30a.jpg" group-title="French;Community",CFED 97.9
 https://stream2.statsradio.com:8056/stream
 #EXTINF:-1 tvg-logo="http://blvd.fm/img/logo-blvd.svg" group-title="French;Alternative;Rock",CFEL 102.1 BLVD FM
@@ -145,6 +149,8 @@ http://stream02.ustream.ca:8000/cfid128.mp3
 http://stream02.ustream.ca:8000/cfim128.mp3
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOc1jwBgSFafKhwv2CLUAdF39kMmNZSOM8zA&s" group-title="French;Community",CFIN 100.5
 https://streaming.cloudmjs.com:8002/cfin.mp3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/CFIT_Air106.1FM_logo.png" group-title="Adult;Contemporary",CFIT Air 106.1
+https://goldenwest.leanstream.co/CFITFM
 #EXTINF:-1 tvg-logo="https://rock95.com/wp-content/themes/child-rock95/images/touch/apple-touch-icon.png" group-title="Rock;Metal",CFJB Rock 95
 https://cob-ais.leanstream.co/CFJBFM-MP3?args=tunein_01
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/JunPbvjq2Y.png" group-title="Hits;Oldies",CFJL Hot 100.5
@@ -167,6 +173,8 @@ http://ice41.securenetsystems.net/CFMB
 http://rawlco.leanstream.co/CFMCFM-MP3
 #EXTINF:-1 tvg-logo="https://cfmf.rocks/wp-content/uploads/2016/11/favicon.png" group-title="French;Community",CFMF 103.1
 http://stream.statsradio.com:8068/stream
+#EXTINF:-1 tvg-logo="https://ca.radio.net/300/cfmg-1049-virgin-radio-edmonton.png?version=828a39f1cae3699490e65b89b618ba66" group-title="Top 40;Hits",CFMG 104.9
+https://playerservices.streamtheworld.com/api/livestream-redirect/CFMGFM_ADP.m3u8
 #EXTINF:-1 tvg-logo="http://static-cdn1.ustream.tv/i/channel/picture/4/1/5/7/4157832/4157832_local_online_badge_1285164021,192x192,r:1.jpg" group-title="Campus;Community",CFMH Local 107.3
 http://cfmh-listen.unbsj.ca:8000/;.mp3
 #EXTINF:-1 tvg-logo="https://rock101.com/wp-content/uploads/sites/22/2018/01/cropped-fm-logos_512x512_rock101.png?w=180" group-title="Hits;Rock",CFMI 101.1 Rock 101
@@ -247,6 +255,8 @@ https://nyc-edge1-entry1.leanstream-hd.com:2113/CFSXAM
 http://176.31.118.39:14808/;.mp3
 #EXTINF:-1 tvg-logo="http://www.tsn.ca/img/tsn/icons/apple-touch-icon-120x120.png" group-title="Sports;Talk",CFTE 1410 TSN
 https://playerservices.streamtheworld.com/api/livestream-redirect/CFTEAMAAC_SC
+#EXTINF:-1 tvg-logo="https://www.680news.com/wp-content/blogs.dir/sites/2/2020/01/16/cropped-680news_nav-1-270x270.png" group-title="Talk;News",CFTR 680 News
+https://rogers-hls.leanstream.co/rogers/tor680.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/cxbkmxxP4L.jpeg" group-title="French;Sports",CFTX Pop 96.5
 http://icecast-cftx.rncm.ca/cftx.mp3
 #EXTINF:-1 tvg-logo="https://f4.bcbits.com/img/0010728931_10.jpg" group-title="Campus;Variety",CFUR 88.7 University of Northern British Columbia
@@ -281,6 +291,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/CFXMFMAAC_SC
 https://cfxuradio.radioca.st/stream
 #EXTINF:-1 tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/2293/files/2019/03/967boomherologo.png" group-title="Oldies;Hits",CFXW Boom 96.7
 http://newcap.leanstream.co/CFXWFM
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7I22O4fAUhvBfg4OFCPEAY3fAVB6o47tR8g&s" group-title="News;Talk",CFYK 98.9
+https://cbcradiolive.akamaized.net/hls/live/2041043/ES_R1MNS/master.m3u8
 #EXTINF:-1 tvg-logo="https://cfyt.ca/wp-content/uploads/2023/09/NewLogo.png" group-title="Community;Contemporary",CFYT 106.9
 https://stream.cfyt.ca/listen/stream/radio.mp3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Mise_%C3%A0_jour_en_2021.png" group-title="French;Community",CHAA 103.3
@@ -315,6 +327,8 @@ https://streaming.peacefm.ca/radio
 https://exploits.radioca.st/evcr/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/1061CHEZ_newlogo.jpg/250px-1061CHEZ_newlogo.jpg" group-title="Rock;Hits",CHEZ 106.1
 https://rogers-hls.leanstream.co/rogers/ott1061.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio6367_1595595356.jpg" group-title="News;Talk",CHFA 90.1
+https://rcavliveaudio.akamaized.net/hls/live/2006949/P-2AEDM0_EDM/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.creeradio.com/media/rokgallery/7/78d5abca-22c5-483c-abbb-d11eb28684c7/0cb63694-e6e5-4a93-e152-304c4374c68d.gif" group-title="Indigenous;Community",CHFG 101.1 Cree Radio
 https://ais-sa1.streamon.fm/7175_24k.aac/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2c/CHFI_98.1CHFI_logo.jpg" group-title="Adult;Contemporary",CHFI 98.1
