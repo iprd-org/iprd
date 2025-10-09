@@ -67,6 +67,8 @@ https://cbcliveradio-lh.akamaihd.net/i/CBCR1_EDM@372985/master.m3u8
 https://cbcliveradio-lh.akamaihd.net/i/CBCR1_MCT@360345/master.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51TUX9Re3BL.png" group-title="News;Talk;Variety",CBCS 99.9 CBC Radio 1
 https://cbcliveradio-lh.akamaihd.net/i/CBCR1_SUD@384513/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/5an6SLv48K.png" group-title="News;Talk",CBCV 90.5
+https://cbcradiolive.akamaized.net/hls/live/2041051/ES_R1PVI/master.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe6TSC2QqLcsQpsBJGGtaKfEw7Wx58BMAI6A&s" group-title="Jazz;Classical",CBCX 89.7
 https://rcavliveaudio.akamaized.net/hls/live/2006979/M-7QMTL0_MTL/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Cbc_radio_one_windsor.svg/1024px-Cbc_radio_one_windsor.svg.png" group-title="News;Talk",CBEW 97.5 CBC Radio 1
@@ -81,10 +83,18 @@ https://cbcliveradio-lh.akamaihd.net/i/CBCR1_EKW@371992/master.m3u8
 https://cbcliveradio-lh.akamaihd.net/i/CBCR1_MTL@360544/master.m3u8
 #EXTINF:-1 tvg-logo="https://ici.radio-canada.ca/ohdio/assets/pwa/apple-touch-icon-180x180.png" group-title="French;Classical;Alternative",CBOX 102.5 ICI Musique
 https://rcavliveaudio.akamaized.net/hls/live/2006986/M-7OOTT0_OTT/adaptive_128/chunklist_ao.m3u8
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/c1/53/c153cf0901e0ed0b76225e3789770f78.jpg" group-title="News;Talk",CBTK 88.9
+https://cbcradiolive.akamaized.net/hls/live/2041047/ES_R1PKE/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7I22O4fAUhvBfg4OFCPEAY3fAVB6o47tR8g&s" group-title="News;Talk",CBU 88.1
+https://cbcradiolive.akamaized.net/hls/live/2041050/ES_R1PVC/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.tuneyou.com/images/logos/500_500/20/4720/CBUFFMPremiereColombieBritannique97.7FM.png" group-title="News;Talk",CBUF 97.7
+https://rcavliveaudio.akamaized.net/hls/live/2006975/P-2BVAN0_VAN/master.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcGJM1sKRaEiQ6z0g_SeQlHAS4Duh7FRW1mg&s" group-title="Contemporary;Classical;Jazz",CBX 90.9
 https://18303.live.streamtheworld.com/CBXFM_CBC.mp3
 #EXTINF:-1 tvg-logo="https://www.icimusique.ca//Content/_images/icon/ici-musique/asset-icon-apple-touch-60.png" group-title="French;Alternative;Jazz",CBUX 90.9 Ici Musique
 https://rcavliveaudio.akamaized.net/hls/live/2006996/M-7BVAN0_VAN/adaptive_128/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/63/c0/63c042fd7ecc4575e1557ef165b0610c.jpg" group-title="News;Talk",CBYK 94.1
+https://cbcradiolive.akamaized.net/hls/live/2041048/ES_R1PKP/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.sportsnet.ca/sn_favicon.ico" group-title="Sports;Talk",CFAC Sportsnet 960
 https://rogers-hls.leanstream.co/rogers/cal960.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a2/CFAK_88.3FM_logo.png" group-title="Campus;Variety",CFAK 88.3 Universite de Sherbrooke
@@ -99,8 +109,12 @@ https://stream2.statsradio.com:8010/stream
 https://24923.live.streamtheworld.com/CFBRFM_ADP/HLS/afce2784-375a-4108-8617-8a3b7df3b198/0/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/609138_6ffccca15cfb4807b3140a5bd5becb7c~mv2.png" group-title="French;Community",CFBS 89.9
 https://stream02.ustream.ca/cfbs128.mp3.m3u
+#EXTINF:-1 tvg-logo="https://ca.radio.net/300/cfbt-945-virgin-radio-vancouver.png?version=d258d787451467cb4f92fbae07437c67" group-title="Top 40;Hits",CFBT 94.5
+https://playerservices.streamtheworld.com/api/livestream-redirect/CFBTFM_ADP.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrt_Kwz5n1tRxRIrKnONkMpQPggcuCSW7HPA&s" group-title="Campus;Community",CFBU 103.7 Brock University
 https://stream2.statsradio.com:8160/stream
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/CFBV_870AMMoose_logo.png" group-title="Variety;Hits",CFBV 870
+https://vistaradio.streamb.live/SB00077
 #EXTINF:-1 tvg-logo="http://www.bluewaterradio.ca///templates/shape5_vertex/favicon.ico" group-title="Community;Variety",CFBW BWR 91.3
 http://s41.myradiostream.com:29922/listen.mp3
 #EXTINF:-1 tvg-logo="https://cfbxsite.files.wordpress.com/2017/07/cropped-screen-shot-2017-07-27-at-10-12-33-pm2.png?w=200" group-title="Campus;Variety",CFBX 92.5 The X Thompson Rivers University
@@ -283,6 +297,8 @@ http://ais-sa1.streamon.fm/7254_64k.aac
 http://live.leanstream.co/CFWEFM
 #EXTINF:-1 tvg-logo="http://d2x3wmakafwqf5.cloudfront.net/uploads/station/288/home_screen_logo-56afbf945fdd5.jpg" group-title="Rock;Metal",CFWF 104.9 The Wolf
 http://ais-sa1.streamon.fm/7255_64k.aac
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cbc_radio_one_whitehorse.svg/250px-Cbc_radio_one_whitehorse.svg.png" group-title="News;Talk",CFWH 94.5
+https://cbcradiolive.akamaized.net/hls/live/2041052/ES_R1PWH/master.m3u8
 #EXTINF:-1 tvg-logo="https://static1.squarespace.com/static/58a510ccdb29d6a992d21dad/t/5a204514e2c48389be3411a7/1512064285987/small_transparent.png" group-title="Community;Variety",CFWN Northumberland 89.7
 http://northumberland.serverroom.net:8850/listen.pls
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2d/Real_Country_West_Logo.png" group-title="Country;New",CFXE 94.3 Real Country West
