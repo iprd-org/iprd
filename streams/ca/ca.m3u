@@ -141,6 +141,8 @@ http://cassini.shoutca.st:8215/stream
 http://ais-sa1.streamon.fm/7251_64k.aac
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s24837d.png" group-title="University;Variety",CFFF 92.7 Trent Radio
 http://trentradio.ca:8800/hi-fi
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/wF4SZnlPSU8/mqdefault.jpg" group-title="Active;Rock",CFFM 97.5
+https://vistaradio.streamb.live/SB00074
 #EXTINF:-1 tvg-logo="https://www.660citynews.com/wp-content/themes/660news/images/favicon.ico" group-title="News;Talk",CFFR 660 News
 https://rogers-hls.leanstream.co/rogers/cal660.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.tsn.ca/img/tsn/icons/apple-touch-icon-120x120.png" group-title="Sports;Talk",CFGO TSN 1200
@@ -337,6 +339,8 @@ http://newcap.leanstream.co/CHBMFM
 https://rogers-hls.leanstream.co/rogers/edm917.stream/48k/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ca.radio.net/300/chbw-945-rewind-radio.png?version=118fd5250b219b7f81a01cc5f3783fdc" group-title="Oldies;Hits",CHBW 94.5
 https://stream.jpbgdigital.com/CHBW/HEAAC/48k/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC40tTdzqFI7bCedmhC_NV8GM7f77Klw2-Yg&s" group-title="Country;New",CHBZ 104.7
+https://stream.jpbgdigital.com/CHBZ.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/CHCQ_Cool100.1_logo.png" group-title="Country;Folk",CHCQ Cool 100.1
 https://playerservices.streamtheworld.com/api/livestream-redirect/COOLAAC_SC
 #EXTINF:-1 tvg-logo="https://chcr.org/content/images/2025/07/chcrlogo-1.jpg" group-title="Community;Variety",CHCR 102.9
@@ -345,6 +349,8 @@ https://mercury.reliastream.com/proxy/homegro1/live
 http://rogers-hls.leanstream.co:8000/rogers/edm1029.stream/48k/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://radiodilse.files.wordpress.com/2020/09/wire-2020-09-19-at-19-09-10.jpg?w=350&zoom=2" group-title="Punjabi;World",CHDP Radio Dilon Punjabi
 https://cp3.shoutcheap.com:18247/stream
+#EXTINF:-1 tvg-logo="https://ca.radio.net/300/chdr-1029-rewind-radio.png?version=5c8f8e4f9efb4b2a24b19b7f45ab0520" group-title="Oldies;Hits",CHDR 102.9
+https://stream.jpbgdigital.com/CHDR/HEAAC/48k/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://globalnews.ca/wp-content/themes/shaw-globalnews/_img/pwa/news_square-144.png" group-title="News;Talk",CHED 880
 http://live.leanstream.co/CHEDAM
 #EXTINF:-1 tvg-logo="http://o1015.ca//favicon.ico" group-title="French;Contemporary",CHEQ O 101.5
@@ -759,6 +765,10 @@ http://stream.cjam.ca/CJAM-live-256k.mp3
 https://rogers-hls.leanstream.co/rogers/cal969.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/21/CJAS_93.5FM_logo.jpg/250px-CJAS_93.5FM_logo.jpg" group-title="Community;Variety",CJAS 93.5
 https://cjasradio.streamb.live/SB00379
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0Iv_RsLw4zuo3ooxRFUVE4AHrO5B95-MhKQ&s" group-title="Oldies;Hits",CJAT 95.7
+https://vistaradio.streamb.live/SB00388
+#EXTINF:-1 tvg-logo="https://ca.radio.net/300/cjav-933-the-peak.png?version=2ce9f8b8c593d3b33f0cdd78007937cc" group-title="Hits;Contemporary",CJAV 93.3
+https://stream.jpbgdigital.com/CJAV/HEAAC/48k/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.jack969.com/wp-content/uploads/sites/13/2017/02/logo-jack969.png" group-title="Adult;Hits",CJAX Jack 96.9
 https://rogers-hls.leanstream.co/rogers/van969.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk9ETNK9HEIzob2dvyf05BG9uzSvixfxadKQ&s" group-title="Active;Rock",CJAY 92.1
@@ -777,8 +787,12 @@ http://live.leanstream.co/CJBQAM-MP3
 https://stream.jpbgdigital.com/CJBZ/HEAAC/48k/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://sites.mbsradio.com/cjcb/wp-content/uploads/sites/21/2017/02/CJCB_Transparent.png" group-title="Country;Outlaw",CJCB 1270
 http://mbsradio.leanstream.co/CJCBAM-MP3
+#EXTINF:-1 tvg-logo="https://www.radio.net/300/cjci.png?version=f7c39d1580468f92494ee7c4584c321a" group-title="Country;New",CJCI 97.3
+https://vistaradio.streamb.live/SB00040
 #EXTINF:-1 tvg-logo="https://www.sportsnet.ca/sn_favicon.ico" group-title="Sports;Talk",CJCL Sportsnet 590 The Fan
 https://rogers-hls.leanstream.co/rogers/tor590.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTWZ2skIpRQMQH2Rj5UOMjM1XEgb4kaSvXHw&s" group-title="Ethnic;Multicultural",CJCN 91.5
+https://n09.rcs.revma.com/ygxn9vgennruv
 #EXTINF:-1 tvg-logo="http://mbsradio.leanplayer.com/assets/uploads/mbsradio/CJCWAM/CJCW.png" group-title="Adult;Contemporary",CJCW 590
 http://mbsradio.leanstream.co/CJCWAM-MP3
 #EXTINF:-1 tvg-logo="https://preprod-www.cjcyfm.com/wp-content/uploads/sites/65/2018/08/cropped-cjcy-main-logo-500x500-270x270.png" group-title="Adult;Hits",CJCY 102.1
