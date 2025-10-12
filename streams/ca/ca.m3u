@@ -123,6 +123,8 @@ http://198.162.21.84:8002/listen.pls
 http://newcap.leanstream.co/CFCBAM
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/CFCO-AM_new_2008.jpg" group-title="News;Sports;Country",CFCO Country 92.9/630
 http://live.leanstream.co/CFCOFM
+#EXTINF:-1 tvg-logo="https://ca.radio.net/300/cfcp-989-jet-fm.png?version=2b493c8c65bd99d9e0af4b26aa6d4ff2" group-title="Active;Rock",CFCP 98.9
+https://vistaradio.streamb.live/SB00079
 #EXTINF:-1 tvg-logo="http://media.socastsrm.com/uploads/station/754/fbShare.png?r=25597" group-title="Country;Folk",CFCW 840
 http://newcap.leanstream.co/CFCWAM
 #EXTINF:-1 tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/2286/files/2019/03/nc981herologo287x300.png" group-title="Country;New",CFCW 98.1 New Country
@@ -283,6 +285,8 @@ https://nyc-edge1-entry1.leanstream-hd.com:2113/CFSXAM
 http://176.31.118.39:14808/;.mp3
 #EXTINF:-1 tvg-logo="http://www.tsn.ca/img/tsn/icons/apple-touch-icon-120x120.png" group-title="Sports;Talk",CFTE 1410 TSN
 https://playerservices.streamtheworld.com/api/livestream-redirect/CFTEAMAAC_SC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/590-SUMMIT-AM-Terrace-CFTK-AM.webp" group-title="Oldies;Hits",CFTK 590
+https://hel-streamb-relay1.streamb.live/SB00400/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.680news.com/wp-content/blogs.dir/sites/2/2020/01/16/cropped-680news_nav-1-270x270.png" group-title="Talk;News",CFTR 680 News
 https://rogers-hls.leanstream.co/rogers/tor680.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/cxbkmxxP4L.jpeg" group-title="French;Sports",CFTX Pop 96.5
@@ -443,12 +447,16 @@ http://icecast-chlx.rncm.ca/chlx.mp3
 http://184.69.114.194:8000/stream.mp3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/58/CHMA-FM_logo.png" group-title="Campus;Variety",CHMA 106.9 Mount Allison University
 https://securestreams6.autopo.st:2111/
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/e1QqQU_Cp6b-VtwT7XF4fPO_1uBiPbgq1Ehj4Xni4drvoAQleAxagWRE-8okdHWUqNA" group-title="Multicultural;Multilingual",CHMB 1320
+https://n02.radiojar.com/nugqupcv8qzuv.mp3
 #EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-TIXutqLm4kvOazXm-Uw6iEQ-t1080x1080.jpg" group-title="Innu;Community",CHME 94.9
 https://centova.radioservers.biz/proxy/chmeclau/stream;audio.mp3
 #EXTINF:-1 tvg-logo="https://globalnews.ca/wp-content/themes/shaw-globalnews/_img/pwa/news_square-144.png" group-title="Traffic;Talk",CHMJ 730
 http://live.leanstream.co/CHMJAM
 #EXTINF:-1 tvg-logo="https://radios-quebec.com/wp-content/uploads/logo-chmk-93-1-fm-en-direct.png" group-title="Community;Indigenous",CHMK 93.1
 https://s33.myradiostream.com:15364/listen.mp3
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/jbgbfdeuejgc.gif" group-title="Community;Variety",CHMM 103.5
+https://shaincast.caster.fm:32168/listen.mp3?authn4eeb4c248d9b5598affab1a64d3ec9bf
 #EXTINF:-1 tvg-logo="https://www.mountainfm.ca/wp-content/uploads/sites/31/2016/07/cropped-icon-270x270.png" group-title="Adult;Contemporary",CHMN 106.5 Mountain FM
 https://rogers-hls.leanstream.co/rogers/can1065.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.mountainfm.ca/wp-content/uploads/sites/31/2016/07/cropped-icon-270x270.png" group-title="Campus;Community",CHMR 93.5 Memorial University of Newfoundland
@@ -467,6 +475,8 @@ http://newcap.leanstream.co/CHNOFM
 http://mbsradio.leanstream.co/CHNSFM-MP3
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2xmmitVfjsbnfQpVYNVrg0f4tC1_Ovmdthg&s" group-title="Community;Indigenous",CHNT 92.3
 https://stream.zoneplus.ca/9302/;
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/CHNV_theBRIDGE103.5_logo.png" group-title="Alternative;Rock",CHNV 103.5
+https://vistaradio.streamb.live/SB00086
 #EXTINF:-1 tvg-logo="https://choc887.com/Graph/favicon.ico" group-title="French;Hits",CHOC 88.7
 https://stream2.statsradio.com:8110/stream
 #EXTINF:-1 tvg-logo="https://www.fm921.ca/upload/design/5c9bbca66daff4.34114020.png" group-title="French;Community",CHOD 92.1
