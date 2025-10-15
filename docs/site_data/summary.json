@@ -1,5 +1,5 @@
 {
-  "total_stations": 22749,
+  "total_stations": 22796,
   "total_countries": 228,
   "countries": [
     {
@@ -27,12 +27,12 @@
       "count": 877
     },
     {
-      "code": "RU",
-      "count": 841
+      "code": "CA",
+      "count": 869
     },
     {
-      "code": "CA",
-      "count": 822
+      "code": "RU",
+      "count": 841
     },
     {
       "code": "MX",
@@ -2169,7 +2169,7 @@
     {
       "code": "CA",
       "file": "streams/ca/ca.m3u",
-      "count": 796
+      "count": 843
     },
     {
       "code": "VE",
@@ -2230,11 +2230,11 @@
       },
       {
         "name": "news",
-        "count": 549
+        "count": 556
       },
       {
         "name": "talk",
-        "count": 546
+        "count": 553
       },
       {
         "name": "pop",
@@ -2242,27 +2242,27 @@
       },
       {
         "name": "variety",
-        "count": 512
+        "count": 514
       },
       {
         "name": "hits",
-        "count": 399
+        "count": 417
       },
       {
         "name": "community",
-        "count": 362
+        "count": 363
       },
       {
         "name": "rock",
-        "count": 306
+        "count": 313
       },
       {
         "name": "contemporary",
-        "count": 252
+        "count": 257
       },
       {
         "name": "oldies",
-        "count": 221
+        "count": 235
       },
       {
         "name": "world",
@@ -2270,19 +2270,19 @@
       },
       {
         "name": "adult",
-        "count": 189
+        "count": 194
       },
       {
         "name": "christian",
-        "count": 172
+        "count": 173
       },
       {
         "name": "top 40",
-        "count": 137
+        "count": 138
       },
       {
         "name": "religious",
-        "count": 130
+        "count": 131
       },
       {
         "name": "sports",
@@ -2294,7 +2294,7 @@
       },
       {
         "name": "country",
-        "count": 91
+        "count": 97
       },
       {
         "name": "dance",
@@ -2321,12 +2321,16 @@
         "count": 54
       },
       {
+        "name": "alternative",
+        "count": 54
+      },
+      {
         "name": "classical",
         "count": 53
       },
       {
-        "name": "alternative",
-        "count": 53
+        "name": "new",
+        "count": 52
       },
       {
         "name": "campus",
@@ -2338,10 +2342,6 @@
       },
       {
         "name": "jazz",
-        "count": 46
-      },
-      {
-        "name": "new",
         "count": 46
       },
       {
@@ -2422,5 +2422,5 @@
       }
     ]
   },
-  "updated": "2025-10-08T01:49:07Z"
+  "updated": "2025-10-15T01:53:55Z"
 }
