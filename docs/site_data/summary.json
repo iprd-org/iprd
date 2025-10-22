@@ -1,5 +1,5 @@
 {
-  "total_stations": 22796,
+  "total_stations": 22827,
   "total_countries": 228,
   "countries": [
     {
@@ -23,12 +23,12 @@
       "count": 1026
     },
     {
-      "code": "IT",
-      "count": 877
+      "code": "CA",
+      "count": 900
     },
     {
-      "code": "CA",
-      "count": 869
+      "code": "IT",
+      "count": 877
     },
     {
       "code": "RU",
@@ -2169,7 +2169,7 @@
     {
       "code": "CA",
       "file": "streams/ca/ca.m3u",
-      "count": 843
+      "count": 874
     },
     {
       "code": "VE",
@@ -2242,27 +2242,27 @@
       },
       {
         "name": "variety",
-        "count": 514
+        "count": 516
       },
       {
         "name": "hits",
-        "count": 417
+        "count": 427
       },
       {
         "name": "community",
-        "count": 363
+        "count": 367
       },
       {
         "name": "rock",
-        "count": 313
+        "count": 315
       },
       {
         "name": "contemporary",
-        "count": 257
+        "count": 266
       },
       {
         "name": "oldies",
-        "count": 235
+        "count": 241
       },
       {
         "name": "world",
@@ -2270,7 +2270,7 @@
       },
       {
         "name": "adult",
-        "count": 194
+        "count": 206
       },
       {
         "name": "christian",
@@ -2278,7 +2278,7 @@
       },
       {
         "name": "top 40",
-        "count": 138
+        "count": 140
       },
       {
         "name": "religious",
@@ -2294,7 +2294,7 @@
       },
       {
         "name": "country",
-        "count": 97
+        "count": 103
       },
       {
         "name": "dance",
@@ -2313,6 +2313,10 @@
         "count": 62
       },
       {
+        "name": "new",
+        "count": 57
+      },
+      {
         "name": "gospel",
         "count": 55
       },
@@ -2327,10 +2331,6 @@
       {
         "name": "classical",
         "count": 53
-      },
-      {
-        "name": "new",
-        "count": 52
       },
       {
         "name": "campus",
@@ -2378,7 +2378,7 @@
       },
       {
         "name": "easy listening",
-        "count": 29
+        "count": 30
       },
       {
         "name": "house",
@@ -2422,5 +2422,5 @@
       }
     ]
   },
-  "updated": "2025-10-15T01:53:55Z"
+  "updated": "2025-10-22T01:57:52Z"
 }
