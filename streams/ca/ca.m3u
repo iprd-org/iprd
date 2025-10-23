@@ -325,6 +325,8 @@ http://live.leanstream.co/CFWEFM
 http://ais-sa1.streamon.fm/7255_64k.aac
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cbc_radio_one_whitehorse.svg/250px-Cbc_radio_one_whitehorse.svg.png" group-title="News;Talk",CFWH 94.5
 https://cbcradiolive.akamaized.net/hls/live/2041052/ES_R1PWH/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ4EwLZs49zg6N_mRWAUeadwaQWZ52PeOALA&s" group-title="Adult;Hits",CFWM 99.9
+https://playerservices.streamtheworld.com/api/livestream-redirect/CFWMFM_ADP.m3u8
 #EXTINF:-1 tvg-logo="https://static1.squarespace.com/static/58a510ccdb29d6a992d21dad/t/5a204514e2c48389be3411a7/1512064285987/small_transparent.png" group-title="Community;Variety",CFWN Northumberland 89.7
 http://northumberland.serverroom.net:8850/listen.pls
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2d/Real_Country_West_Logo.png" group-title="Country;New",CFXE 94.3 Real Country West
@@ -541,6 +543,8 @@ https://ozfm.streamb.live/SB00174?ver=764874
 https://radio.mcson.org/stream?type=.mp3
 #EXTINF:-1 tvg-logo="https://riviere-la-paix.acfa.ab.ca/wp-content/uploads/2019/05/partenaires_acfa_radio-345x242.jpg" group-title="French;Community",CHPL 92.1
 https://stream2.statsradio.com:8060/stream
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/f0/64/f0640ac283ba8e075762598b810c1757.jpg" group-title="Country;New",CHPO 93.1
+https://goldenwest.leanstream.co/CHPOFM
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/502/chpq-fm-the-lounge-999.0142690b.jpg" group-title="Adult;Hits",CHPQ 99.9
 https://stream.jpbgdigital.com/CHPQ/HEAAC/48k/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ca.radio.net/300/chqc1057fm.png?version=da3b44a3be9ef738d8b12e5cbdeb6e02" group-title="French;Community",CHQC 105.7
@@ -593,6 +597,8 @@ http://ice10.securenetsystems.net/CHSV
 http://ais-sa1.streamon.fm/7236_48k.aac
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/99.1_Coast_FM_logo.png" group-title="Oldies;Hits",CHTK 99.1
 https://vistaradio.streamb.live/SB00402
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-dxOeC0G7a4YB4yqIZG_eKLndKbFmuXQpzA&s" group-title="Adult;Contemporary",CHTM 102.9
+https://us2.maindigitalstream.com/ssl/CHTM
 #EXTINF:-1 tvg-logo="http://media.socastsrm.com/uploads/station/760/home_screen_logo-592ef5c500309.jpg" group-title="Oldies;Hits",CHTN 100.3 Ocean 100
 http://newcap.leanstream.co/CHTNFM
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/pWHuXsDLxm.jpg" group-title="Greek;Talk",CHTO 1690
@@ -703,6 +709,8 @@ https://vistaradio.streamb.live/SB00398
 http://live.leanstream.co/CILQFM
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/84/CILS_RadioVictoria107.9_logo.jpg/225px-CILS_RadioVictoria107.9_logo.jpg" group-title="French;Community",CILS 107.9 Radio Victoria
 http://stream2.statsradio.com:8012/stream
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/7MVFGPKGgj.png" group-title="Oldies;Hits",CILT 96.7
+https://goldenwest.leanstream.co/CILTFM
 #EXTINF:-1 tvg-logo="https://lh4.googleusercontent.com/proxy/QOCGihPH8NDZaTNQpWUuyCLS0L-4pzbGp0fxdE2NBhs8cSUCwYnlPbdjEYPWmnyKrAhyvN1k8WiH3LyqKiB19nLjIGFJ42gjP3GqUPZI4TVk4eHPv74" group-title="Campus;Community",CILU 102.7 Lakehead University
 http://luradio-server.lakeheadu.ca:8000/stereo128
 #EXTINF:-1 tvg-logo="http://www.myfmradio.ca/favicon.ico" group-title="Adult;Contemporary",CIMA 92.1 MyFM
@@ -763,6 +771,8 @@ https://churchmedia.ddns.net/Life947/Stream/Life947fm.m3u8
 https://ice9.securenetsystems.net/CIRVFM
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/cf/7e/cf7e9f5413bec2f8dc211a566c4f59bc.jpg" group-title="Active;Rock",CIRX 95.9
 https://vistaradio.streamb.live/SB00076
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/b9/12/b9121ae788ebbde6583b554df0681e2e.jpg" group-title="Community;Indigenous",CISB 106.3
+https://cast5.my-control-panel.com/proxy/michell2/live
 #EXTINF:-1 tvg-logo="http://www.pulsefm.ca/wp-content/uploads/2017/11/PulseLogo-home5.png" group-title="Community;Contemporary",CISF 107.7 Pulse FM
 http://ais-sa1.streamon.fm/7217_48k.aac
 #EXTINF:-1 tvg-logo="http://www.sportsnet.ca/wp-content/themes/sportsnet/images/sn_default_logo.gif" group-title="Sports;Talk",CISL Sportsnet 650
