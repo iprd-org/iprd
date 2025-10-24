@@ -837,6 +837,8 @@ http://peridot.streamguys.com:5040/live
 http://stream.cjam.ca/CJAM-live-256k.mp3
 #EXTINF:-1 tvg-logo="https://www.jack969.ca/wp-content/uploads/sites/11/2017/02/logo-jack969.png" group-title="Adult;Hits",CJAQ Jack 96.9
 https://rogers-hls.leanstream.co/rogers/cal969.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://thepasonline.com/images/fb_icon.jpg" group-title="Adult;Contemporary",CJAR 102.9
+https://us2.maindigitalstream.com/ssl/CJAR
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/21/CJAS_93.5FM_logo.jpg/250px-CJAS_93.5FM_logo.jpg" group-title="Community;Variety",CJAS 93.5
 https://cjasradio.streamb.live/SB00379
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0Iv_RsLw4zuo3ooxRFUVE4AHrO5B95-MhKQ&s" group-title="Oldies;Hits",CJAT 95.7
@@ -855,6 +857,8 @@ https://stream2.statsradio.com:8126/stream
 http://ca5.rcast.net:8066/listen.pls
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d9/CJBK_1290_AM.png" group-title="News;Talk",CJBK News/Talk 1290
 https://playerservices.streamtheworld.com/api/livestream-redirect/CJBKAMAAC_SC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/CJBP_CJ97.1_logo.jpg" group-title="Country;New",CJBP 97.1
+http://dns4.83north.ca:8000/cjbp.mp3
 #EXTINF:-1 tvg-logo="http://www.cjbq.com/favicon.ico" group-title="Country;Oldies",CJBQ 800
 http://live.leanstream.co/CJBQAM-MP3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/be/CJBZ_B-93.3_logo.png" group-title="Adult;Hits",CJBZ 93.3
@@ -879,6 +883,8 @@ http://live.leanstream.co/CJDVFM-MP3
 http://streaming.cjec.leclerccommunication.ca:8000/cjec.mp3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f1/CJEG_HOT101.3_logo.png" group-title="Hits;Top 40",CJEG Kool 101.3 FM
 http://newcap.leanstream.co/CJEGFM
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/8SQ5XBhzVR.png" group-title="Adult;Contemporary",CJEL 93.5
+https://goldenwest.leanstream.co/goldenwest/CJELFM.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/405530_676937fcb7ff45d8a81da8e66c0d4cce%7Emv2.jpg" group-title="French;Youth",CJEU 1670 Radio Jeunesse
 http://icecastrjca.ddns.net:8000/cjeu
 #EXTINF:-1 tvg-logo="https://ca.radio.net/300/cjfo-unique-fm.jpeg?version=f9f98bd539426bd40e660ac6cebc1959" group-title="French;Community",CJFO 94.5
@@ -901,6 +907,8 @@ https://ais-sa1.streamon.fm/7226_48k.aac/playlist.m3u8
 http://157.obj.netromedia.com/ValleyHeritageRadio/ValleyHeritageRadio/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media.socastsrm.com/uploads/station/569/squareIcon.png?r=41901" group-title="Adult;Hits",CJIB 107.5 Beach Radio
 https://ais-sa1.streamon.fm/7294_48k.aac/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/16/b3/16b31de911392b4693abf76ba479d46a.jpg" group-title="Country;Pop",CJIE 107.5
+http://dns5.83north.ca:8000/cjie.mp3
 #EXTINF:-1 tvg-logo="https://www.cjiqfm.com/favicon.ico" group-title="Campus;Alternative",CJIQ 88.3 Tri-Cities Alternative
 https://conestoga.leanstream.co/CJIQFM?args=3rdparty_01&starttime=1605211812
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/CJJC_TheRock98five_logo.JPG" group-title="Christian;Contemporary",CJJC 98.5
@@ -981,6 +989,8 @@ http://live.leanstream.co/CJOTFM-MP3
 http://live.leanstream.co/CJOYAM
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/xSLFsBj2gR.png" group-title="Community;Variety",CJPE 99.3 County FM
 https://streaming.county.fm:8000/radio.acc
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/Da7RqnnqFS.png" group-title="Oldies;Hits",CJPG 96.5
+https://goldenwest.leanstream.co/CJPGFM
 #EXTINF:-1 tvg-logo="http://www.realcountrysouthwest.ca/favicon.ico" group-title="Country;New",CJPR 94.9 Real Country Southwest
 http://newcap.leanstream.co/CJPRFM-MP3
 #EXTINF:-1 tvg-logo="https://www.wknd.fm/img/logo-wknd.png" group-title="French;Rock",CJPX 99.5
