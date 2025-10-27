@@ -41,6 +41,10 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/TV_BNNAAC_SC
 http://camoesradio.out.airtime.pro:8000/camoesradio_a#.mp3
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMDMSKcxKMtbBvipVj8VscZN6vc1XOANjt5Q&s" group-title="French;News;Audiobooks",Canal M
 http://cad.casthost.ca:8038/stream
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/00/58/0058e254f92719d02c9a3f0b8835c922.png" group-title="French;News;Talk",CBAF 88.5
+https://rcavliveaudio.akamaized.net/hls/live/2006952/P-2EMCT0_MCT/master.m3u8
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/03/1d/031dbf191af9f0b751c8c0dc95e2faeb.png" group-title="Jazz;Classical",CBAL 98.3
+https://rcavliveaudio.akamaized.net/hls/live/2006980/M-7EMCT0_MCT/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.cbc.ca/1.4066392.1500303304!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/cbc-logo-horizontal.jpg" group-title="News;Talk",CBAM 106.1 CBC Radio 1
 https://cbcliveradio-lh.akamaihd.net/i/CBCR1_MCT@360345/master.m3u8
 #EXTINF:-1 tvg-logo="http://images.cbcmusic.ca/v1/cbc-music/programs/1x1/default-share.png" group-title="Alternative;Classical",CBC Music Winnipeg
@@ -97,6 +101,8 @@ https://cbcliveradio2-lh.akamaihd.net/i/CBCR2_EDM@48972/master.m3u8
 https://cbcradiolive.akamaized.net/hls/live/2041049/ES_R1PPR/master.m3u8
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/63/c0/63c042fd7ecc4575e1557ef165b0610c.jpg" group-title="News;Talk",CBYK 94.1
 https://cbcradiolive.akamaized.net/hls/live/2041048/ES_R1PKP/master.m3u8
+#EXTINF:-1 tvg-logo="https://lh5.googleusercontent.com/proxy/uaVjfN77dcEQnLBWSGMPRNn2zu7N5J-uwZUWu3aaEcISl98HNT_scemSTHP2EafyNO5ocrVTYBfewb52Ain7yPC9SqKInnpr5_ZFKn48k2FIvg" group-title="News;Talk",CBZF 99.5
+https://cbcradiolive.akamaized.net/hls/live/2040986/ES_R1AFR/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.sportsnet.ca/sn_favicon.ico" group-title="Sports;Talk",CFAC Sportsnet 960
 https://rogers-hls.leanstream.co/rogers/cal960.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a2/CFAK_88.3FM_logo.png" group-title="Campus;Variety",CFAK 88.3 Universite de Sherbrooke
@@ -1463,6 +1469,8 @@ https://rogers-hls.leanstream.co/rogers/van1130.stream/playlist.m3u8
 http://newcap.leanstream.co/CKWYFM
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/MEcfxnVTrC.png" group-title="Adult;Hits",CKX 96.1
 https://18863.live.streamtheworld.com/CKXFM_ADP/HLS/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/CKXA-FM.png" group-title="Country;News",CKXA 101.1
+https://18863.live.streamtheworld.com/CKXAFM_ADP/HLS/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.987krock.com/favicon.ico" group-title="Rock;Oldies",CKXD 98.7 K Rock
 http://newcap.leanstream.co/CKXDFM
 #EXTINF:-1 tvg-logo="http://www.krocknl.com/favicon.ico" group-title="Rock;Oldies",CKXG 102.3 K-Rock
@@ -1781,6 +1789,8 @@ http://bluford.torontocast.com:8006/autodj
 http://prem1.di.fm/trance_hi?b1e8ab696a279ebb68c48cab
 #EXTINF:-1 tvg-logo="https://www.truckstopquebec.com/wp-content/uploads/2014/01/tsqapp.png" group-title="French;Variety",Truck Stop Quebec
 http://canada1.reliastream.com:8052/live
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/31/20/3120ebffa3debc2afdda0d892e3ba7aa.png" group-title="Multicultural;Multilingual",U Radio Canada
+https://streams.radio.co/sb7c86eb95/listen
 #EXTINF:-1 tvg-logo="https://www.wavesofpower.com/wp-content/uploads/2019/03/Logo_vallamai.png" group-title="Tamil;Gospel",Vallamaiyin Alaikal Waves of Power
 http://radio.pixelinmedia.com/vallamai
 #EXTINF:-1 tvg-logo="https://cdn-images.audioaddict.com/8/5/a/1/3/b/85a13bb220281bf22bf04d4f1f778b59.png" group-title="House;Vocal",Vocal House
