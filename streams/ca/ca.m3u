@@ -921,7 +921,6 @@ http://mbsradio.leanstream.co/CJCBAM-MP3
 https://vistaradio.streamb.live/SB00088
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3eL4Uoj7gU1UeZKVh8DwvGtHEpcmcNxGKmA&s" group-title="Top 40;Hits",CJCH 101.3
 https://22223.live.streamtheworld.com/CJCHFM_ADP/HLS/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.radio.net/300/cjci.png?version=f7c39d1580468f92494ee7c4584c321a" group-title="Country;New",CJCI 97.3
 https://vistaradio.streamb.live/SB00040
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Wave-woodstock.jpg" group-title="Oldies;Hits",CJCJ 104.1
@@ -952,6 +951,8 @@ http://icecastrjca.ddns.net:8000/cjeu
 https://stream2.statsradio.com:8038/stream
 #EXTINF:-1 tvg-logo="https://online-radio-canada.com/storage/radios/6875/79095/conversions/0SgsJqYPRUXz2tKETRAQOIUGxBNBnC-metaMTAzMV90aGVfcml2ZXIuanBn--lg.webp" group-title="Country;New",CJFW 103.1
 https://vistaradio.streamb.live/SB00401
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/CJFX_989XFM_logo.jpg" group-title="Adult;Contemporary",CJFX 98.9
+https://edge.mixlr.com/channel/zwjte
 #EXTINF:-1 tvg-logo="https://ca.radio.net/300/cjfy-life-965-fm.png?version=5da46df09f59ca12bc123c7f67b53b6d" group-title="Contemporary;Christian",CJFY 96.5
 https://liferadio.streamb.live/SB00249
 #EXTINF:-1 tvg-logo="http://www.myfmradio.ca/myfmradio.ca.hyperesources/ganaoque%201.png" group-title="Adult;Contemporary",CJGM 99.9 myFM
@@ -1290,6 +1291,10 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/CKHAFMAAC_SC
 http://live.leanstream.co/CKHCFM
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/CKHJ.png" group-title="Country;New",CKHJ 103.5
 https://29243.live.streamtheworld.com/CKHJAM_ADP/HLS/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ0SjK_SFcoSixNXFL1DBIRqHE7AeZA3TdjA&s" group-title="Active;Rock",CKHY 105.1
+https://ais-sa1.streamon.fm/7737_128k.aac/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/CKHZ-FM_Logo.png" group-title="Country;New",CKHZ 103.5
+https://ais-sa1.streamon.fm/7738_128k.aac/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d1/CKIA_88.3_Radio_Urbaine_logo.jpg" group-title="French;Community",CKIA 88.3
 https://stream2.statsradio.com/8148/stream
 #EXTINF:-1 tvg-logo="http://media.socastsrm.com/uploads/station/311/home_screen_logo-56a79094e41ea.png" group-title="Adult;Contemporary",CKIK KRAZE 101.3
@@ -1486,8 +1491,12 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/CKTBAMAAC_SC
 http://ais-sa1.streamon.fm/7238_48k.aac
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/fFSFBX3wun.png" group-title="Oldies;Hits",CKTK 97.7
 https://vistaradio.streamb.live/SB00403
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Ezrock_ckto.png/250px-Ezrock_ckto.png" group-title="Oldies;Hits",CKTO 100.9
+https://mbsradio-ais.leanstream.co/CKTOFM-MP3
 #EXTINF:-1 tvg-logo="http://957thewolf.ca/templates/95.7thewolf/images/logo.png" group-title="Rock;Blues",CKTP 95.7 The Wolf
 http://149.56.234.138:8173/stream
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT14xs07mi9EPvDtBc3qzSdrW0t4xxxuUtKZg&s" group-title="Country;New",CKTY 99.5
+https://mbsradio-ais.leanstream.co/CKTYFM-MP3
 #EXTINF:-1 tvg-logo="https://cortesradio.ca/wp-content/uploads/2022/01/cropped-CKTZ-LOGO-512-x-512-website-banner.png" group-title="Community;Variety",CKTZ 89.5
 https://s5.voscast.com:8219/stream.mp3
 #EXTINF:-1 tvg-logo="https://ckua.com/wp-content/themes/ckua/assets/img/logo-mobile-dark.svg" group-title="Community;Variety",CKUA 94.9 Radio Network
