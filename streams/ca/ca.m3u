@@ -59,6 +59,8 @@ https://cbcradiolive.akamaized.net/hls/live/2041051/ES_R1PVI/master.m3u8
 https://rcavliveaudio.akamaized.net/hls/live/2006979/M-7QMTL0_MTL/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Saintjohn_cbc_radio_one.svg/250px-Saintjohn_cbc_radio_one.svg.png" group-title="News;Talk",CBD 91.3
 https://cbcradiolive.akamaized.net/hls/live/2040988/ES_R1ASB/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_yqeMhg2IaUYJUuyBrnC9Gs00IMR5H_iiKA&s" group-title="Contemporary;Classical;Jazz",CBE 89.9
+https://cbcradiolive.akamaized.net/hls/live/2041038/ES_R1EWD/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Cbc_radio_one_windsor.svg/1024px-Cbc_radio_one_windsor.svg.png" group-title="News;Talk",CBEW 97.5 CBC Radio 1
 https://cbcliveradio-lh.akamaihd.net/i/CBCR1_WDR@324611/master.m3u8
 #EXTINF:-1 tvg-logo="https://ici.radio-canada.ca/ohdio/assets/pwa/apple-touch-icon-180x180.png" group-title="French;News;Talk",CBF 95.1 ICI Radio-Canada Première
@@ -75,10 +77,14 @@ https://cbcliveradio2-lh.akamaihd.net/i/CBCR2_TOR@382863/master.m3u8
 http://liveradiocanada.cbc.ca/i/CBCR2_TOR@382863/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s12337/images/logod.png?t=637190219570000000" group-title="News;Talk",CBLA-2 89.1 CBC Radio 1
 https://cbcliveradio-lh.akamaihd.net/i/CBCR1_EKW@371992/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/beSSVkXuEz.png" group-title="Contemporary;Classical;Jazz",CBM-FM-3 88.3
+https://cbcradiolive.akamaized.net/hls/live/2040993/ES_R1EIQ/master.m3u8
 #EXTINF:-1 tvg-logo="http://images.cbcmusic.ca/v1/cbc-music/programs/1x1/default-share.png" group-title="News;Talk",CBME 88.5 CBC Radio 1
 https://cbcliveradio-lh.akamaihd.net/i/CBCR1_MTL@360544/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.cbc.ca/1.4066392.1500303304!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/cbc-logo-horizontal.jpg" group-title="News;Talk",CBO 91.5 CBC Radio 1
 https://cbcliveradio-lh.akamaihd.net/i/CBCR1_OTT@348188/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Ottawa_cbc_music.svg/1200px-Ottawa_cbc_music.svg.png" group-title="Contemporary;Classical;Jazz",CBOQ 103.3
+https://cbcradiolive.akamaized.net/hls/live/2041037/ES_R1ETT/master.m3u8
 #EXTINF:-1 tvg-logo="https://ici.radio-canada.ca/ohdio/assets/pwa/apple-touch-icon-180x180.png" group-title="French;Classical;Alternative",CBOX 102.5 ICI Musique
 https://rcavliveaudio.akamaized.net/hls/live/2006986/M-7OOTT0_OTT/adaptive_128/chunklist_ao.m3u8
 #EXTINF:-1 tvg-logo="https://kuasark.com/files/stations-logos/cbc-music-mountain-calgary-cbr-fm-1021-fm-formerly-cbc-radio-2.png" group-title="Contemporary;Classical;Jazz",CBR 102.1 Calgary
@@ -1271,6 +1277,8 @@ https://moosemedia.streamb.live/SB00364
 https://nyc-edge1-entry1.leanstream-hd.com:2113/CKGAAM
 #EXTINF:-1 tvg-logo="https://media.muckrack.com/groups/icons/kisstimmins.jpeg" group-title="Adult;Contemporary",CKGB 99.3 Kiss 99.3
 http://rogers.leanstream.co/rogers/tim993.stream/icy
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJNFYWA96CrfFOLV5K-WOFH2sV8kSgANGVzg&s" group-title="80s;Hits",CKGC 103.5
+http://ca2.rcast.net:8018/;
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/DbHhUz5KJ9.png" group-title="Rock;Hits",CKGE 94.9 The Rock
 https://playerservices.streamtheworld.com/api/livestream-redirect/CKGEFMAAC_SC
 #EXTINF:-1 tvg-logo="https://ca.radio.net/300/ckgf-1023-juice-fm.png?version=11fcef719d57c8cf1868889aa3663c4a" group-title="Adult;Hits",CKGF 102.3
@@ -1519,6 +1527,8 @@ https://goldenwest.leanstream.co/CKUVFM
 http://shout.mtl.gameservers.com:9025/
 #EXTINF:-1 tvg-logo="https://frequencynews-wpoffloadmedia.s3.ca-central-1.amazonaws.com/wp-content/uploads/2023/09/18153056/CKVB-Logo.png" group-title="Country;Community",CKVB 100.1
 https://stream.statsradio.com:8148/stream?_=384185
+#EXTINF:-1 tvg-logo="https://i0.wp.com/covefm.com/wp-content/uploads/2019/04/CoveFM_Logo_512.png?fit=240%2C240&ssl=1" group-title="Variety;Community",CKVE 88.7
+https://us3.streamingpulse.com/ssl/CoveFM
 #EXTINF:-1 tvg-logo="http://www.country106.ca/favicon.ico" group-title="Country;New",CKVG Country 106.5
 http://ais-sa1.streamon.fm/7156_48k.aac
 #EXTINF:-1 tvg-logo="http://www.realcountryhighprairie.ca/favicon.ico" group-title="Country;New",CKVH Real Country 93.5
