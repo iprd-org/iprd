@@ -49,8 +49,12 @@ https://rcavliveaudio.akamaized.net/hls/live/2006980/M-7EMCT0_MCT/master.m3u8
 https://cbcliveradio-lh.akamaihd.net/i/CBCR1_MCT@360345/master.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe6TSC2QqLcsQpsBJGGtaKfEw7Wx58BMAI6A&s" group-title="Jazz;Classical",CBAX 91.5
 https://rcavliveaudio.akamaized.net/hls/live/2006950/P-2EMCT2_HAL/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sudbury_cbc_music.svg/1200px-Sudbury_cbc_music.svg.png" group-title="Jazz;Classical;Contemporary",CBBS 90.1
+https://cbcradiolive.akamaized.net/hls/live/2041034/ES_R1ESU/master.m3u8
 #EXTINF:-1 tvg-logo="http://images.cbcmusic.ca/v1/cbc-music/programs/1x1/default-share.png" group-title="Alternative;Classical",CBC Music Winnipeg
 https://cbcliveradio2-lh.akamaihd.net/i/CBCR2_WPG@385274/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7I22O4fAUhvBfg4OFCPEAY3fAVB6o47tR8g&s" group-title="News;Talk",CBCL 93.5
+https://cbcradiolive.akamaized.net/hls/live/2041029/ES_R1ELD/master.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51TUX9Re3BL.png" group-title="News;Talk;Variety",CBCS 99.9 CBC Radio 1
 https://cbcliveradio-lh.akamaihd.net/i/CBCR1_SUD@384513/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/5an6SLv48K.png" group-title="News;Talk",CBCV 90.5
@@ -75,6 +79,8 @@ https://cbcradiolive.akamaized.net/hls/live/2040990/ES_R1ASY/master.m3u8
 https://cbcliveradio2-lh.akamaihd.net/i/CBCR2_TOR@382863/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.cbc.ca/favicon.ico" group-title="News;Talk",CBLA 99.1 CBC Radio 1
 http://liveradiocanada.cbc.ca/i/CBCR2_TOR@382863/master.m3u8
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/31/f9/31f999cef18addf70713fc13e6408e7a.jpg" group-title="News;Talk",CBLA-2 89.1
+https://cbcradiolive.akamaized.net/hls/live/2040995/ES_R1EKW/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s12337/images/logod.png?t=637190219570000000" group-title="News;Talk",CBLA-2 89.1 CBC Radio 1
 https://cbcliveradio-lh.akamaihd.net/i/CBCR1_EKW@371992/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/beSSVkXuEz.png" group-title="Contemporary;Classical;Jazz",CBM-FM-3 88.3
@@ -83,10 +89,14 @@ https://cbcradiolive.akamaized.net/hls/live/2040993/ES_R1EIQ/master.m3u8
 https://cbcliveradio-lh.akamaihd.net/i/CBCR1_MTL@360544/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.cbc.ca/1.4066392.1500303304!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/cbc-logo-horizontal.jpg" group-title="News;Talk",CBO 91.5 CBC Radio 1
 https://cbcliveradio-lh.akamaihd.net/i/CBCR1_OTT@348188/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.tuneyou.com/images/logos/500_500/56/4756/CBOFFMPremiereOttawa90.7FM.png" group-title="French;News;Talk",CBOF 90.7
+https://rcavliveaudio.akamaized.net/hls/live/2006652/P-2OOTT0_OTT/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Ottawa_cbc_music.svg/1200px-Ottawa_cbc_music.svg.png" group-title="Contemporary;Classical;Jazz",CBOQ 103.3
 https://cbcradiolive.akamaized.net/hls/live/2041037/ES_R1ETT/master.m3u8
 #EXTINF:-1 tvg-logo="https://ici.radio-canada.ca/ohdio/assets/pwa/apple-touch-icon-180x180.png" group-title="French;Classical;Alternative",CBOX 102.5 ICI Musique
 https://rcavliveaudio.akamaized.net/hls/live/2006986/M-7OOTT0_OTT/adaptive_128/chunklist_ao.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Cbc_radio_one_thunder-bay.svg/1200px-Cbc_radio_one_thunder-bay.svg.png" group-title="News;Talk",CBQT 88.3
+https://cbcradiolive.akamaized.net/hls/live/2041035/ES_R1ETH/master.m3u8
 #EXTINF:-1 tvg-logo="https://kuasark.com/files/stations-logos/cbc-music-mountain-calgary-cbr-fm-1021-fm-formerly-cbc-radio-2.png" group-title="Contemporary;Classical;Jazz",CBR 102.1 Calgary
 https://27033.live.streamtheworld.com/CBXFM_CBC.mp3
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/c1/53/c153cf0901e0ed0b76225e3789770f78.jpg" group-title="News;Talk",CBTK 88.9
