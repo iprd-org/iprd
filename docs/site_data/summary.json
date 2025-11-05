@@ -1,5 +1,5 @@
 {
-  "total_stations": 22862,
+  "total_stations": 22902,
   "total_countries": 228,
   "countries": [
     {
@@ -24,7 +24,7 @@
     },
     {
       "code": "CA",
-      "count": 935
+      "count": 974
     },
     {
       "code": "IT",
@@ -48,7 +48,7 @@
     },
     {
       "code": "GB",
-      "count": 586
+      "count": 587
     },
     {
       "code": "BR",
@@ -1534,7 +1534,7 @@
     {
       "code": "GB",
       "file": "streams/gb/gb.m3u",
-      "count": 502
+      "count": 503
     },
     {
       "code": "GB",
@@ -2169,7 +2169,7 @@
     {
       "code": "CA",
       "file": "streams/ca/ca.m3u",
-      "count": 909
+      "count": 948
     },
     {
       "code": "VE",
@@ -2222,79 +2222,79 @@
     "top_genres": [
       {
         "name": "(.*)",
-        "count": 37522
+        "count": 37524
       },
       {
         "name": "",
-        "count": 19701
+        "count": 19702
       },
       {
         "name": "news",
-        "count": 560
+        "count": 564
       },
       {
         "name": "talk",
-        "count": 556
+        "count": 560
+      },
+      {
+        "name": "variety",
+        "count": 520
       },
       {
         "name": "pop",
         "count": 520
       },
       {
-        "name": "variety",
-        "count": 516
-      },
-      {
         "name": "hits",
-        "count": 435
+        "count": 443
       },
       {
         "name": "community",
-        "count": 368
+        "count": 373
       },
       {
         "name": "rock",
-        "count": 317
+        "count": 319
       },
       {
         "name": "contemporary",
-        "count": 271
+        "count": 282
       },
       {
         "name": "oldies",
-        "count": 244
+        "count": 249
+      },
+      {
+        "name": "adult",
+        "count": 221
       },
       {
         "name": "world",
         "count": 218
       },
       {
-        "name": "adult",
-        "count": 215
-      },
-      {
         "name": "christian",
-        "count": 173
+        "count": 176
       },
       {
         "name": "top 40",
-        "count": 141
+        "count": 143
       },
       {
         "name": "religious",
-        "count": 131
+        "count": 132
       },
       {
         "name": "sports",
-        "count": 125
+        "count": 126
       },
       {
         "name": "french",
-        "count": 119
+        "count": 122
       },
       {
         "name": "country",
-        "count": 115
+        "count": 120
       },
       {
         "name": "dance",
@@ -2310,7 +2310,7 @@
       },
       {
         "name": "new",
-        "count": 66
+        "count": 70
       },
       {
         "name": "ambient",
@@ -2318,11 +2318,15 @@
       },
       {
         "name": "classical",
-        "count": 56
+        "count": 61
       },
       {
         "name": "gospel",
-        "count": 55
+        "count": 56
+      },
+      {
+        "name": "jazz",
+        "count": 54
       },
       {
         "name": "electronic",
@@ -2333,16 +2337,12 @@
         "count": 54
       },
       {
-        "name": "campus",
+        "name": "80s",
         "count": 50
       },
       {
-        "name": "80s",
-        "count": 49
-      },
-      {
-        "name": "jazz",
-        "count": 49
+        "name": "campus",
+        "count": 50
       },
       {
         "name": "90s",
@@ -2366,7 +2366,7 @@
       },
       {
         "name": "indigenous",
-        "count": 35
+        "count": 36
       },
       {
         "name": "blues",
@@ -2413,14 +2413,14 @@
         "count": 20
       },
       {
-        "name": "futebol",
+        "name": "multilingual",
         "count": 20
       },
       {
-        "name": "baroque",
-        "count": 19
+        "name": "futebol",
+        "count": 20
       }
     ]
   },
-  "updated": "2025-10-29T02:00:37Z"
+  "updated": "2025-11-05T01:58:46Z"
 }
