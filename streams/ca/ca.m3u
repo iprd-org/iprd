@@ -169,8 +169,14 @@ https://vistaradio.streamb.live/SB00077
 http://s41.myradiostream.com:29922/listen.mp3
 #EXTINF:-1 tvg-logo="https://cfbxsite.files.wordpress.com/2017/07/cropped-screen-shot-2017-07-27-at-10-12-33-pm2.png?w=200" group-title="Campus;Variety",CFBX 92.5 The X Thompson Rivers University
 http://198.162.21.84:8002/listen.pls
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/f1/b2/f1b23f11c2e1987faa8d91e22160afd8.jpg" group-title="Top 40;Hits",CFCA 105.3
+https://playerservices.streamtheworld.com/api/livestream-redirect/CFCAFM_ADP.m3u8
 #EXTINF:-1 tvg-logo="http://vocm.com/favicon.ico" group-title="Variety;News",CFCB 570
 http://newcap.leanstream.co/CFCBAM
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5c/CFCH-Logo-News.png" group-title="Country;New",CFCH 90.5
+https://vistaradio.streamb.live/SB00101
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/64jTsm7NPM.png" group-title="Christian;Contemporary",CFCJ 102.1
+https://us2.streamingpulse.com/ssl/KFM
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/CFCO-AM_new_2008.jpg" group-title="News;Sports;Country",CFCO Country 92.9/630
 http://live.leanstream.co/CFCOFM
 #EXTINF:-1 tvg-logo="https://ca.radio.net/300/cfcp-989-jet-fm.png?version=2b493c8c65bd99d9e0af4b26aa6d4ff2" group-title="Active;Rock",CFCP 98.9
@@ -181,6 +187,8 @@ http://newcap.leanstream.co/CFCWAM
 http://newcap.leanstream.co/CFCWFM
 #EXTINF:-1 tvg-logo="http://cfcy.fm/wp-content/uploads/sites/5/2016/08/CFCY-2.png" group-title="Country;Folk",CFCY 95.1
 http://mbsradio.leanstream.co/CFCYFM-MP3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR86PlauGNJL1C1anxcwh-4ZgXVEsS1iIkltw&s" group-title="Country;New",CFDC 104.9
+https://bayshore.leanstream.co/CFDCFM
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/CFDV-FM_106.7_Rewind_Radio.webp/323px-CFDV-FM_106.7_Rewind_Radio.webp.png" group-title="Oldies;Hits",CFDV 106.7
 https://stream.jpbgdigital.com/CFDV.m3u8
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/e3/16/e316730f33325f986d61417beb45a30a.jpg" group-title="French;Community",CFED 97.9
@@ -221,6 +229,8 @@ http://stream02.ustream.ca:8000/cfid128.mp3
 http://stream02.ustream.ca:8000/cfim128.mp3
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOc1jwBgSFafKhwv2CLUAdF39kMmNZSOM8zA&s" group-title="French;Community",CFIN 100.5
 https://streaming.cloudmjs.com:8002/cfin.mp3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReJttrqg2rcK0WsUXpEmvGIdaqMaLSF_7nnQ&s" group-title="News;Talk",CFIQ 640
+https://corus.leanstream.co/CFIQAM-MP3
 #EXTINF:-1 tvg-logo="https://cfisfm.com/wp-content/uploads/2025/07/cropped-cfisbanner-scaled-1.jpg" group-title="Oldies;Community",CFIS 93.1
 https://s3.voscast.com:11297/stream
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/CFIT_Air106.1FM_logo.png" group-title="Adult;Contemporary",CFIT Air 106.1
