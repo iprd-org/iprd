@@ -305,6 +305,8 @@ http://ais-sa1.streamon.fm/7032_32k.aac
 http://nnb.leanstream.co/CFNRFM
 #EXTINF:-1 tvg-logo="https://edge.ca/wp-content/uploads/sites/5/2017/12/cropped-fm-logos_512x512_edge.png?w=180" group-title="Rock;Hits",CFNY 102.1 The Edge
 http://live.leanstream.co/CFNYFM-MP3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_feVQoQACaEmr82dKvcDkId29213ITooZXw&s" group-title="Oldies;Hits",CFOB 93.1
+https://ais-sa1.streamon.fm/7235_128k.aac/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://foifm.com/images/favicon.ico" group-title="French;Christian",CFOI 104.1
 https://cfoi.sermon.net/20591220/controller/link/action/playhls/type/live/id/100500/.m3u8
 #EXTINF:-1 tvg-logo="http://www.560cfos.ca/favicon.ico" group-title="Talk;Oldies",CFOS 560
@@ -331,10 +333,14 @@ http://ais-sa1.streamon.fm/7098_32k.aac
 http://mbsradio.leanstream.co/CFQMFM-MP3
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/eVUWfXvqXD.png" group-title="Country;New",CFQX 104.1
 https://stream.jpbgdigital.com/CFQX/HEAAC/48k/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOrBlJwRsdR1ww4keJA_ddMtU99Jp7Bd7Kvg&s" group-title="News;Talk",CFRA 580
+https://26413.live.streamtheworld.com/CFRAAM_ADP/HLS/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Newstalk_1010.png/200px-Newstalk_1010.png" group-title="News;Talk",CFRB News/Talk 1010
 https://playerservices.streamtheworld.com/api/livestream-redirect/CFRBAMAAC_SC
 #EXTINF:-1 tvg-logo="http://d3n8a8pro7vhmx.cloudfront.net/cfrc/sites/1/meta_images/original/cfrc_logo_hiq_mobile.png?1488403690" group-title="Campus;Variety",CFRC 101.9 Queen's University
 http://audio.cfrc.ca:8000/;.mp3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS20GXmXakc0Bj19VZxKnxi7Iyv2Zd3C4Vg0Q&s" group-title="Campus;Variety",CFRE 91.9
+http://s2.yesstreaming.net:7069/stream
 #EXTINF:-1 tvg-logo="https://nosradios.ca/wp-content/uploads/2022/09/cfrg.png" group-title="French;Community",CFRG 93.1
 https://stream2.statsradio.com:8052/stream
 #EXTINF:-1 tvg-logo="http://radiocfrh.ca/favicon.ico" group-title="French;Community",CFRH 88.1/106.7
@@ -363,6 +369,10 @@ https://rogers.leanstream.co/rogers/let1077.stream/icy?environment=tunein
 https://playerservices.streamtheworld.com/api/livestream-redirect/CFRWAMAAC_SC
 #EXTINF:-1 tvg-logo="https://ca.radio.net/300/cfry.png?version=89f67278cf68252b074d61a3e0478f06" group-title="Country;New",CFRY 920
 https://goldenwest.leanstream.co/CFRYAM
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyfB2owbkDWjRephNNI_T0-HuTuunuF20zCA&s" group-title="Indigenous;Community",CFRZ 98.3
+https://audio-edge-vqwx4.yyz.g.radiomast.io/97c9ddeb-e3f7-4da7-a4a6-132bd0f7c683?cachebuster=237591268724630.97
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWXpfVUOQYFrkQQLlUFXfBgP0QCjvDEZIcdA&s" group-title="Adult;Contemporary",CFSF 99.3
+https://vistaradio.streamb.live/SB00102
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/da/2Day_FM_Cranbrook_Logo.png/250px-2Day_FM_Cranbrook_Logo.png" group-title="Adult;Contemporary",CFSM 107.5
 https://vistaradio.streamb.live/SB00075
 #EXTINF:-1 tvg-logo="https://vocm.com/favicon.ico" group-title="Variety;Talk",CFSX 840
@@ -409,6 +419,8 @@ http://newcap.leanstream.co/CFXJFM
 http://newcap.leanstream.co/CFXLFM-MP3
 #EXTINF:-1 tvg-logo="https://www.m105.ca/favicon.ico" group-title="French;Easy Listening",CFXM 104.9 M 105
 https://playerservices.streamtheworld.com/api/livestream-redirect/CFXMFMAAC_SC
+#EXTINF:-1 tvg-logo="https://www.mynorthbaynow.com/wp-content/uploads/2025/05/1063-jetfm.png" group-title="Oldies;Hits",CFXN 106.3
+https://vistaradio.streamb.live/SB00100
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/5Czz4uNJ8R.png" group-title="Country;Outlaw",CFXO 99.7
 https://bhs-live3-ais-relay1.leanstream.co/goldenwest/CFXOFM.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ca.radio.net/300/cfxuthefox.png?version=1e459923b88852c67829e94ec3cecc77" group-title="Campus;Community",CFXU 93.3 St. Francis Xavier University
