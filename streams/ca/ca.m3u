@@ -833,6 +833,8 @@ https://ais-sa1.streamon.fm/7176_32k.aac/playlist.m3u8
 https://torres-media.streamb.live/SB00189
 #EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/6e/c4/177033/1/c300.png" group-title="French;Community",CIDI 99.1
 http://s2.radioservers.biz:9998/;stream
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/Logo-virgin-windsor.svg" group-title="Contemporary;Hits",CIDR 93.9
+https://18063.live.streamtheworld.com/CIDRFM_ADP/HLS/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.ciel103.com/ciel/images/logo_ciel.png" group-title="French;Contemporary",CIEL 103.7
 http://podcast.servlinks.com:8409/;stream/1
 #EXTINF:-1 tvg-logo="http://www.cieufm.com/images/logo-cieu-fm-fb2.jpg" group-title="French;Community",CIEU 94.9
@@ -865,10 +867,14 @@ https://stream2.statsradio.com:8104/stream
 http://newcap.leanstream.co/CIHTFM
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/epuq8yAP8X.png" group-title="Oldies;Hits",CIJK 89.3 K-Rock
 http://newcap.leanstream.co/CIJKFM
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaIi0cAbNnE6XVHMPhb22NCR9q3aWBgYA-QA&s" group-title="Active;Rock",CIKR 105.7
+https://rogers-hls.leanstream.co/rogers/kin1057.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ca.radio.net/300/cikt-989-rewind.png?version=69c93f92d74f776fce9cb2167ab1b006" group-title="Adult;Hits",CIKT 98.9
 https://stream.jpbgdigital.com/CIKT.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/CIKX-FM_logo.png" group-title="Oldies;Hits",CIKX 93.5
 https://mbsradio-ais.leanstream.co/CIKXFM-MP3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWlESN3up2SkNpb3IiFD31QhyIv80mOINIMQ&s" group-title="Country;News",CIKZ 106.7
+https://rogers-hls.leanstream.co/rogers/kit1067.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/Boom_Lac_La_Biche_Logo.png" group-title="Oldies;Hits",CILB Boom 103.5
 http://newcap.leanstream.co/CILBFM-MP3
 #EXTINF:-1 tvg-logo="http://www.cilemf.com/favicon.ico" group-title="Community;French",CILE 95.1
@@ -883,10 +889,14 @@ http://stream2.statsradio.com:8012/stream
 https://goldenwest.leanstream.co/CILTFM
 #EXTINF:-1 tvg-logo="https://lh4.googleusercontent.com/proxy/QOCGihPH8NDZaTNQpWUuyCLS0L-4pzbGp0fxdE2NBhs8cSUCwYnlPbdjEYPWmnyKrAhyvN1k8WiH3LyqKiB19nLjIGFJ42gjP3GqUPZI4TVk4eHPv74" group-title="Campus;Community",CILU 102.7 Lakehead University
 http://luradio-server.lakeheadu.ca:8000/stereo128
+#EXTINF:-1 tvg-logo="https://ca.radio.net/300/cilv.png?version=c16228ce6aca471287aab77826ffe026" group-title="Alternative;Rock",CILV 88.5
+https://stingray.leanstream.co/CILVFM
 #EXTINF:-1 tvg-logo="http://www.myfmradio.ca/favicon.ico" group-title="Adult;Contemporary",CIMA 92.1 MyFM
 http://ice23.securenetsystems.net/CIMAFM
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrK3cAdmoMWW0rjgAd9-L9CQxHfkmd6mZFBA&s" group-title="Community;Indigenous",CIMB 95.1
 https://cimbfm.radioca.st/stream?1759103382275
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW8JNLAGfcj1Mmop8G6Yr9kXVlG-9uAxUn9A&s" group-title="French;Adult;Contemporary",CIMF 94.9
+https://27253.live.streamtheworld.com/CIMFFM_ADP/HLS/44556849-e52f-46d9-ab41-cd13930c7e98/0/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://magic106.com/wp-content/uploads/sites/7/2018/02/cropped-magic_512x512.png?w=180" group-title="Adult;Contemporary",CIMJ 106.1 Magic 106
 http://live.leanstream.co/CIMJFM-MP3
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/b6/7a/b67a7d49d58e19c1bbddab4801bc773a.png" group-title="Community;Variety",CIMM 99.5
