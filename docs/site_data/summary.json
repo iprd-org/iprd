@@ -1,5 +1,5 @@
 {
-  "total_stations": 22934,
+  "total_stations": 22973,
   "total_countries": 228,
   "countries": [
     {
@@ -19,12 +19,12 @@
       "count": 1534
     },
     {
-      "code": "GR",
-      "count": 1026
+      "code": "CA",
+      "count": 1045
     },
     {
-      "code": "CA",
-      "count": 1006
+      "code": "GR",
+      "count": 1026
     },
     {
       "code": "IT",
@@ -2169,7 +2169,7 @@
     {
       "code": "CA",
       "file": "streams/ca/ca.m3u",
-      "count": 980
+      "count": 1019
     },
     {
       "code": "VE",
@@ -2218,7 +2218,7 @@
     }
   ],
   "genre_stats": {
-    "total_unique_genres": 368,
+    "total_unique_genres": 370,
     "top_genres": [
       {
         "name": "(.*)",
@@ -2230,15 +2230,15 @@
       },
       {
         "name": "news",
-        "count": 571
+        "count": 572
       },
       {
         "name": "talk",
-        "count": 567
+        "count": 568
       },
       {
         "name": "variety",
-        "count": 521
+        "count": 522
       },
       {
         "name": "pop",
@@ -2246,27 +2246,27 @@
       },
       {
         "name": "hits",
-        "count": 452
+        "count": 458
       },
       {
         "name": "community",
-        "count": 375
+        "count": 376
       },
       {
         "name": "rock",
-        "count": 319
+        "count": 326
       },
       {
         "name": "contemporary",
-        "count": 290
+        "count": 307
       },
       {
         "name": "oldies",
-        "count": 254
+        "count": 256
       },
       {
         "name": "adult",
-        "count": 230
+        "count": 244
       },
       {
         "name": "world",
@@ -2274,27 +2274,27 @@
       },
       {
         "name": "christian",
-        "count": 177
+        "count": 178
       },
       {
         "name": "top 40",
-        "count": 144
+        "count": 145
       },
       {
         "name": "religious",
         "count": 132
       },
       {
-        "name": "sports",
-        "count": 126
-      },
-      {
         "name": "french",
-        "count": 125
+        "count": 130
       },
       {
         "name": "country",
-        "count": 122
+        "count": 128
+      },
+      {
+        "name": "sports",
+        "count": 127
       },
       {
         "name": "dance",
@@ -2305,12 +2305,12 @@
         "count": 83
       },
       {
-        "name": "culture",
-        "count": 74
+        "name": "new",
+        "count": 77
       },
       {
-        "name": "new",
-        "count": 72
+        "name": "culture",
+        "count": 74
       },
       {
         "name": "classical",
@@ -2325,15 +2325,15 @@
         "count": 56
       },
       {
+        "name": "alternative",
+        "count": 56
+      },
+      {
         "name": "jazz",
         "count": 55
       },
       {
         "name": "electronic",
-        "count": 54
-      },
-      {
-        "name": "alternative",
         "count": 54
       },
       {
@@ -2389,6 +2389,10 @@
         "count": 26
       },
       {
+        "name": "indie",
+        "count": 25
+      },
+      {
         "name": "latin",
         "count": 24
       },
@@ -2397,8 +2401,8 @@
         "count": 24
       },
       {
-        "name": "indie",
-        "count": 24
+        "name": "multilingual",
+        "count": 23
       },
       {
         "name": "esportes",
@@ -2413,14 +2417,10 @@
         "count": 20
       },
       {
-        "name": "multilingual",
-        "count": 20
-      },
-      {
         "name": "futebol",
         "count": 20
       }
     ]
   },
-  "updated": "2025-11-12T01:58:31Z"
+  "updated": "2025-11-19T01:58:18Z"
 }
