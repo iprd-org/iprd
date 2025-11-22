@@ -1217,6 +1217,8 @@ http://s26.myradiostream.com:10888/listen.pls
 http://noasrv.caster.fm:10188/stream
 #EXTINF:-1 tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/2450/files/2020/07/playbutton200x200.png" group-title="Adult;Contemporary",CJNW 107.1 Hot 107
 http://ais-sa1.streamon.fm/7260_64k.aac
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/69/f5/69f5b309b6dc88c0a7b7ebf74f190fa9.jpg" group-title="Christian;Religious",CJOA 95.1
+https://ucbmedia.streamguys1.com/tbay951/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://globalnews.ca/wp-content/themes/shaw-globalnews/_img/pwa/news_square-144.png" group-title="News;Talk",CJOB 680
 http://live.leanstream.co/CJOBAM-MP3
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/618/cjoc-941-juice-fm.e60be8d9.png" group-title="Oldies;Hits",CJOC 94.1
@@ -1227,6 +1229,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/CLASSICHITSAAC
 https://rogers-hls.leanstream.co/rogers/for933.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://online-radio-canada.com/storage/radios/8271/78982/conversions/RyoJLS7L1U9hmtKIuOuFlpPDb26EY0-metaU3VtbWl0XzEyNDAuanBn--lg.webp" group-title="Oldies;Hits",CJOR 1240
 https://vistaradio.streamb.live/SB00395
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/Zoomer923.jpg" group-title="Oldies;Hits",CJOS 92.3
+https://rstream.zoomer.ca:8080/cjos.mp3
 #EXTINF:-1 tvg-logo="https://boom997.com/wp-content/uploads/sites/31/2017/10/cropped-fm-logos_512x512_boom997.png?w=180" group-title="Oldies;Hits",CJOT Boom 99.7
 http://live.leanstream.co/CJOTFM-MP3
 #EXTINF:-1 tvg-logo="https://cjoy.com/wp-content/uploads/sites/27/2018/02/cropped-cjoy_512x512.png?w=180" group-title="Oldies;Hits",CJOY 1460 Greatest Hits
@@ -1239,10 +1243,16 @@ https://goldenwest.leanstream.co/CJPGFM
 https://stream2.statsradio.com:8022/stream
 #EXTINF:-1 tvg-logo="http://www.realcountrysouthwest.ca/favicon.ico" group-title="Country;New",CJPR 94.9 Real Country Southwest
 http://newcap.leanstream.co/CJPRFM-MP3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/78/103.7_Giant_FM.webp" group-title="Oldies;Rock",CJPT 103.7
+https://buf-streamb1-ais-relay1.streamb.live/SB00415/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.wknd.fm/img/logo-wknd.png" group-title="French;Rock",CJPX 99.5
 http://streaming.cjpx.leclerccommunication.ca:8000/cjpx.mp3?type=.mp3&1597284756
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/ZCzBANPY5m.png" group-title="Community;Variety",CJQC 99.3 Queen's County Community Radio
 http://us3.streamingpulse.com:8074/
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfkJCunucuQCiR__szDYKWEqSus61jBxvo7A&s" group-title="Active;Rock",CJQM 104.3
+https://rogers-hls.leanstream.co/rogers/sau1043.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/CJQQ_%26_CJRQ_Q92_Logo.svg/250px-CJQQ_%26_CJRQ_Q92_Logo.svg.png" group-title="Active;Rock",CJQQ 92.1
+https://rogers-hls.leanstream.co/rogers/tim921.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/CJRB_1220am_logo.png" group-title="Easy Listening;Oldies",CJRB 1220
 https://goldenwest.leanstream.co/CJRBAM
 #EXTINF:-1 tvg-logo="http://radiogaspesie.ca/wp-content/uploads/2013/05/favicon.ico" group-title="Community;Variety",CJRG 94.5 Radio-Gaspesie
