@@ -15,7 +15,7 @@ IPRD offers several ways to access the radio station collection:
 ### Complete Playlist
 
 The complete collection is available as a single M3U file:
-- [All Stations (all_stations.m3u)](/site_data/all_stations.m3u)
+- [All Stations (all_stations.m3u)]({{ site.baseurl }}/site_data/all_stations.m3u)
 
 ### Country-Specific Playlists
 
@@ -28,7 +28,7 @@ Browse stations by country:
   <ul>
     {% for country in countries %}
       {% if country.count > 0 %}
-      <li><strong>{{ country.name }}</strong> - <a href="/site_data/by_country/{{ country.code | downcase }}.m3u">{{ country.code }}.m3u</a> ({{ country.count }} stations)</li>
+      <li><strong>{{ country.name }}</strong> - <a href="{{ site.baseurl }}/site_data/by_country/{{ country.code | downcase }}.m3u">{{ country.code }}.m3u</a> ({{ country.count }} stations)</li>
       {% endif %}
     {% endfor %}
   </ul>
@@ -37,7 +37,7 @@ Browse stations by country:
   {% endif %}
 {% else %}
   <!-- Fallback static content when data is not available in GitHub Actions -->
-  <p>Country-specific playlists are available in the repository under <code>/site_data/by_country/</code>.</p>
+  <p>Country-specific playlists are available in the repository under <code>{{ site.baseurl }}/site_data/by_country/</code>.</p>
   <p>Please visit our website for a complete list of countries and stations.</p>
 {% endif %}
 
@@ -68,4 +68,4 @@ The `group-title` field contains genre information, and the `tvg-logo` field con
 
 ## API Access
 
-For developers, we provide JSON access to our catalog data. See the [API Documentation](/api/) for more information on programmatic access to IPRD data.
+For developers, we provide JSON access to our catalog data. See the [API Documentation]({{ site.baseurl }}/api/) for more information on programmatic access to IPRD data.

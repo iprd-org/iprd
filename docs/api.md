@@ -10,7 +10,7 @@ The International Public Radio Directory (IPRD) provides several data files that
 
 ## Catalog JSON Structure
 
-The main catalog is available at: `/metadata/catalog.json`
+The main catalog is available at: `{{ site.baseurl }}/metadata/catalog.json`
 
 ### Catalog Overview
 
@@ -72,7 +72,7 @@ The catalog contains metadata about all radio stations in the IPRD collection. H
 
 ## Summary Metadata
 
-Summary statistics are available at: `/site_data/summary.json`
+Summary statistics are available at: `{{ site.baseurl }}/site_data/summary.json`
 
 This file contains overall statistics about the directory:
 
@@ -124,7 +124,7 @@ You can access the data in several ways:
 
 ```javascript
 // Fetch the catalog and display station count
-fetch('https:/iprd-org.github.io/iprd/metadata/catalog.json')
+fetch('https://iprd-org.github.io/iprd/metadata/catalog.json')
   .then(response => response.json())
   .then(data => {
     console.log(`Found ${data.stations.length} radio stations`);
