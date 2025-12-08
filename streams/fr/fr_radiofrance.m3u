@@ -1,297 +1,297 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/d/d5/FIP_logo_2005.svg/512px-FIP_logo_2005.svg.png" group-title="(.*);(.*);",FIP
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/d/d5/FIP_logo_2005.svg/512px-FIP_logo_2005.svg.png" group-title="jazz;musique du monde",FIP
 https://icecast.radiofrance.fr/fip-hifi.aac
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/d/d5/FIP_logo_2005.svg/512px-FIP_logo_2005.svg.png" group-title="(.*);(.*);",FIP
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/d/d5/FIP_logo_2005.svg/512px-FIP_logo_2005.svg.png" group-title="jazz;musique du monde",FIP
 https://stream.radiofrance.fr/fip/fip.m3u8?id=radiofrance
-#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2019/06/29044099-6469-4f2f-845c-54e607179806/200x200_fip-electro-ok.jpg" group-title="(.*);(.*);",FIP Electro
+#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2019/06/29044099-6469-4f2f-845c-54e607179806/200x200_fip-electro-ok.jpg" group-title="techno;house",FIP Electro
 https://icecast.radiofrance.fr/fipelectro-midfi.mp3
-#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2019/06/29044099-6469-4f2f-845c-54e607179806/200x200_fip-electro-ok.jpg" group-title="(.*);(.*);",FIP Electro
+#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2019/06/29044099-6469-4f2f-845c-54e607179806/200x200_fip-electro-ok.jpg" group-title="techno;house",FIP Electro
 https://stream.radiofrance.fr/fipelectro/fipelectro.m3u8?id=radiofrance
-#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/artworks-000561950928-4p2fnt-t500x500.jpg" group-title="(.*);(.*);",FIP Groove
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/artworks-000561950928-4p2fnt-t500x500.jpg" group-title="groove;jazz;lounge",FIP Groove
 https://icecast.radiofrance.fr/fipgroove-midfi.mp3
-#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/artworks-000561950928-4p2fnt-t500x500.jpg" group-title="(.*);(.*);",FIP Groove
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/artworks-000561950928-4p2fnt-t500x500.jpg" group-title="groove;jazz;lounge",FIP Groove
 https://stream.radiofrance.fr/fipgroove/fipgroove.m3u8?id=radiofrance
-#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2019/06/15a58f25-86a5-4b1a-955e-5035d9397da3/200x200_fip-reggae_ok.jpg" group-title="(.*);(.*);",FIP Reggae
+#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2019/06/15a58f25-86a5-4b1a-955e-5035d9397da3/200x200_fip-reggae_ok.jpg" group-title="reggae;ska",FIP Reggae
 https://icecast.radiofrance.fr/fipreggae-midfi.mp3
-#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2019/06/15a58f25-86a5-4b1a-955e-5035d9397da3/200x200_fip-reggae_ok.jpg" group-title="(.*);(.*);",FIP Reggae
+#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2019/06/15a58f25-86a5-4b1a-955e-5035d9397da3/200x200_fip-reggae_ok.jpg" group-title="reggae;ska",FIP Reggae
 https://stream.radiofrance.fr/fipreggae/fipreggae.m3u8?id=radiofrance
-#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2019/06/840a4431-0db0-4a94-aa28-53f8de011ab6/200x200_fip-jazz-01.jpg" group-title="(.*);(.*);",FIP Jazz
+#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2019/06/840a4431-0db0-4a94-aa28-53f8de011ab6/200x200_fip-jazz-01.jpg" group-title="jazz;blues",FIP Jazz
 https://icecast.radiofrance.fr/fipjazz-hifi.aac
-#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2019/06/840a4431-0db0-4a94-aa28-53f8de011ab6/200x200_fip-jazz-01.jpg" group-title="(.*);(.*);",FIP Jazz
+#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2019/06/840a4431-0db0-4a94-aa28-53f8de011ab6/200x200_fip-jazz-01.jpg" group-title="jazz;blues",FIP Jazz
 https://stream.radiofrance.fr/fipjazz/fipjazz.m3u8?id=radiofrance
-#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2019/06/9a1d42c5-8a36-4253-bfae-bdbfb85cbe14/200x200_fip-monde_ok.jpg" group-title="(.*);(.*);",FIP Musiques du Monde
+#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2019/06/9a1d42c5-8a36-4253-bfae-bdbfb85cbe14/200x200_fip-monde_ok.jpg" group-title="world music;chillout",FIP Musiques du Monde
 https://icecast.radiofrance.fr/fipworld-hifi.aac
-#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2019/06/9a1d42c5-8a36-4253-bfae-bdbfb85cbe14/200x200_fip-monde_ok.jpg" group-title="(.*);(.*);",FIP Musiques du Monde
+#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2019/06/9a1d42c5-8a36-4253-bfae-bdbfb85cbe14/200x200_fip-monde_ok.jpg" group-title="world music;chillout",FIP Musiques du Monde
 https://stream.radiofrance.fr/fipworld/fipworld.m3u8?id=radiofrance
-#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2020/06/14f16d25-960c-4cf4-8e39-682268b1a0c1/200x200_fip-pop_ok.jpg" group-title="(.*);(.*);",FIP Pop
+#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2020/06/14f16d25-960c-4cf4-8e39-682268b1a0c1/200x200_fip-pop_ok.jpg" group-title="pop;hits",FIP Pop
 https://icecast.radiofrance.fr/fippop-hifi.aac
-#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2020/06/14f16d25-960c-4cf4-8e39-682268b1a0c1/200x200_fip-pop_ok.jpg" group-title="(.*);(.*);",FIP Pop
+#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2020/06/14f16d25-960c-4cf4-8e39-682268b1a0c1/200x200_fip-pop_ok.jpg" group-title="pop;hits",FIP Pop
 https://stream.radiofrance.fr/fippop/fippop.m3u8?id=radiofrance
-#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2019/06/f5b944ca-9a21-4970-8eed-e711dac8ac15/200x200_fip-rock_ok.jpg" group-title="(.*);(.*);",FIP Rock
+#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2019/06/f5b944ca-9a21-4970-8eed-e711dac8ac15/200x200_fip-rock_ok.jpg" group-title="rock;hits",FIP Rock
 https://icecast.radiofrance.fr/fiprock-hifi.aac
-#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2019/06/f5b944ca-9a21-4970-8eed-e711dac8ac15/200x200_fip-rock_ok.jpg" group-title="(.*);(.*);",FIP Rock
+#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2019/06/f5b944ca-9a21-4970-8eed-e711dac8ac15/200x200_fip-rock_ok.jpg" group-title="rock;hits",FIP Rock
 https://stream.radiofrance.fr/fiprock/fiprock.m3u8?id=radiofrance
-#EXTINF:-1 tvg-logo="http://www.fipradio.fr/favicons/120-120.png" group-title="(.*);(.*);",FIP Nouveautés
+#EXTINF:-1 tvg-logo="http://www.fipradio.fr/favicons/120-120.png" group-title="pop;musique seulement",FIP Nouveautés
 https://icecast.radiofrance.fr/fipnouveautes-midfi.mp3
-#EXTINF:-1 tvg-logo="http://www.fipradio.fr/favicons/120-120.png" group-title="(.*);(.*);",FIP Nouveautés
+#EXTINF:-1 tvg-logo="http://www.fipradio.fr/favicons/120-120.png" group-title="pop;musique seulement",FIP Nouveautés
 https://stream.radiofrance.fr/fipnouveautes/fipnouveautes.m3u8?id=radiofrance
-#EXTINF:-1 tvg-logo="https://www.mouv.fr//favicons/mouv-180-180.png" group-title="(.*);(.*);",Mouv' 100% Mix
+#EXTINF:-1 tvg-logo="https://www.mouv.fr//favicons/mouv-180-180.png" group-title="hip hop;rap",Mouv' 100% Mix
 https://icecast.radiofrance.fr/mouv100p100mix-hifi.aac
-#EXTINF:-1 tvg-logo="https://www.mouv.fr//favicons/mouv-180-180.png" group-title="(.*);(.*);",Mouv' 100% Mix
+#EXTINF:-1 tvg-logo="https://www.mouv.fr//favicons/mouv-180-180.png" group-title="hip hop;rap",Mouv' 100% Mix
 https://stream.radiofrance.fr/mouv100p100mix/mouv100p100mix.m3u8?id=radiofrance
-#EXTINF:-1 tvg-logo="https://www.mouv.fr//favicons/mouv-180-180.png" group-title="(.*);(.*);",Mouv' Rap US
+#EXTINF:-1 tvg-logo="https://www.mouv.fr//favicons/mouv-180-180.png" group-title="hip hop;rap",Mouv' Rap US
 https://icecast.radiofrance.fr/mouvrapus-hifi.aac
-#EXTINF:-1 tvg-logo="https://www.mouv.fr//favicons/mouv-180-180.png" group-title="(.*);(.*);",Mouv' Rap US
+#EXTINF:-1 tvg-logo="https://www.mouv.fr//favicons/mouv-180-180.png" group-title="hip hop;rap",Mouv' Rap US
 https://stream.radiofrance.fr/mouvrapus/mouvrapus.m3u8?id=radiofrance
-#EXTINF:-1 tvg-logo="http://www.mouv.fr/favicons/mouv-120-120.png" group-title="(.*);(.*);",Mouv'
+#EXTINF:-1 tvg-logo="http://www.mouv.fr/favicons/mouv-120-120.png" group-title="hip hop;electro",Mouv'
 https://icecast.radiofrance.fr/mouv-hifi.aac
-#EXTINF:-1 tvg-logo="http://www.mouv.fr/favicons/mouv-120-120.png" group-title="(.*);(.*);",Mouv'
+#EXTINF:-1 tvg-logo="http://www.mouv.fr/favicons/mouv-120-120.png" group-title="hip hop;electro",Mouv'
 https://stream.radiofrance.fr/mouv/mouv.m3u8?id=radiofrance
-#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2019/01/bb8da8da-f679-405f-8810-b4a172f6a32d/300x300_mouv-classic_02.jpg" group-title="(.*);(.*);",Mouv' Classics
+#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2019/01/bb8da8da-f679-405f-8810-b4a172f6a32d/300x300_mouv-classic_02.jpg" group-title="hip hop;rap;oldies;webradio",Mouv' Classics
 https://icecast.radiofrance.fr/mouvclassics-hifi.aac
-#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2019/01/bb8da8da-f679-405f-8810-b4a172f6a32d/300x300_mouv-classic_02.jpg" group-title="(.*);(.*);",Mouv' Classics
+#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2019/01/bb8da8da-f679-405f-8810-b4a172f6a32d/300x300_mouv-classic_02.jpg" group-title="hip hop;rap;oldies;webradio",Mouv' Classics
 https://stream.radiofrance.fr/mouvclassics/mouvclassics.m3u8?id=radiofrance
-#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2019/01/9d04e918-c907-4627-a332-1071bdc2366e/300x300_dancehall.jpg" group-title="(.*);(.*);",Mouv' DanceHall
+#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2019/01/9d04e918-c907-4627-a332-1071bdc2366e/300x300_dancehall.jpg" group-title="dancehall;webradio",Mouv' DanceHall
 https://icecast.radiofrance.fr/mouvdancehall-hifi.aac
-#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2019/01/9d04e918-c907-4627-a332-1071bdc2366e/300x300_dancehall.jpg" group-title="(.*);(.*);",Mouv' DanceHall
+#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2019/01/9d04e918-c907-4627-a332-1071bdc2366e/300x300_dancehall.jpg" group-title="dancehall;webradio",Mouv' DanceHall
 https://stream.radiofrance.fr/mouvdancehall/mouvdancehall.m3u8?id=radiofrance
-#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2019/08/20b36ec0-fd19-4d92-b393-7977277e1452/300x300_mouv_webradio_kids_n_family.jpg" group-title="(.*);(.*);",Mouv' Kids 'n Family
+#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2019/08/20b36ec0-fd19-4d92-b393-7977277e1452/300x300_mouv_webradio_kids_n_family.jpg" group-title="hip hop;rap;webradio",Mouv' Kids 'n Family
 https://icecast.radiofrance.fr/mouvkidsnfamily-hifi.aac
-#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2019/08/20b36ec0-fd19-4d92-b393-7977277e1452/300x300_mouv_webradio_kids_n_family.jpg" group-title="(.*);(.*);",Mouv' Kids 'n Family
+#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2019/08/20b36ec0-fd19-4d92-b393-7977277e1452/300x300_mouv_webradio_kids_n_family.jpg" group-title="hip hop;rap;webradio",Mouv' Kids 'n Family
 https://stream.radiofrance.fr/mouvkidsnfamily/mouvkidsnfamily.m3u8?id=radiofrance
-#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2019/01/f3bf764e-637c-48c0-b152-1a258726710f/300x300_rnb.jpg" group-title="(.*);(.*);",Mouv' R'n'B & Soul
+#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2019/01/f3bf764e-637c-48c0-b152-1a258726710f/300x300_rnb.jpg" group-title="R'n'B;soul;webradio",Mouv' R'n'B & Soul
 https://icecast.radiofrance.fr/mouvrnb-hifi.aac
-#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2019/01/f3bf764e-637c-48c0-b152-1a258726710f/300x300_rnb.jpg" group-title="(.*);(.*);",Mouv' R'n'B & Soul
+#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2019/01/f3bf764e-637c-48c0-b152-1a258726710f/300x300_rnb.jpg" group-title="R'n'B;soul;webradio",Mouv' R'n'B & Soul
 https://stream.radiofrance.fr/mouvrnb/mouvrnb.m3u8?id=radiofrance
-#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2019/01/3c4dc967-ed2c-4ce5-a998-9437a64e05d5/300x300_rapfr.jpg" group-title="(.*);(.*);",Mouv' Rap Français
+#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2019/01/3c4dc967-ed2c-4ce5-a998-9437a64e05d5/300x300_rapfr.jpg" group-title="rap;webradio",Mouv' Rap Français
 https://icecast.radiofrance.fr/mouvrapfr-hifi.aac
-#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2019/01/3c4dc967-ed2c-4ce5-a998-9437a64e05d5/300x300_rapfr.jpg" group-title="(.*);(.*);",Mouv' Rap Français
+#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2019/01/3c4dc967-ed2c-4ce5-a998-9437a64e05d5/300x300_rapfr.jpg" group-title="rap;webradio",Mouv' Rap Français
 https://stream.radiofrance.fr/mouvrapfr/mouvrapfr.m3u8?id=radiofrance
-#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="(.*);(.*);",France Bleu Alsace
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="hits;pop",France Bleu Alsace
 https://icecast.radiofrance.fr/fbalsace-midfi.mp3
-#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="(.*);(.*);",France Bleu Alsace
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="hits;pop",France Bleu Alsace
 https://stream.radiofrance.fr/fbalsace/fbalsace.m3u8?id=radiofrance
-#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="(.*);(.*);",France Bleu Armorique
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="hits;pop",France Bleu Armorique
 https://icecast.radiofrance.fr/fbarmorique-midfi.mp3
-#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="(.*);(.*);",France Bleu Alsace
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="hits;pop",France Bleu Alsace
 https://stream.radiofrance.fr/fbarmorique/fbarmorique.m3u8?id=radiofrance
-#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="(.*);(.*);",France Bleu Auxerre
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="hits;pop",France Bleu Auxerre
 https://icecast.radiofrance.fr/fbauxerre-midfi.mp3
-#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="(.*);(.*);",France Bleu Auxerre
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="hits;pop",France Bleu Auxerre
 https://stream.radiofrance.fr/fbauxerre/fbauxerre.m3u8?id=radiofrance
-#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="(.*);(.*);",France Bleu Azur
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="hits;pop",France Bleu Azur
 https://icecast.radiofrance.fr/fbazur-midfi.mp3
-#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="(.*);(.*);",France Bleu Azur
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="hits;pop",France Bleu Azur
 https://stream.radiofrance.fr/fbazur/fbazur.m3u8?id=radiofrance
-#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="(.*);(.*);",France Bleu Béarn
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="hits;pop",France Bleu Béarn
 https://icecast.radiofrance.fr/fbbearn-midfi.mp3
-#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="(.*);(.*);",France Bleu Béarn
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="hits;pop",France Bleu Béarn
 https://stream.radiofrance.fr/fbbearn/fbbearn.m3u8?id=radiofrance
-#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="(.*);(.*);",France Bleu Belfort-Montbéliard
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="hits;pop",France Bleu Belfort-Montbéliard
 https://icecast.radiofrance.fr/fbbelfort-midfi.mp3
-#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="(.*);(.*);",France Bleu Belfort-Montbéliard
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="hits;pop",France Bleu Belfort-Montbéliard
 https://stream.radiofrance.fr/fbbelfort/fbbelfort.m3u8?id=radiofrance
-#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="(.*);(.*);",France Bleu Berry
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="hits;pop",France Bleu Berry
 https://icecast.radiofrance.fr/fbberry-midfi.mp3
-#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="(.*);(.*);",France Bleu Berry
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="hits;pop",France Bleu Berry
 https://stream.radiofrance.fr/fbberry/fbberry.m3u8?id=radiofrance
-#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="(.*);(.*);",France Bleu Besançon 
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="hits;pop",France Bleu Besançon 
 https://icecast.radiofrance.fr/fbbesancon-midfi.mp3
-#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="(.*);(.*);",France Bleu Besançon 
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="hits;pop",France Bleu Besançon 
 https://stream.radiofrance.fr/fbbesancon/fbbesancon.m3u8?id=radiofrance
-#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="(.*);(.*);",France Bleu Bourgogne
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="hits;pop",France Bleu Bourgogne
 https://icecast.radiofrance.fr/fbbourgogne-midfi.mp3
-#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="(.*);(.*);",France Bleu Bourgogne
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="hits;pop",France Bleu Bourgogne
 https://stream.radiofrance.fr/fbbourgogne/fbbourgogne.m3u8?id=radiofrance
-#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="(.*);(.*);",France Bleu Breizh Izel
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="hits;pop",France Bleu Breizh Izel
 https://icecast.radiofrance.fr/fbbreizizel-midfi.mp3
-#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="(.*);(.*);",France Bleu Breizh Izel
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="hits;pop",France Bleu Breizh Izel
 https://stream.radiofrance.fr/fbbreizizel/fbbreizizel.m3u8?id=radiofrance
-#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="(.*);(.*);",France Bleu Champagne-Ardenne
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="hits;pop",France Bleu Champagne-Ardenne
 https://icecast.radiofrance.fr/fbchampagne-midfi.mp3
-#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="(.*);(.*);",France Bleu Champagne-Ardenne
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="hits;pop",France Bleu Champagne-Ardenne
 https://stream.radiofrance.fr/fbchampagne/fbchampagne.m3u8?id=radiofrance
-#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="(.*);(.*);",France Bleu Cotentin
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="hits;pop",France Bleu Cotentin
 https://icecast.radiofrance.fr/fbcotentin-midfi.mp3
-#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="(.*);(.*);",France Bleu Cotentin
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="hits;pop",France Bleu Cotentin
 https://stream.radiofrance.fr/fbcotentin/fbcotentin.m3u8?id=radiofrance
-#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="(.*);(.*);",France Bleu Creuse
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="hits;pop",France Bleu Creuse
 https://icecast.radiofrance.fr/fbcreuse-midfi.mp3
-#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="(.*);(.*);",France Bleu Creuse
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="hits;pop",France Bleu Creuse
 https://stream.radiofrance.fr/fbcreuse/fbcreuse.m3u8?id=radiofrance
-#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="(.*);(.*);",France Bleu Drôme-Ardèche
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="hits;pop",France Bleu Drôme-Ardèche
 https://icecast.radiofrance.fr/fbdromeardeche-midfi.mp3
-#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="(.*);(.*);",France Bleu Drôme-Ardèche
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="hits;pop",France Bleu Drôme-Ardèche
 https://stream.radiofrance.fr/fbdromeardeche/fbdromeardeche.m3u8?id=radiofrance
-#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="(.*);(.*);",France Bleu Elsass
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="hits;pop",France Bleu Elsass
 https://icecast.radiofrance.fr/fbelsass-midfi.mp3
-#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="(.*);(.*);",France Bleu Elsass
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="hits;pop",France Bleu Elsass
 https://stream.radiofrance.fr/fbelsass/fbelsass.m3u8?id=radiofrance
-#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="(.*);(.*);",France Bleu Gard Lozère
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="hits;pop",France Bleu Gard Lozère
 https://icecast.radiofrance.fr/fbgardlozere-midfi.mp3
-#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="(.*);(.*);",France Bleu Gard Lozère
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="hits;pop",France Bleu Gard Lozère
 https://stream.radiofrance.fr/fbgardlozere/fbgardlozere.m3u8?id=radiofrance
-#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="(.*);(.*);",France Bleu Gascogne
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="hits;pop",France Bleu Gascogne
 https://icecast.radiofrance.fr/fbgascogne-midfi.mp3
-#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="(.*);(.*);",France Bleu Gascogne
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="hits;pop",France Bleu Gascogne
 https://stream.radiofrance.fr/fbgascogne/fbgascogne.m3u8?id=radiofrance
-#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="(.*);(.*);",France Bleu Gironde
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="hits;pop",France Bleu Gironde
 https://icecast.radiofrance.fr/fbgironde-midfi.mp3
-#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="(.*);(.*);",France Bleu Gironde
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="hits;pop",France Bleu Gironde
 https://stream.radiofrance.fr/fbgironde/fbgironde.m3u8?id=radiofrance
-#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="(.*);(.*);",France Bleu Hérault
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="hits;pop",France Bleu Hérault
 https://icecast.radiofrance.fr/fbherault-midfi.mp3
-#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="(.*);(.*);",France Bleu Hérault
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="hits;pop",France Bleu Hérault
 https://stream.radiofrance.fr/fbherault/fbherault.m3u8?id=radiofrance
-#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="(.*);(.*);",France Bleu Isère
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="hits;pop",France Bleu Isère
 https://icecast.radiofrance.fr/fbisere-midfi.mp3
-#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="(.*);(.*);",France Bleu Isère
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="hits;pop",France Bleu Isère
 https://stream.radiofrance.fr/fbisere/fbisere.m3u8?id=radiofrance
-#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="(.*);(.*);",France Bleu La Rochelle
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="hits;pop",France Bleu La Rochelle
 https://icecast.radiofrance.fr/fblarochelle-midfi.mp3
-#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="(.*);(.*);",France Bleu La Rochelle
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="hits;pop",France Bleu La Rochelle
 https://stream.radiofrance.fr/fblarochelle/fblarochelle.m3u8?id=radiofrance
-#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="(.*);(.*);",France Bleu Limousin
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="hits;pop",France Bleu Limousin
 https://icecast.radiofrance.fr/fblimousin-midfi.mp3
-#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="(.*);(.*);",France Bleu Limousin
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="hits;pop",France Bleu Limousin
 https://stream.radiofrance.fr/fblimousin/fblimousin.m3u8?id=radiofrance
-#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="(.*);(.*);",France Bleu Loire Océan
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="hits;pop",France Bleu Loire Océan
 https://icecast.radiofrance.fr/fbloireocean-midfi.mp3
-#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="(.*);(.*);",France Bleu Loire Océan
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="hits;pop",France Bleu Loire Océan
 https://stream.radiofrance.fr/fbloireocean/fbloireocean.m3u8?id=radiofrance
-#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="(.*);(.*);",France Bleu Lorraine Nord
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="hits;pop",France Bleu Lorraine Nord
 https://icecast.radiofrance.fr/fblorrainenord-midfi.mp3
-#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="(.*);(.*);",France Bleu Lorraine Nord
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="hits;pop",France Bleu Lorraine Nord
 https://stream.radiofrance.fr/fblorrainenord/fblorrainenord.m3u8?id=radiofrance
-#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="(.*);(.*);",France Bleu Maine
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="hits;pop",France Bleu Maine
 https://icecast.radiofrance.fr/fbmaine-midfi.mp3
-#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="(.*);(.*);",France Bleu Maine
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="hits;pop",France Bleu Maine
 https://stream.radiofrance.fr/fbmaine/fbmaine.m3u8?id=radiofrance
-#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="(.*);(.*);",France Bleu Mayenne
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="hits;pop",France Bleu Mayenne
 https://icecast.radiofrance.fr/fbmayenne-midfi.mp3
-#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="(.*);(.*);",France Bleu Mayenne
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="hits;pop",France Bleu Mayenne
 https://stream.radiofrance.fr/fbmayenne/fbmayenne.m3u8?id=radiofrance
-#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="(.*);(.*);",France Bleu Nord
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="hits;pop",France Bleu Nord
 https://icecast.radiofrance.fr/fbnord-midfi.mp3
-#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="(.*);(.*);",France Bleu Nord
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="hits;pop",France Bleu Nord
 https://stream.radiofrance.fr/fbnord/fbnord.m3u8?id=radiofrance
-#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="(.*);(.*);",France Bleu Normandie
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="hits;pop",France Bleu Normandie
 https://icecast.radiofrance.fr/fbbassenormandie-midfi.mp3
-#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="(.*);(.*);",France Bleu Normandie
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="hits;pop",France Bleu Normandie
 https://stream.radiofrance.fr/fbbassenormandie/fbbassenormandie.m3u8?id=radiofrance
-#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="(.*);(.*);",France Bleu Occitanie
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="hits;pop",France Bleu Occitanie
 https://icecast.radiofrance.fr/fbtoulouse-midfi.mp3
-#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="(.*);(.*);",France Bleu Occitanie
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="hits;pop",France Bleu Occitanie
 https://stream.radiofrance.fr/fbtoulouse/fbtoulouse.m3u8?id=radiofrance
-#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="(.*);(.*);",France Bleu Orléans
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="hits;pop",France Bleu Orléans
 https://icecast.radiofrance.fr/fborleans-midfi.mp3
-#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="(.*);(.*);",France Bleu Orléans
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="hits;pop",France Bleu Orléans
 https://stream.radiofrance.fr/fborleans/fborleans.m3u8?id=radiofrance
-#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="(.*);(.*);",France Bleu Paris
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="public radio;regional",France Bleu Paris
 https://icecast.radiofrance.fr/fb1071-midfi.mp3
-#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="(.*);(.*);",France Bleu Paris
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="public radio;regional",France Bleu Paris
 https://stream.radiofrance.fr/fb1071/fb1071.m3u8?id=radiofrance
-#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="(.*);(.*);",France Bleu Pays Basque
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="hits;pop",France Bleu Pays Basque
 https://icecast.radiofrance.fr/fbpaysbasque-midfi.mp3
-#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="(.*);(.*);",France Bleu Pays Basque
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="hits;pop",France Bleu Pays Basque
 https://stream.radiofrance.fr/fbpaysbasque/fbpaysbasque.m3u8?id=radiofrance
-#EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/logo_francebleu.png" group-title="(.*);(.*);",France Bleu Pays d'Auvergne
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/logo_francebleu.png" group-title="hits;pop",France Bleu Pays d'Auvergne
 https://icecast.radiofrance.fr/fbpaysdauvergne-midfi.mp3
-#EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/logo_francebleu.png" group-title="(.*);(.*);",France Bleu Pays d'Auvergne
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/logo_francebleu.png" group-title="hits;pop",France Bleu Pays d'Auvergne
 https://stream.radiofrance.fr/fbpaysdauvergne/fbpaysdauvergne.m3u8?id=radiofrance
-#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="(.*);(.*);",France Bleu Pays de Savoie
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="hits;pop",France Bleu Pays de Savoie
 https://icecast.radiofrance.fr/fbpaysdesavoie-midfi.mp3
-#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="(.*);(.*);",France Bleu Pays de Savoie
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="hits;pop",France Bleu Pays de Savoie
 https://stream.radiofrance.fr/fbpaysdesavoie/fbpaysdesavoie.m3u8?id=radiofrance
-#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="(.*);(.*);",France Bleu Périgord
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="hits;pop",France Bleu Périgord
 https://icecast.radiofrance.fr/fbperigord-midfi.mp3
-#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="(.*);(.*);",France Bleu Périgord
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="hits;pop",France Bleu Périgord
 https://stream.radiofrance.fr/fbperigord/fbperigord.m3u8?id=radiofrance
-#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="(.*);(.*);",France Bleu Picardie
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="hits;pop",France Bleu Picardie
 https://icecast.radiofrance.fr/fbpicardie-midfi.mp3
-#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="(.*);(.*);",France Bleu Picardie
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="hits;pop",France Bleu Picardie
 https://stream.radiofrance.fr/fbpicardie/fbpicardie.m3u8?id=radiofrance
-#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="(.*);(.*);",France Bleu Poitou
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="hits;pop",France Bleu Poitou
 https://icecast.radiofrance.fr/fbpoitou-midfi.mp3
-#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="(.*);(.*);",France Bleu Poitou
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="hits;pop",France Bleu Poitou
 https://stream.radiofrance.fr/fbpoitou/fbpoitou.m3u8?id=radiofrance
-#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="(.*);(.*);",France Bleu Provence
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="hits;pop",France Bleu Provence
 https://icecast.radiofrance.fr/fbprovence-midfi.mp3
-#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="(.*);(.*);",France Bleu Provence
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="hits;pop",France Bleu Provence
 https://stream.radiofrance.fr/fbprovence/fbprovence.m3u8?id=radiofrance
-#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="(.*);(.*);",France Bleu RCFM
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="hits;pop",France Bleu RCFM
 https://icecast.radiofrance.fr/fbfrequenzamora-midfi.mp3
-#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="(.*);(.*);",France Bleu RCFM
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="hits;pop",France Bleu RCFM
 https://stream.radiofrance.fr/fbfrequenzamora/fbfrequenzamora.m3u8?id=radiofrance
-#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="(.*);(.*);",France Bleu Roussillon
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="hits;pop",France Bleu Roussillon
 https://icecast.radiofrance.fr/fbroussillon-midfi.mp3
-#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="(.*);(.*);",France Bleu Roussillon
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="hits;pop",France Bleu Roussillon
 https://stream.radiofrance.fr/fbroussillon/fbroussillon.m3u8?id=radiofrance
-#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="(.*);(.*);",France Bleu Saint-Étienne Loire
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="hits;pop",France Bleu Saint-Étienne Loire
 https://icecast.radiofrance.fr/fbstetienne-midfi.mp3
-#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="(.*);(.*);",France Bleu Saint-Étienne Loire
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="hits;pop",France Bleu Saint-Étienne Loire
 https://stream.radiofrance.fr/fbstetienne/fbstetienne.m3u8?id=radiofrance
-#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="(.*);(.*);",France Bleu Sud Lorraine
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="hits;pop",France Bleu Sud Lorraine
 https://icecast.radiofrance.fr/fbsudlorraine-midfi.mp3
-#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="(.*);(.*);",France Bleu Sud Lorraine
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="hits;pop",France Bleu Sud Lorraine
 https://stream.radiofrance.fr/fbsudlorraine/fbsudlorraine.m3u8?id=radiofrance
-#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="(.*);(.*);",France Bleu Touraine
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="hits;pop",France Bleu Touraine
 https://icecast.radiofrance.fr/fbtouraine-midfi.mp3
-#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="(.*);(.*);",France Bleu Touraine
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="hits;pop",France Bleu Touraine
 https://stream.radiofrance.fr/fbtouraine/fbtouraine.m3u8?id=radiofrance
-#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="(.*);(.*);",France Bleu Vaucluse
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="hits;pop",France Bleu Vaucluse
 https://icecast.radiofrance.fr/fbvaucluse-midfi.mp3
-#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="(.*);(.*);",France Bleu Vaucluse
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-FB-512.png" group-title="hits;pop",France Bleu Vaucluse
 https://stream.radiofrance.fr/fbvaucluse/fbvaucluse.m3u8?id=radiofrance
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c9/France_Culture_-_2008.svg/1024px-France_Culture_-_2008.svg.png" group-title="(.*);(.*);",France Culture
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c9/France_Culture_-_2008.svg/1024px-France_Culture_-_2008.svg.png" group-title="culture;public",France Culture
 https://icecast.radiofrance.fr/franceculture-hifi.aac
-#EXTINF:-1 tvg-logo="https://www.franceculture.fr//favicons/android-icon-192x192.png" group-title="(.*);(.*);",France Culture
+#EXTINF:-1 tvg-logo="https://www.franceculture.fr//favicons/android-icon-192x192.png" group-title="culture;public",France Culture
 https://stream.radiofrance.fr/franceculture/franceculture.m3u8?id=radiofrance
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/18/France_Info_-_2008.svg/1024px-France_Info_-_2008.svg.png" group-title="(.*);(.*);",France Info
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/18/France_Info_-_2008.svg/1024px-France_Info_-_2008.svg.png" group-title="information;public",France Info
 https://icecast.radiofrance.fr/franceinfo-hifi.aac
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/18/France_Info_-_2008.svg/768px-France_Info_-_2008.svg.png" group-title="(.*);(.*);",France Info
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/18/France_Info_-_2008.svg/768px-France_Info_-_2008.svg.png" group-title="information;public",France Info
 https://stream.radiofrance.fr/franceinfo/franceinfo.m3u8?id=radiofrance
-#EXTINF:-1 tvg-logo="https://canada-culture.org/wp-content/uploads/2018/05/logo-france-inter.png" group-title="(.*);(.*);",France Inter
+#EXTINF:-1 tvg-logo="https://canada-culture.org/wp-content/uploads/2018/05/logo-france-inter.png" group-title="variety;public",France Inter
 https://icecast.radiofrance.fr/franceinter-hifi.aac
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/39/France_Inter_logo.svg" group-title="(.*);(.*);",France Inter
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/39/France_Inter_logo.svg" group-title="variety;public",France Inter
 https://stream.radiofrance.fr/franceinter/franceinter.m3u8?id=radiofrance
-#EXTINF:-1 tvg-logo="https://www.francemusique.fr/favicon.ico" group-title="(.*);(.*);",France Musique
+#EXTINF:-1 tvg-logo="https://www.francemusique.fr/favicon.ico" group-title="classical;jazz",France Musique
 https://icecast.radiofrance.fr/francemusique-hifi.aac
-#EXTINF:-1 tvg-logo="https://www.francemusique.fr/favicon.ico" group-title="(.*);(.*);",France Musique
+#EXTINF:-1 tvg-logo="https://www.francemusique.fr/favicon.ico" group-title="classical;jazz",France Musique
 https://stream.radiofrance.fr/francemusique/francemusique.m3u8?id=radiofrance
-#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2017/06/205d847e-5b3e-4087-a9ca-68b76f077364/200x200_fmwebradiosnormalconcerts.jpg" group-title="(.*);(.*);",France Musique Concerts Radio France
+#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2017/06/205d847e-5b3e-4087-a9ca-68b76f077364/200x200_fmwebradiosnormalconcerts.jpg" group-title="live;classical",France Musique Concerts Radio France
 https://icecast.radiofrance.fr/francemusiqueconcertsradiofrance-midfi.mp3
-#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2017/06/205d847e-5b3e-4087-a9ca-68b76f077364/200x200_fmwebradiosnormalconcerts.jpg" group-title="(.*);(.*);",France Musique Concerts Radio France
+#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2017/06/205d847e-5b3e-4087-a9ca-68b76f077364/200x200_fmwebradiosnormalconcerts.jpg" group-title="live;classical",France Musique Concerts Radio France
 https://stream.radiofrance.fr/francemusiqueconcertsradiofrance/francemusiqueconcertsradiofrance.m3u8?id=radiofrance
-#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2017/06/8ac537e2-bfab-4483-9d0d-3dc7309379bc/200x200_fmwebradiosnormaleasy.jpg" group-title="(.*);(.*);",France Musique Classique Easy
+#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2017/06/8ac537e2-bfab-4483-9d0d-3dc7309379bc/200x200_fmwebradiosnormaleasy.jpg" group-title="baroque;classical",France Musique Classique Easy
 https://icecast.radiofrance.fr/francemusiqueeasyclassique-hifi.aac
-#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2017/06/8ac537e2-bfab-4483-9d0d-3dc7309379bc/200x200_fmwebradiosnormaleasy.jpg" group-title="(.*);(.*);",France Musique Classique Easy
+#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2017/06/8ac537e2-bfab-4483-9d0d-3dc7309379bc/200x200_fmwebradiosnormaleasy.jpg" group-title="baroque;classical",France Musique Classique Easy
 https://stream.radiofrance.fr/francemusiqueeasyclassique/francemusiqueeasyclassique.m3u8?id=radiofrance
-#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2017/06/d1d4a0e0-282f-434a-879d-9075905e12f9/200x200_fmwebradiosnormalplus.jpg" group-title="(.*);(.*);",France Musique Classique Plus
+#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2017/06/d1d4a0e0-282f-434a-879d-9075905e12f9/200x200_fmwebradiosnormalplus.jpg" group-title="classical;baroque",France Musique Classique Plus
 https://icecast.radiofrance.fr/francemusiqueclassiqueplus-hifi.aac
-#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2017/06/d1d4a0e0-282f-434a-879d-9075905e12f9/200x200_fmwebradiosnormalplus.jpg" group-title="(.*);(.*);",France Musique Classique Plus
+#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2017/06/d1d4a0e0-282f-434a-879d-9075905e12f9/200x200_fmwebradiosnormalplus.jpg" group-title="classical;baroque",France Musique Classique Plus
 https://stream.radiofrance.fr/francemusiqueclassiqueplus/francemusiqueclassiqueplus.m3u8?id=radiofrance
-#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2017/06/d2ac7a26-843d-4f0c-a497-8ddf6f3b2f0f/200x200_fmwebbotout.jpg" group-title="(.*);(.*);",France Musique La B.O.
+#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2017/06/d2ac7a26-843d-4f0c-a497-8ddf6f3b2f0f/200x200_fmwebbotout.jpg" group-title="soundtracks;ambient",France Musique La B.O.
 https://icecast.radiofrance.fr/francemusiquelabo-hifi.aac
-#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2017/06/d2ac7a26-843d-4f0c-a497-8ddf6f3b2f0f/200x200_fmwebbotout.jpg" group-title="(.*);(.*);",France Musique La B.O.
+#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2017/06/d2ac7a26-843d-4f0c-a497-8ddf6f3b2f0f/200x200_fmwebbotout.jpg" group-title="soundtracks;ambient",France Musique La B.O.
 https://stream.radiofrance.fr/francemusiquelabo/francemusiquelabo.m3u8?id=radiofrance
-#EXTINF:-1 tvg-logo="http://db.radioline.fr/pictures/radio_25d365241d650b0e9f3a920428d18a59/logo200.jpg" group-title="(.*);(.*);",France Musique La Baroque
+#EXTINF:-1 tvg-logo="http://db.radioline.fr/pictures/radio_25d365241d650b0e9f3a920428d18a59/logo200.jpg" group-title="classical;baroque",France Musique La Baroque
 https://icecast.radiofrance.fr/francemusiquebaroque-hifi.aac
-#EXTINF:-1 tvg-logo="http://db.radioline.fr/pictures/radio_25d365241d650b0e9f3a920428d18a59/logo200.jpg" group-title="(.*);(.*);",France Musique La Baroque
+#EXTINF:-1 tvg-logo="http://db.radioline.fr/pictures/radio_25d365241d650b0e9f3a920428d18a59/logo200.jpg" group-title="classical;baroque",France Musique La Baroque
 https://stream.radiofrance.fr/francemusiquebaroque/francemusiquebaroque.m3u8?id=radiofrance
-#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2017/06/d135f74f-6c96-4b6f-90ac-2d3b6ca96b53/200x200_fmwebradiosnormalcontemp.jpg" group-title="(.*);(.*);",France Musique La Contemporaine
+#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2017/06/d135f74f-6c96-4b6f-90ac-2d3b6ca96b53/200x200_fmwebradiosnormalcontemp.jpg" group-title="contemporary;classical",France Musique La Contemporaine
 https://icecast.radiofrance.fr/francemusiquelacontemporaine-hifi.aac
-#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2017/06/d135f74f-6c96-4b6f-90ac-2d3b6ca96b53/200x200_fmwebradiosnormalcontemp.jpg" group-title="(.*);(.*);",France Musique La Contemporaine
+#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2017/06/d135f74f-6c96-4b6f-90ac-2d3b6ca96b53/200x200_fmwebradiosnormalcontemp.jpg" group-title="contemporary;classical",France Musique La Contemporaine
 https://stream.radiofrance.fr/francemusiquelacontemporaine/francemusiquelacontemporaine.m3u8?id=radiofrance
-#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2017/06/09ee5fb8-7a84-48ec-97fa-daea307d9415/200x200_fmwebradiosnormaljazz.jpg" group-title="(.*);(.*);",France Musique La Jazz
+#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2017/06/09ee5fb8-7a84-48ec-97fa-daea307d9415/200x200_fmwebradiosnormaljazz.jpg" group-title="jazz;blues",France Musique La Jazz
 https://icecast.radiofrance.fr/francemusiquelajazz-hifi.aac
-#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2017/06/09ee5fb8-7a84-48ec-97fa-daea307d9415/200x200_fmwebradiosnormaljazz.jpg" group-title="(.*);(.*);",France Musique La Jazz
+#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2017/06/09ee5fb8-7a84-48ec-97fa-daea307d9415/200x200_fmwebradiosnormaljazz.jpg" group-title="jazz;blues",France Musique La Jazz
 https://stream.radiofrance.fr/francemusiquelajazz/francemusiquelajazz.m3u8?id=radiofrance
-#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2017/06/0ef8bf23-4089-4faf-907c-6b6be7c5b2df/200x200_fmwebradiosnormalocora.jpg" group-title="(.*);(.*);",France Musique Ocora
+#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2017/06/0ef8bf23-4089-4faf-907c-6b6be7c5b2df/200x200_fmwebradiosnormalocora.jpg" group-title="webradio;world music",France Musique Ocora
 https://icecast.radiofrance.fr/francemusiqueocoramonde-hifi.aac
-#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2017/06/0ef8bf23-4089-4faf-907c-6b6be7c5b2df/200x200_fmwebradiosnormalocora.jpg" group-title="(.*);(.*);",France Musique Ocora
+#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2017/06/0ef8bf23-4089-4faf-907c-6b6be7c5b2df/200x200_fmwebradiosnormalocora.jpg" group-title="webradio;world music",France Musique Ocora
 https://stream.radiofrance.fr/francemusiqueocoramonde/francemusiqueocoramonde.m3u8?id=radiofrance
-#EXTINF:-1 tvg-logo="https://www.radiofrance.com/sites/default/files/press_releases/3873.jpg" group-title="(.*);(.*);",France Musique Opéra
+#EXTINF:-1 tvg-logo="https://www.radiofrance.com/sites/default/files/press_releases/3873.jpg" group-title="opera;classical",France Musique Opéra
 https://icecast.radiofrance.fr/francemusiqueopera-hifi.aac
-#EXTINF:-1 tvg-logo="https://www.radiofrance.com/sites/default/files/press_releases/3873.jpg" group-title="(.*);(.*);",France Musique Opéra
+#EXTINF:-1 tvg-logo="https://www.radiofrance.com/sites/default/files/press_releases/3873.jpg" group-title="opera;classical",France Musique Opéra
 https://stream.radiofrance.fr/francemusiqueopera/francemusiqueopera.m3u8?id=radiofrance

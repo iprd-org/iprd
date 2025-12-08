@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Radio_Maria.jpg/220px-Radio_Maria.jpg" group-title="(.*);(.*);",Radio Maria
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Radio_Maria.jpg/220px-Radio_Maria.jpg" group-title="catholic;religious;talk",Radio Maria
 http://dreamsiteradiocp2.com:8038/stream
-#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio229910_1696958332.jpg" group-title="(.*);(.*);",Green Village Radio 99.5
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio229910_1696958332.jpg" group-title="pop;news;talk",Green Village Radio 99.5
 https://fm995.ddns.net/hls1/fm995.m3u8
-#EXTINF:-1 tvg-logo="http://portugues.tdm.com.mo/favicon.ico" group-title="(.*);(.*);",Radio Macau 100.7
+#EXTINF:-1 tvg-logo="http://portugues.tdm.com.mo/favicon.ico" group-title="news;culture",Radio Macau 100.7
 http://live4.tdm.com.mo/live/_definst_/rch1.live/playlist.m3u8

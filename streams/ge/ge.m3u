@@ -1,29 +1,29 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://fortuna.ge/dist/images/fortuna.png" group-title="(.*);(.*);",Fortuna 106.9
+#EXTINF:-1 tvg-logo="https://fortuna.ge/dist/images/fortuna.png" group-title="adult;hits",Fortuna 106.9
 http://tv.cdn.xsg.ge/cld9-0386/fortuna/tracks-a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://fortuna.ge/dist/images/radio_logos/fortuna_plus_240px.png" group-title="(.*);(.*);",Fortuna Plus 103.5
+#EXTINF:-1 tvg-logo="https://fortuna.ge/dist/images/radio_logos/fortuna_plus_240px.png" group-title="pop;top 40",Fortuna Plus 103.5
 https://tv.cdn.xsg.ge/cld9-0386/fortuna/tracks-a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/9c/44/ab/9c44ab5b-f5b3-ab08-9f01-08fe601a5698/source/512x512bb.jpg" group-title="(.*);(.*);",Georgia Radio Music
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/9c/44/ab/9c44ab5b-f5b3-ab08-9f01-08fe601a5698/source/512x512bb.jpg" group-title="pop;news;talk",Georgia Radio Music
 https://tv.cdn.xsg.ge/gpb-radio2/tracks-a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://big-radio.net/uploads/posts/2021-04/1617394680_pervyy-kanal-gruzii-big-radio_org.png" group-title="(.*);(.*);",Georgia Radio
+#EXTINF:-1 tvg-logo="https://big-radio.net/uploads/posts/2021-04/1617394680_pervyy-kanal-gruzii-big-radio_org.png" group-title="news;talk",Georgia Radio
 https://tv.cdn.xsg.ge/gpb-radio1/tracks-a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/logo/6/43916.png" group-title="(.*);(.*);",Hereti FM
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/logo/6/43916.png" group-title="folk;news;pop",Hereti FM
 http://iis.ge:8000/hereti.mp3
-#EXTINF:-1 tvg-logo="https://www.marneulifm.ge//images/temp/2017/06/14/91d0264419f7bc69b396106ffac4345e.png" group-title="(.*);(.*);",Radio Marneuli 96.9
+#EXTINF:-1 tvg-logo="https://www.marneulifm.ge//images/temp/2017/06/14/91d0264419f7bc69b396106ffac4345e.png" group-title="news;talk",Radio Marneuli 96.9
 http://stream.it-solutions.ge:8000/mp3-radiomarneulifm
-#EXTINF:-1 tvg-logo="https://mutantradio.net/wp-content/uploads/2019/10/cropped-gravatar-180x180.jpg" group-title="(.*);(.*);",Mutant Radio
+#EXTINF:-1 tvg-logo="https://mutantradio.net/wp-content/uploads/2019/10/cropped-gravatar-180x180.jpg" group-title="ambient;electro;electronic",Mutant Radio
 https://listen.radioking.com/radio/282820/stream/328621
-#EXTINF:-1 tvg-logo="https://images.radiovolna.net/_files/images/stations/7436/tzl85978406b11390255089785_165x165.webp" group-title="(.*);(.*);",Radio Amra
+#EXTINF:-1 tvg-logo="https://images.radiovolna.net/_files/images/stations/7436/tzl85978406b11390255089785_165x165.webp" group-title="pop;folk;contemporary",Radio Amra
 https://streamer.radio.co/s34b5469e0/listen
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Imedi_Logo.png" group-title="(.*);(.*);",Radio Imedi 105.9
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Imedi_Logo.png" group-title="news;talk;variety",Radio Imedi 105.9
 https://tv.cdn.xsg.ge/radioimedi/stream01/index.m3u8
-#EXTINF:-1 tvg-logo="http://nor.ge/wp-content/themes/radionor/icons/xapple-touch-icon.png.pagespeed.ic.smcyqsvhzp.png" group-title="(.*);(.*);",Radio NOR
+#EXTINF:-1 tvg-logo="http://nor.ge/wp-content/themes/radionor/icons/xapple-touch-icon.png.pagespeed.ic.smcyqsvhzp.png" group-title="variety;news;talk",Radio NOR
 http://iis.ge:8000/nor.mp3
-#EXTINF:-1 tvg-logo="http://www.palitratv.ge/images/stories/palitratvlogo.png" group-title="(.*);(.*);",Radio Palitra 103.9
+#EXTINF:-1 tvg-logo="http://www.palitratv.ge/images/stories/palitratvlogo.png" group-title="pop;oldies",Radio Palitra 103.9
 http://92.241.82.245:8000/live
-#EXTINF:-1 tvg-logo="https://big-radio.net/uploads/posts/2021-01/1611174899_logo-radio-tbilisi-935-fm.png" group-title="(.*);(.*);",Tbilisi FM 93.5
+#EXTINF:-1 tvg-logo="https://big-radio.net/uploads/posts/2021-01/1611174899_logo-radio-tbilisi-935-fm.png" group-title="news;talk",Tbilisi FM 93.5
 http://iis.ge:8000/radiotbilisi.mp3
-#EXTINF:-1 tvg-logo="http://sknews.ge//favicon.ico" group-title="(.*);(.*);",Radio SK
+#EXTINF:-1 tvg-logo="http://sknews.ge//favicon.ico" group-title="folk;news;pop",Radio SK
 http://iis.ge:8000/sk.mp3
-#EXTINF:-1 tvg-logo="http://www.radiodk.ge//images/temp/2016/07/07/1d06c40ed1f368b93c717a1601dc96c9.png" group-title="(.*);(.*);",Radio Old City 107.9
+#EXTINF:-1 tvg-logo="http://www.radiodk.ge//images/temp/2016/07/07/1d06c40ed1f368b93c717a1601dc96c9.png" group-title="folk;pop;top 40",Radio Old City 107.9
 http://iis.ge:8000/radiodk.mp3

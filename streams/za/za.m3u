@@ -1,37 +1,37 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.702.co.za/images/logo-702-160x70.png" group-title="(.*);(.*);",Radio 702 92.7
+#EXTINF:-1 tvg-logo="https://www.702.co.za/images/logo-702-160x70.png" group-title="news;talk;world",Radio 702 92.7
 https://playerservices.streamtheworld.com/api/livestream-redirect/FM702_SC
-#EXTINF:-1 tvg-logo="http://www.947.co.za/site/design/images/947-logo.png" group-title="(.*);(.*);",947 94.7
+#EXTINF:-1 tvg-logo="http://www.947.co.za/site/design/images/947-logo.png" group-title="oldies;hits;hip hop",947 94.7
 https://playerservices.streamtheworld.com/api/livestream-redirect/FM947AAC_SC
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s6400d.png" group-title="(.*);(.*);",947 94.7
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s6400d.png" group-title="adult;contemporary;pop",947 94.7
 https://playerservices.streamtheworld.com/api/livestream-redirect/FM947_SC
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s6400d.png" group-title="(.*);(.*);",947 80s
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s6400d.png" group-title="80s;hits;pop",947 80s
 https://playerservices.streamtheworld.com/api/livestream-redirect/947_80S_SC
-#EXTINF:-1 tvg-logo="https://www.agapeonlineradio.com/uploads/1/3/2/6/132635080/editor/agapefm-1_2.png" group-title="(.*);(.*);",Agape Online Radio
+#EXTINF:-1 tvg-logo="https://www.agapeonlineradio.com/uploads/1/3/2/6/132635080/editor/agapefm-1_2.png" group-title="christian;religious;talk",Agape Online Radio
 https://s4.radio.co/sce8413896/listen
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/87/Algoa_FM_%282013_Logo%29.gif" group-title="(.*);(.*);",Algoa FM
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/87/Algoa_FM_%282013_Logo%29.gif" group-title="pop;world",Algoa FM
 http://edge.iono.fm/xice/54_high.mp3
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDgtZaz0QoMCxIOU3RhdGlvblByb2ZpbGUYgIDg5Z7usgoMogEEemVubw/image/?keep=w&lu=Mon%20Jan%2025%2013:39:22%20UTC+0000%202021" group-title="(.*);(.*);",Big Indie Giant
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDgtZaz0QoMCxIOU3RhdGlvblByb2ZpbGUYgIDg5Z7usgoMogEEemVubw/image/?keep=w&lu=Mon%20Jan%2025%2013:39:22%20UTC+0000%202021" group-title="indie;pop;world",Big Indie Giant
 http://stream.zeno.fm/h092qnwqwmzuv?rj-ttl=5&rj-tok=AAABfdpPPVMA0M8n5QN5mFnw1Q
-#EXTINF:-1 tvg-logo="http://fmradiobuffer.co.za/wp-content/uploads/2015/03/bok-radio-top-40.jpg" group-title="(.*);(.*);",Bok Radio 98.9
+#EXTINF:-1 tvg-logo="http://fmradiobuffer.co.za/wp-content/uploads/2015/03/bok-radio-top-40.jpg" group-title="pop;afrikaans;world",Bok Radio 98.9
 http://bokradio.highquality.radiostream.co.za/
-#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/RRjd3up6aH.png" group-title="(.*);(.*);",Bosveld Stereo
+#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/RRjd3up6aH.png" group-title="pop;rock",Bosveld Stereo
 http://capeant.antfarm.co.za:8000/Bosveld
-#EXTINF:-1 tvg-logo="http://www.capetalk.co.za/apple-touch-icon.png" group-title="(.*);(.*);",Cape Talk
+#EXTINF:-1 tvg-logo="http://www.capetalk.co.za/apple-touch-icon.png" group-title="news;talk",Cape Talk
 https://playerservices.streamtheworld.com/api/livestream-redirect/CAPE_TALK_SC
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Capricomfm300.png/200px-Capricomfm300.png" group-title="(.*);(.*);",Capricorn FM
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Capricomfm300.png/200px-Capricomfm300.png" group-title="adult;contemporary;news",Capricorn FM
 http://edge.iono.fm/xice/67_medium.aac
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3FcTmX1nXMN5QkB8IK4XRieyT2dmJ2b-xjA&s" group-title="variety;talk",Channel Africa
 http://27743.live.streamtheworld.com/CA247AAC.aac
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/ecpzj5tfvszk.jpg" group-title="islam;talk",CiiRadio
 https://edge.iono.fm/xice/109_medium.aac
-#EXTINF:-1 tvg-logo="https://fmradiobuffer.co.za/wp-content/uploads/2015/10/Classic-FM-102.7-South-Africa-Live-Streaming.png" group-title="(.*);(.*);",Classic FM 102.7
+#EXTINF:-1 tvg-logo="https://fmradiobuffer.co.za/wp-content/uploads/2015/10/Classic-FM-102.7-South-Africa-Live-Streaming.png" group-title="baroque;classical",Classic FM 102.7
 http://edge.iono.fm/xice/49_medium.aac?p=embed
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/CbQFkug8kDUNfvTlnv5iafyPCFoP4G-ZwHMBVWUHSE5jYTeB7kjZnT08kuEsdzU-otg5" group-title="oldies;hits",East Coast Radio
 https://live.ecr.co.za/ecrhigh.mp3
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/R-ZCUZnEXz_Wni1hQwCGA9riBVrTgsF57Wdqix2FLzTIiCA3FSW3IpXS6ITJHqC0BQ=w300" group-title="(.*);(.*);",ECR 94.0
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/R-ZCUZnEXz_Wni1hQwCGA9riBVrTgsF57Wdqix2FLzTIiCA3FSW3IpXS6ITJHqC0BQ=w300" group-title="news;urban;contemporary",ECR 94.0
 https://live.ecr.co.za/ecrlow.aac
-#EXTINF:-1 tvg-logo="http://www.fmr.co.za/favicon.ico" group-title="(.*);(.*);",Fine Music Radio
+#EXTINF:-1 tvg-logo="http://www.fmr.co.za/favicon.ico" group-title="classical;jazz",Fine Music Radio
 http://edge.iono.fm/xhls/fmr_live_medium.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6AwNmW0B9whtgF9tHSqu77D6wb4aPwCvInQ&s" group-title="rock;pop",Fresh 87.6 FM
 https://stream-173.zeno.fm/ut4p7ak2uhhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1dDRwN2FrMnVoaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzMuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Il9RVzJnR1RCVFYtcTNFa3JOUFg2OHciLCJpYXQiOjE3NDUyOTk5MzYsImV4cCI6MTc0NTI5OTk5Nn0.yR1-PlbwWPKhOpAxksbEhXHLnffgRGCWxAneYpupXVI
@@ -41,27 +41,27 @@ https://streaming.fabrik.fm/gagasi/echocast/audio/low/index.m3u8
 https://27873.live.streamtheworld.com/GOODHOPEFMAAC.aac
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/jop6mudzKBq7B5GKZ4phKmIh209cPwQDDSP3TObsj667Zuf-taaGByXXeW48qPHPdvaGMVBlUg=s900-c-k-c0x00ffffff-no-rj" group-title="christian;religious",GROOTfm 90.5
 https://cast3.my-control-panel.com/proxy/grootfm/stream
-#EXTINF:-1 tvg-logo="https://www.heartfm.co.za/content/uploads/2017/12/logo-dark.png" group-title="(.*);(.*);",Heart FM 104.9
+#EXTINF:-1 tvg-logo="https://www.heartfm.co.za/content/uploads/2017/12/logo-dark.png" group-title="adult;contemporary;hits",Heart FM 104.9
 https://iceant.antfarm.co.za/HeartFM.mp3
-#EXTINF:-1 tvg-logo="https://www.hot919.co.za/favicon.ico" group-title="(.*);(.*);",Hot 91.9
+#EXTINF:-1 tvg-logo="https://www.hot919.co.za/favicon.ico" group-title="r'n'b;blues;world",Hot 91.9
 http://edge.iono.fm/xice/57_medium.mp3
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/i8CylDwFR4vvaJd4YR2FmsIT7aj127SRnMFuABMUsWdtHmPTR_xr6LUrwnGDFKybRGW2mZdc3A=s900-c-k-c0x00ffffff-no-rj" group-title="culture;variety",Ikwekwezi FM
 https://27873.live.streamtheworld.com/IKWEKWEZIAAC.aac
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/q3w5mJf7RT.png" group-title="(.*);(.*);",Jacaranda 94.2
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/q3w5mJf7RT.png" group-title="adult;contemporary;pop",Jacaranda 94.2
 https://live.jacarandafm.com/jacarandalow.aac
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/q3w5mJf7RT.png" group-title="(.*);(.*);",Jacaranda 94.2
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/q3w5mJf7RT.png" group-title="adult;contemporary;pop",Jacaranda 94.2
 https://live.jacarandafm.com/jacarandahigh.mp3
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/d4620b_c5492128f109421f83d54f495a2ddcce%7emv2.png/v1/fill/w_32%2ch_32%2clg_1%2cusm_0.66_1.00_0.01/d4620b_c5492128f109421f83d54f495a2ddcce%7emv2.png" group-title="(.*);(.*);",Joyful FM
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/d4620b_c5492128f109421f83d54f495a2ddcce%7emv2.png/v1/fill/w_32%2ch_32%2clg_1%2cusm_0.66_1.00_0.01/d4620b_c5492128f109421f83d54f495a2ddcce%7emv2.png" group-title="gospel;christian",Joyful FM
 http://c15.radioboss.fm:8218/stream
-#EXTINF:-1 tvg-logo="https://media.socastsrm.com/uploads/station/1549/squareIcon.png" group-title="(.*);(.*);",Jozi FM
+#EXTINF:-1 tvg-logo="https://media.socastsrm.com/uploads/station/1549/squareIcon.png" group-title="community;talk",Jozi FM
 https://edge.iono.fm/xice/51_medium.aac
-#EXTINF:-1 tvg-logo="https://kuasark.com/files/stations-logos/k8tlego-fm.png" group-title="(.*);(.*);",Katlego FM 
+#EXTINF:-1 tvg-logo="https://kuasark.com/files/stations-logos/k8tlego-fm.png" group-title="christian;religious",Katlego FM 
 http://streamingv2.shoutcast.com/k8tlego-fm
-#EXTINF:-1 tvg-logo="https://www.kayafm.co.za/wp-content/uploads/2018/11/cropped-kayaLogo-270x270.png" group-title="(.*);(.*);",Kaya FM
+#EXTINF:-1 tvg-logo="https://www.kayafm.co.za/wp-content/uploads/2018/11/cropped-kayaLogo-270x270.png" group-title="adult;contemporary;talk",Kaya FM
 https://live-kaya.sharp-stream.com/kayalow.aac
-#EXTINF:-1 tvg-logo="http://www.kfm.co.za/favicon.ico" group-title="(.*);(.*);",KFM 94.5
+#EXTINF:-1 tvg-logo="http://www.kfm.co.za/favicon.ico" group-title="80s;pop;world",KFM 94.5
 https://playerservices.streamtheworld.com/api/livestream-redirect/KFM_80SAAC_SC
-#EXTINF:-1 tvg-logo="https://www.lekkerfm.com/favicon.ico" group-title="(.*);(.*);",Lekker 98.3
+#EXTINF:-1 tvg-logo="https://www.lekkerfm.com/favicon.ico" group-title="hits;top 40;afrikaans",Lekker 98.3
 https://zas3.ndx.co.za:8002/stream
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/28vtMs5yrP.png" group-title="folk;world",Lesedi 106.6 FM
 http://27863.live.streamtheworld.com/LESEDIAAC.aac
@@ -69,59 +69,59 @@ http://27863.live.streamtheworld.com/LESEDIAAC.aac
 http://29083.live.streamtheworld.com/LIGWALAGWALAAAC.aac
 #EXTINF:-1 tvg-logo="https://radio.org.za/uploads/img/link-fm.jpg" group-title="religious;christian",Link FM
 https://de2.streamingpulse.com/ssl/LinkFM
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/de4564_2524b4f238444daaac0c57371512e664~mv2.png/v1/fill/w_119,h_141,al_c,q_85,usm_0.66_1.00_0.01/Logo%20Transparent.webp" group-title="(.*);(.*);",Live Mending Radio
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/de4564_2524b4f238444daaac0c57371512e664~mv2.png/v1/fill/w_119,h_141,al_c,q_85,usm_0.66_1.00_0.01/Logo%20Transparent.webp" group-title="christian;religious",Live Mending Radio
 http://s7.citrus3.com:8348/stream
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/759/lm-radio.6b4581e3.jpg" group-title="adult;contemporary;hits",LM Radio
 https://streaming.fabrik.fm/lm-radio/echocast/audio/low/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/PMfdm6s9YD.png" group-title="world;hindi;bengali",Lotus Radio 87.7
 http://27863.live.streamtheworld.com/LOTUSFMAAC.aac
-#EXTINF:-1 tvg-logo="http://beta.sabc.co.za/metrofm/wp-content/uploads/sites/2/2017/01/xmetro-fm.png.pagespeed.ic.asjhghhk3Q.png" group-title="(.*);(.*);",Metro 92.4
+#EXTINF:-1 tvg-logo="http://beta.sabc.co.za/metrofm/wp-content/uploads/sites/2/2017/01/xmetro-fm.png.pagespeed.ic.asjhghhk3Q.png" group-title="house;hip hop;soul",Metro 92.4
 https://playerservices.streamtheworld.com/api/livestream-redirect/METROFM_SC
-#EXTINF:-1 tvg-logo="https://mfm.co.za/favicon.ico" group-title="(.*);(.*);",MFM 92.6
+#EXTINF:-1 tvg-logo="https://mfm.co.za/favicon.ico" group-title="campus;variety;talk",MFM 92.6
 https://edge.iono.fm/xice/46_medium.aac
-#EXTINF:-1 tvg-logo="https://mixfm.co.za/wp-content/uploads/2019/05/fav-icon.png" group-title="(.*);(.*);",Mix 93.8
+#EXTINF:-1 tvg-logo="https://mixfm.co.za/wp-content/uploads/2019/05/fav-icon.png" group-title="adult;contemporary;easy listening",Mix 93.8
 https://edge.iono.fm/xice/113_medium.aac
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/mcT8nm7JPJ.png" group-title="r'n'b;blues;soul",Motsweding FM
 http://28933.live.streamtheworld.com/MOTSWEDINGAAC.aac
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0pI0TIEPsqE1Tbw4KzKIE-Q8o5FqfXySpkg&s" group-title="pop;news;talk",Munghana Lonene FM
 http://27793.live.streamtheworld.com/MUNGANALONENEAAC.aac
-#EXTINF:-1 tvg-logo="http://www.mzansiurban.co.za/wp-content/uploads/2019/04/mzansiurban_icon.ico" group-title="(.*);(.*);",Mzansi Urban Radio
+#EXTINF:-1 tvg-logo="http://www.mzansiurban.co.za/wp-content/uploads/2019/04/mzansiurban_icon.ico" group-title="jazz;deep;house",Mzansi Urban Radio
 http://live.urbanza.co.za/radio/8000/mzansiurban?1600057209
-#EXTINF:-1 tvg-logo="http://ofm.co.za/apple-touch-icon.png?v=qajpmnpj7j" group-title="(.*);(.*);",OFM 94 & 97 FM
+#EXTINF:-1 tvg-logo="http://ofm.co.za/apple-touch-icon.png?v=qajpmnpj7j" group-title="news;pop",OFM 94 & 97 FM
 http://edge.iono.fm/xice/ofm_live_medium.aac
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/93/Overvaal_Stereo.jpg" group-title="(.*);(.*);",Overvaal Stereo 96.1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/93/Overvaal_Stereo.jpg" group-title="community;talk",Overvaal Stereo 96.1
 http://185.105.4.50:5806/;stream.mp3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ad/Phalaphala_FM_Logo.jpg" group-title="afrikaans;pop",Phalaphala FM
 http://29083.live.streamtheworld.com/PHALAPHALAAAC.aac
 #EXTINF:-1 tvg-logo="https://tvradiotuner.com/radio/wp-content/uploads/Pheli-FM.jpg" group-title="community;gospel;hip hop",Pheli FM 95.0
 http://live.streammedia.org.za/proxy/phelifm/stream
-#EXTINF:-1 tvg-logo="https://mybroadband.co.za/news/wp-content/uploads/2013/06/Power-FM.jpg" group-title="(.*);(.*);",Power 98.7
+#EXTINF:-1 tvg-logo="https://mybroadband.co.za/news/wp-content/uploads/2013/06/Power-FM.jpg" group-title="news;talk",Power 98.7
 https://edge.iono.fm/xice/65_medium.aac
-#EXTINF:-1 tvg-logo="http://www.pretoriafm.co.za/wp-content/uploads/2015/07/pretoria-fm-logo.png" group-title="(.*);(.*);",Pretoria FM
+#EXTINF:-1 tvg-logo="http://www.pretoriafm.co.za/wp-content/uploads/2015/07/pretoria-fm-logo.png" group-title="rock;pop;world",Pretoria FM
 http://capeant.antfarm.co.za:8000/ptafm
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHfWnzFdNFxQpipudwc1lrTGTl28Y50NkXEw&s" group-title="world;variety",Radio 2000 99.7
 https://27863.live.streamtheworld.com/RADIO2000AAC.aac
-#EXTINF:-1 tvg-logo="https://www.radio786.co.za/wp-content/uploads/2020/09/786_logo.png" group-title="(.*);(.*);",Radio 786 100.4
+#EXTINF:-1 tvg-logo="https://www.radio786.co.za/wp-content/uploads/2020/09/786_logo.png" group-title="community;talk",Radio 786 100.4
 http://stream.krypton.co.za:8040/stream/
-#EXTINF:-1 tvg-logo="https://radiobop.co.za/images/apple-touch-icon.png" group-title="(.*);(.*);",Radio Bop
+#EXTINF:-1 tvg-logo="https://radiobop.co.za/images/apple-touch-icon.png" group-title="afrosoul;jazz;r'n'b",Radio Bop
 https://edge.iono.fm/xice/283_medium.aac?ref=https%3A%2F%2Fiono.fm%2Fs%2F283&adToken=
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/850247720543461377/xKyI7rwU.jpg" group-title="(.*);(.*);",Radio Islam International
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/850247720543461377/xKyI7rwU.jpg" group-title="community;islamic;talk",Radio Islam International
 http://listen.radioislam.co.za:8080/radioislam.mp3
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/byyMZDMbQ0aSCCR3jQ8DOuf2ARsZZfzlDrsfpRgZQnlS4wvpMJGHoNiU0dLhxIMbcm0F" group-title="religious;christian",Radio Pulpit 657
 https://edge.iono.fm/xice/189_medium.aac
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/6lBM-9PahZQfRpUqsbHS-VB7KghFrqjouP47FqNKNdo2N8M5QQr9d_-obb_uZ7DUz62m" group-title="religious;catholic",Radio Veritas 846
 https://zas5.ndx.co.za:9618/stream?1745303146156
-#EXTINF:-1 tvg-logo="https://positivefm.org/wp-content/uploads/2021/04/cropped-logo-1.png" group-title="(.*);(.*);",RealMoments Radio
+#EXTINF:-1 tvg-logo="https://positivefm.org/wp-content/uploads/2021/04/cropped-logo-1.png" group-title="christian;gospel",RealMoments Radio
 https://c32.radioboss.fm:18524/stream
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwAjVp4WTcKzitXDQxhNsf2OLGzfnD2fbNGQ&s" group-title="(.*);(.*);",RSG
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwAjVp4WTcKzitXDQxhNsf2OLGzfnD2fbNGQ&s" group-title="world;variety;afrikaans",RSG
 http://albert.antfarm.co.za/rsg/rsg.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/7qSR6sqv3q.png" group-title="news;talk",SAfm
 http://21633.live.streamtheworld.com/SAFMAAC.aac
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/747/sfm-streek-radio.690c19de.png" group-title="sports;news;variety",SFM 90.1
 https://iceant.eclipse-streaming.co.za/SFM
-#EXTINF:-1 tvg-logo="https://drive.google.com/file/d/1jcqay-UPk4x7UCU0tYSetTVZ7N8Hq0ec/view?usp=sharing" group-title="(.*);(.*);",SAFFA On-Air World Radio
+#EXTINF:-1 tvg-logo="https://drive.google.com/file/d/1jcqay-UPk4x7UCU0tYSetTVZ7N8Hq0ec/view?usp=sharing" group-title="news;talk;world",SAFFA On-Air World Radio
 http://stream.zeno.fm/k8cqvwu2za0uv?rj-ttl=5&rj-tok=AAABfd2D824AYVi07gw60ldXBA
-#EXTINF:-1 tvg-logo="http://salaamedia.com/favicon.ico" group-title="(.*);(.*);",Salaamedia
+#EXTINF:-1 tvg-logo="http://salaamedia.com/favicon.ico" group-title="islam;news",Salaamedia
 http://capeant.antfarm.co.za:1935/salaam/salaam.stream/chunklist_w1196116988.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Smile_FM_logo.jpg" group-title="adult;contemporary;hits",Smile 90.4 FM
 https://edge.iono.fm/xice/212_medium.aac
@@ -129,27 +129,27 @@ https://edge.iono.fm/xice/212_medium.aac
 http://22183.live.streamtheworld.com/THOBELAAAC.aac
 #EXTINF:-1 tvg-logo="https://za.radio.net/300/tru-fm.png?version=bbd3b2d794ead13e52a21d35432018dd" group-title="talk;pop;r'n'b",Tru FM
 http://27743.live.streamtheworld.com/TRUFMAAC.aac
-#EXTINF:-1 tvg-logo="https://i1.wp.com/tuksfm.co.za/wp-content/uploads/2019/11/cropped-tuks-fm-favicon.png?fit=180%2c180" group-title="(.*);(.*);",Tuks FM
+#EXTINF:-1 tvg-logo="https://i1.wp.com/tuksfm.co.za/wp-content/uploads/2019/11/cropped-tuks-fm-favicon.png?fit=180%2c180" group-title="alternative;rock",Tuks FM
 http://edge.iono.fm/xice/tuksfm_live_medium.aac
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/664d36_8505ed258be74b0fa33187a224e18372%7emv2.png/v1/fill/w_32%2ch_32%2clg_1%2cusm_0.66_1.00_0.01/664d36_8505ed258be74b0fa33187a224e18372%7emv2.png" group-title="(.*);(.*);",Ubuntu Beats Radio
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/664d36_8505ed258be74b0fa33187a224e18372%7emv2.png/v1/fill/w_32%2ch_32%2clg_1%2cusm_0.66_1.00_0.01/664d36_8505ed258be74b0fa33187a224e18372%7emv2.png" group-title="world;variety",Ubuntu Beats Radio
 https://streams.radio.co/sbb581039b/listen
-#EXTINF:-1 tvg-logo="https://www.ubuntu.fm/sites/default/files/logo.svg" group-title="(.*);(.*);",Ubuntu FM
+#EXTINF:-1 tvg-logo="https://www.ubuntu.fm/sites/default/files/logo.svg" group-title="pop;soul;world",Ubuntu FM
 https://streaming.coollective.nl:8443/UbuntuFM
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/VL79VXhAhb.jpg" group-title="world;variety",Ukhozi 91.5 FM
 http://28953.live.streamtheworld.com/UKHOZIFMAAC.aac
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/v9pyHBZU8B.png" group-title="world;variety",Umhlobo Wenene FM
 http://28993.live.streamtheworld.com/UMHLOBOWENENEAAC.aac
-#EXTINF:-1 tvg-logo="https://za.radio.net/300/uniquefive-hd-radio.png?version=0c83a600d5783807990a7d9e0e994dd8" group-title="(.*);(.*);",UniqueFive HD Radio
+#EXTINF:-1 tvg-logo="https://za.radio.net/300/uniquefive-hd-radio.png?version=0c83a600d5783807990a7d9e0e994dd8" group-title="soul;r'n'b;90s",UniqueFive HD Radio
 http://stream.zeno.fm/a4t818ymva0uv?rj-ttl=5&rj-tok=AAABfdq_6noABPdjVirX8UnhFw
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/FysuGTqf7f.jpg" group-title="community;pop",Vuma 103.0 FM
 https://edge.iono.fm/xice/77_medium.aac
 #EXTINF:-1 tvg-logo="https://za.radio.net/300/x-k-fm.png?version=aeeedd62113d3688a0d409d9bfce19a6" group-title="community;pop",XK 107.9 FM
 https://23543.live.streamtheworld.com/XKFMAAC_SC
-#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/JfwtLBVEWn.png" group-title="(.*);(.*);",Y 99.2
+#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/JfwtLBVEWn.png" group-title="hip hop;house;r'n'b",Y 99.2
 http://streaming.fabrik.fm/yfm/echocast/audio/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNmUfiUpwWKuv9Ig5jwW08ZK4emksWP-ZzDA&s" group-title="r'n'b;world;house",You 89.8 FM
 https://streaming.fabrik.fm/youfm/echocast/audio/low/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iono.fm/files/p979/logo_74_20220426_125034_600.jpg" group-title="community;talk",Radio Zibonele 98.2
 https://edge.iono.fm/xice/74_medium.aac
-#EXTINF:-1 tvg-logo="https://www.zoeliveradio.co.za/wp-content/uploads/2020/08/zoelive-website-icon-2.png" group-title="(.*);(.*);",ZoeLive Radio
+#EXTINF:-1 tvg-logo="https://www.zoeliveradio.co.za/wp-content/uploads/2020/08/zoelive-website-icon-2.png" group-title="gospel;christian",ZoeLive Radio
 https://live.urbanza.co.za/radio/8010/zoeliveradio?1601106285

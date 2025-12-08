@@ -1,27 +1,27 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.allonlineradio.com/wp-content/uploads/2021/09/Kazakhstan-radio-Avtoradio-Kazakhstan-logo.jpg" group-title="(.*);(.*);",Avtoradio 105.4
+#EXTINF:-1 tvg-logo="https://www.allonlineradio.com/wp-content/uploads/2021/09/Kazakhstan-radio-Avtoradio-Kazakhstan-logo.jpg" group-title="news;talk",Avtoradio 105.4
 http://178.88.167.62:8080/AVTORADIO_192
-#EXTINF:-1 tvg-logo="https://guzei.com/online_radio/logo300/21377.jpg" group-title="(.*);(.*);",Business FM 89.6
+#EXTINF:-1 tvg-logo="https://guzei.com/online_radio/logo300/21377.jpg" group-title="business;news;talk",Business FM 89.6
 http://94.247.130.243:5050/business
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5LrvwvPYt9o7I5_iHjkkDGyY2UuYg4OnAAA&s" group-title="(.*);(.*);",Classic Radiosy
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5LrvwvPYt9o7I5_iHjkkDGyY2UuYg4OnAAA&s" group-title="classical;baroque",Classic Radiosy
 https://radio-streams.kaztrk.kz/classic/classic/icecast.audio
-#EXTINF:-1 tvg-logo="http://www.otautv.kz/uploads/channels/file5903173620d51.png" group-title="(.*);(.*);",Energy FM 102.2
+#EXTINF:-1 tvg-logo="http://www.otautv.kz/uploads/channels/file5903173620d51.png" group-title="club;dance;electronic",Energy FM 102.2
 http://89.219.34.117:8008/NEWENERGY_256k
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ_9enYm0DdnvF06SIBhmdVcdi0cn5ZRLUMg&s" group-title="(.*);(.*);",Europa Plus 107.0
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ_9enYm0DdnvF06SIBhmdVcdi0cn5ZRLUMg&s" group-title="adult;contemporary;pop",Europa Plus 107.0
 https://europaplus.hostingradio.ru:8014/europaplus320.mp3
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeauI_SwrwJ_4D-FivFZ_yRY_yuh8OMnBrFQ&s" group-title="(.*);(.*);",Love Radio
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeauI_SwrwJ_4D-FivFZ_yRY_yuh8OMnBrFQ&s" group-title="pop;hits",Love Radio
 https://stream.gakku.kz:8443/love128.mp3
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeWL_Rv99drdRa3BiiT92YIl-ziN_GfHKvJA&s" group-title="(.*);(.*);",Qazaq Radiosy 101.0
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeWL_Rv99drdRa3BiiT92YIl-ziN_GfHKvJA&s" group-title="news;talk;folk",Qazaq Radiosy 101.0
 https://radio-streams.kaztrk.kz/qazradio/qazradio/icecast.audio
-#EXTINF:-1 tvg-logo="https://pp.userapi.com/c604629/v604629901/2895f/Odz4R2Qypt4.jpg" group-title="(.*);(.*);",Radio NS FM 106.0
+#EXTINF:-1 tvg-logo="https://pp.userapi.com/c604629/v604629901/2895f/Odz4R2Qypt4.jpg" group-title="dance;disco;entertainment",Radio NS FM 106.0
 http://89.219.35.26:8000/radions
-#EXTINF:-1 tvg-logo="https://pp.userapi.com/c837231/v837231617/5990/ChfZPOJgSmA.jpg" group-title="(.*);(.*);",Radio 90s Eurodance
+#EXTINF:-1 tvg-logo="https://pp.userapi.com/c837231/v837231617/5990/ChfZPOJgSmA.jpg" group-title="90s;world;dance",Radio 90s Eurodance
 https://listen1.myradio24.com/5967
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/1/99521.v1.png" group-title="(.*);(.*);",Russian Dance Radio
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/1/99521.v1.png" group-title="electronic;russian",Russian Dance Radio
 https://lux-radio.com:8015/stream
-#EXTINF:-1 tvg-logo="https://fmcube.net/images/stations/61b09cbde8b2b.jpg" group-title="(.*);(.*);",Russkoye Radio Asia FM 104.7
+#EXTINF:-1 tvg-logo="https://fmcube.net/images/stations/61b09cbde8b2b.jpg" group-title="top 40;news;pop",Russkoye Radio Asia FM 104.7
 http://31.148.22.35:9000/stream
-#EXTINF:-1 tvg-logo="https://qazradio.fm/images/icon-114x114.png?9" group-title="(.*);(.*);",Shalqar FM 100.4
+#EXTINF:-1 tvg-logo="https://qazradio.fm/images/icon-114x114.png?9" group-title="variety;talk",Shalqar FM 100.4
 https://radio-streams.kaztrk.kz/shalqar/shalqar/icecast.audio
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGDbgnUCnmO1bJx6RQjP0ZZfyfI-HhaMxHAQ&s" group-title="(.*);(.*);",Zhuldyz FM
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGDbgnUCnmO1bJx6RQjP0ZZfyfI-HhaMxHAQ&s" group-title="pop;hits",Zhuldyz FM
 http://91.201.214.229:8000/zhulduz

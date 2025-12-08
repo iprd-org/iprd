@@ -1,31 +1,31 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1794378661161840640/m-Ho18th_400x400.jpg" group-title="talk;variety",93.3 KFM
 https://ams-2629.antmedia.cloud/LiveApp/streams/kfmlive_adaptive.m3u8
-#EXTINF:-1 tvg-logo="http://www.akaboozi.com/wp-content/uploads/2019/08/logo_aka.png" group-title="(.*);(.*);",Akaboozi 87.9
+#EXTINF:-1 tvg-logo="http://www.akaboozi.com/wp-content/uploads/2019/08/logo_aka.png" group-title="news;talk",Akaboozi 87.9
 http://162.244.80.52:8732/stream.mp3
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1e/91.3_Capital_FM_Logo.jpg" group-title="(.*);(.*);",Capital 91.3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1e/91.3_Capital_FM_Logo.jpg" group-title="contemporary;hits",Capital 91.3
 http://5229.cloudrad.io:8316/listen.pls
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s7477g.png" group-title="(.*);(.*);",CBS 88.8
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s7477g.png" group-title="pop;news;variety",CBS 88.8
 http://s5.voscast.com:9908/EYOBUJJAJJA
-#EXTINF:-1 tvg-logo="https://www.galaxyfm.co.ug/wp-content/uploads/2018/01/Galaxy-FM-Logo.png" group-title="(.*);(.*);",Galaxy 100.2
+#EXTINF:-1 tvg-logo="https://www.galaxyfm.co.ug/wp-content/uploads/2018/01/Galaxy-FM-Logo.png" group-title="hits;youth;english",Galaxy 100.2
 https://streamingv2.shoutcast.com/galaxy-fm-1002
 #EXTINF:-1 tvg-logo="https://mcfradio.co.ug/wp-content/uploads/2017/05/logo-MCF.png" group-title="gospel;christian",MCF Radio 98.7
 https://shaincast.caster.fm/get_podcast.php?username=mcfradio2016&filename=mcfradio2016-1733047401.mp3&auth=pdauthna9f1cccc4d91bc1072466315187c37cd&dl=true
-#EXTINF:-1 tvg-logo="https://www.powerfm.co.ug/wp-content/uploads/2019/05/logo.jpg" group-title="(.*);(.*);",Power FM 104.1
+#EXTINF:-1 tvg-logo="https://www.powerfm.co.ug/wp-content/uploads/2019/05/logo.jpg" group-title="christian;religious;talk",Power FM 104.1
 https://securestreams5.autopo.st:1941/stream
-#EXTINF:-1 tvg-logo="http://www.radiomaria.ug/wp-content/uploads/2017/12/cropped-per-favicon-270x270.jpg" group-title="(.*);(.*);",Radio Maria 101.8
+#EXTINF:-1 tvg-logo="http://www.radiomaria.ug/wp-content/uploads/2017/12/cropped-per-favicon-270x270.jpg" group-title="catholic;religion;talk",Radio Maria 101.8
 http://dreamsiteradiocp.com:8052/stream
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTShtPoGrJabz7IEQIboHeJANIHOgaEwlsZAw&s" group-title="(.*);(.*);",Radio One 90.0
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTShtPoGrJabz7IEQIboHeJANIHOgaEwlsZAw&s" group-title="sports;news;variety",Radio One 90.0
 http://162.244.80.52:8740/stream
-#EXTINF:-1 tvg-logo="http://radiosapientia.com/favicon.ico" group-title="(.*);(.*);",Radio Sapientia 94.4
+#EXTINF:-1 tvg-logo="http://radiosapientia.com/favicon.ico" group-title="christian;gospel;catholic",Radio Sapientia 94.4
 https://www.radiosapientia.com/live
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/EnoZjXC9hxeAmTWuC7fiAV5YWv2yKlcgpwEDtu-fVLAr7lkcxuhxnhMoC_spGk0W6SyaRAzFvw=s900-c-k-c0x00ffffff-no-rj" group-title="variety;talk",Radio Simba 97.3
 https://www.radiosimba.ug/stream2
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_WA-_oKlGlQPjg0pRahJsWyPGlsD1HpOOtQ&s" group-title="variety;news",Radio West 100.2
 https://stream.hydeinnovations.com:2020/stream/radiowest/stream
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/d258bf_9ee2ce20728d4cf48214cf55c12914de~mv2.png/v1/crop/x_0,y_168,w_600,h_278/fill/w_140,h_67,al_c,q_85,usm_0.66_1.00_0.01/reckless%20logo%20black%20clear.webp" group-title="(.*);(.*);",RX Radio
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/d258bf_9ee2ce20728d4cf48214cf55c12914de~mv2.png/v1/crop/x_0,y_168,w_600,h_278/fill/w_140,h_67,al_c,q_85,usm_0.66_1.00_0.01/reckless%20logo%20black%20clear.webp" group-title="world;variety;pop",RX Radio
 https://c14.radioboss.fm:18223/stream?1615807421100=
-#EXTINF:-1 tvg-logo="http://sanyufm.com/favicon.ico" group-title="(.*);(.*);",Sanyu 88.2
+#EXTINF:-1 tvg-logo="http://sanyufm.com/favicon.ico" group-title="education;talk;variety",Sanyu 88.2
 http://s44.myradiostream.com:8138/stream
-#EXTINF:-1 tvg-logo="https://ugandabaptistradio.com/favicon.ico" group-title="(.*);(.*);",Uganda Baptist Radio
+#EXTINF:-1 tvg-logo="https://ugandabaptistradio.com/favicon.ico" group-title="christian;religious",Uganda Baptist Radio
 https://shout2.brnstream.com/proxy/ugandaradio?mp=/stream

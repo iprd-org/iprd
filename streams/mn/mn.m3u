@@ -1,17 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.radio-addict.com/media/stream/fdcaca87-2641-48c6-b3d7-10d5bf188917_48C589D0FD2E4A1A65166CC782648DA0_icon.png" group-title="(.*);(.*);",BESTTIME
+#EXTINF:-1 tvg-logo="https://www.radio-addict.com/media/stream/fdcaca87-2641-48c6-b3d7-10d5bf188917_48C589D0FD2E4A1A65166CC782648DA0_icon.png" group-title="world;hits",BESTTIME
 http://103.48.116.109:9000/;?listening-from-radio-garden=1608463364113
-#EXTINF:-1 tvg-logo="https://ambadnya.in/radio_list/mongolia/businessfm.png" group-title="(.*);(.*);",Business Radio 98.9
+#EXTINF:-1 tvg-logo="https://ambadnya.in/radio_list/mongolia/businessfm.png" group-title="news;talk;business",Business Radio 98.9
 http://202.131.233.34:8014/stream
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYu9cFiY1pj48vy1Zxn3QysexdGlB9D6Wl4Q&s" group-title="(.*);(.*);",Elgen Nutag FM 96.9
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYu9cFiY1pj48vy1Zxn3QysexdGlB9D6Wl4Q&s" group-title="pop;news;talk",Elgen Nutag FM 96.9
 https://a6.asurahosting.com:7210/radio.mp3?refresh=1741328676269
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/radio/gg/ger-bulin-radio-1045-mn.svg" group-title="(.*);(.*);",Ger Bulin Radio 104.5
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/radio/gg/ger-bulin-radio-1045-mn.svg" group-title="variety;talk",Ger Bulin Radio 104.5
 https://c2.radioboss.fm/stream/394?1741328822230
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ptMif2AgE_RKmZkriMQ33JS3qgBHqxzasA6BLSt2ZambQHRM2vOIDdyfqu442Y3_NgHmkOxK4Q=s900-c-k-c0x00ffffff-no-rj" group-title="(.*);(.*);",MGL Radio 88.3
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ptMif2AgE_RKmZkriMQ33JS3qgBHqxzasA6BLSt2ZambQHRM2vOIDdyfqu442Y3_NgHmkOxK4Q=s900-c-k-c0x00ffffff-no-rj" group-title="pop;ballads;news",MGL Radio 88.3
 https://s17.ssl-stream.com/proxy/mglradio?mp=/stream
-#EXTINF:-1 tvg-logo="https://mongolia.mom-gmr.org/uploads/_processed_/7/0/csm_3037-243_company_import_ee86c286e4.jpg" group-title="(.*);(.*);",MNB Mongolyn Radio
+#EXTINF:-1 tvg-logo="https://mongolia.mom-gmr.org/uploads/_processed_/7/0/csm_3037-243_company_import_ee86c286e4.jpg" group-title="talk;variety;news",MNB Mongolyn Radio
 https://live.mnb.mn/hls/radio1.stream.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/8xQM6hUuGA2tgcKlJKWOkUiiFtXGt1higd_wWc56XMMOtZi96YxqaNXX10VtlZ4LIPVZNYx4pnMT9Y-vnxCviXtvromiu0hp4Q" group-title="(.*);(.*);",MNB P3 FM 100.9
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/8xQM6hUuGA2tgcKlJKWOkUiiFtXGt1higd_wWc56XMMOtZi96YxqaNXX10VtlZ4LIPVZNYx4pnMT9Y-vnxCviXtvromiu0hp4Q" group-title="talk;variety;news",MNB P3 FM 100.9
 https://live.mnb.mn/hls/radio2.stream.m3u8
-#EXTINF:-1 tvg-logo="http://www.bestfm.mn/themes/simple/images/favicon.png" group-title="(.*);(.*);",Mongolia Best Radio 98.5
+#EXTINF:-1 tvg-logo="http://www.bestfm.mn/themes/simple/images/favicon.png" group-title="variety;talk",Mongolia Best Radio 98.5
 http://103.48.116.109:9000/listen.pls
