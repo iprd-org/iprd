@@ -22,8 +22,8 @@ The complete collection is available as a single M3U file:
 Browse stations by country:
 
 <!-- Improved error handling for GitHub Actions -->
-{% if site.data.summary and site.data.summary.countries and site.data.summary.countries.size > 0 %}
-  {% assign countries = site.data.summary.countries | sort: "name" %}
+{% if site_data.summary and site_data.summary.countries and site_data.summary.countries.size > 0 %}
+  {% assign countries = site_data.summary.countries | sort: "name" %}
   {% if countries.size > 0 %}
   <ul>
     {% for country in countries %}

@@ -6,6 +6,7 @@ import datetime
 import hashlib
 import logging
 import urllib.parse
+from functools import lru_cache
 from pathlib import Path
 from collections import defaultdict, Counter
 
@@ -40,40 +41,50 @@ METADATA_DIR.mkdir(exist_ok=True)
 
 # Common audio format extensions and their details
 AUDIO_FORMATS = {
-    'mp3': {'name': 'MP3', 'default_bitrate': 128},
-    'aac': {'name': 'AAC', 'default_bitrate': 128},
-    'ogg': {'name': 'OGG', 'default_bitrate': 128},
-    'flac': {'name': 'FLAC', 'default_bitrate': 960},
-    'm4a': {'name': 'AAC', 'default_bitrate': 128},
-    'opus': {'name': 'OPUS', 'default_bitrate': 96},
-    'wav': {'name': 'WAV', 'default_bitrate': 1411},
+    'mp3': ('MP3', 128),
+    'aac': ('AAC', 128),
+    'ogg': ('OGG', 128),
+    'flac': ('FLAC', 960),
+    'm4a': ('AAC', 128),
+    'opus': ('OPUS', 96),
+    'wav': ('WAV', 1411),
 }
 
-def get_language_from_country(code: str) -> list[str]:
-    """Get official languages for a country code using babel and pycountry."""
+# Pre-compiled regex patterns for better performance
+BITRATE_PATTERNS = [
+    re.compile(r'[-_/](\d+)k[-_/.]', re.IGNORECASE),
+    re.compile(r'[-_/](\d+)kbps[-_/.]', re.IGNORECASE),
+    re.compile(r'[-_/](\d+)kb[-_/.]', re.IGNORECASE),
+    re.compile(r'[-_/.](\d+)[-_/.]'),
+]
+EXTINF_PATTERN = re.compile(r'tvg-logo="([^"]*)".*group-title="([^"]*)",(.*)')
+STATION_ID_CLEAN_PATTERN = re.compile(r'[^a-z0-9]')
+STATION_ID_HYPHEN_PATTERN = re.compile(r'-+')
+
+@lru_cache(maxsize=256)
+def get_language_from_country(code: str) -> tuple[str, ...]:
+    """Get official languages for a country code using babel and pycountry.
+    
+    Returns a tuple for hashability (required for lru_cache).
+    """
     code = code.upper()
     langs = []
     
     try:
         # Get language codes commonly associated with this country
-        # Using pycountry to find languages
         country = pycountry.countries.get(alpha_2=code)
         if not country:
-            return []
+            return ()
         
-        # Try common locale patterns for this country
-        common_locales = [
-            f"{code.lower()}_{code}",  # e.g., fr_FR, de_DE
-        ]
-        
-        for locale_str in common_locales:
-            try:
-                locale = Locale.parse(locale_str)
-                lang = pycountry.languages.get(alpha_2=locale.language)
-                if lang and lang.name and lang.name not in langs:
-                    langs.append(lang.name)
-            except (UnknownLocaleError, ValueError):
-                pass
+        # Try common locale pattern for this country
+        locale_str = f"{code.lower()}_{code}"  # e.g., fr_FR, de_DE
+        try:
+            locale = Locale.parse(locale_str)
+            lang = pycountry.languages.get(alpha_2=locale.language)
+            if lang and lang.name:
+                langs.append(lang.name)
+        except (UnknownLocaleError, ValueError):
+            pass
         
         # Fallback: try to get language from country code directly
         if not langs:
@@ -84,20 +95,14 @@ def get_language_from_country(code: str) -> list[str]:
     except Exception:
         pass
     
-    return langs
+    return tuple(langs)
 
-def extract_bitrate_from_url(url):
+def extract_bitrate_from_url(url: str) -> int:
     """Attempt to extract bitrate information from URL."""
-    # Common patterns in URLs for bitrate: 128k, 320, 64, etc.
-    bitrate_patterns = [
-        r'[-_/](\d+)k[-_/.]',
-        r'[-_/](\d+)kbps[-_/.]',
-        r'[-_/](\d+)kb[-_/.]',
-        r'[-_/.](\d+)[-_/.]',  # More generic pattern, lower priority
-    ]
+    url_lower = url.lower()
     
-    for pattern in bitrate_patterns:
-        match = re.search(pattern, url.lower())
+    for pattern in BITRATE_PATTERNS:
+        match = pattern.search(url_lower)
         if match:
             try:
                 bitrate = int(match.group(1))
@@ -108,69 +113,73 @@ def extract_bitrate_from_url(url):
                 pass
     
     # Try to determine from known stream providers
-    if 'icecast' in url.lower():
+    if 'icecast' in url_lower:
         return 128  # Common default for Icecast
     
     return 0  # Unknown
 
-def determine_audio_format(url):
+# Format identifiers mapping (defined once at module level)
+FORMAT_IDENTIFIERS = {
+    'mp3': ('mp3', 'mpeg'),
+    'aac': ('aac', 'aacp', 'he-aac'),
+    'ogg': ('ogg', 'vorbis'),
+    'flac': ('flac',),
+    'opus': ('opus',),
+    'wav': ('wav', 'pcm'),
+}
+
+def determine_audio_format(url: str) -> tuple[str, int]:
     """Determine audio format from URL and parameters."""
-    # Check for format in the file extension
     parsed_url = urllib.parse.urlparse(url)
-    path = parsed_url.path.lower()
+    path_lower = parsed_url.path.lower()
+    url_lower = url.lower()
     
     # Extract extension from path
-    if '.' in path:
-        ext = path.split('.')[-1].lower()
+    dot_pos = path_lower.rfind('.')
+    if dot_pos != -1:
+        ext = path_lower[dot_pos + 1:]
         if ext in AUDIO_FORMATS:
-            return AUDIO_FORMATS[ext]['name'], AUDIO_FORMATS[ext]['default_bitrate']
+            return AUDIO_FORMATS[ext]
     
     # Check common format identifiers in the URL
-    format_identifiers = {
-        'mp3': ['mp3', 'mpeg'],
-        'aac': ['aac', 'aacp', 'he-aac'],
-        'ogg': ['ogg', 'vorbis'],
-        'flac': ['flac'],
-        'opus': ['opus'],
-        'wav': ['wav', 'pcm'],
-    }
-    
-    for fmt, identifiers in format_identifiers.items():
+    for fmt, identifiers in FORMAT_IDENTIFIERS.items():
         for identifier in identifiers:
-            if identifier in url.lower():
-                return AUDIO_FORMATS[fmt]['name'], AUDIO_FORMATS[fmt]['default_bitrate']
+            if identifier in url_lower:
+                return AUDIO_FORMATS[fmt]
     
     # Check query parameters for format clues
-    query_params = urllib.parse.parse_qs(parsed_url.query)
-    for param_name, param_values in query_params.items():
-        param_name = param_name.lower()
-        if param_name in ['format', 'fmt', 'type']:
-            for value in param_values:
-                value = value.lower()
-                for fmt, identifiers in format_identifiers.items():
-                    if value in identifiers:
-                        return AUDIO_FORMATS[fmt]['name'], AUDIO_FORMATS[fmt]['default_bitrate']
+    if parsed_url.query:
+        query_params = urllib.parse.parse_qs(parsed_url.query)
+        for param_name, param_values in query_params.items():
+            if param_name.lower() in ('format', 'fmt', 'type'):
+                for value in param_values:
+                    value_lower = value.lower()
+                    for fmt, identifiers in FORMAT_IDENTIFIERS.items():
+                        if value_lower in identifiers:
+                            return AUDIO_FORMATS[fmt]
     
     return "Unknown", 0
 
-def parse_m3u_file(file_path):
+def parse_m3u_file(file_path: Path) -> list[dict]:
     """Parse an M3U file and extract station information."""
     stations = []
     current_station = None
-    country_code = os.path.basename(os.path.dirname(file_path))
+    country_code = file_path.parent.name
+    country_code_upper = country_code.upper()
+    
+    # Cache country name and language for this file (all stations share the same country)
+    country_name = get_country_name(country_code)
+    language = list(get_language_from_country(country_code))
     
     with open(file_path, 'r', encoding='utf-8', errors='replace') as f:
         for line in f:
             line = line.strip()
-            if not line or line.startswith('//'):
-                continue
-                
-            if line.startswith('#EXTM3U'):
+            if not line or line.startswith(('//', '#EXTM3U')):
                 continue
                 
             if line.startswith('#EXTINF:'):
                 # Parse the EXTINF line
-                match = re.search(r'tvg-logo="([^"]*)".*group-title="([^"]*)",(.*)', line)
+                match = EXTINF_PATTERN.search(line)
                 if match:
                     logo_url = match.group(1)
                     group_title = match.group(2)
@@ -183,11 +192,11 @@ def parse_m3u_file(file_path):
                         'name': station_name,
                         'logo': logo_url,
                         'genres': genres,
-                        'country_code': country_code.upper(),
-                        'country': get_country_name(country_code),
-                        'language': get_language_from_country(country_code)
+                        'country_code': country_code_upper,
+                        'country': country_name,
+                        'language': language
                     }
-            elif current_station and line.startswith(('http://', 'https://')):
+            elif current_station and (line.startswith('http://') or line.startswith('https://')):
                 # This is a URL line
                 current_station['url'] = line
                 
@@ -199,39 +208,40 @@ def parse_m3u_file(file_path):
                 current_station['bitrate'] = bitrate
                 
                 # Generate a unique ID
-                unique_id = generate_station_id(current_station)
-                current_station['id'] = unique_id
+                current_station['id'] = generate_station_id(current_station)
                 
                 stations.append(current_station)
                 current_station = None
                 
     return stations
 
-def generate_station_id(station):
+def generate_station_id(station: dict) -> str:
     """Generate a unique ID for a station based on name, country, and URL."""
     # Create a base string from station name and country
     base = f"{station['country_code'].lower()}-{station['name'].lower()}"
     
     # Clean the base string to create a URL-friendly ID
-    base = re.sub(r'[^a-z0-9]', '-', base)
-    base = re.sub(r'-+', '-', base)  # Replace multiple hyphens with a single one
+    base = STATION_ID_CLEAN_PATTERN.sub('-', base)
+    base = STATION_ID_HYPHEN_PATTERN.sub('-', base)  # Replace multiple hyphens with a single one
     base = base.strip('-')
     
     # Add a unique hash based on the URL to avoid conflicts
-    url_hash = hashlib.md5(station['url'].encode()).hexdigest()[:8]
+    url_hash = hashlib.md5(station['url'].encode(), usedforsecurity=False).hexdigest()[:8]
     
     return f"{base}-{url_hash}"
 
-def get_country_name(country_code):
+@lru_cache(maxsize=256)
+def get_country_name(country_code: str) -> str:
     """Get the full country name from a country code using pycountry."""
+    code_upper = country_code.upper()
     try:
-        country = pycountry.countries.get(alpha_2=country_code.upper())
+        country = pycountry.countries.get(alpha_2=code_upper)
         if country:
             return country.name
     except (KeyError, LookupError):
         pass
     
-    return country_code.upper()
+    return code_upper
 
 def load_validation_results():
     """Load validation results if available."""
@@ -244,37 +254,49 @@ def load_validation_results():
     
     return {'stations': {}}
 
-def get_all_stations():
+def get_all_stations() -> tuple[list[dict], dict[str, int], list[dict]]:
     """Get all stations from all M3U files."""
     all_stations = []
     country_counts = defaultdict(int)
     country_files = []
     
-    for file_path in STREAMS_DIR.glob('**/*.m3u'):
-        if file_path.is_file():
-            country_code = file_path.parent.name
-            stations = parse_m3u_file(file_path)
+    # Get all m3u files and sort for consistent ordering
+    m3u_files = sorted(STREAMS_DIR.glob('**/*.m3u'))
+    
+    for file_path in m3u_files:
+        if not file_path.is_file():
+            continue
             
-            for station in stations:
-                station['source_file'] = str(file_path.relative_to(ROOT_DIR))
-            
-            all_stations.extend(stations)
-            country_counts[country_code.upper()] = len(stations) + country_counts[country_code.upper()]
-            country_files.append({
-                'code': country_code.upper(),
-                'file': str(file_path.relative_to(ROOT_DIR)),
-                'count': len(stations)
-            })
-            logging.info(f"Processed {file_path.name}: {len(stations)} stations")
+        country_code = file_path.parent.name
+        country_code_upper = country_code.upper()
+        stations = parse_m3u_file(file_path)
+        station_count = len(stations)
+        
+        # Calculate relative path once
+        relative_path = str(file_path.relative_to(ROOT_DIR))
+        
+        for station in stations:
+            station['source_file'] = relative_path
+        
+        all_stations.extend(stations)
+        country_counts[country_code_upper] += station_count
+        country_files.append({
+            'code': country_code_upper,
+            'file': relative_path,
+            'count': station_count
+        })
+        logging.info(f"Processed {file_path.name}: {station_count} stations")
     
     return all_stations, country_counts, country_files
 
-def analyze_genres(stations):
+def analyze_genres(stations: list[dict]) -> dict:
     """Analyze genres across all stations."""
-    genre_counter = Counter()
-    for station in stations:
-        for genre in station['genres']:
-            genre_counter[genre.lower()] += 1
+    # Use generator expression for memory efficiency
+    genre_counter = Counter(
+        genre.lower()
+        for station in stations
+        for genre in station['genres']
+    )
     
     # Get top genres
     top_genres = genre_counter.most_common(50)
@@ -284,59 +306,62 @@ def analyze_genres(stations):
         'top_genres': [{'name': genre, 'count': count} for genre, count in top_genres]
     }
 
-def generate_metadata_catalog(stations, validation_results):
+def generate_metadata_catalog(stations: list[dict], validation_results: dict) -> dict:
     """Generate metadata catalog JSON file with station information."""
     now = datetime.datetime.now(datetime.UTC)
     updated_time = now.strftime("%Y-%m-%dT%H:%M:%SZ")
+    
+    # Pre-extract validation stations dict for faster lookup
+    validation_stations = validation_results.get('stations', {}) if validation_results else {}
+    
+    # Pre-allocate list with known size
+    catalog_stations = []
+    
+    # Add stations to the catalog
+    for station in stations:
+        # Determine reliability based on validation results
+        url = station['url']
+        if url in validation_stations:
+            reliability = 0.95 if validation_stations[url] == 'ok' else 0.3
+        else:
+            reliability = 0.5  # Default reliability
+        
+        # Extract website from logo URL if possible
+        logo = station['logo']
+        website = ""
+        if logo and logo.startswith('http'):
+            parsed_url = urllib.parse.urlparse(logo)
+            if parsed_url.netloc:
+                website = f"{parsed_url.scheme}://{parsed_url.netloc}"
+        
+        genres = station['genres']
+        
+        # Create the station entry
+        catalog_stations.append({
+            "id": station['id'],
+            "name": station['name'],
+            "country": station['country'],
+            "language": station['language'],
+            "genres": genres,
+            "website": website,
+            "streams": [{
+                "url": url,
+                "format": station['format'],
+                "bitrate": station['bitrate'],
+                "reliability": reliability
+            }],
+            "tags": genres[:3] if genres else [],
+            "lastChecked": updated_time,
+            "logo": logo,
+            "source": station['source_file']
+        })
     
     # Create the catalog structure
     catalog = {
         "version": "1.0",
         "updated": updated_time,
-        "stations": []
+        "stations": catalog_stations
     }
-    
-    # Add stations to the catalog
-    for station in stations:
-        station_id = station['id']
-        
-        # Determine reliability based on validation results
-        reliability = 0.5  # Default reliability
-        if validation_results and 'stations' in validation_results:
-            if station['url'] in validation_results['stations']:
-                status = validation_results['stations'][station['url']]
-                reliability = 0.95 if status == 'ok' else 0.3
-        
-        # Extract website from logo URL if possible
-        website = ""
-        if station['logo'] and station['logo'].startswith('http'):
-            parsed_url = urllib.parse.urlparse(station['logo'])
-            if parsed_url.netloc:
-                website = f"{parsed_url.scheme}://{parsed_url.netloc}"
-        
-        # Create the station entry
-        station_entry = {
-            "id": station_id,
-            "name": station['name'],
-            "country": station['country'],
-            "language": station['language'],
-            "genres": station['genres'],
-            "website": website,
-            "streams": [
-                {
-                    "url": station['url'],
-                    "format": station['format'],
-                    "bitrate": station['bitrate'],
-                    "reliability": reliability
-                }
-            ],
-            "tags": station['genres'][:3] if station['genres'] else [],
-            "lastChecked": updated_time,
-            "logo": station['logo'],
-            "source": station['source_file']
-        }
-        
-        catalog["stations"].append(station_entry)
     
     # Write to JSON file
     catalog_file = METADATA_DIR / 'catalog.json'
@@ -346,19 +371,22 @@ def generate_metadata_catalog(stations, validation_results):
     logging.info(f"Generated metadata catalog with {len(stations)} stations")
     return catalog
 
-def generate_unified_playlist(stations, output_file):
+def generate_unified_playlist(stations: list[dict], output_file: Path) -> None:
     """Generate a unified M3U playlist with all stations."""
+    # Build content in memory for fewer I/O operations
+    lines = ['#EXTM3U']
+    for station in stations:
+        genres = ','.join(station['genres'])
+        lines.append(f'#EXTINF:-1 tvg-logo="{station["logo"]}" group-title="{genres}",{station["name"]}')
+        lines.append(station['url'])
+    
     with open(output_file, 'w', encoding='utf-8') as f:
-        f.write('#EXTM3U\n')
-        for station in stations:
-            genres = ','.join(station['genres'])
-            f.write(f'#EXTINF:-1 tvg-logo="{station["logo"]}" '
-                   f'group-title="{genres}",{station["name"]}\n')
-            f.write(f'{station["url"]}\n')
+        f.write('\n'.join(lines))
+        f.write('\n')
     
     logging.info(f"Generated unified playlist with {len(stations)} stations")
 
-def generate_by_country_playlists(stations):
+def generate_by_country_playlists(stations: list[dict]) -> int:
     """Generate country-specific M3U playlists for all stations."""
     # Create a directory for country playlists if it doesn't exist
     country_dir = OUTPUT_DIR / 'by_country'
@@ -367,20 +395,22 @@ def generate_by_country_playlists(stations):
     # Group stations by country code
     stations_by_country = defaultdict(list)
     for station in stations:
-        country_code = station['country_code'].lower()
-        stations_by_country[country_code].append(station)
+        stations_by_country[station['country_code'].lower()].append(station)
     
     # Generate a playlist for each country
     for country_code, country_stations in stations_by_country.items():
         output_file = country_dir / f"{country_code}.m3u"
         
+        # Build content in memory for fewer I/O operations
+        lines = ['#EXTM3U']
+        for station in country_stations:
+            genres = ';'.join(station['genres'])
+            lines.append(f'#EXTINF:-1 tvg-logo="{station["logo"]}" group-title="{genres}",{station["name"]}')
+            lines.append(station['url'])
+        
         with open(output_file, 'w', encoding='utf-8') as f:
-            f.write('#EXTM3U\n')
-            for station in country_stations:
-                genres = ';'.join(station['genres'])
-                f.write(f'#EXTINF:-1 tvg-logo="{station["logo"]}" '
-                       f'group-title="{genres}",{station["name"]}\n')
-                f.write(f'{station["url"]}\n')
+            f.write('\n'.join(lines))
+            f.write('\n')
         
         logging.info(f"Generated {country_code} playlist with {len(country_stations)} stations")
     
