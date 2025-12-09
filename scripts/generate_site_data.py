@@ -6,9 +6,11 @@ import datetime
 import hashlib
 import logging
 import urllib.parse
-import shutil
 from pathlib import Path
 from collections import defaultdict, Counter
+
+import pycountry
+from babel import Locale, UnknownLocaleError
 
 """
 Generate site data for the IPRD project, including:
@@ -28,8 +30,8 @@ logging.basicConfig(
 # Project root directory
 ROOT_DIR = Path(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 STREAMS_DIR = ROOT_DIR / "streams"
-METADATA_DIR = ROOT_DIR / "metadata"
-OUTPUT_DIR = ROOT_DIR / "docs" / "site_data"  # Added for docs output
+METADATA_DIR = ROOT_DIR / "docs" / "site_data" / "metadata"
+OUTPUT_DIR = ROOT_DIR / "docs" / "site_data"
 VALIDATION_RESULTS_FILE = ROOT_DIR / "validation-results.json"
 
 # Create output directories if they don't exist
@@ -47,36 +49,42 @@ AUDIO_FORMATS = {
     'wav': {'name': 'WAV', 'default_bitrate': 1411},
 }
 
-# Country code to language mapping (for major official languages)
-COUNTRY_LANGUAGES = {
-    'FR': 'French',
-    'DE': 'German',
-    'IT': 'Italian',
-    'ES': 'Spanish',
-    'US': 'English',
-    'GB': 'English',
-    'PT': 'Portuguese',
-    'BR': 'Portuguese',
-    'NL': 'Dutch',
-    'BE': ['Dutch', 'French', 'German'],
-    'JP': 'Japanese',
-    'CN': 'Chinese',
-    'RU': 'Russian',
-    'AR': 'Spanish',
-    'MX': 'Spanish',
-    'CA': ['English', 'French'],
-    'CH': ['German', 'French', 'Italian', 'Romansh'],
-    # Add more as needed
-}
-
-def get_language_from_country(country_code):
-    """Determine likely language based on country code."""
-    if country_code.upper() in COUNTRY_LANGUAGES:
-        languages = COUNTRY_LANGUAGES[country_code.upper()]
-        if isinstance(languages, list):
-            return languages[0]  # Return first language as default
-        return languages
-    return ""
+def get_language_from_country(code: str) -> list[str]:
+    """Get official languages for a country code using babel and pycountry."""
+    code = code.upper()
+    langs = []
+    
+    try:
+        # Get language codes commonly associated with this country
+        # Using pycountry to find languages
+        country = pycountry.countries.get(alpha_2=code)
+        if not country:
+            return []
+        
+        # Try common locale patterns for this country
+        common_locales = [
+            f"{code.lower()}_{code}",  # e.g., fr_FR, de_DE
+        ]
+        
+        for locale_str in common_locales:
+            try:
+                locale = Locale.parse(locale_str)
+                lang = pycountry.languages.get(alpha_2=locale.language)
+                if lang and lang.name and lang.name not in langs:
+                    langs.append(lang.name)
+            except (UnknownLocaleError, ValueError):
+                pass
+        
+        # Fallback: try to get language from country code directly
+        if not langs:
+            lang = pycountry.languages.get(alpha_2=code.lower())
+            if lang and lang.name:
+                langs.append(lang.name)
+                
+    except Exception:
+        pass
+    
+    return langs
 
 def extract_bitrate_from_url(url):
     """Attempt to extract bitrate information from URL."""
@@ -215,29 +223,15 @@ def generate_station_id(station):
     return f"{base}-{url_hash}"
 
 def get_country_name(country_code):
-    """Get the full country name from a country code."""
-    # A more comprehensive approach would be to use a library like pycountry
-    # For now, this is a simplified mapping of common codes
-    country_names = {
-        'us': 'United States',
-        'gb': 'United Kingdom',
-        'ca': 'Canada',
-        'au': 'Australia',
-        'fr': 'France',
-        'de': 'Germany',
-        'it': 'Italy',
-        'es': 'Spain',
-        'jp': 'Japan',
-        'cn': 'China',
-        'br': 'Brazil',
-        'ru': 'Russia',
-        'in': 'India',
-        'za': 'South Africa',
-        'mx': 'Mexico',
-        # Add more as needed
-    }
+    """Get the full country name from a country code using pycountry."""
+    try:
+        country = pycountry.countries.get(alpha_2=country_code.upper())
+        if country:
+            return country.name
+    except (KeyError, LookupError):
+        pass
     
-    return country_names.get(country_code.lower(), country_code.upper())
+    return country_code.upper()
 
 def load_validation_results():
     """Load validation results if available."""
@@ -424,7 +418,7 @@ def main():
     all_stations, country_counts, country_files = get_all_stations()
     
     # Generate metadata catalog
-    catalog = generate_metadata_catalog(all_stations, validation_results)
+    generate_metadata_catalog(all_stations, validation_results)
     
     # Generate unified playlist
     unified_playlist_path = OUTPUT_DIR / 'all_stations.m3u'
