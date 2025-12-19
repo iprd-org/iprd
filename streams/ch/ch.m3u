@@ -137,8 +137,10 @@ http://strm112.1.fm/spanishtophits_mobile_mp3
 http://strm112.1.fm/polskafm_mobile_mp3
 #EXTINF:-1 tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/6a/58/1366/2/c175.png" group-title="Baroque;Classical",1.FM Otto's Baroque Music
 http://strm112.1.fm/baroque_mobile_aac
-#EXTINF:-1 tvg-logo="https://ca.radio.net/images/broadcasts/c8/0d/6175/2/c300.png" group-title="classical;baroque",1.FM Otto's Classical Music
+#EXTINF:-1 tvg-logo="https://ca.radio.net/images/broadcasts/c8/0d/6175/2/c300.png" group-title="Classical;Baroque",1.FM Otto's Classical Music
 https://strm112.1.fm/classical_mobile_aac
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzwo9LrlFxREBVXUvgU9OMO8-W3t1kN3D0jg&s" group-title="Christmas;Ambient",1000 Weihnachten
+https://1000weihnachten.stream.laut.fm/1000weihnachten
 #EXTINF:-1 tvg-logo="https://www.dab-swiss.ch/assets/images/23.6_premier_sur_les_hits_logo_.jpg" group-title="Pop;Rock",23.6 Premiers Sur Les Hits
 https://236premiersurleshits.ice.infomaniak.ch/236premiersurleshits-192.aac
 #EXTINF:-1 tvg-logo="https://www.80sforever.radio/wp-content/uploads/2019/05/80sFOREVER-Logo_Radio_Block2_cmyk.jpg" group-title="80s;Rock",80s Forever We Keep The 80s Alive
@@ -289,6 +291,12 @@ http://radio.nello.tv/128k
 https://chmedia.streamabc.net/79-r24-mp3-192-6659699
 #EXTINF:-1 tvg-logo="https://3fach.ch/themes/3fach/assets/favicon-96.png" group-title="Adult;Contemporary",Radio 3FACH
 http://stream01.3fach.ch:8001/live
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS99YC6uvcfTKvLUbxI8ugTC8jmMYS0ylkW9A&s" group-title="Hits;Top 40",Radio3i
+https://icecast.gruppocdt.ch/radio3i-256.mp3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs2wZOSqwm-DMfrLJPY80rYadiY3fm7Zl1jg&s" group-title="Adult;Contemporary",Radio 32
+https://chmedia.streamabc.net/79-r32-mp3-192-5284783
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgcQKoC5W-wYeXiJsiOCQD_fz740dJ8mKLqA&s" group-title="Oldies;Hits",Radio 32 Goldies
+https://chmedia.streamabc.net/79-goldies-mp3-192-3811722
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/09/b9/09b96133cf410cafa08191b7ca96595e.png" group-title="Hits;Pop",Radio Argovia
 https://chmedia.streamabc.net/79-argovia-mp3-192-3024993
 #EXTINF:-1 tvg-logo="https://www.basilisk.ch/wp-content/themes/basilisk/favicon/apple-touch-icon.png?v=20190816" group-title="Pop;80s",Radio Basilisk 107.6
@@ -301,6 +309,8 @@ https://chmedia.streamabc.net/79-rbern1-mp3-192-7860422
 http://server9932.streamplus.de:27100/;listen.pls?sid=1
 #EXTINF:-1 tvg-logo="https://www.radio-bollwerk.ch/wp-content/themes/rbw/favicon/favicon-128.png" group-title="Community;Freeform",Radio Bollwerk
 https://radiobollwerk.out.airtime.pro/radiobollwerk_a
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQss8HDgWUnnxiTDFLVrtNxwHeLp0Wcby5YiQ&s" group-title="Pop;Top 40",Radio Canal 3 98.6
+http://radio.upstream-cloud.ch/canal3allemand-128.mp3
 #EXTINF:-1 tvg-logo="http://www.radiocentral.ch/favicon.png" group-title="Talk;Country",Radio Central
 http://radiocentral.ice.infomaniak.ch/radiocentral-128.mp3
 #EXTINF:-1 tvg-logo="https://www.radiochablais.ch/images/radiochablais1.png" group-title="Pop;Hits",Radio Chablais
@@ -323,6 +333,8 @@ http://radiofd36.ice.infomaniak.ch/radiofd36.aac
 http://radiofd.ice.infomaniak.ch/radiofd.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.at/images/broadcasts/6f/0c/18776/c300.png" group-title="Christian;Religious",Radio Freundes-Dienst Schweiz
 http://radiofdch.ice.infomaniak.ch/radiofdch.mp3
+#EXTINF:-1 tvg-logo="http://www.radiofr.ch/fileadmin/sites/radiofr/themes/default/img/logo-freiburg.png" group-title="Pop;Hits",Radio Fribourg
+http://radiofreiburg.ice.infomaniak.ch/radiofreiburg-high.mp3
 #EXTINF:-1 tvg-logo="https://radiogloria.ch/wp-content/uploads/thegem-logos/logo_9cd18d97a3b4bae80c3fe3f344250acb_1x.png" group-title="Christian;Katholik",Radio Gloria
 https://ch-be06-ice.dmd2streaming.com/radiogloria_lo
 #EXTINF:-1 tvg-logo="http://radio.grenzenlos.ch/web/wp-content/uploads/2017/02/cropped-grenzenlos-icon-192x192.jpg" group-title="Contemporary;LGTBQ",Radio Grenzenlos
@@ -505,8 +517,8 @@ http://radio15.ice.infomaniak.ch/radio15-192kbps.mp3?fbclid=IwAR1RgI4qFLCInWkcBZ
 http://radio3i.ice.infomaniak.ch/radio3i-128.mp3
 #EXTINF:-1 tvg-logo="http://www.radio4tng.ch/favicon.ico" group-title="Alternative;Rock",Radio4TNG
 http://radio4tng.ice.infomaniak.ch/radio4tng-live-web.mp3
-#EXTINF:-1 tvg-logo="http://www.radiofr.ch/fileadmin/sites/radiofr/themes/default/img/logo-freiburg.png" group-title="Pop;Hits",Radio Fribourg
-http://radiofreiburg.ice.infomaniak.ch/radiofreiburg-high.mp3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIZz1fDwPhqd3yC_TgbjqXevjKloxwProWhQ&s" group-title="Dance;Top 40",RadioFr Fresh
+http://radiofresh.ice.infomaniak.ch/radiofresh-high.mp3
 #EXTINF:-1 tvg-logo="http://www.vibration108.ch/wp-content/uploads/2014/06/favicon.jpg" group-title="Alternative;Rock",RadioNet+ 99.4
 http://radionetplus.ice.infomaniak.ch/radionetplus-high.mp3
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/uSiVpt6CYYQV3KBylnCwuw2lDV3_Pg97gPyzqSNPq59wnv2iNXMw-6ih5MiLATkVCw" group-title="World;Talk",RadioPolis 99.4
