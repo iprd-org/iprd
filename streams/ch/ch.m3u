@@ -149,6 +149,8 @@ https://premium.shoutcastsolutions.com/radio/8050/256.mp3
 https://streaming.smartradio.ch:9502/stream
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s165127/images/logog.png?t=158799" group-title="Jazz;Blues",A Fine Jazz Gumbo Radio
 http://streaming.smartradio.ch:9002/stream
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJZsqq-tV2Ui6PdCViD1jpp7gxX9WUlnp_CQ&s" group-title="Albanian;World",Albaradio
+https://ec6.yesstreaming.net:1800/stream
 #EXTINF:-1 tvg-logo="https://bnj.blob.core.windows.net/assets/Htdocs/Images/Theme/bnj/player/cover-arc.svg" group-title="Oldies;Hits",Arc Musique
 https://arcmusique.ice.infomaniak.ch/arcmusique-128.mp3
 #EXTINF:-1 tvg-logo="http://audioasyl.net/favicon.ico" group-title="Electronic;Trance",Audioasyl
@@ -301,8 +303,12 @@ https://icecast.gruppocdt.ch/radio3i-256.mp3
 https://chmedia.streamabc.net/79-r32-mp3-192-5284783
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgcQKoC5W-wYeXiJsiOCQD_fz740dJ8mKLqA&s" group-title="Oldies;Hits",Radio 32 Goldies
 https://chmedia.streamabc.net/79-goldies-mp3-192-3811722
+#EXTINF:-1 tvg-logo="https://www.radio.net/175/radioalperose.png?version=ee781e930893205548160eb3d4f1c4b09f11bb8f" group-title="World;Schlager",Radio Alperose
+https://radio-alperose.spcast.eu/stream?time=1766301665
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/09/b9/09b96133cf410cafa08191b7ca96595e.png" group-title="Hits;Pop",Radio Argovia
 https://chmedia.streamabc.net/79-argovia-mp3-192-3024993
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoTXtF0GcBOWDWysmX2KTzyu7HKEFhos1JwA&s" group-title="Deutsche;Schlager",Radio Barner Schlagerwelt
+https://laedi.stream.laut.fm/laedi
 #EXTINF:-1 tvg-logo="https://www.basilisk.ch/wp-content/themes/basilisk/favicon/apple-touch-icon.png?v=20190816" group-title="Pop;80s",Radio Basilisk 107.6
 http://radiobasilisk-64.ice.infomaniak.ch/radiobasilisk-64-128-2.mp3
 #EXTINF:-1 tvg-logo="https://www.radiobeo.ch/wp-content/themes/radiobeo/img/logo-radio-beo.svg" group-title="Adult;Contemporary",Radio BeO
@@ -355,6 +361,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R2329710.mp
 http://kaiseregg.ice.infomaniak.ch/stream128k.mp3
 #EXTINF:-1 tvg-logo="https://www.radiolac.ch/wp-content/uploads/2017/08/android-icon-48x48.png" group-title="Pop;Hits",Radio Lac
 https://radiolac.ice.infomaniak.ch/radiolac-high.mp3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPPCHysYPMM4pm3sXF1jlxP3nuW6a4lUFq7Q&s" group-title="Christian;Contemporary",Radio Life Channel
+https://stream1.lifechannel.ch/LIFECHANNEL
 #EXTINF:-1 tvg-logo="http://www.lora.ch/favicon.ico" group-title="Talk;News",Radio Lora 97.5
 http://lora.ice.infomaniak.ch/lora.mp3
 #EXTINF:-1 tvg-logo="http://www.radiomaria.ch//sites/all/themes/richer/assets/images/favicons/apple-icon-57x57.png" group-title="Catholic;Christian",Radio Maria Switzerland
@@ -503,6 +511,8 @@ http://stream.radiotell.ch/radiotell.mp3
 http://77.109.144.109:8000/topsrp128
 #EXTINF:-1 tvg-logo="http://www.toponline.ch/fileadmin/templates/logos/apple-touch-icon.png" group-title="Pop;Hits",Radio Top Two
 http://77.109.144.109:8000/twosrp128
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg03w3R5KRQluMbz4TMH883LGHkaocm9ArkA&s" group-title="Oldies;Hits",Radio Vintage
+https://vintage.ice.infomaniak.ch/vintage.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/00/2c/11205/c300.png" group-title="Electro;Rock",Radio Vostok
 http://radiovostok.ice.infomaniak.ch/lavostoke.aac
 #EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/00/2c/11205/c300.png" group-title="Electro;Rock",Radio Vostok
@@ -545,6 +555,8 @@ https://rjb.ice.infomaniak.ch/rjb-high.mp3
 http://rock-the-blues.stream.laut.fm/rock-the-blues?t302=2021-12-21_19-40-29&uuid=7f313ac2-d03a-47d0-bfc5-eadf205e6eb7
 #EXTINF:-1 tvg-logo="http://www.rougefm.com/imgs/webradios/90.png" group-title="90s;Hits",Rouge 90s
 http://rouge-90.ice.infomaniak.ch/rouge-90-128.mp3
+#EXTINF:-1 tvg-logo="https://api.my-radios.com/images/thumb.php?countryCode=CH&name=23798-6147739.png&size=200" group-title="French;World",Rouge France
+https://rouge-madeinfrance.ice.infomaniak.ch/rouge-madeinfrance-128.mp3
 #EXTINF:-1 tvg-logo="http://www.rougefm.com/imgs/webradios/hiphop.png" group-title="Hip Hop;R'n'B",Rouge Hip Hop
 http://rouge-hiphop.ice.infomaniak.ch/rouge-hiphop-128.mp3
 #EXTINF:-1 tvg-logo="http://www.rougefm.com/imgs/webradios/italia.png" group-title="Italian;Pop",Rouge Italia
