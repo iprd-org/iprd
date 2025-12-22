@@ -327,12 +327,16 @@ http://radiocentral.ice.infomaniak.ch/radiocentral-128.mp3
 http://radiochablais.ice.infomaniak.ch/radiochablais-high.mp3
 #EXTINF:-1 tvg-logo="https://radiochablais.ch/player/logo_carre/radiochablaisfrancais.jpg" group-title="Pop;Hits",Radio Chablais
 http://stream.radiochablais.ch/chablais-100francais.mp3
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/hfgagkbFmj.png" group-title="Folk;World",Radio Chablais Folklore
+https://stream.radiochablais.ch/chablais-folklore.mp3
 #EXTINF:-1 tvg-logo="http://www.radiocite.ch/favicon.ico" group-title="Culture;French",Radio Cité Genève
 http://radiocite.ice.infomaniak.ch/radiocite128
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/vCS_ZHz1Ip6yt4OYDxNjdxyIWr8YLxWrMrgpcehGaqmvMGBffhm8VCyzz3Xv_8XJqg=w240-h480-rw" group-title="Folk;Volksmusik",Radio Eviva
 http://radioeviva.ice.infomaniak.ch/radioeviva-128.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/57/62/121961/1/c300.png" group-title="Contemporary;Hits",Radio FM1 Charts
 http://fm1charts.ice.infomaniak.ch/fm1charts-64.aac
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB1N7Mtjf3uBOOW0V54W6AZd955rXogNb6FQ&s" group-title="Oldies;Pop",Radio FM1 Gold
+https://chmedia.streamabc.net/79-ffm-mp3-192-2470075
 #EXTINF:-1 tvg-logo="https://images.streamitter.com/logos/0IBPXV.png" group-title="Hits;Pop",Radio FM1 Nord
 http://radiofm1.ice.infomaniak.ch/radiofm1-128.mp3
 #EXTINF:-1 tvg-logo="http://www.radiofr.ch/" group-title="Pop;Hits",Radio Freiburg
@@ -375,6 +379,8 @@ https://fm1melody.ice.infomaniak.ch/fm1melody-128.mp3
 http://streaming.radiomorcoteinternational.com:8000/listen.pls
 #EXTINF:-1 tvg-logo="https://www.radiomunot.ch/themes/custom/shn/images/rm_icons/apple-icon-120x120.png" group-title="News;Pop",Radio Munot
 http://streaming.swisstxt.ch/m/radiomunot/mp3_128
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/wn3CN37g3H.jpg" group-title="Rock;Pop",Radio Net Plus
+https://radionetplus.ice.infomaniak.ch/radionetplus-high.mp3
 #EXTINF:-1 tvg-logo="https://images.streamitter.com/logos/WUP9KE.png" group-title="Dance;Hits",Radio One Dance Ticino
 http://ice15.fluidstream.net/onedancech.aac
 #EXTINF:-1 tvg-logo="http://www.radioonyx.org/images/favicon.ico" group-title="Blues;Jazz",Radio Onyx
@@ -611,6 +617,10 @@ http://stream.srg-ssr.ch/m/la-1ere/mp3_128
 http://stream.srg-ssr.ch/m/option-musique/mp3_128
 #EXTINF:-1 tvg-logo="https://www.jecoutelaradioenligne.com/wp-content/uploads/logo-rundfunk-fm.jpg" group-title="Alternative;Oldies",Rundfunk.fm
 http://rundfunk.ice.infomaniak.ch/rundfunk-192
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdmUMEPi0quPohceaYEz8fMbvrANIiDr5Jcg&s" group-title="Latino;Salsa",SalSa FM
+https://stream-153.zeno.fm/tgzmw19rqrquv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQelCJwlikF4svQpJ288jY89syBDgAeuNdcUw&s" group-title="Adult'Contemporary",Sommerhits [Geo-Blocked]
+https://chmedia.streamabc.net/79-sommerhits-mp3-192-1247554
 #EXTINF:-1 tvg-logo="http://www.spoonradio.com/sites/default/themes/basic/css/images/fb_share.jpg" group-title="Oldies;Rock",Spoon Radio
 http://spoonradio.ice.infomaniak.ch/spoonradio-hd
 #EXTINF:-1 tvg-logo="https://www.sunradio.ch/Startseite/Uber-uns/berner-musik-2023-1.png" group-title="80s;Chansons",Sunradio Best International Music
@@ -675,6 +685,8 @@ http://vibration.stream2net.eu:8510/;stream/1
 https://vibration.stream2net.eu/vibra-christmas.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/b8/11/33746/c300.png" group-title="LGBTQ;Variety",Vibration Gay Radio
 http://vibration.stream2net.eu:8480/;stream/1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlXYEw25jzC4Wer2UqYaJWTumYkKKKZipnDA&s" group-title="Metal;Instrumental",Vibration Metal
+https://vibration.stream2net.eu/vibra-metal.mp3
 #EXTINF:-1 tvg-logo="http://vibrationpoprock.com/wp-content/uploads/2016/02/favicon_poprock.jpg" group-title="Pop;Rock",Vibration Poprock
 HTTP://icepe5.infomaniak.ch:80/vibrationpoprock-high.mp3
 #EXTINF:-1 tvg-logo="http://vibrationpoprock.com/wp-content/uploads/2016/02/favicon_poprock.jpg" group-title="Pop;Rock",Vibration Poprock
