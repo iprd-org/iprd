@@ -193,10 +193,14 @@ http://energyzuerich.ice.infomaniak.ch/energyzuerich-high.mp3
 http://broadcast.infomaniak.ch/energyzuerich-high.mp3
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDYoeem1eyvhlFFknCReW_YYwkWO3acripOg&s" group-title="70s;80s;90s",Flashback FM
 https://chmedia.streamabc.net/79-ffm-mp3-192-2470075
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR29eCIetKcdd2AtF8x4Og4Gk1TOueuvMduMA&s" group-title="Pop;Top 40",FM1 Hot
+https://chmedia.streamabc.net/79-fm1hot-mp3-192-2917177
 #EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/e5/7d/19031/c300.png" group-title="Pop;Hits",Framboase
 http://framboase.ice.infomaniak.ch/framboase-128.mp3
 #EXTINF:-1 tvg-logo="https://www.frequencebanane.ch/wp-content/uploads/2015/06/logo_hor.png" group-title="Campus;Variety",Fréquence Banane
 http://fbpc5.epfl.ch:8000/fb_192
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/341/frequence-broadway.bb17fa2b.png" group-title="Blues;Jazz",Fréquence Broadway
+http://frequencebroadway.ice.infomaniak.ch/frequencebroadway-128.mp3
 #EXTINF:-1 tvg-logo="https://furry.fm/images/FAVICONS/android-icon-144x144.png" group-title="Rock;Alternative",Furry FM
 https://s4.radio.co/sa18a4da89/listen
 #EXTINF:-1 tvg-logo="http://play.gds.fm/build/images/gds-logo.jpg" group-title="Acid;House",GDS.FM
@@ -219,8 +223,12 @@ http://live7.avf.ch:8000/ipmusicslowaacp128
 http://live7.avf.ch:8000/ipmusicslowaacp96
 #EXTINF:-1 tvg-logo="https://www.jamesfm.ch/wp-content/uploads/2017/08/cropped-jamesFM_Logo_negativ-1.png" group-title="Rock;Pop",James FM
 https://jamesfm.ice.infomaniak.ch/jamesfm.mp3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUu7e0mVyX_BqgcZcMKvOU5x8Y8zeu2B4cIQ&s" group-title="70s;80s;90s",Jukebox - Nonstop Music
+https://kreuzbergswiss.spcast.eu/stream
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/YnrWEDemIZedZ3l6hPrIYvlWIyqYmYUOL89E74Mr6o3CcDmRl60Zxiqeqhu8dSBXM92ZIQQMDWPxvGeleQ" group-title="Christian;Religious",Kanal Bethesda
 http://n02.radiojar.com/a2dd2q0kb?rj-ttl=5&rj-tok=AAABfd3RChUAYiX2MlTV8t3eZg
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/artworks-SzqhYhUaB9NTefVy-BzbbFw-t240x240.jpg" group-title="Variety;Hits",Kanal K
+https://kanalk.streamabc.net/91-kanalk-mp3-192-5146873
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlD5TG1SvfC18PZ-wZoixdJINft7qFUbElBA&s" group-title="Classical;Baroque",Klassik Radio Schweiz
 https://klassikr.streamabc.net/klr-krschweiz-mp3-192-8951205
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW-mdgIVtbiCZM-K5ymUO7xVj7fZDmx6AbPQ&s" group-title="News;Talk",Kontrafunk
@@ -393,6 +401,8 @@ http://ice15.fluidstream.net/onedancech.aac
 http://nr4.newradio.it:9432/stream
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/16/34/1634f94b5dcedd36550edd1d3b94a6bd.jpg" group-title="Dance;Pop",Radio Orbital
 https://orbital.ice.infomaniak.ch/orbital.mp3?_=1
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/tcaccmdwkq3f.png" group-title="Country;Disco",Radio Ostschweiz
+https://stream.tramp-cast.ch:8022/;
 #EXTINF:-1 tvg-logo="http://www.radioouistiti.ch/fr/wp-content/uploads/2014/07/favicon.png" group-title="Youth;Family",Radio Ouistiti
 http://radioouistiti2.ice.infomaniak.ch/radioouistiti-high.mp3
 #EXTINF:-1 tvg-logo="http://radioouistiti.com/radioouistiti_logo.jpg" group-title="Youth;Family",Radio Ouistiti
@@ -579,6 +589,8 @@ http://rouge-italia.ice.infomaniak.ch/rouge-italia-128.mp3
 http://rouge-latino.ice.infomaniak.ch/rouge-latino-128.mp3
 #EXTINF:-1 tvg-logo="http://www.rougefm.com/imgs/webradios/lounge.png" group-title="Lounge;Chillout",Rouge Lounge
 http://rougefm.ice.infomaniak.ch/rougefm-high.mp3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_RgNoQe2kyNXlqTqF866XlNOk04-y7oVylQ&s" group-title="Reggae;Reggaeton",Rouge Reggae
+https://rouge-reggae.ice.infomaniak.ch/rouge-reggae-128.mp3
 #EXTINF:-1 tvg-logo="http://www.rougefm.com/imgs/webradios/rnb.png" group-title="R'n'B;Soul",Rouge RnB
 http://rouge-rnb.ice.infomaniak.ch/rouge-rnb-128.mp3
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQA2HakU83f_UbcbhKuFeLN7VbzI0mllp_bQ&s" group-title="Oldies;Rock",Rouge Rock
@@ -639,6 +651,8 @@ http://spoonradio.ice.infomaniak.ch/spoonradio-hd
 http://87.237.169.24:8000/live
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb-KVYaJD3y_XaciwF_YOz_DScP-g11kFQDw&s" group-title="EDM;Electronic",Sunshine Live
 https://sunsl.streamabc.net/sunsl-sslschweiz-mp3-192-1333495
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgZ1y7n5DjggrUgYj9xMVXntai3aACWSuEtQ&s" group-title="News;Tamil",Swiss Tamil Radio
+https://usa19.fastcast4u.com/swiss
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s48811g.png" group-title="Funk;Jazz",SwissGroove
 http://158.69.74.203/
 #EXTINF:-1 tvg-logo="http://swissradio.ch/banner/swissradio-classical-500.jpg" group-title="Classical;Baroque",Swissradio.ch Classical
