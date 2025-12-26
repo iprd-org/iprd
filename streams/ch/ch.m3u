@@ -161,6 +161,8 @@ https://ec6.yesstreaming.net:1800/stream
 https://arcmusique.ice.infomaniak.ch/arcmusique-128.mp3
 #EXTINF:-1 tvg-logo="http://audioasyl.net/favicon.ico" group-title="Electronic;Trance",Audioasyl
 http://stream.audioasyl.net:8000/audioasyl
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa6vQLxbgAXZJmzMcGXqtm82W0jf8cb3Gmew&s" group-title="Metal;Rock",Bear Metal Radio
+https://cast5.asurahosting.com/proxy/bear?mp=/stream
 #EXTINF:-1 tvg-logo="http://static.radio.de/images/broadcasts/19/ae/10954/c175.png" group-title="Religous;Christian",Bibelradio
 http://rs1.stream24.org:8690/stream
 #EXTINF:-1 tvg-logo="http://static.radio.de/images/broadcasts/19/ae/10954/c175.png" group-title="Christian;Religious",Bibelradio NT Psalmen
@@ -301,6 +303,8 @@ http://relay.publicdomainradio.org/classical.mp3
 http://relay.publicdomainradio.org/jazz_swing.aac
 #EXTINF:-1 tvg-logo="https://en.publicdomainproject.org/images/thumb/4/46/Pd-jazz-app.png/600px-Pd-jazz-app.png" group-title="Jazz;Ragtime",Public Domain Jazz
 http://relay.publicdomainradio.org/jazz_swing.mp3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAK9EmY9fx7uWvDjeBZvUMyduwzxL32iC9mQ&s" group-title="Dance;EDM",PureGlow Radio
+http://pureglowradio.ice.infomaniak.ch/pureglowradio.mp3
 #EXTINF:-1 tvg-logo="http://r102.ch/wp-content/uploads/2016/12/logo-pagine.jpg" group-title="Variety;Community",R102
 http://94.23.66.155:9334/stream
 #EXTINF:-1 tvg-logo="https://www.radio1.ch/templates/web/img/fallback.jpg" group-title="Pop;Rock",Radio 1 93.6
@@ -321,6 +325,8 @@ https://chmedia.streamabc.net/79-goldies-mp3-192-3811722
 https://radio-alperose.spcast.eu/stream?time=1766301665
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/09/b9/09b96133cf410cafa08191b7ca96595e.png" group-title="Hits;Pop",Radio Argovia
 https://chmedia.streamabc.net/79-argovia-mp3-192-3024993
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDAoyGg_ITMWn9vYNXjoAXwEvZ-seI_kRoKQ&s" group-title="80s;Hits",Radio Argovia 80s
+https://chmedia.streamabc.net/79-ffm-mp3-192-2470075
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoTXtF0GcBOWDWysmX2KTzyu7HKEFhos1JwA&s" group-title="Deutsche;Schlager",Radio Barner Schlagerwelt
 https://laedi.stream.laut.fm/laedi
 #EXTINF:-1 tvg-logo="https://www.basilisk.ch/wp-content/themes/basilisk/favicon/apple-touch-icon.png?v=20190816" group-title="Pop;80s",Radio Basilisk 107.6
@@ -429,6 +435,8 @@ http://radio-rotation.stream.laut.fm/radio-rotation?t302=2021-12-21_01-46-19&uui
 http://stream.srg-ssr.ch/m/rr/mp3_128
 #EXTINF:-1 tvg-logo="https://www.allradio.net/500/kQJkd4fW2ShKixOlQ0ZBe.webp" group-title="World;Pop",Radio S
 http://radio-s.feste-ip.net:8000/
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHOWSLXF5yMQIXwq71fEIG2Yo8POqCr-7dtg&s" group-title="Pop;Sports",Radio Sense
+https://radio-sense.ice.infomaniak.ch/radio-sense-128.mp3
 #EXTINF:-1 tvg-logo="https://www.srf.ch/extension/srf_shared/design/standard/images/logos/srflogo.png" group-title="Local;News",Radio SRF 1
 http://stream.srg-ssr.ch/m/drs1/aacp_32
 #EXTINF:-1 tvg-logo="https://www.srf.ch/extension/srf_shared/design/standard/images/logos/srflogo.png" group-title="Local;News",Radio SRF 1 Aargau Solothurn
@@ -639,10 +647,16 @@ http://stream.srg-ssr.ch/m/la-1ere/mp3_128
 http://stream.srg-ssr.ch/m/option-musique/mp3_128
 #EXTINF:-1 tvg-logo="https://www.jecoutelaradioenligne.com/wp-content/uploads/logo-rundfunk-fm.jpg" group-title="Alternative;Oldies",Rundfunk.fm
 http://rundfunk.ice.infomaniak.ch/rundfunk-192
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaGavZKqmKoiSqeDAM0divbruONKNNkHSJ3w&s" group-title="Latino;Merengue",Salsa Fiesta Latina
+https://stream-178.zeno.fm/zbxtmbzv5ueuv
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdmUMEPi0quPohceaYEz8fMbvrANIiDr5Jcg&s" group-title="Latino;Salsa",SalSa FM
 https://stream-153.zeno.fm/tgzmw19rqrquv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDlrqtS8RO-lMKi75sxiOnsC6eWPPG6DOPFw&s" group-title="Latino;Reggaeton",Salsa Hits Con Clase
+https://stream-176.zeno.fm/x34m84503ueuv
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuOkWEaAh3QYnsD1PJkwPdSy9MyKorNl7O7w&s" group-title="50s;60s",Skuizz Hits 50s-70s
 https://traxx023.ice.infomaniak.ch/traxx023-1.mp3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFbz1Jt09uNwajDsULafvYHDOPNOtEC8iNQQ&s" group-title="House;Electronic",Skuizz House
+https://traxx002.ice.infomaniak.ch/traxx002-low.mp3
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQelCJwlikF4svQpJ288jY89syBDgAeuNdcUw&s" group-title="Adult'Contemporary",Sommerhits [Geo-Blocked]
 https://chmedia.streamabc.net/79-sommerhits-mp3-192-1247554
 #EXTINF:-1 tvg-logo="http://www.spoonradio.com/sites/default/themes/basic/css/images/fb_share.jpg" group-title="Oldies;Rock",Spoon Radio
