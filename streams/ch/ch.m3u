@@ -107,6 +107,8 @@ http://strm112.1.fm/italiaonair_mobile_mp3
 http://strm112.1.fm/jamz_mobile_mp3
 #EXTINF:-1 tvg-logo="http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg" group-title="Kids;Youth",1.FM Kids FM Radio
 http://strm112.1.fm/kidsfm_mobile_mp3
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/ewfazxbkwj69.png" group-title="Latino;World",1.FM Latino
+https://webradio0002.ice.infomaniak.ch/webradio0008-128.mp3
 #EXTINF:-1 tvg-logo="http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg" group-title="Chansons;Romantic",1.FM Love Classics Radio
 http://strm112.1.fm/loveclassics_mobile_mp3
 #EXTINF:-1 tvg-logo="http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg" group-title="80s;Hits",1.FM Magic 80 Radio
@@ -209,6 +211,8 @@ http://fbpc5.epfl.ch:8000/fb_192
 http://frequencebroadway.ice.infomaniak.ch/frequencebroadway-128.mp3
 #EXTINF:-1 tvg-logo="https://furry.fm/images/FAVICONS/android-icon-144x144.png" group-title="Rock;Alternative",Furry FM
 https://s4.radio.co/sa18a4da89/listen
+#EXTINF:-1 tvg-logo="https://www.allonlineradio.com/wp-content/uploads/2023/01/Switzerland-radio-Garage-Rock-Radio-logo.jpg" group-title="60s;Rock",Garage Rock Radio
+https://streamingp.shoutcast.com/JamendoLounge
 #EXTINF:-1 tvg-logo="http://play.gds.fm/build/images/gds-logo.jpg" group-title="Acid;House",GDS.FM
 http://gdsfm.out.airtime.pro:8000/gdsfm_a
 #EXTINF:-1 tvg-logo="https://glaubenskampfbibelradio.com/wp-content/uploads/2018/06/cropped-app-5-180x180.png" group-title="Religious;Christian",Glaubenskampf Bibel Radio
@@ -245,6 +249,10 @@ https://stream.kontrafunk.radio/listen/kontrafunk/radio.mp3
 http://live9.avf.ch:8000/globalfmdabge
 #EXTINF:-1 tvg-logo="https://dvw7f7sqjk3ag.cloudfront.net/images/radio/59108.png" group-title="Rock;Pop",Kuschelrock
 https://kuschelrock.stream.laut.fm/kuschelrock
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/K4oIF8sjUgfBvMNVrSovt7-KKLc9vCDwDiijHHI-s2WBbGc0NaCIowujkKlcR8thOhmX" group-title="Latino;World",Latin Star Radio
+http://topradio.pro:8087/stream
+#EXTINF:-1 tvg-logo="https://zenoimages.s3.us-west-001.backblazeb2.com/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDw0drZjwgMCxIOU3RhdGlvblByb2ZpbGUYgICIien7oQoMogEEemVubw/cards/32fbd309-fe4d-455b-b870-a72af74ab263" group-title="Latino;Pop",Latino Pop Baladas
+https://stream-178.zeno.fm/mw7cb4nv5ueuv
 #EXTINF:-1 tvg-logo="https://www.lfm.ch/wp-content/uploads/2017/07/LFM_Allonge_Fond_Blanc_v01copie.png" group-title="Pop;Hits",LFM
 http://lausannefm.ice.infomaniak.ch/lausannefm-high.mp3
 #EXTINF:-1 tvg-logo="https://looseantenna.fm/favicon-32x32.png?v=b3c85b31b0d9b8b0ad023d35d25460f9" group-title="Community;Electronic",Loose Antenna
@@ -297,6 +305,8 @@ http://live.ncradio.fm/320
 https://ice15.fluidstream.net/onedancech.aac
 #EXTINF:-1 tvg-logo="https://www.openbroadcast.ch/static/asset/img/artwork/touch-icon-120x120.png" group-title="World;Freeform",Open Broadcast
 https://www.openbroadcast.org/stream/openbroadcast
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_rltAQGmRAiEQH8o_cXXI4vYE7ETGKSDwjw&s" group-title="Indie;Rock",Piratenradio.ch
+https://piratenradioch.ice.infomaniak.ch/piratenradioch-128.mp3
 #EXTINF:-1 tvg-logo="http://www.piratesradio.ch/images/logo-pirate.png" group-title="Rock;Oldies",Pirates Radio
 http://pirates.mine.nu:8080/pirates.mp3
 #EXTINF:-1 tvg-logo="http://www.planetambi.com/wp-content/uploads/2016/02/albumartsmall.jpg" group-title="Relax;Ambient",Planet Ambi HD
@@ -411,6 +421,8 @@ https://fm1melody.ice.infomaniak.ch/fm1melody-128.mp3
 http://streaming.radiomorcoteinternational.com:8000/listen.pls
 #EXTINF:-1 tvg-logo="https://www.radiomunot.ch/themes/custom/shn/images/rm_icons/apple-icon-120x120.png" group-title="News;Pop",Radio Munot
 http://streaming.swisstxt.ch/m/radiomunot/mp3_128
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/755/radio-musik-chalet.66ed5a55.jpg" group-title="Community;Country",Radio Musik Chalet
+https://musik-chalet.stream.laut.fm/musik-chalet
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/wn3CN37g3H.jpg" group-title="Rock;Pop",Radio Net Plus
 https://radionetplus.ice.infomaniak.ch/radionetplus-high.mp3
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVbs6IL1Wve_31SJkW2dbsw_NcYrbb78kulw&s" group-title="Variety;World",Radio Niesen
@@ -671,6 +683,8 @@ https://stream-153.zeno.fm/tgzmw19rqrquv
 https://stream-176.zeno.fm/x34m84503ueuv
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz2UtZxQ5tZpfcVdYNk15exZrRsLHf0fNQTA&s" group-title="German;Hits",Schweizer Hitradio
 http://168.119.104.246:8098/live
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFbz1Jt09uNwajDsULafvYHDOPNOtEC8iNQQ&s" group-title="Deep;Trance",Skuizz Deep
+https://traxx013.ice.infomaniak.ch/traxx013-low.mp3
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuOkWEaAh3QYnsD1PJkwPdSy9MyKorNl7O7w&s" group-title="50s;60s",Skuizz Hits 50s-70s
 https://traxx023.ice.infomaniak.ch/traxx023-1.mp3
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuOkWEaAh3QYnsD1PJkwPdSy9MyKorNl7O7w&s" group-title="70s;80s",Skuizz Hits 70s-90s
