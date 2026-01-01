@@ -151,6 +151,10 @@ http://strm112.1.fm/polskafm_mobile_mp3
 http://strm112.1.fm/baroque_mobile_aac
 #EXTINF:-1 tvg-logo="https://ca.radio.net/images/broadcasts/c8/0d/6175/2/c300.png" group-title="Classical;Baroque",1.FM Otto's Classical Music
 https://strm112.1.fm/classical_mobile_aac
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM9owpP6mbUq6eXxW5X2qC1XY9jcDjAi_vew&s" group-title="Hip Hop;R'n'B",1000 Hiphop
+https://1000hiphop.stream.laut.fm/1000hiphop
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/9qmqwzqww8td.png" group-title="Hip Hop;R'n'B",1000 Rap
+https://rap.stream.laut.fm/rap
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzwo9LrlFxREBVXUvgU9OMO8-W3t1kN3D0jg&s" group-title="Christmas;Ambient",1000 Weihnachten
 https://1000weihnachten.stream.laut.fm/1000weihnachten
 #EXTINF:-1 tvg-logo="https://www.dab-swiss.ch/assets/images/23.6_premier_sur_les_hits_logo_.jpg" group-title="Pop;Rock",23.6 Premiers Sur Les Hits
@@ -583,6 +587,8 @@ http://stream.srg-ssr.ch/m/rsp/mp3_128
 http://stream.srg-ssr.ch/m/rsp/aacp_32
 #EXTINF:-1 tvg-logo="https://store-images.s-microsoft.com/image/apps.24061.9007199266633019.73044cff-61b1-4fa1-aa24-9f7e8029970e.a4007f5a-bb83-43fb-8bab-a0967dacb647" group-title="Pop;Hits",Radio Swiss Pop
 http://stream.srg-ssr.ch/m/rsp/aacp_96
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Mu-CzHWiRbuJzmOC9mcm_HOReCre8KzUmcltODv4mjgYnTRDTXcfnLtpPzsYBXGLGA=w240-h480-rw" group-title="Tamil;World",Radio Tamil
+https://stream-178.zeno.fm/4su4xk97gwzuv
 #EXTINF:-1 tvg-logo="http://www.radiotell.ch/radiotell/image/favicon.ico" group-title="Folk;Volksmusik",Radio Tell
 http://stream.radiotell.ch/radiotell.mp3
 #EXTINF:-1 tvg-logo="http://www.toponline.ch/fileadmin/templates/logos/apple-touch-icon.png" group-title="Hits;Pop",Radio Top 104.5
@@ -657,8 +663,12 @@ https://rouge-rockpop.ice.infomaniak.ch/rouge-rockpop-high.mp3
 http://rouge-suisse.ice.infomaniak.ch/rouge-suisse-128.mp3
 #EXTINF:-1 tvg-logo="http://www.rougefm.com/imgs/webradios/uk.png" group-title="Hits;Pop",Rouge UK
 http://rouge-uk.ice.infomaniak.ch/rouge-uk-128.mp3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLdpcYcn1fhxniVbSmu_MZ6420EhZ8-6uSsQ&s" group-title="Urban;R'n'B",Rouge Urban
+https://rouge-urban.ice.infomaniak.ch/rouge-urban-128.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/1d/41/12483/4/c300.png" group-title="Pop;Rock",RRO Radio Rotu Oberwallis
 http://streaming.swisstxt.ch/m/rro/mp3_128
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKzAMXYF-5YlwXOJNp7v21IgMlWYWDQgnU0w&s" group-title="EDM;Techno",RS Dance Station
+https://n0a.radiojar.com/exqtsg93krruv
 #EXTINF:-1 tvg-logo="https://www.rsi.ch//static/ico/apple-touch-icon-144-precomposed.png" group-title="Classical;Public",RSI Rete Due
 http://stream.srg-ssr.ch/m/retedue/aacp_32
 #EXTINF:-1 tvg-logo="http://www.rsi.ch/static/ico/favicon.png" group-title="Classical;Public",RSI Rete Due
@@ -717,8 +727,10 @@ https://traxx002.ice.infomaniak.ch/traxx002-low.mp3
 https://traxx014.ice.infomaniak.ch/traxx014-low.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.fr/175/jazzradio.jpeg?version=601b96588043d69b255f9afff498002a3fdeb441" group-title="Lounge;Ballads",Skuizz Lounge
 https://traxx004.ice.infomaniak.ch/traxx004-low.mp3
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQelCJwlikF4svQpJ288jY89syBDgAeuNdcUw&s" group-title="Adult'Contemporary",Sommerhits [Geo-Blocked]
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQelCJwlikF4svQpJ288jY89syBDgAeuNdcUw&s" group-title="Adult;Contemporary",Sommerhits [Geo-Blocked]
 https://chmedia.streamabc.net/79-sommerhits-mp3-192-1247554
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOmsviJQ5LBi-xj6_nJNqfevRulNBDqYz4yA&s" group-title="Top 40;Pop",Spitalradio Luz
+https://s10.streamingcloud.online:13552/radioluz320.mp3
 #EXTINF:-1 tvg-logo="http://www.spoonradio.com/sites/default/themes/basic/css/images/fb_share.jpg" group-title="Oldies;Rock",Spoon Radio
 http://spoonradio.ice.infomaniak.ch/spoonradio-hd
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/57eeaedb-1666-43de-8120-e6e97c69d071/image/?u=1713873237000" group-title="Metal;Rock",Spoon Radio Hard Rock
@@ -729,6 +741,8 @@ http://spoonradiorockballads.ice.infomaniak.ch/spoon-rockballads-hd.aac
 http://87.237.169.24:8000/live
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb-KVYaJD3y_XaciwF_YOz_DScP-g11kFQDw&s" group-title="EDM;Electronic",Sunshine Live
 https://sunsl.streamabc.net/sunsl-sslschweiz-mp3-192-1333495
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS13cTdaNwkcwtb3gs7U6J2P13yI3JafPVRRQ&s" group-title="Art;Avantgarde",Swiss Art Radio
+http://sirius.shoutca.st:9101/;
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgZ1y7n5DjggrUgYj9xMVXntai3aACWSuEtQ&s" group-title="News;Tamil",Swiss Tamil Radio
 https://usa19.fastcast4u.com/swiss
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s48811g.png" group-title="Funk;Jazz",SwissGroove
