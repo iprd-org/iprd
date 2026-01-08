@@ -175,6 +175,8 @@ https://listen.radioking.com/radio/439586/stream/493727
 https://s4.radio.co/s7a78bf9d2/listen
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJZsqq-tV2Ui6PdCViD1jpp7gxX9WUlnp_CQ&s" group-title="Albanian;World",Albaradio
 https://ec6.yesstreaming.net:1800/stream
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/652lfyjyzcny.jpg" group-title="Albanian;World",Albradio Muzike Popullore
+https://ec6.yesstreaming.net:2180/stream
 #EXTINF:-1 tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/932/apptitude-ibiza.da3388ec.jpg" group-title="Electronic;House",Apptitude - Ibiza
 https://listen.radioking.com/radio/692717/stream/757499
 #EXTINF:-1 tvg-logo="https://bnj.blob.core.windows.net/assets/Htdocs/Images/Theme/bnj/player/cover-arc.svg" group-title="Oldies;Hits",Arc Musique
@@ -189,6 +191,8 @@ https://cast5.asurahosting.com/proxy/bear?mp=/stream
 http://rs1.stream24.org:8690/stream
 #EXTINF:-1 tvg-logo="http://static.radio.de/images/broadcasts/19/ae/10954/c175.png" group-title="Christian;Religious",Bibelradio NT Psalmen
 http://rs1.stream24.org:9160/stream
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_CoDLjA13Uv_1PTcClB7bZdlLHk2PpitbBA&s" group-title="Alternative;Rock",Breath FM
+https://stream.breathfm.de/listen/mainstream/high.mp3
 #EXTINF:-1 tvg-logo="https://u.jimcdn.com/cms/o/sd5cd40b553f8e406/img/favicon.png?t=1457946603" group-title="Hits;Oldies",BurningStation.com
 http://176.9.148.80:8750/stream
 #EXTINF:-1 tvg-logo="https://www.canal3.ch//de/sites/all/themes/canal3_theme_v2/images/iphone_retina_icon.png" group-title="Hits;Pop",Canal 3 DE
@@ -335,6 +339,8 @@ http://stream01.my105.ch/my105party.mp3
 http://stream01.my105.ch/my105ritmolatino.mp3
 #EXTINF:-1 tvg-logo="http://www.my105.ch/fileadmin/templates/img/my105_logo.jpg" group-title="Rock;Pop",my105 Rock
 http://stream01.my105.ch/my105rock.mp3
+#EXTINF:-1 tvg-logo="http://www.my105.ch/fileadmin/templates/img/my105_logo.jpg" group-title="Rock;Pop",my105 Summer Vibes
+https://my105.stream37.radiohost.de/my105-summervibes_mp3-192
 #EXTINF:-1 tvg-logo="http://www.my105.ch/fileadmin/templates/img/my105_logo.jpg" group-title="Hip Hop;Urban",my105 The Battle
 http://stream01.my105.ch/my105thebattle.mp3
 #EXTINF:-1 tvg-logo="http://www.neo1.ch/fileadmin/templates/neo1/apple-touch-icon-144x144-precomposed.png" group-title="Pop;Rock",neo1
@@ -377,6 +383,10 @@ https://icecast.gruppocdt.ch/radio3i-256.mp3
 https://chmedia.streamabc.net/79-r32-mp3-192-5284783
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgcQKoC5W-wYeXiJsiOCQD_fz740dJ8mKLqA&s" group-title="Oldies;Hits",Radio 32 Goldies
 https://chmedia.streamabc.net/79-goldies-mp3-192-3811722
+#EXTINF:-1 tvg-logo="https://www.radio.net/300/radio74.png?version=c2d38c2d1c366447168d6907c8136d5c4dd939c7" group-title="English;Variety",Radio 74
+http://radio74.ice.infomaniak.ch/radio74.aac
+#EXTINF:-1 tvg-logo="https://www.allonlineradio.com/wp-content/uploads/2025/04/Switzerland-radio-Radio-1291-Alternative-Rock-logo.jpg" group-title="Pop;Hits",Radio 1291
+https://streamingp.shoutcast.com/JamendoLounge
 #EXTINF:-1 tvg-logo="https://www.radio.net/175/radioalperose.png?version=ee781e930893205548160eb3d4f1c4b09f11bb8f" group-title="World;Schlager",Radio Alperose
 https://radio-alperose.spcast.eu/stream?time=1766301665
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/09/b9/09b96133cf410cafa08191b7ca96595e.png" group-title="Hits;Pop",Radio Argovia
@@ -785,6 +795,8 @@ https://traxx008.ice.infomaniak.ch/traxx008-low.mp3
 https://traxx004.ice.infomaniak.ch/traxx004-low.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.fr/175/jazzradio.jpeg?version=601b96588043d69b255f9afff498002a3fdeb441" group-title="Pop;Hits",Skuizz Pop
 https://traxx009.ice.infomaniak.ch/traxx009-low.mp3
+#EXTINF:-1 tvg-logo="https://www.radio.fr/175/jazzradio.jpeg?version=601b96588043d69b255f9afff498002a3fdeb441" group-title="Techno;House",Skuizz Tech-House
+https://traxx020.ice.infomaniak.ch/traxx020-low.mp3
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQelCJwlikF4svQpJ288jY89syBDgAeuNdcUw&s" group-title="Adult;Contemporary",Sommerhits [Geo-Blocked]
 https://chmedia.streamabc.net/79-sommerhits-mp3-192-1247554
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOmsviJQ5LBi-xj6_nJNqfevRulNBDqYz4yA&s" group-title="Top 40;Pop",Spitalradio Luz
@@ -869,6 +881,8 @@ https://vibration.stream2net.eu/vibra-zenrelax.mp3
 https://vibration.stream2net.eu/vibra-christmas.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/b8/11/33746/c300.png" group-title="LGBTQ;Variety",Vibration Gay Radio
 http://vibration.stream2net.eu:8480/;stream/1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSKMecgB5GrF1Mqg43EfZiIra3zcxHBOBZYQ&s" group-title="Gospel;Christian",Vibration Gospel
+https://vibration.stream2net.eu/vibra-gospel.mp3
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlXYEw25jzC4Wer2UqYaJWTumYkKKKZipnDA&s" group-title="Metal;Instrumental",Vibration Metal
 https://vibration.stream2net.eu/vibra-metal.mp3
 #EXTINF:-1 tvg-logo="http://vibrationpoprock.com/wp-content/uploads/2016/02/favicon_poprock.jpg" group-title="Pop;Rock",Vibration PopRock
