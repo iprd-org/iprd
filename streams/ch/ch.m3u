@@ -169,8 +169,6 @@ https://rap.stream.laut.fm/rap
 https://1000weihnachten.stream.laut.fm/1000weihnachten
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s165127/images/logog.png?t=158799" group-title="Jazz;Blues",A Fine Jazz Gumbo Radio
 https://streaming.smartradio.ch:9502/stream
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s165127/images/logog.png?t=158799" group-title="Jazz;Blues",A Fine Jazz Gumbo Radio
-http://streaming.smartradio.ch:9002/stream
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXjMwGcIbaXGcbNxp-sBvABzBxSXtxeieYlQ&s" group-title="Culture;Talk",Agaune Radio
 https://listen.radioking.com/radio/439586/stream/493727
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_B6a-Ymue3m1t35UKlUSMZEfA-RCVwknOWA&s" group-title="60s;70s",Aktiv Radio
@@ -325,6 +323,8 @@ https://fr1.streamhosting.ch/lounge128.mp3
 http://magicradio.ice.infomaniak.ch/magicradio-mobile.aac
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/78/9e/789edb1e049fdd35ab950873e74859c3.png" group-title="Electronic;Talk",Maxxima
 https://maxxima.mine.nu/maxxima.aac
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHCD-jpuwA4tuEKk8Juy1_qRHw3oipTxa6Qw&s" group-title="Latino;Reggaeton",Me Gusta FM Suiza
+https://securestream.radioshd.info/9356/stream
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQspycco7fcF-e45-liXW5R2KYvvTM9P2VrYg&s" group-title="60s;70s",Melody Suisse
 https://n05.rcs.revma.com/5a05fstup42vv
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD8Mj6lovyWYzXwZTeJh5lubx4g7uFp3ffFA&s" group-title="Electronic;House",mUZIC Radio
@@ -375,6 +375,8 @@ http://live.ncradio.fm/320
 https://ice15.fluidstream.net/onedancech.aac
 #EXTINF:-1 tvg-logo="https://www.openbroadcast.ch/static/asset/img/artwork/touch-icon-120x120.png" group-title="World;Freeform",Open Broadcast
 https://www.openbroadcast.org/stream/openbroadcast
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFPcgCw_2juOgoaH7yaCjlUvEQukUw9gjgGA&s" group-title="Alternative;Oldies",Paradise FM
+http://fmradio.hopto.org:7000/
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_rltAQGmRAiEQH8o_cXXI4vYE7ETGKSDwjw&s" group-title="Indie;Rock",Piratenradio.ch
 https://piratenradioch.ice.infomaniak.ch/piratenradioch-128.mp3
 #EXTINF:-1 tvg-logo="http://www.piratesradio.ch/images/logo-pirate.png" group-title="Rock;Oldies",Pirates Radio
@@ -409,6 +411,8 @@ https://icecast.gruppocdt.ch/radio3i-256.mp3
 https://chmedia.streamabc.net/79-r32-mp3-192-5284783
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgcQKoC5W-wYeXiJsiOCQD_fz740dJ8mKLqA&s" group-title="Oldies;Hits",Radio 32 Goldies
 https://chmedia.streamabc.net/79-goldies-mp3-192-3811722
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhoIOUtRFEilulz2-bQ3PFf5QaiLvVyz4DwQ&s" group-title="Alternative;EDM",Radio 4 TNG
+https://radio4tng.ice.infomaniak.ch/radio4tng-live-web.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.net/300/radio74.png?version=c2d38c2d1c366447168d6907c8136d5c4dd939c7" group-title="English;Variety",Radio 74
 http://radio74.ice.infomaniak.ch/radio74.aac
 #EXTINF:-1 tvg-logo="https://www.allonlineradio.com/wp-content/uploads/2025/04/Switzerland-radio-Radio-1291-Alternative-Rock-logo.jpg" group-title="Pop;Hits",Radio 1291
@@ -453,8 +457,14 @@ http://stream.radiochablais.ch/chablais-100francais.mp3
 https://stream.radiochablais.ch/chablais-folklore.mp3
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs1NZreDyqmDqmaIz7vUUDlCgVp5458yN2Xg&s" group-title="French;Easy Listening",Radio Chablais Francophone
 https://stream.radiochablais.ch/chablais-100francais.mp3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpwLu-TUuyhS-gXIBqZ-LMODHkUSLuGGi7lg&s" group-title="Disco;Funk",Radio Chablais Funk
+https://stream.radiochablais.ch/chablais-funk.mp3
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0yu_gQF7m1fmy5Z2PdUsTxRH4H5b2XcMWdA&s" group-title="Blues;Rock",Radio Chablais Rock 'N Blues
 https://stream.radiochablais.ch/chablais-rocknblues.mp3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQINAfUt0ZV2PUPPBDZOHTLqEd0IFSqwLfiZw&s" group-title="Folk;Pop",Radio Chablais Swiss Made
+https://stream.radiochablais.ch/chablais-swissmade.mp3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxe1nSRSXy2O8KQAvqMFViOYoQ5aGlcNVX8A&s" group-title="Urban;Soul",Radio Chablais Urban
+https://stream.radiochablais.ch/chablais-urban.mp3
 #EXTINF:-1 tvg-logo="http://www.radiocite.ch/favicon.ico" group-title="Culture;French",Radio Cité Genève
 http://radiocite.ice.infomaniak.ch/radiocite128
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_g_L6Zpoz1o9AZNjCKL9LdTOh-WXB6wvK3Q&s" group-title="Pop;Hits",Radio Crans-Montana
@@ -681,6 +691,8 @@ http://77.109.144.109:8000/topsrp128
 http://77.109.144.109:8000/twosrp128
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG2ep1zqFHin398mtw9Y6wYGpJMo2FchQc8Q&s" group-title="Tamil;World",Radio Vaanam
 http://hyades.shoutca.st:8717/stream
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD1xfLnaRMTBwgRyBHAzBeU5nYoIRp1Lc1Tw&s" group-title="Rock;Blues",Radio Verbier Rock Blues
+https://streamingp.shoutcast.com/JamendoLounge
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg03w3R5KRQluMbz4TMH883LGHkaocm9ArkA&s" group-title="Oldies;Hits",Radio Vintage
 https://vintage.ice.infomaniak.ch/vintage.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/00/2c/11205/c300.png" group-title="Electro;Rock",Radio Vostok
