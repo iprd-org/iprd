@@ -19,7 +19,7 @@ This project is licensed under the [LICENSE](LICENSE) - see the file for details
 
 ## Current state of IPRD
 
-Work in Progress (2025-03-24)
+Work in Progress (2026-01-24)
 
 ## Usage
 
