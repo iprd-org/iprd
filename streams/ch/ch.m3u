@@ -103,7 +103,7 @@ http://185.33.22.15:11121/
 http://strm112.1.fm/gorillafm_mobile_mp3
 #EXTINF:-1 tvg-logo="http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg" group-title="Alternative;Rock",1.FM Gorilla.FM
 https://strm112.1.fm/gorillafm_mobile_mp3
-#EXTINF:-1 tvg-logo="http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg" group-title="Alternative;Rock",1.FM High Voltage Radio
+#EXTINF:-1 tvg-logo="http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg" group-title="Alternative;Rock",1.FM High Voltage
 http://strm112.1.fm/highvoltage_mobile_mp3
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/2/78802.v5.png" group-title="Chillout;Trance",1.FM Ibiza Chill Tropical
 http://strm112.1.fm/ibizachill_mobile_mp3?aw_0_req.gdpr=true
@@ -705,6 +705,8 @@ http://stream.srg-ssr.ch/m/rsp/aacp_96
 https://stream-178.zeno.fm/4su4xk97gwzuv
 #EXTINF:-1 tvg-logo="http://www.radiotell.ch/radiotell/image/favicon.ico" group-title="Folk;Volksmusik",Radio Tell
 http://stream.radiotell.ch/radiotell.mp3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-osyC53uXXkd5HsDYE-ri0VTATzG2JUGOPQ&s" group-title="Rock;Oldies",Radio TiRock
+https://str01.fluidstream.net/ric.mp3
 #EXTINF:-1 tvg-logo="http://www.toponline.ch/fileadmin/templates/logos/apple-touch-icon.png" group-title="Hits;Pop",Radio Top 104.5
 http://77.109.144.109:8000/topsrp128
 #EXTINF:-1 tvg-logo="http://www.toponline.ch/fileadmin/templates/logos/apple-touch-icon.png" group-title="Pop;Hits",Radio Top Two
@@ -747,6 +749,8 @@ http://rs01.swissnwx.ch:20080/stream
 https://str01.fluidstream.net/ric.mp3
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2mOh1KeStzMGtrImXpWaC3TcMcurJXUi9aA&s" group-title="World;Top 40",Radio Vibracao
 http://vibration.stream2net.eu/vibra-vibracao.mp3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScxNmjySF3GOELLmtX3ZtnhID4_ZNxuVT4Rw&s" group-title="80s;90s",Radio ZuriLeu
+https://edge06.streamonkey.net/radiozuerileu-live
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYyMIC1LX1rA8VNI0Ln8ochgcMRYZ4RNuvlA&s" group-title="Christian;Gospel",RBG Gospel
 https://listen.radioking.com/radio/291364/stream/337651
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW0Zl8svRA5IpJr9id_fqmpY8ko1YtBvx46A&s" group-title="90s;EDM",RedLine Radio
@@ -765,6 +769,8 @@ http://rhonefm.ice.infomaniak.ch/rhonefm-high.mp3
 https://rjb.ice.infomaniak.ch/rjb-high.mp3
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTou7tIIo_-hgYWLec_cfBG6OcqUdzILQY2zQ&s" group-title="Rock;Hits",Rockstar Radio
 https://dr2101.ice.infomaniak.ch/dr2102.mp3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhGHBa9oAmPQY9jSSMPtRDsidlxae5F0H1iw&s" group-title="Rock;Oldies",Rockstation
+https://radio2.stream24.net:8130/live.mp3
 #EXTINF:-1 tvg-logo="https://assets.laut.fm/2f03b6df9228eb3f8737a3878057488b?t=_640x640" group-title="Blues;Rock",Rock The Blues
 http://rock-the-blues.stream.laut.fm/rock-the-blues?t302=2021-12-21_19-40-29&uuid=7f313ac2-d03a-47d0-bfc5-eadf205e6eb7
 #EXTINF:-1 tvg-logo="http://www.rougefm.com/imgs/webradios/90.png" group-title="90s;Hits",Rouge 90s
@@ -859,6 +865,8 @@ https://traxx005.ice.infomaniak.ch/traxx005-low.mp3
 https://traxx003.ice.infomaniak.ch/traxx003-low.mp3
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaGavZKqmKoiSqeDAM0divbruONKNNkHSJ3w&s" group-title="French;World",Skuizz France
 https://traxx025.ice.infomaniak.ch/traxx025-1.mp3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaGavZKqmKoiSqeDAM0divbruONKNNkHSJ3w&s" group-title="Soul;Funk",Skuizz Funk
+https://traxx016.ice.infomaniak.ch/traxx016-low.mp3
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaGavZKqmKoiSqeDAM0divbruONKNNkHSJ3w&s" group-title="Pop;Top 40",Skuizz Hits
 https://traxx010.ice.infomaniak.ch/traxx010-low.mp3
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuOkWEaAh3QYnsD1PJkwPdSy9MyKorNl7O7w&s" group-title="50s;60s",Skuizz Hits 50s-70s
@@ -873,6 +881,8 @@ https://traxx018.ice.infomaniak.ch/traxx018-low.mp3
 https://traxx002.ice.infomaniak.ch/traxx002-low.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.fr/175/jazzradio.jpeg?version=601b96588043d69b255f9afff498002a3fdeb441" group-title="Jazz;Blues",Skuizz Jazz
 https://traxx014.ice.infomaniak.ch/traxx014-low.mp3
+#EXTINF:-1 tvg-logo="https://www.radio.fr/175/jazzradio.jpeg?version=601b96588043d69b255f9afff498002a3fdeb441" group-title="House;EDM",Skuizz Juice
+https://traxx001.ice.infomaniak.ch/traxx001-low.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.fr/175/jazzradio.jpeg?version=601b96588043d69b255f9afff498002a3fdeb441" group-title="Latino;World",Skuizz Latino
 https://traxx008.ice.infomaniak.ch/traxx008-low.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.fr/175/jazzradio.jpeg?version=601b96588043d69b255f9afff498002a3fdeb441" group-title="Lounge;Ballads",Skuizz Lounge
@@ -887,6 +897,8 @@ https://traxx006.ice.infomaniak.ch/traxx006-low.mp3
 https://traxx020.ice.infomaniak.ch/traxx020-low.mp3
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQelCJwlikF4svQpJ288jY89syBDgAeuNdcUw&s" group-title="Adult;Contemporary",Sommerhits [Geo-Blocked]
 https://chmedia.streamabc.net/79-sommerhits-mp3-192-1247554
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRszB-8ECZ1ZT_A5HDgV_ccFVLjDdd0yHeWlA&s" group-title="Dance;Indie",Soundz
+http://mp3.mysoundz.ch/stream
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOmsviJQ5LBi-xj6_nJNqfevRulNBDqYz4yA&s" group-title="Top 40;Pop",Spitalradio Luz
 https://s10.streamingcloud.online:13552/radioluz320.mp3
 #EXTINF:-1 tvg-logo="http://www.spoonradio.com/sites/default/themes/basic/css/images/fb_share.jpg" group-title="Oldies;Rock",Spoon Radio
@@ -997,6 +1009,8 @@ https://vintageradio.ice.infomaniak.ch/vintageradio-high.mp3
 http://vintage.ice.infomaniak.ch/vintage
 #EXTINF:-1 tvg-logo="https://image.radioking.io/radios/265822/logo/f46222eb-a1b8-4192-8a00-c6755d10080a.jpeg" group-title="Oldies;Rock",Vinyl Valley Rock Radio
 https://listen.radioking.com/radio/265822/stream/311047
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx_GoFHiLeHFTBlGBKfF0tLrMVlj0Lj8rHRg&s" group-title="80s;90s",VIVA FM
+https://vivafm.ice.infomaniak.ch/vivafm-96.mp3
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOSa2j4aUfyHHTZvPiIOvaBEFG3kMEyZVPRw&s" group-title="Reggae;Dub",Waldhaus
 https://c21.radioboss.fm:8122/stream
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3Or0eA3s6ta_ixVRSAGxqrvR-0_NfSQezKw&s" group-title="Electronic;House",Wildmountain Radio
