@@ -36,6 +36,8 @@ Our radio station playlists follow this organization:
 
 ## How to Contribute
 
+[2026-01-25] While we're constantly improving the IPRD lists & ecosystem, issues are *disabled* (for now) to ensure that we can provide a clean base for everyone to work on.
+
 Contributions are always welcome! To add a new radio station:
 
 1. Create an issue with the radio station you would like to add
