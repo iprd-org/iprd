@@ -197,10 +197,14 @@ https://s9.citrus3.com:8476/stream
 http://rs1.stream24.org:8690/stream
 #EXTINF:-1 tvg-logo="http://static.radio.de/images/broadcasts/19/ae/10954/c175.png" group-title="Christian;Religious",Bibelradio NT Psalmen
 http://rs1.stream24.org:9160/stream
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/513/biboo-radio.7daf9fff.png" group-title="90s;Hits",biboo Radio
+https://stream.rcvfm.fr:8000/biboo-128k.mp3
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/97/de/97de5c4bb1ee110e6ec9fccc2c9c0265.jpg" group-title="Hip Hop;Rock",Break Radio
 http://breakradio.ice.infomaniak.ch/breakradio-128.aac
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_CoDLjA13Uv_1PTcClB7bZdlLHk2PpitbBA&s" group-title="Alternative;Rock",Breath FM
 https://stream.breathfm.de/listen/mainstream/high.mp3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaTV467W_Ph0bt4WLyU5QbfpYbDiULRYypLA&s" group-title="Pop;Hits",Brightside Radio
+https://listen.radioking.com/radio/637396/stream/700303
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlNJ3Cl7bWIUZd-WS-0R4Xzu0l2ZVdhHKaWg&s" group-title="Gospel;Religious",Bulabawu
 https://listen.radioking.com/radio/21719/stream/54443
 #EXTINF:-1 tvg-logo="https://u.jimcdn.com/cms/o/sd5cd40b553f8e406/img/favicon.png?t=1457946603" group-title="Hits;Oldies",BurningStation.com
@@ -307,6 +311,8 @@ https://kreuzbergswiss.spcast.eu/stream
 http://n02.radiojar.com/a2dd2q0kb?rj-ttl=5&rj-tok=AAABfd3RChUAYiX2MlTV8t3eZg
 #EXTINF:-1 tvg-logo="https://i1.sndcdn.com/artworks-SzqhYhUaB9NTefVy-BzbbFw-t240x240.jpg" group-title="Variety;Hits",Kanal K
 https://kanalk.streamabc.net/91-kanalk-mp3-192-5146873
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/w-FQeal7qv5EGUQMcXJiedXrGlB2cR6ZHj7XzT_txyIVW1hrQkr1W5AYcr1UXHqFRbEd13K4pqa7QWuIIq-vKQ" group-title="Blues;Top 40",KFM Radio
+https://listen.radioking.com/radio/717731/stream/783431
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlD5TG1SvfC18PZ-wZoixdJINft7qFUbElBA&s" group-title="Classical;Baroque",Klassik Radio Schweiz
 https://klassikr.streamabc.net/klr-krschweiz-mp3-192-8951205
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW-mdgIVtbiCZM-K5ymUO7xVj7fZDmx6AbPQ&s" group-title="News;Talk",Kontrafunk
@@ -389,6 +395,8 @@ http://162.244.80.106:11402/stream
 http://neo1.bcast.infomaniak.ch/neo1.mp3
 #EXTINF:-1 tvg-logo="http://i0.wp.com/ncradio.fm/wp-content/uploads/2019/06/120-1.png" group-title="Brit;Pop",New Clear Radio
 http://live.ncradio.fm/320
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmy3j0_nPikgUjE-ETDTTcHSsWn0Z5EKQ2NQ&s" group-title="German;Pop",N-JOY Radio
+http://138.201.234.215:10952/index.html/stream
 #EXTINF:-1 tvg-logo="https://players.fluidstream.it/OneDanceCH/images/cover_default.jpg" group-title="Dance;Pop",One Dance Ticino
 https://ice15.fluidstream.net/onedancech.aac
 #EXTINF:-1 tvg-logo="https://www.openbroadcast.ch/static/asset/img/artwork/touch-icon-120x120.png" group-title="World;Freeform",Open Broadcast
@@ -401,6 +409,8 @@ https://piratenradioch.ice.infomaniak.ch/piratenradioch-128.mp3
 http://pirates.mine.nu:8080/pirates.mp3
 #EXTINF:-1 tvg-logo="http://www.planetambi.com/wp-content/uploads/2016/02/albumartsmall.jpg" group-title="Relax;Ambient",Planet Ambi HD
 http://philae.shoutca.st:9019/stream
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxbRPDZILBFs-2xA34P5qeAhZEjHGK1cg1ag&s" group-title="EDM;Pop",Pop Radio ONE
+https://listen.radioking.com/radio/388453/stream/439981
 #EXTINF:-1 tvg-logo="https://www.radio.de/images/broadcasts/77/ff/184816/1/c300.png" group-title="Rock;Alternative",PowerUp Radio
 http://stream.powerup.ch/powerupradio-192.mp3
 #EXTINF:-1 tvg-logo="https://en.publicdomainproject.org/images/thumb/a/a4/Pd-classical-app.png/600px-Pd-classical-app.png" group-title="Classical;Opera",Public Domain Classical
@@ -523,10 +533,12 @@ http://live.grenzenlos.ch:5006/stream
 https://somedia-3.streaming.deliver.media/radiogrischa_mp3_128
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s256392/images/logog.jpg?t=152810" group-title="Experimental;Rock",Radio Gugelhopf
 http://uk3.internet-radio.com:8113/stream
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s110181q.png" group-title="World;Rock",Radio Gwendalyn
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s110181q.png" group-title="World;Rock",Radio Gwen
 http://stream.radiogwen.ch:8000/radiogwen
 #EXTINF:-1 tvg-logo="https://seeded-session-images.scdn.co/v2/img/122/secondary/artist/0CY3kcceNHCysHMl8u7duy/de" group-title="Folk;Youth",Radio Henri Dès
 https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R2329710.mp3
+#EXTINF:-1 tvg-logo="https://www.radioimpact.com/upload/design/674ec1ebad4c04.40561987.png" group-title="EDM;Pop",Radio Impact
+https://listen.radioking.com/radio/689714/stream/754442
 #EXTINF:-1 tvg-logo="https://www.jamesfm.ch/wp-content/uploads/2020/08/jamesFM_Logo.png" group-title="Rock;Pop",Radio James
 https://jamesfm.ice.infomaniak.ch/jamesfm.mp3
 #EXTINF:-1 tvg-logo="http://www.kaiseregg.ch///templates/yoo_drive/favicon.ico" group-title="80s;Oldies",Radio Kaiseregg
@@ -1033,3 +1045,5 @@ http://wildmountain.ice.infomaniak.ch/wmr.mp3
 https://listen.radioking.com/radio/638320/stream/701257
 #EXTINF:-1 tvg-logo="https://mmo.aiircdn.com/29/61eaca66aaed8.png" group-title="News;Talk",WRS
 https://uksouth.streaming.broadcast.radio:10290/wrs
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS2ApvTC-b_FjtCeQMjSu24aH_BY2Vy3kWYw&s" group-title="Brazilian;Eclectic",Zoa Radio
+http://paineldj6.com.br:13500/stream
