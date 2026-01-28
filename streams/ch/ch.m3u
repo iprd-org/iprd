@@ -51,6 +51,8 @@ http://strm112.1.fm/onelive_mobile_mp3
 http://strm112.1.fm/atr_mobile_mp3
 #EXTINF:-1 tvg-logo="http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg" group-title="50s;60s",1.FM Back To The 50s & 60s
 http://strm112.1.fm/60s_70s_mobile_mp3
+#EXTINF:-1 tvg-logo="http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg" group-title="Classical;Baroque",1.FM Baroque
+https://strm112.1.fm/baroque_mobile_mp3
 #EXTINF:-1 tvg-logo="http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg" group-title="Smooth;Jazz",1.FM Bay Smooth Jazz
 http://strm112.1.fm/smoothjazz_mobile_mp3
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR10B0RnSZDA8Xb4mntt58i-EW9I3A4ZwSCSg&s" group-title="Hits;Ballads",1.FM Beloved Ballads
@@ -63,8 +65,12 @@ http://strm112.1.fm/psytrance_mobile_mp3
 http://strm112.1.fm/bombaybeats_mobile_mp3
 #EXTINF:-1 tvg-logo="http://www.1.fm//images/favicon.ico" group-title="Latin;World",1.FM Bossa Nova Hits
 http://strm112.1.fm/bossanova_mobile_mp3
+#EXTINF:-1 tvg-logo="http://www.1.fm//images/favicon.ico" group-title="Ambient;Relax",1.FM Brazilian Birds
+https://strm112.1.fm/brazilianbirds_mobile_mp3
 #EXTINF:-1 tvg-logo="http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg" group-title="Latin;Pop",1.FM Cafe
 http://strm112.1.fm/caferadio_mobile_mp3
+#EXTINF:-1 tvg-logo="http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg" group-title="Chillout;Classical",1.FM Calming Piano
+https://strm112.1.fm/gospel_mobile_mp3
 #EXTINF:-1 tvg-logo="http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg" group-title="Chillout;Lounge",1.FM Chillout Lounge
 http://strm112.1.fm/chilloutlounge_mobile_mp3
 #EXTINF:-1 tvg-logo="http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg" group-title="Gay;LGBTQ",1.FM Circuit Pride
@@ -135,6 +141,8 @@ https://strm112.1.fm/classical_mobile_aac
 http://strm112.1.fm/opera_mobile_mp3
 #EXTINF:-1 tvg-logo="http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg" group-title="World;Ethnic",1.FM Radio Gaia
 http://strm112.1.fm/radiogaia_mobile_mp3
+#EXTINF:-1 tvg-logo="http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg" group-title="Reggaeton;World",1.FM Reggaeton
+https://strm112.1.fm/reggaeton_mobile_mp3
 #EXTINF:-1 tvg-logo="http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg" group-title="Reggae;Reggaeton",1.FM ReggaeTrade
 http://strm112.1.fm/reggae_mobile_mp3
 #EXTINF:-1 tvg-logo="http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg" group-title="Classic;Rock",1.FM Rock Classics
@@ -151,10 +159,14 @@ https://webradio0002.ice.infomaniak.ch/webradio0005-128.mp3
 http://strm112.1.fm/sertanejo_mobile_mp3
 #EXTINF:-1 tvg-logo="http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg" group-title="R'n'B;Soul",1.FM Slow Jamz
 http://strm112.1.fm/slowjamz_mobile_mp3
+#EXTINF:-1 tvg-logo="http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg" group-title="Ambient;Chillout",1.FM Spa
+https://strm112.1.fm/spa_mobile_mp3
 #EXTINF:-1 tvg-logo="http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg" group-title="Latin;Fiesta",1.FM Top Fiesta
 http://strm112.1.fm/spanishparty_mobile_mp3
 #EXTINF:-1 tvg-logo="http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg" group-title="Spanish;World",1.FM Total Hits En Español
 http://strm112.1.fm/spanishtophits_mobile_mp3
+#EXTINF:-1 tvg-logo="http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg" group-title="00s;Hits",1.FM Y2K
+https://strm112.1.fm/hits2000_mobile_mp3
 #EXTINF:-1 tvg-logo="https://www.dab-swiss.ch/assets/images/23.6_premier_sur_les_hits_logo_.jpg" group-title="Pop;Rock",23.6 Premiers Sur Les Hits
 https://236premiersurleshits.ice.infomaniak.ch/236premiersurleshits-192.aac
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM8aNaPiyyUACuv9kXFvB5C6U-4E7y6P3JHQ&s" group-title="80s;Hits",80ies
@@ -403,6 +415,8 @@ https://ice15.fluidstream.net/onedancech.aac
 https://www.openbroadcast.org/stream/openbroadcast
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFPcgCw_2juOgoaH7yaCjlUvEQukUw9gjgGA&s" group-title="Alternative;Oldies",Paradise FM
 http://fmradio.hopto.org:7000/
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk_Y3NX2AYgIxGajHwWJKi8B3r97wWn0bcxQ&s" group-title="Alternative;World",Pinoy-OFWFM
+https://n04.radiojar.com/4dy80ayp5gruv
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_rltAQGmRAiEQH8o_cXXI4vYE7ETGKSDwjw&s" group-title="Indie;Rock",Piratenradio.ch
 https://piratenradioch.ice.infomaniak.ch/piratenradioch-128.mp3
 #EXTINF:-1 tvg-logo="http://www.piratesradio.ch/images/logo-pirate.png" group-title="Rock;Oldies",Pirates Radio
