@@ -623,6 +623,8 @@ https://stream.mnr.ch/rnh
 https://server31677.streamplus.de/stream.mp3
 #EXTINF:-1 tvg-logo="https://images.streamitter.com/logos/WUP9KE.png" group-title="Dance;Hits",Radio One Dance Ticino
 http://ice15.fluidstream.net/onedancech.aac
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBAaArBqEKY-5iR30oje_KH7sbX7kcT5E3Zw&s" group-title="Italian;Pop",Radio OneFive
+https://c32.radioboss.fm/stream/498
 #EXTINF:-1 tvg-logo="http://www.radioonyx.org/images/favicon.ico" group-title="Blues;Jazz",Radio Onyx
 http://nr4.newradio.it:9432/stream
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/16/34/1634f94b5dcedd36550edd1d3b94a6bd.jpg" group-title="Dance;Pop",Radio Orbital
@@ -645,6 +647,8 @@ https://chmedia.streamabc.net/79-rm-mp3-192-7754268
 https://chmedia.streamabc.net/79-ffm-mp3-192-2470075
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp23EXoYQJzsSk-DOLefb2f64nm_uA1j6XLw&s" group-title="Pop;Hits",Radio Pop Lusa
 https://stream-162.zeno.fm/c6cpwp17n0quv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMLloF2kJPsOVVAneYbD-eNhyaNgaLbwLJcQ&s" group-title="Variety;Portuguese",Radio Positiva
+https://nl.digitalrm.pt:8106/stream
 #EXTINF:-1 tvg-logo="https://radio-r.ch/wp-content/uploads/2018/12/cropped-R-vignette-32x32.png" group-title="Christian;Contemporary",Radio R
 http://radior.ice.infomaniak.ch/radior-128.mp3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Logo_rabe_rot.jpg/250px-Logo_rabe_rot.jpg" group-title="Community;Variety",Radio RaBe 95.6
@@ -669,6 +673,8 @@ http://radio-s.feste-ip.net:8000/
 https://schlagertime.stream.laut.fm/schlagertime
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHOWSLXF5yMQIXwq71fEIG2Yo8POqCr-7dtg&s" group-title="Pop;Sports",Radio Sense
 https://radio-sense.ice.infomaniak.ch/radio-sense-128.mp3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOFm2RLeXPSMgtgb3JTupHf2SDO_oQPV3N0g&s" group-title="Hip Hop;Pop",Radio Smash
+https://listen.radioking.com/radio/782786/stream/850441
 #EXTINF:-1 tvg-logo="https://www.srf.ch/extension/srf_shared/design/standard/images/logos/srflogo.png" group-title="Local;News",Radio SRF 1
 http://stream.srg-ssr.ch/m/drs1/aacp_32
 #EXTINF:-1 tvg-logo="https://www.srf.ch/extension/srf_shared/design/standard/images/logos/srflogo.png" group-title="Local;News",Radio SRF 1 Aargau Solothurn
@@ -679,6 +685,8 @@ http://stream.srg-ssr.ch/m/regi_ag_so/aacp_96
 http://stream.srg-ssr.ch/m/regi_bs_bl/aacp_32
 #EXTINF:-1 tvg-logo="https://www.srf.ch/extension/srf_shared/design/standard/images/logos/srflogo.png" group-title="Local;News",Radio SRF 1 Bern Freibourg Wallis
 http://stream.srg-ssr.ch/m/regi_be_fr_vs/aacp_32
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/2012_logo_for_La_Presse_newspaper.svg/1280px-2012_logo_for_La_Presse_newspaper.svg.png" group-title="News;French",Radio SRF 1 La 1ere - La Presse
+https://rts-aod-dd.akamaized.net/ww/80799e08-d794-324b-8955-7584d2e189e2/aae702ee-84c5-3b97-96b3-15aea8f93aa3.mp3
 #EXTINF:-1 tvg-logo="https://www.srf.ch/extension/srf_shared/design/standard/images/logos/srflogo.png" group-title="Local;News",Radio SRF 1 Ostschweiz
 http://stream.srg-ssr.ch/m/regi_ost/aacp_32
 #EXTINF:-1 tvg-logo="https://www.srf.ch/extension/srf_shared/design/standard/images/favicons/apple-touch-icon-120x120.png" group-title="Local;News",Radio SRF 1 Aargau Solothurn
@@ -1041,10 +1049,10 @@ http://traxx019.ice.infomaniak.ch/traxx019-low.mp3
 http://traxx006.ice.infomaniak.ch/traxx006-low.mp3
 #EXTINF:-1 tvg-logo="https://static.radio.fr/images/broadcasts/77/bb/7634/c175.png" group-title="Electronic;Techno",Traxx FM Tech Minimal
 http://traxx020.ice.infomaniak.ch/traxx020-low.mp3
-#EXTINF:-1 tvg-logo="http://www.truehouse.net/favicon.ico" group-title="Chillout;Relax",True House Chill
-http://stream.truehouse.net:8000/chill
-#EXTINF:-1 tvg-logo="http://www.truehouse.net/favicon.ico" group-title="House;EDM",True House Radio
+#EXTINF:-1 tvg-logo="http://www.truehouse.net/favicon.ico" group-title="House;EDM",Truehouse
 http://stream.truehouse.net:8000/house
+#EXTINF:-1 tvg-logo="http://www.truehouse.net/favicon.ico" group-title="Chillout;Relax",Truehouse - Chill
+http://stream.truehouse.net:8000/chill
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDAzKDs5AsMCxIOU3RhdGlvblByb2ZpbGUYgICAgIDyiAoMogEEemVubw/image/?u=1737841741000" group-title="Tamil;World",Uri Tamil Radio
 https://stream-179.zeno.fm/u8nt64f6sfeuv
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNmaividZpsxt2l4_ciL6haTCaRDb-s3q5Cg&s" group-title="Community;Variety",Verein Radio S
