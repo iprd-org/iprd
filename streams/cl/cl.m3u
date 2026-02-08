@@ -33,7 +33,7 @@ http://ascl.denial.cl:8010/
 http://sonando.us.digitalproserver.com/fmdelosrecuerdos.aac
 #EXTINF:-1 tvg-logo="https://www.fmdos.cl/wp-content/themes/leia/img/fmdos-2018.svg" group-title=Pop;Romantica",FM Dos 98.5
 https://playerservices.streamtheworld.com/api/livestream-redirect/FMDOSAAC_SC
-#EXTINF:-1 tvg-logo="https://www.fmokey.cl/favicon.ico" group-title="90s;Pop",FM Okey 89.9 Valparaiso
+#EXTINF:-1 tvg-logo="https://www.fmokey.cl/favicon.ico" group-title="90s;Pop",FM Okey 89.9
 https://streaming.fmokey.cl/moviles.mp3
 #EXTINF:-1 tvg-logo="https://s3-mspro.nyc3.cdn.digitaloceanspaces.com/tenant/5f3c32e7bc6bd007054065ad/mediaLibrary/photo/ea5143f8-b3b3-4bf8-9513-7ffb13ef47af-medium-standard-q100.png" group-title="80s;90s",FM Plus
 https://streaming.conectaapp.cl/fmplus
@@ -83,6 +83,8 @@ http://stream.zeno.fm/rzzbqy5g31zuv?rj-ttl=5&rj-tok=AAABfds2GHkAl3-ToFB7lI2sIw
 https://radio.tvstream.cl/8156/stream
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s185394g.png" group-title="Evangelical;Christian",Radio Armonía Oficina
 http://encoder.armoniaoficina.cl:3032/1.mp3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFSFEQfObgYv6x_vBLUoZ5qzA1dJRyjV2w8A&s" group-title="80s;Hits",Radio Aun Estamos Vivos
+https://radio.tvstream.cl:7075/stream
 #EXTINF:-1 tvg-logo="https://radiobahia.cl/inicio/wp-content/uploads/2022/01/cropped-cropped-Logo_pagina.png" group-title="Pop;News",Radio Bahía 99.7
 https://radioindia.net/chile/bahia/icecast.audio
 #EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/thumb/600/600/radio_logos/48/69/486902d0-3851-44e4-a396-36f5101afd59.png" group-title="Classical;Relax",Radio Beethoven 97.7
@@ -103,6 +105,8 @@ http://stream.zeno.fm/777prr0xfm8uv?rj-ttl=5&rj-tok=AAABfdqbe_sA_6W6Wvc5FCUJ_Q
 https://streaming.conectaapp.cl/canal95
 #EXTINF:-1 tvg-logo="https://radiocarnaval.cl/wp-content/uploads/2019/10/favicon-webcarnaval.png" group-title="Pop;Talk",Radio Carnaval Aconcagua 98.3
 http://sonando.us.digitalproserver.com/carnaval_aconcagua.aac
+#EXTINF:-1 tvg-logo="https://radiocarnaval.cl/wp-content/uploads/2019/10/favicon-webcarnaval.png" group-title="Pop;Talk",Radio Carnaval Antofagasta 96.5
+https://sonando-us.digitalproserver.com/carnaval_antofagasta.aac
 #EXTINF:-1 tvg-logo="https://radiocarnaval.cl/wp-content/uploads/2019/10/favicon-webcarnaval.png" group-title="Cumbia;Pop",Radio Carnaval Curicó 104.7
 http://sonando.us.digitalproserver.com/carnaval_curico.aac
 #EXTINF:-1 tvg-logo="https://radiocarnaval.cl/wp-content/uploads/2019/10/favicon-webcarnaval.png" group-title="Cumbia;Pop",Radio Carnaval Punta Arenas 103.1
@@ -125,6 +129,8 @@ https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/637f68ddce4b1208597d8a
 https://streaming.comunicacioneschile.net/9398/stream/
 #EXTINF:-1 tvg-logo="https://cgt-chile.cl/wp-content/uploads/2019/05/central_clasista.png" group-title="Activismo;Sindicalismo",Radio Central Clasista de Trabajadores
 http://stream.zeno.fm/m5fw6rwx2tzuv?rj-ttl=5&rj-tok=AAABfdrhMk8A52N0pZ25pseBXw
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Z6mShCdOCYEGc7lfyaFdV32F0AuuIWzAm9EjVMVf9Djr_fTU_hrLwD5oAgLub-kg_nk=w600-h300-pc0xffffff-pd" group-title="80s;90s",Radio Club Retro Hits
+https://v4.tustreaming.cl:8134/stream
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s164952g.png" group-title="Rock;Pop",Radio Contemporánea 97.5
 http://sonando.us.digitalproserver.com/contemporanea_aconcagua.aac
 #EXTINF:-1 tvg-logo="https://radio.contextonuble.cl/wp-content/uploads/2020/07/cropped-Logo-2-1-192x192.png" group-title="Rock;Folk",Radio Contexto Ñuble
@@ -151,6 +157,8 @@ http://sonic.portalfoxmix.cl:8424/listen.pls
 http://archi-us.digitalproserver.com/femenina.aac
 #EXTINF:-1 tvg-logo="https://www.radiofestival.cl/wp-content/uploads/2018/06/favicon.png" group-title="Latin;Salsa",Radio Festival 93.7
 https://sp001.servidoresph.com:7061/1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7ZQwWGpnsUnEqpIMct28HtRFJuXHYFsm7qg&s" group-title="80s;90s",Radio FM Tiempo
+https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/639b7943e0a27908a55dbf9e
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXBc60AUYdr-T1iz2dQFKxOfwN2Ycv_nw10A&s" group-title="Rock;Hits",Radio Futuro 88.9
 https://24493.live.streamtheworld.com/FUTUROAAC_SC
 #EXTINF:-1 tvg-logo="https://radiogenial.cl/wp-content/uploads/2019/08/genial_icon.png" group-title="Pop;Dance",Radio Genial 100.5
@@ -175,6 +183,8 @@ https://sonando-us.digitalproserver.com/radiointeramericana.aac
 http://archi-us.digitalproserver.com/la-discusion-fm.aac
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJWuVz17tLQYl_m2SIR2mVLpRw5lqAM9JMbw&s" group-title="Variety;Ranchera",Radio La Mexicana 96.9
 http://audio0.tustreaming.cl:7170/casablanca
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmXcqS57PoVMDyA40xrLlEBi97iRvp0-sfRg&s" group-title="Tropical;Ranchera",Radio La Surena Carahue
+https://stream-150.zeno.fm/ssmz1n5vmd0uv
 #EXTINF:-1 tvg-logo="https://www.rln.cl/wp-content/uploads/2019/11/Logo_Radio_Las_Nieves2.png" group-title="Latino;Pop",Radio Las Nieves
 https://audio2.tustreaming.cl:10987/stream
 #EXTINF:-1 tvg-logo="https://www.radiollacolen.com/wp-content/uploads/2021/10/cropped-radio-llacolen-logo-redes-sociales-01-180x180.png" group-title="Pop;Rock",Radio Llacolén 1600
@@ -231,6 +241,8 @@ https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/5c915724519bce27671c4d
 https://cast235.indax.cl/8024/stream
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio6761_1535044749.jpg" group-title="Folk;News",Radio Tornagaleones 105.3
 http://tornagaleones.ddns.net:9000/stream
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq7dr7vVy4-jAAfZKyw_-8nNTdobHZhCK2Vw&s" group-title="Tropical;Rancheras",Radio Tropikal Rancheras
+https://streaming.viphosting.cl/8034/stream
 #EXTINF:-1 tvg-logo="http://radiotsonami.org/wp-content/uploads/fbrfg/apple-touch-icon.png" group-title="Experimenta;Soundart",Radio Tsonami
 http://rr.radiotsonami.org:8000/radio_tsonami
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSsMRzXpaxHwr3mwHg8z7-uoyZOb64dT425E4kC6WfIsR5jrzxs9VQLeynZDC2vRP5yqQ&usqp=CAU" group-title="Pop;Culture",Radio UBB 1360
@@ -267,3 +279,5 @@ http://sonando.us.digitalproserver.com/ucvradio
 https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/5c915613519bce27671c4caa
 #EXTINF:-1 tvg-logo="https://www.radiojar.com/content/stations/ag1zfnJhZGlvamFyY29tcjILEgpBdXRoQ2xpZW50GICAiNaVwrELDAsSDlN0YXRpb25Qcm9maWxlGICAqK_y_aILDKIBA2Rldg/image/?resize=210x210" group-title="80s;90s",Unlimited80s
 https://n07.radiojar.com/x0vkuhrfca3vv?rj-ttl=5&rj-tok=AAABnDpzdxMA8JwABoSn8k7cKg
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/91sZpATIMtFBIIEyw6FYpSbQkYgP_yx6CDM5Ju_zzrJTeOsSmMQUU1aG4xfejW3Zkak" group-title="Latino;Pop",Viejitas Pero Bonitas
+https://listen.freeradio.top/listen/recordando/radio.mp3
