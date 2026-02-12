@@ -111,7 +111,9 @@ http://unlimited11-cl.dps.live/biobiovalparaiso/aac/icecast.audio
 https://unlimited3-cl.dps.live/biobioconcepcion/aac/icecast.audio
 #EXTINF:-1 tvg-logo="https://www.biobiochile.cl/assets/biobiochile/img/icons/apple-touch-icon-120x120.png" group-title="News;Talk",Radio Bío-Bío Los Ángeles 96.7
 https://unlimited11-cl.dps.live/biobiolosangeles/aac/icecast.audio
-#EXTINF:-1 tvg-logo="https://www.biobiochile.cl/assets/biobiochile/img/icons/apple-touch-icon-120x120.png" group-title="News;Deportes",Radio Bío-Bío Santiago
+#EXTINF:-1 tvg-logo="https://www.biobiochile.cl/assets/biobiochile/img/icons/apple-touch-icon-120x120.png" group-title="News;Talk",Radio Bío-Bío Puerto Montt 94.9
+https://unlimited5-us.dps.live/biobiopuertomontt/aac/icecast.audio
+#EXTINF:-1 tvg-logo="https://www.biobiochile.cl/assets/biobiochile/img/icons/apple-touch-icon-120x120.png" group-title="News;Deportes",Radio Bío-Bío Santiago 99.7
 https://unlimited5-us.dps.live/biobiosantiago/aac/icecast.audio
 #EXTINF:-1 tvg-logo="https://stgogotsoul.files.wordpress.com/2021/03/cropped-logo-booga-club-trazado-02.png" group-title="Rock;Pop",Radio Boogaclub
 http://stream.zeno.fm/777prr0xfm8uv?rj-ttl=5&rj-tok=AAABfdqbe_sA_6W6Wvc5FCUJ_Q
@@ -157,6 +159,8 @@ https://unlimited5-us.dps.live/cooperativaciencia/aac/icecast.audio
 https://playerservices.streamtheworld.com/api/livestream-redirect/CORAZON_SC
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/fe/67/fe67c776fe39e938f5975c55b16eeb9b.jpg" group-title="World;Variety",Radio Cordillera Pinto 105.4
 http://stream.zeno.fm/u33nhd4bf2zuv.aac?rj-ttl=5&rj-tok=AAABfdpTb7gA8TkTbUK0hMbXgQ
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV-XeGYZwtx33zeUNEmjH2Opa1g6wNf7UC4Q&s" group-title="90s;Latino",Radio Cumbia Chile
+https://stream.zeno.fm/h5eannlep1gvv
 #EXTINF:-1 tvg-logo="https://www.digitalfm.cl/wp-content/themes/digitalfm/assets/images/favicon.png" group-title="Pop;Hits",Radio Digital FM
 https://unlimited11-cl.dps.live/digitalfm/aac/icecast.audio
 #EXTINF:-1 tvg-logo="https://i1.sndcdn.com/artworks-000433784688-m5ccwg-t500x500.jpg" group-title="Top 40;Hits",Radio Disney Chile 104.9
@@ -197,12 +201,16 @@ https://radioislanegra.org/radio/8010/basic.aac
 https://radioislanegra.org/radio/8030/basic.aac
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/2TTB0H.png?time=1631476968" group-title="Oldies;Deportes",Radio Interamericana 720
 https://sonando-us.digitalproserver.com/radiointeramericana.aac
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsVi1Pz7H2AaN9W8Aq5LHX6xWqk18y-m1ApA&s" group-title="Tropical;Ranchera",Radio La Chukara
+https://stm7.voxhd.com.br:10788/;
 #EXTINF:-1 tvg-logo="https://www.ladiscusion.cl/wp-content/uploads/2021/03/ldcl.jpg" group-title="Variety;News",Radio La Discusión 94.7
 http://archi-us.digitalproserver.com/la-discusion-fm.aac
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJWuVz17tLQYl_m2SIR2mVLpRw5lqAM9JMbw&s" group-title="Variety;Ranchera",Radio La Mexicana 96.9
 http://audio0.tustreaming.cl:7170/casablanca
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmXcqS57PoVMDyA40xrLlEBi97iRvp0-sfRg&s" group-title="Tropical;Ranchera",Radio La Surena Carahue
 https://stream-150.zeno.fm/ssmz1n5vmd0uv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3skQ2ujtBolpqw8teIaUnZNgn61i0bslgog&s" group-title="80s;90s",Radio Lado B Classic Dance
+https://audio.streaminghd.cl:2000/stream/ladobclassicdance/;stream.mp3
 #EXTINF:-1 tvg-logo="https://www.rln.cl/wp-content/uploads/2019/11/Logo_Radio_Las_Nieves2.png" group-title="Latino;Pop",Radio Las Nieves
 https://audio2.tustreaming.cl:10987/stream
 #EXTINF:-1 tvg-logo="https://www.radiollacolen.com/wp-content/uploads/2021/10/cropped-radio-llacolen-logo-redes-sociales-01-180x180.png" group-title="Pop;Rock",Radio Llacolén 1600
@@ -233,6 +241,8 @@ https://mdstrm.com/audio/65cab2d63e5d46089e495799/live.m3u8
 http://curiosity.shoutca.st:6451/autodj
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/8gmuhuxjz3fv.png" group-title="Comunitaria;Variety",Radio Plaza de la Dignidad
 http://stream.zeno.fm/a1ns6n6hfrruv?rj-ttl=5&rj-tok=AAABfd2MjikAg5cSA3sIeO35qg
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiyfMnj6mwfQxWQIka6qoTFp9Arpe5mncJUQ&s" group-title="Deportes;Variety",Radio Punto 7 Valparaíso
+https://unlimited5-us.dps.live/p7valparaiso/aac/icecast.audio
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYVW5dFce2MS55_srUMj8MHeBpH77b-QqVOQ&s" group-title="Variety;Freeform",Radio Rara
 http://190.3.169.87:9952/listen.pls
 #EXTINF:-1 tvg-logo="http://rdifm.cl/wp-content/uploads/2017/05/logoRDI.png" group-title="70s;80s",Radio RDI 88.5
@@ -243,6 +253,8 @@ https://sonando-us.digitalproserver.com/radiorecuerdos.mp3
 https://sonic.portalfoxmix.cl/8226/stream
 #EXTINF:-1 tvg-logo="https://www.radiorefugio.org/apple-touch-icon.png" group-title="World;Rock",Radio Refugio
 http://procyon.shoutca.st:8114/stream
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ46zCVeGsgYxT4IxNYYCivrNw4OCfSaH-BAg&s" group-title="90s;Hits",Radio Rock
+https://stream-155.zeno.fm/ygcafb1mxxhvv
 #EXTINF:-1 tvg-logo="https://www.romantica.cl/_templates/desktop/includes/img/favicon.png" group-title="Pop;Romantic",Radio Romántica
 https://unlimited3-cl.dps.live/romantica/gotardis/audio/now/livestream1.m3u8
 #EXTINF:-1 tvg-logo="https://www.radiosanjoaquin.cl/wp-content/uploads/2018/05/cropped-favicon-270x270.png" group-title="Comunitaria;Pop",Radio San Joaquin 107.9
@@ -291,6 +303,8 @@ http://stream.zeno.fm/87wch5ygam8uv.aac?rj-ttl=5&rj-tok=AAABfdrpwcgAMaX45U1F2hMc
 https://playerservices.streamtheworld.com/api/livestream-redirect/ROCK_AND_POPAAC_SC
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Kzc3OpQNKSk/W0bQKRn7zuI/AAAAAAAASfM/sZaXKwbEzfUfr3DYmzYso7Vo7469I6fkACK4BGAYYCw/s212/Rad%2BSanf%2B3QB.png" group-title="Classical;Baroque",Sanfurgo
 http://176.31.241.17:7112/
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYYGJGKs2_KxfFbG3p-EqBQF-oIF5mHc5J4A&s" group-title="Latino;Merengue",Senal Tropical Chile
+https://stream.zeno.fm/mw9uhb6w9zhvv
 #EXTINF:-1 tvg-logo="https://sintonizados.com/scc_og400.png" group-title="Christian;Gospel",Sintonizados con Cristo Radio
 http://stream.zeno.fm/aeuz3sba9yzuv.mp3?rj-ttl=5&rj-tok=AAABfdum8boAPbGyQnMZJjqljQ
 #EXTINF:-1 tvg-logo="https://super45.fm/favicon.ico" group-title="Experimental;Indie",Super45.fm
