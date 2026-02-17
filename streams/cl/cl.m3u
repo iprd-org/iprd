@@ -1,10 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s16300/images/logog.png?t=4" group-title="Comedy;Variety",13C Radio 102.1
 https://mdstrm.com/audio/5c915497c6fd7c085b29169d/live.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy2W_70Muo-MDGhKbErM8Ujf1oWuBPYWjIHQ&s" group-title="80s;90s",80 90 y Vanguardia
+https://stream-176.zeno.fm/ei6oslohcizuv
 #EXTINF:-1 tvg-logo="https://www.adnradio.cl/_templates/desktop/includes/img/logo.png" group-title="Deportes;Noticias",ADN Radio Chile 91.7
 https://playerservices.streamtheworld.com/api/livestream-redirect/ADNAAC_SC
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR2RrXyqb6gSvvNOQoN-b8wHsUcw4PJPj_yw&s" group-title="Ambient;Experimental",Chercan Radio
 http://stream.zeno.fm/es9h0crh74zuv?rj-ttl=5&rj-tok=AAABfd5PsrgAQApFzpfp_YQUCA
+#EXTINF:-1 tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/874/oldie-hits.8b845afa.jpg" group-title="60s;70s",Classic Oldies
+https://listen.freeradio.top/listen/oldies/radio.aac
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/1280px-CNN_Chile_logo_2017.svg.png" group-title="News;Talk",CNN Chile Radio AM
 https://us-b4-p-e-jn18-audio.cdn.mdstrm.com/live-audio-aw/663e790bd43b6e086ef99b5f
 #EXTINF:-1 tvg-logo="https://www.concierto.cl/wp-content/uploads/2021/09/cropped-android-chrome-512x512-1-180x180.png" group-title="80s;Pop",Concierto 88.5
@@ -119,8 +123,6 @@ https://radioindia.net/chile/bahia/icecast.audio
 http://unlimited3-cl.dps.live/beethovenfm/gotardis/audio/now/livestream1.m3u8
 #EXTINF:-1 tvg-logo="https://www.beethovenfm.cl/content/themes/uc-radio-beethoven/dist/images/favicon.png" group-title="Classical;Relax",Radio Beethoven 97.7
 https://unlimited3-cl.dps.live/beethovenfm/go/audio/now/livestream1.m3u8
-#EXTINF:-1 tvg-logo="https://www.biobiochile.cl/assets/biobiochile/img/icons/apple-touch-icon-120x120.png" group-title="Noticias;Talk",Radio Bio Bio Valparaíso 94.5
-http://unlimited11-cl.dps.live/biobiovalparaiso/aac/icecast.audio
 #EXTINF:-1 tvg-logo="https://www.biobiochile.cl/assets/biobiochile/img/icons/apple-touch-icon-120x120.png" group-title="News;Pop",Radio Bío-Bío Concepción 98.1
 https://unlimited3-cl.dps.live/biobioconcepcion/aac/icecast.audio
 #EXTINF:-1 tvg-logo="https://www.biobiochile.cl/assets/biobiochile/img/icons/apple-touch-icon-120x120.png" group-title="News;Talk",Radio Bío-Bío Los Ángeles 96.7
@@ -129,6 +131,12 @@ https://unlimited11-cl.dps.live/biobiolosangeles/aac/icecast.audio
 https://unlimited5-us.dps.live/biobiopuertomontt/aac/icecast.audio
 #EXTINF:-1 tvg-logo="https://www.biobiochile.cl/assets/biobiochile/img/icons/apple-touch-icon-120x120.png" group-title="News;Deportes",Radio Bío-Bío Santiago 99.7
 https://unlimited5-us.dps.live/biobiosantiago/aac/icecast.audio
+#EXTINF:-1 tvg-logo="https://www.biobiochile.cl/assets/biobiochile/img/icons/apple-touch-icon-120x120.png" group-title="News;Deportes",Radio Bío-Bío Temuco
+https://unlimited5-us.dps.live/biobiotemuco/aac/icecast.audio
+#EXTINF:-1 tvg-logo="https://www.biobiochile.cl/assets/biobiochile/img/icons/apple-touch-icon-120x120.png" group-title="News;Deportes",Radio Bío-Bío Valdivia
+https://unlimited5-us.dps.live/biobiovaldivia/aac/icecast.audio
+#EXTINF:-1 tvg-logo="https://www.biobiochile.cl/assets/biobiochile/img/icons/apple-touch-icon-120x120.png" group-title="Noticias;Talk",Radio Bio Bio Valparaíso 94.5
+http://unlimited11-cl.dps.live/biobiovalparaiso/aac/icecast.audio
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOI-oTPi2BUTGhtjBp0W-6aaYinqqstmWLCQ&s" group-title="Oldies;Hits",Radio Bohemia 107.1
 https://audio.streaminghd.cl:2000/stream/bohemia-memoria-eterna/;stream.mp3
 #EXTINF:-1 tvg-logo="https://stgogotsoul.files.wordpress.com/2021/03/cropped-logo-booga-club-trazado-02.png" group-title="Rock;Pop",Radio Boogaclub
@@ -183,12 +191,16 @@ https://unlimited5-us.dps.live/cooperativaciencia/aac/icecast.audio
 https://playerservices.streamtheworld.com/api/livestream-redirect/CORAZON_SC
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/fe/67/fe67c776fe39e938f5975c55b16eeb9b.jpg" group-title="World;Variety",Radio Cordillera Pinto 105.4
 http://stream.zeno.fm/u33nhd4bf2zuv.aac?rj-ttl=5&rj-tok=AAABfdpTb7gA8TkTbUK0hMbXgQ
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/4218ee_ff680f1c9dcd4efa887198e0559396b8~mv2.png" group-title="Christian;Spanish",Radio Corporacion 97.1
+https://audio1.tustreaming.cl/8026/stream
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV-XeGYZwtx33zeUNEmjH2Opa1g6wNf7UC4Q&s" group-title="90s;Latino",Radio Cumbia Chile
 https://stream.zeno.fm/h5eannlep1gvv
 #EXTINF:-1 tvg-logo="https://www.digitalfm.cl/wp-content/themes/digitalfm/assets/images/favicon.png" group-title="Pop;Hits",Radio Digital FM
 https://unlimited11-cl.dps.live/digitalfm/aac/icecast.audio
 #EXTINF:-1 tvg-logo="https://i1.sndcdn.com/artworks-000433784688-m5ccwg-t500x500.jpg" group-title="Top 40;Hits",Radio Disney Chile 104.9
 https://us-b4-p-e-ja16-audio.cdn.mdstrm.com/live-audio-aw/67fe714d82a1ac0e129ae3cc
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/223/dulce-fm.674f75f8.jpg" group-title="Latin;World",Radio Dulce 95.3
+http://170.247.204.3/;
 #EXTINF:-1 tvg-logo="http://www.duna.cl/wp-content/themes/duna_theme/img/duna_small.png" group-title="Adult;Contemporary",Radio Duna 89.7
 http://unlimited3-cl.dps.live/duna/aac/icecast.audio
 #EXTINF:-1 tvg-logo="https://myradioonline.cl/public/uploads/radio_img/radio-edelweiss/play_250_250.webp" group-title="80s;90s",Radio Edelweiss
@@ -235,6 +247,8 @@ https://sonando-us.digitalproserver.com/radiointeramericana.aac
 https://stm7.voxhd.com.br:10788/;
 #EXTINF:-1 tvg-logo="https://myradioonline.cl/public/uploads/radio_img/radio-la-clave/play_250_250.webp" group-title="Variety;Hits",Radio La Clave 92.9
 https://unlimited1-us.dps.live/laclavetv/laclavetv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://myradioonline.cl/public/uploads/radio_img/radio-la-clave/play_250_250.webp" group-title="Cumbia;World",Radio La Cumbia
+https://static.mytuner.mobi/media/tvos_radios/367/radio-la-cumbia-online.f9e33c99.jpg
 #EXTINF:-1 tvg-logo="https://www.ladiscusion.cl/wp-content/uploads/2021/03/ldcl.jpg" group-title="Variety;News",Radio La Discusión 94.7
 http://archi-us.digitalproserver.com/la-discusion-fm.aac
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJWuVz17tLQYl_m2SIR2mVLpRw5lqAM9JMbw&s" group-title="Variety;Ranchera",Radio La Mexicana 96.9
