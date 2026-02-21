@@ -41,6 +41,8 @@ http://ascl.denial.cl:8008/
 http://ascl.denial.cl:8026/
 #EXTINF:-1 tvg-logo="https://www.fanatica.cl/wp-content/uploads/2021/01/fanatica_pop_512.png" group-title="Pop;Top 40",Fanatica POP
 http://ascl.denial.cl:8010/
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDIjfJMpEE2Y8snaB6jnm2gDVwCJB0zCI2Kw&s" group-title="90s;Hits",Fernanda
+https://azura.servercast.com.br/listen/radio_fernanda/radio.mp3
 #EXTINF:-1 tvg-logo="http://www.fmdelosrecuerdos.cl/img/logo_fbshare3.jpg" group-title="Pop;News",FM de los Recuerdos 95.1
 http://sonando.us.digitalproserver.com/fmdelosrecuerdos.aac
 #EXTINF:-1 tvg-logo="https://www.fmdos.cl/wp-content/themes/leia/img/fmdos-2018.svg" group-title=Pop;Romantica",FM Dos 98.5
@@ -229,10 +231,14 @@ http://unlimited3-cl.dps.live/duna/aac/icecast.audio
 https://encoder.stationlink.cl/listen/edelweiss/radio.mp3
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkphbQFshs6DcWXdVCsZkjfNgdeAY9KxLYxA&s" group-title="News;Talk",Radio El Conquistador 91.3
 https://stream10.usastreams.com/9314/stream
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtBw3-EJ_j83x4sotpinjyNpvYrOtUr6x9yQ&s" group-title="EDM;Dance",Radio Electro Chile
+https://stream-143.zeno.fm/ywnrindjwxjtv
 #EXTINF:-1 tvg-logo="https://www.radioelsembrador.cl/logoelsembrador.png" group-title="Christian;News",Radio El Sembrador 104.7/1440
 https://sonic-cl.streaming-chile.com:7035/listen.pls
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUDR9FD21WFQ2oDq6MMjeOvAzBGtdLk_cewA&s" group-title="90s;Pop",Radio Eros 92.7
 https://archi-us.digitalproserver.com/nexofm_valparaiso.aac
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZBKiMiOSEkcp_DHw0uou_vd-Qge_-rrsUqg&s" group-title="70s;80s",Radio Estacion Arica
+https://video.mediawebchile.com:8052/stream
 #EXTINF:-1 tvg-logo="https://static.monkibu.net/Radio/logos/estrella-2.png" group-title="Christian;Freirina",Radio Estrella del Norte
 http://sonic.portalfoxmix.cl:8424/listen.pls
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAM_POuu1SBxqRL76z8M2MVO_TI7dkpwQv7g&s" group-title="News;Talk",Radio Exitosa 88.5
@@ -241,6 +247,8 @@ https://stream-156.zeno.fm/dg69bex4gxquv
 http://archi-us.digitalproserver.com/femenina.aac
 #EXTINF:-1 tvg-logo="https://www.radiofestival.cl/wp-content/uploads/2018/06/favicon.png" group-title="Latin;Salsa",Radio Festival 93.7
 https://sp001.servidoresph.com:7061/1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0wPlaNY3pqGKnhzrX8CozQLGjeR-GmVQoKA&s" group-title="Pop;News",Radio FM+ 92.3
+http://audio5.tustreaming.cl:8010/fmmas
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBQ24_yxWAK2BHV_ibsDXP7xXbsnwxdkMDZQ&s" group-title="80s;90s",Radio FM Dance
 https://sonic.streamingchilenos.com/8138/stream
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTifwndzPyrVK2miCjOoBpqXlxq3_JlCQMayw&s" group-title="Latino;Reggaeton",Radio FM Latina Chile 89.1
@@ -325,6 +333,8 @@ http://stream.zeno.fm/a1ns6n6hfrruv?rj-ttl=5&rj-tok=AAABfd2MjikAg5cSA3sIeO35qg
 https://audio5.tustreaming.cl/7360/stream
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/PKtn0py-7rLMLAAoOQatQ2HnI1D4G--oEKGyq6Q2MHh8QrWTHgywMEQeyaQiaFaYGPge=w240-h480-rw" group-title="Deportes;Variety",Radio Punto 7 Bio-Bio
 https://unlimited5-us.dps.live/p7losangeles/mp3/icecast.audio
+#EXTINF:-1 tvg-logo="https://myradioonline.cl/public/uploads/radio_img/radio-punto-7/play_250_250.webp" group-title="Deportes;Variety",Radio Punto 7 Concepcion
+https://unlimited3-cl.dps.live/p7concepcion/aac/icecast.audio
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiyfMnj6mwfQxWQIka6qoTFp9Arpe5mncJUQ&s" group-title="Deportes;Variety",Radio Punto 7 Valparaíso
 https://unlimited5-us.dps.live/p7valparaiso/aac/icecast.audio
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYVW5dFce2MS55_srUMj8MHeBpH77b-QqVOQ&s" group-title="Variety;Freeform",Radio Rara
@@ -379,6 +389,8 @@ http://rr.radiotsonami.org:8000/radio_tsonami
 http://146.83.195.22:8000/stream.ogg
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM1b5p5TwqY8rdC3-ls4L6FFQkallAPUVlFg&s" group-title="College;News",Radio Universidad de Chile 102.5
 http://streamuchile.teslati.com/liveruch
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ3IKN3LaHBDEG1IGEKSnoqBQdthYqQX08Cw&s" group-title="Pop;News",Radio Universal Villarrica
+https://s02.azuracast.cl/radio/8120/villarrica
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScJ03k4nBLl0kvfFAezk0OOf0fD_YGKKmviQ&s" group-title="Rock;Top 40",Radio Universo 99.9
 https://unlimited5-us.dps.live/universo/aac/icecast.audio
 #EXTINF:-1 tvg-logo="https://www.usm.cl//assets/img/icon/favicon.png" group-title="Classical;Baroque",Radio USM 99.7
@@ -393,6 +405,8 @@ https://archi-us.digitalproserver.com/xqa-5.aac
 https://sonic.portalfoxmix.club/8394/stream
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWx0DNkSMPacmDu2J_l0Rwloyw1G83nWwTWQ&s" group-title="80s;90s",Retroclasicos
 https://streamtotal.net/proxy/oajaime/stream
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-F6WArAgfnBRJ2xhdNDxaNaVWfpXuV-KDvw&s" group-title="70s;80s",Retro Top's
+https://sonic.portalfoxmix.cl/9942/stream
 #EXTINF:-1 tvg-logo="http://www.ritoquefm.cl///templates/versant/favicon.ico" group-title="Oldies;Rock",Ritoque 107.9
 http://sonando.us.digitalproserver.com/ritoquefm_aac
 #EXTINF:-1 tvg-logo="https://ritoquefm.cl/wp-content/uploads/elementor/thumbs/rfm-t-p669v438e2dsnqdypgfjq42d1f3angyzl1d9x1368s.png" group-title="Oldies;Rock",Ritoque 107.9
@@ -433,5 +447,7 @@ https://sonando-us.digitalproserver.com/ucvradio
 https://n07.radiojar.com/x0vkuhrfca3vv?rj-ttl=5&rj-tok=AAABnDpzdxMA8JwABoSn8k7cKg
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/91sZpATIMtFBIIEyw6FYpSbQkYgP_yx6CDM5Ju_zzrJTeOsSmMQUU1aG4xfejW3Zkak" group-title="Latino;Pop",Viejitas Pero Bonitas
 https://listen.freeradio.top/listen/recordando/radio.mp3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgRgn36temryrEfqypsBPl6WFX2vZsdPfAog&s" group-title="Dance;Rock",Vilas Radio Iquique 100.1
+https://sonic.streamingchilenos.com/8072/stream
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdYkWjVF9zZyxOAnfmaoXwrEZQ1Q2SsJ_F9w&s" group-title="News;Pop",VLN Radio 105.7
 https://sonando-us.digitalproserver.com/vln_lo
