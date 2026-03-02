@@ -59,6 +59,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/FMDOSAAC_SC
 http://200.24.229.253:8040/stream/1/
 #EXTINF:-1 tvg-logo="https://www.fmokey.cl/favicon.ico" group-title="90s;Pop",FM Okey 89.9
 https://streaming.fmokey.cl/moviles.mp3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT57K0bcNTQ1F4_He9N-kwwZ7ArDtsNuTD2EA&s" group-title="Latino;Pop",FM Okey La Serena
+https://streaming.fmokey.cl/fmokey
 #EXTINF:-1 tvg-logo="https://s3-mspro.nyc3.cdn.digitaloceanspaces.com/tenant/5f3c32e7bc6bd007054065ad/mediaLibrary/photo/ea5143f8-b3b3-4bf8-9513-7ffb13ef47af-medium-standard-q100.png" group-title="80s;90s",FM Plus
 https://streaming.conectaapp.cl/fmplus
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKR_Lw-hmw-A9T0--vHyZVaTLygLvYjnD5vg&s" group-title="Dance;Pop",Frecuencia Rock 95.3
@@ -93,6 +95,8 @@ https://s2.radio.co:80/s9ecef4f68/listen
 https://audio.bitsur.cl:8130/larockola
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/3e0molrbNuk8PG1c7vY-_K65yNFucJTvcZMN5OEQUiIpeZ3YGkIBmbfe828IIabLQR4" group-title="Ranchera;Latin",La Sabrosita 95.1
 https://audio.streaminghd.cl:9234/;
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuPJVdnAhShYRvSk62ZiRSyccsHSZE1r42TQ&s" group-title="Variety;News",La Voz del Barrio
+https://sonicpanel.chileservidores.cl/8034/stream
 #EXTINF:-1 tvg-logo="https://i0.wp.com/lavozdelcipres.cl/wp-content/uploads/2018/12/cropped-Logo_naranjo_negro1.png" group-title="Baladas;Community",La Voz del Cipres de las Guaitecas 93.1
 https://live.lavozdelcipres.cl/radiomelinka.ogv
 #EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/80/db/171653/1/c300.png" group-title="Classical;Folk",Libelula Chile Señal 1
@@ -263,10 +267,14 @@ https://stream-156.zeno.fm/m9ky5y1t0nhvv
 https://us-b4-p-e-ja16-audio.cdn.mdstrm.com/live-audio-aw/67fe714d82a1ac0e129ae3cc
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/223/dulce-fm.674f75f8.jpg" group-title="Latin;World",Radio Dulce 95.3
 http://170.247.204.3/;
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN6S6LfFhNwTTnd2KlRqnvO6i_NP1p1NqRZw&s" group-title="Latin;World",Radio Dulce La Ligua 95.3
+https://stream-160.zeno.fm/3yv0enxnp7zuv
 #EXTINF:-1 tvg-logo="http://www.duna.cl/wp-content/themes/duna_theme/img/duna_small.png" group-title="Adult;Contemporary",Radio Duna 89.7
 http://unlimited3-cl.dps.live/duna/aac/icecast.audio
 #EXTINF:-1 tvg-logo="https://myradioonline.cl/public/uploads/radio_img/radio-edelweiss/play_250_250.webp" group-title="80s;90s",Radio Edelweiss
 https://encoder.stationlink.cl/listen/edelweiss/radio.mp3
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/33/df/33dfd652f0dcb739ce58a26888e6b914.jpg" group-title="Pop;News",Radio El Carbon 94.1
+https://unlimited11-cl.dps.live/elcarbon/aac/icecast.audio
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkphbQFshs6DcWXdVCsZkjfNgdeAY9KxLYxA&s" group-title="News;Talk",Radio El Conquistador 91.3
 https://stream10.usastreams.com/9314/stream
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtBw3-EJ_j83x4sotpinjyNpvYrOtUr6x9yQ&s" group-title="EDM;Dance",Radio Electro Chile
@@ -385,6 +393,8 @@ http://stream.zeno.fm/nzk58p79b9quv?rj-ttl=5&rj-tok=AAABfdrbtgcA1BVJakOxZ_DrrQ
 http://stream.zeno.fm/nzk58p79b9quv?rj-ttl=5&rj-tok=AAABfdti9YEAovtob5mHu_3EMQ
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrHU1jBgZcuc1wksPDmBfS9F6mLBvKzpE1CA&s" group-title="Christian;Gospel",Radio Nuevo Tiempo 96.5
 https://stream-153.zeno.fm/xnk291h7e8zuv
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/02/93/0293a7f4a03e4ce26e6808a674779d03.png" group-title="Oldies;Hits",Radio Orion 88.5
+https://usa10.fastcast4u.com:2750/;?nocache=1702325798&type=http
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvmfsrQ9M_qO5g4mwPi3WQ3T-rNis4IcGH1g&s" group-title="Latino;Merengue",Radio Pachanga Nacional
 https://c15.radioboss.fm/stream/476
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTE1OKwBPyfCRFvmXU0JBTC69QmhxfHv301w&s" group-title="World;Hits",Radio Paloma 97.5
@@ -399,6 +409,8 @@ https://mdstrm.com/audio/65cab2d63e5d46089e495799/live.m3u8
 https://video.mediawebchile.com:8134/stream
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/d38f5bdd-0966-4183-a994-09fb5b56780e/image/?u=1713873237000" group-title="70s;80s",Radio Perfeccion Baladas
 https://video.mediawebchile.com:8008/stream
+#EXTINF:-1 tvg-logo="https://static.mytuner-radio.net/media/radios/137/perfeccion-energy-music.bc793d28.jpg" group-title="80s;90s",Radio Perfeccion Energy Music
+https://video.mediawebchile.com:8010/stream
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXdK-ynFU_x_JaLHrmYFk3SLETJdH63_GG_A&s" group-title="60s;70s",Radio Pinamar 107.9
 https://sonic.streamingchilenos.com/8156/stream
 #EXTINF:-1 tvg-logo="http://www.radiopirinola.cl/wp-content/themes/radio_pirinola/assets/img/logo_pirinola.png" group-title="Spanish;Infantil",Radio Pirinola
@@ -553,6 +565,8 @@ https://sonic-us.fhost.cl/9922/stream
 https://sonando-us.digitalproserver.com/ucvradio
 #EXTINF:-1 tvg-logo="http://ucvmedios.cl/apple-touch-icon.png" group-title="News;University",UCV Radio Valparaíso 103.5
 http://sonando.us.digitalproserver.com/ucvradio
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRykHbrNzC4HdVM9a58xS6R3VND6No0c2dNsw&s" group-title="Variety;Talk",Ufro Radio 89.3
+https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio/580a72fc0c1f207c4c1d2bf8/5e7d00bf57988307b310abff/icecast.audio
 #EXTINF:-1 tvg-logo="https://www.radiojar.com/content/stations/ag1zfnJhZGlvamFyY29tcjILEgpBdXRoQ2xpZW50GICAiNaVwrELDAsSDlN0YXRpb25Qcm9maWxlGICAqK_y_aILDKIBA2Rldg/image/?resize=210x210" group-title="80s;90s",Unlimited80s
 https://n07.radiojar.com/x0vkuhrfca3vv?rj-ttl=5&rj-tok=AAABnDpzdxMA8JwABoSn8k7cKg
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk_o_DwYo-EKDiDP6t9RnsOgU5IvppEHu1Tg&s" group-title="80s;Dance",Valdivia Radio
