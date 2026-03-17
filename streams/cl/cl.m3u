@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s16300/images/logog.png?t=4" group-title="Comedy;Variety",13C Radio 102.1
 https://mdstrm.com/audio/5c915497c6fd7c085b29169d/live.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStRfT_PaE5u7pcLvrr84hW7oOysIDVIBgZUQ&s" group-title="Alternative;Rock",4FUN ROCK
+https://sonic-us.arkeo.cl/8358/stream
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy2W_70Muo-MDGhKbErM8Ujf1oWuBPYWjIHQ&s" group-title="80s;90s",80 90 y Vanguardia
 https://stream-176.zeno.fm/ei6oslohcizuv
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7DTbx-7VCj7sV6hZuFaCDYYcQqcabZXXmAQ&s" group-title="Folk;World",Acordes de Chile
@@ -33,6 +35,8 @@ https://us-b4-p-e-jn18-audio.cdn.mdstrm.com/live-audio-aw/663e790bd43b6e086ef99b
 https://playerservices.streamtheworld.com/api/livestream-redirect/CONCIERTO_SC
 #EXTINF:-1 tvg-logo="https://cysradio.cl/images/logo%20cys225x225.png?crc=272704262" group-title="Pop;Hits",CyS Radio 96.3 
 http://streaming.chiloestreaming.com:9542/listen.pls
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlNmh1B3r-Zmse3ztznco3LYYrtNtZmsy5IA&s" group-title="Dance;Electronic",Dance FM 
+https://video.mediawebchile.com:9332/stream
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/845/decada-de-los-90s.4280c6b2.jpg" group-title="90s;Hits",Decada de los 90s 
 https://stream-160.zeno.fm/hxv1ceue74zuv
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/s22PIveVoP8hPNge7Mil5ogZcoiNum6lVot9iJAl4CpZwD5ITQNffbpLEIlzwb4Tzrza" group-title="Adult;Hits",Desierto FM 
@@ -71,6 +75,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/FMDOSAAC_SC
 http://200.24.229.253:8040/stream/1/
 #EXTINF:-1 tvg-logo="https://www.fmokey.cl/favicon.ico" group-title="90s;Pop",FM Okey 89.9
 https://streaming.fmokey.cl/moviles.mp3
+#EXTINF:-1 tvg-logo="https://www.fmokey.cl/favicon.ico" group-title="Latino;Pop",FM Okey Arica
+https://streaming.fmokey.cl/fmokey
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT57K0bcNTQ1F4_He9N-kwwZ7ArDtsNuTD2EA&s" group-title="Latino;Pop",FM Okey La Serena
 https://streaming.fmokey.cl/fmokey
 #EXTINF:-1 tvg-logo="https://s3-mspro.nyc3.cdn.digitaloceanspaces.com/tenant/5f3c32e7bc6bd007054065ad/mediaLibrary/photo/ea5143f8-b3b3-4bf8-9513-7ffb13ef47af-medium-standard-q100.png" group-title="80s;90s",FM Plus
@@ -97,12 +103,16 @@ http://stream.zeno.fm/qbhvtm7tzwzuv?rj-ttl=5&rj-tok=AAABfd5gGFQALA8WKK_B4mqQDQ
 http://stream.zeno.fm/y3428vcm6yzuv?rj-ttl=5&rj-tok=AAABfd4u3BEASG0-oQn9w5ICbQ
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvGHaHXa64vt01GcBFXYXATrKgrFGY4JOY4w&s" group-title="Alternative;Metal",HEAVYMETALRADIO
 https://sonic.portalfoxmix.cl/8436/stream
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_NAVMLS8hwcKHiteI85Qm0FYWzspejYpEsg&s" group-title="Christian;Religious",IPV Radio
+http://c9.radioboss.fm:8157/stream
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ7_uJVza3iqgmogLuZlz470YjiIbExsNWDw&s" group-title="World;Top 40",Isadora 97.7
 http://streaming.comunicacioneschile.net:9326/;
 #EXTINF:-1 tvg-logo="https://zeno.fm/static/icons/apple-icon-120x120.png" group-title="Variety;News",Kaprichos
 http://stream.zeno.fm/8bagnnetftzuv?rj-ttl=5&rj-tok=AAABfd5bxgYAmKtAxJIw6vfBvQ
 #EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/emisora-cl/la-clave-92-9.png" group-title="80s;Hits",La Clave 92.9
 https://unlimited1-cl-isp.dps.live/laclavetv/laclavetv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://myradioonline.cl/public/uploads/radio_img/la-discusion/play_250_250.webp" group-title="Variety;News",La Discusion 94.7
+https://archi-us.digitalproserver.com/la-discusion-fm.aac
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvgrLHI_fSxv0uhF2dz-UoFU5wX9qH8tdfzQ&s" group-title="World;Hits",Lagos del Sur
 https://sonic.portalfoxmix.club/8330/stream
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv-t3g7h3pvzyMSkIgqOu77GDx6HJPzxN-Ng&s" group-title="Sports;Oldies",La Mega 102.7
@@ -117,6 +127,8 @@ https://s2.radio.co:80/s9ecef4f68/listen
 https://audio.bitsur.cl:8130/larockola
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/3e0molrbNuk8PG1c7vY-_K65yNFucJTvcZMN5OEQUiIpeZ3YGkIBmbfe828IIabLQR4" group-title="Ranchera;Latin",La Sabrosita 95.1
 https://audio.streaminghd.cl:9234/;
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/663/la-senal-vintage.cf9c2802.png" group-title="Oldies;Hits",La Senal Vintage
+https://listen.radioking.com/radio/839806/stream/909321
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuPJVdnAhShYRvSk62ZiRSyccsHSZE1r42TQ&s" group-title="Variety;News",La Voz del Barrio
 https://sonicpanel.chileservidores.cl/8034/stream
 #EXTINF:-1 tvg-logo="https://i0.wp.com/lavozdelcipres.cl/wp-content/uploads/2018/12/cropped-Logo_naranjo_negro1.png" group-title="Baladas;Community",La Voz del Cipres de las Guaitecas 93.1
@@ -175,12 +187,16 @@ https://26663.live.streamtheworld.com/ACTIVAAAC_SC
 https://playerservices.streamtheworld.com/api/livestream-redirect/ACTIVA_SC
 #EXTINF:-1 tvg-logo="https://www.radioagricultura.cl/_templates/globals/img/logo.png" group-title="Deportes;Futbol",Radio Agricultura
 http://unlimited4-us.dps.live/agricultura/mp3/icecast.audio?
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFMdWNNlc3UABy5nH_xN8Jm4xjopKv4ea4Vg&s" group-title="Pop;News",Radio Alborada 106.1
+https://sonic.portalfoxmix.club/8438/;
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxb11yza6KYgx4KNULbpyaNp-HObFUfkaKGg&s" group-title="Tropical;World",Radio Alegre 91.3
 http://archi-us.digitalproserver.com/alegre.aac
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s265762/images/logod.jpg?t=637048302230000000" group-title="80s;90s",Radio Alternativa Top 102.3
 http://stream.zeno.fm/rzzbqy5g31zuv?rj-ttl=5&rj-tok=AAABfds2GHkAl3-ToFB7lI2sIw
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjiDrIh0uSxyGhIG4QWwEoffftJvNMsT8wIQ&s" group-title="Latino;90s",Radio America
 http://streaming.comunicacioneschile.net:9924/stream
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7Yf_Daxn0NwbRS9EtmGquQpw-LzF0XydRlQ&s" group-title="News;Sports",Radio Ancoa 95.7
+http://audio2.tustreaming.cl:8012/stream
 #EXTINF:-1 tvg-logo="https://radioandrea.cl/favicon.ico" group-title="Freirina;Huasco",Radio Andrea FM
 https://radio.tvstream.cl/8156/stream
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDCn8VwfsF3lLYVRgobOmd4_49C_-zTvi_aQ&s" group-title="80s;90s",Radio Antofagasta Online
@@ -261,6 +277,8 @@ https://sonic01.instainternet.com/8374/stream
 http://sonando.us.digitalproserver.com/caracol590.aac
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI7RcRE0eVW_AjjPLiIDqV5QiQpqzQVKgQIQ&s" group-title="Pop;News",Radio Caramelo 94.7
 https://edge04.radiohdvivo.com/caramelo
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIJjoTYZIikxcgqr3BtjPHAqfZuT8v2tMAOg&s" group-title="Pop;News",Radio Caricia 102.3
+https://sonic.portalfoxmix.club/8244/stream/
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBCIp7ZNjY51KMXhr3OojTTyxLuQIMi9kjRA&s" group-title="Electronic;Pop",Radio Carolina 99.3
 https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/637f68ddce4b1208597d8a86
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/950/cassette-radio-chile.0ee6f90a.png" group-title="80s;90",Radio Cassette
@@ -271,6 +289,10 @@ https://stream-156.zeno.fm/116tdfxvf48uv
 https://streaming.comunicacioneschile.net/9398/stream/
 #EXTINF:-1 tvg-logo="https://cgt-chile.cl/wp-content/uploads/2019/05/central_clasista.png" group-title="Activismo;Sindicalismo",Radio Central Clasista de Trabajadores
 http://stream.zeno.fm/m5fw6rwx2tzuv?rj-ttl=5&rj-tok=AAABfdrhMk8A52N0pZ25pseBXw
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLD5aigve4WGs0p4u6t94aoOACA0ENiAnkpQ&s" group-title="Deportes;News",Radio Ciudadana 1500
+https://stream-175.zeno.fm/xrmwxuoec5xtv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZ0fy57HOxaSxJLOyzwRuuYZ4YoKUouVMFw&s" group-title="Pop;Classical",Radio Clasica
+https://sp001.servidoresph.com:8130/;
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQJkyVEDpLW9eTS55Jhda1NvHAfOqiVtjoNw&s" group-title="70s;80s",Radio Club 80s Clasicos
 https://stream.radioclub80.cl:8002/clasicos80.mp3
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvKRX5JvUqFOWn6-mGJnI8TALDuQg2Xbri9w&s" group-title="80s;90s",Radio Club 80 Senal Retro
@@ -309,6 +331,8 @@ https://archi-us.digitalproserver.com/creacion-fm.aac
 https://stream.zeno.fm/h5eannlep1gvv
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS203wvVk4hR7vALpU9kkniwmmNq4JvoIg1LA&s" group-title="Pop;Latino",Radio Cumbre 90.9
 https://sp001.servidoresph.com:7067/stream
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvvGAIH8oqaRgxiXwaWSextg8CP-ftvBRPeQ&s" group-title="Mexican;Latino",Radio Del Maipo
+https://sonic.mallocohosting.cl/8012/stream
 #EXTINF:-1 tvg-logo="https://www.digitalfm.cl/wp-content/themes/digitalfm/assets/images/favicon.png" group-title="Pop;Hits",Radio Digital FM
 https://unlimited11-cl.dps.live/digitalfm/aac/icecast.audio
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/190/radio-dinamica-1007-fm.5e2b3d03.png" group-title="Community;Variety",Radio Dinamica 100.7
@@ -501,6 +525,8 @@ https://sonic.streamingchilenos.com/8156/stream
 http://curiosity.shoutca.st:6451/autodj
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/8gmuhuxjz3fv.png" group-title="Comunitaria;Variety",Radio Plaza de la Dignidad
 http://stream.zeno.fm/a1ns6n6hfrruv?rj-ttl=5&rj-tok=AAABfd2MjikAg5cSA3sIeO35qg
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLhBs-ubXAmauUBsApdGUVZvV0e0g9xiv3zw&s" group-title="80s;90s",Radio Plus
+http://video.mediawebchile.com:8144/stream
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/263/radio-portales.59a5a520.png" group-title="News;Pop",Radio Portales
 https://audio5.tustreaming.cl/7360/stream
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/994/radio-primavera-chile.ccf4c284.png" group-title="Reggae;Salsa",Radio Primavera
@@ -515,6 +541,8 @@ https://unlimited5-us.dps.live/p7osorno/aac/icecast.audio
 https://unlimited5-us.dps.live/p7valparaiso/aac/icecast.audio
 #EXTINF:-1 tvg-logo="https://myradioonline.cl/public/uploads/radio_img/radio-punto-7/play_250_250.webp" group-title="Deportes;Variety",Radio Punto 7 Zona Sur
 http://54.39.106.215:8112/stream/
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1uCMd4hPRe5ejK9AWT1gaTkSAV9NPaixbZg&s" group-title="Pop;Lounge",Radio Punto 9 92.9
+https://stream-160.zeno.fm/t5jmgbldfruvv
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVU9msV_VlvwpdY4wxN8UFz20qsU4W1V0gZQ&s" group-title="Latin;Hits",Radio Quellon
 http://audio.streaminghd.cl:9072/;
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzUGYeXqNyeX70cu61GYoNTClZMghVxOZKDA&s" group-title="Rock;Hits",Radio Rancagua 99.5
@@ -563,6 +591,8 @@ https://us9.maindigitalstream.com/ssl/radiosol
 http://138.255.103.11/8026/stream
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSolnG5EBCcQqje-0dvrEdMy30T6i0BM4RSw&s" group-title="News;Rock",Radio Sonar 105.3
 https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/5c915724519bce27671c4d15
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu8AAoqQ5BX9XNuff6dGq5TseAsizFPFAPWQ&s" group-title="Mexican;Variety",Radio Superbuena Paredones
+https://sonicstream-puntual.grupozgh.cl:7014/stream
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2ZLzRDFlrSMbHy5V5APe2I4MNWDY8E1yEwQ&s" group-title="Latino;Pop",Radio SuperSol Osorno 100.3
 https://sonic-us.fhost.cl/8366/stream
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/4b/0a/4b0a6e7683df42b9ceba81a174b3e1d0.jpg" group-title="70s;80s",Radio Sur Valdivia
