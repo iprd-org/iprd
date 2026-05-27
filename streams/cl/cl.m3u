@@ -283,6 +283,8 @@ https://as100.globalhost1.com/8156/stream
 https://cp.servercast.xyz/8014/stream
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN7fOoTWA1P26KhLzabfg5Qf3Vbtj4pmjJMA&s" group-title="80s;90s",Incondicionalmente Retro
 https://v4.tustreaming.cl:8136/stream
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmxyEkLNOL0M5Y9TFiVWdbpTjFKOENbM4YYA&s" group-title="80s;90s",InfoArica
+https://cast.radioservicios.cl/listen/infoarica/web
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_jo4yXfPEAlQmm2HFMgRVcDPs-Z4pkjAtxA&s" group-title="Religious;Music",Inicia Radio 96.5
 https://sonando-us.digitalproserver.com/iniciaradio.aac
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuP5qruG_nOuD8eRdYcHBfu8z16Oenp_4r4w&s" group-title="Pop;Top 40",InsideFM
@@ -403,6 +405,8 @@ https://unlimited5-us.dps.live/nostalgica/aac/icecast.audio
 http://cast1.my-control-panel.com:7123/stream
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW-ZOvjbbaqR7TCjmsduhwNLXleghNl9UAGA&s" group-title="80s;Oldies",Nueva Era
 https://video.mediawebchile.com:8182/stream
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSze27uA9GKHQ_hAqxANuxkiGFer5KTg6x8Vw&s" group-title="Rock;Pop",Oceano FM 88.9
+https://sonic.portalfoxmix.club/8210/stream
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJMc6l0RmGjS8Tz4OrXiQyBTuxcBjdpFDC_A&s" group-title="Rock;Oldies",Oceano FM 98.1
 https://audio2.tustreaming.cl/9025/stream
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdEJxIXbxO1WWOFOc8OU3QTu73OAOanMzNdQ&s" group-title="80s;Hits",Octava Digital Radio
@@ -507,6 +511,8 @@ https://stream-174.zeno.fm/uqmcbzj2fywvv
 http://archi-us.digitalproserver.com/alegre.aac
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJsaO2vXFEjuQtZDvBs9iahcwFUJIIYbtyAg&s" group-title="Pop;News",Radio Alegria 104.7
 https://sonicstream-puntual.grupozgh.cl/8092/stream
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1Bk-5NnI-kL6Geymss5vaBnapWVcaY2F43g&s" group-title="80s;90s",Radio Alfa
+https://tunein.radiomaniacos.cl/alfa.mp3
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNnYHtJtZ6xdSB57MRErlPZcbQCbnQtsbyLQ&s" group-title="Alternative;Rock",Radio Alive Online
 http://209.126.119.28:8081/;
 #EXTINF:-1 tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/394/radio-alo-fm-chile.c9f20ae3.jpg" group-title="80s;90s",Radio Alo
@@ -709,6 +715,8 @@ https://streaming01.xhost.cl/8156/stream
 http://audio2.tustreaming.cl:7040/stream
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhkPHi48ETutI8E7RAFL0PQro7QFu_EVqU6A&s" group-title="Hits;Romantic",Radio Comunidad
 https://us9.maindigitalstream.com/ssl/7160
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8WEzl90pPsHZi7PEc9TXS6dqXdN7-qF8HBg&s" group-title="Community;Variety",Radio Comunife
+https://audio0.tustreaming.cl/7430/stream
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvMC6ysn8mw7rWp_SUB_z_oaG0saRSFKVonQ&s" group-title="80s;Latino",Radio Conecta2 Online
 https://stream-177.zeno.fm/gkqrsnczwwzuv
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuDVghnqhsmpWDllDXZtSam8l6sTyIXza-lQ&s" group-title="Latino;Pop",Radio Conceptos
@@ -739,10 +747,12 @@ http://streaming.comunicacioneschile.net:9318/stream
 https://unlimited5-us.dps.live/cooperativaciencia/aac/icecast.audio
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/0/62820.v9.png" group-title="News;Talk",Radio Copihue 105.1
 https://archi-us.digitalproserver.com/copihue-fm-victoria.aac
-#EXTINF:-1 tvg-logo="http://provisioning.streamtheworld.com/pls/CORAZON.pls" group-title="Pop;Hits",Radio Corazon 101.3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuqvf6ShkMrUtkIsRq0-gLk7G276UEJu32qw&s" group-title="Pop;Hits",Radio Corazon 101.3
 https://playerservices.streamtheworld.com/api/livestream-redirect/CORAZON_SC
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3y-0HaWmlvBRYF9l7sAS90nL1OnKQqBo1YA&s" group-title="World;Hits",Radio Cordillera
+http://78.129.241.110:36362/;
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/fe/67/fe67c776fe39e938f5975c55b16eeb9b.jpg" group-title="World;Variety",Radio Cordillera Pinto 105.4
-http://stream.zeno.fm/u33nhd4bf2zuv.aac?rj-ttl=5&rj-tok=AAABfdpTb7gA8TkTbUK0hMbXgQ
+http://stream.zeno.fm/u33nhd4bf2zuv.aac
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/4218ee_ff680f1c9dcd4efa887198e0559396b8~mv2.png" group-title="Christian;Spanish",Radio Corporacion 97.1
 https://audio1.tustreaming.cl/8026/stream
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/jgSGmbIgpWNsF0gLC9HziAJy_gV9GhvHWnekhqyxnNd2USjAhwj_JYsTgSUdKTO6w9PX70t5CsGHZ_6HBlvLZlmk18s570oM0JVKNwnvMVjt9RU" group-title="Pop;Sports",Radio Cosmos 103.7
@@ -799,6 +809,8 @@ https://streaming.comunicacioneschile.net/8030/stream
 https://streaming.viphosting.cl/8108/;
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/450/radio-discotheque-chile.6f4d298d.png" group-title="EDM;Hip Hop",Radio Discotheque
 https://stream-156.zeno.fm/m9ky5y1t0nhvv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3X5olDsSHTskF-GEsHJpCWe8Fl4p5tNo_XQ&s" group-title="Latino;Variety",Radio Disfrutame
+https://miradio.f96.cl/8058/stream
 #EXTINF:-1 tvg-logo="https://i1.sndcdn.com/artworks-000433784688-m5ccwg-t500x500.jpg" group-title="Top 40;Hits",Radio Disney Chile 104.9
 https://us-b4-p-e-ja16-audio.cdn.mdstrm.com/live-audio-aw/67fe714d82a1ac0e129ae3cc
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUDPoIRXCS_QkAAd5Re-o4nW0bIGi1F2DCLw&s" group-title="Christian;Variety",Radio Divina 660
@@ -1473,6 +1485,8 @@ https://stream-165.zeno.fm/kt0wcc9rqwzuv
 https://stream-150.zeno.fm/lsiyqroai88uv
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO3c1E86lOoHjFas1lw9bA_gc2LG_CkaV-TA&s" group-title="Pop;Hits",Radio Tecno
 https://stream-153.zeno.fm/29pmsm3w968uv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnGVhpzjIwBVTEcwGaDeEPBnMeUUpt12Hg3w&s" group-title="Alternative;Indie",Radio Tele Radical
+https://streaming.viphosting.cl/8014/stream
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTd02vUwAPb0hjycHBENh1IsJRsSfpKxxYIw&s" group-title="Latino;Mexican",Radio Tenina 95.1
 https://sonicstream-puntual.grupozgh.cl/8012/stream
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ90mm_PCHxWs0ecRB_nWKg_pm5jYnlnf_G1A&s" group-title="News;Hits",Radio Tentacion 106.9
