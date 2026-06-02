@@ -245,6 +245,8 @@ https://streaming.fmokey.cl/FmOkLSFEED.mp3
 https://audio3.tustreaming.cl/7270/stream
 #EXTINF:-1 tvg-logo="https://s3-mspro.nyc3.cdn.digitaloceanspaces.com/tenant/5f3c32e7bc6bd007054065ad/mediaLibrary/photo/ea5143f8-b3b3-4bf8-9513-7ffb13ef47af-medium-standard-q100.png" group-title="80s;90s",FM Plus
 https://streaming.conectaapp.cl/fmplus
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUOWVhojcV0bhlLleKuSueJa5Xyv3qVfnt-A&sg" group-title="Pop;Talk",FM Quiero 95.1
+https://stream.conectaapp.cl/fmquiero.cl
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_bCKtu0b-VgnH7VNTOXJyblxOQ2xszRJGVA&s" group-title="Rock;Latin",FM Siempre 94.3
 https://sp002.servidoresph.com/8008/stream
 #EXTINF:-1 tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/787/fm-sombras.aec926b9.png" group-title="80s;Pop",FM Sombras
@@ -683,8 +685,6 @@ https://archi-us.digitalproserver.com/carinosa-fm.aac
 https://stream-290.zeno.fm/g08j54kbhrdvv
 #EXTINF:-1 tvg-logo="https://radiocarnaval.cl/wp-content/uploads/2019/10/favicon-webcarnaval.png" group-title="Pop;Talk",Radio Carnaval Aconcagua 98.3
 http://sonando.us.digitalproserver.com/carnaval_aconcagua.aac
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGq0fEtQbmm2qYhGpjUQtsz8xw2iFoJaoGdQ&s" group-title="80s;90s",Radio Alo 96.7
-https://stream-175.zeno.fm/y010gebq0wzuv
 #EXTINF:-1 tvg-logo="https://radiocarnaval.cl/wp-content/uploads/2019/10/favicon-webcarnaval.png" group-title="Pop;Talk",Radio Carnaval Antofagasta 96.5
 https://sonando-us.digitalproserver.com/carnaval_antofagasta.aac
 #EXTINF:-1 tvg-logo="https://radiocarnaval.cl/wp-content/uploads/2019/10/favicon-webcarnaval.png" group-title="Cumbia;Pop",Radio Carnaval Curicó 104.7
@@ -763,12 +763,12 @@ http://audio2.tustreaming.cl:7040/stream
 https://us9.maindigitalstream.com/ssl/7160
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8WEzl90pPsHZi7PEc9TXS6dqXdN7-qF8HBg&s" group-title="Community;Variety",Radio Comunife
 https://audio0.tustreaming.cl/7430/stream
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvMC6ysn8mw7rWp_SUB_z_oaG0saRSFKVonQ&s" group-title="80s;Latino",Radio Conecta2 Online
-https://stream-177.zeno.fm/gkqrsnczwwzuv
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuDVghnqhsmpWDllDXZtSam8l6sTyIXza-lQ&s" group-title="Latino;Pop",Radio Conceptos
 http://audio.streaminghd.cl:9118/;
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuABkYKZSpgquIoJFpzoNjRogs8QRxAT8zWw&s" group-title="Baladas;World",Radio Condell 92.7
 https://zeus.miradio.pro/radio/8090/stream
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvMC6ysn8mw7rWp_SUB_z_oaG0saRSFKVonQ&s" group-title="80s;Latino",Radio Conecta2 Online
+https://stream-177.zeno.fm/gkqrsnczwwzuv
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh7ht5tAWH4m-_VxekdX8LmImzTtu79NZMBg&s" group-title="Christian;Gospel",Radio Conectados con la Fe
 https://stm8.voxhd.com.br:9394/stream
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREj6jZaLdt7jxJQ1b9IIaimcrsklp6-2KF0Q&s" group-title="Variety;Talk",Radio Congresso
@@ -777,8 +777,6 @@ http://sonando.us.digitalproserver.com/congreso.aac
 https://sonic-us.arkeo.cl/8306/stream
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIkl4j1NULrVBd3wCsP54vVqq68ozhzD3JcQ&s" group-title="90s;Latino",Radio Contacto 103.9
 https://sonic.streamingchilenos.com/9598/stream
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvMC6ysn8mw7rWp_SUB_z_oaG0saRSFKVonQ&s" group-title="80s;Latino",Radio Conecta2 Online
-https://stream-177.zeno.fm/gkqrsnczwwzuv
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s164952g.png" group-title="Rock;Pop",Radio Contemporánea 97.5
 http://sonando.us.digitalproserver.com/contemporanea_aconcagua.aac
 #EXTINF:-1 tvg-logo="https://radiocontenta.cl/img/logo-contenta.png" group-title="Latino;World",Radio Contenta 93.3
@@ -823,6 +821,8 @@ https://archi-us.digitalproserver.com/creacion-fm.aac
 https://audio0.tustreaming.cl/7280/stream
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0I2eRXBuRhyqYu916fQ8Sl7GaYw5C0_mttg&s" group-title="Reggaeton;Latin",Radio Crystal Cabildo 101.9
 http://radiolatina.live:9980/;
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/436/radio-crystal-quillota.025a8664.png" group-title="News;Talk",Radio Crystal Quillota 89.1
+https://stm4.srvif.com:7534/stream
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0I2eRXBuRhyqYu916fQ8Sl7GaYw5C0_mttg&s" group-title="Variety;Talk",Radio Crystal San Felipe 106.5
 http://radiolatina.live:9982/;
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS203wvVk4hR7vALpU9kkniwmmNq4JvoIg1LA&s" group-title="Pop;Latino",Radio Cumbre 90.9
@@ -1055,6 +1055,8 @@ https://stream-154.zeno.fm/k2u2z6mb4k0uv
 https://radio.andaina.net/8010/stream
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjWlAaHn8Dk8pH2oZ7bJjnmew-Txj1U715dw&s" group-title="Christian;Religious",Radio Horeb
 https://stream-179.zeno.fm/b3nvk9yyzbruv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeWWRGBTqceIz5GKbK39t5oYGhJsNck1o-sg&s" group-title="80s;90s",Radio Hualpen
+https://stream-179.zeno.fm/ste4hyduumzuv
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNCT-bLRSwNpO-uiK9M0lWPksGmyV8UxBqWw&s" group-title="News;Sports",Radio Ignacio Serrano 540
 https://sonic.portalfoxmix.club/8242/stream
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/object-images/d7ece02859afbc7957cbc749cd8295a6.jpg" group-title="Hits;Top 40",Radio Imagina 88.1
@@ -1119,6 +1121,8 @@ http://s6.jcwebnew.com:7020/;
 https://sonicpanel.cc/8014/stream
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZOvQGlvM-s-yHtDNSZxLkyUEVEOPJ_qYOZQ&ss" group-title="News;Talk",Radio La Amistad 1480
 https://audio.bitsur.cl/8072/;
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjvgDYjHpwOuRFY7RD7ebBl5VGq3aA-OCujA&s" group-title="Alternative;Indie",Radio Labrar
+https://stream-175.zeno.fm/fi96ez3rrvgtv
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTttCuRUZkem83FY0RSIYDpbnw9bvBXgYJ0kA&s" group-title="News;Sports",Radio La Calera 105.5
 https://archi-us.digitalproserver.com/la-calera.aac
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsVi1Pz7H2AaN9W8Aq5LHX6xWqk18y-m1ApA&s" group-title="Tropical;Ranchera",Radio La Chukara
@@ -1279,6 +1283,8 @@ https://sp001.servidoresph.com/8116/stream
 https://sp001.servidoresph.com/8168/stream
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShjhkSdGV02pNJSrJ6x3Xwjc1IDcTIhVvB8A&s" group-title="Folk;Latino",Radio Municipal 93.3
 https://audio.streaminghd.cl:2000/stream/radiomunicipaliquique/;stream.mp3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3sHiuywnxNnXOh6mJaHDXdliZZdf6K4QsAQ&s" group-title="80s;90s",radiomusicworld.cl
+https://cast1.my-control-panel.com/proxy/musicworld/stream
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/418/radio-nahuel-achao.07a3d568.jpg" group-title="Pop;News",Radio Nahuel Achao 94.5
 https://connectanet.ddns.net:8443/achao
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd5-MVIiqaiRaDnzqTZjgyU6xUMMw93VFRVg&s" group-title="Pop;News",Radio Nahuelbuta 88.3
@@ -1385,6 +1391,8 @@ https://app0103.sonicpanelradio.com/8206/stream
 https://audio5.tustreaming.cl/7360/stream
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/994/radio-primavera-chile.ccf4c284.png" group-title="Reggae;Salsa",Radio Primavera
 https://sonic.streamingchilenos.com/8240/stream
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdmycOEBddqP1LkrmC9KX2fI7ykBPUQFvFlA&s" group-title="Adult;Jazz",Radio Primordial 97.9
+https://cast1.my-control-panel.com/proxy/primordial/stream
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRmFW_Y_kscPzkhAjGnqtaqUn1npJtGGo0Cg&s" group-title="Mexican;Top 40",Radio Progreso 1030
 https://sonic.streamingchilenos.com/9614/stream
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1IYGvFnQCQPPdMDcnl_UY_paYofMtNkFCzA&s" group-title="Dance;Pop",Radio Pudeto 98.1
