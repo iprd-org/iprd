@@ -8,34 +8,33 @@ on:
 jobs:
   generate-catalog:
     runs-on: ubuntu-latest
-    permissions: write-all
+    permissions:
+      contents: write
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
-          fetch-depth: 0  # Fetch all history for proper git operations
-      
+          fetch-depth: 0
+
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.13'
-      
+
       - name: Install dependencies
-        run: pip install requests
-      
-      - name: Generate metadata catalog
         run: |
-          echo "Generating metadata catalog..."
           pip install pycountry
-          python scripts/generate_site_data.py
-      
+
+      - name: Generate metadata catalog
+        run: python scripts/generate_site_data.py
+
       - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          
-          # Check if there are changes
-          if [[ -n $(git status --porcelain metadata/ docs/site_data/) ]]; then
-            git add metadata/ docs/site_data/
+
+          # Check if there are changes in the correct paths
+          if [[ -n $(git status --porcelain docs/site_data/) ]]; then
+            git add docs/site_data/
             git commit -m "Update metadata catalog [automated]"
             git push
             echo "Metadata catalog updated and committed"
