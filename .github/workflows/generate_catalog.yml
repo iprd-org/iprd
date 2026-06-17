@@ -25,6 +25,7 @@ jobs:
       - name: Generate metadata catalog
         run: |
           echo "Generating metadata catalog..."
+          pip install pycountry
           python scripts/generate_site_data.py
       
       - name: Commit and push changes
