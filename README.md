@@ -19,7 +19,8 @@ This project is licensed under the [LICENSE](LICENSE) - see the file for details
 
 ## Current state of IPRD
 
-Work in Progress (2026-01-24)
+Resorting, fixing links and rebuilding the stream database, per country (Abyss, 2026-06-24)
+Creating premises of iprd-org/radio-database (Belleza, 2026-06-24)
 
 ## Usage
 
