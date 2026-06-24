@@ -1,5 +1,5 @@
 {
-  "total_stations": 24256,
+  "total_stations": 24276,
   "total_countries": 225,
   "countries": [
     {
@@ -20,15 +20,15 @@
     },
     {
       "code": "CA",
-      "count": 1169
+      "count": 1140
+    },
+    {
+      "code": "CL",
+      "count": 1051
     },
     {
       "code": "GR",
       "count": 1026
-    },
-    {
-      "code": "CL",
-      "count": 1002
     },
     {
       "code": "IT",
@@ -904,43 +904,43 @@
     }
   ],
   "genre_stats": {
-    "total_unique_genres": 1811,
+    "total_unique_genres": 1805,
     "top_genres": [
       {
         "name": "pop",
-        "count": 4912
+        "count": 4935
       },
       {
         "name": "news",
-        "count": 4258
+        "count": 4266
       },
       {
         "name": "talk",
-        "count": 3504
+        "count": 3495
       },
       {
         "name": "hits",
-        "count": 3091
+        "count": 3095
       },
       {
         "name": "rock",
-        "count": 2481
+        "count": 2488
       },
       {
         "name": "world",
-        "count": 1888
+        "count": 1890
       },
       {
         "name": "variety",
-        "count": 1747
+        "count": 1754
       },
       {
         "name": "oldies",
-        "count": 1143
+        "count": 1144
       },
       {
         "name": "contemporary",
-        "count": 1065
+        "count": 1057
       },
       {
         "name": "christian",
@@ -948,7 +948,7 @@
       },
       {
         "name": "dance",
-        "count": 1005
+        "count": 1009
       },
       {
         "name": "",
@@ -956,27 +956,27 @@
       },
       {
         "name": "top 40",
-        "count": 864
+        "count": 866
       },
       {
         "name": "80s",
-        "count": 832
+        "count": 836
       },
       {
         "name": "community",
-        "count": 807
+        "count": 813
       },
       {
         "name": "folk",
-        "count": 785
+        "count": 784
       },
       {
         "name": "classical",
-        "count": 687
+        "count": 681
       },
       {
         "name": "adult",
-        "count": 673
+        "count": 674
       },
       {
         "name": "public",
@@ -984,11 +984,11 @@
       },
       {
         "name": "alternative",
-        "count": 640
+        "count": 639
       },
       {
         "name": "jazz",
-        "count": 634
+        "count": 625
       },
       {
         "name": "religious",
@@ -996,7 +996,7 @@
       },
       {
         "name": "90s",
-        "count": 586
+        "count": 588
       },
       {
         "name": "electronic",
@@ -1008,15 +1008,11 @@
       },
       {
         "name": "country",
-        "count": 477
+        "count": 475
       },
       {
         "name": "culture",
-        "count": 468
-      },
-      {
-        "name": "ambient",
-        "count": 402
+        "count": 470
       },
       {
         "name": "70s",
@@ -1025,6 +1021,10 @@
       {
         "name": "hip hop",
         "count": 386
+      },
+      {
+        "name": "ambient",
+        "count": 378
       },
       {
         "name": "house",
@@ -1043,11 +1043,11 @@
         "count": 303
       },
       {
-        "name": "blues",
-        "count": 291
+        "name": "latin",
+        "count": 292
       },
       {
-        "name": "latin",
+        "name": "blues",
         "count": 289
       },
       {
@@ -1071,11 +1071,11 @@
         "count": 229
       },
       {
-        "name": "baroque",
-        "count": 217
+        "name": "gospel",
+        "count": 213
       },
       {
-        "name": "gospel",
+        "name": "baroque",
         "count": 213
       },
       {
@@ -1092,21 +1092,21 @@
       },
       {
         "name": "latino",
-        "count": 200
+        "count": 199
       },
       {
         "name": "metal",
         "count": 197
       },
       {
-        "name": "urban",
-        "count": 195
+        "name": "ballads",
+        "count": 196
       },
       {
-        "name": "ballads",
+        "name": "urban",
         "count": 195
       }
     ]
   },
-  "updated": "2026-06-17T16:19:02Z"
+  "updated": "2026-06-24T04:07:12Z"
 }
