@@ -1,5 +1,5 @@
 {
-  "total_stations": 24276,
+  "total_stations": 24280,
   "total_countries": 225,
   "countries": [
     {
@@ -12,7 +12,7 @@
     },
     {
       "code": "CN",
-      "count": 1692
+      "count": 1662
     },
     {
       "code": "FR",
@@ -24,7 +24,7 @@
     },
     {
       "code": "CL",
-      "count": 1051
+      "count": 1059
     },
     {
       "code": "GR",
@@ -257,6 +257,10 @@
     {
       "code": "AZ",
       "count": 28
+    },
+    {
+      "code": "CM",
+      "count": 27
     },
     {
       "code": "GT",
@@ -751,10 +755,6 @@
       "count": 1
     },
     {
-      "code": "CM",
-      "count": 1
-    },
-    {
       "code": "DM",
       "count": 1
     },
@@ -904,39 +904,39 @@
     }
   ],
   "genre_stats": {
-    "total_unique_genres": 1805,
+    "total_unique_genres": 1803,
     "top_genres": [
       {
         "name": "pop",
-        "count": 4935
+        "count": 4931
       },
       {
         "name": "news",
-        "count": 4266
+        "count": 4263
       },
       {
         "name": "talk",
-        "count": 3495
+        "count": 3493
       },
       {
         "name": "hits",
-        "count": 3095
+        "count": 3093
       },
       {
         "name": "rock",
-        "count": 2488
+        "count": 2483
       },
       {
         "name": "world",
-        "count": 1890
+        "count": 1892
       },
       {
         "name": "variety",
-        "count": 1754
+        "count": 1760
       },
       {
         "name": "oldies",
-        "count": 1144
+        "count": 1140
       },
       {
         "name": "contemporary",
@@ -944,35 +944,35 @@
       },
       {
         "name": "christian",
-        "count": 1049
+        "count": 1054
       },
       {
         "name": "dance",
-        "count": 1009
+        "count": 1010
       },
       {
         "name": "",
-        "count": 941
+        "count": 939
       },
       {
         "name": "top 40",
-        "count": 866
+        "count": 867
       },
       {
         "name": "80s",
-        "count": 836
+        "count": 837
       },
       {
         "name": "community",
-        "count": 813
+        "count": 815
       },
       {
         "name": "folk",
-        "count": 784
+        "count": 783
       },
       {
         "name": "classical",
-        "count": 681
+        "count": 679
       },
       {
         "name": "adult",
@@ -980,7 +980,7 @@
       },
       {
         "name": "public",
-        "count": 662
+        "count": 660
       },
       {
         "name": "alternative",
@@ -988,11 +988,11 @@
       },
       {
         "name": "jazz",
-        "count": 625
+        "count": 624
       },
       {
         "name": "religious",
-        "count": 608
+        "count": 614
       },
       {
         "name": "90s",
@@ -1000,11 +1000,11 @@
       },
       {
         "name": "electronic",
-        "count": 564
+        "count": 563
       },
       {
         "name": "sports",
-        "count": 482
+        "count": 484
       },
       {
         "name": "country",
@@ -1016,11 +1016,11 @@
       },
       {
         "name": "70s",
-        "count": 387
+        "count": 388
       },
       {
         "name": "hip hop",
-        "count": 386
+        "count": 380
       },
       {
         "name": "ambient",
@@ -1028,7 +1028,7 @@
       },
       {
         "name": "house",
-        "count": 371
+        "count": 372
       },
       {
         "name": "electro",
@@ -1036,7 +1036,7 @@
       },
       {
         "name": "classic",
-        "count": 307
+        "count": 306
       },
       {
         "name": "indie",
@@ -1044,15 +1044,15 @@
       },
       {
         "name": "latin",
-        "count": 292
+        "count": 294
       },
       {
         "name": "blues",
-        "count": 289
+        "count": 290
       },
       {
         "name": "traffic",
-        "count": 263
+        "count": 260
       },
       {
         "name": "r'n'b",
@@ -1072,7 +1072,7 @@
       },
       {
         "name": "gospel",
-        "count": 213
+        "count": 215
       },
       {
         "name": "baroque",
@@ -1083,30 +1083,30 @@
         "count": 204
       },
       {
-        "name": "weather",
-        "count": 204
-      },
-      {
         "name": "new country",
         "count": 203
       },
       {
         "name": "latino",
-        "count": 199
+        "count": 200
+      },
+      {
+        "name": "french",
+        "count": 198
       },
       {
         "name": "metal",
         "count": 197
       },
       {
-        "name": "ballads",
-        "count": 196
+        "name": "urban",
+        "count": 195
       },
       {
-        "name": "urban",
+        "name": "ballads",
         "count": 195
       }
     ]
   },
-  "updated": "2026-06-24T04:07:12Z"
+  "updated": "2026-07-01T02:03:04Z"
 }
