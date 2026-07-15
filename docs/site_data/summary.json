@@ -1,5 +1,5 @@
 {
-  "total_stations": 24279,
+  "total_stations": 24278,
   "total_countries": 225,
   "countries": [
     {
@@ -12,7 +12,7 @@
     },
     {
       "code": "CN",
-      "count": 1661
+      "count": 1660
     },
     {
       "code": "FR",
@@ -904,31 +904,31 @@
     }
   ],
   "genre_stats": {
-    "total_unique_genres": 1801,
+    "total_unique_genres": 1800,
     "top_genres": [
       {
         "name": "pop",
-        "count": 4926
+        "count": 4920
       },
       {
         "name": "news",
-        "count": 4260
+        "count": 4256
       },
       {
         "name": "talk",
-        "count": 3484
+        "count": 3481
       },
       {
         "name": "hits",
-        "count": 3099
+        "count": 3106
       },
       {
         "name": "rock",
-        "count": 2484
+        "count": 2481
       },
       {
         "name": "world",
-        "count": 1895
+        "count": 1901
       },
       {
         "name": "variety",
@@ -952,7 +952,7 @@
       },
       {
         "name": "",
-        "count": 930
+        "count": 928
       },
       {
         "name": "top 40",
@@ -968,27 +968,27 @@
       },
       {
         "name": "folk",
-        "count": 787
-      },
-      {
-        "name": "classical",
-        "count": 674
+        "count": 789
       },
       {
         "name": "adult",
         "count": 674
       },
       {
-        "name": "public",
-        "count": 641
+        "name": "classical",
+        "count": 672
       },
       {
         "name": "alternative",
         "count": 639
       },
       {
+        "name": "public",
+        "count": 629
+      },
+      {
         "name": "jazz",
-        "count": 624
+        "count": 623
       },
       {
         "name": "religious",
@@ -1004,7 +1004,7 @@
       },
       {
         "name": "sports",
-        "count": 484
+        "count": 483
       },
       {
         "name": "country",
@@ -1012,7 +1012,7 @@
       },
       {
         "name": "culture",
-        "count": 471
+        "count": 470
       },
       {
         "name": "70s",
@@ -1024,7 +1024,7 @@
       },
       {
         "name": "hip hop",
-        "count": 374
+        "count": 372
       },
       {
         "name": "house",
@@ -1040,7 +1040,7 @@
       },
       {
         "name": "classic",
-        "count": 301
+        "count": 295
       },
       {
         "name": "latin",
@@ -1108,5 +1108,5 @@
       }
     ]
   },
-  "updated": "2026-07-08T03:25:10Z"
+  "updated": "2026-07-15T02:54:05Z"
 }
