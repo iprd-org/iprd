@@ -1,5 +1,5 @@
 {
-  "total_stations": 24278,
+  "total_stations": 24277,
   "total_countries": 225,
   "countries": [
     {
@@ -12,7 +12,7 @@
     },
     {
       "code": "CN",
-      "count": 1660
+      "count": 1659
     },
     {
       "code": "FR",
@@ -904,43 +904,43 @@
     }
   ],
   "genre_stats": {
-    "total_unique_genres": 1800,
+    "total_unique_genres": 1791,
     "top_genres": [
       {
         "name": "pop",
-        "count": 4920
+        "count": 4916
       },
       {
         "name": "news",
-        "count": 4256
+        "count": 4258
       },
       {
         "name": "talk",
-        "count": 3481
+        "count": 3482
       },
       {
         "name": "hits",
-        "count": 3106
+        "count": 3111
       },
       {
         "name": "rock",
-        "count": 2481
+        "count": 2474
       },
       {
         "name": "world",
-        "count": 1901
+        "count": 1904
       },
       {
         "name": "variety",
-        "count": 1759
+        "count": 1763
       },
       {
         "name": "oldies",
-        "count": 1138
+        "count": 1136
       },
       {
         "name": "contemporary",
-        "count": 1057
+        "count": 1056
       },
       {
         "name": "christian",
@@ -952,7 +952,7 @@
       },
       {
         "name": "",
-        "count": 928
+        "count": 925
       },
       {
         "name": "top 40",
@@ -968,7 +968,7 @@
       },
       {
         "name": "folk",
-        "count": 789
+        "count": 803
       },
       {
         "name": "adult",
@@ -976,23 +976,23 @@
       },
       {
         "name": "classical",
-        "count": 672
+        "count": 669
       },
       {
         "name": "alternative",
         "count": 639
       },
       {
-        "name": "public",
-        "count": 629
-      },
-      {
         "name": "jazz",
-        "count": 623
+        "count": 622
       },
       {
         "name": "religious",
         "count": 614
+      },
+      {
+        "name": "public",
+        "count": 592
       },
       {
         "name": "90s",
@@ -1004,7 +1004,7 @@
       },
       {
         "name": "sports",
-        "count": 483
+        "count": 482
       },
       {
         "name": "country",
@@ -1012,7 +1012,7 @@
       },
       {
         "name": "culture",
-        "count": 470
+        "count": 469
       },
       {
         "name": "70s",
@@ -1023,12 +1023,12 @@
         "count": 379
       },
       {
-        "name": "hip hop",
+        "name": "house",
         "count": 372
       },
       {
-        "name": "house",
-        "count": 372
+        "name": "hip hop",
+        "count": 371
       },
       {
         "name": "electro",
@@ -1039,10 +1039,6 @@
         "count": 303
       },
       {
-        "name": "classic",
-        "count": 295
-      },
-      {
         "name": "latin",
         "count": 294
       },
@@ -1051,8 +1047,12 @@
         "count": 290
       },
       {
+        "name": "classic",
+        "count": 287
+      },
+      {
         "name": "traffic",
-        "count": 257
+        "count": 265
       },
       {
         "name": "r'n'b",
@@ -1108,5 +1108,5 @@
       }
     ]
   },
-  "updated": "2026-07-15T02:54:05Z"
+  "updated": "2026-07-22T03:20:07Z"
 }
