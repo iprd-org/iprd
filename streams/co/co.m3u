@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/countries/colombia-logo_1200x630.png" group-title="Latin;Local",123 Vallenato
 http://radiolatina.info:7087/listen.pls
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/664/fantastica-bogota-1044-fm.953b1280.png" group-title="Noticias;Talk",Alerta 104.4
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/664/fantastica-bogota-1044-fm.953b1280.png" group-title="Noticias;Talk",Alerta - Bogota 104.4
 https://mdstrm.com/audio/632c9c1cbc02c60329991efa/live.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s253628d.png" group-title="House;Minimal",All About That Music
 http://88.198.10.229:9500/stream
@@ -15,9 +15,9 @@ https://stream.zeno.fm/dossnihtsrytv
 http://radio.yaservers.com:8197/;stream.mp3
 #EXTINF:-1 tvg-logo="https://zenoimages.s3.us-west-001.backblazeb2.com/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICw2NS8gwoMCxIOU3RhdGlvblByb2ZpbGUYgICw2JfF2QkMogEEemVubw/images/logo" group-title="80s;Pop",BBC 80s 107.0
 http://stream.zeno.fm/hyvv0ya2es8uv
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrmHAtUW6ALw2lE9RDwRZ1_J8FjYmmXnADPQirNwQpqjC2QBpeD6_Ycmc&s=10" group-title="Romantic;World",Besame FM 94.9 - Medellin
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrmHAtUW6ALw2lE9RDwRZ1_J8FjYmmXnADPQirNwQpqjC2QBpeD6_Ycmc&s=10" group-title="Romantic;World",Besame FM - Medellin 94.9
 https://27593.live.streamtheworld.com/BESAME_MEDELLINAAC_SC
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s18489/images/logog.jpg?t=159370" group-title="Romantic;World",Besame FM 97.4 - Bogota
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s18489/images/logog.jpg?t=159370" group-title="Romantic;World",Besame FM - Bogota 97.4
 https://26503.live.streamtheworld.com/BESAME_BOGOTAAAC_SC
 #EXTINF:-1 tvg-logo="https://ca.radio.net/300/blu.png?version=681a73894875a6ed99e38d36353684e1d29a582f" group-title="Noticias;Talk",Blu Radio
 https://24273.live.streamtheworld.com/BLURADIO_ADP_SC
@@ -25,8 +25,12 @@ https://24273.live.streamtheworld.com/BLURADIO_ADP_SC
 http://stream.zeno.fm/hyvv0ya2es8uv
 #EXTINF:-1 tvg-logo="https://www.radio.net/300/candela1019fm.png?version=ae9ee89a59b48d69be5a805525fcd5eda4369005" group-title="Latino;Pop",Candela Estereo 101.9
 https://26483.live.streamtheworld.com/CANDELAESTEREO_SC
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/510/clasicos-del-reggaeton.2c4e1895.jpg" group-title="World;Reggaeton",Clasicos Del Reggae
+https://radiolatina.live/8132/stream
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/logo/2/44772.v12.png" group-title="Bolero;Corridos",Colombia Bohemia
 http://64.37.50.226:8024/listen.pls
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-Eok8WjACXlIwDDvgbbp-Sx7buC1jU1C0JXC5uRj78g&s=10" group-title="Latino;Salsa",Colombia Crossover
+https://radio35.virtualtronics.com/proxy/colombiacrossover?mp=/stream
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/logo/6/68976.v10.png" group-title="Vallenata;World",Colombia Vallenata
 http://64.37.50.226:8042/listen.pls
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/UDE-GyAgzu8ZgixDVVEyW11KN7PuIeTVn7CTSnNkBBjaJ4k08gom2yqHUA3EndvidDg" group-title="Electronic;Rock",CTB Stereo
@@ -35,8 +39,10 @@ http://stream.zeno.fm/r4t5dkavfzzuv
 https://stream.radio.co/s978e5f6bd/listen
 #EXTINF:-1 tvg-logo="http://dicomania.com/wp-content/uploads/2020/07/LogoDicomaniaHorizontalbordeblanco.png" group-title="Dance;Electronic",Dicomania
 https://streaming.tresbi.com/8304/dicomania
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSkEqb5QZOI6SYXj3_nPflCy8Gp9mBparcpuqLnKfr4pb7mIC7Ut1m3JPv&s=10" group-title="Salsa;World",El Sol 97.5
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSkEqb5QZOI6SYXj3_nPflCy8Gp9mBparcpuqLnKfr4pb7mIC7Ut1m3JPv&s=10" group-title="Salsa;World",El Sol - Cali 97.5
 https://mdstrm.com/audio/632c9b89aa9ace684913b815/live.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhhDs9EpcveHYyDHKI1PVIzZhqPiFtBxgbNuXRu1tQKPP6k2la0lNhywGM&s=10" group-title="Noticias;Talk",Emisora Atlantico 1070
+https://26673.live.streamtheworld.com/ATL_BARRANQUILLA_SC
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/rtvc-assets-qa-sistemasenalcolombia.gov.co/styles/400x225/s3/noticias/exploremos-canal-tdt-2.jpg?itok=h8mn6D0H" group-title="Education;Public",Exploremos
 https://streaming.rtvc.gov.co/Radio_Digital/Radionacional_Digital.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://cr00.epimg.net/iconos/v1.x/v1.0/promos/promo_og_radio.png" group-title="News;Talk",HJA21 Radio Caracoal - Monteria 107.5
@@ -165,7 +171,7 @@ https://master.letio.com/io/?gs=9120&type=master.m3u8
 https://master.letio.com/io/?gs=9116&type=master.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s2797/images/logog.png?t=636311" group-title="English;Pop",HJVU La X 103.9
 https://s5.radio.co/s980fc5249/listen
-#EXTINF:-1 tvg-logo="http://www.elsol.com.co/wp-content/themes/elsol-old/logo2.png" group-title="Latin;Salsa",HJXW El Sol Medellín 107.9
+#EXTINF:-1 tvg-logo="http://www.elsol.com.co/wp-content/themes/elsol-old/logo2.png" group-title="Latin;Salsa",HJXW El Sol - Medellín 107.9
 https://live1.rcnmundo.com/elsolmedellin.mp3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Se%C3%B1al_Radionica_logo.svg/245px-Se%C3%B1al_Radionica_logo.svg.png" group-title="Electronic;Metal",HJYM Radiónica 99.1
 http://shoutcast.rtvc.gov.co:8010/listen.pls
@@ -193,10 +199,14 @@ https://mdstrm.com/audio/627c1c39637d89088290f64d/live.m3u8
 https://playerservices.streamtheworld.com/api/livestream-redirect/LA_KALLE_SC
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6o845cxvaGohAAsPlXTYb24Tb2URsmvnwLSiGn8JePA&s=10" group-title="Top 40;Pop",La Mega 96.7
 https://mdstrm.com/audio/632c9ae6660fef03fe3855fe/live.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY4CrUfXtJ2f7r-Q77NhKND3mkWxcfXuMeKWk2P8p3t7oTQyPfbNFR09U&s=10" group-title="Rock;Pop",La Ochentera 91.9
+https://tupanel.info/stream/emisora919fm
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s179330/images/logog.png?t=156707" group-title="Latin;World",La Pachanguera 95.1
 http://radiolatina.info:8772/
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5uUFTuBN1wpaQL5F-J1Jg4YN0gO8CH5148zhR_91MqA&s" group-title="Folk;Noticias",La Reina 98.6
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5uUFTuBN1wpaQL5F-J1Jg4YN0gO8CH5148zhR_91MqA&s" group-title="Folk;Noticias",La Reina - Barranquilla 98.6
 https://26503.live.streamtheworld.com/RNA_BARRANQUILLA_SC
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsW_tgj_6cEAAzpXJdIkdJrG8QkN7x5EMQNEVXGU_v0g&s=10" group-title="Folk;Noticias",La Reina - Cartagena 95.5
+https://27393.live.streamtheworld.com/RNA_CARTAGENA_SC
 #EXTINF:-1 tvg-logo="http://latinastereo.com/wp-content/uploads/2020/06/LatinaStereo-1.png" group-title="Latin;Salsa",Latina Stereo 100.9
 http://198.27.68.65:8296/live
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s232598/images/logog.png?t=1" group-title="Hits;Latino",La Viejoteca de Richy
@@ -211,6 +221,8 @@ http://stream.zeno.fm/u8zxutp7mzzuv
 https://estructuraweb.com.co:9108/live
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1qEtIOmz-cVfnjGIHtdiHXq71WnW99CLbIqO_eUFA37Ptl6jTkvs4r90o&s=10" group-title="Noticias;Variety",La W
 https://27433.live.streamtheworld.com/WRADIOAAC_SC
+#EXTINF:-1 tvg-logo="https://www.radio.net/300/los40colombia.png?version=3e73007ad2d450c3f2b4db2a5583f10007517239" group-title="Pop;Top 40",Los40
+https://27323.live.streamtheworld.com/LOS40_COLOMBIAAAC_SC
 #EXTINF:-1 tvg-logo="http://lunaestereo.com/wp-content/uploads/logo-luna-estereo.png" group-title="Entretenimiento;News",Luna Estéreo 106.4
 https://play10.tikast.com/proxy/webvir?mp=/stream
 #EXTINF:-1 tvg-logo="https://madradio.co/wp-content/uploads/2021/07/cropped-favicon-180x180.png" group-title="Salsa;Pop",Mad Radio - Barcelona
@@ -251,8 +263,14 @@ http://shoutcast.rtvc.gov.co:8070/listen.pls
 http://stream.zeno.fm/v6f2gp5hzk8uv
 #EXTINF:-1 tvg-logo="https://emisorasenvivo.co/sites/default/files/radio/logos/logo-radio-tiempo-medellin.jpg" group-title="Balada;Latin",Radio Tiempo - Barranquilla 96.1
 https://master.letio.com/io/?gs=9100&type=master.m3u8
-#EXTINF:-1 tvg-logo="https://emisorasenvivo.co/sites/default/files/radio/logos/logo-radio-tiempo-medellin.jpg" group-title="Pop;Top 40",Radio Tiempo - Montería 104.5
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYJgLNF5jHjeB81YJhTh5bd3YjbQfwxGCbbep2F9xvSg&s=10" group-title="Balada;Latin",Radio Tiempo - Cali 89.5
+https://24403.live.streamtheworld.com/RT_CALIAAC_SC
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/571/radio-tiempo-monteria.d52cd918.png" group-title="Pop;Top 40",Radio Tiempo - Montería 104.5
 https://master.letio.com/io/?gs=9142&type=master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s114673/images/logog.png?t=2" group-title="World;Salsa",Radio Uno - Bogota 88.9
+https://mdstrm.com/audio/632c9bbcaa9ace684913b81b/icecast.audio
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/109/radio-uno-medellin.9835a3d5.png" group-title="World;Salsa",Radio Uno - Medellin
+https://mdstrm.com/audio/632cb505a057b90249b9dcc8/icecast.audio
 #EXTINF:-1 tvg-logo="https://www.rcnradio.com/favicon-32x32.png" group-title="Deportes;Noticias",RCN 93.9
 https://playerservices.streamtheworld.com/api/livestream-redirect/RCN_RADIO_FM
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2mX6RDvafYUsw_FCXOxNEskdY_83WJv1s9IWdoALiGw&s=10" group-title="Deportes;Talk",RCN Deportes
@@ -263,6 +281,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/RUMBA_OCANAAAC
 http://stream.zeno.fm/u27pdewuq74tv
 #EXTINF:-1 tvg-logo="http://i64.tinypic.com/a4vhmo.png" group-title="Jazz;Salsa",Salsa Gorda Radio
 http://stream.zeno.fm/s4s85axxaseuv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBOZEEYPt7VKqQh1RJeYiBaqj2gGzZ3Hq52kaba4sJFqfnBB3AWn5c4-cJ&s=10" group-title="Latino;Salsa",Salsa y mas - Cali
+https://stream-285.surfernetwork.com/42w3pfn7pzzuv
 #EXTINF:-1 tvg-logo="https://www.rtvc.gov.co/favicon.ico" group-title="Classical;Baroque",Señal Clásica RNC
 http://shoutcast.rtvc.gov.co:8040/listen.pls
 #EXTINF:-1 tvg-logo="http://superclasica.com/wp/wp-content/uploads/2013/11/logo-peq-color-mini.bmp" group-title="60s;70s",Super Clásica
@@ -273,7 +293,7 @@ http://77.73.69.238:8000/stream
 https://supresenciaradio.out.airtime.pro/supresenciaradio_a
 #EXTINF:-1 tvg-logo="https://supresenciaradio.com/wp-content/uploads/2017/12/logo-spradio.png" group-title="Cristiana;Gospel",Su Presencia Radio 1520
 http://supresenciaradio.out.airtime.pro:8000/supresenciaradio_c
-#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/t3BFeWXb5a.png" group-title="Salsa;Tropical",Tropicana Cali 93.1
+#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/t3BFeWXb5a.png" group-title="Salsa;Tropical",Tropicana - Cali 93.1
 https://playerservices.streamtheworld.com/api/livestream-redirect/TR_CALIAAC
 #EXTINF:-1 tvg-logo="http://www.unicauca.edu.co/sitioemisora/sites/all/themes/radio/imagenes/favicon.ico" group-title="Folk;University",Unicauca Estereo 104.1
 http://ftpemisora.unicauca.edu.co:8000/stream
@@ -285,6 +305,8 @@ https://stream-286.surfernetwork.com/08qxk717fd0uv
 https://playerservices.streamtheworld.com/api/livestream-redirect/VIBRAAAC_SC
 #EXTINF:-1 tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/953/viejoteca-para-beber-y-gozar.89edf938.png" group-title="Bolero;Pop",Viejoteca para Beber y Gozar
 https://stream-288.surfernetwork.com/n89ryz2day8uv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3T76gYZ7OAehd2bKRpL2nJNdhrDRTxVTOCzTF4ZKYO9ennjLc8ux1HBw&s=10" group-title="Oldies;Hits",Viejoteca para Rumba y Recuerdo
+https://stream-287.surfernetwork.com/qm8scvxtd5zuv
 #EXTINF:-1 tvg-logo="https://www.vozdelacapilla.com/" group-title="Pop;Ranchera",Voz de la Capilla
 https://sonic.paulatina.co/7446/stream
 #EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/zonasalsa-radio-3066.jpg" group-title="Jazz;Latino",ZonaSalsa
