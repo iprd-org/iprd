@@ -1,5 +1,5 @@
 {
-  "total_stations": 24812,
+  "total_stations": 24890,
   "total_countries": 225,
   "countries": [
     {
@@ -43,6 +43,10 @@
       "count": 773
     },
     {
+      "code": "CO",
+      "count": 643
+    },
+    {
       "code": "PL",
       "count": 618
     },
@@ -53,10 +57,6 @@
     {
       "code": "GB",
       "count": 587
-    },
-    {
-      "code": "CO",
-      "count": 565
     },
     {
       "code": "CH",
@@ -908,39 +908,39 @@
     "top_genres": [
       {
         "name": "pop",
-        "count": 4979
+        "count": 4989
       },
       {
         "name": "news",
-        "count": 4291
+        "count": 4298
       },
       {
         "name": "talk",
-        "count": 3509
+        "count": 3511
       },
       {
         "name": "hits",
-        "count": 3172
+        "count": 3179
       },
       {
         "name": "rock",
-        "count": 2483
+        "count": 2486
       },
       {
         "name": "world",
-        "count": 1961
+        "count": 1965
       },
       {
         "name": "variety",
-        "count": 1825
+        "count": 1836
       },
       {
         "name": "oldies",
-        "count": 1181
+        "count": 1188
       },
       {
         "name": "christian",
-        "count": 1080
+        "count": 1086
       },
       {
         "name": "contemporary",
@@ -948,7 +948,7 @@
       },
       {
         "name": "dance",
-        "count": 1024
+        "count": 1031
       },
       {
         "name": "",
@@ -956,59 +956,59 @@
       },
       {
         "name": "top 40",
-        "count": 897
+        "count": 900
       },
       {
         "name": "80s",
-        "count": 889
+        "count": 895
       },
       {
         "name": "community",
-        "count": 835
+        "count": 842
       },
       {
         "name": "folk",
-        "count": 816
+        "count": 817
+      },
+      {
+        "name": "classical",
+        "count": 674
       },
       {
         "name": "adult",
         "count": 674
       },
       {
-        "name": "classical",
-        "count": 673
-      },
-      {
         "name": "alternative",
-        "count": 651
+        "count": 654
       },
       {
         "name": "religious",
-        "count": 628
+        "count": 633
       },
       {
         "name": "jazz",
-        "count": 627
+        "count": 628
       },
       {
         "name": "90s",
-        "count": 623
+        "count": 626
       },
       {
         "name": "public",
-        "count": 591
+        "count": 592
       },
       {
         "name": "electronic",
-        "count": 564
-      },
-      {
-        "name": "sports",
-        "count": 485
+        "count": 565
       },
       {
         "name": "culture",
-        "count": 485
+        "count": 489
+      },
+      {
+        "name": "sports",
+        "count": 486
       },
       {
         "name": "country",
@@ -1016,7 +1016,7 @@
       },
       {
         "name": "70s",
-        "count": 399
+        "count": 400
       },
       {
         "name": "ambient",
@@ -1035,12 +1035,12 @@
         "count": 350
       },
       {
-        "name": "indie",
-        "count": 307
+        "name": "latino",
+        "count": 311
       },
       {
-        "name": "latino",
-        "count": 302
+        "name": "indie",
+        "count": 307
       },
       {
         "name": "latin",
@@ -1076,15 +1076,15 @@
       },
       {
         "name": "gospel",
-        "count": 225
+        "count": 226
+      },
+      {
+        "name": "noticias",
+        "count": 219
       },
       {
         "name": "baroque",
         "count": 214
-      },
-      {
-        "name": "noticias",
-        "count": 212
       },
       {
         "name": "soul",
@@ -1096,11 +1096,11 @@
       },
       {
         "name": "metal",
-        "count": 198
+        "count": 199
       },
       {
         "name": "urban",
-        "count": 198
+        "count": 199
       },
       {
         "name": "french",
@@ -1108,5 +1108,5 @@
       }
     ]
   },
-  "updated": "2026-09-16T04:21:13Z"
+  "updated": "2026-09-23T04:18:06Z"
 }
