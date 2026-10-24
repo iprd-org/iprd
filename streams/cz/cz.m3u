@@ -7,7 +7,7 @@ http://n03.radiojar.com/971ap0apn3quv?rj-ttl=5&rj-tok=AAABfd4UU7cA_I_ee9oF2Fr2-Q
 http://mp3stream4.abradio.cz/chillout128.mp3
 #EXTINF:-1 tvg-logo="https://www.azadliq.org/Content/responsive/RFE/img/top_logo_news.png" group-title="news;talk;azerbaijani",Azadliq Radiosu RFE/RL Channel 15
 http://n02.radiojar.com/s90a46bpn3quv?rj-ttl=5&rj-tok=AAABfdsSzoIApT6_Sd7lOU3cJQ
-#EXTINF:-1 tvg-logo="http://www.azathabar.com/Content/responsive/RFE/img/top_logo_news.png" group-title="news;talk;turkmen",Azatlyk Radiosy RFE/RL Channel 8
+#EXTINF:-1 tvg-logo="http://www.azathabar.com/Content/responsive/RFE/img/top_logo_news.png" group-title="news;talk",Azatlyk Radiosy RFE/RL Channel 8
 http://n0f.radiojar.com/gdmva69nn3quv?rj-ttl=5&rj-tok=AAABfd3sSR0AV-p30rSOo8EIMQ
 #EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/4pn6k2gnfueh.jpg" group-title="pop;news;folk",Cesky Impuls 981
 http://icecast6.play.cz/cesky-impuls.mp3
@@ -183,9 +183,9 @@ http://ice.abradio.cz/oldiesradio128.mp3
 http://ice.actve.net/web-pg-disko
 #EXTINF:-1 tvg-logo="https://www.pigy.cz/wp-content/themes/pigy/img/radio-pohadkove-pisnicky-pigy.png" group-title="children;youth",Pigy.cz Pisnicky z pohadek
 http://ice.actve.net/web-pg-pisnicky
-#EXTINF:-1 tvg-logo="https://www.pigy.cz/wp-content/themes/pigy/img/radio-pohadky-pigy.png" group-title="fairytales;children",Pigy.cz Pohadky
+#EXTINF:-1 tvg-logo="https://www.pigy.cz/wp-content/themes/pigy/img/radio-pohadky-pigy.png" group-title="children",Pigy.cz Pohadky
 http://ice.actve.net/web-pg-pohadky
-#EXTINF:-1 tvg-logo="https://radioly.app/images/18865.jpg" group-title="literature;history;otr",Radio Povidka
+#EXTINF:-1 tvg-logo="https://radioly.app/images/18865.jpg",Radio Povidka
 https://ice3.abradio.cz/povidka128.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/87/2d/12734/c300.png" group-title="dance;electronic",Radio 1 91.9
 http://icecast6.play.cz/radio1-128.mp3
@@ -211,7 +211,7 @@ http://ice.abradio.cz/blanikcz128.mp3
 https://ice.abradio.cz/blanikmorava128.mp3?gdpr=1&gdpr_consent=Q084aEUyaE84aEUyaEFjQUJCRU5BX0NnQVBfQUFIX0FBQVlnRjVvQmhEeEVCU0ZDQUdKb1lOa2dBQUFXeHdBQUFDQUNBQUFBb0FBQUFCb0FBQVFBQUFBQUFBQWdCQUFBQUJJQUlBSUFBQUJBR0VBQUFBQUFBQUFBQUFBQUFFQUFBQUFBSVFBQUFBQUFBQ0JBQUFBQUFBQUFBQUFBQUFBQVFBQUFnWG5BZUFBV0FCVUFDNEFIQUFRQUFxQUJvQURrQUlnQVRBQW5nQlZBQzRBRjhBTVFBaElCRUFFVUFLVUFXSUF5d0Jtd0R1QU84QWhBQkZnQzBnRjFBTUNBYXdCTm9DOHdBQUFBLllBQUFBQUFBQUFBQQ==
 #EXTINF:-1 tvg-logo="http://www.radioblanik.cz/favicon.ico" group-title="pop;hits",Radio Blanik zive
 http://ice.abradio.cz/blanikfm128.mp3
-#EXTINF:-1 tvg-logo="https://www.radiobonton.cz/favicons/apple-touch-icon.png" group-title="klídek;pohoda;relax",Radio BonTon 104.9
+#EXTINF:-1 tvg-logo="https://www.radiobonton.cz/favicons/apple-touch-icon.png" group-title="relax",Radio BonTon 104.9
 http://ice.actve.net/fm-bonton-128
 #EXTINF:-1 tvg-logo="https://casradio.cz/wp-content/themes/frontheme_woo/assets/img/logos/radio-cas5.png" group-title="oldies;pop",Radio Cas
 http://icecast6.play.cz/casradio128.mp3
@@ -235,7 +235,7 @@ http://icecast8.play.cz/radiodixie192.mp3
 http://n05.radiojar.com/u3camdcpn3quv?rj-ttl=5&rj-tok=AAABfd09FZwA40kaY3_ClOqtpw
 #EXTINF:-1 tvg-logo="http://radiohana.cz/theme/radio_hana/favicon.ico" group-title="pop;hits",Radio Hana 92.3
 http://icecast8.play.cz/hana160.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/e7/36/10864/c300.png" group-title="humor;comedy",ABradio Humor
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/e7/36/10864/c300.png" group-title="comedy",ABradio Humor
 http://mp3stream4.abradio.cz:8000/humor128.mp3
 #EXTINF:-1 tvg-logo="https://liveonlineradio.net/wp-content/uploads/2013/10/radio-jih-1-220x108.jpg" group-title="pop;hits",Radio Jih 88.9
 http://icecast6.play.cz/jih128.mp3
@@ -309,13 +309,13 @@ http://stream.svobodny-vysilac.cz:8000/live.ogg
 http://ice3.abradio.cz/this_is_radio.mp3
 #EXTINF:-1 tvg-logo="https://www.chillers.cz/favicon.png" group-title="chillout;downtempo;psychill",United Czech Chillers
 https://chill.mfnet.cz/radio/8000/radio192.mp3
-#EXTINF:-1 tvg-logo="https://www.wehouseradio.com/images/whr-logo-players.png" group-title="funky;house;jackin",We House Radio
+#EXTINF:-1 tvg-logo="https://www.wehouseradio.com/images/whr-logo-players.png" group-title="funky;house",We House Radio
 https://stream.wehouseradio.com/stream/2/
 #EXTINF:-1 tvg-logo="http://www.epigon.info/img/e-logo.png" group-title="rock;metal;student",WebRadio Epigon
 http://ice3.abradio.cz/epigon128.mp3
-#EXTINF:-1 tvg-logo="https://www.wehouseradio.com/images/whr-logo-players.png" group-title="funky;house;jackin",We House Radio
+#EXTINF:-1 tvg-logo="https://www.wehouseradio.com/images/whr-logo-players.png" group-title="funky;house",We House Radio
 https://stream.wehouseradio.com/stream/1/
-#EXTINF:-1 tvg-logo="https://www.wehouseradio.com/images/whr-logo-players.png" group-title="funky;house;jackin",We House Radio
+#EXTINF:-1 tvg-logo="https://www.wehouseradio.com/images/whr-logo-players.png" group-title="funky;house",We House Radio
 https://stream.wehouseradio.com/stream/3/
 #EXTINF:-1 tvg-logo="https://radia.cz/data/station_logo_svg/0001/01/-znamka-punku-600-svg.svg" group-title="punk;hardcore",Znamka Punku
 https://ice.abradio.cz/znamkapunku128.mp3
@@ -323,11 +323,11 @@ https://ice.abradio.cz/znamkapunku128.mp3
 http://zxm.cz:8000/zx
 #EXTINF:-1 tvg-logo="http://www.azattyq.org/Content/responsive/RFE/img/top_logo_news.png" group-title="news;kazakh;talk",Аzat Europa RFE/RL in Kazakh Channel 11
 http://n0a.radiojar.com/s4r86napn3quv?rj-ttl=5&rj-tok=AAABfd4tdmAAs5k-z5fb3B4DPQ
-#EXTINF:-1 tvg-logo="http://www.azattyk.org/Content/responsive/RFE/img/top_logo_news.png" group-title="news;kyrgyz;talk",Аzattik Ynalgysy RFE/RL in Kyrgyz Channel 1
+#EXTINF:-1 tvg-logo="http://www.azattyk.org/Content/responsive/RFE/img/top_logo_news.png" group-title="news;talk",Аzattik Ynalgysy RFE/RL in Kyrgyz Channel 1
 http://n0f.radiojar.com/q9z8fs3nn3quv?rj-ttl=5&rj-tok=AAABfd4gumUAhDXUeDHte9Mu_Q
 #EXTINF:-1 tvg-logo="https://ru.krymr.com/content/responsive/rfe/img/webapp/ico-128x128.png" group-title="russian;ukrainian;news",Krim Realii
 https://n09.radiojar.com/wm9sntcpn3quv?rj-ttl=5&rj-tok=AAABfdoMJLsAfepLbHp8eva27A
-#EXTINF:-1 tvg-logo="http://www.ozodlik.org/Content/responsive/RFE/img/top_logo_news.png" group-title="news;uzbek;talk",Ozodlik Radioci RFE/RL in Uzbek Channel 13
+#EXTINF:-1 tvg-logo="http://www.ozodlik.org/Content/responsive/RFE/img/top_logo_news.png" group-title="news;talk",Ozodlik Radioci RFE/RL in Uzbek Channel 13
 http://n0d.radiojar.com/9mdte4apn3quv?rj-ttl=5&rj-tok=AAABfdr9KlAAzgY0e84-QP5_pA
 #EXTINF:-1 tvg-logo="http://www.svoboda.org/Content/responsive/RFE/img/top_logo_news.png" group-title="culture;news;russian",Radio Svoboda RFE/RL in Russian Channel 4
 http://n08.radiojar.com/hcrb063nn3quv?rj-ttl=5&rj-tok=AAABfd3x8hwA-nhZO1vmAhHBGQ
@@ -339,7 +339,7 @@ http://n02.radiojar.com/mn1ukbapn3quv?rj-ttl=5&rj-tok=AAABfdoaeqMAT_naA2A0Rytsfw
 http://n0f.radiojar.com/arzknz9nn3quv?rj-ttl=5&rj-tok=AAABfd3tyBcA3PFTRs_YcigVYA
 #EXTINF:-1 tvg-logo="http://www.svaboda.org/Content/responsive/RFE/img/top_logo_news.png" group-title="belarusian;news;talk",Radio Svoboda RFE/RL in Belorussian Channel 10
 http://n0b.radiojar.com/zv9u3eapn3quv?rj-ttl=5&rj-tok=AAABfd41pVwAvICb4rMNZ5t6Fw
-#EXTINF:-1 tvg-logo="http://www.radiotavisupleba.ge/Content/responsive/RFE/img/top_logo_news.png" group-title="news;georgian;talk",Radio Tavisupali Evrop’a RFE/RL in Georgian Channel 3
+#EXTINF:-1 tvg-logo="http://www.radiotavisupleba.ge/Content/responsive/RFE/img/top_logo_news.png" group-title="news;talk",Radio Tavisupali Evrop’a RFE/RL in Georgian Channel 3
 http://n11.radiojar.com/ych1q33nn3quv?rj-ttl=5&rj-tok=AAABfd5ho6cAdMsVPfNQwK6QuQ
 #EXTINF:-1 tvg-logo="http://www.azatutyun.am/Content/responsive/RFE/img/top_logo_news.png" group-title="news;armenian;talk",Freedom R/C RFE/RL in Armenian Channel 2
 http://n0d.radiojar.com/k8z93x3nn3quv?rj-ttl=5&rj-tok=AAABfd5j18oA1FTWIVFuOSvDPQ

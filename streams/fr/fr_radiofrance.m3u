@@ -7,9 +7,9 @@ https://stream.radiofrance.fr/fip/fip.m3u8?id=radiofrance
 https://icecast.radiofrance.fr/fipelectro-midfi.mp3
 #EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2019/06/29044099-6469-4f2f-845c-54e607179806/200x200_fip-electro-ok.jpg" group-title="techno;house",FIP Electro
 https://stream.radiofrance.fr/fipelectro/fipelectro.m3u8?id=radiofrance
-#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/artworks-000561950928-4p2fnt-t500x500.jpg" group-title="groove;jazz;lounge",FIP Groove
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/artworks-000561950928-4p2fnt-t500x500.jpg" group-title="jazz;lounge",FIP Groove
 https://icecast.radiofrance.fr/fipgroove-midfi.mp3
-#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/artworks-000561950928-4p2fnt-t500x500.jpg" group-title="groove;jazz;lounge",FIP Groove
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/artworks-000561950928-4p2fnt-t500x500.jpg" group-title="jazz;lounge",FIP Groove
 https://stream.radiofrance.fr/fipgroove/fipgroove.m3u8?id=radiofrance
 #EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2019/06/15a58f25-86a5-4b1a-955e-5035d9397da3/200x200_fip-reggae_ok.jpg" group-title="reggae;ska",FIP Reggae
 https://icecast.radiofrance.fr/fipreggae-midfi.mp3
@@ -31,9 +31,9 @@ https://stream.radiofrance.fr/fippop/fippop.m3u8?id=radiofrance
 https://icecast.radiofrance.fr/fiprock-hifi.aac
 #EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2019/06/f5b944ca-9a21-4970-8eed-e711dac8ac15/200x200_fip-rock_ok.jpg" group-title="rock;hits",FIP Rock
 https://stream.radiofrance.fr/fiprock/fiprock.m3u8?id=radiofrance
-#EXTINF:-1 tvg-logo="http://www.fipradio.fr/favicons/120-120.png" group-title="pop;musique seulement",FIP Nouveautés
+#EXTINF:-1 tvg-logo="http://www.fipradio.fr/favicons/120-120.png" group-title="pop",FIP Nouveautés
 https://icecast.radiofrance.fr/fipnouveautes-midfi.mp3
-#EXTINF:-1 tvg-logo="http://www.fipradio.fr/favicons/120-120.png" group-title="pop;musique seulement",FIP Nouveautés
+#EXTINF:-1 tvg-logo="http://www.fipradio.fr/favicons/120-120.png" group-title="pop",FIP Nouveautés
 https://stream.radiofrance.fr/fipnouveautes/fipnouveautes.m3u8?id=radiofrance
 #EXTINF:-1 tvg-logo="https://www.mouv.fr//favicons/mouv-180-180.png" group-title="hip hop;rap",Mouv' 100% Mix
 https://icecast.radiofrance.fr/mouv100p100mix-hifi.aac
@@ -259,9 +259,9 @@ https://stream.radiofrance.fr/franceinter/franceinter.m3u8?id=radiofrance
 https://icecast.radiofrance.fr/francemusique-hifi.aac
 #EXTINF:-1 tvg-logo="https://www.francemusique.fr/favicon.ico" group-title="classical;jazz",France Musique
 https://stream.radiofrance.fr/francemusique/francemusique.m3u8?id=radiofrance
-#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2017/06/205d847e-5b3e-4087-a9ca-68b76f077364/200x200_fmwebradiosnormalconcerts.jpg" group-title="live;classical",France Musique Concerts Radio France
+#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2017/06/205d847e-5b3e-4087-a9ca-68b76f077364/200x200_fmwebradiosnormalconcerts.jpg" group-title="classical",France Musique Concerts Radio France
 https://icecast.radiofrance.fr/francemusiqueconcertsradiofrance-midfi.mp3
-#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2017/06/205d847e-5b3e-4087-a9ca-68b76f077364/200x200_fmwebradiosnormalconcerts.jpg" group-title="live;classical",France Musique Concerts Radio France
+#EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2017/06/205d847e-5b3e-4087-a9ca-68b76f077364/200x200_fmwebradiosnormalconcerts.jpg" group-title="classical",France Musique Concerts Radio France
 https://stream.radiofrance.fr/francemusiqueconcertsradiofrance/francemusiqueconcertsradiofrance.m3u8?id=radiofrance
 #EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2017/06/8ac537e2-bfab-4483-9d0d-3dc7309379bc/200x200_fmwebradiosnormaleasy.jpg" group-title="baroque;classical",France Musique Classique Easy
 https://icecast.radiofrance.fr/francemusiqueeasyclassique-hifi.aac

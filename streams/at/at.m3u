@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s308353/images/logog.png?t=1699867600000" group-title="Hits;Pop;Eorld",Antenne Austro Hits
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s308353/images/logog.png?t=1699867600000" group-title="Hits;Pop",Antenne Austro Hits
 https://live.antenne.at/auh
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Antenne_Logo.svg" group-title="Pop;Top 40",Antenne Kärnten
 http://live.antenne.at/ak
@@ -75,7 +75,7 @@ http://onair-ha1.krone.at/kronehit-dance.mp3
 http://onair-ha1.krone.at/kronehit-electric.mp3
 #EXTINF:-1 tvg-logo="http://www.kronehit.at/assets/channels/flag/FRESH-90x65.png" group-title="Electro;Pop",KroneHit Fresh
 http://onair-ha1.krone.at/kronehit-fresh.mp3
-#EXTINF:-1 tvg-logo="http://www.kronehit.at/apple-touch-icon.png?v1" group-title="Workout;Energy",KroneHit Workout
+#EXTINF:-1 tvg-logo="http://www.kronehit.at/apple-touch-icon.png?v1" group-title="Workout",KroneHit Workout
 http://onair-ha1.krone.at/kronehit-event2.mp3
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s15592/images/logog.jpg?t=1" group-title="Hits;Pop;Rock",Life Radio
 http://liferadio.streamabc.net/lfr-lr-mp3-192-7172638?sABC=61p140p4%230%232qqpnss01895rqr0s8oq129o03s183o0%23fgernz.yvsrenqvb.ng&amsparams=playerid:stream.liferadio.at;skey:1640054980
@@ -131,7 +131,7 @@ http://stream01.zogl.net:8906/stream
 http://edge52.streamonkey.net/radio886-classicrock/stream/mp3
 #EXTINF:-1 tvg-logo="http://radio886.at//apple-touch-icon.png" group-title="Oldies;Rock",Radio 88.6 
 http://edge07.streamonkey.net/radio886-onair/stream/mp3
-#EXTINF:-1 tvg-logo="https://www.radio886.at/apple-touch-icon.png" group-title="Hard;Rock",Radio 88.6 Hard Rock
+#EXTINF:-1 tvg-logo="https://www.radio886.at/apple-touch-icon.png" group-title="Rock",Radio 88.6 Hard Rock
 https://edge51.streamonkey.net/radio886-hardrock/stream/mp3?aggregator=886Website
 #EXTINF:-1 tvg-logo="https://www.radio886.at/apple-touch-icon.png" group-title="Alternative;Rock",Radio 88.6 New Rock
 https://edge51.streamonkey.net/radio886-newrock/stream/mp3?aggregator=886Website
@@ -149,7 +149,7 @@ http://radio2.stream24.net:9120/live.mp3
 http://live.antenne.at/rf
 #EXTINF:-1 tvg-logo="https://www.freequenns.at/fileadmin/template/logo.png" group-title="Pop;Rock",Radio Freequenns 100.8
 http://livestream.freequenns.at/live
-#EXTINF:-1 tvg-logo="http://www.fro.at/images/fro_logo2016.jpg" group-title="Art;Culture;Variety",Radio FRO
+#EXTINF:-1 tvg-logo="http://www.fro.at/images/fro_logo2016.jpg" group-title="Culture;Variety",Radio FRO
 http://www.fro.at:8008/fro-128.ogg
 #EXTINF:-1 tvg-logo="http://www.radiowoche.de/wp-content/uploads/2015/06/logo_radiogruenweiss.png" group-title="Hits;Oldies;Schlager",Radio Grün Weiß
 http://live.gruen-weiss.at/rgw.mp3
@@ -219,7 +219,7 @@ http://www.radio-xmas.at:443/xmas?1512905036085
 http://mp3.radioypsilon.at:8000/mp3-160
 #EXTINF:-1 tvg-logo="https://radiofabrik.at//favicon.ico" group-title="Pop;Indie;World",Radiofabrik
 http://stream.radiofabrik.at/rf_low.mp3
-#EXTINF:-1 tvg-logo="https://res.radio/img/RES.Vektor.png" group-title="Culture;Non-Commercial",RES.RADIO
+#EXTINF:-1 tvg-logo="https://res.radio/img/RES.Vektor.png" group-title="Culture",RES.RADIO
 https://edge.mixlr.com/channel/zwtuo
 #EXTINF:-1 tvg-logo="https://www.rockantenne.at/assets/icons/rockantenne-de/apple-touch-icon-120x120.png?v=2" group-title="Oldies;Rock",Rock Antenne Österreich
 http://s2-webradio.webradio.de/rockantenne-oesterreich
@@ -231,7 +231,7 @@ http://rs8.stream24.net/radio-soundportal.mp3
 http://server7606.streamplus.de/listen.pls
 #EXTINF:-1 tvg-logo="https://limitededt.com/cdn/shop/files/IG1724-1_800x.jpg?v=1696492689" group-title="Pop;Rock;Hip Hop",Stadlpowerradio
 https://stadlpowerradio82.stream.laut.fm/stadlpowerradio82?t302=2021-12-21_08-42-08&uuid=b46e9cd3-f986-44d7-a55c-178a3b7f3afc
-#EXTINF:-1 tvg-logo="https://www.stahlradio.com/wp2/wp-content/uploads/2020/07/cropped-stahlradio-logo-2018-180x180.png" group-title="Hard;Rock;Metal",Stahlradio
+#EXTINF:-1 tvg-logo="https://www.stahlradio.com/wp2/wp-content/uploads/2020/07/cropped-stahlradio-logo-2018-180x180.png" group-title="Rock;Metal",Stahlradio
 https://simba.streampanel.cloud:5280/stream
 #EXTINF:-1 tvg-logo="https://styrialounge.com/assets/images/card.jpg?v78616770366451" group-title="Blues;Lounge;Jazz",Styrialounge
 http://styrialounge.out.airtime.pro:8000/styrialounge_a

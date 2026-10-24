@@ -271,11 +271,11 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/6IX.mp3
 http://per6praud-lh.akamaihd.net/i/perthpraud_1@110913/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/HotFM1017.png/revision/latest?cb=20140909081857" group-title="Adult;Contemporary;Hits",7HO 101.7
 https://playerservices.streamtheworld.com/api/livestream-redirect/HOB_7HO.mp3
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/PRT_logo_jpg.jpg/640px-PRT_logo_jpg.jpg" group-title="Reading Service;Talk",7RPH Print Radio Tasmania
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/PRT_logo_jpg.jpg/640px-PRT_logo_jpg.jpg" group-title="Talk",7RPH Print Radio Tasmania
 http://165.228.181.146:88/broadwave.mp3?src=1&rate=1
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSamrzpD9RrdNBvHJSKUcHz-4D4NjuuB5H6-g&s" group-title="Community;Variety",7THE Hobart FM 96.1
 https://radio12.shoutcast.net.au:2020/stream/8032
-#EXTINF:-1 tvg-logo="http://radio886.at/apple-touch-icon.png" group-title="Hard;Rock",88.6 Hard Rock
+#EXTINF:-1 tvg-logo="http://radio886.at/apple-touch-icon.png" group-title="Rock",88.6 Hard Rock
 http://edge04.streamonkey.net/radio886-hardrock/stream/mp3
 #EXTINF:-1 tvg-logo="https://www.radio889.org.au/static/favicon.ico" group-title="Community;News;Variety",2RBR 88.9 Richmond Valley Radio
 http://stream.radio889.org.au:9300/listen.aac
@@ -285,7 +285,7 @@ https://23163.live.streamtheworld.com/8CCC.mp3
 https://28863.live.streamtheworld.com/8KTRAAC.aac
 #EXTINF:-1 tvg-logo="https://www.96five.com/wp-content/uploads/2017/01/cropped-96five_logo_icon512-270x270.png" group-title="Christian;Family",96five 96.5
 http://stream2.cnmns.net/96five
-#EXTINF:-1 tvg-logo="https://www.973fm.com.au/wp-content/themes/arn/assets/favicons/favicon_973/apple-touch-icon.png" group-title="Hot;Adult;Contemporary",KIIS 97.3
+#EXTINF:-1 tvg-logo="https://www.973fm.com.au/wp-content/themes/arn/assets/favicons/favicon_973/apple-touch-icon.png" group-title="Adult;Contemporary",KIIS 97.3
 https://ais-arn.streamguys1.com/au_011_icy
 #EXTINF:-1 tvg-logo="https://989fm.com.au/favicon.ico" group-title="Community;Indigenous",98.9 Brisbane Indigenous Media Association
 https://live-stream.bimacreative.com.au/
@@ -455,7 +455,7 @@ http://live-radio01.mediahubaustralia.com/UNEW/aac/
 http://198.74.51.37:8233/stream/;
 #EXTINF:-1 tvg-logo="https://www.alpinefm.org.au/wp-content/uploads/2023/04/afm-logo-0d6025635d3f.png" group-title="Community;Variety",Alpine Radio 92.9
 https://stream04.sigile.net/3vkv-128-mp3
-#EXTINF:-1 tvg-logo="https://andrewhaug.com/favicon.ico" group-title="Hard;Rock;Metal",Andrew Haug Metal Radio
+#EXTINF:-1 tvg-logo="https://andrewhaug.com/favicon.ico" group-title="Rock;Metal",Andrew Haug Metal Radio
 http://streamer.radio.co/s6a349b3a2/listen
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s304479/images/logog.png?t=157176" group-title="Pop;Rock",Australian Made Music
 https://listen10.as.amplifystreaming.com/radio/8000/amm_128.aac
@@ -519,7 +519,7 @@ http://c3.radioboss.fm:8018/stream
 https://25003.live.streamtheworld.com/EAGLE_FMAAC.aac
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2QsUYNx6-buJKRS3UHUbc6Y-3X57Qhn9z4w&s" group-title="Religious;Christian",Faith FM
 http://stream1.faithfm.com.au/FaithFM.mp3
-#EXTINF:-1 tvg-logo="https://store-images.s-microsoft.com/image/apps.5027.14343190908724800.98ef5ae3-fc39-42b3-b5cb-8c67ecd6b7f7.8e52cc54-02eb-4015-82c4-c1c5a4d4cce7" group-title="Aboriginal;World;Community",First Nations Radio 94.5
+#EXTINF:-1 tvg-logo="https://store-images.s-microsoft.com/image/apps.5027.14343190908724800.98ef5ae3-fc39-42b3-b5cb-8c67ecd6b7f7.8e52cc54-02eb-4015-82c4-c1c5a4d4cce7" group-title="World;Community",First Nations Radio 94.5
 http://stream.radiolarrakia.org:8000/radiolarrakia
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm1S7lAwdJZ9_XQnLnCfO5f-Uv3dy1BXAdOA&s" group-title="Community;Variety",Fleurieu 89.3 FM
 https://stream.sigile.net/live/fleurieufm-128-mp3
@@ -559,7 +559,7 @@ https://ais-arn.streamguys1.com/au_005/playlist.m3u8
 https://wz6liw.scahw.com.au/live/6bun_128.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://hope1032.com.au/wp-content/themes/hope/images/favicon.png" group-title="Christian;Religious",Hope 103.2
 http://stream.hopemedia.com.au/hope-mp3
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/59f8f25d18b27d43f7354624/1510877651671-3YBVYYC8OGGG72SS3VIB/android-icon-192x192.png" group-title="Community;Variety;Underground",Hope St. Radio
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/59f8f25d18b27d43f7354624/1510877651671-3YBVYYC8OGGG72SS3VIB/android-icon-192x192.png" group-title="Community;Variety",Hope St. Radio
 http://hopestreetradio.out.airtime.pro:8000/hopestreetradio_a
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/mzUJBsP1DTID-aSKcs2DGGKc8gZcSi2qGk1zqbDFK-3m7EgqzW8mfO_bpSBkxRswtmat" group-title="Islam;Religious",Islamic Voice Radio
 http://streamer3.rightclickitservices.com:9755/;
@@ -567,7 +567,7 @@ http://streamer3.rightclickitservices.com:9755/;
 http://andromeda.shoutca.st:8634/stream
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeuWf_30pSsQNVkJiccCtqj0xneGQ8XxHOIA&s" group-title="Jewish;World;Hebrew",J-AIR 88.0 FM
 https://s19.myradiostream.com/4918/;
-#EXTINF:-1 tvg-logo="http://www.joy.org.au//wp-content/themes/joy-public-website-joy949-theme/images/favicons/android-chrome-192x192.png?x66054" group-title="Community;LGBTIQA*;Non-Commercial",JOY 94.9 Out Loud Proud
+#EXTINF:-1 tvg-logo="http://www.joy.org.au//wp-content/themes/joy-public-website-joy949-theme/images/favicons/android-chrome-192x192.png?x66054" group-title="Community",JOY 94.9 Out Loud Proud
 http://audio.joy.org.au/proxy/joy949?mp=/live
 #EXTINF:-1 tvg-logo="https://mcdcdn.blob.core.windows.net/images/outlets/172943/logo-juice_107_3fm28032024005717.png" group-title="Christian;Community",4CAB Juice107.3
 https://stream2.cnmns.net/juice1073
@@ -583,13 +583,13 @@ http://cc.net2streams.com:8565/kissfm.mp3
 https://playerservices.streamtheworld.com/api/livestream-redirect/KIXCOUNTRYAAC.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bc/KIX_Country_logo.jpg" group-title="Community;Variety",KLFM 106.3
 https://streamer5.rightclickitservices.com:18006/aac
-#EXTINF:-1 tvg-logo="https://www.kooriradio.com/favicon.ico" group-title="Aboriginal;Indigenous",Koori Radio 93.7
+#EXTINF:-1 tvg-logo="https://www.kooriradio.com/favicon.ico" group-title="Indigenous",Koori Radio 93.7
 https://playerservices.streamtheworld.com/api/livestream-redirect/2LNDAAC.aac
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/234/979-valley-fm.1ead1982.jpg" group-title="Community;Variety",Lachlan Valley 97.9
 http://valleyfmstream.primcast.com:6674/;stream.mp3
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1JYrLWFv2aqvtd89PaRES6CTT5cepleyEfABb8Ho3qgG_5U-_rEyfwmSXbm4fyYjdX-4&usqp=CAU" group-title="Community;Variety",Loving Life 103.1 
 https://28853.live.streamtheworld.com/2CVCAAC.aac
-#EXTINF:-1 tvg-logo="https://www.mix1023.com.au/wp-content/themes/arn/assets/favicons/favicon_1023/apple-touch-icon.png" group-title="Hot;Adult;Contemporary",Mix 102.3
+#EXTINF:-1 tvg-logo="https://www.mix1023.com.au/wp-content/themes/arn/assets/favicons/favicon_1023/apple-touch-icon.png" group-title="Adult;Contemporary",Mix 102.3
 https://ais-arn.streamguys1.com/au_003_icy
 #EXTINF:-1 tvg-logo="https://i0.wp.com/nicheradio.com.au/wp-content/uploads/2021/10/cropped-Asset-2-1.png?fit=512%2C512&ssl=1" group-title="World;Talk",Niche Radio Network 1593
 https://nicherad.radioca.st/stream2
@@ -731,13 +731,13 @@ http://stream.swifthosting.com.au:8080/stream
 https://23163.live.streamtheworld.com/2STA.mp3
 #EXTINF:-1 tvg-logo="https://www.star1045.com.au/wp-content/themes/theme-star1045.com.au/assets/icons/apple-touch-icon.png" group-title="Adult;Contemporary;Rock",Star 104.5
 https://playerservices.streamtheworld.com/api/livestream-redirect/STARFM_AAC48.aac?src=redirect
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Star_1063_logo.svg" group-title="Hot;Adult;Contemporary",Star 106.3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Star_1063_logo.svg" group-title="Adult;Contemporary",Star 106.3
 https://playerservices.streamtheworld.com/api/livestream-redirect/TOW_STAR1063AAC.aac
 #EXTINF:-1 tvg-logo="https://au.radio.net/300/station-x-xrn-australia.jpeg?version=c02a07666bf9dbc024d05626737fd7b0" group-title="Adult;Contemporary",Station X 1692
 https://us01.xrn.com.au/listen/stx/StxSd?refresh=1747652349681
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxXU_kjakhRkQDrLn5dHcb7yQC9suDl7uE7A&s" group-title="Community;Hits",Sunshine FM 104.9
 https://23153.live.streamtheworld.com/4SFMAAC.aac
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgbRy-I7N_onQCCFk3wpNPpZvVxyfNQqCzaA&s" group-title="Hot;Adult;Contemporary",Surf 87.6
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgbRy-I7N_onQCCFk3wpNPpZvVxyfNQqCzaA&s" group-title="Adult;Contemporary",Surf 87.6
 https://video1.getstreamhosting.com:8386/stream
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1SXe9Et_wmvO4pT4_CqyRighnXsNNcBtRbg&s" group-title="Youth;Community",Switch 1197
 https://23203.live.streamtheworld.com/4YBICEAAC.aac
@@ -785,7 +785,7 @@ http://live-radio02.mediahubaustralia.com/2TJW/mp3/
 http://legacy.scahw.com.au/2mmm_128
 #EXTINF:-1 tvg-logo="https://www.radioapp.com.au/wp-content/uploads/2021/02/TripleM-666-Carnarvon_Transparent450x450.png" group-title="Rock;Pop;Top 40",Triple M 666 Carnarvon
 https://wz6liw.scahw.com.au/live/6ln_128.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.radioapp.com.au/wp-content/uploads/2020/11/6MMM_STACKED_LOGO_Round_on_black_450x450.png" group-title="Rock;Pp;Top 40",Triple M WA 92.9
+#EXTINF:-1 tvg-logo="https://www.radioapp.com.au/wp-content/uploads/2020/11/6MMM_STACKED_LOGO_Round_on_black_450x450.png" group-title="Rock;Top 40",Triple M WA 92.9
 https://wz6liw.scahw.com.au/live/6sat_128.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e3/3RRR_Melbourne_logo.png" group-title="Community;Variety",Triple R 107.3
 https://realtime.rrr.org.au/p1h
@@ -797,7 +797,7 @@ https://firstnationsmedia.stream/8024/stream
 https://23153.live.streamtheworld.com/2UNEAAC.aac
 #EXTINF:-1 tvg-logo="https://www.lakeeildon.com/ugfm/wp-content/uploads/2017/10/ugfm.png" group-title="Community;Rock;Pop",UGFM 98.5
 http://streamer5.rightclickitservices.com:8905/stream
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KjSx1rn/IMG-20210305-191831.jpg" group-title="Anthems;Chill;Dance",V1 Radio
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KjSx1rn/IMG-20210305-191831.jpg" group-title="Chill;Dance",V1 Radio
 https://usa10.fastcast4u.com/v1radio
 #EXTINF:-1 tvg-logo="https://vintagefm.com.au/wp-content/uploads/2019/10/Vintage-Radio-Blue-small.jpg" group-title="60s;70s;80s",Vintage 87.8 FM
 https://stream.radio.co/sd60e90ab1/listen
@@ -813,7 +813,7 @@ https://23193.live.streamtheworld.com/6YCRAAC_SC
 https://firstnationsmedia.stream/8022/stream
 #EXTINF:-1 tvg-logo="https://mm.aiircdn.com/509/5b8f28f153871.png" group-title="Adult;Hits",Wave FM 91.7
 http://east.coastdev.net/6mm-mp3
-#EXTINF:-1 tvg-logo="https://studioiq.com.au/img/upload/original/325-wave-fm--after.png" group-title="Hot;Adult;Contemporary",96.5 Wave FM
+#EXTINF:-1 tvg-logo="https://studioiq.com.au/img/upload/original/325-wave-fm--after.png" group-title="Adult;Contemporary",96.5 Wave FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/WOL_WAVE_FMAAC.aac
 #EXTINF:-1 tvg-logo="https://wildcountrymusic.radio/wp-content/uploads/2020/06/Wild-Country-Logo-x512.jpg" group-title="Country;New Country",Wild Country 87.6
 https://digitalaudiobroadcasting.net:1065/stream

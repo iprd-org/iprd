@@ -3,7 +3,7 @@
 http://stream.bbfm.sk/bbfm128.mp3
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuZr64NYFyP90_uOap1EMRVpg2fDEHb1fCAw&s" group-title="oldies;hits",Best FM 95.6
 https://stream3.bestfm.sk:8000/160.aac
-#EXTINF:-1 tvg-logo="http://www.dobreradio.sk/favicon.ico" group-title="hot;adult;contemporary",Dobre Radio
+#EXTINF:-1 tvg-logo="http://www.dobreradio.sk/favicon.ico" group-title="adult;contemporary",Dobre Radio
 http://stream.dobreradio.sk:8813/dobreradio.mp3
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/be7vcTfpmVL235GLEX5tgMCOfalLjGZE_QnFAF6tvf8w_iX95rPIWKDv14tWiFkV3nc" group-title="classical;baroque",Duflo Radio
 http://stream.zeno.fm/kxwhyvz2fm0uv?rj-ttl=5&rj-tok=AAABfdrEouwA3DdC9bDUWbKdQw
@@ -29,7 +29,7 @@ http://159.69.219.5:8010/aac
 https://radioserver.online:9927/irockHQ.mp3
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/80/e5/80e5b1d4c7bff1bca11249c9ebbcde1e.jpg" group-title="80s;90s;pop",Radio KIKS
 http://stream.radiokiks.sk:8000/kiks_hq.mp3
-#EXTINF:-1 tvg-logo="https://www.metalscena.sk/favicon.ico" group-title="metal;underground",Metalscena netRadio
+#EXTINF:-1 tvg-logo="https://www.metalscena.sk/favicon.ico" group-title="metal",Metalscena netRadio
 https://listen.radioking.com/radio/263218/stream/308365
 #EXTINF:-1 tvg-logo="https://mariaradio.sk/favicon.ico" group-title="katolikus;religious;christian",Mirjam Rádio
 http://193.87.81.131:8081/MariaRadioFelvidek
@@ -71,11 +71,11 @@ http://stream.ecce.sk:8000/radiokosice-128.mp3
 http://radioserver.online:8824/listen.pls
 #EXTINF:-1 tvg-logo="http://lumen.sk/img/logo2.png" group-title="catholic;christian",Radio Lumen
 http://audio.lumen.sk:8000/live128.mp3
-#EXTINF:-1 tvg-logo="https://www.radiomaria.sk/wp-content/uploads/2018/05/cropped-per-favicon-270x270.jpg" group-title=";",Radio Maria Slovensko
+#EXTINF:-1 tvg-logo="https://www.radiomaria.sk/wp-content/uploads/2018/05/cropped-per-favicon-270x270.jpg",Radio Maria Slovensko
 http://dreamsiteradiocp5.com:8012/streaming.mp3
 #EXTINF:-1 tvg-logo="http://www.mediamodra.sk/image/obj112geo118pg1p20.png" group-title="news;talk;sports",Radio Modra 106.1
 http://185.98.208.12:8000/
-#EXTINF:-1 tvg-logo="https://radiomuzika.sk/wp-content/uploads/2020/09/apple-icon-114x114-1.png" group-title="folk;world;requests",Radio Muzika
+#EXTINF:-1 tvg-logo="https://radiomuzika.sk/wp-content/uploads/2020/09/apple-icon-114x114-1.png" group-title="folk;world",Radio Muzika
 https://listen.radioking.com/radio/276343/stream/321988
 #EXTINF:-1 tvg-logo="https://www.radia.sk/_radia/loga/nadpis/parada.webp?v=1" group-title="rock;pop;folk",Radio Parada
 https://extra.mediacp.eu/stream/RadioParada,o.z.
@@ -89,7 +89,7 @@ https://s2.myradiostream.com/:4870/listen.mp3
 http://icecast.radiosity.sk:443/hq1.mp3
 #EXTINF:-1 tvg-logo="https://www.rtvs.sk/media/images/rtvs-logo.svg" group-title="news;world;slovak",SRO Radio Slovensko
 https://icecast.stv.livebox.sk/slovensko_128.mp3
-#EXTINF:-1 tvg-logo="https://www.radia.sk/_radia/loga/nadpis/the-end.webp?v=1" group-title="adult;album;alternative",Radio THE END
+#EXTINF:-1 tvg-logo="https://www.radia.sk/_radia/loga/nadpis/the-end.webp?v=1" group-title="adult;alternative",Radio THE END
 http://stream.theend.sk/theend_320
 #EXTINF:-1 tvg-logo="https://www.radia.sk/_radia/loga/nadpis/tlis.webp?v=1" group-title="college;culture;talk",Radio TLIS
 https://stream.tlis.sk/tlis.mp3
@@ -119,17 +119,17 @@ http://icecast.stv.livebox.sk/regina-bb_128.mp3
 http://icecast.stv.livebox.sk/regina-ke_128.mp3
 #EXTINF:-1 tvg-logo="https://www.rtvs.sk/media/images/radiostations/radio_regina.png" group-title="public;variety;talk",SRo2 Radio Regina Zapad
 http://icecast.stv.livebox.sk/regina-ba_128.mp3
-#EXTINF:-1 tvg-logo="https://www.rtvs.sk/media/images/radiostations/radio_devin.png" group-title="alternative;arts;classical",SRo3 Radio Devin
+#EXTINF:-1 tvg-logo="https://www.rtvs.sk/media/images/radiostations/radio_devin.png" group-title="alternative;classical",SRo3 Radio Devin
 http://icecast.stv.livebox.sk/devin_128.mp3
 #EXTINF:-1 tvg-logo="https://www.rtvs.sk/media/images/radiostations/radio_fm.png" group-title="alternative;indie;pop",SRo4 Radio FM
 http://live.slovakradio.sk:8000/FM_256.mp3
 #EXTINF:-1 tvg-logo="https://www.rtvs.sk/media/images/radiostations/radio_patria.png" group-title="hungarian;public;world",SRo5 Rádio Patria
 http://live.slovakradio.sk:8000/Patria_128.mp3
-#EXTINF:-1 tvg-logo="https://www.rtvs.sk/media/images/radiostations/radio_rsi.png" group-title="international;public;variety",SRo6 Radio Slovakia International
+#EXTINF:-1 tvg-logo="https://www.rtvs.sk/media/images/radiostations/radio_rsi.png" group-title="public;variety",SRo6 Radio Slovakia International
 http://icecast.stv.livebox.sk/rsi_128.mp3
 #EXTINF:-1 tvg-logo="https://www.rtvs.sk/media/images/radiostations/radio_pyramida.png" group-title="news;talk;variety",SRo7 Radio Pyramida
 http://live.slovakradio.sk:8000/Pyramida_128.mp3
-#EXTINF:-1 tvg-logo="https://www.rtvs.sk/media/images/radiostations/radio_litera.png" group-title="cultural;drama;public",SRo8 Radio Litera
+#EXTINF:-1 tvg-logo="https://www.rtvs.sk/media/images/radiostations/radio_litera.png" group-title="public",SRo8 Radio Litera
 http://icecast.stv.livebox.sk/litera_128.mp3
 #EXTINF:-1 tvg-logo="https://www.rtvs.sk/media/images/radiostations/radio_junior.png" group-title="children;public;youth",SRo9 Radio Junior
 http://live.slovakradio.sk:8000/Junior_128.mp3

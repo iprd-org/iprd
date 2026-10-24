@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://www.fauveradio.com/uploads/1/1/2/9/112920849/editor/mixcloud-logo-fauve-radio-horizontal_1.png" group-title="community;dj;indie",Fauve Radio
+#EXTINF:-1 tvg-logo="http://www.fauveradio.com/uploads/1/1/2/9/112920849/editor/mixcloud-logo-fauve-radio-horizontal_1.png" group-title="community;indie",Fauve Radio
 https://streamer.radio.co/sde68d7e6b/listen
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/apple-touch-icon-120x120.png" group-title="news;pop;talk",Fing Radio
 https://bluesfan.stream.laut.fm/bluesfan?t302=2020-11-06_13-46-59&uuid=28a2f040-51e1-44fe-899f-3519cbd5d4e9
@@ -27,9 +27,9 @@ http://stm2.rthk.hk/radio2
 https://rthkaudio3-lh.akamaihd.net/i/radio3_1@355866/index_56_a-p.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/hkradio/images/f/f8/RTHKRadio5_logo.gif/revision/latest?cb=20131022130417&path-prefix=zh" group-title="education;news",RTHK Radio 5
 https://rthkaudio5-lh.akamaihd.net/i/radio5_1@355868/index_56_a-p.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/b/b9/CNR-HK.jpg/150px-CNR-HK.jpg" group-title="literature;news",RTHK Radio 6
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/b/b9/CNR-HK.jpg/150px-CNR-HK.jpg" group-title="news",RTHK Radio 6
 http://satellitepull.cnr.cn/live/wxxgzs/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/b/b9/CNR-HK.jpg/150px-CNR-HK.jpg" group-title="literature;news",RTHK Radio 6
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/b/b9/CNR-HK.jpg/150px-CNR-HK.jpg" group-title="news",RTHK Radio 6
 https://rthkaudio6cnr-lh.akamaihd.net/i/radio6cnr_1@575604/index_56_a-p.m3u8
 #EXTINF:-1 tvg-logo="https://www.rthk.hk/img/radio_icon/ChannelPage_Logo/radio_R3_logo.svg" group-title="news;public",RTHK Radio 3
 https://rthkaudio3-lh.akamaihd.net/i/radio3_1@355866/master.m3u8

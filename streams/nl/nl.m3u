@@ -33,9 +33,9 @@ http://stream.arrowbluesbox.nl/bluesboxonline
 http://stream.arrowcaz.nl/caz128kmp3
 #EXTINF:-1 tvg-logo="https://www.arrow.nl/wp-content/uploads/2017/07/logo.jpg" group-title="oldies;rock",Arrow Classic Rock
 http://stream.gal.io/arrow
-#EXTINF:-1 tvg-logo="http://www.baarsclassicrock.nl/wp-content/uploads/2017/02/logo-BCR-150x150.jpg" group-title="oldies;rock;hard",Baars Classic Rock
+#EXTINF:-1 tvg-logo="http://www.baarsclassicrock.nl/wp-content/uploads/2017/02/logo-BCR-150x150.jpg" group-title="oldies;rock",Baars Classic Rock
 http://server-66.stream-server.nl:8840/
-#EXTINF:-1 tvg-logo="https://i.discogs.com/N2PM7kSVOHialLlECjy3oOIZ8cfZcmERqUFwd35kQv0/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MzU1/MjMtMTYwOTYyMDk3/Ni00MTMwLmpwZWc.jpeg" group-title="dj;mixes;electronic",BeatClassics
+#EXTINF:-1 tvg-logo="https://i.discogs.com/N2PM7kSVOHialLlECjy3oOIZ8cfZcmERqUFwd35kQv0/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MzU1/MjMtMTYwOTYyMDk3/Ni00MTMwLmpwZWc.jpeg" group-title="mixes;electronic",BeatClassics
 http://stream.deejays.nl/beatclassics.aac
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSvoHu17cHoUcodW1f3xg2MeZpAj5m1qzi0A&s" group-title="classical;opera",Beethoven Channel
 https://beethovenchannel.radioca.st/listen.pls
@@ -67,7 +67,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR27.mp3
 http://stream01.itego.nl:8000/chillout
 #EXTINF:-1 tvg-logo="https://www.denheldersdagblad.nl/image/6409_6487_1200_1200.webp" group-title="00s;80s;90s",Coastline 96.0
 http://81.169.223.8/
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s69048/images/logog.png?t=1" group-title="classical;live",Concertzender
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s69048/images/logog.png?t=1" group-title="classical",Concertzender
 http://streams.greenhost.nl:8080/live
 #EXTINF:-1 tvg-logo="https://www.concertzender.nl/wp-content/uploads/2016/11/C-favicon-300x300.png" group-title="hard bop;jazz",Concertzender Hard Bop
 http://streams.greenhost.nl:8080/hardbop
@@ -109,7 +109,7 @@ http://streams.greenhost.nl:8080/raakvlakken
 http://streams.greenhost.nl:8080/radiophonics
 #EXTINF:-1 tvg-logo="https://www.concertzender.nl/wp-content/uploads/2016/10/CZ-Wereldmuziek.svg" group-title="world;folk",Concertzender Solta a Franga
 http://streams.greenhost.nl:8080/slotaafranga
-#EXTINF:-1 tvg-logo="https://www.concertzender.nl/wp-content/uploads/2016/10/CZ-Nieuwemuziek.svg" group-title="utrecht;variety",Concertzender Utrecht Muziek
+#EXTINF:-1 tvg-logo="https://www.concertzender.nl/wp-content/uploads/2016/10/CZ-Nieuwemuziek.svg" group-title="variety",Concertzender Utrecht Muziek
 http://streams.greenhost.nl:8080/vredenburg
 #EXTINF:-1 tvg-logo="https://www.concertzender.nl/wp-content/uploads/2016/10/CZ-Wereldmuziek.svg" group-title="world;folk",Concertzender Wereldmuziek
 http://streams.greenhost.nl:8080/wereldmuziek
@@ -167,17 +167,17 @@ https://stream.31media.net/freak31
 http://stream.freezfm.nl/freezfm
 #EXTINF:-1 tvg-logo="https://www.funx.nl/favicon.png" group-title="r'n'b;slow jamz",FunX Slow Jamz
 http://icecast.omroep.nl/funx-slowjamzfb-bb-mp3
-#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/static.globalvoices/img/tmpl/favicon-forestgreen/favicon.ico" group-title="independent;talk",Global Voices Radio
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/static.globalvoices/img/tmpl/favicon-forestgreen/favicon.ico" group-title="talk",Global Voices Radio
 http://gvoices.out.airtime.pro:8000/gvoices_b
 #EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=https://www.glowfm.nl/" group-title="house;r'n'b;top 40",Glow FM 94.0
 https://stream.glowfm.nl/glowfm.mp3
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/875wwpcfwnqr.png" group-title="hits;oldies",Radio Goud van Oud
 http://server-23.stream-server.nl:8118/stream
-#EXTINF:-1 tvg-logo="https://www.grandprixradio.nl/wp-content/uploads/2017/03/cropped-GrandPrixRadio-medium.png" group-title="autosport;dance;hits",Grand Prix Radio
+#EXTINF:-1 tvg-logo="https://www.grandprixradio.nl/wp-content/uploads/2017/03/cropped-GrandPrixRadio-medium.png" group-title="dance;hits",Grand Prix Radio
 https://22543.live.streamtheworld.com:443/GRAND_PRIX_RADIO.mp3
 #EXTINF:-1 tvg-logo="https://www.broadcastmagazine.nl/wp-content/uploads/2019/08/grollooradio1020.jpg" group-title="americana;blues;cajun",Grolloo Radio
 https://uk1.streamingpulse.com/ssl/grollooradio
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhC_6kbyCLByLDyN1z5aTXuJZ-N3sTD7Sppg&s" group-title="pop;streektaal",Grunn FM
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhC_6kbyCLByLDyN1z5aTXuJZ-N3sTD7Sppg&s" group-title="pop",Grunn FM
 https://stream.grunnfm.nl/grunnfm
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/moxprqpvx1k13d1/hits.ico?dl=0" group-title="oldies;top 40",H!TS724
 https://live.i-novativeradio.com/h!ts724
@@ -249,7 +249,7 @@ http://stream.jammfm.nl:8221/
 https://onair22.xdevel.com/proxy/xautocloud_td3e_421?mp=/stream
 #EXTINF:-1 tvg-logo="https://www.jazzdeville.com/img/favicon.png" group-title="dance;jazz",Jazz de Ville Dance
 https://onair22.xdevel.com/proxy/xautocloud_6cqz_422?mp=/stream
-#EXTINF:-1 tvg-logo="https://www.jazzdeville.com/img/favicon.png" group-title="groove;jazz",Jazz de Ville Groove
+#EXTINF:-1 tvg-logo="https://www.jazzdeville.com/img/favicon.png" group-title="jazz",Jazz de Ville Groove
 https://onair22.xdevel.com/proxy/xautocloud_1kha_423?mp=/stream
 #EXTINF:-1 tvg-logo="https://www.jazzdeville.com/img/favicon.png" group-title="jazz;smooth",Jazz de Ville 
 https://onair22.xdevel.com/proxy/xautocloud_kkyb_420?mp=/stream
@@ -267,11 +267,11 @@ https://25323.live.streamtheworld.com:443/KINK.mp3
 https://playerservices.streamtheworld.com/api/livestream-redirect/KINKAAC_SC
 #EXTINF:-1 tvg-logo="https://goo.gl/images/7dEtca" group-title="alternative;rock",Kink
 https://playerservices.streamtheworld.com/api/livestream-redirect/KINK_SC
-#EXTINF:-1 tvg-logo="https://kink.nl/static/icon.png" group-title="alternative;classics;non-stop",Kink Classics
+#EXTINF:-1 tvg-logo="https://kink.nl/static/icon.png" group-title="alternative;classics",Kink Classics
 https://playerservices.streamtheworld.com/api/livestream-redirect/KINK_DNA_SC
-#EXTINF:-1 tvg-logo="https://kink.nl/static/icon.png" group-title="metal;hard",Kink Distortion
+#EXTINF:-1 tvg-logo="https://kink.nl/static/icon.png" group-title="metal",Kink Distortion
 https://playerservices.streamtheworld.com/api/livestream-redirect/KINK_DISTORTIONAAC_SC
-#EXTINF:-1 tvg-logo="https://kink.nl/static/favicon-32x32.png" group-title="alternative;classics;non-stop",Kink DNA
+#EXTINF:-1 tvg-logo="https://kink.nl/static/favicon-32x32.png" group-title="alternative;classics",Kink DNA
 https://playerservices.streamtheworld.com/api/livestream-redirect/KINK_DNAAAC_SC
 #EXTINF:-1 tvg-logo="https://kink.nl/static/favicon-32x32.png" group-title="alternative;indie",Kink Indie
 https://playerservices.streamtheworld.com/api/livestream-redirect/KINKINDIEAAC_SC
@@ -517,7 +517,7 @@ http://stream.radionoordvaarder.nl:8050/
 http://radionorthsea.zapto.org:8008/stream
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fi/8/81/Radio_Nostalgia_logo.jpg" group-title="50s;60s;70s",Radio Nostalgia
 https://kathy.torontocast.com:2250/stream
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s111540q.png" group-title="dance;dj;electronic",Radio One 103.9
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s111540q.png" group-title="dance;electronic",Radio One 103.9
 https://8793843.com/7896326782/
 #EXTINF:-1 tvg-logo="https://fr-fr.radioline.co/ecouter-radio-patapoe#radios/radio-patapoe" group-title="pop;punk;politics",Radio Patapoe 88.3
 https://cast.radiopatapoe.nl/transit
@@ -593,7 +593,7 @@ https://25253.live.streamtheworld.com:443/SRGSTR01.mp3?dist=skyradio_web&ttag=ta
 https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR07AAC_SC
 #EXTINF:-1 tvg-logo="http://www.skyradio.nl/icons/apple-icon-120x120.png" group-title="romantic;ballads",Sky Radio Lovesongs
 https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR03AAC_SC
-#EXTINF:-1 tvg-logo="http://www.skyradio.nl/icons/apple-icon-120x120.png" group-title="smooth;",Sky Radio Smooth Hits
+#EXTINF:-1 tvg-logo="http://www.skyradio.nl/icons/apple-icon-120x120.png" group-title="smooth",Sky Radio Smooth Hits
 https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR15AAC_SC
 #EXTINF:-1 tvg-logo="https://www.slam.nl/themes/slam-gsys/images/favicon.png" group-title="dance;electro;house",SLAM!
 https://playerservices.streamtheworld.com/api/livestream-redirect/SLAM_MP3_SC
@@ -603,11 +603,11 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WEB15_MP3_SC
 https://playerservices.streamtheworld.com/api/livestream-redirect/WEB16_MP3_SC
 #EXTINF:-1 tvg-logo="https://scale.slam.nl/imageScaled/?site=slam&file=1558361463_Juize.jpg" group-title="hip hop;rap;r'n'b",SLAM! Juize
 https://playerservices.streamtheworld.com/api/livestream-redirect/WEB09_MP3_SC
-#EXTINF:-1 tvg-logo="https://www.slam.nl/themes/slam-gsys/images/apple-touch-icon.png" group-title="mixes;dj;electro",SLAM! Mixmarathon
+#EXTINF:-1 tvg-logo="https://www.slam.nl/themes/slam-gsys/images/apple-touch-icon.png" group-title="mixes;electro",SLAM! Mixmarathon
 https://playerservices.streamtheworld.com/api/livestream-redirect/WEB13_MP3_SC
 #EXTINF:-1 tvg-logo="https://www.slam.nl//images/favicons/slam.png" group-title="dance;electro;house",SLAM! Non Stop
 https://playerservices.streamtheworld.com/api/livestream-redirect/WEB10_MP3_SC
-#EXTINF:-1 tvg-logo="https://www.slam.nl//images/favicons/slam.png" group-title="dance;dj;techno",SLAM! The Boom Room
+#EXTINF:-1 tvg-logo="https://www.slam.nl//images/favicons/slam.png" group-title="dance;techno",SLAM! The Boom Room
 https://playerservices.streamtheworld.com/api/livestream-redirect/WEB12_AAC_SC
 #EXTINF:-1 tvg-logo="https://en.slowradio.com/img/favicons/apple-touch-icon.png" group-title="ballads;pop",Slow Radio Gold
 https://bluford.torontocast.com/proxy/ezefpkbu/slowradiogold
@@ -659,7 +659,7 @@ http://tgas.dyndns.org:8001/listen.pls
 http://theoldiestation.dyndns.org:8020/stream.aacp
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s122822/images/logog.jpg?t=158577" group-title="pop;hits",The Oldie Station
 http://theoldiestation.dyndns.org:8000/1
-#EXTINF:-1 tvg-logo="http://static.radio.net/images/broadcasts/c0/08/21435/c300.png" group-title="8 bit;c64;chiptune",The SID Station
+#EXTINF:-1 tvg-logo="http://static.radio.net/images/broadcasts/c0/08/21435/c300.png" group-title="8 bit;chiptune",The SID Station
 http://185.80.220.12:8054/stream
 #EXTINF:-1 tvg-logo="http://tropixx.fm/wp-content/uploads/2021/08/cropped-tropixx-site-icon-180x180.png" group-title="world;latin",Tropixx 105.5
 http://stream.sxmradio.com:8060/channel2.mp3

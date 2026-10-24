@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.coindesk.com/resizer/W4dOqIAQOYj_9CQl8LUbvIGxAnA=/567x316/filters:quality(80):format(jpg)/cloudfront-us-east-1.images.arcpublishing.com/coindesk/GH5Y22Z5DBAKRDPAE2XUUCIBRY.jpg" group-title="bitcoin;talk;business",Bitcoin Radio Suomenkieli
+#EXTINF:-1 tvg-logo="https://www.coindesk.com/resizer/W4dOqIAQOYj_9CQl8LUbvIGxAnA=/567x316/filters:quality(80):format(jpg)/cloudfront-us-east-1.images.arcpublishing.com/coindesk/GH5Y22Z5DBAKRDPAE2XUUCIBRY.jpg" group-title="talk;business",Bitcoin Radio Suomenkieli
 https://btcrad.io/fi
 #EXTINF:-1 tvg-logo="https://doubleclap.dance/wp-content/uploads/2020/05/logo.png" group-title="dance;electronic;hardstyle",Doubleclap Radio
 https://s3.radio.co/scfd7273b2/listen
@@ -7,7 +7,7 @@ https://s3.radio.co/scfd7273b2/listen
 http://212.47.220.188:8000/listen.mp3
 #EXTINF:-1 tvg-logo="http://www.radiot.fi/img/channel-logos/fun-tampere.png" group-title="country;dance;hip hop",Fun Tampere 89.0
 http://st.downtime.fi/fun.mp3
-#EXTINF:-1 tvg-logo="https://hakkeriradio.fi/assets/img/web_logo.png" group-title="digital;electronic;gaming",Hakkeriradio
+#EXTINF:-1 tvg-logo="https://hakkeriradio.fi/assets/img/web_logo.png" group-title="electronic;gaming",Hakkeriradio
 https://hakkeriradio.fi:8443/stream
 #EXTINF:-1 tvg-logo="https://www.iskelma.fi/files/meta_images/iskelma-fb-cover.png" group-title="pop;hits",Iskelmä
 https://stream.bauermedia.fi/iskelma/iskelma_128.mp3
@@ -73,7 +73,7 @@ http://isojako.radiodei.fi:8000/rovaniemi
 http://isojako.radiodei.fi:8000/turkueurajoki
 #EXTINF:-1 tvg-logo="https://radiogramofoni.fi/wp-content/uploads/2020/06/radio-gramofoni-logo_layoutTaustaton.png" group-title="hits;variety",Radio Gramofoni
 https://solid9.streamupsolutions.com/proxy/kookmuod?mp=/stream
-#EXTINF:-1 tvg-logo="https://www.hear.fi/kuvat/icon_radiohear.gif" group-title="variety;free",Radio Hear
+#EXTINF:-1 tvg-logo="https://www.hear.fi/kuvat/icon_radiohear.gif" group-title="variety",Radio Hear
 http://hear.fi:8000/hear.mp3
 #EXTINF:-1 tvg-logo="http://www.radiohelsinki.fi/wp-content/uploads/2017/02/radio-helsinki-facebook-03.png" group-title="pop;hits",Radio Helsinki 98.5
 http://77.86.233.1:8000/
@@ -119,7 +119,7 @@ https://stream.bauermedia.fi/basso/rap_64.aac
 http://stream.iradio.fi:8000/klasupro-hi.mp3
 #EXTINF:-1 tvg-logo="https://rondolehti.fi/wp-content/uploads/2015/12/Viva-logo.jpg" group-title="baroque;classical",Rondo Classic Viva Classica
 http://rondo.iradio.fi:8000/viva-hi.mp3
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/fblogo/0/48940.v2.png" group-title="classical;baroque;flac",Rondo Classic flac
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/fblogo/0/48940.v2.png" group-title="classical;baroque",Rondo Classic flac
 http://rondo.iradio.fi:8000/klasupro.flac
 #EXTINF:-1 tvg-logo="https://www.savonaallot.fi/wp-content/themes/savonaallot/images/logo.png" group-title="pop;hits",Savon Aallot 102.0
 https://cast.savonaallot.fi/savonaallot

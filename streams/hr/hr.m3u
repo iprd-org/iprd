@@ -29,7 +29,7 @@ http://live.antenazagreb.hr:8019/
 http://live.antenazagreb.hr:8002/listen.pls
 #EXTINF:-1 tvg-logo="https://www.hiresaudio.online/wp-content/uploads/2023/02/Antena-Zadar-97.2-FM.webp" group-title="variety;news",Antena ZD 97.2
 http://live.antenazadar.hr:9000/stream/
-#EXTINF:-1 tvg-logo="https://liveonlineradio.net/wp-content/uploads/2016/01/braniteljski-radio-rh-1.jpg" group-title="hard;metal;rock",Braniteljski Radio
+#EXTINF:-1 tvg-logo="https://liveonlineradio.net/wp-content/uploads/2016/01/braniteljski-radio-rh-1.jpg" group-title="metal;rock",Braniteljski Radio
 http://s3.radio.co/se83499ee0/listen
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/k2ngsQQBViSRECHD9P4jvH48hwjpGut6t7YWzfoVZSGBrqFHeJGwkTaW9_VYHVc2EQ" group-title="hits;pop;rock",bravo!
 http://c5.hostingcentar.com:8057/stream?4667
@@ -41,7 +41,7 @@ http://cmr-hosting.com:8070/
 http://radio-stream.cmc.com.hr:8100/autodj
 #EXTINF:-1 tvg-logo="https://radio.cmc.com.hr/favicon.ico" group-title="classical;pop;world",CMC Dalmatina
 http://radio-stream.cmc.com.hr:8040/autodj
-#EXTINF:-1 tvg-logo="https://radio.cmc.com.hr/favicon.ico" group-title="live;world",CMC Festival
+#EXTINF:-1 tvg-logo="https://radio.cmc.com.hr/favicon.ico" group-title="world",CMC Festival
 http://radio-stream.cmc.com.hr:8070/autodj
 #EXTINF:-1 tvg-logo="https://radio.cmc.com.hr/favicon.ico" group-title="classical;pop;world",CMC Jugoton
 http://radio-stream.cmc.com.hr:8020/autodj
@@ -109,7 +109,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/RIJEKAAAC_SC
 https://playerservices.streamtheworld.com/api/livestream-redirect/SLJEMEAAC_SC
 #EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/0b/f0/12650/1/c300.png" group-title="rock;pop;news",HRT Radio Split 101.1
 https://playerservices.streamtheworld.com/api/livestream-redirect/SPLITAAC_SC
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGV0fUMfzYrOGycr1f8cyoKiwdJsxsT1ms9Q&s" group-title=";",HRT Radio Zadar 101.8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGV0fUMfzYrOGycr1f8cyoKiwdJsxsT1ms9Q&s",HRT Radio Zadar 101.8
 https://playerservices.streamtheworld.com/api/livestream-redirect/ZADARAAC_SC
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hr/c/cd/Hkr.jpg" group-title="catholic;christian;katolički",Hrvatski Katolički Radio
 https://stream.hkr.hr/hkr.mp3
@@ -129,7 +129,7 @@ http://s8.iqstreaming.com:8002/
 http://live.hrv.hr:8000/hrv
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3YlHbGOrmXZZvr4IrfNIqhZgdrBLJYXfJ6g&s" group-title="soft;pop;ballads",Club Music Radio
 http://cmr-hosting.com:8050/stream?type=http&nocache=5796
-#EXTINF:-1 tvg-logo="https://jazzradio.hr/wp-content/uploads/2021/11/logo2x-gold.png" group-title="cool;jazz;vocal",Jazzradio.hr
+#EXTINF:-1 tvg-logo="https://jazzradio.hr/wp-content/uploads/2021/11/logo2x-gold.png" group-title="jazz;vocal",Jazzradio.hr
 https://s5.radio.co/s5daa92f3a/listen
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/apple-touch-icon-120x120.png" group-title="world;public",Laganini FM
 http://194.145.208.251:8000/start/lfmzg
@@ -149,17 +149,17 @@ http://stream.zeno.fm/c4kvver9bm8uv?rj-ttl=5&rj-tok=AAABfdnh7j8AUAeFSYYDBdnfvQ
 http://stream.zeno.fm/yetzdv442k8uv?rj-ttl=5&rj-tok=AAABfdpe3d0As4N4D5eSnkuwtQ
 #EXTINF:-1 tvg-logo="https://ca.radio.net/images/broadcasts/93/fc/12654/1/c300.png" group-title="world;hits;pop",Otvoreni Live
 http://otvoreni.hr/media-player/create-playlist.php?stream=8807&type=pls
-#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/a3/b8/31/a3b831bf-7b97-923b-bb40-81a941cb6743/source/512x512bb.jpg" group-title="world;hrvatska;pop",Otvoreni Live
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/a3/b8/31/a3b831bf-7b97-923b-bb40-81a941cb6743/source/512x512bb.jpg" group-title="world;pop",Otvoreni Live
 https://stream.otvoreni.hr/stream48
 #EXTINF:-1 tvg-logo="http://www.otvoreni.hr/ea/wp-content/uploads/2020/10/Otvoreni_logoxbijelix380.jpg" group-title="world;easy listening;news",Otvoreni Radio
 https://stream.otvoreni.hr/otvoreni
 #EXTINF:-1 tvg-logo="https://www.phonostar.de/images/auto_created/Otvoreni_Radio2184x184.png" group-title="ambient;chillout",Otvoreni Radio Chill
 https://stream.otvoreni.hr/chill
-#EXTINF:-1 tvg-logo="https://kuasark.com/files/stations-logos/otvoreni-radio-fitness-hr-36920.png" group-title="fitness;energy;ambient",Otvoreni Radio Fitness
+#EXTINF:-1 tvg-logo="https://kuasark.com/files/stations-logos/otvoreni-radio-fitness-hr-36920.png" group-title="fitness;ambient",Otvoreni Radio Fitness
 https://stream.otvoreni.hr/fitness
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/7GF9uqVfOXStFXPZPuTBbYvD-HGk4TOgXw_xnbqOIDk13Ai_mQhUubMX1swofaNBkh8" group-title="christmas;xmas",Otvoreni Radio Ho Ho
 https://stream.otvoreni.hr/hoho
-#EXTINF:-1 tvg-logo="https://www.phonostar.de/images/auto_created/Otvoreni_Radio2184x184.png" group-title="hits;hot;pop",Otvoreni Radio Hot
+#EXTINF:-1 tvg-logo="https://www.phonostar.de/images/auto_created/Otvoreni_Radio2184x184.png" group-title="hits;pop",Otvoreni Radio Hot
 https://stream.otvoreni.hr/hot
 #EXTINF:-1 tvg-logo="https://www.phonostar.de/images/auto_created/Otvoreni_Radio2184x184.png" group-title="ballads;oldies;hits",Otvoreni Radio Love
 https://stream.otvoreni.hr/love
@@ -193,7 +193,7 @@ http://radiocentar.hr:8282/mp3
 http://shoutcast.pondi.hr:8000/listen.pls
 #EXTINF:-1 tvg-logo="http://www.deejay.hr/wp-content/themes/rdj/img/fav/android-icon-192x192.png" group-title="dance;electronica;pop",Radio Deejay HR
 http://live.deejay.hr:7002/listen.pls
-#EXTINF:-1 tvg-logo="https://djgrga-radio.com/wp-content/uploads/2017/01/DJGrga-slider-logo-1.png" group-title="dj;dance",Radio DJ Grga
+#EXTINF:-1 tvg-logo="https://djgrga-radio.com/wp-content/uploads/2017/01/DJGrga-slider-logo-1.png" group-title="dance",Radio DJ Grga
 http://cmr-hosting.com:8430/stream?type=http&nocache=343
 #EXTINF:-1 tvg-logo="https://radio.hrt.hr/static/img/favicon.png" group-title="world;variety",Radio Dubrovnik
 https://playerservices.streamtheworld.com/api/livestream-redirect/DUBROVNIK.mp3

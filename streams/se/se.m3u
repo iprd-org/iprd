@@ -19,7 +19,7 @@ http://n10.radiojar.com/bbhah441b6quv?rj-ttl=5&rj-tok=AAABfdrLiuYA6DIRbt-bKM5iKA
 http://stream.dbmedia.se/crr96
 #EXTINF:-1 tvg-logo="http://www.countryrocksradio.com/images/CRR_web.png" group-title="country;new country",Country Rocks Radio
 http://stream.dbmedia.se/crrMP3
-#EXTINF:-1 tvg-logo="http://dansbandskanalen.se/wp-content/uploads/2016/10/cropped-dbkikon-270x270.png" group-title="swedish;",Dansbandskanalen
+#EXTINF:-1 tvg-logo="http://dansbandskanalen.se/wp-content/uploads/2016/10/cropped-dbkikon-270x270.png" group-title="swedish",Dansbandskanalen
 http://stream.dbmedia.se/dbk96
 #EXTINF:-1 tvg-logo="https://eurohitzradio.se/wp-content/uploads/2021/03/cropped-eurohitzradio.png" group-title="club;dance;eurodance",Eurohitz Radio
 https://s3.radio.co/s84392295f/listen
@@ -39,9 +39,9 @@ http://stream.dbmedia.se/gk70talMP3
 http://stream.dbmedia.se/gk80talMP3
 #EXTINF:-1 tvg-logo="http://static.radio.se/images/broadcasts/29/e4/32298/c300.png" group-title="90s;hits",Guldkanalen 90-tal
 http://stream.dbmedia.se/gk90talMP3
-#EXTINF:-1 tvg-logo="http://static.radio.se/images/broadcasts/29/e4/32298/c300.png" group-title="oldies;",Guldkanalen Helsingborg
+#EXTINF:-1 tvg-logo="http://static.radio.se/images/broadcasts/29/e4/32298/c300.png" group-title="oldies",Guldkanalen Helsingborg
 http://stream.dbmedia.se/gkhbg96
-#EXTINF:-1 tvg-logo="http://static.radio.se/images/broadcasts/29/e4/32298/c300.png" group-title="oldies;",Guldkanalen Malmö/Lund
+#EXTINF:-1 tvg-logo="http://static.radio.se/images/broadcasts/29/e4/32298/c300.png" group-title="oldies",Guldkanalen Malmö/Lund
 http://stream.dbmedia.se/gk96
 #EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s200721q.png" group-title="electro;hits;pop",HITCITY 94.5
 http://89.160.63.63/hitcity392kbps
@@ -83,9 +83,9 @@ http://oscar.scenesat.com:8000/scenesat
 http://oscar.scenesat.com:8000/scenesatmed
 #EXTINF:-1 tvg-logo="http://scenesat.com/quadsputnik.png" group-title="demoscene;dance;party",SceneSat Radio
 http://oscar.scenesat.com:8000/scenesatmax
-#EXTINF:-1 tvg-logo="https://www.slayradio.org/favicon.ico" group-title="c64;chiptune;demoscene",Slay Radio
+#EXTINF:-1 tvg-logo="https://www.slayradio.org/favicon.ico" group-title="chiptune;demoscene",Slay Radio
 http://relay3.slayradio.org:8000/
-#EXTINF:-1 tvg-logo="https://www.slayradio.org/favicon.ico" group-title="8bit;c64;chiptunes",SLAY Radio
+#EXTINF:-1 tvg-logo="https://www.slayradio.org/favicon.ico" group-title="8bit;chiptunes",SLAY Radio
 http://relay3.slayradio.org:8300/
 #EXTINF:-1 tvg-logo="http://sverigesradio.se/dist/images/apple-touch-icon-p4.png" group-title="adult;contemporary;talk",SRP4 Kronoberg 101.0
 http://http-live.sr.se/p4kronoberg-aac-192
