@@ -13,13 +13,13 @@ http://stream.europeanhitradio.com:8000/Stream_24.aac
 http://stream.europeanhitradio.com:8000/Stream_23.aac
 #EXTINF:-1 tvg-logo="http://funkyimg.com/i/2E51u.jpg" group-title="world;hits;pop",European Hit Radio Eurochart
 http://stream.europeanhitradio.com:8000/Stream_31.aac
-#EXTINF:-1 tvg-logo="http://funkyimg.com/i/2E52D.jpg" group-title="fresh;top 40",European Hit Radio Fresh
+#EXTINF:-1 tvg-logo="http://funkyimg.com/i/2E52D.jpg" group-title="top 40",European Hit Radio Fresh
 http://stream.europeanhitradio.com:8000/Stream_25.aac
 #EXTINF:-1 tvg-logo="https://www.ehrhiti.lv/favicon.ico" group-title="world;pop",European Hit Radio Latviesu Hiti
 http://stream.europeanhitradio.com:8000/Stream_22.aac
 #EXTINF:-1 tvg-logo="http://funkyimg.com/i/2E52E.jpg" group-title="ballads;pop",European Hit Radio Love Songs
 http://stream.europeanhitradio.com:8000/Stream_28.aac
-#EXTINF:-1 tvg-logo="http://funkyimg.com/i/2E51w.jpg" group-title="dance;electro;hot",European Hit Radio Party Service
+#EXTINF:-1 tvg-logo="http://funkyimg.com/i/2E51w.jpg" group-title="dance;electro",European Hit Radio Party Service
 http://stream.europeanhitradio.com:8000/Stream_12.aac
 #EXTINF:-1 tvg-logo="http://funkyimg.com/i/2E51E.jpg" group-title="electro;hits;remixes",European Hit Radio Remixes
 http://stream.europeanhitradio.com:8000/Stream_32.aac
@@ -45,7 +45,7 @@ http://lr2mp1.latvijasradio.lv:8002/listen.pls
 http://lr3mp0.latvijasradio.lv:8004/listen.pls
 #EXTINF:-1 tvg-logo="http://lr4.lsm.lv/favicon/lr4-favicon-180x180.png" group-title="world;public",Latvijas Radio 4
 http://lr4mp1.latvijasradio.lv:8020/listen.pls
-#EXTINF:-1 tvg-logo="https://i3.radionomy.com/radios/200/b7a3145c-c365-486b-818c-744f81c2b672" group-title="dance;",LRadio Baltija
+#EXTINF:-1 tvg-logo="https://i3.radionomy.com/radios/200/b7a3145c-c365-486b-818c-744f81c2b672" group-title="dance",LRadio Baltija
 https://radio2.lradiostation.com/live
 #EXTINF:-1 tvg-logo="https://www.newdanceradio.ru/favicon.ico" group-title="dance;house;pop",NewDanceRadio
 http://stream.newdanceradio.ru/
@@ -79,7 +79,7 @@ http://starfm.live.advailo.com/audio/mp3/icecast.audio
 http://radio.kuums.lv:5555/listen.pls
 #EXTINF:-1 tvg-logo="http://www.kuums.lv/favicon.ico" group-title="pop;remix",Talsi Remix
 http://radio.kuums.lv:5555/
-#EXTINF:-1 tvg-logo="https://pic.latvijasradio.lv/public/assets/media/0/8/msmall_5334e1d8.jpg" group-title="art;experimental",Tirkultura
+#EXTINF:-1 tvg-logo="https://pic.latvijasradio.lv/public/assets/media/0/8/msmall_5334e1d8.jpg" group-title="experimental",Tirkultura
 https://streams.radio.co/s2777a4fdd/listen
 #EXTINF:-1 tvg-logo="https://xo.fm/view/site/favicons/apple-touch-icon.png" group-title="jazz;blues",XO.FM
 https://live.xo.fm/xofm128

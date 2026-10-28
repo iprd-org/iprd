@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://ars.rtvslo.si/wp-content/themes/ars-child/img/logo@2x.png" group-title="classical;cultural;public",Radio ARS 98.9
+#EXTINF:-1 tvg-logo="http://ars.rtvslo.si/wp-content/themes/ars-child/img/logo@2x.png" group-title="classical;public",Radio ARS 98.9
 http://mp3.rtvslo.si/ars
 #EXTINF:-1 tvg-logo="http://radiocenter.si/Public/assets/dist/img/152_center.ico" group-title="top 40;pop",HitRadio Center 102.4
 http://stream3.radiocenter.si:8000/;center/1
@@ -7,13 +7,13 @@ http://stream3.radiocenter.si:8000/;center/1
 http://stream3.radiocenter.si:8000/center
 #EXTINF:-1 tvg-logo="http://radiocenter.si/public/assets/dist/img/150_center.png" group-title="80s;hits;pop",HitRadio Center 80's
 http://stream3.radiocenter.si:8064/;stream/1
-#EXTINF:-1 tvg-logo="http://radiocenter.si/public/assets/dist/img/150_center.png" group-title="hits;pop;fresh",HitRadio Center Fresh Pop
+#EXTINF:-1 tvg-logo="http://radiocenter.si/public/assets/dist/img/150_center.png" group-title="hits;pop",HitRadio Center Fresh Pop
 http://stream3.radiocenter.si:8058/;stream/1
 #EXTINF:-1 tvg-logo="http://radiocenter.si/public/assets/dist/img/150_center.png" group-title="latin;world;hits",HitRadio Center Latin
 http://stream3.radiocenter.si:8200/;stream/1
 #EXTINF:-1 tvg-logo="http://radiocenter.si/public/assets/dist/img/150_center.png" group-title="chanson;ballads;schlager",HitRadio Center Love
 http://stream3.radiocenter.si:8060/;stream/1
-#EXTINF:-1 tvg-logo="http://radiocenter.si/public/assets/dist/img/150_center.png" group-title="dj;mixes;dance",HitRadio Center Megamix
+#EXTINF:-1 tvg-logo="http://radiocenter.si/public/assets/dist/img/150_center.png" group-title="mixes;dance",HitRadio Center Megamix
 http://stream3.radiocenter.si:8066/;stream/1
 #EXTINF:-1 tvg-logo="http://radiocenter.si/public/assets/dist/img/150_center.png" group-title="rock;hits;pop",HitRadio Center Rock
 http://stream.rockradio.si:9034/;stream/1
@@ -21,7 +21,7 @@ http://stream.rockradio.si:9034/;stream/1
 http://stream3.radiocenter.si:9020/;stream/1
 #EXTINF:-1 tvg-logo="http://radiocenter.si/public/assets/dist/img/150_center.png" group-title="dance;rock;r'n'b",HitRadio Center Yu
 http://stream3.radiocenter.si:8100/;stream/1
-#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s66865q.png" group-title="magyar;folk;talk",MMR
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s66865q.png" group-title="folk;talk",MMR
 http://mp3.rtvslo.si/mmr
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/t-3KgFjFlWbrniXtDxDQC6l5sEANlVoczKflK7UHEiJRZynBVj_oFVaOj24U86JaBKlK=w240-h480-rw" group-title="rock;oldies",Odprti Radio
 https://zvok.ragla.si/ord
@@ -89,13 +89,13 @@ http://frekvenca.eu:8000/radiomars.mp3
 https://strm.radionula.com/classics
 #EXTINF:-1 tvg-logo="http://www.radionula.com/imgs/favicon.png" group-title="disco;jazz;soul",Radio Nula 2
 http://streaming.radionula.com:8800/channel2
-#EXTINF:-1 tvg-logo="http://radionula.com/imgs/player-ch1.png?54f571e6f6259f72833f4342dc282c3b" group-title="beat;funk;hip hop",Radio Nula Classics
+#EXTINF:-1 tvg-logo="http://radionula.com/imgs/player-ch1.png?54f571e6f6259f72833f4342dc282c3b" group-title="funk;hip hop",Radio Nula Classics
 http://streaming.radionula.com:8800/classics
 #EXTINF:-1 tvg-logo="http://www.radionula.com/imgs/favicon.png" group-title="lounge;jazz;blues",Radio Nula Lounge
 http://streaming.radionula.com:8800/lounge
 #EXTINF:-1 tvg-logo="http://katoliska-cerkev.si/img/news/2012/03-mar/435cffab69540fe18ce272e553edec0ba57a89f5.jpg" group-title="katoliški;religious;christian",Radio Ognjisce 92.1
 http://live.ognjisce.si/ognjisce.mp3
-#EXTINF:-1 tvg-logo="http://radioprvi.rtvslo.si/wp-content/themes/prvi-child/img/logo@2x.png" group-title="news;pop;news",Radio Prvi
+#EXTINF:-1 tvg-logo="http://radioprvi.rtvslo.si/wp-content/themes/prvi-child/img/logo@2x.png" group-title="news;pop",Radio Prvi
 http://mp3.rtvslo.si/ra1
 #EXTINF:-1 tvg-logo="https://www.uzivoradio.net/wp-content/uploads/2016/02/put-srece-1.jpg" group-title="folk;world",Radio Put Srece
 http://giss.tv:8001/Dj_Merc_Seka.mp3
@@ -105,7 +105,7 @@ http://193.105.67.24:8010/
 http://stream.zeno.fm/q7300aptbwzuv?rj-ttl=5&rj-tok=AAABfdtq7RMATuNKHPRE5D6gVA
 #EXTINF:-1 tvg-logo="http://radiosalomon.si/img/logo.png" group-title="dance;hip hop;pop",Radio Salomon
 https://live.radio.si/Salomon
-#EXTINF:-1 tvg-logo="https://radiosalomon.si/img/logo.svg" group-title="dance;euro;dance",Radio Salomon Dance Now
+#EXTINF:-1 tvg-logo="https://radiosalomon.si/img/logo.svg" group-title="dance;euro",Radio Salomon Dance Now
 http://185.97.52.63/SalomonDanceNow
 #EXTINF:-1 tvg-logo="http://img.rtvslo.si/_static/novi/bootstrap/public/themes/rasi/icons/apple-touch-icon.png" group-title="adult;contemporary;world",Radio Si
 http://mp3.rtvslo.si/rsi

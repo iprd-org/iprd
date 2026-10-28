@@ -25,7 +25,7 @@ https://ch01.cdn.eurozet.pl/CHICOV.mp3
 http://panel.nadaje.com:9004/
 #EXTINF:-1 tvg-logo="http://open.fm/logo/200x200/76" group-title="chillout;lounge;relax",OpenFM Crema Cafe
 https://stream.open.fm/76
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tlV5P8r.png" group-title="dance;dj;mixes",Damismania Dj Radio
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tlV5P8r.png" group-title="dance;mixes",Damismania Dj Radio
 http://s1.slotex.pl:7512/
 #EXTINF:-1 tvg-logo="http://open.fm/logo/200x200/31" group-title="dance;electronic",OpenFM Dance
 https://stream.open.fm/31
@@ -225,7 +225,7 @@ https://ml.cdn.eurozet.pl/mel-ols.mp3
 http://51.255.8.139:8738/stream
 #EXTINF:-1 tvg-logo="http://player.mittendrin.pl/themes/mittendrinrwd2/img/radio-altneu.jpg" group-title="german;pop;rock",Mittendrin ALT!NEU Radio der deutschen Minderheit
 http://s1.slotex.pl:7430/stream
-#EXTINF:-1 tvg-logo="http://www.modules.pl/templates/default/images/logo.png" group-title="amiga;c64;chiptune",ModFM
+#EXTINF:-1 tvg-logo="http://www.modules.pl/templates/default/images/logo.png" group-title="chiptune",ModFM
 http://radio.modules.pl:8500/listen.pls
 #EXTINF:-1 tvg-logo="http://muzo.fm/favicon-96x96.png" group-title="rock;alternative",Mittendrin ALT!NEU Radio der deutschen Minderheit
 https://n15a-eu.rcs.revma.com/1nnezw8qz7zuv?rj-ttl=5&rj-tok=AAABfd5qZwwADPuKsTSpWU2-LQ
@@ -253,7 +253,7 @@ https://stream.open.fm/109?type=.aac
 http://stream.open.fm/201
 #EXTINF:-1 tvg-logo="http://open.fm/logo/200x200/72" group-title="pop;hits;00s",OpenFM 00s Hits
 http://stream.open.fm/72
-#EXTINF:-1 tvg-logo="http://open.fm/logo/200x200/114" group-title="clubbing;dance;electronic",OpenFM 100% Grabaz
+#EXTINF:-1 tvg-logo="http://open.fm/logo/200x200/114" group-title="dance;electronic",OpenFM 100% Grabaz
 http://stream.open.fm/114
 #EXTINF:-1 tvg-logo="http://open.fm/logo/200x200/64" group-title="pop;hits",OpenFM 100% Hits
 http://stream.open.fm/64
@@ -283,7 +283,7 @@ http://stream.open.fm/10
 http://stream.open.fm/34
 #EXTINF:-1 tvg-logo="http://open.fm/logo/200x200/43" group-title="alternative;indie;punk",OpenFM ALT Classic
 http://stream.open.fm/43
-#EXTINF:-1 tvg-logo="http://open.fm/logo/200x200/9" group-title="clubbing;dance;electronic",OpenFM ALT Club
+#EXTINF:-1 tvg-logo="http://open.fm/logo/200x200/9" group-title="dance;electronic",OpenFM ALT Club
 http://stream.open.fm/9
 #EXTINF:-1 tvg-logo="http://open.fm/logo/200x200/6" group-title="alternative;ballads;rock",OpenFM ALT Freszzz
 http://stream.open.fm/6
@@ -323,7 +323,7 @@ http://stream.open.fm/31
 http://stream.open.fm/21
 #EXTINF:-1 tvg-logo="http://open.fm/logo/200x200/49" group-title="world;disco;dance",OpenFM Disco Polo Classic
 http://stream.open.fm/49
-#EXTINF:-1 tvg-logo="http://open.fm/logo/200x200/57" group-title="disco polo;",OpenFM - Disco Polo Freszzz
+#EXTINF:-1 tvg-logo="http://open.fm/logo/200x200/57" group-title="disco polo",OpenFM - Disco Polo Freszzz
 http://stream.open.fm/57
 #EXTINF:-1 tvg-logo="http://open.fm/logo/200x200/113" group-title="rock;pop",OpenFM Do Auta Rock
 http://stream.open.fm/113
@@ -371,7 +371,7 @@ http://stream.open.fm/27
 http://stream.open.fm/166
 #EXTINF:-1 tvg-logo="http://open.fm/logo/200x200/16" group-title="children;youth;kids",OpenFM Kids
 http://stream.open.fm/16
-#EXTINF:-1 tvg-logo="http://open.fm/logo/200x200/8" group-title="clubbing;club;dance",OpenFM Klub 90
+#EXTINF:-1 tvg-logo="http://open.fm/logo/200x200/8" group-title="club;dance",OpenFM Klub 90
 http://stream.open.fm/8
 #EXTINF:-1 tvg-logo="http://open.fm/logo/200x200/142" group-title="ambient;relax",OpenFM Kolysanki
 http://stream.open.fm/142
@@ -491,7 +491,7 @@ https://pl04.cdn.eurozet.pl/plu-gdn.mp3?redirected=04
 https://waw.ic.smcdn.pl/4110-1.aac
 #EXTINF:-1 tvg-logo="https://bi.im-g.pl/im/8/26025/m26025658.png" group-title="20s;30s;40s",Radio Pogoda Wroclaw
 https://pl-play.adtonos.com/8102/radio-pogoda-wrocaw?cache=1598128880
-#EXTINF:-1 tvg-logo="https://www.icma-info.com/wp-content/uploads/2018/04/Polskie-Radio-Chopin-e1524727306965.jpg" group-title="chopin;classical",Polskie Radio Chopin
+#EXTINF:-1 tvg-logo="https://www.icma-info.com/wp-content/uploads/2018/04/Polskie-Radio-Chopin-e1524727306965.jpg" group-title="classical",Polskie Radio Chopin
 http://stream3.polskieradio.pl:8960/listen.pls
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/Polskie_Radio_Czw%C3%B3rka.png/revision/latest?cb=20151027231335" group-title="alternative;rock",Polskie Radio Czworka
 http://stream3.polskieradio.pl:8956/listen.pls
@@ -623,7 +623,7 @@ http://play.radioftb.net:8000/stream
 http://play.radioftb.net:8022/stream
 #EXTINF:-1 tvg-logo="https://radioftb.net/wp-content/uploads/2020/11/appstore.png" group-title="rap;r'n'b;urban",Radio FTB Rap Music
 http://play.radioftb.net:8028/stream
-#EXTINF:-1 tvg-logo="https://radioftb.net/wp-content/uploads/2020/11/appstore.png" group-title="retro;dj;mixes",Radio FTB Retro DJ
+#EXTINF:-1 tvg-logo="https://radioftb.net/wp-content/uploads/2020/11/appstore.png" group-title="retro;mixes",Radio FTB Retro DJ
 http://play.radioftb.net:8016/stream
 #EXTINF:-1 tvg-logo="http://radiogdansk.pl/templates/gk_twn2/images/favicon/favicon-32x32.png" group-title="pop;hits",Radio Gdansk
 http://stream.task.gda.pl:8000/rg1
@@ -783,9 +783,9 @@ http://91.232.4.33:8108/stream2
 http://91.232.4.33:9466/
 #EXTINF:-1 tvg-logo="http://www.radiopasja.pl/apple-touch-icon.png" group-title="dance;electronic",Radio Pasja Dance
 http://91.232.4.33:9466/stream2
-#EXTINF:-1 tvg-logo="http://www.radiopasja.pl/apple-touch-icon.png" group-title="clubbing;trance",Radio Pasja Klubowa
+#EXTINF:-1 tvg-logo="http://www.radiopasja.pl/apple-touch-icon.png" group-title="trance",Radio Pasja Klubowa
 http://91.232.4.33:9460/
-#EXTINF:-1 tvg-logo="http://www.radiopasja.pl/apple-touch-icon.png" group-title="clubbing;trance",Radio Pasja Klubowa
+#EXTINF:-1 tvg-logo="http://www.radiopasja.pl/apple-touch-icon.png" group-title="trance",Radio Pasja Klubowa
 http://91.232.4.33:9460/stream2
 #EXTINF:-1 tvg-logo="http://www.radiopasja.pl/apple-touch-icon.png" group-title="pop;hits",Radio Pasja Pop
 http://91.232.4.33:8084/
@@ -831,7 +831,7 @@ http://stream2.nadaje.com:8108/
 http://stream6.nadaje.com:8086/ciechanow
 #EXTINF:-1 tvg-logo="http://www.rm80.pl//favicon.ico" group-title="dance;pop",Radio RM80
 http://91.232.4.33:9011/stream
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/4/1474.v5.png" group-title="decades;hits;00s",Radio RMF 2000
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/4/1474.v5.png" group-title="hits;00s",Radio RMF 2000
 http://195.150.20.7/2000
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/7/1507.v5.png" group-title="disco;hits;80s",Radio RMF 80s Disco
 http://31.192.216.10/80SDISCO
@@ -925,11 +925,11 @@ https://radiojazz.out.airtime.pro/radiojazz_a
 http://s7.radioparty.pl:8000/
 #EXTINF:-1 tvg-logo="https://radioparty.pl//favicon.ico" group-title="hits;world",Radio Party
 http://s2.radioparty.pl:7000/stream64aac
-#EXTINF:-1 tvg-logo="http://radioparty.pl//favicon.ico" group-title="mixes;dj",Radio Party DJ Mixes Party
+#EXTINF:-1 tvg-logo="http://radioparty.pl//favicon.ico" group-title="mixes",Radio Party DJ Mixes Party
 http://djmixes.radioparty.pl:8035/
-#EXTINF:-1 tvg-logo="https://radioparty.pl//favicon.ico" group-title="dance;dj;mixes",Radio Party Energy 2000
+#EXTINF:-1 tvg-logo="https://radioparty.pl//favicon.ico" group-title="dance;mixes",Radio Party Energy 2000
 http://s2.radioparty.pl:8040/energy2000
-#EXTINF:-1 tvg-logo="http://radioparty.pl//favicon.ico" group-title="dance;dj;mixes",Radio Party Energy 2000
+#EXTINF:-1 tvg-logo="http://radioparty.pl//favicon.ico" group-title="dance;mixes",Radio Party Energy 2000
 http://energy2000.radioparty.pl:8005/
 #EXTINF:-1 tvg-logo="http://radioparty.pl/images/radioparty2017.png" group-title="house;dance;electro",Radio Party House Party
 http://house.radioparty.pl:8010/
@@ -1101,7 +1101,7 @@ http://31.192.216.10/NIEZAPOMNIANEMELODIE
 http://31.192.216.10/NIEZAPOMNIANEMELODIEF
 #EXTINF:-1 tvg-logo="http://www.rmfon.pl/i/logos/100x100/party.png" group-title="party;hits",RMF Party
 http://195.150.20.7/PARTY
-#EXTINF:-1 tvg-logo="http://www.rmfon.pl/i/logos/100x100/party.png" group-title="party;",RMF Party + Fakty
+#EXTINF:-1 tvg-logo="http://www.rmfon.pl/i/logos/100x100/party.png" group-title="party",RMF Party + Fakty
 http://195.150.20.7/PARTYF
 #EXTINF:-1 tvg-logo="http://www.rmfon.pl/favicon.ico" group-title="pop;culture",RMF Piosenka Literacka
 http://31.192.216.7/PIOSENKALITERACKA
@@ -1195,7 +1195,7 @@ https://radiostream.pl/tuba10-1.mp3
 http://s01.toksyna.fm:8000/
 #EXTINF:-1 tvg-logo="https://www.radio.net/300/toksynafm.png?version=9ef9d7591eae8dae59a7093c6fae9394" group-title="chillout;ambient",Toksyna FM Chillout & More
 http://s01.toksyna.fm:8050/
-#EXTINF:-1 tvg-logo="https://www.radio.net/300/toksynafm.png?version=9ef9d7591eae8dae59a7093c6fae9394" group-title="dance;dj;mixes",Toksyna FM DJ Channel
+#EXTINF:-1 tvg-logo="https://www.radio.net/300/toksynafm.png?version=9ef9d7591eae8dae59a7093c6fae9394" group-title="dance;mixes",Toksyna FM DJ Channel
 http://s01.toksyna.fm:8040/
 #EXTINF:-1 tvg-logo="https://www.radio.net/300/toksynafm.png?version=9ef9d7591eae8dae59a7093c6fae9394" group-title="electronic;dance",Toksyna FM Elektronica
 http://s01.toksyna.fm:8010/

@@ -71,13 +71,13 @@ http://channels.dinamo.fm/deep-mp3
 http://channels.dinamo.fm/discotheque-mp3
 #EXTINF:-1 tvg-logo="https://dinamo.fm/assets/img/logo.png" group-title="electronic;indie",Dinamo.fm Fluent
 http://channels.dinamo.fm/fluent-mp3
-#EXTINF:-1 tvg-logo="https://www.dinamo.fm/favicon-96x96.png" group-title="dj;mixes;variety",Dinamo.fm Legacy
+#EXTINF:-1 tvg-logo="https://www.dinamo.fm/favicon-96x96.png" group-title="mixes;variety",Dinamo.fm Legacy
 http://channels.dinamo.fm/legacy-mp3
-#EXTINF:-1 tvg-logo="http://www.dinamo.fm/assets/img/logosquare.jpg" group-title="dj;drum'n'bass;dub",Dinamo.fm Locodyno
+#EXTINF:-1 tvg-logo="http://www.dinamo.fm/assets/img/logosquare.jpg" group-title="drum'n'bass;dub",Dinamo.fm Locodyno
 http://channels.dinamo.fm/locodyno-mp3
 #EXTINF:-1 tvg-logo="http://www.dinamo.fm/assets/img/logosquare.jpg" group-title="ambient;chillout;lullaby",Dinamo.fm Sleep
 http://channels.dinamo.fm/sleep-mp3
-#EXTINF:-1 tvg-logo="http://www.dinamo.fm/assets/img/logosquare.jpg" group-title="deeper;electronic",Dinamo.fm Smog
+#EXTINF:-1 tvg-logo="http://www.dinamo.fm/assets/img/logosquare.jpg" group-title="electronic",Dinamo.fm Smog
 http://channels.dinamo.fm/smog-mp3
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI5kFuyS1Ijk8jG4EUZZMbIc12iHgMReiCrw&s" group-title="islamic;religious",Diyanet Kur'an Radyo
 https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c14192aa92.smil/playlist.m3u8
@@ -223,7 +223,7 @@ http://powersmoothjazz.listenpowerapp.com/powersmoothjazz/abr/powersmoothjazz/12
 http://listen.powerapp.com.tr/powerturk/mpeg/icecast.audio?/listen.pls
 #EXTINF:-1 tvg-logo="https://radioantalya.com/favicon.ico" group-title="downtempo;electronica;indie",Radio Antalya
 https://my.radiolize.com/radio/8000/radio.mp3
-#EXTINF:-1 tvg-logo="https://www.radiowanderlust.com/wp-content/uploads/2018/12/256x256.png" group-title="journey;travel;talk",Radio Wanderlust
+#EXTINF:-1 tvg-logo="https://www.radiowanderlust.com/wp-content/uploads/2018/12/256x256.png" group-title="travel;talk",Radio Wanderlust
 http://radyo.yayin.com.tr:5898/
 #EXTINF:-1 tvg-logo="http://www.radyo7.com/application/assets/home/common/images/apple-touch-icon.png" group-title="turkish;talk;variety",Radyo 7
 http://46.20.3.250/;stream
@@ -273,7 +273,7 @@ http://live4.radyotvonline.com:9450/
 http://yayin.liderhost.net:8555/;*.mp3
 #EXTINF:-1 tvg-logo="https://radyodinle.com/wp-content/uploads/2024/08/Radyo-Megasite-3-min.jpg" group-title="world;rock",Radyo Mars
 https://yayin.radyomadyo.com:9400/stream
-#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000696234343-1v7nan-t240x240.jpg" group-title="dj;talk;variety",Radyo MODyAn
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000696234343-1v7nan-t240x240.jpg" group-title="talk;variety",Radyo MODyAn
 http://stream.radio.co/s55d598f42/listen
 #EXTINF:-1 tvg-logo="http://www.radyoodtu.com.tr/images/header_logo.png" group-title="adult;contemporary;college",Radyo ODTU 103.1
 http://stream.radyoodtu.com.tr/listen.pls
@@ -281,9 +281,9 @@ http://stream.radyoodtu.com.tr/listen.pls
 http://stream.radyoodtu.com.tr/easy
 #EXTINF:-1 tvg-logo="https://www.radyoodtu.com.tr/images/header-logo.png" group-title="world;hits;pop",Radyo ODTU Hit
 http://stream.radyoodtu.com.tr/hit
-#EXTINF:-1 tvg-logo="https://www.radyoodtu.com.tr/images/header-logo.png" group-title="mixes;dj;dance",Radyo ODTU MixTape
+#EXTINF:-1 tvg-logo="https://www.radyoodtu.com.tr/images/header-logo.png" group-title="mixes;dance",Radyo ODTU MixTape
 http://stream.radyoodtu.com.tr/karisikkaset
-#EXTINF:-1 tvg-logo="https://www.radyoodtu.com.tr/images/logo_for_fb.png" group-title="rock;hard;metal",Radyo ODTU Rock
+#EXTINF:-1 tvg-logo="https://www.radyoodtu.com.tr/images/logo_for_fb.png" group-title="rock;metal",Radyo ODTU Rock
 http://stream.radyoodtu.com.tr/rock
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s152248/images/logog.jpg" group-title="turkish;folk;world",Radyo Seymen 107.0
 https://yayin.radyoseymen.com.tr:1070/stream
@@ -393,7 +393,7 @@ http://37.247.98.8/stream/22/listen.pls
 https://trkvz-radyolar.ercdn.net/turkuvazmusiki/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ulusalradyo.com/wp-content/uploads/2021/01/cropped-mic-180x180.png" group-title="pop;hits;world",Ulusal Radyo 100.8
 http://162.254.207.45:9302/.mp3?&token=QVi8je41ac9GDLg3DshO8Q&expires=1608058155
-#EXTINF:-1 tvg-logo="https://i.tmgrup.com.tr/vavradyo/site/v2/c/i/apple-touch-icon-new-120x120.png" group-title="culture;islam;general",Vav Radyo
+#EXTINF:-1 tvg-logo="https://i.tmgrup.com.tr/vavradyo/site/v2/c/i/apple-touch-icon-new-120x120.png" group-title="culture;islam",Vav Radyo
 https://trkvz-radyolar.ercdn.net/radyovav/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://mediacdn.karnaval.com/media/station_media/15/logos/meta_image.png?v=280316053238" group-title="pop;rock;hits",Virgin Radio
 https://playerservices.streamtheworld.com/api/livestream-redirect/VIRGIN_RADIO_SC

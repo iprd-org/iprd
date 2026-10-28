@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://www.radio.net/300/energych90s.png?version=3b3b98e3b49fd6a840138b7d5389042c" group-title="90s;hits;pop",90s 3NeRgY
 https://s11.ssl-stream.com/ssl/90s_energy?mp=/stream
-#EXTINF:-1 tvg-logo="https://americadance90.com.br/wp-content/uploads/2024/05/90s-3NeRgYReMiX-300x300.png" group-title="just good music;",90s 3NeRgY&ReMiX
+#EXTINF:-1 tvg-logo="https://americadance90.com.br/wp-content/uploads/2024/05/90s-3NeRgYReMiX-300x300.png" group-title="just good music",90s 3NeRgY&ReMiX
 http://s11.ssl-stream.com:8084/live
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx-fCu8MT4aiUgwCFG8ab-tYXSogknldfw1w&s" group-title="christian;religious;talk",Agnus Radio 88.3
 http://radio2.tirek.hu:8000/agnusradio
@@ -185,7 +185,7 @@ http://mediasfm.eushells.ro:8082/listen.pls
 http://live.radiomiraj.ro:9952/stream
 #EXTINF:-1 tvg-logo="https://radionebunya.ro/images/logov1.png" group-title="folk;hits",Radio Nebunya
 http://asculta.radionebunya.ro:7575/
-#EXTINF:-1 tvg-logo="https://www.radionoise.ro/favicon.ico" group-title="dance;dj;mixes",Radio Noise
+#EXTINF:-1 tvg-logo="https://www.radionoise.ro/favicon.ico" group-title="dance;mixes",Radio Noise
 http://live.radionoise.ro:9100/listen.pls
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-o9mwltlrK4k/X-Cqcy_ngII/AAAAAAAAAOg/PQ5dKpixAi0N-7_d49rDBPxib2jJq5pXgCK4BGAYYCw/w800/Nova%2B22%2Bonline.jpg" group-title="dance;jazz;latin",Radio Nova22 92.7
 http://s2.myradiostream.com:4520/listen.m4a

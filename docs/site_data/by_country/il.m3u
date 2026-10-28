@@ -19,13 +19,13 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/SAM03AAC81_SC
 https://bcsecurelivehls-i.akamaihd.net/hls/live/1008862/207397166001/master_radio.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s140612g.png" group-title="folk;hebrew",Jewish Music Stream
 https://stream.jewishmusicstream.com:8000/
-#EXTINF:-1 tvg-logo="http://jointil.com/broadcast/images/joint.radio330X330.png" group-title="full-on;psytrance",Joint Radio Beat
+#EXTINF:-1 tvg-logo="http://jointil.com/broadcast/images/joint.radio330X330.png" group-title="psytrance",Joint Radio Beat
 http://star.jointil.net/proxy/jrn_beat?mp=/stream
 #EXTINF:-1 tvg-logo="http://jointil.com/broadcast/images/joint.radio330X330.png" group-title="60s;70s;blues",Joint Radio Blues
 http://star.jointil.net/proxy/jrn_blues?mp=/stream
 #EXTINF:-1 tvg-logo="http://jointil.com/broadcast/images/joint.radio330X330.png" group-title="dub;reggae;reggaeton",Joint Radio Reggae
 http://star.jointil.net/proxy/jrn_reggae?mp=/stream
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/46/Bnei_Baruch.png" group-title="cabale;kabbalah;kabbale",Kabbalah
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/46/Bnei_Baruch.png" group-title="cabale;kabbale",Kabbalah
 http://icecast.kab.tv/live1-spa-574bcfd5.mp3
 #EXTINF:-1 tvg-logo="https://kanweb.blob.core.windows.net/download/pictures/Station_Share_Image4_img_.jpg" group-title="variety;hits",Kan 88
 http://kanliveicy.media.kan.org.il/icy/749623_mp3?providername=tunein
@@ -39,7 +39,7 @@ http://kanliveicy.media.kan.org.il/icy/749625_mp3
 http://kanliveicy.media.kan.org.il/icy/kan88_mp3
 #EXTINF:-1 tvg-logo="https://kanweb.blob.core.windows.net/download/pictures/Station_Share_Image3_img__2.jpg" group-title="news;talk",Kan Bet 95.5
 http://kanliveicy.media.kan.org.il/icy/kanbet_mp3
-#EXTINF:-1 tvg-logo="http://www.kan.org.il/images/logo_ogImageKan.jpg" group-title="rock;hits;farsi",Kan Israel Farsi
+#EXTINF:-1 tvg-logo="http://www.kan.org.il/images/logo_ogImageKan.jpg" group-title="rock;hits",Kan Israel Farsi
 http://kanliveicy.media.kan.org.il/icy/voisfarsi_mp3
 #EXTINF:-1 tvg-logo="https://kanweb.blob.core.windows.net/download/pictures/Station_Share_Image6_img__2.jpg" group-title="community;religious",Kan Moreshet 92.5
 http://kanliveicy.media.kan.org.il/icy/kanmoreshet_mp3
@@ -53,7 +53,7 @@ https://kanlivep2event-i.akamaihd.net/hls/live/749623/749623/kan88_mp3/chunklist
 http://kzradio.livecast.co.il/kzradio_aac/
 #EXTINF:-1 tvg-logo="http://www.fm1.co.il/images/stations/nostal.png" group-title="pop;oldies",Nostalgia
 http://194.213.4.197:8000/listen.pls
-#EXTINF:-1 tvg-logo="https://www.oneforisrael.org/wp-content/uploads/2019/11/agape-logo-white.jpg" group-title="agape;christian;praise",Radio Agape
+#EXTINF:-1 tvg-logo="https://www.oneforisrael.org/wp-content/uploads/2019/11/agape-logo-white.jpg" group-title="christian;praise",Radio Agape
 https://s3.radio.co/s43b65d791/listen
 #EXTINF:-1 tvg-logo="http://www.isr-radio.com/wp-content/uploads/2012/08/373645_127174283963945_734336389_n1.jpg" group-title="adult;hits",Radio Haifa 107.5
 https://102.livecdn.biz/radiohaifa
@@ -65,7 +65,7 @@ http://gb25.streamgates.net/radios-audio/100Workout/icecast.audio
 http://kanliveicy.media.kan.org.il/icy/kanreka_mp3
 #EXTINF:-1 tvg-logo="https://kanweb.blob.core.windows.net/download/pictures/Station_Share_Image3_img__2.jpg" group-title="news;talk",Reshet Bet
 https://kanlivep2event-i.akamaihd.net/hls/live/749624/749624/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLbLpYjRarB9PeDfg1b50LBBsPQNBrW9s2k6URm8kMZ-GqlmmEs77Wv1H4gzQqySrt2u8&usqp=CAU" group-title="dj;dubstep",Teder
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLbLpYjRarB9PeDfg1b50LBBsPQNBrW9s2k6URm8kMZ-GqlmmEs77Wv1H4gzQqySrt2u8&usqp=CAU" group-title="dubstep",Teder
 https://radio.streamgates.net/stream/teder
 #EXTINF:-1 tvg-logo="https://radio1064.co.il/images/favicon/apple-touch-icon.png" group-title="pop;news;talk",Luchsheye Radio 106.4
 http://live.cdnwz.net/thebest
@@ -73,7 +73,7 @@ http://live.cdnwz.net/thebest
 http://eco-live.mediacast.co.il/99fm_aac?hash=1559501510715.m4a
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/34/ee/34ee4ed52c07ad09122cbe047a7c0bfd.jpg" group-title="pop;rock;news",Galgalatz
 http://glzwizzlv.bynetcdn.com/glglz_mp3
-#EXTINF:-1 tvg-logo="https://www.kzradio.net/wp-content/uploads/2018/11/kzlogo.jpg" group-title="alternative;underground",The Edge Hakatze
+#EXTINF:-1 tvg-logo="https://www.kzradio.net/wp-content/uploads/2018/11/kzlogo.jpg" group-title="alternative",The Edge Hakatze
 http://kzradio.mediacast.co.il/kzradio_live/kzradio/icecast.audio
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s14195q.png" group-title="news;talk",Radio Yerushalaim 101.0
 http://101.cdnwz.net/101fm

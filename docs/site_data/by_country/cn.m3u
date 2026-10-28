@@ -539,7 +539,7 @@ http://satellitepull.cnr.cn/live/wxzygb/playlist.m3u8
 http://ngcdn014.cnr.cn/live/ylgb/index.m3u8
 #EXTINF:-1 tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191015/1571132054820.png" group-title="Comedy;Variety",CNR-12 Story Broadcast
 http://satellitepull.cnr.cn/live/wxylgb/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://pic.downcc.com/upload/2017-9/201799111157597.png" group-title="News;Uyghur",CNR-13 Uyghur Radio
+#EXTINF:-1 tvg-logo="http://pic.downcc.com/upload/2017-9/201799111157597.png" group-title="News",CNR-13 Uyghur Radio
 http://satellitepull.cnr.cn/live/wxwygb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://bkimg.cdn.bcebos.com/pic/1b4c510fd9f9d72a6059caae93633f34349b033b0d64?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2UxMTY=,g_7,xp_5,yp_5/format,f_auto" group-title="Talk;Traffic",CNR-15 China Traffic Broadcasting
 https://live.xmcdn.com/live/45/64.m3u8
@@ -553,10 +553,6 @@ http://lhttp.qingting.fm/live/20212226/64k.mp3
 http://lhttp.qingting.fm/live/5022369/64k.mp3
 #EXTINF:-1 tvg-logo="http://www.cnr.cn//favicon.ico" group-title="Public;Traffic",CNR-15 Highway Traffic Radio
 http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
-#EXTINF:-1 tvg-logo="http://country.cnr.cn/focus/201403/W020140304388894690018.jpg" group-title="Rural;Agriculture",CNR-16 Village Voice
-http://satellitepull.cnr.cn/live/wxxczs/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.cnr.cn//favicon.ico" group-title="Rural;Agriculture",CNR-16 Village Voice
-http://ngcdn017.cnr.cn/live/xczs/index.m3u8
 #EXTINF:-1 tvg-logo="https://pic.qingting.fm/2015/0623/20150623154921979.png!200" group-title="Kazakh;News",CNR-17 Kazakh Language Radio
 http://ngcdn025.cnr.cn/live/hygb/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.666scly.com/img/logo/20150623154921979.png" group-title="Kazakh;News",CNR-17 Kazakh Language Radio
@@ -581,11 +577,11 @@ http://ngcdn006.cnr.cn/live/szzs/index.m3u8
 http://ngcdn007.cnr.cn/live/hxzs/index.m3u8
 #EXTINF:-1 tvg-logo="https://pic.qingting.fm/2015/0116/20150116191901411.jpg!200" group-title="Korean;News",CNR-8 Voice of The Nation
 http://ngcdn009.cnr.cn/live/mzzs/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.cnr.cn//favicon.ico" group-title="Culture;Literature",CNR-9 Voice of Literature and Art
+#EXTINF:-1 tvg-logo="http://www.cnr.cn//favicon.ico" group-title="Culture",CNR-9 Voice of Literature and Art
 http://ngcdn010.cnr.cn/live/wyzs/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgsa.baidu.com/forum/w%3D580/sign=12868b75b5b7d0a27bc90495fbed760d/d9c5effe9925bc31e3d2e65f59df8db1ca13701f.jpg" group-title="Culture;Literature",CNR-9 Voice of Literature and Art
+#EXTINF:-1 tvg-logo="https://imgsa.baidu.com/forum/w%3D580/sign=12868b75b5b7d0a27bc90495fbed760d/d9c5effe9925bc31e3d2e65f59df8db1ca13701f.jpg" group-title="Culture",CNR-9 Voice of Literature and Art
 http://satellitepull.cnr.cn/live/wxwyzs/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.cnr.cn//favicon.ico" group-title="News;Uyghur",CNR Uyghur Radio
+#EXTINF:-1 tvg-logo="http://www.cnr.cn//favicon.ico" group-title="News",CNR Uyghur Radio
 http://ngcdn013.cnr.cn/live/wygb/index.m3u8
 #EXTINF:-1 tvg-logo="https://bkimg.cdn.bcebos.com/pic/d000baa1cd11728bc85d899acffcc3cec3fd2c11?x-bce-process=image/watermark,g_7,image_d2F0ZXIvYmFpa2UxODA=,xp_5,yp_5" group-title="News;Cantonese",CNR Hong Kong Voice
 http://ngcdn008.cnr.cn/live/xgzs/index.m3u8
@@ -719,9 +715,9 @@ http://stream3.jlntv.cn/dfgb/playlist.m3u8
 http://live.xmcdn.com/live/1324/64.m3u8
 #EXTINF:-1 tvg-logo="http://www.dggbw.com/favicon.ico" group-title="News;Talk",Donggang Radio Comprehensive Broadcasting
 http://lhttp.qingting.fm/live/5022186/64k.mp3
-#EXTINF:-1 tvg-logo="http://www.dggbw.com/favicon.ico" group-title="Public;Agriculture",Donggang Radio New Rural Broadcasting 107.9
+#EXTINF:-1 tvg-logo="http://www.dggbw.com/favicon.ico" group-title="Public",Donggang Radio New Rural Broadcasting 107.9
 http://lhttp.qingting.fm/live/20965/64k.mp3
-#EXTINF:-1 tvg-logo="http://www.dggbw.com/upload/20210101175911385.jpg" group-title="Agriculture;Public",Donggang Radio New Rural Broadcasting 107.9
+#EXTINF:-1 tvg-logo="http://www.dggbw.com/upload/20210101175911385.jpg" group-title="Public",Donggang Radio New Rural Broadcasting 107.9
 http://live.xmcdn.com/live/346/64.m3u8
 #EXTINF:-1 tvg-logo="http://www.dggbw.com/upload/20210101180024493.jpg" group-title="Traffic;News",Donggang Radio Traffic Broadcasting
 http://live.xmcdn.com/live/347/64.m3u8
@@ -877,7 +873,7 @@ http://live.zohi.tv/audio/s10001-FM876/index.m3u8
 http://lhttp.qingting.fm/live/5026/64k.mp3
 #EXTINF:-1 tvg-logo="http://img.zohi.tv/a/thumb/10001/202001/afe5aee30b02198014f6aff14f07bba5.jpeg!w800_h600.jpeg" group-title="Culture;Lifestyle",Fuzhou Zuohai Voice 90.1
 http://live.zohi.tv/audio/s10001-FM901/index.m3u8
-#EXTINF:-1 tvg-logo="http://img.zohi.tv/a/thumb/10001/202001/afe5aee30b02198014f6aff14f07bba5.jpeg!w800_h600.jpeg" group-title="Culutre;Lifestyle",Fuzhou Zuohai Voice 90.1
+#EXTINF:-1 tvg-logo="http://img.zohi.tv/a/thumb/10001/202001/afe5aee30b02198014f6aff14f07bba5.jpeg!w800_h600.jpeg" group-title="Lifestyle",Fuzhou Zuohai Voice 90.1
 http://lhttp.qingting.fm/live/3937/64k.mp3
 #EXTINF:-1 tvg-logo="https://pic.qingting.fm/2016/0606/20160606150559875.png!200" group-title="News;Business",Gansu Economic Broadcasting 93.4
 http://lhttp.qingting.fm/live/4045/64k.mp3
@@ -887,7 +883,7 @@ http://satellitepull.cnr.cn/live/wxgshhzs/playlist.m3u8
 http://lhttp.qingting.fm/live/5021819/64k.mp3
 #EXTINF:-1 tvg-logo="https://pic.qingting.fm/2020/0521/20200521042916.jpeg!200" group-title="Talk;News",Gansu News Comprehensive Broadcasting
 http://lhttp.qingting.fm/live/5022622/64k.mp3
-#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/4e/5a/4e5a949173821307aecd05404fab9695.jpg" group-title="Lifestyle;Rural",Gansu Rural Radio 92.2
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/4e/5a/4e5a949173821307aecd05404fab9695.jpg" group-title="Lifestyle",Gansu Rural Radio 92.2
 http://lhttp.qingting.fm/live/3941/64k.mp3
 #EXTINF:-1 tvg-logo="https://pic.qingting.fm/2020/0405/20200405122429.jpeg!200" group-title="Traffic;News",Gansu Traffic Broadcasting 103.5
 https://lhttp.qingting.fm/live/3939/64k.mp3
@@ -1087,7 +1083,7 @@ https://stream.hrbtv.net/876pl/playlist.m3u8
 http://ls.qingting.fm/live/837.m3u8
 #EXTINF:-1 tvg-logo="https://bkimg.cdn.bcebos.com/pic/4610b912c8fcc3cec3fd0df9520dc188d43f86948aea?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2U4MA==,g_7,xp_5,yp_5/format,f_auto" group-title="Culture;Education",Harbin Literature and Art Broadcasting 98.4
 https://stream.hrbtv.net/wypl/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://pic.qingting.fm/2013/0128/20130128122251475.jpg" group-title="Literature;Culture",Harbin Literature & Art Radio 98.4
+#EXTINF:-1 tvg-logo="http://pic.qingting.fm/2013/0128/20130128122251475.jpg" group-title="Culture",Harbin Literature & Art Radio 98.4
 http://lhttp.qingting.fm/live/20083/64k.mp3
 #EXTINF:-1 tvg-logo="https://bkimg.cdn.bcebos.com/pic/4610b912c8fcc3cec3fd0df9520dc188d43f86948aea?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2U4MA==,g_7,xp_5,yp_5/format,f_auto" group-title="Rock;Pop",Harbin Music Radio
 https://stream.hrbtv.net/yypl/playlist.m3u8
@@ -1131,7 +1127,7 @@ http://lhttp.qingting.fm/live/20500034/64k.mp3
 http://lhttp.qingting.fm/live/20211600/64k.mp3
 #EXTINF:-1 tvg-logo="https://bkimg.cdn.bcebos.com/pic/b2de9c82d158ccbfc449812819d8bc3eb135412e?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2UyMjA=,g_7,xp_5,yp_5" group-title="News;Talk",Heihe Comprehensive Broadcasting 104.1
 http://live.xmcdn.com/live/2139/64.m3u8
-#EXTINF:-1 tvg-logo="http://pic.qingting.fm/2018/0809/20180809114522.jpeg" group-title="Agriculture;Education",Heilongjiang Agriculture Radio
+#EXTINF:-1 tvg-logo="http://pic.qingting.fm/2018/0809/20180809114522.jpeg" group-title="Education",Heilongjiang Agriculture Radio
 http://stream3.hljtv.com/hljrdnc/sd/live.m3u8
 #EXTINF:-1 tvg-logo="https://pic.qingting.fm/2012/0821/20120821035528889.jpg!200" group-title="Youth;Culture",Heilongjiang Elderly and Children's Radio
 http://satellitepull.cnr.cn/live/wx32hljajgb/playlist.m3u8
@@ -1205,9 +1201,9 @@ https://stream.hndt.com/live/yule/playlist.m3u8
 http://lhttp.qingting.fm/live/21317/64k.mp3
 #EXTINF:-1 tvg-logo="https://bkimg.cdn.bcebos.com/pic/8b13632762d0f7038ea5acb60afa513d2697c540?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2U4MA==,g_7,xp_5,yp_5/format,f_auto" group-title="Traffic;News",Henan Traffic Broadcasting 104.1
 https://stream.hndt.com/live/jiaotong/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.tingfm.com/tingfm/2017/12/20150914094417865.jpg?x-oss-process=image/resize,m_fill,w_200,h_200" group-title="Public;Rural",Henan Rural Radio 107.4
+#EXTINF:-1 tvg-logo="https://cdn.tingfm.com/tingfm/2017/12/20150914094417865.jpg?x-oss-process=image/resize,m_fill,w_200,h_200" group-title="Public",Henan Rural Radio 107.4
 http://lhttp.qingting.fm/live/1218/64k.mp3
-#EXTINF:-1 tvg-logo="https://pic.qingting.fm/2021/0314/20210314060346.jpeg!200" group-title="Public;Rural",Henan Rural Radio 107.4
+#EXTINF:-1 tvg-logo="https://pic.qingting.fm/2021/0314/20210314060346.jpeg!200" group-title="Public",Henan Rural Radio 107.4
 https://stream.hndt.com/live/nongcun/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.zuiaishiting.com/img/radio/ha67.jpg" group-title="Ambient;Relax",Henan Sounds of Nature
 http://stream.hndt.com/live/gudian/playlist.m3u8
@@ -1271,7 +1267,7 @@ http://stream9.jlntv.cn/aac_huadiangb/sd/live.m3u8
 https://lhttp.qingting.fm/live/1263/64k.mp3
 #EXTINF:-1 tvg-logo="https://bkimg.cdn.bcebos.com/pic/11385343fbf2b2114c2cc871c78065380cd78e8b?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2UyNzI=,g_7,xp_5,yp_5" group-title="Variety;News",Huaiyin People's Broadcasting Station
 https://lhttp.qingting.fm/live/5021970/64k.mp3
-#EXTINF:-1 tvg-logo="https://bkimg.cdn.bcebos.com/pic/aec379310a55b319ebc438e510fe9526cffc1e17b95e?x-bce-process=image/resize,m_lfit,w_536,limit_1/quality,Q_70" group-title="Rural;Variety",Huaian Rural Radio
+#EXTINF:-1 tvg-logo="https://bkimg.cdn.bcebos.com/pic/aec379310a55b319ebc438e510fe9526cffc1e17b95e?x-bce-process=image/resize,m_lfit,w_536,limit_1/quality,Q_70" group-title="Variety",Huaian Rural Radio
 https://lhttp.qingting.fm/live/4588/64k.mp3
 #EXTINF:-1 tvg-logo="https://bkimg.cdn.bcebos.com/pic/5366d0160924ab18972b2d02f8b3f1cd7b899e519de6?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2U4MA==,g_7,xp_5,yp_5" group-title="News;Traffic",Huaibei Traffic Broadcasting 100.4
 https://lhttp.qingting.fm/live/20211647/64k.mp3
@@ -1327,7 +1323,7 @@ http://satellitepull.cnr.cn/live/wx32hubzxgb/playlist.m3u8
 http://satellitepull.cnr.cn/live/wx32hubjjgb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pic.rmb.bdstatic.com/bjh/user/6ccbb76febe3969907d8ddd912affe7c.jpeg?x-bce-process=image/resize,m_lfit,w_200,h_200" group-title="Lifestyle;Culture",Hubei Life Broadcasting 96.6
 http://satellitepull.cnr.cn/live/wx32hubczshgb/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pic.rmb.bdstatic.com/bjh/user/6ccbb76febe3969907d8ddd912affe7c.jpeg?x-bce-process=image/resize,m_lfit,w_200,h_200" group-title="Public;Rural",Hubei Rural Radio 91.2
+#EXTINF:-1 tvg-logo="https://pic.rmb.bdstatic.com/bjh/user/6ccbb76febe3969907d8ddd912affe7c.jpeg?x-bce-process=image/resize,m_lfit,w_200,h_200" group-title="Public",Hubei Rural Radio 91.2
 http://satellitepull.cnr.cn/live/wx32hubncgb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://bkimg.cdn.bcebos.com/pic/e7cd7b899e510fb33364e27bd333c895d0430cd8?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2UxNTA=,g_7,xp_5,yp_5/format,f_auto" group-title="Variety;News",Hubei Satellite TV Sound
 http://satellitepull.cnr.cn/live/wx32hubws/playlist.m3u8
@@ -1399,7 +1395,7 @@ http://ls.qingting.fm/live/1888.m3u8
 http://lhttp.qingting.fm/live/1882/64k.mp3
 #EXTINF:-1 tvg-logo="http://img.nmtv.cn/material/live/img/177x130/2017/07/20170730192421Ib2q.png" group-title="News;Talk",Inner Mongolia News Broadcasting
 http://lhttp.qingting.fm/live/1881/64k.mp3
-#EXTINF:-1 tvg-logo="http://img1.qunarzz.com/travel/d7/1704/cf/90704386437418b5.jpg_r_650x433x95_a729f28e.jpg" group-title="Agriculture;Public",Inner Mongolia Rural and Pastoral Area Broadcasting
+#EXTINF:-1 tvg-logo="http://img1.qunarzz.com/travel/d7/1704/cf/90704386437418b5.jpg_r_650x433x95_a729f28e.jpg" group-title="Public",Inner Mongolia Rural and Pastoral Area Broadcasting
 http://satellitepull.cnr.cn/live/wx32nmglyzs/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://img.nmtv.cn/material/live/img/177x130/2017/07/20170730191712sCci.png" group-title="Traffic;News",Inner Mongolia Traffic Voice 105.6
 http://lhttp.qingting.fm/live/1884/64k.mp3
@@ -1743,7 +1739,7 @@ https://lhttp.qtfm.cn/live/5021605/64k.mp3
 https://lhttp.qingting.fm/live/5022648/64k.mp3
 #EXTINF:-1 tvg-logo="https://m.mlzhongguo.com/uploads/image/05/15901167147246.jpg" group-title="News;Talk",Lianyungang Comprehensive Broadcasting 102.1
 http://live.lyg1.com/aac_zhgb/sd/live.m3u8
-#EXTINF:-1 tvg-logo="https://www.programmes-radio.com/media/stream/7daf51c0-0e13-4f26-a735-c2c4921451b9_ABF59512AC58126566B33CA3D7BD2571_20200218559bd1c5cb4c85f966cd8290f0714ddb.jpg" group-title="Rural;Lifestyle",Lianyungang New Rural Broadcasting 90.2
+#EXTINF:-1 tvg-logo="https://www.programmes-radio.com/media/stream/7daf51c0-0e13-4f26-a735-c2c4921451b9_ABF59512AC58126566B33CA3D7BD2571_20200218559bd1c5cb4c85f966cd8290f0714ddb.jpg" group-title="Lifestyle",Lianyungang New Rural Broadcasting 90.2
 http://live.lyg1.com/aac_902/sd/live.m3u8
 #EXTINF:-1 tvg-logo="https://imagev2.xmcdn.com/storages/894e-audiofreehighqps/6C/05/CMCoOSQE2SNTAADECADP2_9H.png!strip=1&quality=7&magick=webp&op_type=5&upload_type=cover&name=web_large&device_type=ios" group-title="Traffic;News",Lianyungang Traffic Broadcasting 92.7
 http://live.xmcdn.com/live/1338/64.m3u8
@@ -1753,7 +1749,7 @@ http://live.lyg1.com/aac_jtgb/sd/live.m3u8
 https://lhttp.qingting.fm/live/20211695/64k.mp3
 #EXTINF:-1 tvg-logo="https://bkimg.cdn.bcebos.com/pic/f31fbe096b63f624518509a18f44ebf81b4ca3b3?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2UxMTY=,g_7,xp_5,yp_5/format,f_auto" group-title="News;Talk",Liaoning Satellite TV Sound
 http://satellitepull.cnr.cn/live/wxlnws/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pic.rmb.bdstatic.com/a4202439ae0aa50b4d50b1804e5de33d.jpeg" group-title="Public;Rural",Liaoning Radio and Television Station Rural Radio
+#EXTINF:-1 tvg-logo="https://pic.rmb.bdstatic.com/a4202439ae0aa50b4d50b1804e5de33d.jpeg" group-title="Public",Liaoning Radio and Television Station Rural Radio
 http://satellitepull.cnr.cn/live/wxlnxcgb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.mp.sohu.com/upload/20151215/3315f860bc664e23bd32d2eb6622e974.jpg" group-title="Traffic;News",Liaoning Radio and Television Station Traffic Radio 97.5
 http://satellitepull.cnr.cn/live/wxlnjtgb/playlist.m3u8
@@ -1829,7 +1825,7 @@ http://stream3.jlntv.cn/lsgb/playlist.m3u8
 https://lhttp.qtfm.cn/live/15318202/64k.mp3
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/lishuiqu.jpg" group-title="Fashion;Pop",Lishui People's Broadcasting Station
 http://live.xmcdn.com/live/2670/64.m3u8
-#EXTINF:-1 tvg-logo="https://pic.qtfm.cn/2019/0401/20190401092110560.jpg" group-title="Literature;Education",Little Novels Radio
+#EXTINF:-1 tvg-logo="https://pic.qtfm.cn/2019/0401/20190401092110560.jpg" group-title="Education",Little Novels Radio
 https://lhttp.qtfm.cn/live/5022348/64k.mp3
 #EXTINF:-1 tvg-logo="https://imgsa.baidu.com/forum/pic/item/f6e0eda85edf8db1ed58a4420023dd54564e7427.jpg" group-title="News;Public",Liuhe Comprehensive Broadcasting
 http://stream3.jlntv.cn/lhgb/playlist.m3u8
@@ -1889,9 +1885,9 @@ https://live.xmcdn.com/live/493/64.m3u8
 https://live.xmcdn.com/live/492/64.m3u8
 #EXTINF:-1 tvg-logo="https://www.allradio.net/500/n2kxM8UQD7zFWR_YuuWav.webp" group-title="Variety;News",Luquan People's Broadcasting Station 99.9
 http://lhttp.qingting.fm/live/20211668/64k.mp3
-#EXTINF:-1 tvg-logo="https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_294155187adbe51c408f7e2d7142d143.jpeg?from=2956013662" group-title="Pop;Rural",Luzhou Agricultural Economic Life Broadcasting
+#EXTINF:-1 tvg-logo="https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_294155187adbe51c408f7e2d7142d143.jpeg?from=2956013662" group-title="Pop",Luzhou Agricultural Economic Life Broadcasting
 http://lhttp.qingting.fm/live/5021565/64k.mp3
-#EXTINF:-1 tvg-logo="http://www.666scly.com/img/logo/2015021016132358.jpg" group-title="Rural;Pop",Luzhou Agricultural Economic Life Broadcasting
+#EXTINF:-1 tvg-logo="http://www.666scly.com/img/logo/2015021016132358.jpg" group-title="Pop",Luzhou Agricultural Economic Life Broadcasting
 http://live.cms.luzhoubs.com/audio/s10001-fm1038/index.m3u8
 #EXTINF:-1 tvg-logo="https://bkimg.cdn.bcebos.com/pic/4ec2d5628535e5dde711f41c7d8ab0efce1b9c16c496?x-bce-process=image/resize,m_lfit,w_536,limit_1/quality,Q_70" group-title="News;Talk",Luzhou Comprehensive Broadcasting
 http://lhttp.qingting.fm/live/5021557/64k.mp3
@@ -1911,7 +1907,7 @@ https://lhttp.qtfm.cn/live/15318587/64k.mp3
 http://lhttp.qingting.fm/live/20211714/64k.mp3
 #EXTINF:-1 tvg-logo="https://pic.qingting.fm/sso/198/1608196901101_iZPkG6G9t.jpeg!200" group-title="News;Talk",Maoming Comprehensive Broadcasting 101.1
 http://lhttp.qingting.fm/live/20500088/64k.mp3
-#EXTINF:-1 tvg-logo="https://pic.qingting.fm/2018/1031/20181031064412.jpeg!200" group-title="Rural;Variety",Maoming Rural Voice
+#EXTINF:-1 tvg-logo="https://pic.qingting.fm/2018/1031/20181031064412.jpeg!200" group-title="Variety",Maoming Rural Voice
 https://lhttp.qingting.fm/live/20211714/64k.mp3
 #EXTINF:-1 tvg-logo="https://pic.qingting.fm/2017/1117/20171117123448.png!200" group-title="Traffic;News",Maoming Traffic Broadcasting 93.5
 https://lhttp.qingting.fm/live/20211574/64k.mp3
@@ -2075,9 +2071,9 @@ https://live.xmcdn.com/live/1069/64.m3u8
 https://live.xmcdn.com/live/1331/64.m3u8
 #EXTINF:-1 tvg-logo="https://imagev2.xmcdn.com/group78/M06/4C/1F/wKgO4F6OspSz5LMrAAE1Ap0mnVw867.png!strip=1&quality=7&magick=webp&op_type=5&upload_type=cover&name=web_large&device_type=ios" group-title="News;Talk",Panzhihua Comprehensive Broadcasting
 http://live.xmcdn.com/live/1064/64.m3u8
-#EXTINF:-1 tvg-logo="http://www.dt968.com/202001/15/fYXMWB1V6KITFqes2JNR.jpg" group-title="Rural;Variety",Panzhihua Radio To Farmers
+#EXTINF:-1 tvg-logo="http://www.dt968.com/202001/15/fYXMWB1V6KITFqes2JNR.jpg" group-title="Variety",Panzhihua Radio To Farmers
 http://live.xmcdn.com/live/770/64.m3u8
-#EXTINF:-1 tvg-logo="https://pic.qingting.fm/device/77be98bbea1845bab59af8e3ce5d9040/1605256774167_s7V7SWNON.jpeg" group-title="Variety;Rural",Panzhihua Traffic Music Broadcasting
+#EXTINF:-1 tvg-logo="https://pic.qingting.fm/device/77be98bbea1845bab59af8e3ce5d9040/1605256774167_s7V7SWNON.jpeg" group-title="Variety",Panzhihua Traffic Music Broadcasting
 http://live.xmcdn.com/live/770/64.m3u8?
 #EXTINF:-1 tvg-logo="https://img11.iqilu.com/109/app//2019/10/08/360c092a7a8d8d6f4241f4ee7baad885.png" group-title="News;Talk",Penglai District Radio and Television Station 101.9
 https://jsyaudiolive302.iqilu.com/live/penglai_audio/index.m3u8
@@ -2193,13 +2189,13 @@ http://lhttp.qingting.fm/live/20211564/64k.mp3
 http://lhttp.qingting.fm/live/15318668/64k.mp3
 #EXTINF:-1 tvg-logo="http://www.qyxbtv.com/favicon.ico" group-title="Variety;Talk",Qingyuan People's Broadcasting Station
 http://lhttp.qingting.fm/live/5021803/64k.mp3
-#EXTINF:-1 tvg-logo="https://pic.qingting.fm/2016/1222/20161222145239824.jpg!200" group-title="Rural;Lifestyle",Qingyuan Rural Radio 97.8
+#EXTINF:-1 tvg-logo="https://pic.qingting.fm/2016/1222/20161222145239824.jpg!200" group-title="Lifestyle",Qingyuan Rural Radio 97.8
 http://lhttp.qingting.fm/live/15318679/64k.mp3
 #EXTINF:-1 tvg-logo="https://pic.qingting.fm/sso/198/1594014939597_JRQgVpilz.png!200" group-title="News;Traffic",Qingyuan Traffic Music Broadcasting 95.9
 http://lhttp.qingting.fm/live/20500067/64k.mp3
 #EXTINF:-1 tvg-logo="http://pic.qingting.fm/2015/0924/20150924172703462.jpg" group-title="Rock;Pop",Qingzhou Comprehensive Broadcasting 95.4
 http://sdqz.chinashadt.com:2036/live/stream:4.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://5b0988e595225.cdn.sohucs.com/images/20190522/56f794e80e444c34980d16c5e2b9b0e5.jpeg" group-title="Lifestyle;Rural",Qinhuangdao Radio To Farmers
+#EXTINF:-1 tvg-logo="http://5b0988e595225.cdn.sohucs.com/images/20190522/56f794e80e444c34980d16c5e2b9b0e5.jpeg" group-title="Lifestyle",Qinhuangdao Radio To Farmers
 https://live.xmcdn.com/live/1129/64.m3u8
 #EXTINF:-1 tvg-logo="https://imagev2.xmcdn.com/group77/M08/8E/B3/wKgO316Cssbx7woWAAAygHu72GE739.png!strip=1&quality=7&magick=webp&op_type=5&upload_type=cover&name=web_large&device_type=ios" group-title="Sports;Talk",Qinhuangdao Sports Music Radio 97.3
 https://live.xmcdn.com/live/522/64.m3u8
@@ -2295,7 +2291,7 @@ http://satellitepull.cnr.cn/live/wxsxxxwgb/playlist.m3u8
 http://satellitepull.cnr.cn/live/wxsxxxqgb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ss0.baidu.com/6ONWsjip0QIZ8tyhnq/it/u=1597539974,3133051276&fm=199&app=68&f=JPEG?w=750&h=750&s=CCA5537E8403A5ED1D1392B90200501F" group-title="Education;Culture",Shaanxi Qinqiang Radio
 https://live.xmcdn.com/live/871/64.m3u8
-#EXTINF:-1 tvg-logo="https://pic.qingting.fm/2016/0407/20160407163025159.png!200" group-title="News;Rural",Shaanxi Rural Radio 104.9/900
+#EXTINF:-1 tvg-logo="https://pic.qingting.fm/2016/0407/20160407163025159.png!200" group-title="News",Shaanxi Rural Radio 104.9/900
 http://satellitepull.cnr.cn/live/wxsxxncgb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pic.qingting.fm/2020/0410/20200410094502.jpeg!200" group-title="Youth;Pop",Shaanxi Youth Broadcasting 105.5
 http://satellitepull.cnr.cn/live/wxsxxqcgb/playlist.m3u8
@@ -2521,7 +2517,7 @@ http://lhttp.qingting.fm/live/21325/64k.mp3
 http://www.vos.com.cn/live/liveSh/800k/tzwj_video.m3u8
 #EXTINF:-1 tvg-logo="https://5b0988e595225.cdn.sohucs.com/q_70,c_zoom,w_640/images/20190509/1f73c3983ee04905983cad105b24ff36.jpeg" group-title="News;Talk",Suining Comprehensive Broadcasting
 http://play.sngdxsn.com/live/xwgs/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://5b0988e595225.cdn.sohucs.com/q_70,c_zoom,w_640/images/20190509/789167b873f94e028555d2f97a9ae938.jpeg" group-title="Rural;Pop",Suining Rural Radio
+#EXTINF:-1 tvg-logo="https://5b0988e595225.cdn.sohucs.com/q_70,c_zoom,w_640/images/20190509/789167b873f94e028555d2f97a9ae938.jpeg" group-title="Pop",Suining Rural Radio
 http://play.sngdxsn.com/live/878ncgb/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.sctv.com/szzq/zdh/201808/W020181109642712630344.jpg" group-title="Lifestyle;Tourism",Suining Traffic and Tourism Broadcasting 106.5
 http://play.sngdxsn.com/live/jtly/playlist.m3u8
@@ -2705,11 +2701,11 @@ https://lhttp.qingting.fm/live/20211615/64k.mp3
 http://lhttp.qingting.fm/live/15318160/64k.mp3
 #EXTINF:-1 tvg-logo="http://pic.qingting.fm/2017/1201/20171201035006.jpeg!200" group-title="News;Talk",Tongxiang People's Broadcasting Station
 http://lhttp.qingting.fm/live/5021791/64k.mp3
-#EXTINF:-1 tvg-logo="https://imgsa.baidu.com/forum/pic/item/efbfbbefce1b9d1604ad4e36f3deb48f8d5464fd.jpg" group-title="Rural;News",Tongyu Comprehensive Broadcasting
+#EXTINF:-1 tvg-logo="https://imgsa.baidu.com/forum/pic/item/efbfbbefce1b9d1604ad4e36f3deb48f8d5464fd.jpg" group-title="News",Tongyu Comprehensive Broadcasting
 http://stream7.jlntv.cn/tygb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pic.qingting.fm/2017/1214/20171214095832.jpeg!200" group-title="News;Talk",Tongzhou People's Broadcasting Station-2 Sunshine Broadcasting
 http://lhttp.qingting.fm/live/20211586/64k.mp3
-#EXTINF:-1 tvg-logo="http://www.haoqu.net/d/file/2016/1111/beb966fa172b9d2ee2920e89e6002b21.jpg" group-title="News;Kewichow",Tsiensinan News Radio
+#EXTINF:-1 tvg-logo="http://www.haoqu.net/d/file/2016/1111/beb966fa172b9d2ee2920e89e6002b21.jpg" group-title="News",Tsiensinan News Radio
 http://live.qxndt.com/channel9/sd/live.m3u8
 #EXTINF:-1 tvg-logo="http://pic.qingting.fm/2015/0924/20150924172703462.jpg" group-title="News;Talk",Tsingchow News Radio
 http://sdqz.chinashadt.com:2036/live/4.stream/playlist.m3u8
@@ -2747,7 +2743,7 @@ https://lhttp.qingting.fm/live/1918/64k.mp3
 https://lhttp.qingting.fm/live/1920/64k.mp3
 #EXTINF:-1 tvg-logo="http://pic.qingting.fm/2015/0311/20150311154831773.jpg" group-title="News;Traffic",Urumqi Traffic Radio 97.4
 https://lhttp.qtfm.cn/live/1919/64k.mp3
-#EXTINF:-1 tvg-logo="http://www.666scly.com/img/logo/20110926112508788.jpg" group-title="News;Uighur",Urumqi Uighur Radio
+#EXTINF:-1 tvg-logo="http://www.666scly.com/img/logo/20110926112508788.jpg" group-title="News",Urumqi Uighur Radio
 https://lhttp.qtfm.cn/live/1923/64k.mp3
 #EXTINF:-1 tvg-logo="https://pic.qingting.fm/2017/0331/20170331024601.png" group-title="Internet;Variety",Voice Controlled Radio
 https://lhttp.qingting.fm/live/15318519/64k.mp3
@@ -2905,7 +2901,7 @@ https://lhttp.qingting.fm/live/20207780/64k.mp3
 http://lhttp.qingting.fm/live/1157/64k.mp3
 #EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/zhibo-fm/wenzhou-music.png" group-title="Traffic;Variety",Wenzhou Private Car Music Broadcast 100.3
 http://lhttp.qingting.fm/live/1149/64k.mp3
-#EXTINF:-1 tvg-logo="http://www.dt968.com/201911/27/2019112716544257688.jpg" group-title="Rural;Lifestyle",Wenzhou Radio To Farmers 93.8
+#EXTINF:-1 tvg-logo="http://www.dt968.com/201911/27/2019112716544257688.jpg" group-title="Lifestyle",Wenzhou Radio To Farmers 93.8
 http://lhttp.qingting.fm/live/1158/64k.mp3
 #EXTINF:-1 tvg-logo="http://file02.sg560.com/upimg02/2015/02/06/14502351916945.jpg" group-title="Traffic;News",Wenzhou Traffic Broadcasting 103.9
 http://lhttp.qingting.fm/live/1156/64k.mp3
@@ -3049,9 +3045,9 @@ https://live.xmcdn.com/live/989/64.m3u8
 https://live.xmcdn.com/live/992/64.m3u8
 #EXTINF:-1 tvg-logo="http://pic.qtfm.cn/2013/channel_logo/1910.jpg!200" group-title="News;Traffic",Xinjiang Traffic Broadcasting 94.9
 http://satellitepull.cnr.cn/live/wxxjjtgb/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576572218290.png" group-title="News;Uighur",Xinjiang Uighur Comprehensive Broadcasting 855/101.7
+#EXTINF:-1 tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576572218290.png" group-title="News",Xinjiang Uighur Comprehensive Broadcasting 855/101.7
 http://satellitepull.cnr.cn/live/wxxjwyzhgb/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576572230770.png" group-title="Uighur;Culture",Xinjiang Uighur Literature and Art Broadcasting 107.4
+#EXTINF:-1 tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576572230770.png" group-title="Culture",Xinjiang Uighur Literature and Art Broadcasting 107.4
 http://satellitepull.cnr.cn/live/wxxjwyjtwygb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pic.qtfm.cn/2015/0801/20150801173409638.jpg!200" group-title="News;Talk",Xinmin People's Broadcasting Station
 http://live.xmcdn.com/live/2064/64.m3u8
@@ -3101,7 +3097,7 @@ https://lhttp.qingting.fm/live/4923/64k.mp3
 https://lhttp.qingting.fm/live/4922/64k.mp3
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s112619d.png" group-title="Pop;News",Xuzhou News Radio 1269/93.0
 http://lhttp.qingting.fm/live/4923/64k.mp3
-#EXTINF:-1 tvg-logo="https://bkimg.cdn.bcebos.com/pic/80cb39dbb6fd526643dd334ca418972bd50736f7?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2U4MA==,g_7,xp_5,yp_5" group-title="Rural;Variety",Xuzhou Rural Radio 105.0
+#EXTINF:-1 tvg-logo="https://bkimg.cdn.bcebos.com/pic/80cb39dbb6fd526643dd334ca418972bd50736f7?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2U4MA==,g_7,xp_5,yp_5" group-title="Variety",Xuzhou Rural Radio 105.0
 https://lhttp.qingting.fm/live/20211623/64k.mp3
 #EXTINF:-1 tvg-logo="https://bkimg.cdn.bcebos.com/pic/80cb39dbb6fd526643dd334ca418972bd50736f7?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2U4MA==,g_7,xp_5,yp_5" group-title="News;Traffic",Xuzhou Traffic Broadcasting 103.3
 https://lhttp.qingting.fm/live/4924/64k.mp3
@@ -3129,7 +3125,7 @@ http://live.xmcdn.com/live/594/64.m3u8
 http://live.xmcdn.com/live/1340/64.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/China_National_Radio.svg/800px-China_National_Radio.svg.png" group-title="Folk;Oldies",Yancheng People's Broadcasting Station
 http://lhttp.qingting.fm/live/15318300/64k.mp3
-#EXTINF:-1 tvg-logo="https://pic.qingting.fm/2017/0707/20170707091632.png!200" group-title="Rural;Lifestyle",Yancheng Rural Radio 88.2
+#EXTINF:-1 tvg-logo="https://pic.qingting.fm/2017/0707/20170707091632.png!200" group-title="Lifestyle",Yancheng Rural Radio 88.2
 http://live.xmcdn.com/live/596/64.m3u8
 #EXTINF:-1 tvg-logo="https://pic.qtfm.cn/2019/0710/20190710074446.jpeg!200" group-title="News;Talk",Yangjiang Comprehensive Broadcasting
 https://live.yjtvw.com:8081/live/fm916.stream_audio/playlist.m3u8
@@ -3337,7 +3333,7 @@ http://lhttp.qingting.fm/live/5021761/64k.mp3
 http://lhttp.qingting.fm/live/20022/64k.mp3
 #EXTINF:-1 tvg-logo="http://www.zjgonline.com.cn/img/hdbtp/2017/4/29/1493430659_504.jpg" group-title="News;Talk",Zhangjiagang People's Broadcasting Station 102.0
 http://live.xmcdn.com/live/585/64.m3u8
-#EXTINF:-1 tvg-logo="http://pic.qingting.fm/2015/0213/20150213151934431.png" group-title="Rural;Oldies",Zhangjiakou Agricultural Economic Broadcasting
+#EXTINF:-1 tvg-logo="http://pic.qingting.fm/2015/0213/20150213151934431.png" group-title="Oldies",Zhangjiakou Agricultural Economic Broadcasting
 https://lhttp.qtfm.cn/live/5021507/64k.mp3
 #EXTINF:-1 tvg-logo="http://tiebapic.baidu.com/forum/pic/item/17d83df81a4c510fefe5baf42559252dd52aa55c.jpg" group-title="Rock;Pop",Zhangjiakou City Life Radio 98.6
 https://lhttp.qtfm.cn/live/5021801/64k.mp3

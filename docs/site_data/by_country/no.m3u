@@ -11,7 +11,7 @@ http://n03.radiojar.com/6bmecgg3wd5tv?rj-ttl=5&rj-tok=AAABfdrz9xUAvhfzV6YI7frArw
 https://live-bauerno.sharp-stream.com/kiss_no_mp3
 #EXTINF:-1 tvg-logo="https://assets.planetradio.co.uk/img/ConfigWebListenBarLogoImageUrl/171.jpg" group-title="electro;house",KISS Radio
 http://live-bauerno.sharp-stream.com/kiss_no_hq
-#EXTINF:-1 tvg-logo="https://www.metalexpressradio.com/wp-content/uploads/2015/10/cropped-MER-icon-300x300.png" group-title="hard;rock",Metal Express Radio
+#EXTINF:-1 tvg-logo="https://www.metalexpressradio.com/wp-content/uploads/2015/10/cropped-MER-icon-300x300.png" group-title="rock",Metal Express Radio
 http://5.135.154.69:11590/listen.pls
 #EXTINF:-1 tvg-logo="https://nearadio.no/filarkiv/system/fallbackimg_NR_logo_tekst_under.gif" group-title="world;pop;folk",Nea Radio 104.7
 http://nettradio.nearadio.no:8000/stream
@@ -95,16 +95,12 @@ http://lyd.nrk.no/nrk_radio_p1_trondelag_mp3_h?_hdr=0
 http://lyd.nrk.no/nrk_radio_p1_trondelag_mp3_l
 #EXTINF:-1 tvg-logo="https://www.p4.no/favicon.ico" group-title="pop;hits",NRK P1 Trondelag
 http://lyd.nrk.no/nrk_radio_p1_trondelag_aac_l
-#EXTINF:-1 tvg-logo="https://radio.nrk.no/dist/favicons/apple-touch-icon.png" group-title="underholdning;",NRK P1 Vestfold
-http://lyd.nrk.no/nrk_radio_p1_vestfold_mp3_h?_hdr=0
 #EXTINF:-1 tvg-logo="http://nrk.no//assets/apple-touch-icon.png" group-title="oldies;hits",NRK P1+
 http://lyd.nrk.no/nrk_radio_p1pluss_aac_h?_hdr=0
 #EXTINF:-1 tvg-logo="https://radio.nrk.no/dist/favicons/apple-touch-icon.png" group-title="oldies;hits",NRK P1+
 http://lyd.nrk.no/nrk_radio_p1pluss_mp3_h?_hdr=0
 #EXTINF:-1 tvg-logo="https://radio.nrk.no/dist/favicons/apple-touch-icon.png" group-title="oldies;hits",NRK P1+
 http://lyd.nrk.no/nrk_radio_p1pluss_mp3_l?_hdr=0
-#EXTINF:-1 tvg-logo="http://nrk.no//assets/apple-touch-icon.png" group-title=";",NRK P13
-http://lyd.nrk.no/nrk_radio_p13_aac_h?_hdr=0
 #EXTINF:-1 tvg-logo="https://radio.nrk.no/dist/favicons/apple-touch-icon.png" group-title="alternative;rock",NRK P13
 http://lyd.nrk.no/nrk_radio_p13_mp3_h
 #EXTINF:-1 tvg-logo="https://radio.nrk.no/dist/favicons/apple-touch-icon.png" group-title="alternative;rock",NRK P13
@@ -127,9 +123,9 @@ http://lyd.nrk.no/nrk_radio_p3_urort_aac_h?_hdr=0
 http://lyd.nrk.no/nrk_radio_p3_urort_mp3_h?_hdr=0
 #EXTINF:-1 tvg-logo="http://nrk.no//assets/apple-touch-icon.png" group-title="hip hop;r'n'b",NRK P3X
 http://lyd.nrk.no/nrk_radio_p3x_aac_h?_hdr=0
-#EXTINF:-1 tvg-logo="http://nrk.no//assets/apple-touch-icon.png" group-title="sami;talk;world",NRK Sapmi
+#EXTINF:-1 tvg-logo="http://nrk.no//assets/apple-touch-icon.png" group-title="talk;world",NRK Sapmi
 http://lyd.nrk.no/nrk_radio_sami_aac_h?_hdr=0
-#EXTINF:-1 tvg-logo="http://static.radio.net/images/broadcasts/03/7c/13104/c175.png" group-title="sami;talk;world",NRK Sapmi
+#EXTINF:-1 tvg-logo="http://static.radio.net/images/broadcasts/03/7c/13104/c175.png" group-title="talk;world",NRK Sapmi
 http://lyd.nrk.no/nrk_radio_sami_mp3_h?_hdr=0
 #EXTINF:-1 tvg-logo="http://nrk.no//assets/apple-touch-icon.png" group-title="sports;talk",NRK Sport
 http://lyd.nrk.no/nrk_radio_sport_aac_h?_hdr=0

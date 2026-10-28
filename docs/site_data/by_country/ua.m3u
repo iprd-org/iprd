@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://www.20ftradio.net/favicon.ico" group-title="ambient;eclectic;electronic",20ft Radio
 https://c18.radioboss.fm:18146/stream
-#EXTINF:-1 tvg-logo="https://brokenbeats.net/unknown_track.png" group-title="atmospheric;downtempo;drum'n'bass",Brokenbeats
+#EXTINF:-1 tvg-logo="https://brokenbeats.net/unknown_track.png" group-title="downtempo;drum'n'bass",Brokenbeats
 https://stream.brokenbeats.net/tune
 #EXTINF:-1 tvg-logo="https://pickasso.spotifycdn.com/image/ab67c0de0000deef/dt/v1/img/radio/artist/452pQWCpA6zviPsVMu297Y/en" group-title="mashup;pop",Radio BumbleBee
 http://live.bumblebeefm.ru:8000/radio
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s131672/images/logog.png?t=1706893742000" group-title="dance;dj;mixes",DJFM 96.8
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s131672/images/logog.png?t=1706893742000" group-title="dance;mixes",DJFM 96.8
 https://cast.brg.ua/djfm96.aacp
 #EXTINF:-1 tvg-logo="https://svitle.org/images/svitle2016.png" group-title="christian;religious",Emmanuel Svitle Radio 67.28
 https://online.svitle.org/hls/svitle/aac_hifi.m3u8
@@ -13,11 +13,11 @@ https://online.svitle.org/hls/svitle/aac_hifi.m3u8
 http://everhoof.ru:8000/320
 #EXTINF:-1 tvg-logo="https://www.galychyna.fm/wp-content/uploads/2017/12/favicon.png" group-title="world;ukrainian;variety",Galychyna 89.7 FM
 https://stream320.galychyna.fm/live
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s198479d.png" group-title="alternative;hard;rock",Fresh Rock
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s198479d.png" group-title="alternative;rock",Fresh Rock
 http://stream.freshrock.net/320.mp3
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s198479d.png" group-title="alternative;hard;rock",Fresh Rock
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s198479d.png" group-title="alternative;rock",Fresh Rock
 http://stream.freshrock.net/24.aac
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s198479d.png" group-title="alternative;rock;hard",Fresh Rock
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s198479d.png" group-title="alternative;rock",Fresh Rock
 http://stream.freshrock.net/128.mp3
 #EXTINF:-1 tvg-logo="https://www.hitfm.ua/static/img/fav-icon/apple-icon-120x120.png" group-title="dance;pop;rock",Hit FM
 http://online.hitfm.ua/HitFM
@@ -89,7 +89,7 @@ https://radio-stream-2.obozrevatel.com/Trash_Metal128.mp3
 http://195.95.206.13:8000/RadioROKS
 #EXTINF:-1 tvg-logo="https://www.radioroks.ua/static/img/header_icons_new/roks_logo_new.png" group-title="oldies;rock",Radio ROKS Ballads
 http://online.radioroks.ua/RadioROKS_Ballads_HD
-#EXTINF:-1 tvg-logo="https://www.radioroks.ua/static/img/header_icons_new/roks_logo_new.png" group-title="hard;rock;heavy",Radio ROKS Hard'n'Heavy
+#EXTINF:-1 tvg-logo="https://www.radioroks.ua/static/img/header_icons_new/roks_logo_new.png" group-title="rock;heavy",Radio ROKS Hard'n'Heavy
 http://online.radioroks.ua/RadioROKS_HardnHeavy_HD
 #EXTINF:-1 tvg-logo="https://www.radioroks.ua/static/img/header_icons_new/roks_logo_new.png" group-title="rock;world",Radio ROKS HD
 http://online.radioroks.ua/RadioROKS_HD
@@ -207,7 +207,7 @@ http://radio.ukr.radio:8000/ur3-aacplus-l
 http://icecastdc.luxnet.ua/maximum_mp3_128
 #EXTINF:-1 tvg-logo="https://static.tildacdn.com/tild6239-3965-4231-b034-643462643336/apple-icon-152x152.png" group-title="news;talk",Radio NV 96.0
 https://online-radio.nv.ua/radionv.mp3
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/245/radio-prishchepkin.5c550f0b.png" group-title="fresh;pop;top 40",Radio Pryshchepkin
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/245/radio-prishchepkin.5c550f0b.png" group-title="pop;top 40",Radio Pryshchepkin
 http://radio.ukraudio.com:8000/channel4
 #EXTINF:-1 tvg-logo="https://promin.fm/inc/img/apple-touch-icon.png" group-title="news;talk;world",Radio Promin 97.2
 http://radio.ukr.radio:8000/ur2-mp3-m
@@ -327,11 +327,11 @@ http://radio.ukr.radio:8000/ur1-km-mp3-m
 http://radio.ukr.radio:8000/ur1-km-mp3
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO2et2NP9fKveEWYY2LcnRkNBp3eoLRDoUuQ&s" group-title="news;talk",Podillia-Center
 http://radio.ukr.radio:8000/ur1-km-aacplus
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4dhqNxkd-Exa1GVbVQf4V8KfKc-gqOlgJpQ&s" group-title="electronic;dj;mixes",Pulse
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4dhqNxkd-Exa1GVbVQf4V8KfKc-gqOlgJpQ&s" group-title="electronic;mixes",Pulse
 http://radio.ukr.radio:8000/pulsfm-mp3-m
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4dhqNxkd-Exa1GVbVQf4V8KfKc-gqOlgJpQ&s" group-title="electronic;dj;mixes",Pulse
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4dhqNxkd-Exa1GVbVQf4V8KfKc-gqOlgJpQ&s" group-title="electronic;mixes",Pulse
 http://radio.ukr.radio:8000/pulsfm-mp3
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4dhqNxkd-Exa1GVbVQf4V8KfKc-gqOlgJpQ&s" group-title="electronic;dj;mixes",Pulse
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4dhqNxkd-Exa1GVbVQf4V8KfKc-gqOlgJpQ&s" group-title="electronic;mixes",Pulse
 http://radio.ukr.radio:8000/pulsfm-aacplus
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/y-yhVjNZ5cs/sddefault.jpg?v=5eecbe81" group-title="news;talk",Rivne 87.8
 http://radio.ukr.radio:8000/ur1-rv-mp3-m
