@@ -1,5 +1,5 @@
 {
-  "total_stations": 24434,
+  "total_stations": 24499,
   "total_countries": 225,
   "countries": [
     {
@@ -19,12 +19,12 @@
       "count": 1267
     },
     {
-      "code": "CA",
-      "count": 1140
+      "code": "CO",
+      "count": 1166
     },
     {
-      "code": "CO",
-      "count": 1101
+      "code": "CA",
+      "count": 1140
     },
     {
       "code": "CL",
@@ -908,39 +908,39 @@
     "top_genres": [
       {
         "name": "pop",
-        "count": 5043
+        "count": 5046
       },
       {
         "name": "news",
-        "count": 4369
+        "count": 4375
       },
       {
         "name": "talk",
-        "count": 3530
+        "count": 3532
       },
       {
         "name": "hits",
-        "count": 3190
+        "count": 3191
       },
       {
         "name": "rock",
-        "count": 2492
+        "count": 2493
       },
       {
         "name": "world",
-        "count": 1986
+        "count": 1990
       },
       {
         "name": "variety",
-        "count": 1896
+        "count": 1905
       },
       {
         "name": "oldies",
-        "count": 1217
+        "count": 1218
       },
       {
         "name": "christian",
-        "count": 1117
+        "count": 1123
       },
       {
         "name": "contemporary",
@@ -948,27 +948,27 @@
       },
       {
         "name": "dance",
-        "count": 1047
+        "count": 1049
       },
       {
         "name": "80s",
-        "count": 948
+        "count": 953
       },
       {
         "name": "top 40",
-        "count": 904
+        "count": 905
       },
       {
         "name": "community",
-        "count": 895
+        "count": 900
       },
       {
         "name": "folk",
-        "count": 826
+        "count": 830
       },
       {
         "name": "classical",
-        "count": 679
+        "count": 683
       },
       {
         "name": "adult",
@@ -976,15 +976,15 @@
       },
       {
         "name": "alternative",
-        "count": 667
+        "count": 672
       },
       {
         "name": "90s",
-        "count": 661
+        "count": 667
       },
       {
         "name": "religious",
-        "count": 653
+        "count": 655
       },
       {
         "name": "jazz",
@@ -1000,23 +1000,23 @@
       },
       {
         "name": "culture",
-        "count": 526
+        "count": 540
       },
       {
         "name": "sports",
-        "count": 496
+        "count": 497
       },
       {
         "name": "country",
         "count": 478
       },
       {
-        "name": "70s",
-        "count": 402
+        "name": "latino",
+        "count": 406
       },
       {
-        "name": "latino",
-        "count": 399
+        "name": "70s",
+        "count": 402
       },
       {
         "name": "ambient",
@@ -1035,12 +1035,12 @@
         "count": 350
       },
       {
-        "name": "indie",
-        "count": 311
+        "name": "latin",
+        "count": 314
       },
       {
-        "name": "latin",
-        "count": 306
+        "name": "indie",
+        "count": 311
       },
       {
         "name": "blues",
@@ -1055,20 +1055,20 @@
         "count": 265
       },
       {
+        "name": "salsa",
+        "count": 255
+      },
+      {
         "name": "r'n'b",
-        "count": 251
+        "count": 252
       },
       {
         "name": "gospel",
-        "count": 245
+        "count": 246
       },
       {
         "name": "chillout",
         "count": 245
-      },
-      {
-        "name": "salsa",
-        "count": 242
       },
       {
         "name": "npr",
@@ -1096,7 +1096,7 @@
       },
       {
         "name": "metal",
-        "count": 200
+        "count": 201
       },
       {
         "name": "urban",
@@ -1108,5 +1108,5 @@
       }
     ]
   },
-  "updated": "2026-11-18T06:53:26Z"
+  "updated": "2026-11-25T07:57:05Z"
 }
